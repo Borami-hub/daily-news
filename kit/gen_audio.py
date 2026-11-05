@@ -6,7 +6,8 @@ Needs:  pip install --break-system-packages kokoro-onnx soundfile ; ffmpeg on PA
 Model files are downloaded once into ./tts-model/ from the kokoro-onnx GitHub release.
 Output: audio/<date>/a{n}-p{i}.mp3 (paragraphs), a{n}-w-*.mp3 / a{n}-ex-*.mp3 (words, examples),
         a{n}-ks{i}.mp3 (key sentences); the day file gets an "audio" map {text: path}.
-        Each article is read by a different narrator (see POOL); delete audio/<date>/ to regenerate.
+        Each article's paragraphs and key sentences are read by a rotating narrator (see POOL); words
+        and example sentences always use WORD_VOICE; delete audio/<date>/ to regenerate.
 """
 import json, os, re, subprocess, sys, urllib.request
 
@@ -16,6 +17,9 @@ MODEL_DIR = "tts-model"
 # (TOEFL listening uses several accents too). Best-sounding Kokoro voices only.
 POOL = ["af_heart", "am_michael", "bf_emma", "am_fenrir", "af_bella", "bm_george",
         "af_nicole", "am_puck", "bf_isabella", "bm_fable", "af_sarah", "am_echo"]
+
+# Words and their example sentences always use one very clear US voice, so pronunciation is consistent.
+WORD_VOICE = "af_heart"
 
 def voice_for(date, article_no):
     import datetime
@@ -39,11 +43,12 @@ def main(day_path):
     amap = {}
 
     voice = POOL[0]
-    def gen(text, name, speed=0.95):
+    def gen(text, name, speed=0.95, v=None):
+        v = v or voice
         path = f"{out}/{name}.mp3"
         if not os.path.exists(path):
-            lang = "en-gb" if voice.startswith("b") else "en-us"
-            samples, sr = k.create(text, voice=voice, speed=speed, lang=lang)
+            lang = "en-gb" if v.startswith("b") else "en-us"
+            samples, sr = k.create(text, voice=v, speed=speed, lang=lang)
             sf.write("_tmp.wav", samples, sr)
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "_tmp.wav", "-ac", "1", "-b:a", "48k", path], check=True)
         amap[text] = path
@@ -54,7 +59,7 @@ def main(day_path):
         for pi, p in enumerate(a["paras"], 1): gen(p, f"a{ai}-p{pi}")
         for w in a["words"]:
             slug = re.sub(r"[^a-z]+", "-", w["w"].lower()).strip("-")
-            gen(w["w"], f"a{ai}-w-{slug}", 0.85); gen(w["ex"], f"a{ai}-ex-{slug}")
+            gen(w["w"], f"a{ai}-w-{slug}", 0.85, WORD_VOICE); gen(w["ex"], f"a{ai}-ex-{slug}", 0.9, WORD_VOICE)
         for si, ks in enumerate(a.get("keySentences", []), 1): gen(ks["text"], f"a{ai}-ks{si}")
     day["audio"] = amap
     json.dump(day, open(day_path, "w"), ensure_ascii=False, indent=1)
