@@ -18,6 +18,3 @@ files to WeChat Cloud, keeping the same paths without the `content/` prefix.
 **Secrets** (Settings → Secrets and variables → Actions): `WX_APPID`, `WX_APPSECRET`, `TCB_ENV_ID`.
 Until they are set, the Action skips the upload. After adding them, run the Action once by hand
 (Actions → Upload content to WeChat Cloud → Run workflow, tick "all") to upload the back catalogue.
-
-**A2 version.** `content/a2/` (web: https://borami-hub.github.io/daily-news/a2/) and `kit/a2/` hold the
-A2 / junior-high version: original syllabus texts plus a Grammar module. See `kit/a2/PIPELINE.md`.
