@@ -1,0 +1,38 @@
+name: Upload content to WeChat Cloud
+
+on:
+  push:
+    branches: [main]
+    paths: ['content/**']
+  workflow_dispatch:
+    inputs:
+      all:
+        description: 'Upload every file in content/ (not just changed ones)'
+        type: boolean
+        default: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Work out which files changed
+        id: files
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            echo "list=" >> "$GITHUB_OUTPUT"
+          else
+            echo "list=$(git diff --name-only --diff-filter=AM "$BEFORE" "${{ github.sha }}" -- content | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload
+        env:
+          WX_APPID: ${{ secrets.WX_APPID }}
+          WX_APPSECRET: ${{ secrets.WX_APPSECRET }}
+          TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
+        run: node scripts/upload-to-wechat.mjs ${{ steps.files.outputs.list }}

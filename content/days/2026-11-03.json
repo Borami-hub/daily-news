@@ -1,0 +1,1622 @@
+{
+ "date": "2026-11-03",
+ "headline": "Oil on edge, an asteroid crash site, and who really wrote that homework",
+ "teaser": "Can words move oil prices? Is asteroid defence worth the money? And what is homework actually for?",
+ "articles": [
+  {
+   "id": "n20261103-1",
+   "topic": "Economy",
+   "title": "Pricing Fear: Why Oil Markets Swing on Diplomatic Headlines",
+   "dek": "Oil fell more than 7 percent in a day, yet not a single barrel had moved. Are markets smart, or just jumpy?",
+   "sources": [
+    {
+     "name": "Rigzone, Nov 2, 2026",
+     "url": "https://www.rigzone.com/news/oil_prices_sink_as_iran_signals_talks-02-nov-2026-184993-article"
+    },
+    {
+     "name": "Spectrum News, Nov 2, 2026",
+     "url": "https://spectrumlocalnews.com/nys/rochester/politics/2026/11/02/oil-prices-fall-november-2"
+    }
+   ],
+   "paras": [
+    "On Monday, 2 November 2026, the world's two main oil prices suffered their steepest one-day fall in three months. West Texas Intermediate (WTI), the leading American benchmark, dropped 7.4 percent to settle at $96.46 a barrel, slipping below the symbolic $100 mark, while Brent crude, the international reference price, lost 7.6 percent to close at $104.77. Yet no new oil field had been found, and no tanker had changed course. What moved the market was a set of words: reports that Iran's supreme leader had approved negotiations with the United States, and that the American president wanted to give those talks a chance to play out.",
+    "To understand why words can be worth billions of dollars, it helps to recall how oil is priced. In the textbook model, the price of a commodity reflects the balance between supply and demand. Oil, however, is traded largely through futures contracts, which are agreements to buy or sell a fixed quantity at a set price on a future date. Because these contracts concern barrels that will be delivered weeks or months later, their price depends not only on today's physical market but also on traders' expectations about tomorrow. When there is a credible threat that supply could suddenly be cut off, buyers are willing to pay extra as a kind of insurance. Analysts call this additional cost the risk premium.",
+    "Since the conflict involving Iran began in late February, that premium has been unusually large. Roughly one-fifth of the oil the world consumes each day normally passes through the Strait of Hormuz, the narrow channel between Iran and the Arabian Peninsula, so any disruption there threatens supplies far beyond the region. Brent has swung between $72 and $126 a barrel during the conflict, and in October prices climbed to a six-month high as Gulf supplies came under pressure and Ukrainian drones struck Russian refineries. When diplomacy suddenly appeared possible, as one shipping analyst put it, \"a lot of risk premium\" began \"seeping out\" of the market.",
+    "The size of the fall, however, also had a mechanical cause. Many investment funds follow automated, trend-following strategies that buy when prices rise and sell when they fall. As the price of Brent began to drop, these traders reduced their bets on further increases, and their selling pushed prices lower still. In other words, the initial reaction to the news was amplified by the structure of the market itself.",
+    "For some observers, this episode shows that markets work efficiently. In their view, an oil price is simply a constantly updated estimate of risk: when war threatens supply, prices rise and encourage consumers to conserve and producers elsewhere to pump more; when the danger fades, prices fall again. The sharp drop, they argue, was a rational response to new information. Critics see something less reassuring. They point out that the underlying situation had barely changed, since the two sides had not even agreed on terms for fully reopening the Strait of Hormuz, and that the market seemed to be reacting \"with extreme sensitivity to every headline,\" in the words of one bank analyst. If a single statement can erase more than seven percent of an asset's value in a day, they ask, how much do prices really reveal about physical supply?",
+    "The stakes are not merely academic. For ordinary households, oil prices feed directly into the cost of transport, heating and food. In the United States, the average price of regular gasoline stood at $4.17 a gallon at the start of November, compared with $3.04 a year earlier, and diesel, which is vital for trucks and farm machinery, averaged $6.29, up from $3.68. A lasting fall would offer real relief. Yet forecasters warned that the reprieve could be temporary. Goldman Sachs had recently raised its December forecast for Brent to $105 a barrel and cautioned that prices could average $130 next year if Gulf production remained far below its 2025 level.",
+    "High prices also involve a longer-term trade-off. Expensive fuel strengthens the economic case for electric vehicles and renewable energy, and some economists argue that price shocks speed up the energy transition. However, the burden of such shocks falls most heavily on low-income families and on developing countries that import most of their energy, which makes it difficult to treat volatility as a welcome policy tool.",
+    "On balance, the most persuasive reading is that both camps are partly right. The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment. Until the strait is fully reopened, oil prices are likely to keep reacting to headlines, and the decisive factor will not be what leaders say but whether tankers can move freely."
+   ],
+   "words": [
+    {
+     "w": "benchmark",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈbentʃmɑːrk/",
+     "syl": [
+      "bench",
+      "mark"
+     ],
+     "def": "a standard price or level that others are measured against",
+     "ex": "Gold prices are often used as a benchmark for safe investments."
+    },
+    {
+     "w": "commodity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kəˈmɑːdəti/",
+     "syl": [
+      "com",
+      "mod",
+      "i",
+      "ty"
+     ],
+     "def": "a raw material, such as oil, wheat, or copper, that is bought and sold",
+     "ex": "Coffee is an important commodity for many developing countries."
+    },
+    {
+     "w": "futures contract",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈfjuːtʃərz ˈkɑːntrækt/",
+     "syl": [
+      "fu",
+      "tures",
+      "con",
+      "tract"
+     ],
+     "def": "an agreement to buy or sell something at a fixed price on a future date",
+     "ex": "The farmer signed a futures contract to sell his wheat at next summer's price."
+    },
+    {
+     "w": "risk premium",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/rɪsk ˈpriːmiəm/",
+     "syl": [
+      "risk",
+      "pre",
+      "mi",
+      "um"
+     ],
+     "def": "the extra amount buyers pay because of the chance that something bad will happen",
+     "ex": "Flights over war zones carry a risk premium in insurance costs."
+    },
+    {
+     "w": "volatility",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌvɑːləˈtɪləti/",
+     "syl": [
+      "vol",
+      "a",
+      "til",
+      "i",
+      "ty"
+     ],
+     "def": "the tendency of prices to change quickly and unpredictably",
+     "ex": "Bitcoin is famous for its volatility."
+    },
+    {
+     "w": "credible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈkredəbl/",
+     "syl": [
+      "cred",
+      "i",
+      "ble"
+     ],
+     "def": "believable and worth taking seriously",
+     "ex": "The police found no credible evidence against him."
+    },
+    {
+     "w": "magnify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈmæɡnɪfaɪ/",
+     "syl": [
+      "mag",
+      "ni",
+      "fy"
+     ],
+     "def": "to make something seem bigger or more important than it is",
+     "ex": "Social media can magnify a small rumor into a national story."
+    },
+    {
+     "w": "conserve",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kənˈsɜːrv/",
+     "syl": [
+      "con",
+      "serve"
+     ],
+     "def": "to use less of something so that it lasts longer",
+     "ex": "Turn off the lights to conserve energy."
+    },
+    {
+     "w": "reprieve",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/rɪˈpriːv/",
+     "syl": [
+      "re",
+      "prieve"
+     ],
+     "def": "a short break from something bad or difficult",
+     "ex": "A day of rain gave the firefighters a brief reprieve."
+    },
+    {
+     "w": "sentiment",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈsentɪmənt/",
+     "syl": [
+      "sen",
+      "ti",
+      "ment"
+     ],
+     "def": "a general feeling or opinion shared by many people",
+     "ex": "Public sentiment turned against the new law."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "What moved the market was a set of words",
+     "kind": "Main idea",
+     "note": "The hook: prices fell because of news about talks, not because of any physical change."
+    },
+    {
+     "para": 2,
+     "text": "Analysts call this additional cost the risk premium.",
+     "kind": "Key concept",
+     "note": "Defines the risk premium: the extra paid as insurance against a sudden cut in supply."
+    },
+    {
+     "para": 4,
+     "text": "The size of the fall, however, also had a mechanical cause.",
+     "kind": "Topic sentence",
+     "note": "A second cause: trend-following funds made the fall bigger. Purpose questions target it."
+    },
+    {
+     "para": 5,
+     "text": "The sharp drop, they argue, was a rational response to new information.",
+     "kind": "One side",
+     "note": "The efficient-market view. The critics in the same paragraph doubt that prices reflect real supply."
+    },
+    {
+     "para": 7,
+     "text": "However, the burden of such shocks falls most heavily on low-income families and on developing countries",
+     "kind": "Critical thinking",
+     "note": "Why price shocks are a poor tool for the energy transition: the costs fall unfairly."
+    },
+    {
+     "para": 8,
+     "text": "The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment.",
+     "kind": "Author's view",
+     "note": "Concession + contrast: both camps are partly right."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “settle” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "resolve",
+      "close",
+      "calm",
+      "establish"
+     ],
+     "a": 1,
+     "why": "“Settle at $96.46” means the price ended the trading day at that level, so “close” fits.",
+     "evidence": "dropped 7.4 percent to settle at $96.46 a barrel",
+     "optWhy": [
+      "Trap: settle often means to resolve a dispute, but not here.",
+      "Correct. The price closed at that level.",
+      "It fits grammatically (settle can mean calm down), but the meaning is wrong.",
+      "Trap: settle can mean to establish a home, an everyday meaning that does not fit."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, oil buyers are willing to pay a “risk premium” because",
+     "opts": [
+      "futures contracts oblige them to pay for oil weeks before it is delivered",
+      "the physical oil market at present contains less oil than buyers need",
+      "they expect demand for oil to grow faster than supply in coming months",
+      "they want protection against the chance that supply is abruptly interrupted"
+     ],
+     "a": 3,
+     "why": "Buyers pay extra “as a kind of insurance” when supply could suddenly be cut off.",
+     "evidence": "When there is a credible threat that supply could suddenly be cut off, buyers are willing to pay extra as a kind of insurance.",
+     "optWhy": [
+      "Detail swapped: it borrows “futures” and “weeks,” but the contracts concern future delivery, not paying early.",
+      "Reversed: the premium comes from expectations about tomorrow, not a shortage today.",
+      "Sounds sensible, but the passage never says demand is growing faster.",
+      "Correct. A paraphrase of insurance against a sudden cut-off."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following helped keep oil prices high before the November fall EXCEPT",
+     "opts": [
+      "a decision by Gulf producers to deliberately limit the amount they exported",
+      "the possibility that shipping through the Strait of Hormuz could be disrupted",
+      "drone attacks carried out by Ukraine against refineries in Russia",
+      "pressure on the supplies of oil coming from the Gulf region"
+     ],
+     "a": 0,
+     "why": "Paragraph 3 names Hormuz risk, Ukrainian drone strikes, and pressure on Gulf supplies, but no deliberate output cut.",
+     "evidence": "as Gulf supplies came under pressure and Ukrainian drones struck Russian refineries",
+     "optWhy": [
+      "Correct answer, because it is NOT mentioned: “under pressure” is twisted into a deliberate decision, which is common knowledge, not the text.",
+      "Mentioned: any disruption in the Strait “threatens supplies.”",
+      "Mentioned: “Ukrainian drones struck Russian refineries.”",
+      "Mentioned: “Gulf supplies came under pressure.”"
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention “trend-following strategies” in paragraph 4?",
+     "opts": [
+      "To show that the market's reaction had little to do with the diplomatic news",
+      "To argue that investment funds were responsible for the conflict's price swings",
+      "To explain why the price fall was larger than the news alone would have caused",
+      "To illustrate how traders protect themselves against interruptions in supply"
+     ],
+     "a": 2,
+     "why": "The paragraph says the size of the fall had a mechanical cause: the reaction to the news was amplified.",
+     "evidence": "the initial reaction to the news was amplified by the structure of the market itself",
+     "optWhy": [
+      "Too strong: the funds amplified the reaction to the news; they did not replace it.",
+      "Too broad: the funds magnified this one fall, not all the swings during the conflict.",
+      "Correct. They explain why the fall was so large.",
+      "From paragraph 2: insurance is about the risk premium, not this paragraph's purpose."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the critics?",
+     "opts": [
+      "They doubt that daily price movements closely track changes in actual oil supply.",
+      "They expect the Strait of Hormuz to remain closed whatever the talks produce.",
+      "They think producers should pump more oil whenever prices rise sharply.",
+      "They accuse bank analysts of exaggerating the effects of political headlines."
+     ],
+     "a": 0,
+     "why": "The critics note that the situation “had barely changed” and ask how much prices reveal about physical supply.",
+     "evidence": "how much do prices really reveal about physical supply?",
+     "optWhy": [
+      "Correct. Their question implies doubt that prices follow real supply.",
+      "Too strong: they only say terms for reopening had not been agreed.",
+      "Wrong side: this is the efficient-market view, not the critics'.",
+      "Reversed: they quote a bank analyst as support; they do not accuse analysts."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The fall was produced mainly by modern markets, which magnify sentiment instead of responding to real risk.",
+      "Because perceived risk had really declined, modern markets became less sensitive to changes in sentiment.",
+      "The decline was smaller than the drop in risk justified, because markets tend to exaggerate sentiment.",
+      "Although the drop responded to a real decrease in perceived danger, market mechanisms made it much bigger."
+     ],
+     "a": 3,
+     "why": "The fall reflected a real drop in perceived risk (concession), but markets magnified its size (contrast).",
+     "evidence": "The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment.",
+     "optWhy": [
+      "Drops the concession and contradicts it: the fall DID respond to real risk.",
+      "Invents a cause-effect link that is not in the sentence.",
+      "Reversed: the fall was bigger, not smaller.",
+      "Correct. Keeps both the concession and the contrast."
+     ],
+     "highlight": "The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261103-1-k1",
+     "tag": "Main idea",
+     "fact": "On 2 November 2026, oil had its steepest one-day fall in three months (WTI below $100) after reports that Iran had approved talks with the US.",
+     "q": "What caused oil prices to fall on 2 November?",
+     "opts": [
+      "A new oil field was found",
+      "Reports of possible US–Iran talks",
+      "Tankers changed course",
+      "A cold winter"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-1-k2",
+     "tag": "Concept",
+     "fact": "Oil is traded through futures contracts, so prices include expectations; the risk premium is extra paid as insurance against supply cuts.",
+     "q": "What is the risk premium?",
+     "opts": [
+      "A tax on oil",
+      "Extra paid as insurance against supply being cut off",
+      "A discount for big buyers",
+      "The cost of shipping"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-1-k3",
+     "tag": "Cause & effect",
+     "fact": "About one-fifth of the world's daily oil passes through the Strait of Hormuz, so conflict there keeps the premium high.",
+     "q": "Why does the Strait of Hormuz matter so much?",
+     "opts": [
+      "It holds most oil reserves",
+      "About one-fifth of the world's daily oil passes through it",
+      "It is where prices are set",
+      "It is closed every winter"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-1-k4",
+     "tag": "Detail",
+     "fact": "Trend-following funds sell when prices fall, which amplified the drop.",
+     "q": "Why was the fall so large?",
+     "opts": [
+      "Automated funds sold as prices fell",
+      "Governments cut taxes",
+      "Demand collapsed",
+      "Refineries closed"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261103-1-k5",
+     "tag": "Debate",
+     "fact": "Efficient-market view: prices rationally update risk. Critics: prices overreact to headlines. Author: both are partly right; tankers moving freely is what matters.",
+     "q": "What does the author say will decide oil prices?",
+     "opts": [
+      "What leaders say",
+      "Whether tankers can move freely",
+      "Trend-following funds",
+      "Electric car sales"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Oil and headlines",
+    "question": "Why did oil fall more than 7% on words alone?",
+    "branches": [
+     {
+      "title": "The fall",
+      "paras": "1",
+      "blanks": [
+       "talk of US–Iran negotiations"
+      ],
+      "kps": [
+       "n20261103-1-k1"
+      ]
+     },
+     {
+      "title": "Pricing fear",
+      "paras": "2–3",
+      "blanks": [
+       "futures price in tomorrow's risk",
+       "Hormuz keeps the premium high"
+      ],
+      "kps": [
+       "n20261103-1-k2",
+       "n20261103-1-k3"
+      ]
+     },
+     {
+      "title": "Amplifier",
+      "paras": "4",
+      "blanks": [
+       "trend-following funds sold more"
+      ],
+      "kps": [
+       "n20261103-1-k4"
+      ]
+     },
+     {
+      "title": "Two readings",
+      "paras": "5–8",
+      "blanks": [
+       "rational update vs overreaction",
+       "both camps partly right"
+      ],
+      "kps": [
+       "n20261103-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Gulf producers cut exports on purpose",
+     "a new oil field was discovered"
+    ]
+   },
+   "summary": {
+    "intro": "Oil prices fell sharply after reports that the US and Iran might hold talks.",
+    "model": "Oil fell sharply on news of possible talks because prices include a risk premium, while automated trading magnified the drop. However, the author concludes that the fall reflected real lower risk but was exaggerated, so tankers moving freely, not headlines, will decide prices.",
+    "options": [
+     {
+      "t": "Because oil is priced partly on expectations, buyers pay a risk premium that shrank when diplomacy seemed possible.",
+      "ok": true,
+      "why": "Main idea of paragraphs 2–3.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Analysts call this additional cost the risk premium."
+     },
+     {
+      "t": "The size of the fall was increased by automated trading strategies that sell when prices drop.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "the initial reaction to the news was amplified by the structure of the market itself"
+     },
+     {
+      "t": "Some see the fall as rational and others as an overreaction, and the author concludes that both views are partly right.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–8.",
+      "type": "main",
+      "para": 8,
+      "evidence": "both camps are partly right"
+     },
+     {
+      "t": "Diesel in the United States averaged $6.29 a gallon.",
+      "ok": false,
+      "why": "True, but only a supporting number.",
+      "type": "detail",
+      "para": 6,
+      "evidence": "diesel, which is vital for trucks and farm machinery, averaged $6.29"
+     },
+     {
+      "t": "Oil companies have promised to lower petrol prices for families.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The fall happened because a large new oil field had been discovered.",
+      "ok": false,
+      "why": "Contradicts paragraph 1.",
+      "type": "contra",
+      "para": 1,
+      "evidence": "no new oil field had been found"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Fuel prices often change quickly because of events far away. Do you think young people today should pay attention to international news even if it seems unrelated to their daily lives? Explain your answer using specific reasons and examples.",
+    "hint": "Your view → reason 1 (e.g. oil and prices at home) → reason 2 + example → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Lin: When oil prices rise sharply, governments often face pressure to step in, for example by cutting fuel taxes or giving payments to households. Others argue that high prices encourage people to save energy and switch to cleaner alternatives. Should governments act to protect consumers from sudden increases in fuel prices? (Kevin says temporary tax cuts help drivers and farmers. Mia says tax cuts help the wealthy too; targeted support is better.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use a point from the article (who bears the burden of price shocks).",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261103-2",
+   "topic": "Space",
+   "title": "A Crash-Site Investigation 197 Million Kilometres from Earth",
+   "dek": "Four years after NASA crashed into an asteroid, Hera has arrived to inspect the damage. Is planetary defence worth it?",
+   "sources": [
+    {
+     "name": "ESA, first light from Hera",
+     "url": "https://www.esa.int/Safety_Security/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one"
+    },
+    {
+     "name": "ESA, Hera mission overview",
+     "url": "https://www.esa.int/Space_Safety/Hera/Hera_mission_overview"
+    }
+   ],
+   "paras": [
+    "On the evening of 18 October 2026, a camera aboard the European Space Agency's Hera spacecraft captured an image that, to an untrained eye, looked unremarkable: a bright dot with a faint companion barely one pixel wide. For the mission team, however, the picture marked a milestone. Taken from 1,280 kilometres away, it was the first time Hera had resolved the binary asteroid system it was built to study into two separate objects: the 780-metre Didymos and its small moon, Dimorphos, which measures about 151 metres across, roughly the size of the Great Pyramid of Giza. \"For the very first time we are seeing through Hera's own eyes the very double asteroid system that the mission was designed and built for,\" said mission manager Ian Carnelli.",
+    "Dimorphos is no ordinary moon. On 26 September 2022, NASA's Double Asteroid Redirection Test (DART) deliberately crashed into it at 6.1 kilometres per second. The collision hurled a plume of debris across some 10,000 kilometres of space and shortened Dimorphos's orbit around Didymos by about 33 minutes. It was the first time human effort had measurably shifted the orbit of a natural object in the Solar System. Neither asteroid posed any danger to Earth; the pair was chosen precisely because it offered a safe laboratory in which a small orbital change could be measured with telescopes on the ground.",
+    "The experiment tested a strategy known as kinetic impact. If an asteroid were found to be on a collision course with Earth, a spacecraft could strike it years in advance, nudging it just enough that a tiny change in velocity would grow into a miss of thousands of kilometres. DART proved the basic principle, but it also produced a puzzle: the deflection was considerably larger than computer simulations had predicted. One leading explanation is that the debris blasted off the surface acted like the exhaust of a rocket, adding extra push beyond the spacecraft's own momentum. Yet to estimate how much extra push a future impact might deliver, scientists need to know what Dimorphos is made of, how massive it is and how its surface responded, information that DART, destroyed in the collision, could not provide.",
+    "This is where Hera, launched on 7 October 2024, comes in. Over the coming months it will carry out what ESA calls a \"crash-site investigation.\" It will measure Dimorphos's mass, map the crater or reshaping caused by the impact, and examine the asteroid's internal structure using visual, laser and radio instruments. It will also release two shoebox-sized satellites, known as CubeSats. One, Milani, will analyse the minerals on the surface, while the other, Juventas, will attempt the first radar sounding of an asteroid's interior. The first detailed images of Dimorphos are expected on 25 November 2026.",
+    "Supporters argue that such work is an inexpensive insurance policy. Large impacts are rare, but their consequences can be severe. In 1908 an object exploded over Tunguska in Siberia and flattened around 2,000 square kilometres of forest, and in 2013 a meteor that burst above Chelyabinsk, Russia, injured more than a thousand people, mostly through shattered glass. Because the probability of a dangerous impact in any given year is low while the potential damage is enormous, advocates contend that a planet able to deflect asteroids should test its methods before an emergency, not during one.",
+    "Skeptics raise several objections. Some question whether money spent on rare threats would save more lives if it were directed toward pressing problems such as disease or adaptation to climate change. Others note that results from one asteroid may not apply to another. Many small asteroids appear to be loose \"rubble piles\" held together by weak gravity, and a body with a different structure might fragment rather than move as a whole, possibly creating several hazardous objects instead of one. There are also questions of governance. If a deflection effort shifted an asteroid's predicted impact point from one country toward another along the way, who would have the authority to make that decision?",
+    "These concerns are serious, but they arguably strengthen rather than weaken the case for missions like Hera. Uncertainty about how different asteroids respond is exactly the knowledge gap the mission is designed to narrow, and the cost of planetary-defence research is modest compared with the damage a single regional impact could cause. Questions of governance, meanwhile, are best addressed calmly and in advance, using real data rather than speculation. A single pixel may seem a small reward for a two-year journey, but it marks the beginning of a far more detailed answer to an old question: whether humanity could ever change the course of a threatening object in space."
+   ],
+   "words": [
+    {
+     "w": "binary asteroid",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈbaɪnəri ˈæstərɔɪd/",
+     "syl": [
+      "bi",
+      "na",
+      "ry",
+      "as",
+      "ter",
+      "oid"
+     ],
+     "def": "a pair of asteroids that orbit each other",
+     "ex": "Astronomers discovered a binary asteroid whose two parts circle each other every twelve hours."
+    },
+    {
+     "w": "kinetic impact",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kɪˈnetɪk ˈɪmpækt/",
+     "syl": [
+      "ki",
+      "net",
+      "ic",
+      "im",
+      "pact"
+     ],
+     "def": "pushing an object off course by hitting it with a fast-moving spacecraft",
+     "ex": "A kinetic impact works like a cue ball hitting another ball on a pool table."
+    },
+    {
+     "w": "deflection",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/dɪˈflekʃn/",
+     "syl": [
+      "de",
+      "flec",
+      "tion"
+     ],
+     "def": "a change in the direction that something is moving",
+     "ex": "The goalkeeper's deflection sent the ball over the bar."
+    },
+    {
+     "w": "momentum",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/moʊˈmentəm/",
+     "syl": [
+      "mo",
+      "men",
+      "tum"
+     ],
+     "def": "the force a moving object has because of its mass and speed",
+     "ex": "A heavy truck has more momentum than a bicycle at the same speed."
+    },
+    {
+     "w": "plume",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/pluːm/",
+     "syl": [
+      "plume"
+     ],
+     "def": "a large cloud of smoke, dust, or gas rising or spreading out",
+     "ex": "A plume of ash rose from the volcano."
+    },
+    {
+     "w": "milestone",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈmaɪlstoʊn/",
+     "syl": [
+      "mile",
+      "stone"
+     ],
+     "def": "an important stage or achievement in a process",
+     "ex": "Finishing her first marathon was a milestone for her."
+    },
+    {
+     "w": "fragment",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/fræɡˈment/",
+     "syl": [
+      "frag",
+      "ment"
+     ],
+     "def": "to break into small pieces",
+     "ex": "Old glass can fragment if it is dropped."
+    },
+    {
+     "w": "advocate",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈædvəkət/",
+     "syl": [
+      "ad",
+      "vo",
+      "cate"
+     ],
+     "def": "a person who publicly supports an idea or policy",
+     "ex": "She is a strong advocate of free school meals."
+    },
+    {
+     "w": "governance",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈɡʌvərnəns/",
+     "syl": [
+      "gov",
+      "er",
+      "nance"
+     ],
+     "def": "the way decisions are made and who has the authority to make them",
+     "ex": "Good governance requires clear rules and open decisions."
+    },
+    {
+     "w": "speculation",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌspekjuˈleɪʃn/",
+     "syl": [
+      "spec",
+      "u",
+      "la",
+      "tion"
+     ],
+     "def": "forming ideas without firm evidence",
+     "ex": "There was a lot of speculation about who the new coach would be."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "it was the first time Hera had resolved the binary asteroid system it was built to study into two separate objects",
+     "kind": "Main event",
+     "note": "“Resolved … into two separate objects” = saw them as two. A vocabulary question tests this meaning."
+    },
+    {
+     "para": 2,
+     "text": "the pair was chosen precisely because it offered a safe laboratory in which a small orbital change could be measured with telescopes on the ground.",
+     "kind": "Key details",
+     "note": "Why this pair was chosen: safe and measurable from Earth."
+    },
+    {
+     "para": 3,
+     "text": "DART proved the basic principle, but it also produced a puzzle: the deflection was considerably larger than computer simulations had predicted.",
+     "kind": "Cause → effect",
+     "note": "The puzzle Hera must solve. Inference questions depend on why the data is missing."
+    },
+    {
+     "para": 5,
+     "text": "Large impacts are rare, but their consequences can be severe.",
+     "kind": "Topic sentence",
+     "note": "The supporters' argument; Tunguska and Chelyabinsk are examples supporting it."
+    },
+    {
+     "para": 7,
+     "text": "These concerns are serious, but they arguably strengthen rather than weaken the case for missions like Hera.",
+     "kind": "Author's view",
+     "note": "The author turns the skeptics' doubts into reasons for the mission."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “resolved” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "settled",
+      "answered",
+      "separated",
+      "reduced"
+     ],
+     "a": 2,
+     "why": "In astronomy, to resolve a system into two objects means to see them as separate.",
+     "evidence": "Hera had resolved the binary asteroid system it was built to study into two separate objects",
+     "optWhy": [
+      "Trap: resolve often means to settle a problem, but not here.",
+      "Trap: you can resolve a question, but nothing is being answered here.",
+      "Correct. The camera separated the two objects in the image.",
+      "Trap: “resolve into” can mean break down into parts, but nothing became smaller."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why were Didymos and Dimorphos chosen for the DART experiment?",
+     "opts": [
+      "A small change in their motion could be measured safely from Earth.",
+      "Dimorphos was on a path that might one day bring it close to Earth.",
+      "Dimorphos was small enough to be broken apart by a single spacecraft.",
+      "Their orbit had already been shortened by about 33 minutes before the test."
+     ],
+     "a": 0,
+     "why": "The pair offered “a safe laboratory” where a small orbital change could be measured by ground telescopes.",
+     "evidence": "the pair was chosen precisely because it offered a safe laboratory in which a small orbital change could be measured with telescopes on the ground",
+     "optWhy": [
+      "Correct. A paraphrase of the reason given.",
+      "Reversed: “Neither asteroid posed any danger to Earth.”",
+      "Not mentioned, and DART aimed to push the asteroid, not break it.",
+      "Time order swapped: the 33-minute change was the RESULT of the impact."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "Which of the following can be inferred from paragraph 3 about future kinetic impact missions?",
+     "opts": [
+      "They will need spacecraft travelling considerably faster than DART did.",
+      "They may be unnecessary because DART's effect exceeded the predictions.",
+      "They should strike an asteroid only a few weeks before a likely collision.",
+      "Their results may be hard to predict without data on a target's composition."
+     ],
+     "a": 3,
+     "why": "To estimate the extra push of a future impact, scientists need to know what the asteroid is made of, so results are hard to predict without it.",
+     "evidence": "scientists need to know what Dimorphos is made of, how massive it is and how its surface responded",
+     "optWhy": [
+      "Not mentioned: only DART's speed is given.",
+      "Too strong: a bigger-than-expected effect does not make future missions unnecessary.",
+      "Contradicts the text: a strike would come “years in advance.”",
+      "Correct. Without data on composition, the push is hard to estimate."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention the events at Tunguska and Chelyabinsk in paragraph 5?",
+     "opts": [
+      "To show that asteroid impacts have become more frequent in recent decades",
+      "To support the claim that even rare impacts can cause serious damage",
+      "To explain why Russia has invested heavily in planetary-defence research",
+      "To demonstrate that smaller objects are easier to deflect than larger ones"
+     ],
+     "a": 1,
+     "why": "The paragraph says impacts are rare but severe, then gives the two events as examples.",
+     "evidence": "Large impacts are rare, but their consequences can be severe.",
+     "optWhy": [
+      "Reversed: the text calls impacts rare; it does not say they are increasing.",
+      "Correct. The examples support “rare but severe.”",
+      "Topic swapped: both happened in Russia, but Russian funding is never mentioned.",
+      "Mixes in paragraph 6; object size and deflection are not compared."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, which of the following is NOT an objection raised by skeptics?",
+     "opts": [
+      "Money for rare threats might save more lives if spent on other urgent problems.",
+      "An attempt to deflect an asteroid could break it into several dangerous pieces.",
+      "Hera's instruments cannot examine the interior of a loose rubble-pile asteroid.",
+      "It is unclear who should decide if an impact point moved between countries."
+     ],
+     "a": 2,
+     "why": "Paragraph 6 raises cost, fragmentation, and governance. Hera's ability to see inside is not an objection, and paragraph 4 says Juventas will attempt radar sounding of the interior.",
+     "evidence": "Skeptics raise several objections.",
+     "optWhy": [
+      "Mentioned: money for rare threats versus disease or climate change.",
+      "Mentioned: a body “might fragment rather than move as a whole.”",
+      "Correct answer, because it is NOT raised: it combines real words (“rubble piles,” “interior”) into a claim the text never makes.",
+      "Mentioned: “who would have the authority to make that decision?”"
+     ]
+    },
+    {
+     "type": "Author's position",
+     "para": 7,
+     "q": "Which of the following best describes the author's position in paragraph 7?",
+     "opts": [
+      "The skeptics' objections are strong enough that missions like Hera should be delayed.",
+      "The doubts raised by skeptics actually show why research like Hera's is valuable.",
+      "Questions of governance must be settled before Hera releases its two CubeSats.",
+      "Hera's main achievement will be to prove for the first time that deflection works."
+     ],
+     "a": 1,
+     "why": "The concerns “strengthen rather than weaken the case for missions like Hera.”",
+     "evidence": "they arguably strengthen rather than weaken the case for missions like Hera",
+     "optWhy": [
+      "Opposite of the author's view.",
+      "Correct. A paraphrase of the first sentence.",
+      "Detail swapped: governance should be discussed in advance, but it is not linked to the CubeSats.",
+      "Wrong: paragraph 3 says DART already proved the basic principle."
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261103-2-k1",
+     "tag": "Main idea",
+     "fact": "On 18 October 2026, ESA's Hera spacecraft first saw Didymos and its small moon Dimorphos as two separate objects.",
+     "q": "What did Hera's first image show?",
+     "opts": [
+      "One asteroid",
+      "The asteroid pair as two separate objects",
+      "A crater on Earth",
+      "The Moon"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-2-k2",
+     "tag": "Detail",
+     "fact": "In 2022, NASA's DART deliberately hit Dimorphos and shortened its orbit by about 33 minutes: the first human change to a natural object's orbit.",
+     "q": "What did DART do to Dimorphos's orbit?",
+     "opts": [
+      "Lengthened it by a year",
+      "Shortened it by about 33 minutes",
+      "Destroyed the moon",
+      "Nothing measurable"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-2-k3",
+     "tag": "Concept",
+     "fact": "Kinetic impact: hitting a dangerous asteroid years in advance so a tiny speed change grows into a big miss. DART's push was bigger than predicted, possibly because of the debris.",
+     "q": "Why was DART's result a puzzle?",
+     "opts": [
+      "It missed the asteroid",
+      "The push was bigger than predicted",
+      "The asteroid sped up",
+      "It cost too much"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-2-k4",
+     "tag": "Detail",
+     "fact": "Hera will measure Dimorphos's mass, map the impact site, and release two CubeSats: Milani (minerals) and Juventas (first radar look inside an asteroid).",
+     "q": "What will the CubeSat Juventas attempt?",
+     "opts": [
+      "To land people",
+      "The first radar sounding of an asteroid's interior",
+      "To push the asteroid",
+      "To photograph Earth"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-2-k5",
+     "tag": "Debate",
+     "fact": "Skeptics: cost, rubble piles may fragment, governance. Author: these doubts are exactly why Hera's research is valuable.",
+     "q": "How does the author answer the skeptics?",
+     "opts": [
+      "Agrees the mission should stop",
+      "Says their doubts strengthen the case for Hera",
+      "Ignores them",
+      "Says only governance matters"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Hera's crash-site visit",
+    "question": "What is Hera investigating, and is it worth it?",
+    "branches": [
+     {
+      "title": "First light",
+      "paras": "1",
+      "blanks": [
+       "two asteroids seen as separate"
+      ],
+      "kps": [
+       "n20261103-2-k1"
+      ]
+     },
+     {
+      "title": "The crash",
+      "paras": "2–3",
+      "blanks": [
+       "DART shortened the moon's orbit",
+       "bigger push than predicted"
+      ],
+      "kps": [
+       "n20261103-2-k2",
+       "n20261103-2-k3"
+      ]
+     },
+     {
+      "title": "Hera's job",
+      "paras": "4",
+      "blanks": [
+       "measure mass and map the crater"
+      ],
+      "kps": [
+       "n20261103-2-k4"
+      ]
+     },
+     {
+      "title": "Worth it?",
+      "paras": "5–7",
+      "blanks": [
+       "rare but severe impacts",
+       "doubts strengthen the case"
+      ],
+      "kps": [
+       "n20261103-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Dimorphos is heading toward Earth",
+     "Hera will crash into Didymos"
+    ]
+   },
+   "summary": {
+    "intro": "ESA's Hera spacecraft has reached the asteroids that NASA's DART mission hit in 2022.",
+    "model": "Hera will investigate how NASA's DART impact moved Dimorphos, because the push was larger than expected and future deflections depend on knowing why. While skeptics question the cost and risks, the author argues that their doubts show exactly why such research is worthwhile.",
+    "options": [
+     {
+      "t": "DART showed that hitting an asteroid can change its orbit, but the larger-than-expected effect left scientists needing more data.",
+      "ok": true,
+      "why": "Main idea of paragraphs 2–3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "the deflection was considerably larger than computer simulations had predicted"
+     },
+     {
+      "t": "Hera will study the impact site and the asteroid's mass and structure to fill in this missing information.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "what ESA calls a \"crash-site investigation.\""
+     },
+     {
+      "t": "Although skeptics raise concerns about cost, effectiveness, and governance, the author believes these concerns strengthen the case for the mission.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "they arguably strengthen rather than weaken the case for missions like Hera"
+     },
+     {
+      "t": "Dimorphos is roughly the size of the Great Pyramid of Giza.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "roughly the size of the Great Pyramid of Giza"
+     },
+     {
+      "t": "Several countries have agreed on a treaty to decide future asteroid deflections.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Didymos and Dimorphos were chosen because they posed a threat to Earth.",
+      "ok": false,
+      "why": "Contradicts paragraph 2.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "Neither asteroid posed any danger to Earth"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people say that space exploration inspires young people to study science, while others say it is too far from their real lives to matter. In your experience, does news about space missions make students more interested in science? Explain with specific reasons and examples.",
+    "hint": "Your view → personal example → reason 2 → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Alvarez: Space agencies spend billions of dollars on missions like DART and Hera, which test ways to protect Earth from asteroids. Some believe this is one of the wisest investments humanity can make; others think the money would do more good if spent on poverty or disease. Should governments continue to fund planetary-defence missions? (Sophie compares it to home insurance. Daniel says certain, present problems should come first.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use a point from the article (rare but severe; modest cost).",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261103-3",
+   "topic": "Technology",
+   "title": "Who Wrote This? Artificial Intelligence and the Purpose of Homework",
+   "dek": "Most British pupils who use AI don't admit it. Should schools ban it, or ask what homework is really for?",
+   "sources": [
+    {
+     "name": "Brit Brief, Nov 2026",
+     "url": "https://britbrief.co.uk/education/schools/seven-in-ten-pupils-pass-off-ai-homework-as-own.html"
+    },
+    {
+     "name": "RAND Corporation",
+     "url": "https://www.rand.org/pubs/research_reports/RRA4742-1.html"
+    }
+   ],
+   "paras": [
+    "A survey published in early November 2026 has added fresh evidence to one of the most heated debates in education. According to the Future of Education Report 2026, produced by the tutoring company GoStudent and covering six European countries, 73 percent of British pupils who use artificial intelligence (AI) at school had not acknowledged its role in their work. Among pupils who use AI for schoolwork, 58 percent said they submitted AI-generated material as their own at least once a week, the highest proportion of the six countries surveyed. Only 28 percent said they had ever received a structured lesson on how to use AI properly.",
+    "Teachers' responses were equally striking. Ninety-four percent said they knew that pupils were handing in AI-generated work, and two-thirds said it happened at least weekly. Perhaps more worrying, 44 percent were not confident that most of their pupils could write a complete essay from scratch without AI assistance. The concern has reached the top of the exam system. The chief regulator of Ofqual, England's exams watchdog, has written to exam boards about AI misuse in coursework, noting that although the number of detected cases remains relatively low, the true extent of the problem is a cause for concern.",
+    "The British figures echo trends elsewhere. In the United States, a RAND Corporation survey of young people aged 12 to 29 found that the share using AI for homework rose from 48 percent to 62 percent between May and December 2025, with middle and high school students driving most of the increase. Interestingly, students themselves expressed doubts: 67 percent agreed that relying heavily on AI for schoolwork harms critical thinking, an increase of more than ten percentage points in less than a year. Many also reported confusion, saying that the rules depended on which teacher they had, and some worried about being falsely accused of cheating.",
+    "Such numbers should be interpreted with care. Surveys depend on self-reporting, and definitions of \"using AI\" vary widely, from asking a chatbot to explain a difficult concept to copying an entire essay. Moreover, GoStudent sells tutoring services, including AI-based ones, so it has a commercial interest in presenting the situation as a problem that requires expert guidance. None of this means the findings are wrong, but it does suggest that the exact percentages matter less than the overall pattern: AI use is widespread, rules are unclear, and teachers are uneasy.",
+    "Responses to this pattern fall broadly into two camps. The first emphasises academic integrity. Its supporters argue that if pupils can outsource homework to a machine, homework no longer measures what pupils know, and grades lose their meaning. They favour clear bans for certain tasks, more supervised writing in class, and a return to handwritten or oral assessments. The second camp contends that prohibition is both unrealistic and short-sighted. AI tools will be part of almost every workplace these pupils enter, so schools should teach them to use those tools critically: to check facts, question outputs and disclose assistance honestly. As GoStudent's chief executive put it, \"The key is teaching them to use it critically.\"",
+    "Each side has a point, and each has a weakness. Strict bans are difficult to enforce, since AI-generated text is hard to detect reliably, and heavy reliance on detection software risks punishing honest students, which is precisely the fear expressed by the American pupils. On the other hand, \"teaching critical use\" assumes that pupils already possess the basic skills needed to judge an AI's output. A student who has never learned to build an argument independently may not recognise when a machine's argument is weak.",
+    "Perhaps the more productive question is not whether AI should be allowed but what homework is for. If the purpose of an assignment is practice, strengthening a skill through effort, then letting a machine do it defeats the purpose, much as sending a robot to the gym would do nothing for one's own fitness. If, however, the purpose is to produce a polished product, then AI may be a legitimate tool, provided its use is acknowledged. Schools that clearly distinguish between these two types of task, and explain the reasons to pupils, may achieve more than either blanket bans or unlimited freedom. The survey results suggest that, at present, most pupils have been told neither."
+   ],
+   "words": [
+    {
+     "w": "academic integrity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌækəˈdemɪk ɪnˈteɡrəti/",
+     "syl": [
+      "ac",
+      "a",
+      "dem",
+      "ic",
+      "in",
+      "teg",
+      "ri",
+      "ty"
+     ],
+     "def": "honesty in schoolwork, such as not copying and giving credit to sources",
+     "ex": "Citing your sources is a basic part of academic integrity."
+    },
+    {
+     "w": "watchdog",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈwɑːtʃdɔːɡ/",
+     "syl": [
+      "watch",
+      "dog"
+     ],
+     "def": "an organization that checks that rules are followed",
+     "ex": "The consumer watchdog fined the company for misleading ads."
+    },
+    {
+     "w": "self-reporting",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌself rɪˈpɔːrtɪŋ/",
+     "syl": [
+      "self",
+      "re",
+      "port",
+      "ing"
+     ],
+     "def": "information people give about themselves, which may not be accurate",
+     "ex": "Surveys about screen time rely on self-reporting, so people often underestimate it."
+    },
+    {
+     "w": "blanket ban",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈblæŋkɪt bæn/",
+     "syl": [
+      "blan",
+      "ket",
+      "ban"
+     ],
+     "def": "a rule that forbids something completely, with no exceptions",
+     "ex": "The school introduced a blanket ban on phones in class."
+    },
+    {
+     "w": "assessment",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əˈsesmənt/",
+     "syl": [
+      "as",
+      "sess",
+      "ment"
+     ],
+     "def": "a test or other way of judging what someone knows or can do",
+     "ex": "The final assessment includes a speaking test."
+    },
+    {
+     "w": "outsource",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈaʊtsɔːrs/",
+     "syl": [
+      "out",
+      "source"
+     ],
+     "def": "to get someone or something else to do a task for you",
+     "ex": "Many companies outsource their customer service."
+    },
+    {
+     "w": "prohibition",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌproʊəˈbɪʃn/",
+     "syl": [
+      "pro",
+      "hi",
+      "bi",
+      "tion"
+     ],
+     "def": "an official rule that forbids something",
+     "ex": "There is a prohibition on smoking in all public buildings."
+    },
+    {
+     "w": "disclose",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/dɪsˈkloʊz/",
+     "syl": [
+      "dis",
+      "close"
+     ],
+     "def": "to make information known, especially something that was hidden",
+     "ex": "Players must disclose any injuries to the team doctor."
+    },
+    {
+     "w": "enforce",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈfɔːrs/",
+     "syl": [
+      "en",
+      "force"
+     ],
+     "def": "to make sure a rule or law is obeyed",
+     "ex": "It is hard to enforce a speed limit without cameras."
+    },
+    {
+     "w": "commercial",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kəˈmɜːrʃl/",
+     "syl": [
+      "com",
+      "mer",
+      "cial"
+     ],
+     "def": "related to making money through business",
+     "ex": "The film was a commercial success but critics disliked it."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "73 percent of British pupils who use artificial intelligence (AI) at school had not acknowledged its role in their work.",
+     "kind": "Main event",
+     "note": "The headline statistic that opens the debate."
+    },
+    {
+     "para": 2,
+     "text": "although the number of detected cases remains relatively low, the true extent of the problem is a cause for concern.",
+     "kind": "Interpretation",
+     "note": "Detected cases may be only the tip of the iceberg. A factual question tests this."
+    },
+    {
+     "para": 4,
+     "text": "Such numbers should be interpreted with care.",
+     "kind": "Critical thinking",
+     "note": "Self-reporting and a commercial interest mean the exact figures matter less than the pattern."
+    },
+    {
+     "para": 6,
+     "text": "Each side has a point, and each has a weakness.",
+     "kind": "Topic sentence",
+     "note": "Bans are hard to enforce; “critical use” assumes skills pupils may lack."
+    },
+    {
+     "para": 7,
+     "text": "Perhaps the more productive question is not whether AI should be allowed but what homework is for.",
+     "kind": "Author's view",
+     "note": "The author reframes the debate: homework as practice versus homework as product."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word “striking” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "attacking",
+      "attractive",
+      "protesting",
+      "remarkable"
+     ],
+     "a": 3,
+     "why": "“Equally striking” means equally surprising and noticeable.",
+     "evidence": "Teachers' responses were equally striking.",
+     "optWhy": [
+      "Trap: the literal meaning of strike (to hit).",
+      "Trap: a striking face is good-looking, but that does not fit here.",
+      "Trap: teachers can go on strike, which makes this tempting.",
+      "Correct. The responses were remarkable."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what did Ofqual's chief regulator suggest about AI misuse in coursework?",
+     "opts": [
+      "Exam boards had failed to report many of the cases of misuse they had found.",
+      "The real amount of misuse could be greater than the number of cases detected.",
+      "Most pupils were no longer able to write a complete essay without AI help.",
+      "Misuse had become more common in written examinations than in coursework."
+     ],
+     "a": 1,
+     "why": "Detected cases are low, but “the true extent of the problem is a cause for concern.”",
+     "evidence": "although the number of detected cases remains relatively low, the true extent of the problem is a cause for concern",
+     "optWhy": [
+      "Not mentioned: no one says exam boards hid cases.",
+      "Correct. The real extent may be larger than what is detected.",
+      "Wrong speaker and too strong: 44% of TEACHERS were not confident; that is not the regulator's claim.",
+      "Not mentioned: exams and coursework are not compared."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true of the young people in the RAND survey EXCEPT:",
+     "opts": [
+      "Most of them believed that schools should ban the use of AI for homework.",
+      "Some of them feared being wrongly accused of using AI dishonestly.",
+      "Their concern about AI's effect on critical thinking grew within a year.",
+      "Many of them found that rules about AI use varied from teacher to teacher."
+     ],
+     "a": 0,
+     "why": "Paragraph 3 mentions fear of false accusations, growing concern about critical thinking, and rules varying by teacher, but no support for bans.",
+     "evidence": "Many also reported confusion, saying that the rules depended on which teacher they had",
+     "optWhy": [
+      "Correct answer, because it is NOT stated: worry about critical thinking does not mean they want a ban.",
+      "Stated: “some worried about being falsely accused of cheating.”",
+      "Stated: up more than ten percentage points “in less than a year.”",
+      "Stated: “the rules depended on which teacher they had.”"
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention that GoStudent “sells tutoring services” in paragraph 4?",
+     "opts": [
+      "To show that the survey's findings should be rejected as unreliable",
+      "To explain why GoStudent chose to survey pupils in six European countries",
+      "To point out a possible reason the report might emphasise the problem",
+      "To suggest that AI-based tutoring is more effective than regular homework"
+     ],
+     "a": 2,
+     "why": "The company has a commercial interest in presenting the situation as a problem needing expert help.",
+     "evidence": "so it has a commercial interest in presenting the situation as a problem that requires expert guidance",
+     "optWhy": [
+      "Too strong: the author says “None of this means the findings are wrong.”",
+      "Invented link: the six countries have nothing to do with its business.",
+      "Correct. It hints at a reason to emphasise the problem.",
+      "Not mentioned: tutoring and homework are not compared."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the approach of “teaching critical use”?",
+     "opts": [
+      "It has already been adopted by most schools in Britain.",
+      "It depends on detection software to identify dishonest pupils.",
+      "It is less suitable for older students who already write well.",
+      "It may work poorly for pupils who lack independent reasoning skills."
+     ],
+     "a": 3,
+     "why": "It assumes pupils can already judge AI output; a student who cannot build an argument may miss a weak one.",
+     "evidence": "A student who has never learned to build an argument independently may not recognise when a machine's argument is weak.",
+     "optWhy": [
+      "Contradicts paragraph 1: only 28% have had a structured lesson.",
+      "Wrong side: detection software belongs to the ban approach.",
+      "Reversed: the worry is about weaker students, not strong writers.",
+      "Correct. One step beyond the last sentence."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "When an assignment is meant to build a skill through effort, having a machine complete it undermines its aim.",
+      "Assignments that aim to build skills should be completed with machines, just as robots can help people train.",
+      "Practising a skill through effort is less useful than producing a finished product with the help of a machine.",
+      "Machines can help strengthen skills only when pupils make an effort to practise alongside them at the same time."
+     ],
+     "a": 0,
+     "why": "If homework is practice, letting a machine do it defeats its purpose, like sending a robot to the gym.",
+     "evidence": "If the purpose of an assignment is practice, strengthening a skill through effort, then letting a machine do it defeats the purpose",
+     "optWhy": [
+      "Correct. Keeps the condition and the result.",
+      "Reversed, and misreads the gym comparison.",
+      "Adds a comparison that is not in the sentence.",
+      "Twists the comparison: nothing says practising together with machines works."
+     ],
+     "highlight": "If the purpose of an assignment is practice, strengthening a skill through effort, then letting a machine do it defeats the purpose, much as sending a robot to the gym would do nothing for one's own fitness."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261103-3-k1",
+     "tag": "Main idea",
+     "fact": "A 2026 GoStudent survey found 73% of British pupils who use AI at school had not acknowledged it; only 28% had a structured lesson on AI.",
+     "q": "What did the survey find about British pupils?",
+     "opts": [
+      "Most never use AI",
+      "Most AI users did not acknowledge its role",
+      "All had AI lessons",
+      "Teachers ban AI everywhere"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-3-k2",
+     "tag": "Detail",
+     "fact": "94% of teachers knew pupils handed in AI work; Ofqual warned that the true extent may exceed detected cases.",
+     "q": "What did Ofqual's chief regulator warn?",
+     "opts": [
+      "AI is harmless",
+      "The real problem may be bigger than detected cases",
+      "Exams should end",
+      "Teachers use too much AI"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-3-k3",
+     "tag": "Critical thinking",
+     "fact": "Read surveys carefully: self-reporting, vague definitions, and GoStudent's commercial interest mean the pattern matters more than exact numbers.",
+     "q": "Why should the survey be read with care?",
+     "opts": [
+      "It was too short",
+      "Self-reporting and a commercial interest",
+      "It was secret",
+      "It only asked teachers"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261103-3-k4",
+     "tag": "Debate",
+     "fact": "Integrity camp: bans, supervised and oral work. Critical-use camp: teach pupils to check and disclose AI. Bans are hard to enforce; critical use needs basic skills.",
+     "q": "What is a weakness of strict bans?",
+     "opts": [
+      "AI text is hard to detect reliably",
+      "They are too cheap",
+      "Pupils like them",
+      "They teach critical use"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261103-3-k5",
+     "tag": "Author's view",
+     "fact": "Ask what homework is for: practice (AI defeats it, like a robot at the gym) vs a polished product (AI may be fine if acknowledged).",
+     "q": "According to the author, when does AI defeat the purpose of homework?",
+     "opts": [
+      "When the goal is a polished product",
+      "When the goal is practice",
+      "Never",
+      "Always"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AI and homework",
+    "question": "Should AI be allowed, or what is homework for?",
+    "branches": [
+     {
+      "title": "The survey",
+      "paras": "1–3",
+      "blanks": [
+       "most AI users don't acknowledge it",
+       "teachers and regulators worried"
+      ],
+      "kps": [
+       "n20261103-3-k1",
+       "n20261103-3-k2"
+      ]
+     },
+     {
+      "title": "Read with care",
+      "paras": "4",
+      "blanks": [
+       "self-reporting, commercial interest"
+      ],
+      "kps": [
+       "n20261103-3-k3"
+      ]
+     },
+     {
+      "title": "Two camps",
+      "paras": "5–6",
+      "blanks": [
+       "ban it vs teach critical use"
+      ],
+      "kps": [
+       "n20261103-3-k4"
+      ]
+     },
+     {
+      "title": "Better question",
+      "paras": "7",
+      "blanks": [
+       "practice or product?"
+      ],
+      "kps": [
+       "n20261103-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "most pupils want AI banned",
+     "schools already teach AI use well"
+    ]
+   },
+   "summary": {
+    "intro": "A new survey suggests that many pupils hand in AI-generated homework without saying so.",
+    "model": "Surveys suggest that AI use in homework is widespread and often hidden, while teachers worry and rules remain unclear. However, because both bans and teaching critical use have weaknesses, the author suggests schools should first decide whether each task is practice or a product.",
+    "options": [
+     {
+      "t": "Surveys in Britain and the US suggest that pupils widely use AI for schoolwork, often without acknowledging it.",
+      "ok": true,
+      "why": "Main idea of paragraphs 1–3.",
+      "type": "main",
+      "para": 1,
+      "evidence": "had not acknowledged its role in their work"
+     },
+     {
+      "t": "Some favor strict bans while others want pupils taught to use AI critically, and both approaches have weaknesses.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Each side has a point, and each has a weakness."
+     },
+     {
+      "t": "The author suggests schools should distinguish between homework for practice and homework for producing a polished product.",
+      "ok": true,
+      "why": "Main idea of paragraph 7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Schools that clearly distinguish between these two types of task"
+     },
+     {
+      "t": "GoStudent's survey covered six European countries.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "covering six European countries"
+     },
+     {
+      "t": "The UK government has announced a national ban on AI in schools.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Most pupils have received structured lessons on how to use AI properly.",
+      "ok": false,
+      "why": "Contradicts paragraph 1.",
+      "type": "contra",
+      "para": 1,
+      "evidence": "Only 28 percent said they had ever received a structured lesson"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Imagine your school is writing new rules about AI. If you could give the head teacher one piece of advice, what would it be? Explain why your advice would help students learn better.",
+    "hint": "Your advice → why it helps learning → example → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: Many schools are struggling to decide how students should be allowed to use AI tools such as chatbots. Some teachers want to ban AI from homework completely, while others want students to use AI openly as long as they explain how they used it. Which policy is better for students' learning, and why? (Emma prefers a ban because homework should be hard. Lucas says bans can't be checked; disclosure shows thinking.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use the article's practice vs product idea.",
+     "Add an example from your own homework.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  }
+ ],
+ "audio": {
+  "On Monday, 2 November 2026, the world's two main oil prices suffered their steepest one-day fall in three months. West Texas Intermediate (WTI), the leading American benchmark, dropped 7.4 percent to settle at $96.46 a barrel, slipping below the symbolic $100 mark, while Brent crude, the international reference price, lost 7.6 percent to close at $104.77. Yet no new oil field had been found, and no tanker had changed course. What moved the market was a set of words: reports that Iran's supreme leader had approved negotiations with the United States, and that the American president wanted to give those talks a chance to play out.": "audio/2026-11-03/a1-p1.mp3",
+  "To understand why words can be worth billions of dollars, it helps to recall how oil is priced. In the textbook model, the price of a commodity reflects the balance between supply and demand. Oil, however, is traded largely through futures contracts, which are agreements to buy or sell a fixed quantity at a set price on a future date. Because these contracts concern barrels that will be delivered weeks or months later, their price depends not only on today's physical market but also on traders' expectations about tomorrow. When there is a credible threat that supply could suddenly be cut off, buyers are willing to pay extra as a kind of insurance. Analysts call this additional cost the risk premium.": "audio/2026-11-03/a1-p2.mp3",
+  "Since the conflict involving Iran began in late February, that premium has been unusually large. Roughly one-fifth of the oil the world consumes each day normally passes through the Strait of Hormuz, the narrow channel between Iran and the Arabian Peninsula, so any disruption there threatens supplies far beyond the region. Brent has swung between $72 and $126 a barrel during the conflict, and in October prices climbed to a six-month high as Gulf supplies came under pressure and Ukrainian drones struck Russian refineries. When diplomacy suddenly appeared possible, as one shipping analyst put it, \"a lot of risk premium\" began \"seeping out\" of the market.": "audio/2026-11-03/a1-p3.mp3",
+  "The size of the fall, however, also had a mechanical cause. Many investment funds follow automated, trend-following strategies that buy when prices rise and sell when they fall. As the price of Brent began to drop, these traders reduced their bets on further increases, and their selling pushed prices lower still. In other words, the initial reaction to the news was amplified by the structure of the market itself.": "audio/2026-11-03/a1-p4.mp3",
+  "For some observers, this episode shows that markets work efficiently. In their view, an oil price is simply a constantly updated estimate of risk: when war threatens supply, prices rise and encourage consumers to conserve and producers elsewhere to pump more; when the danger fades, prices fall again. The sharp drop, they argue, was a rational response to new information. Critics see something less reassuring. They point out that the underlying situation had barely changed, since the two sides had not even agreed on terms for fully reopening the Strait of Hormuz, and that the market seemed to be reacting \"with extreme sensitivity to every headline,\" in the words of one bank analyst. If a single statement can erase more than seven percent of an asset's value in a day, they ask, how much do prices really reveal about physical supply?": "audio/2026-11-03/a1-p5.mp3",
+  "The stakes are not merely academic. For ordinary households, oil prices feed directly into the cost of transport, heating and food. In the United States, the average price of regular gasoline stood at $4.17 a gallon at the start of November, compared with $3.04 a year earlier, and diesel, which is vital for trucks and farm machinery, averaged $6.29, up from $3.68. A lasting fall would offer real relief. Yet forecasters warned that the reprieve could be temporary. Goldman Sachs had recently raised its December forecast for Brent to $105 a barrel and cautioned that prices could average $130 next year if Gulf production remained far below its 2025 level.": "audio/2026-11-03/a1-p6.mp3",
+  "High prices also involve a longer-term trade-off. Expensive fuel strengthens the economic case for electric vehicles and renewable energy, and some economists argue that price shocks speed up the energy transition. However, the burden of such shocks falls most heavily on low-income families and on developing countries that import most of their energy, which makes it difficult to treat volatility as a welcome policy tool.": "audio/2026-11-03/a1-p7.mp3",
+  "On balance, the most persuasive reading is that both camps are partly right. The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment. Until the strait is fully reopened, oil prices are likely to keep reacting to headlines, and the decisive factor will not be what leaders say but whether tankers can move freely.": "audio/2026-11-03/a1-p8.mp3",
+  "benchmark": "audio/2026-11-03/a1-w-benchmark.mp3",
+  "Gold prices are often used as a benchmark for safe investments.": "audio/2026-11-03/a1-ex-benchmark.mp3",
+  "commodity": "audio/2026-11-03/a1-w-commodity.mp3",
+  "Coffee is an important commodity for many developing countries.": "audio/2026-11-03/a1-ex-commodity.mp3",
+  "futures contract": "audio/2026-11-03/a1-w-futures-contract.mp3",
+  "The farmer signed a futures contract to sell his wheat at next summer's price.": "audio/2026-11-03/a1-ex-futures-contract.mp3",
+  "risk premium": "audio/2026-11-03/a1-w-risk-premium.mp3",
+  "Flights over war zones carry a risk premium in insurance costs.": "audio/2026-11-03/a1-ex-risk-premium.mp3",
+  "volatility": "audio/2026-11-03/a1-w-volatility.mp3",
+  "Bitcoin is famous for its volatility.": "audio/2026-11-03/a1-ex-volatility.mp3",
+  "credible": "audio/2026-11-03/a1-w-credible.mp3",
+  "The police found no credible evidence against him.": "audio/2026-11-03/a1-ex-credible.mp3",
+  "magnify": "audio/2026-11-03/a1-w-magnify.mp3",
+  "Social media can magnify a small rumor into a national story.": "audio/2026-11-03/a1-ex-magnify.mp3",
+  "conserve": "audio/2026-11-03/a1-w-conserve.mp3",
+  "Turn off the lights to conserve energy.": "audio/2026-11-03/a1-ex-conserve.mp3",
+  "reprieve": "audio/2026-11-03/a1-w-reprieve.mp3",
+  "A day of rain gave the firefighters a brief reprieve.": "audio/2026-11-03/a1-ex-reprieve.mp3",
+  "sentiment": "audio/2026-11-03/a1-w-sentiment.mp3",
+  "Public sentiment turned against the new law.": "audio/2026-11-03/a1-ex-sentiment.mp3",
+  "What moved the market was a set of words": "audio/2026-11-03/a1-ks1.mp3",
+  "Analysts call this additional cost the risk premium.": "audio/2026-11-03/a1-ks2.mp3",
+  "The size of the fall, however, also had a mechanical cause.": "audio/2026-11-03/a1-ks3.mp3",
+  "The sharp drop, they argue, was a rational response to new information.": "audio/2026-11-03/a1-ks4.mp3",
+  "However, the burden of such shocks falls most heavily on low-income families and on developing countries": "audio/2026-11-03/a1-ks5.mp3",
+  "The November fall did reflect a genuine reduction in perceived risk, but its scale owed much to the way modern markets magnify sentiment.": "audio/2026-11-03/a1-ks6.mp3",
+  "On the evening of 18 October 2026, a camera aboard the European Space Agency's Hera spacecraft captured an image that, to an untrained eye, looked unremarkable: a bright dot with a faint companion barely one pixel wide. For the mission team, however, the picture marked a milestone. Taken from 1,280 kilometres away, it was the first time Hera had resolved the binary asteroid system it was built to study into two separate objects: the 780-metre Didymos and its small moon, Dimorphos, which measures about 151 metres across, roughly the size of the Great Pyramid of Giza. \"For the very first time we are seeing through Hera's own eyes the very double asteroid system that the mission was designed and built for,\" said mission manager Ian Carnelli.": "audio/2026-11-03/a2-p1.mp3",
+  "Dimorphos is no ordinary moon. On 26 September 2022, NASA's Double Asteroid Redirection Test (DART) deliberately crashed into it at 6.1 kilometres per second. The collision hurled a plume of debris across some 10,000 kilometres of space and shortened Dimorphos's orbit around Didymos by about 33 minutes. It was the first time human effort had measurably shifted the orbit of a natural object in the Solar System. Neither asteroid posed any danger to Earth; the pair was chosen precisely because it offered a safe laboratory in which a small orbital change could be measured with telescopes on the ground.": "audio/2026-11-03/a2-p2.mp3",
+  "The experiment tested a strategy known as kinetic impact. If an asteroid were found to be on a collision course with Earth, a spacecraft could strike it years in advance, nudging it just enough that a tiny change in velocity would grow into a miss of thousands of kilometres. DART proved the basic principle, but it also produced a puzzle: the deflection was considerably larger than computer simulations had predicted. One leading explanation is that the debris blasted off the surface acted like the exhaust of a rocket, adding extra push beyond the spacecraft's own momentum. Yet to estimate how much extra push a future impact might deliver, scientists need to know what Dimorphos is made of, how massive it is and how its surface responded, information that DART, destroyed in the collision, could not provide.": "audio/2026-11-03/a2-p3.mp3",
+  "This is where Hera, launched on 7 October 2024, comes in. Over the coming months it will carry out what ESA calls a \"crash-site investigation.\" It will measure Dimorphos's mass, map the crater or reshaping caused by the impact, and examine the asteroid's internal structure using visual, laser and radio instruments. It will also release two shoebox-sized satellites, known as CubeSats. One, Milani, will analyse the minerals on the surface, while the other, Juventas, will attempt the first radar sounding of an asteroid's interior. The first detailed images of Dimorphos are expected on 25 November 2026.": "audio/2026-11-03/a2-p4.mp3",
+  "Supporters argue that such work is an inexpensive insurance policy. Large impacts are rare, but their consequences can be severe. In 1908 an object exploded over Tunguska in Siberia and flattened around 2,000 square kilometres of forest, and in 2013 a meteor that burst above Chelyabinsk, Russia, injured more than a thousand people, mostly through shattered glass. Because the probability of a dangerous impact in any given year is low while the potential damage is enormous, advocates contend that a planet able to deflect asteroids should test its methods before an emergency, not during one.": "audio/2026-11-03/a2-p5.mp3",
+  "Skeptics raise several objections. Some question whether money spent on rare threats would save more lives if it were directed toward pressing problems such as disease or adaptation to climate change. Others note that results from one asteroid may not apply to another. Many small asteroids appear to be loose \"rubble piles\" held together by weak gravity, and a body with a different structure might fragment rather than move as a whole, possibly creating several hazardous objects instead of one. There are also questions of governance. If a deflection effort shifted an asteroid's predicted impact point from one country toward another along the way, who would have the authority to make that decision?": "audio/2026-11-03/a2-p6.mp3",
+  "These concerns are serious, but they arguably strengthen rather than weaken the case for missions like Hera. Uncertainty about how different asteroids respond is exactly the knowledge gap the mission is designed to narrow, and the cost of planetary-defence research is modest compared with the damage a single regional impact could cause. Questions of governance, meanwhile, are best addressed calmly and in advance, using real data rather than speculation. A single pixel may seem a small reward for a two-year journey, but it marks the beginning of a far more detailed answer to an old question: whether humanity could ever change the course of a threatening object in space.": "audio/2026-11-03/a2-p7.mp3",
+  "binary asteroid": "audio/2026-11-03/a2-w-binary-asteroid.mp3",
+  "Astronomers discovered a binary asteroid whose two parts circle each other every twelve hours.": "audio/2026-11-03/a2-ex-binary-asteroid.mp3",
+  "kinetic impact": "audio/2026-11-03/a2-w-kinetic-impact.mp3",
+  "A kinetic impact works like a cue ball hitting another ball on a pool table.": "audio/2026-11-03/a2-ex-kinetic-impact.mp3",
+  "deflection": "audio/2026-11-03/a2-w-deflection.mp3",
+  "The goalkeeper's deflection sent the ball over the bar.": "audio/2026-11-03/a2-ex-deflection.mp3",
+  "momentum": "audio/2026-11-03/a2-w-momentum.mp3",
+  "A heavy truck has more momentum than a bicycle at the same speed.": "audio/2026-11-03/a2-ex-momentum.mp3",
+  "plume": "audio/2026-11-03/a2-w-plume.mp3",
+  "A plume of ash rose from the volcano.": "audio/2026-11-03/a2-ex-plume.mp3",
+  "milestone": "audio/2026-11-03/a2-w-milestone.mp3",
+  "Finishing her first marathon was a milestone for her.": "audio/2026-11-03/a2-ex-milestone.mp3",
+  "fragment": "audio/2026-11-03/a2-w-fragment.mp3",
+  "Old glass can fragment if it is dropped.": "audio/2026-11-03/a2-ex-fragment.mp3",
+  "advocate": "audio/2026-11-03/a2-w-advocate.mp3",
+  "She is a strong advocate of free school meals.": "audio/2026-11-03/a2-ex-advocate.mp3",
+  "governance": "audio/2026-11-03/a2-w-governance.mp3",
+  "Good governance requires clear rules and open decisions.": "audio/2026-11-03/a2-ex-governance.mp3",
+  "speculation": "audio/2026-11-03/a2-w-speculation.mp3",
+  "There was a lot of speculation about who the new coach would be.": "audio/2026-11-03/a2-ex-speculation.mp3",
+  "it was the first time Hera had resolved the binary asteroid system it was built to study into two separate objects": "audio/2026-11-03/a2-ks1.mp3",
+  "the pair was chosen precisely because it offered a safe laboratory in which a small orbital change could be measured with telescopes on the ground.": "audio/2026-11-03/a2-ks2.mp3",
+  "DART proved the basic principle, but it also produced a puzzle: the deflection was considerably larger than computer simulations had predicted.": "audio/2026-11-03/a2-ks3.mp3",
+  "Large impacts are rare, but their consequences can be severe.": "audio/2026-11-03/a2-ks4.mp3",
+  "These concerns are serious, but they arguably strengthen rather than weaken the case for missions like Hera.": "audio/2026-11-03/a2-ks5.mp3",
+  "A survey published in early November 2026 has added fresh evidence to one of the most heated debates in education. According to the Future of Education Report 2026, produced by the tutoring company GoStudent and covering six European countries, 73 percent of British pupils who use artificial intelligence (AI) at school had not acknowledged its role in their work. Among pupils who use AI for schoolwork, 58 percent said they submitted AI-generated material as their own at least once a week, the highest proportion of the six countries surveyed. Only 28 percent said they had ever received a structured lesson on how to use AI properly.": "audio/2026-11-03/a3-p1.mp3",
+  "Teachers' responses were equally striking. Ninety-four percent said they knew that pupils were handing in AI-generated work, and two-thirds said it happened at least weekly. Perhaps more worrying, 44 percent were not confident that most of their pupils could write a complete essay from scratch without AI assistance. The concern has reached the top of the exam system. The chief regulator of Ofqual, England's exams watchdog, has written to exam boards about AI misuse in coursework, noting that although the number of detected cases remains relatively low, the true extent of the problem is a cause for concern.": "audio/2026-11-03/a3-p2.mp3",
+  "The British figures echo trends elsewhere. In the United States, a RAND Corporation survey of young people aged 12 to 29 found that the share using AI for homework rose from 48 percent to 62 percent between May and December 2025, with middle and high school students driving most of the increase. Interestingly, students themselves expressed doubts: 67 percent agreed that relying heavily on AI for schoolwork harms critical thinking, an increase of more than ten percentage points in less than a year. Many also reported confusion, saying that the rules depended on which teacher they had, and some worried about being falsely accused of cheating.": "audio/2026-11-03/a3-p3.mp3",
+  "Such numbers should be interpreted with care. Surveys depend on self-reporting, and definitions of \"using AI\" vary widely, from asking a chatbot to explain a difficult concept to copying an entire essay. Moreover, GoStudent sells tutoring services, including AI-based ones, so it has a commercial interest in presenting the situation as a problem that requires expert guidance. None of this means the findings are wrong, but it does suggest that the exact percentages matter less than the overall pattern: AI use is widespread, rules are unclear, and teachers are uneasy.": "audio/2026-11-03/a3-p4.mp3",
+  "Responses to this pattern fall broadly into two camps. The first emphasises academic integrity. Its supporters argue that if pupils can outsource homework to a machine, homework no longer measures what pupils know, and grades lose their meaning. They favour clear bans for certain tasks, more supervised writing in class, and a return to handwritten or oral assessments. The second camp contends that prohibition is both unrealistic and short-sighted. AI tools will be part of almost every workplace these pupils enter, so schools should teach them to use those tools critically: to check facts, question outputs and disclose assistance honestly. As GoStudent's chief executive put it, \"The key is teaching them to use it critically.\"": "audio/2026-11-03/a3-p5.mp3",
+  "Each side has a point, and each has a weakness. Strict bans are difficult to enforce, since AI-generated text is hard to detect reliably, and heavy reliance on detection software risks punishing honest students, which is precisely the fear expressed by the American pupils. On the other hand, \"teaching critical use\" assumes that pupils already possess the basic skills needed to judge an AI's output. A student who has never learned to build an argument independently may not recognise when a machine's argument is weak.": "audio/2026-11-03/a3-p6.mp3",
+  "Perhaps the more productive question is not whether AI should be allowed but what homework is for. If the purpose of an assignment is practice, strengthening a skill through effort, then letting a machine do it defeats the purpose, much as sending a robot to the gym would do nothing for one's own fitness. If, however, the purpose is to produce a polished product, then AI may be a legitimate tool, provided its use is acknowledged. Schools that clearly distinguish between these two types of task, and explain the reasons to pupils, may achieve more than either blanket bans or unlimited freedom. The survey results suggest that, at present, most pupils have been told neither.": "audio/2026-11-03/a3-p7.mp3",
+  "academic integrity": "audio/2026-11-03/a3-w-academic-integrity.mp3",
+  "Citing your sources is a basic part of academic integrity.": "audio/2026-11-03/a3-ex-academic-integrity.mp3",
+  "watchdog": "audio/2026-11-03/a3-w-watchdog.mp3",
+  "The consumer watchdog fined the company for misleading ads.": "audio/2026-11-03/a3-ex-watchdog.mp3",
+  "self-reporting": "audio/2026-11-03/a3-w-self-reporting.mp3",
+  "Surveys about screen time rely on self-reporting, so people often underestimate it.": "audio/2026-11-03/a3-ex-self-reporting.mp3",
+  "blanket ban": "audio/2026-11-03/a3-w-blanket-ban.mp3",
+  "The school introduced a blanket ban on phones in class.": "audio/2026-11-03/a3-ex-blanket-ban.mp3",
+  "assessment": "audio/2026-11-03/a3-w-assessment.mp3",
+  "The final assessment includes a speaking test.": "audio/2026-11-03/a3-ex-assessment.mp3",
+  "outsource": "audio/2026-11-03/a3-w-outsource.mp3",
+  "Many companies outsource their customer service.": "audio/2026-11-03/a3-ex-outsource.mp3",
+  "prohibition": "audio/2026-11-03/a3-w-prohibition.mp3",
+  "There is a prohibition on smoking in all public buildings.": "audio/2026-11-03/a3-ex-prohibition.mp3",
+  "disclose": "audio/2026-11-03/a3-w-disclose.mp3",
+  "Players must disclose any injuries to the team doctor.": "audio/2026-11-03/a3-ex-disclose.mp3",
+  "enforce": "audio/2026-11-03/a3-w-enforce.mp3",
+  "It is hard to enforce a speed limit without cameras.": "audio/2026-11-03/a3-ex-enforce.mp3",
+  "commercial": "audio/2026-11-03/a3-w-commercial.mp3",
+  "The film was a commercial success but critics disliked it.": "audio/2026-11-03/a3-ex-commercial.mp3",
+  "73 percent of British pupils who use artificial intelligence (AI) at school had not acknowledged its role in their work.": "audio/2026-11-03/a3-ks1.mp3",
+  "although the number of detected cases remains relatively low, the true extent of the problem is a cause for concern.": "audio/2026-11-03/a3-ks2.mp3",
+  "Such numbers should be interpreted with care.": "audio/2026-11-03/a3-ks3.mp3",
+  "Each side has a point, and each has a weakness.": "audio/2026-11-03/a3-ks4.mp3",
+  "Perhaps the more productive question is not whether AI should be allowed but what homework is for.": "audio/2026-11-03/a3-ks5.mp3"
+ }
+}

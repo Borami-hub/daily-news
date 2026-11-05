@@ -1,0 +1,1644 @@
+{
+ "date": "2026-11-05",
+ "headline": "Market nerves, runaway AI agents, and life's letters in space",
+ "teaser": "Why did stocks jump after the vote? Who pays when AI acts on its own? And did life's ingredients arrive from space?",
+ "articles": [
+  {
+   "id": "n20261105-1",
+   "topic": "Economy",
+   "title": "When Certainty Becomes Good News: Markets After the 2026 Midterms",
+   "dek": "Stocks soared and oil sank after the US midterms. What does a market's mood really tell us?",
+   "sources": [
+    {
+     "name": "Reuters via Investing.com, Nov 4, 2026",
+     "url": "https://investing.com/news/economy-news/trading-day-oil-tanks-stocks-leap-on-us-midterms-5001616"
+    },
+    {
+     "name": "Charles Schwab, Nov 4, 2026",
+     "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+    }
+   ],
+   "paras": [
+    "On the morning of November 4, 2026, investors around the world woke up to the results of the United States midterm elections, in which the Democratic Party won control of both the House of Representatives and the Senate. What happened next surprised many casual observers. Overnight, futures contracts linked to the technology-heavy Nasdaq index had fallen by as much as 2.5 percent as the results emerged, yet by the end of the trading day the Dow Jones Industrial Average had climbed roughly 3 percent, its strongest single-day performance in well over a year, while the broader S&P 500 rose about 1.6 percent. At the same time, the price of crude oil collapsed by around 8 percent, and gold jumped back above 4,000 dollars an ounce. To understand why markets reacted this way, it helps to look beyond which party won and to consider how financial markets process information.",
+    "A central idea in finance is that markets dislike uncertainty more than they dislike bad news. Share prices reflect investors' collective expectations about companies' future profits, and those expectations depend partly on government policy—taxes, regulation, trade rules, and public spending. Before an election, traders must assign probabilities to several possible futures at once, and many respond by holding back or demanding a higher return for the risk they bear. Once the outcome is known, that hedging can unwind quickly. As one strategist at the brokerage Charles Schwab put it, markets typically respond positively to midterm elections being over, “no matter what the outcome.” In other words, part of the rally may have been a release of tension rather than a verdict on any party's program.",
+    "A second explanation concerns the structure of government. Because the president belongs to a different party from the new congressional majority, many analysts expect a period of “gridlock,” in which few major laws pass. For investors, gridlock can paradoxically be attractive. It reduces the likelihood of sweeping changes to taxation or regulation, and it may restrain large increases in government borrowing, which in turn can help keep interest rates in check. Bond markets appeared to share this view: the yield on ten-year US Treasury bonds slipped to around 4.9 percent.",
+    "The oil market told a different but related story. Energy prices had surged earlier in the year after the outbreak of conflict involving Iran, pushing up the cost of fuel and shipping worldwide. Reuters reported that the fall in oil prices on November 4 was linked to rising hopes that the conflict could be brought to an end through diplomacy, with Qatar stepping up its mediation efforts. Cheaper oil tends to ease inflation, because energy feeds into the price of almost everything that must be manufactured or transported. Lower expected inflation, in turn, makes both stocks and bonds more appealing.",
+    "Not every corner of the market celebrated, however. Energy companies, whose revenues depend directly on the price of crude, fell by nearly 5 percent as a group. Shares of several chipmakers and data-center suppliers also declined, as some investors worried that a Democratic Congress might scrutinize the rapid expansion of artificial-intelligence infrastructure more closely. Meanwhile, sectors such as health care and consumer goods posted strong gains. Such divergence is a reminder that “the market” is not a single entity with a single opinion but an aggregate of millions of decisions, each reflecting a particular bet about who will win and who will lose under new conditions.",
+    "Some economists caution against reading too much into a single day of trading. Short-term price swings are often driven by algorithmic trading and by investors adjusting positions they had taken before the vote, and such moves can reverse within weeks. Moreover, the long-run performance of stock markets has historically depended far more on corporate earnings, productivity, and interest rates than on which party controls Congress. From this perspective, the dramatic headlines of November 4 reveal more about investor psychology than about the economy's true direction.",
+    "Others argue that markets, however noisy, contain useful information precisely because participants risk their own money. If the price of oil drops sharply, for example, traders are signaling that they now see a meaningful chance of lower energy costs ahead, a forecast that affects households, airlines, and governments alike. The challenge for observers, then, is to treat market reactions neither as infallible predictions nor as meaningless noise, but as one source of evidence to be weighed against others."
+   ],
+   "words": [
+    {
+     "w": "aggregate",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈæɡrɪɡət/",
+     "syl": [
+      "ag",
+      "gre",
+      "gate"
+     ],
+     "ex": "The final grade is an aggregate of scores from tests, homework, and projects.",
+     "def": "a total formed by combining many separate items"
+    },
+    {
+     "w": "hedging",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈhedʒɪŋ/",
+     "syl": [
+      "hedg",
+      "ing"
+     ],
+     "ex": "Airlines use hedging to protect themselves against sudden rises in fuel prices.",
+     "def": "reducing possible losses by spreading risk across different choices"
+    },
+    {
+     "w": "gridlock",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈɡrɪdlɑːk/",
+     "syl": [
+      "grid",
+      "lock"
+     ],
+     "ex": "Political gridlock meant the city's new transport plan was delayed for years.",
+     "def": "a situation in which no progress is possible, especially in lawmaking"
+    },
+    {
+     "w": "futures contract",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈfjuːtʃərz ˈkɑːntrækt/",
+     "syl": [
+      "fu",
+      "tures",
+      "con",
+      "tract"
+     ],
+     "ex": "Farmers sometimes sell a futures contract to lock in a price for next year's wheat.",
+     "def": "an agreement to buy or sell something at a set price on a future date"
+    },
+    {
+     "w": "yield",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/jiːld/",
+     "syl": [
+      "yield"
+     ],
+     "ex": "When bond prices fall, their yield usually rises.",
+     "def": "the income an investment pays, shown as a percentage of its price"
+    },
+    {
+     "w": "paradoxically",
+     "level": "Academic",
+     "pos": "adv.",
+     "ipa": "/ˌpærəˈdɑːksɪkli/",
+     "syl": [
+      "par",
+      "a",
+      "dox",
+      "i",
+      "cal",
+      "ly"
+     ],
+     "ex": "Paradoxically, taking short breaks can help you finish your homework faster.",
+     "def": "in a way that seems contradictory but may be true"
+    },
+    {
+     "w": "restrain",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/rɪˈstreɪn/",
+     "syl": [
+      "re",
+      "strain"
+     ],
+     "ex": "The new rules aim to restrain the rapid growth of plastic waste.",
+     "def": "to limit or keep something under control"
+    },
+    {
+     "w": "divergence",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/daɪˈvɜːrdʒəns/",
+     "syl": [
+      "di",
+      "ver",
+      "gence"
+     ],
+     "ex": "There is a growing divergence between what students study and what employers need.",
+     "def": "a difference that develops between things"
+    },
+    {
+     "w": "scrutinize",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈskruːtənaɪz/",
+     "syl": [
+      "scru",
+      "ti",
+      "nize"
+     ],
+     "ex": "Teachers scrutinize every essay for signs of copying.",
+     "def": "to examine something very carefully and critically"
+    },
+    {
+     "w": "infallible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ɪnˈfæləbl/",
+     "syl": [
+      "in",
+      "fal",
+      "li",
+      "ble"
+     ],
+     "ex": "Even the best weather forecasts are not infallible.",
+     "def": "never wrong"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "To understand why markets reacted this way, it helps to look beyond which party won and to consider how financial markets process information.",
+     "kind": "Main idea",
+     "note": "The author tells you the article is about how markets process information, not about which party won. Purpose questions often hinge on this."
+    },
+    {
+     "para": 2,
+     "text": "A central idea in finance is that markets dislike uncertainty more than they dislike bad news.",
+     "kind": "Topic sentence",
+     "note": "The first explanation for the rally. The rest of paragraph 2 supports it with hedging and the Charles Schwab quote."
+    },
+    {
+     "para": 3,
+     "text": "For investors, gridlock can paradoxically be attractive.",
+     "kind": "Topic sentence",
+     "note": "“Paradoxically” signals a surprising claim. The paragraph then lists three reasons, which is exactly what a NOT question tests."
+    },
+    {
+     "para": 4,
+     "text": "Cheaper oil tends to ease inflation, because energy feeds into the price of almost everything that must be manufactured or transported.",
+     "kind": "Cause → effect",
+     "note": "A clear cause-and-effect chain: oil → energy costs → prices of goods. Inference questions build on chains like this."
+    },
+    {
+     "para": 6,
+     "text": "Some economists caution against reading too much into a single day of trading.",
+     "kind": "Hedging",
+     "note": "The turn to the skeptical view. Watch for answer choices that treat one day of trading as proof."
+    },
+    {
+     "para": 7,
+     "text": "The challenge for observers, then, is to treat market reactions neither as infallible predictions nor as meaningless noise, but as one source of evidence to be weighed against others.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion. “Neither … nor … but” rejects two extremes."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word “unwind” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "relax",
+      "be reversed",
+      "accelerate",
+      "be explained"
+     ],
+     "a": 1,
+     "why": "After the result is known, the hedging traders set up before the vote is undone, so “be reversed” fits.",
+     "evidence": "that hedging can unwind quickly",
+     "optWhy": [
+      "Trap: “relax” is the everyday meaning of unwind, but hedging positions do not relax; they are closed out.",
+      "Correct. Hedging positions are reversed once the outcome is known.",
+      "It fits grammatically, but the text says the hedging is undone, not sped up.",
+      "It fits grammatically, but nothing in the text says the hedging is explained."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, which of the following is true of the market reaction on November 4?",
+     "opts": [
+      "Nasdaq futures rose sharply overnight, before the final election results became clear.",
+      "The S&P 500 recorded its strongest single-day gain in more than a year.",
+      "Gold and oil prices both rose as investors moved money into safer assets.",
+      "Major stock indexes finished the day higher despite an earlier overnight drop in some futures."
+     ],
+     "a": 3,
+     "why": "Nasdaq futures had fallen overnight, yet the Dow and S&P 500 ended the day higher.",
+     "evidence": "yet by the end of the trading day the Dow Jones Industrial Average had climbed roughly 3 percent",
+     "optWhy": [
+      "Detail swapped: the futures fell, not rose.",
+      "Object swapped: the strongest day in over a year belongs to the Dow, not the S&P 500.",
+      "Partly true: gold rose, but oil collapsed; “safer assets” is also not stated.",
+      "Correct. It paraphrases the overnight drop followed by gains at the close."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are reasons gridlock may appeal to investors EXCEPT:",
+     "opts": [
+      "It gives companies more time to adjust before new regulations take effect.",
+      "It makes broad changes to tax policy less likely to occur.",
+      "It may limit how much the government increases its borrowing.",
+      "It may help prevent interest rates from moving sharply upward."
+     ],
+     "a": 0,
+     "why": "Paragraph 3 lists fewer sweeping tax or regulatory changes, restrained borrowing, and steadier interest rates. Extra time to adjust is not mentioned.",
+     "evidence": "It reduces the likelihood of sweeping changes to taxation or regulation",
+     "optWhy": [
+      "Correct answer, because it is NOT mentioned. It sounds reasonable, so you must check the text.",
+      "Mentioned: “reduces the likelihood of sweeping changes to taxation.”",
+      "Mentioned: “may restrain large increases in government borrowing.”",
+      "Mentioned: “help keep interest rates in check.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about oil prices and inflation?",
+     "opts": [
+      "Oil prices fell on November 4 because inflation had already begun to slow.",
+      "Diplomatic progress in the region directly reduced the prices of manufactured goods.",
+      "A lasting drop in oil prices would probably lower the cost of producing and moving many goods.",
+      "Higher expected inflation tends to make both stocks and bonds more appealing to investors."
+     ],
+     "a": 2,
+     "why": "Energy feeds into the price of almost everything that is made or transported, so cheaper oil would likely lower those costs.",
+     "evidence": "energy feeds into the price of almost everything that must be manufactured or transported",
+     "optWhy": [
+      "Cause reversed: cheaper oil eases inflation, not the other way round.",
+      "Too strong: diplomacy affected oil expectations; the text never says it directly cut the prices of goods.",
+      "Correct. One logical step beyond what the paragraph states.",
+      "Relationship reversed: the text says LOWER expected inflation makes stocks and bonds more appealing."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention energy companies and chipmakers in paragraph 5?",
+     "opts": [
+      "To show that the response to the election was not the same across all parts of the market",
+      "To argue that the election result will harm the energy and technology industries over time",
+      "To explain the main reason that crude oil prices fell so sharply on November 4",
+      "To suggest that investors expected Congress to speed up investment in AI infrastructure"
+     ],
+     "a": 0,
+     "why": "The paragraph opens with “Not every corner of the market celebrated” and contrasts falling sectors with rising ones.",
+     "evidence": "Not every corner of the market celebrated, however.",
+     "optWhy": [
+      "Correct. These examples show that sectors reacted differently.",
+      "Too strong: the text describes one day's fall and some worries, not long-term harm.",
+      "From another paragraph: the cause of the oil drop is in paragraph 4, not the reason for these examples.",
+      "Reversed: investors worried Congress would scrutinize AI infrastructure more closely."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because millions of investors are involved, the market usually fails to reach any clear view about an election.",
+      "The market behaves as one entity whose opinion reflects the combined bets of millions of investors.",
+      "Sectors moved in different directions because some investors misunderstood the new political conditions.",
+      "Uneven sector results show that market movements combine many separate judgments about who will gain or lose."
+     ],
+     "a": 3,
+     "why": "The sentence says divergence shows the market is not one opinion but the sum of many separate bets about winners and losers.",
+     "evidence": "Such divergence is a reminder that “the market” is not a single entity with a single opinion but an aggregate of millions of decisions, each reflecting a particular bet about who will win and who will lose under new conditions.",
+     "optWhy": [
+      "Adds a conclusion the text never makes (the market “fails to reach any clear view”).",
+      "Contradicts the sentence, which says the market is NOT a single entity.",
+      "Adds a false cause: nothing says investors misunderstood anything.",
+      "Correct. Keeps divergence, many separate judgments, and winners versus losers."
+     ],
+     "highlight": "Such divergence is a reminder that “the market” is not a single entity with a single opinion but an aggregate of millions of decisions, each reflecting a particular bet about who will win and who will lose under new conditions."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261105-1-k1",
+     "tag": "Main idea",
+     "fact": "After the 2026 midterms, US stocks rose strongly while oil fell about 8 percent and gold climbed above 4,000 dollars an ounce.",
+     "q": "How did markets react on November 4?",
+     "opts": [
+      "Stocks and oil both fell",
+      "Stocks rose while oil fell sharply",
+      "Stocks fell while gold collapsed",
+      "Only bond prices moved"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-1-k2",
+     "tag": "Concept",
+     "fact": "Markets dislike uncertainty more than bad news; once the result is known, hedging unwinds and prices can rise.",
+     "q": "According to the article, what do markets dislike more than bad news?",
+     "opts": [
+      "Low oil prices",
+      "Divided government",
+      "Uncertainty",
+      "Rising gold prices"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261105-1-k3",
+     "tag": "Cause & effect",
+     "fact": "Gridlock can attract investors: fewer sweeping policy changes, less new borrowing, and steadier interest rates.",
+     "q": "Why might investors welcome gridlock?",
+     "opts": [
+      "It makes sweeping policy changes less likely",
+      "It guarantees lower taxes",
+      "It speeds up new laws",
+      "It raises oil prices"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261105-1-k4",
+     "tag": "Cause & effect",
+     "fact": "Cheaper oil eases inflation because energy costs feed into almost everything that is made or transported.",
+     "q": "Why does cheaper oil tend to ease inflation?",
+     "opts": [
+      "People drive less",
+      "Governments tax fuel more",
+      "Oil companies cut wages",
+      "Energy costs feed into most goods"
+     ],
+     "a": 3
+    },
+    {
+     "id": "n20261105-1-k5",
+     "tag": "Critical thinking",
+     "fact": "Market moves are neither infallible predictions nor meaningless noise; treat them as one source of evidence among others.",
+     "q": "How does the author suggest we treat market reactions?",
+     "opts": [
+      "As accurate predictions",
+      "As one source of evidence among others",
+      "As meaningless noise",
+      "As a public opinion poll"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Markets after the vote",
+    "question": "Why did markets jump, and what does it tell us?",
+    "branches": [
+     {
+      "title": "The reaction",
+      "paras": "1",
+      "blanks": [
+       "stocks rose while oil fell sharply"
+      ],
+      "kps": [
+       "n20261105-1-k1"
+      ]
+     },
+     {
+      "title": "Why stocks rose",
+      "paras": "2–3",
+      "blanks": [
+       "the uncertainty was finally over",
+       "gridlock limits sweeping changes"
+      ],
+      "kps": [
+       "n20261105-1-k2",
+       "n20261105-1-k3"
+      ]
+     },
+     {
+      "title": "Oil and prices",
+      "paras": "4",
+      "blanks": [
+       "peace hopes pushed oil down",
+       "cheaper oil eases inflation"
+      ],
+      "kps": [
+       "n20261105-1-k4"
+      ]
+     },
+     {
+      "title": "Reading the signal",
+      "paras": "5–7",
+      "blanks": [
+       "sectors moved in different directions",
+       "one source of evidence, not proof"
+      ],
+      "kps": [
+       "n20261105-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "energy companies led the rally",
+     "the central bank cut interest rates"
+    ]
+   },
+   "summary": {
+    "intro": "US financial markets reacted strongly to the 2026 midterm election results.",
+    "model": "After the midterms, stocks rose and oil fell, partly because the end of uncertainty, expected gridlock, and hopes of peace reassured investors. However, because a single day of trading can mislead, such reactions should be weighed as one source of evidence rather than a final verdict.",
+    "options": [
+     {
+      "t": "Stocks rose partly because investors were relieved that the uncertainty of the election was over.",
+      "ok": true,
+      "why": "Main idea of paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "markets dislike uncertainty more than they dislike bad news"
+     },
+     {
+      "t": "Expected gridlock and hopes of peace, which pushed oil prices down, made both stocks and bonds look more attractive.",
+      "ok": true,
+      "why": "Main idea of paragraphs 3–4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Lower expected inflation, in turn, makes both stocks and bonds more appealing."
+     },
+     {
+      "t": "Because one day of trading can mislead, market reactions should be weighed as one source of evidence rather than treated as proof.",
+      "ok": true,
+      "why": "Main idea of paragraphs 6–7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "as one source of evidence to be weighed against others"
+     },
+     {
+      "t": "The yield on ten-year US Treasury bonds slipped to around 4.9 percent.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "slipped to around 4.9 percent"
+     },
+     {
+      "t": "The central bank cut interest rates the day after the election.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Every sector of the market, including energy companies, posted strong gains.",
+      "ok": false,
+      "why": "Contradicts paragraph 5: energy companies fell by nearly 5 percent.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Not every corner of the market celebrated, however."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people say that young people should learn how the stock market works while they are still in school, while others think this is unnecessary until they start working. Which opinion do you agree with? Use specific reasons and examples.",
+    "hint": "Opinion in one sentence → reason 1 + example → reason 2 + example → short wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: After a major election, stock prices jumped while oil prices fell sharply. Some people believe daily market reactions are a useful guide to whether an event is good or bad for society. Others think they mostly reflect investors' short-term emotions. Which view do you agree with, and why? (Lina says investors risk their own money, so prices carry real information. Marcus says much trading is done by computers and prices often reverse within weeks.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Give a reason supported by the article.",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261105-2",
+   "topic": "Technology",
+   "title": "Who Is Responsible When Software Acts on Its Own? Apple's Warning About AI Agents",
+   "dek": "Apple has formally warned that AI agents may act in unpredictable ways. Who is responsible when they do?",
+   "sources": [
+    {
+     "name": "CNBC, Nov 3, 2026",
+     "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html"
+    },
+    {
+     "name": "TechBuzz",
+     "url": "https://www.techbuzz.ai/articles/apple-flags-ai-agent-risks-in-annual-filing"
+    }
+   ],
+   "paras": [
+    "Every year, large American companies must file a detailed annual report, known as a Form 10-K, with the US Securities and Exchange Commission. Among its many sections is a list of “risk factors”—developments that could harm the company's business and, therefore, its investors. These lists are usually dry and predictable, but in early November 2026 one item in Apple's filing attracted widespread attention. In what news outlets described as one of the first cases of its kind, a major technology company formally warned investors that artificial-intelligence “agents” could behave in ways that are “unintended or unpredictable.”",
+    "To understand why this matters, it is important to distinguish AI agents from the chatbots that became popular earlier in the decade. A chatbot answers questions; a person reads the answer and decides what to do with it. An agent, by contrast, is designed to take actions on a user's behalf: booking a flight, sending an email, moving money between accounts, or adjusting the settings of a smart home. The appeal is obvious. Instead of switching between a dozen apps, a user could simply state a goal and let the software work out the steps. Technology companies have invested heavily in this vision, and Apple itself has recently begun allowing outside developers to connect their apps' content and functions to its Siri assistant.",
+    "Yet the same autonomy that makes agents useful also makes them risky. According to reports on the filing, Apple cautioned that agents might exceed the permissions they have been given, fail to follow instructions, or take actions that are difficult to reverse. The last concern is especially significant, because while a faulty answer from a chatbot can simply be ignored, an agent that has already transferred funds, deleted files, or shared private data with the wrong recipient may have caused harm that no software update can undo. Apple also noted that such failures could expose it to lawsuits and damage its reputation.",
+    "Behind these warnings lies a difficult legal question: when an agent makes a costly mistake, who is responsible? Possible candidates include the user who gave the instruction, the company that designed the device, the developer of the app the agent used, and the firm that built the underlying AI model. Existing product-liability laws were written for tools that do what they are told, and they fit uneasily with systems that interpret goals and choose their own methods. Some legal scholars argue that new rules will be needed, perhaps requiring companies to keep detailed records of every action an agent takes so that errors can be traced.",
+    "Not everyone sees the filing as a sign of alarm. Risk-factor sections are, in part, a legal shield: by disclosing possible dangers in advance, companies reduce the chance that investors can later claim they were misled. Seen this way, Apple's warning may say more about cautious lawyers than about any specific failure. Indeed, the filing reportedly did not describe any particular incident that prompted the new language. Supporters of rapid development also point out that every powerful technology, from automobiles to the internet, carried risks that society learned to manage through experience rather than by waiting for perfect safety.",
+    "Critics respond that agents differ from earlier technologies in one crucial way: they make decisions at a speed and scale that humans cannot easily monitor. A single flawed instruction, copied across millions of devices, could produce millions of errors before anyone notices. For this reason, a growing number of companies are developing safeguards. The cybersecurity firm CrowdStrike, for instance, has introduced what it calls an “AI kill switch,” allowing administrators to halt an agent that behaves abnormally, and some websites have begun blocking automated agents from accessing their services altogether.",
+    "The most balanced position may be that Apple's disclosure is both routine and revealing. It is routine because companies are expected to list foreseeable risks; it is revealing because AI agents have now moved from science fiction into the category of foreseeable risks at all. Whether these systems ultimately earn public trust may depend less on how intelligent they become than on whether users can understand, limit, and, when necessary, stop what they do."
+   ],
+   "words": [
+    {
+     "w": "AI agent",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌeɪ ˈaɪ ˈeɪdʒənt/",
+     "syl": [
+      "A",
+      "I",
+      "a",
+      "gent"
+     ],
+     "ex": "An AI agent could compare prices and order your groceries automatically.",
+     "def": "software that takes actions for a user, such as booking or paying, instead of only answering"
+    },
+    {
+     "w": "chatbot",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈtʃætbɑːt/",
+     "syl": [
+      "chat",
+      "bot"
+     ],
+     "ex": "The bank's chatbot can answer simple questions about opening hours.",
+     "def": "a computer program that answers questions in conversation"
+    },
+    {
+     "w": "risk factor",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/rɪsk ˈfæktər/",
+     "syl": [
+      "risk",
+      "fac",
+      "tor"
+     ],
+     "ex": "Lack of sleep is a risk factor for poor exam performance.",
+     "def": "something that could cause harm; in a company report, a possible threat to the business"
+    },
+    {
+     "w": "kill switch",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkɪl swɪtʃ/",
+     "syl": [
+      "kill",
+      "switch"
+     ],
+     "ex": "The factory robot has a kill switch that any worker can press.",
+     "def": "a control that immediately stops a machine or system"
+    },
+    {
+     "w": "autonomy",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɔːˈtɑːnəmi/",
+     "syl": [
+      "au",
+      "ton",
+      "o",
+      "my"
+     ],
+     "ex": "Older students are often given more autonomy in choosing their projects.",
+     "def": "the ability to act and make decisions independently"
+    },
+    {
+     "w": "exceed",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪkˈsiːd/",
+     "syl": [
+      "ex",
+      "ceed"
+     ],
+     "ex": "Drivers who exceed the speed limit may be fined.",
+     "def": "to go beyond a limit"
+    },
+    {
+     "w": "liability",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌlaɪəˈbɪləti/",
+     "syl": [
+      "li",
+      "a",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "ex": "The company accepted liability for the faulty chargers.",
+     "def": "legal responsibility for something, especially for damage or loss"
+    },
+    {
+     "w": "disclosure",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/dɪsˈkloʊʒər/",
+     "syl": [
+      "dis",
+      "clo",
+      "sure"
+     ],
+     "ex": "The law requires full disclosure of any risks to customers.",
+     "def": "the act of making information known publicly"
+    },
+    {
+     "w": "safeguard",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈseɪfɡɑːrd/",
+     "syl": [
+      "safe",
+      "guard"
+     ],
+     "ex": "Two-factor login is an important safeguard for online accounts.",
+     "def": "a measure that protects against harm"
+    },
+    {
+     "w": "foreseeable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/fɔːrˈsiːəbl/",
+     "syl": [
+      "fore",
+      "see",
+      "a",
+      "ble"
+     ],
+     "ex": "Prices are unlikely to fall in the foreseeable future.",
+     "def": "able to be predicted"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "a major technology company formally warned investors that artificial-intelligence “agents” could behave in ways that are “unintended or unpredictable.”",
+     "kind": "Main event",
+     "note": "The news hook: who warned whom, and about what."
+    },
+    {
+     "para": 2,
+     "text": "An agent, by contrast, is designed to take actions on a user's behalf",
+     "kind": "Key distinction",
+     "note": "“By contrast” sets up the chatbot-versus-agent difference that the whole article depends on."
+    },
+    {
+     "para": 3,
+     "text": "Yet the same autonomy that makes agents useful also makes them risky.",
+     "kind": "Topic sentence",
+     "note": "“Yet” turns from benefits to risks. The paragraph then lists the risks, which a NOT question tests."
+    },
+    {
+     "para": 4,
+     "text": "Behind these warnings lies a difficult legal question: when an agent makes a costly mistake, who is responsible?",
+     "kind": "Key question",
+     "note": "The article's central debate is stated as a question. The candidates that follow are possible answers."
+    },
+    {
+     "para": 5,
+     "text": "Seen this way, Apple's warning may say more about cautious lawyers than about any specific failure.",
+     "kind": "Counterargument",
+     "note": "The skeptical reading. Note the hedge “may say more”."
+    },
+    {
+     "para": 7,
+     "text": "The most balanced position may be that Apple's disclosure is both routine and revealing.",
+     "kind": "Author's view",
+     "note": "The author's conclusion combines both sides; the next sentence explains each word."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word “shield” in paragraph 5 is closest in meaning to",
+     "opts": [
+      "covering",
+      "disguise",
+      "protection",
+      "requirement"
+     ],
+     "a": 2,
+     "why": "Disclosing risks in advance protects companies from later claims that investors were misled.",
+     "evidence": "Risk-factor sections are, in part, a legal shield",
+     "optWhy": [
+      "Trap: the literal meaning of shield is a physical covering, which does not fit a legal context.",
+      "Fits grammatically, but the sections protect the company; they do not hide or disguise anything.",
+      "Correct. A legal shield is legal protection.",
+      "From paragraph 1: the 10-K is required, but “shield” does not mean requirement."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, how do AI agents differ from chatbots?",
+     "opts": [
+      "Agents carry out tasks for users rather than only supplying information for users to act on.",
+      "Agents can respond to a wider variety of questions than chatbots are able to answer.",
+      "Agents were introduced earlier in the decade and are now gradually replacing chatbots.",
+      "Agents require users to move between several apps in order to complete a single goal."
+     ],
+     "a": 0,
+     "why": "A chatbot answers and the person decides; an agent takes actions on a user's behalf.",
+     "evidence": "An agent, by contrast, is designed to take actions on a user's behalf",
+     "optWhy": [
+      "Correct. A paraphrase of the chatbot-versus-agent contrast.",
+      "Not stated: the text never compares how many questions each can answer.",
+      "Object swapped: chatbots became popular earlier in the decade; “replacing” is not mentioned.",
+      "Reversed: agents let users AVOID switching between a dozen apps."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, Apple's filing warned of all of the following EXCEPT",
+     "opts": [
+      "agents acting beyond the limits of what they were authorized to do",
+      "agents failing to carry out the instructions that users give them",
+      "the possibility of legal action and harm to the company's public image",
+      "agents giving users inaccurate answers to the questions they ask"
+     ],
+     "a": 3,
+     "why": "The filing warned about exceeding permissions, ignoring instructions, irreversible actions, lawsuits, and reputation. A faulty answer describes chatbots, used only as a contrast.",
+     "evidence": "agents might exceed the permissions they have been given, fail to follow instructions, or take actions that are difficult to reverse",
+     "optWhy": [
+      "Mentioned: “exceed the permissions they have been given.”",
+      "Mentioned: “fail to follow instructions.”",
+      "Mentioned: “expose it to lawsuits and damage its reputation.”",
+      "Correct answer, because it is NOT one of Apple's warnings: “faulty answer” describes a chatbot."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about current product-liability laws?",
+     "opts": [
+      "They place full responsibility for agent errors on the firms that build AI models.",
+      "They were designed on the assumption that a product's actions are directed by its user.",
+      "They already require companies to record every action that an AI agent performs.",
+      "They have recently been revised to cover systems that choose their own methods."
+     ],
+     "a": 1,
+     "why": "Laws written for tools that do what they are told assume the user directs the product.",
+     "evidence": "Existing product-liability laws were written for tools that do what they are told",
+     "optWhy": [
+      "Too strong: the paragraph lists several possible responsible parties.",
+      "Correct. One step beyond “tools that do what they are told”.",
+      "Proposal treated as fact: recording every action is what some scholars suggest for NEW rules.",
+      "Contradicts the text: the laws “fit uneasily” with such systems; no revision is mentioned."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention automobiles and the internet in paragraph 5?",
+     "opts": [
+      "To show that earlier technologies were more dangerous than AI agents are today",
+      "To explain why companies are required to list risk factors in annual reports",
+      "To present the view that societies often learn to manage new technologies' risks over time",
+      "To support the argument that AI agents should be paused until they are fully safe"
+     ],
+     "a": 2,
+     "why": "Supporters use these examples to argue that society learns to manage risks through experience.",
+     "evidence": "every powerful technology, from automobiles to the internet, carried risks that society learned to manage through experience",
+     "optWhy": [
+      "Too strong: the text never compares how dangerous they are.",
+      "From earlier in the same paragraph (risk factors as a legal shield), but not why these examples appear.",
+      "Correct. The examples support the view that risks are managed over time.",
+      "Reversed: supporters argue against waiting for perfect safety."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Chatbots cause less harm than agents because users seldom trust the answers chatbots give.",
+      "Agents' mistakes can be more serious than chatbots' because some of their actions cannot be undone.",
+      "Software updates can repair most of the harm caused by agents, unlike errors made by chatbots.",
+      "Agents should not be permitted to transfer money, delete files, or share users' private data."
+     ],
+     "a": 1,
+     "why": "The sentence contrasts an ignorable chatbot answer with agent actions that may cause harm no update can undo.",
+     "evidence": "The last concern is especially significant, because while a faulty answer from a chatbot can simply be ignored, an agent that has already transferred funds, deleted files, or shared private data with the wrong recipient may have caused harm that no software update can undo.",
+     "optWhy": [
+      "Adds a reason the text never gives (users seldom trust chatbots).",
+      "Correct. Keeps the comparison and the reason (irreversible actions).",
+      "Contradicts the sentence: “no software update can undo” the harm.",
+      "Turns examples into a policy the text never proposes."
+     ],
+     "highlight": "The last concern is especially significant, because while a faulty answer from a chatbot can simply be ignored, an agent that has already transferred funds, deleted files, or shared private data with the wrong recipient may have caused harm that no software update can undo."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261105-2-k1",
+     "tag": "Main idea",
+     "fact": "In its annual 10-K report, Apple warned investors that AI agents could behave in “unintended or unpredictable” ways.",
+     "q": "What did Apple warn investors about?",
+     "opts": [
+      "Falling iPhone sales",
+      "AI agents behaving unpredictably",
+      "A data breach",
+      "New taxes"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-2-k2",
+     "tag": "Concept",
+     "fact": "Chatbots answer and people decide; agents take actions on a user's behalf, such as booking flights or moving money.",
+     "q": "What is the key difference between an agent and a chatbot?",
+     "opts": [
+      "Agents only answer questions",
+      "Agents take actions for the user",
+      "Chatbots move money",
+      "Chatbots are newer"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-2-k3",
+     "tag": "Cause & effect",
+     "fact": "Agents' mistakes can be irreversible, while a wrong chatbot answer can simply be ignored.",
+     "q": "Why are agents' mistakes especially worrying?",
+     "opts": [
+      "They are always illegal",
+      "Some actions cannot be undone",
+      "They are slower",
+      "They cost more to fix with updates"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-2-k4",
+     "tag": "Debate",
+     "fact": "Responsibility for agent errors is unclear: the user, device maker, app developer, or AI model company. Current liability laws assume tools do what they are told.",
+     "q": "Why do current liability laws fit AI agents poorly?",
+     "opts": [
+      "They were written for tools that do what they are told",
+      "They ban all AI",
+      "They only apply to chatbots",
+      "They were written after agents appeared"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261105-2-k5",
+     "tag": "Critical thinking",
+     "fact": "Risk-factor sections are partly a legal shield, so the warning is both routine (expected) and revealing (agents are now a foreseeable risk).",
+     "q": "Why does the author call Apple's disclosure “routine”?",
+     "opts": [
+      "Apple reported a specific incident",
+      "Companies are expected to list foreseeable risks",
+      "Agents have never failed",
+      "The law bans such warnings"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AI agents and risk",
+    "question": "Why did Apple warn investors, and who is responsible?",
+    "branches": [
+     {
+      "title": "The warning",
+      "paras": "1",
+      "blanks": [
+       "agents may act unpredictably"
+      ],
+      "kps": [
+       "n20261105-2-k1"
+      ]
+     },
+     {
+      "title": "Agents vs chatbots",
+      "paras": "2",
+      "blanks": [
+       "agents act; chatbots only answer"
+      ],
+      "kps": [
+       "n20261105-2-k2"
+      ]
+     },
+     {
+      "title": "The risks",
+      "paras": "3–4",
+      "blanks": [
+       "some actions cannot be undone",
+       "unclear legal responsibility"
+      ],
+      "kps": [
+       "n20261105-2-k3",
+       "n20261105-2-k4"
+      ]
+     },
+     {
+      "title": "Two readings",
+      "paras": "5–7",
+      "blanks": [
+       "routine legal caution",
+       "safeguards like a kill switch"
+      ],
+      "kps": [
+       "n20261105-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Apple reported a specific agent failure",
+     "Siri will be removed from iPhones"
+    ]
+   },
+   "summary": {
+    "intro": "Apple has formally warned investors about the risks of AI agents.",
+    "model": "Apple warned that AI agents, which act for users rather than just answering questions, could behave unpredictably and cause harm that is hard to reverse. While some see this as routine legal caution, others argue that agents' speed and scale demand new safeguards and clearer rules on responsibility.",
+    "options": [
+     {
+      "t": "Unlike chatbots, AI agents take actions for users, which makes them useful but also risky.",
+      "ok": true,
+      "why": "Main idea of paragraphs 2–3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Yet the same autonomy that makes agents useful also makes them risky."
+     },
+     {
+      "t": "Because agents' mistakes can be hard to undo, it is unclear who should be legally responsible when things go wrong.",
+      "ok": true,
+      "why": "Main idea of paragraphs 3–4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "when an agent makes a costly mistake, who is responsible?"
+     },
+     {
+      "t": "Some see the warning as routine legal caution, while others argue that agents' speed and scale call for new safeguards.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–7.",
+      "type": "main",
+      "para": 6,
+      "evidence": "a growing number of companies are developing safeguards"
+     },
+     {
+      "t": "Large companies file their annual reports with the US Securities and Exchange Commission.",
+      "ok": false,
+      "why": "True, but only background detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "with the US Securities and Exchange Commission"
+     },
+     {
+      "t": "Apple plans to stop selling devices that include AI assistants.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Apple's filing described a specific incident in which an agent deleted users' files.",
+      "ok": false,
+      "why": "Contradicts paragraph 5: no particular incident was described.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "the filing reportedly did not describe any particular incident that prompted the new language"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Imagine your school is considering letting an AI assistant automatically manage students' homework deadlines and send reminders to parents. Would you support this plan? Explain why or why not, using specific reasons and examples.",
+    "hint": "Position → reason 1 + example → reason 2 + example → a compromise or wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: AI agents can now book trips, send messages, and even make payments for us. Some people think we should give AI agents more freedom because they save time and reduce human error. Others believe agents should always need a human's approval before taking important actions. What is your opinion, and why? (Kenji says approval for every action defeats the purpose. Sofia says money and personal data should always need approval.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use the article's idea of reversible versus irreversible actions.",
+     "Give an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261105-3",
+   "topic": "Science",
+   "title": "Messages in a Grain of Dust: Life's Building Blocks on Asteroid Ryugu",
+   "dek": "Tiny grains from asteroid Ryugu contain all five “letters” of life's genetic code. Here is what that does, and does not, prove.",
+   "sources": [
+    {
+     "name": "ScienceDaily / The Conversation, Nov 3, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+    },
+    {
+     "name": "Eos",
+     "url": "https://eos.org/articles/asteroid-hosts-all-ingredients-for-dna-and-rna"
+    },
+    {
+     "name": "Nature Asia press release",
+     "url": "https://www.natureasia.com/en/info/press-releases/detail/9272"
+    }
+   ],
+   "paras": [
+    "In December 2020, a small capsule parachuted into the Australian outback carrying a few grams of dark, crumbly material. It had been collected from Ryugu, a carbon-rich asteroid roughly 900 meters across, by the Japanese spacecraft Hayabusa2. Since then, scientists around the world have studied these grains in search of clues about the early solar system. In 2026, a team led by Toshiki Koga of the Japan Agency for Marine-Earth Science and Technology reported in the journal Nature Astronomy that two Ryugu samples contain all five nucleobases used by living things—adenine, guanine, cytosine, thymine, and uracil. The finding, widely discussed again in recent weeks, adds weight to a long-standing idea: that some of the raw ingredients for life on Earth may have been delivered from space.",
+    "Nucleobases are the “letters” of the genetic code. In DNA, adenine, guanine, cytosine, and thymine pair up to store hereditary information; in RNA, uracil takes the place of thymine. Chemists divide these molecules into two families: purines (adenine and guanine), which have a double-ring structure, and pyrimidines (cytosine, thymine, and uracil), which have a single ring. Because these compounds are central to biology, finding them beyond Earth raises an obvious question: could they form through ordinary chemistry, without any living organism involved?",
+    "Earlier evidence came mainly from meteorites—fragments of asteroids that fall to Earth. Analyses of the famous Murchison meteorite, which landed in Australia in 1969, detected several nucleobases. However, such findings have always faced a serious objection. A meteorite that plunges through the atmosphere and sits on the ground, sometimes for years, is exposed to Earth's microbes, water, and soil. Critics could therefore argue that any biological molecules discovered inside it might simply be contamination from our own planet rather than evidence of chemistry in space.",
+    "This is where sample-return missions become valuable. The Ryugu grains were gathered directly from the asteroid, sealed in a capsule, and handled in carefully controlled clean facilities. To strengthen their case further, Koga's team ran identical tests on “blank” materials, such as sea sand and the mineral serpentine, to make sure that the nucleobases were not being introduced by the laboratory itself. NASA's OSIRIS-REx mission, which returned samples from the asteroid Bennu, had produced a similar result in 2025, so two independent missions now point in the same direction.",
+    "The details also reveal something interesting. In the Ryugu samples, purines and pyrimidines appeared in roughly equal amounts. In contrast, Murchison is richer in purines, while Bennu and another meteorite, Orgueil, contain more pyrimidines. The researchers suggest that these differences reflect the distinct chemical histories of each parent body; reports on the study note that the balance between the two families appears to vary with the amount of ammonia present. If so, nucleobases may form through several chemical pathways, which would make them more common across the solar system than once assumed.",
+    "Still, scientists urge caution about what the discovery does and does not show. The nucleobases occur only in trace amounts, far smaller than those of amino acids, another class of organic molecules found in asteroids. More fundamentally, possessing the letters of a language is not the same as writing a book. Life requires these molecules to link into long chains, to copy themselves, and to be enclosed within cell-like structures—steps that no asteroid sample has demonstrated. Some researchers also point out that nucleobases could have formed on the early Earth itself, for instance near volcanic vents or in shallow pools, making delivery from space unnecessary.",
+    "The likeliest answer may combine both views. Early Earth was bombarded by asteroids and comets for hundreds of millions of years, and each impact could have added organic material to whatever chemistry was already occurring locally. Seen this way, Ryugu does not solve the mystery of life's origin, but it narrows the range of possibilities. It shows that the ingredients for genetics were not unique to our planet and may have been scattered widely across the young solar system—waiting, in some places at least, for the right conditions to come together."
+   ],
+   "words": [
+    {
+     "w": "nucleobase",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈnuːkliəˌbeɪs/",
+     "syl": [
+      "nu",
+      "cle",
+      "o",
+      "base"
+     ],
+     "ex": "Each strand of DNA is a long sequence of nucleobase pairs.",
+     "def": "one of the five molecules (A, G, C, T, U) that act as the letters of DNA and RNA"
+    },
+    {
+     "w": "meteorite",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈmiːtiəraɪt/",
+     "syl": [
+      "me",
+      "te",
+      "or",
+      "ite"
+     ],
+     "ex": "The museum displays a meteorite that fell in a farmer's field.",
+     "def": "a piece of rock from space that has landed on Earth"
+    },
+    {
+     "w": "sample-return mission",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈsæmpl rɪˈtɜːrn ˈmɪʃn/",
+     "syl": [
+      "sam",
+      "ple",
+      "re",
+      "turn",
+      "mis",
+      "sion"
+     ],
+     "ex": "China's lunar sample-return mission brought moon rocks back to Earth in 2020.",
+     "def": "a space mission that collects material and brings it back to Earth"
+    },
+    {
+     "w": "purine",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpjʊriːn/",
+     "syl": [
+      "pu",
+      "rine"
+     ],
+     "ex": "Adenine is a purine found in both DNA and RNA.",
+     "def": "a type of nucleobase with a double-ring structure, such as adenine or guanine"
+    },
+    {
+     "w": "hereditary",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/həˈredɪteri/",
+     "syl": [
+      "he",
+      "red",
+      "i",
+      "tar",
+      "y"
+     ],
+     "ex": "Eye color is a hereditary trait.",
+     "def": "passed from parents to their children"
+    },
+    {
+     "w": "objection",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əbˈdʒekʃn/",
+     "syl": [
+      "ob",
+      "jec",
+      "tion"
+     ],
+     "ex": "Several parents raised an objection to the new school hours.",
+     "def": "a reason for disagreeing with or opposing something"
+    },
+    {
+     "w": "contamination",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˌtæmɪˈneɪʃn/",
+     "syl": [
+      "con",
+      "tam",
+      "i",
+      "na",
+      "tion"
+     ],
+     "ex": "Wearing gloves prevents contamination of the samples.",
+     "def": "the process of making something impure by mixing in unwanted substances"
+    },
+    {
+     "w": "independent",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˌɪndɪˈpendənt/",
+     "syl": [
+      "in",
+      "de",
+      "pen",
+      "dent"
+     ],
+     "ex": "Two independent studies reached the same conclusion.",
+     "def": "not connected with or influenced by something else"
+    },
+    {
+     "w": "pathway",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈpæθweɪ/",
+     "syl": [
+      "path",
+      "way"
+     ],
+     "ex": "Researchers are mapping the chemical pathway that turns sugar into energy.",
+     "def": "a series of steps by which something happens"
+    },
+    {
+     "w": "trace amount",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/treɪs əˈmaʊnt/",
+     "syl": [
+      "trace",
+      "a",
+      "mount"
+     ],
+     "ex": "The water contained only a trace amount of lead.",
+     "def": "a very small quantity"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "adds weight to a long-standing idea: that some of the raw ingredients for life on Earth may have been delivered from space.",
+     "kind": "Main idea · hedged",
+     "note": "Notice “some” and “may have been”. The discovery supports an idea; it does not prove it."
+    },
+    {
+     "para": 3,
+     "text": "However, such findings have always faced a serious objection.",
+     "kind": "Topic sentence",
+     "note": "“However” introduces the problem with meteorite evidence: contamination. Paragraph 4 then answers it."
+    },
+    {
+     "para": 4,
+     "text": "This is where sample-return missions become valuable.",
+     "kind": "Topic sentence",
+     "note": "Problem → solution. The paragraph lists three things that make the Ryugu results reliable, which a NOT question tests."
+    },
+    {
+     "para": 5,
+     "text": "If so, nucleobases may form through several chemical pathways, which would make them more common across the solar system than once assumed.",
+     "kind": "Interpretation",
+     "note": "A conditional chain (“If so … would”). Inference questions often ask what follows from it."
+    },
+    {
+     "para": 6,
+     "text": "More fundamentally, possessing the letters of a language is not the same as writing a book.",
+     "kind": "Critical thinking",
+     "note": "An analogy: having the building blocks of life is not the same as life itself."
+    },
+    {
+     "para": 7,
+     "text": "Seen this way, Ryugu does not solve the mystery of life's origin, but it narrows the range of possibilities.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion: progress, not a final answer."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word “reflect” in paragraph 5 is closest in meaning to",
+     "opts": [
+      "bounce back",
+      "consider",
+      "challenge",
+      "indicate"
+     ],
+     "a": 3,
+     "why": "The differences show, or indicate, the distinct chemical histories of each parent body.",
+     "evidence": "these differences reflect the distinct chemical histories of each parent body",
+     "optWhy": [
+      "Trap: the literal meaning of reflect (light or sound bouncing back).",
+      "Trap: “reflect on” means to think about, but differences cannot think.",
+      "Fits grammatically, but the differences are evidence of the histories, not a challenge to them.",
+      "Correct. The differences indicate different chemical histories."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, why have nucleobases found in meteorites been questioned?",
+     "opts": [
+      "Meteorites come into contact with materials on Earth that could introduce biological molecules.",
+      "The Murchison meteorite contained far fewer nucleobases than scientists had originally predicted.",
+      "Most organic compounds in meteorites are destroyed by heat as they pass through the atmosphere.",
+      "Scientists have been unable to identify which asteroid the Murchison meteorite originally came from."
+     ],
+     "a": 0,
+     "why": "Meteorites are exposed to Earth's microbes, water, and soil, so their molecules could be contamination.",
+     "evidence": "is exposed to Earth's microbes, water, and soil",
+     "optWhy": [
+      "Correct. A paraphrase of the contamination objection.",
+      "Not stated: the text says several nucleobases were detected, not fewer than predicted.",
+      "Sounds like common sense, but the objection in the text is contamination, not heat.",
+      "Not mentioned: the text never discusses where Murchison came from."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following made the Ryugu results more reliable EXCEPT:",
+     "opts": [
+      "The grains were collected directly from the asteroid instead of from the ground.",
+      "The researchers ran the same tests on blank materials such as sea sand.",
+      "The Ryugu results were compared with meteorites that had fallen to Earth.",
+      "A separate sample-return mission had reported a comparable discovery."
+     ],
+     "a": 2,
+     "why": "Paragraph 4 names direct collection, blank tests, and the OSIRIS-REx result. The meteorite comparison is in paragraph 5 and shows differences, not reliability.",
+     "evidence": "The Ryugu grains were gathered directly from the asteroid, sealed in a capsule",
+     "optWhy": [
+      "Mentioned: “gathered directly from the asteroid, sealed in a capsule.”",
+      "Mentioned: “ran identical tests on ‘blank’ materials, such as sea sand.”",
+      "Correct answer, because it is NOT a reliability measure: the comparison comes from paragraph 5.",
+      "Mentioned: “OSIRIS-REx … had produced a similar result in 2025.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5?",
+     "opts": [
+      "Ryugu contains a larger amount of ammonia than any other asteroid studied so far.",
+      "If nucleobases can form in more than one way, finding them on other asteroids would be less surprising.",
+      "Bennu and the Orgueil meteorite almost certainly came from the same parent body.",
+      "Purines are generally more abundant than pyrimidines in asteroids throughout the solar system."
+     ],
+     "a": 1,
+     "why": "Several chemical pathways would make nucleobases more common, so finding them elsewhere would be less surprising.",
+     "evidence": "nucleobases may form through several chemical pathways, which would make them more common across the solar system than once assumed",
+     "optWhy": [
+      "Too strong: the balance varies with ammonia, but Ryugu is not said to have the most.",
+      "Correct. One step beyond “more common across the solar system”.",
+      "Too strong: the text links differences to distinct parent bodies; “almost certainly” is invented.",
+      "Overgeneralized: only Murchison is richer in purines; Bennu and Orgueil are the opposite."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author state that “possessing the letters of a language is not the same as writing a book” in paragraph 6?",
+     "opts": [
+      "To explain how nucleobases store genetic information in DNA and RNA",
+      "To argue that nucleobases are less important for life than amino acids are",
+      "To suggest that life most likely began on Earth rather than in space",
+      "To illustrate that having life's basic components does not explain how life arose"
+     ],
+     "a": 3,
+     "why": "The analogy shows that having nucleobases is not the same as having life; chains, copying, and cells are still needed.",
+     "evidence": "possessing the letters of a language is not the same as writing a book",
+     "optWhy": [
+      "From paragraph 2 (where the “letters” image first appears), not the purpose here.",
+      "Comparison swapped: amino acids are mentioned only to show how small the nucleobase amounts are.",
+      "Another group's view later in the paragraph, not the purpose of the analogy; the author takes a middle position.",
+      "Correct. The analogy separates ingredients from the process of life."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because of this exposure, skeptics could claim that biological molecules in meteorites came from Earth, not space.",
+      "Critics argue that meteorites prove chemistry in space produces the same molecules that are found on Earth.",
+      "Since contamination is so common, any molecules found in meteorites must have originated on Earth.",
+      "Critics believe that molecules from Earth's surface were carried into space on meteorites long ago."
+     ],
+     "a": 0,
+     "why": "Because meteorites are exposed to Earth, critics can argue their molecules may be contamination rather than evidence of space chemistry.",
+     "evidence": "Critics could therefore argue that any biological molecules discovered inside it might simply be contamination from our own planet rather than evidence of chemistry in space.",
+     "optWhy": [
+      "Correct. Keeps the cause (exposure) and the contrast (Earth versus space).",
+      "Reversed: the critics doubt this kind of evidence.",
+      "Too strong: “could argue … might” becomes “must”.",
+      "Direction reversed: Earth material contaminates meteorites; nothing goes into space."
+     ],
+     "highlight": "Critics could therefore argue that any biological molecules discovered inside it might simply be contamination from our own planet rather than evidence of chemistry in space."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261105-3-k1",
+     "tag": "Main idea",
+     "fact": "Samples from asteroid Ryugu contain all five nucleobases (A, G, C, T, U), supporting the idea that some of life's ingredients came from space.",
+     "q": "What did the Ryugu samples contain?",
+     "opts": [
+      "Living microbes",
+      "All five nucleobases",
+      "Liquid water",
+      "Fossils"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-3-k2",
+     "tag": "Concept",
+     "fact": "Nucleobases are the “letters” of the genetic code; purines have a double ring, pyrimidines a single ring.",
+     "q": "What is the difference between purines and pyrimidines?",
+     "opts": [
+      "Purines are only in RNA",
+      "Purines have two rings, pyrimidines one",
+      "Pyrimidines come only from space",
+      "There is no difference"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-3-k3",
+     "tag": "Evidence",
+     "fact": "Sample-return missions avoid Earth contamination, the main objection to meteorite evidence; blank tests and the Bennu result add confidence.",
+     "q": "Why are Ryugu's samples more trustworthy than meteorites?",
+     "opts": [
+      "They were larger",
+      "They were never exposed to Earth's environment",
+      "They were older",
+      "They were analyzed faster"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-3-k4",
+     "tag": "Interpretation",
+     "fact": "Different purine–pyrimidine balances suggest several chemical pathways, so nucleobases may be more common in the solar system than assumed.",
+     "q": "What do the different balances of nucleobases suggest?",
+     "opts": [
+      "The samples were contaminated",
+      "Nucleobases may form in several ways",
+      "Life began on Ryugu",
+      "Ammonia destroys nucleobases"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261105-3-k5",
+     "tag": "Critical thinking",
+     "fact": "Having life's “letters” is not life itself: forming chains, self-copying, and cell-like structures are still unexplained.",
+     "q": "Why doesn't the discovery explain the origin of life?",
+     "opts": [
+      "The samples were too small to test",
+      "Building blocks are not the same as living systems",
+      "Scientists rejected the results",
+      "Ryugu has no carbon"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Life's letters in space",
+    "question": "What did Ryugu reveal, and what can't it prove?",
+    "branches": [
+     {
+      "title": "The discovery",
+      "paras": "1–2",
+      "blanks": [
+       "all five nucleobases were found"
+      ],
+      "kps": [
+       "n20261105-3-k1",
+       "n20261105-3-k2"
+      ]
+     },
+     {
+      "title": "Why it's trusted",
+      "paras": "3–4",
+      "blanks": [
+       "no exposure to Earth's environment",
+       "blank tests and a second mission"
+      ],
+      "kps": [
+       "n20261105-3-k3"
+      ]
+     },
+     {
+      "title": "What differs",
+      "paras": "5",
+      "blanks": [
+       "purine–pyrimidine balance varies",
+       "several possible chemical pathways"
+      ],
+      "kps": [
+       "n20261105-3-k4"
+      ]
+     },
+     {
+      "title": "The limits",
+      "paras": "6–7",
+      "blanks": [
+       "letters are not a book",
+       "space may have added ingredients"
+      ],
+      "kps": [
+       "n20261105-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "scientists proved life began in space",
+     "samples from Mars confirmed it"
+    ]
+   },
+   "summary": {
+    "intro": "Samples from the asteroid Ryugu contain all five building blocks of the genetic code.",
+    "model": "Ryugu's carefully protected samples contain all five nucleobases, strengthening the idea that life's ingredients were spread across the early solar system. However, because having these building blocks is not the same as creating life, the discovery narrows, rather than solves, the mystery of life's origin.",
+    "options": [
+     {
+      "t": "The discovery supports the idea that some of life's raw ingredients may have been delivered to Earth from space.",
+      "ok": true,
+      "why": "Main idea of paragraph 1.",
+      "type": "main",
+      "para": 1,
+      "evidence": "some of the raw ingredients for life on Earth may have been delivered from space"
+     },
+     {
+      "t": "Because the samples were collected directly from the asteroid and carefully tested, contamination from Earth is unlikely.",
+      "ok": true,
+      "why": "Main idea of paragraphs 3–4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "to make sure that the nucleobases were not being introduced by the laboratory itself"
+     },
+     {
+      "t": "Scientists caution that having life's building blocks does not explain how living things actually arose.",
+      "ok": true,
+      "why": "Main idea of paragraphs 6–7.",
+      "type": "main",
+      "para": 6,
+      "evidence": "possessing the letters of a language is not the same as writing a book"
+     },
+     {
+      "t": "The Murchison meteorite landed in Australia in 1969.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "which landed in Australia in 1969"
+     },
+     {
+      "t": "The samples showed signs of ancient microscopic life on Ryugu.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The Ryugu samples contained far more purines than pyrimidines.",
+      "ok": false,
+      "why": "Contradicts paragraph 5: the amounts were roughly equal.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "purines and pyrimidines appeared in roughly equal amounts"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some students prefer science classes that focus on hands-on experiments, while others prefer classes that focus on discussing big scientific questions, such as how life began. Which type of class do you prefer, and why? Include details and examples.",
+    "hint": "Preference → reason 1 + example → reason 2 + example → brief wrap-up. About 45 seconds.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Scientists recently confirmed that samples from the asteroid Ryugu contain all five building blocks of DNA and RNA. Missions like this are extremely expensive. Some people believe governments should keep funding space exploration because it expands human knowledge. Others think the money would be better spent on urgent problems on Earth. Which position do you support, and why? (Aisha says space research pays off in unexpected ways. Daniel says priorities matter when people lack clean water and hospitals.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Give a reason, using a detail from the article if you can.",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  }
+ ],
+ "audio": {
+  "On the morning of November 4, 2026, investors around the world woke up to the results of the United States midterm elections, in which the Democratic Party won control of both the House of Representatives and the Senate. What happened next surprised many casual observers. Overnight, futures contracts linked to the technology-heavy Nasdaq index had fallen by as much as 2.5 percent as the results emerged, yet by the end of the trading day the Dow Jones Industrial Average had climbed roughly 3 percent, its strongest single-day performance in well over a year, while the broader S&P 500 rose about 1.6 percent. At the same time, the price of crude oil collapsed by around 8 percent, and gold jumped back above 4,000 dollars an ounce. To understand why markets reacted this way, it helps to look beyond which party won and to consider how financial markets process information.": "audio/2026-11-05/a1-p1.mp3",
+  "A central idea in finance is that markets dislike uncertainty more than they dislike bad news. Share prices reflect investors' collective expectations about companies' future profits, and those expectations depend partly on government policy—taxes, regulation, trade rules, and public spending. Before an election, traders must assign probabilities to several possible futures at once, and many respond by holding back or demanding a higher return for the risk they bear. Once the outcome is known, that hedging can unwind quickly. As one strategist at the brokerage Charles Schwab put it, markets typically respond positively to midterm elections being over, “no matter what the outcome.” In other words, part of the rally may have been a release of tension rather than a verdict on any party's program.": "audio/2026-11-05/a1-p2.mp3",
+  "A second explanation concerns the structure of government. Because the president belongs to a different party from the new congressional majority, many analysts expect a period of “gridlock,” in which few major laws pass. For investors, gridlock can paradoxically be attractive. It reduces the likelihood of sweeping changes to taxation or regulation, and it may restrain large increases in government borrowing, which in turn can help keep interest rates in check. Bond markets appeared to share this view: the yield on ten-year US Treasury bonds slipped to around 4.9 percent.": "audio/2026-11-05/a1-p3.mp3",
+  "The oil market told a different but related story. Energy prices had surged earlier in the year after the outbreak of conflict involving Iran, pushing up the cost of fuel and shipping worldwide. Reuters reported that the fall in oil prices on November 4 was linked to rising hopes that the conflict could be brought to an end through diplomacy, with Qatar stepping up its mediation efforts. Cheaper oil tends to ease inflation, because energy feeds into the price of almost everything that must be manufactured or transported. Lower expected inflation, in turn, makes both stocks and bonds more appealing.": "audio/2026-11-05/a1-p4.mp3",
+  "Not every corner of the market celebrated, however. Energy companies, whose revenues depend directly on the price of crude, fell by nearly 5 percent as a group. Shares of several chipmakers and data-center suppliers also declined, as some investors worried that a Democratic Congress might scrutinize the rapid expansion of artificial-intelligence infrastructure more closely. Meanwhile, sectors such as health care and consumer goods posted strong gains. Such divergence is a reminder that “the market” is not a single entity with a single opinion but an aggregate of millions of decisions, each reflecting a particular bet about who will win and who will lose under new conditions.": "audio/2026-11-05/a1-p5.mp3",
+  "Some economists caution against reading too much into a single day of trading. Short-term price swings are often driven by algorithmic trading and by investors adjusting positions they had taken before the vote, and such moves can reverse within weeks. Moreover, the long-run performance of stock markets has historically depended far more on corporate earnings, productivity, and interest rates than on which party controls Congress. From this perspective, the dramatic headlines of November 4 reveal more about investor psychology than about the economy's true direction.": "audio/2026-11-05/a1-p6.mp3",
+  "Others argue that markets, however noisy, contain useful information precisely because participants risk their own money. If the price of oil drops sharply, for example, traders are signaling that they now see a meaningful chance of lower energy costs ahead, a forecast that affects households, airlines, and governments alike. The challenge for observers, then, is to treat market reactions neither as infallible predictions nor as meaningless noise, but as one source of evidence to be weighed against others.": "audio/2026-11-05/a1-p7.mp3",
+  "aggregate": "audio/2026-11-05/a1-w-aggregate.mp3",
+  "The final grade is an aggregate of scores from tests, homework, and projects.": "audio/2026-11-05/a1-ex-aggregate.mp3",
+  "hedging": "audio/2026-11-05/a1-w-hedging.mp3",
+  "Airlines use hedging to protect themselves against sudden rises in fuel prices.": "audio/2026-11-05/a1-ex-hedging.mp3",
+  "gridlock": "audio/2026-11-05/a1-w-gridlock.mp3",
+  "Political gridlock meant the city's new transport plan was delayed for years.": "audio/2026-11-05/a1-ex-gridlock.mp3",
+  "futures contract": "audio/2026-11-05/a1-w-futures-contract.mp3",
+  "Farmers sometimes sell a futures contract to lock in a price for next year's wheat.": "audio/2026-11-05/a1-ex-futures-contract.mp3",
+  "yield": "audio/2026-11-05/a1-w-yield.mp3",
+  "When bond prices fall, their yield usually rises.": "audio/2026-11-05/a1-ex-yield.mp3",
+  "paradoxically": "audio/2026-11-05/a1-w-paradoxically.mp3",
+  "Paradoxically, taking short breaks can help you finish your homework faster.": "audio/2026-11-05/a1-ex-paradoxically.mp3",
+  "restrain": "audio/2026-11-05/a1-w-restrain.mp3",
+  "The new rules aim to restrain the rapid growth of plastic waste.": "audio/2026-11-05/a1-ex-restrain.mp3",
+  "divergence": "audio/2026-11-05/a1-w-divergence.mp3",
+  "There is a growing divergence between what students study and what employers need.": "audio/2026-11-05/a1-ex-divergence.mp3",
+  "scrutinize": "audio/2026-11-05/a1-w-scrutinize.mp3",
+  "Teachers scrutinize every essay for signs of copying.": "audio/2026-11-05/a1-ex-scrutinize.mp3",
+  "infallible": "audio/2026-11-05/a1-w-infallible.mp3",
+  "Even the best weather forecasts are not infallible.": "audio/2026-11-05/a1-ex-infallible.mp3",
+  "To understand why markets reacted this way, it helps to look beyond which party won and to consider how financial markets process information.": "audio/2026-11-05/a1-ks1.mp3",
+  "A central idea in finance is that markets dislike uncertainty more than they dislike bad news.": "audio/2026-11-05/a1-ks2.mp3",
+  "For investors, gridlock can paradoxically be attractive.": "audio/2026-11-05/a1-ks3.mp3",
+  "Cheaper oil tends to ease inflation, because energy feeds into the price of almost everything that must be manufactured or transported.": "audio/2026-11-05/a1-ks4.mp3",
+  "Some economists caution against reading too much into a single day of trading.": "audio/2026-11-05/a1-ks5.mp3",
+  "The challenge for observers, then, is to treat market reactions neither as infallible predictions nor as meaningless noise, but as one source of evidence to be weighed against others.": "audio/2026-11-05/a1-ks6.mp3",
+  "Every year, large American companies must file a detailed annual report, known as a Form 10-K, with the US Securities and Exchange Commission. Among its many sections is a list of “risk factors”—developments that could harm the company's business and, therefore, its investors. These lists are usually dry and predictable, but in early November 2026 one item in Apple's filing attracted widespread attention. In what news outlets described as one of the first cases of its kind, a major technology company formally warned investors that artificial-intelligence “agents” could behave in ways that are “unintended or unpredictable.”": "audio/2026-11-05/a2-p1.mp3",
+  "To understand why this matters, it is important to distinguish AI agents from the chatbots that became popular earlier in the decade. A chatbot answers questions; a person reads the answer and decides what to do with it. An agent, by contrast, is designed to take actions on a user's behalf: booking a flight, sending an email, moving money between accounts, or adjusting the settings of a smart home. The appeal is obvious. Instead of switching between a dozen apps, a user could simply state a goal and let the software work out the steps. Technology companies have invested heavily in this vision, and Apple itself has recently begun allowing outside developers to connect their apps' content and functions to its Siri assistant.": "audio/2026-11-05/a2-p2.mp3",
+  "Yet the same autonomy that makes agents useful also makes them risky. According to reports on the filing, Apple cautioned that agents might exceed the permissions they have been given, fail to follow instructions, or take actions that are difficult to reverse. The last concern is especially significant, because while a faulty answer from a chatbot can simply be ignored, an agent that has already transferred funds, deleted files, or shared private data with the wrong recipient may have caused harm that no software update can undo. Apple also noted that such failures could expose it to lawsuits and damage its reputation.": "audio/2026-11-05/a2-p3.mp3",
+  "Behind these warnings lies a difficult legal question: when an agent makes a costly mistake, who is responsible? Possible candidates include the user who gave the instruction, the company that designed the device, the developer of the app the agent used, and the firm that built the underlying AI model. Existing product-liability laws were written for tools that do what they are told, and they fit uneasily with systems that interpret goals and choose their own methods. Some legal scholars argue that new rules will be needed, perhaps requiring companies to keep detailed records of every action an agent takes so that errors can be traced.": "audio/2026-11-05/a2-p4.mp3",
+  "Not everyone sees the filing as a sign of alarm. Risk-factor sections are, in part, a legal shield: by disclosing possible dangers in advance, companies reduce the chance that investors can later claim they were misled. Seen this way, Apple's warning may say more about cautious lawyers than about any specific failure. Indeed, the filing reportedly did not describe any particular incident that prompted the new language. Supporters of rapid development also point out that every powerful technology, from automobiles to the internet, carried risks that society learned to manage through experience rather than by waiting for perfect safety.": "audio/2026-11-05/a2-p5.mp3",
+  "Critics respond that agents differ from earlier technologies in one crucial way: they make decisions at a speed and scale that humans cannot easily monitor. A single flawed instruction, copied across millions of devices, could produce millions of errors before anyone notices. For this reason, a growing number of companies are developing safeguards. The cybersecurity firm CrowdStrike, for instance, has introduced what it calls an “AI kill switch,” allowing administrators to halt an agent that behaves abnormally, and some websites have begun blocking automated agents from accessing their services altogether.": "audio/2026-11-05/a2-p6.mp3",
+  "The most balanced position may be that Apple's disclosure is both routine and revealing. It is routine because companies are expected to list foreseeable risks; it is revealing because AI agents have now moved from science fiction into the category of foreseeable risks at all. Whether these systems ultimately earn public trust may depend less on how intelligent they become than on whether users can understand, limit, and, when necessary, stop what they do.": "audio/2026-11-05/a2-p7.mp3",
+  "AI agent": "audio/2026-11-05/a2-w-ai-agent.mp3",
+  "An AI agent could compare prices and order your groceries automatically.": "audio/2026-11-05/a2-ex-ai-agent.mp3",
+  "chatbot": "audio/2026-11-05/a2-w-chatbot.mp3",
+  "The bank's chatbot can answer simple questions about opening hours.": "audio/2026-11-05/a2-ex-chatbot.mp3",
+  "risk factor": "audio/2026-11-05/a2-w-risk-factor.mp3",
+  "Lack of sleep is a risk factor for poor exam performance.": "audio/2026-11-05/a2-ex-risk-factor.mp3",
+  "kill switch": "audio/2026-11-05/a2-w-kill-switch.mp3",
+  "The factory robot has a kill switch that any worker can press.": "audio/2026-11-05/a2-ex-kill-switch.mp3",
+  "autonomy": "audio/2026-11-05/a2-w-autonomy.mp3",
+  "Older students are often given more autonomy in choosing their projects.": "audio/2026-11-05/a2-ex-autonomy.mp3",
+  "exceed": "audio/2026-11-05/a2-w-exceed.mp3",
+  "Drivers who exceed the speed limit may be fined.": "audio/2026-11-05/a2-ex-exceed.mp3",
+  "liability": "audio/2026-11-05/a2-w-liability.mp3",
+  "The company accepted liability for the faulty chargers.": "audio/2026-11-05/a2-ex-liability.mp3",
+  "disclosure": "audio/2026-11-05/a2-w-disclosure.mp3",
+  "The law requires full disclosure of any risks to customers.": "audio/2026-11-05/a2-ex-disclosure.mp3",
+  "safeguard": "audio/2026-11-05/a2-w-safeguard.mp3",
+  "Two-factor login is an important safeguard for online accounts.": "audio/2026-11-05/a2-ex-safeguard.mp3",
+  "foreseeable": "audio/2026-11-05/a2-w-foreseeable.mp3",
+  "Prices are unlikely to fall in the foreseeable future.": "audio/2026-11-05/a2-ex-foreseeable.mp3",
+  "a major technology company formally warned investors that artificial-intelligence “agents” could behave in ways that are “unintended or unpredictable.”": "audio/2026-11-05/a2-ks1.mp3",
+  "An agent, by contrast, is designed to take actions on a user's behalf": "audio/2026-11-05/a2-ks2.mp3",
+  "Yet the same autonomy that makes agents useful also makes them risky.": "audio/2026-11-05/a2-ks3.mp3",
+  "Behind these warnings lies a difficult legal question: when an agent makes a costly mistake, who is responsible?": "audio/2026-11-05/a2-ks4.mp3",
+  "Seen this way, Apple's warning may say more about cautious lawyers than about any specific failure.": "audio/2026-11-05/a2-ks5.mp3",
+  "The most balanced position may be that Apple's disclosure is both routine and revealing.": "audio/2026-11-05/a2-ks6.mp3",
+  "In December 2020, a small capsule parachuted into the Australian outback carrying a few grams of dark, crumbly material. It had been collected from Ryugu, a carbon-rich asteroid roughly 900 meters across, by the Japanese spacecraft Hayabusa2. Since then, scientists around the world have studied these grains in search of clues about the early solar system. In 2026, a team led by Toshiki Koga of the Japan Agency for Marine-Earth Science and Technology reported in the journal Nature Astronomy that two Ryugu samples contain all five nucleobases used by living things—adenine, guanine, cytosine, thymine, and uracil. The finding, widely discussed again in recent weeks, adds weight to a long-standing idea: that some of the raw ingredients for life on Earth may have been delivered from space.": "audio/2026-11-05/a3-p1.mp3",
+  "Nucleobases are the “letters” of the genetic code. In DNA, adenine, guanine, cytosine, and thymine pair up to store hereditary information; in RNA, uracil takes the place of thymine. Chemists divide these molecules into two families: purines (adenine and guanine), which have a double-ring structure, and pyrimidines (cytosine, thymine, and uracil), which have a single ring. Because these compounds are central to biology, finding them beyond Earth raises an obvious question: could they form through ordinary chemistry, without any living organism involved?": "audio/2026-11-05/a3-p2.mp3",
+  "Earlier evidence came mainly from meteorites—fragments of asteroids that fall to Earth. Analyses of the famous Murchison meteorite, which landed in Australia in 1969, detected several nucleobases. However, such findings have always faced a serious objection. A meteorite that plunges through the atmosphere and sits on the ground, sometimes for years, is exposed to Earth's microbes, water, and soil. Critics could therefore argue that any biological molecules discovered inside it might simply be contamination from our own planet rather than evidence of chemistry in space.": "audio/2026-11-05/a3-p3.mp3",
+  "This is where sample-return missions become valuable. The Ryugu grains were gathered directly from the asteroid, sealed in a capsule, and handled in carefully controlled clean facilities. To strengthen their case further, Koga's team ran identical tests on “blank” materials, such as sea sand and the mineral serpentine, to make sure that the nucleobases were not being introduced by the laboratory itself. NASA's OSIRIS-REx mission, which returned samples from the asteroid Bennu, had produced a similar result in 2025, so two independent missions now point in the same direction.": "audio/2026-11-05/a3-p4.mp3",
+  "The details also reveal something interesting. In the Ryugu samples, purines and pyrimidines appeared in roughly equal amounts. In contrast, Murchison is richer in purines, while Bennu and another meteorite, Orgueil, contain more pyrimidines. The researchers suggest that these differences reflect the distinct chemical histories of each parent body; reports on the study note that the balance between the two families appears to vary with the amount of ammonia present. If so, nucleobases may form through several chemical pathways, which would make them more common across the solar system than once assumed.": "audio/2026-11-05/a3-p5.mp3",
+  "Still, scientists urge caution about what the discovery does and does not show. The nucleobases occur only in trace amounts, far smaller than those of amino acids, another class of organic molecules found in asteroids. More fundamentally, possessing the letters of a language is not the same as writing a book. Life requires these molecules to link into long chains, to copy themselves, and to be enclosed within cell-like structures—steps that no asteroid sample has demonstrated. Some researchers also point out that nucleobases could have formed on the early Earth itself, for instance near volcanic vents or in shallow pools, making delivery from space unnecessary.": "audio/2026-11-05/a3-p6.mp3",
+  "The likeliest answer may combine both views. Early Earth was bombarded by asteroids and comets for hundreds of millions of years, and each impact could have added organic material to whatever chemistry was already occurring locally. Seen this way, Ryugu does not solve the mystery of life's origin, but it narrows the range of possibilities. It shows that the ingredients for genetics were not unique to our planet and may have been scattered widely across the young solar system—waiting, in some places at least, for the right conditions to come together.": "audio/2026-11-05/a3-p7.mp3",
+  "nucleobase": "audio/2026-11-05/a3-w-nucleobase.mp3",
+  "Each strand of DNA is a long sequence of nucleobase pairs.": "audio/2026-11-05/a3-ex-nucleobase.mp3",
+  "meteorite": "audio/2026-11-05/a3-w-meteorite.mp3",
+  "The museum displays a meteorite that fell in a farmer's field.": "audio/2026-11-05/a3-ex-meteorite.mp3",
+  "sample-return mission": "audio/2026-11-05/a3-w-sample-return-mission.mp3",
+  "China's lunar sample-return mission brought moon rocks back to Earth in 2020.": "audio/2026-11-05/a3-ex-sample-return-mission.mp3",
+  "purine": "audio/2026-11-05/a3-w-purine.mp3",
+  "Adenine is a purine found in both DNA and RNA.": "audio/2026-11-05/a3-ex-purine.mp3",
+  "hereditary": "audio/2026-11-05/a3-w-hereditary.mp3",
+  "Eye color is a hereditary trait.": "audio/2026-11-05/a3-ex-hereditary.mp3",
+  "objection": "audio/2026-11-05/a3-w-objection.mp3",
+  "Several parents raised an objection to the new school hours.": "audio/2026-11-05/a3-ex-objection.mp3",
+  "contamination": "audio/2026-11-05/a3-w-contamination.mp3",
+  "Wearing gloves prevents contamination of the samples.": "audio/2026-11-05/a3-ex-contamination.mp3",
+  "independent": "audio/2026-11-05/a3-w-independent.mp3",
+  "Two independent studies reached the same conclusion.": "audio/2026-11-05/a3-ex-independent.mp3",
+  "pathway": "audio/2026-11-05/a3-w-pathway.mp3",
+  "Researchers are mapping the chemical pathway that turns sugar into energy.": "audio/2026-11-05/a3-ex-pathway.mp3",
+  "trace amount": "audio/2026-11-05/a3-w-trace-amount.mp3",
+  "The water contained only a trace amount of lead.": "audio/2026-11-05/a3-ex-trace-amount.mp3",
+  "adds weight to a long-standing idea: that some of the raw ingredients for life on Earth may have been delivered from space.": "audio/2026-11-05/a3-ks1.mp3",
+  "However, such findings have always faced a serious objection.": "audio/2026-11-05/a3-ks2.mp3",
+  "This is where sample-return missions become valuable.": "audio/2026-11-05/a3-ks3.mp3",
+  "If so, nucleobases may form through several chemical pathways, which would make them more common across the solar system than once assumed.": "audio/2026-11-05/a3-ks4.mp3",
+  "More fundamentally, possessing the letters of a language is not the same as writing a book.": "audio/2026-11-05/a3-ks5.mp3",
+  "Seen this way, Ryugu does not solve the mystery of life's origin, but it narrows the range of possibilities.": "audio/2026-11-05/a3-ks6.mp3"
+ }
+}

@@ -1,0 +1,1621 @@
+{
+ "date": "2026-11-04",
+ "headline": "AI's price tag, an electric sugar fix, and a skull in the ice",
+ "teaser": "Is the AI boom a bubble? Can electricity replace medicine? And what can one striking photo really prove?",
+ "articles": [
+  {
+   "id": "n20261104-1",
+   "topic": "Economy",
+   "title": "When Optimism Meets the Balance Sheet: Is the AI Boom a Bubble?",
+   "dek": "AI stocks just lost trillions in weeks. Is this the dot-com crash all over again, or a healthy reality check?",
+   "sources": [
+    {
+     "name": "Yahoo Finance, Nov 2, 2026",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-sink-nasdaq-013610173.html"
+    }
+   ],
+   "paras": [
+    "For much of the past three years, companies associated with artificial intelligence have acted as the gravitational center of the stock market. Chipmakers, cloud-computing providers and software firms saw their valuations climb to levels that, only a decade ago, would have seemed implausible. In October 2026, however, that momentum faltered. The technology-heavy Nasdaq Composite index fell by more than 5 percent over the month—its worst monthly performance since March 2025—and AI-related shares reportedly shed around $5 trillion in market value in roughly three weeks. On November 2, the sell-off intensified when Intel's share price dropped by nearly 29 percent in a single session after the company projected fourth-quarter revenue of $15 billion to $16 billion, short of the roughly $17 billion that analysts had anticipated.",
+    "To understand why a forecast that misses expectations by around one billion dollars can erase such a large fraction of a company's value, it helps to recall how stock prices are formed. A share price is not simply a measure of what a company earns today; it is investors' collective estimate of all the profits the firm will generate in the future, discounted to their present value. When expectations are extremely optimistic, even a modest disappointment can force investors to revise their assumptions about years of future growth. The wider the gap between current earnings and anticipated earnings, the more sensitive a price becomes to new information.",
+    "Much of the current anxiety concerns spending rather than revenue. The largest technology firms—often called \"hyperscalers\" because they operate enormous networks of data centers—are investing unprecedented sums in the processors, buildings and electricity needed to train and run AI models. Amazon alone has indicated that it expects capital expenditure of around $220 billion this year. Increasingly, such outlays are financed not from existing profits but by borrowing: Microsoft recently completed a $25 billion bond offering, and Oracle announced plans to raise roughly $20 billion through a combination of bonds and new shares, a move that pushed its stock down by about 5 percent. Economists at Bank of America have described a sustained correction in the AI trade as \"one of the larger risks to the US and global economy,\" partly because falling share prices make households that own stocks feel poorer and therefore less inclined to spend—a phenomenon economists call the wealth effect.",
+    "Skeptics draw an obvious comparison with the dot-com era of the late 1990s, when investors poured money into internet companies whose business models had not yet proved profitable. When that bubble burst in 2000 and 2001, the Nasdaq lost most of its value, and many firms disappeared entirely. According to this view, today's AI enthusiasm displays similar symptoms: soaring valuations, growing reliance on debt, and a narrative of inevitable transformation that discourages careful scrutiny of costs. Even some industry figures have acknowledged the strain; Elon Musk, for example, conceded that the cost of serving his company's chatbot had been \"unsustainably high relative to revenue.\"",
+    "Others, however, caution against equating a correction with a collapse. They point out that, unlike many dot-com start-ups, today's leading AI investors are large, established companies with substantial existing revenues. Some AI-related businesses are already generating meaningful income: Amazon's cloud division reported quarterly revenue of about $46 billion, its fastest growth in years, while AI developers are rapidly building advertising and subscription businesses. From this perspective, the October decline represents investors recalibrating the timing of returns rather than rejecting the technology itself. After all, the internet did ultimately transform the global economy—it simply did so more slowly, and with different winners, than the investors of 1999 had expected.",
+    "There is also a broader argument that bubbles, though painful, are not wholly destructive. Periods of speculative excess can finance infrastructure that society later uses productively; the fiber-optic cables laid during the dot-com boom, for instance, eventually carried the traffic of streaming services and social media. The difficulty is that the costs and benefits are distributed unevenly. Those who build the infrastructure may suffer heavy losses, while those who arrive later inherit cheap capacity. Ordinary savers whose pension funds are concentrated in a handful of technology stocks may bear risks they never consciously chose.",
+    "Weighing these positions, it seems reasonable to conclude that the question \"Is AI a bubble?\" is somewhat misleading. A technology can be genuinely transformative while the prices attached to it are temporarily excessive; both can be true at once. What October's turbulence revealed is less a verdict on artificial intelligence than a reminder that markets ultimately demand evidence. The companies most likely to endure will be those that can demonstrate, quarter by quarter, that their enormous investments are producing returns—rather than those that rely on investors' faith that returns will eventually arrive."
+   ],
+   "words": [
+    {
+     "w": "valuation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌvæljuˈeɪʃn/",
+     "syl": [
+      "val",
+      "u",
+      "a",
+      "tion"
+     ],
+     "def": "the value that investors put on a company",
+     "ex": "The start-up's valuation doubled after it signed a deal with a major carmaker."
+    },
+    {
+     "w": "capital expenditure",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkæpɪtl ɪkˈspendɪtʃər/",
+     "syl": [
+      "cap",
+      "i",
+      "tal",
+      "ex",
+      "pen",
+      "di",
+      "ture"
+     ],
+     "def": "money a company spends on buildings, equipment, and other long-term assets",
+     "ex": "The airline's capital expenditure rose as it bought twenty new planes."
+    },
+    {
+     "w": "hyperscaler",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈhaɪpərˌskeɪlər/",
+     "syl": [
+      "hy",
+      "per",
+      "scal",
+      "er"
+     ],
+     "def": "a giant technology company that runs huge networks of data centers",
+     "ex": "A single hyperscaler can use as much electricity as a small city."
+    },
+    {
+     "w": "wealth effect",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/welθ ɪˈfekt/",
+     "syl": [
+      "wealth",
+      "ef",
+      "fect"
+     ],
+     "def": "the tendency of people to spend more when their assets rise in value and less when they fall",
+     "ex": "When house prices fell, the wealth effect made many families cut back on holidays."
+    },
+    {
+     "w": "implausible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ɪmˈplɔːzəbl/",
+     "syl": [
+      "im",
+      "plau",
+      "si",
+      "ble"
+     ],
+     "def": "difficult to believe; unlikely to be true",
+     "ex": "His excuse that the dog ate his laptop sounded implausible."
+    },
+    {
+     "w": "unprecedented",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ʌnˈpresɪdentɪd/",
+     "syl": [
+      "un",
+      "prec",
+      "e",
+      "dent",
+      "ed"
+     ],
+     "def": "never done or known before",
+     "ex": "The city faced an unprecedented number of tourists this summer."
+    },
+    {
+     "w": "scrutiny",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈskruːtəni/",
+     "syl": [
+      "scru",
+      "ti",
+      "ny"
+     ],
+     "def": "careful and detailed examination",
+     "ex": "The new policy came under close scrutiny from parents."
+    },
+    {
+     "w": "speculative",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈspekjələtɪv/",
+     "syl": [
+      "spec",
+      "u",
+      "la",
+      "tive"
+     ],
+     "def": "based on guesses or risky bets rather than firm facts",
+     "ex": "Buying a rare sneaker to resell later is a speculative investment."
+    },
+    {
+     "w": "inherit",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈherɪt/",
+     "syl": [
+      "in",
+      "her",
+      "it"
+     ],
+     "def": "to receive something from people or events that came before",
+     "ex": "The new coach will inherit a team full of injured players."
+    },
+    {
+     "w": "turbulence",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈtɜːrbjələns/",
+     "syl": [
+      "tur",
+      "bu",
+      "lence"
+     ],
+     "def": "a period of confusion, instability, or sudden change",
+     "ex": "The company survived years of financial turbulence."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "In October 2026, however, that momentum faltered.",
+     "kind": "Main event",
+     "note": "“However” turns the story from years of growth to a sudden slowdown: the news hook."
+    },
+    {
+     "para": 2,
+     "text": "When expectations are extremely optimistic, even a modest disappointment can force investors to revise their assumptions about years of future growth.",
+     "kind": "Cause → effect",
+     "note": "Explains why a small revenue miss caused a huge price drop. Purpose questions about paragraph 2 depend on it."
+    },
+    {
+     "para": 3,
+     "text": "Much of the current anxiety concerns spending rather than revenue.",
+     "kind": "Topic sentence",
+     "note": "Shifts the worry from earnings to spending. The paragraph lists the concerns, which a NOT question tests."
+    },
+    {
+     "para": 4,
+     "text": "Skeptics draw an obvious comparison with the dot-com era of the late 1990s, when investors poured money into internet companies whose business models had not yet proved profitable.",
+     "kind": "Topic sentence · one side",
+     "note": "The “bubble” side relies on a historical analogy."
+    },
+    {
+     "para": 5,
+     "text": "Others, however, caution against equating a correction with a collapse.",
+     "kind": "Counterargument",
+     "note": "The other side relies more on current data, such as cloud revenue."
+    },
+    {
+     "para": 7,
+     "text": "A technology can be genuinely transformative while the prices attached to it are temporarily excessive; both can be true at once.",
+     "kind": "Author's view",
+     "note": "The author rejects the yes/no framing and holds both ideas at once."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “faltered” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "vanished",
+      "weakened",
+      "hesitated",
+      "shifted"
+     ],
+     "a": 1,
+     "why": "“That momentum faltered” means the rally lost strength; the Nasdaq fell about 5 percent, not to zero.",
+     "evidence": "that momentum faltered",
+     "optWhy": [
+      "Too strong: the momentum weakened; it did not disappear completely.",
+      "Correct. The upward momentum lost strength.",
+      "Trap: the everyday meaning of falter (to hesitate when speaking or moving) does not fit here.",
+      "It fits grammatically, but “shift” is not the meaning, and no change of direction is described."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, which of the following is true of Intel?",
+     "opts": [
+      "Its shares fell because it reported lower quarterly profits than analysts had predicted.",
+      "Its weak forecast caused the Nasdaq to record its worst month since March 2025.",
+      "Its projected revenue was roughly $5 billion below the level analysts had expected.",
+      "Its share price dropped steeply after it gave a revenue outlook below expectations."
+     ],
+     "a": 3,
+     "why": "Intel's shares fell nearly 29 percent after it projected revenue below analysts' expectations.",
+     "evidence": "Intel's share price dropped by nearly 29 percent in a single session after the company projected fourth-quarter revenue of $15 billion to $16 billion",
+     "optWhy": [
+      "Detail swapped: it was a revenue forecast, not reported profits.",
+      "Time and cause mismatched: the Nasdaq's worst month was October; Intel's drop came on November 2.",
+      "Number swapped: $5 trillion was lost by AI shares overall; Intel's miss was about $1 billion.",
+      "Correct. A paraphrase of a forecast below expectations followed by a steep fall."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author explain how share prices are formed in paragraph 2?",
+     "opts": [
+      "To account for why a fairly small shortfall in revenue could cause a disproportionately large fall in value",
+      "To argue that investors had acted irrationally in assigning such high values to AI companies",
+      "To show that Intel's current earnings were weaker than those of other technology companies",
+      "To introduce the concern that technology firms are paying for their investments through borrowing"
+     ],
+     "a": 0,
+     "why": "The paragraph opens by asking why a $1 billion miss can erase so much value, then explains the mechanism.",
+     "evidence": "To understand why a forecast that misses expectations by around one billion dollars can erase such a large fraction of a company's value",
+     "optWhy": [
+      "Correct. The explanation shows why a small miss had a big effect.",
+      "Too strong: the author explains the mechanism but never calls investors irrational.",
+      "Not mentioned: Intel's earnings are not compared with other firms'.",
+      "From paragraph 3: borrowing is a different point, not the purpose of paragraph 2."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "In paragraph 3, the author mentions all of the following as sources of concern about AI investment EXCEPT",
+     "opts": [
+      "the scale of the money large firms are spending on facilities and equipment",
+      "the growing use of borrowed funds to pay for that investment",
+      "a decline in demand for cloud services among business customers",
+      "the possibility that falling share prices could reduce household spending"
+     ],
+     "a": 2,
+     "why": "Paragraph 3 names huge spending, borrowing, and the wealth effect. Falling cloud demand is not mentioned and conflicts with paragraph 5.",
+     "evidence": "Much of the current anxiety concerns spending rather than revenue.",
+     "optWhy": [
+      "Mentioned: “unprecedented sums in the processors, buildings and electricity.”",
+      "Mentioned: outlays are “financed … by borrowing.”",
+      "Correct answer, because it is NOT mentioned; paragraph 5 even says Amazon's cloud division grew fast.",
+      "Mentioned: the wealth effect makes households “less inclined to spend.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the internet companies of the late 1990s?",
+     "opts": [
+      "The firms that eventually benefited most from the internet were not necessarily the ones investors had favored in 1999.",
+      "Their business models were more firmly established than those of the companies now leading AI investment.",
+      "Their failure showed that the economic importance of the internet had been greatly overstated by investors.",
+      "Most of them recovered their earlier value once the internet had finally transformed the global economy."
+     ],
+     "a": 0,
+     "why": "The internet transformed the economy “with different winners” than 1999 investors expected.",
+     "evidence": "it simply did so more slowly, and with different winners, than the investors of 1999 had expected",
+     "optWhy": [
+      "Correct. “Different winners” means the eventual winners were not the favorites of 1999.",
+      "Reversed: today's AI investors are large established firms, “unlike many dot-com start-ups.”",
+      "Partly true: many failed, but the paragraph says the internet DID transform the economy.",
+      "Too strong, and paragraph 4 says many firms “disappeared entirely.”"
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Companies investing most heavily in AI are the ones most likely to survive, provided that investors stay confident.",
+      "Investors' belief in future returns will help companies survive until their investments finally begin to pay off.",
+      "Companies should report their returns every quarter so that investors do not lose their faith in AI.",
+      "Firms that keep proving their spending is paying off are likelier to last than those relying on trust in future profits."
+     ],
+     "a": 3,
+     "why": "Companies that can show returns quarter by quarter will outlast those relying on faith in future returns.",
+     "evidence": "The companies most likely to endure will be those that can demonstrate, quarter by quarter, that their enormous investments are producing returns—rather than those that rely on investors' faith that returns will eventually arrive.",
+     "optWhy": [
+      "Swaps “proving returns” for “investing most” and adds a condition the sentence lacks.",
+      "Reversed: the sentence says firms relying on faith are LESS likely to survive.",
+      "Turns the point into advice the author never gives.",
+      "Correct. Keeps both sides of the comparison."
+     ],
+     "highlight": "The companies most likely to endure will be those that can demonstrate, quarter by quarter, that their enormous investments are producing returns—rather than those that rely on investors' faith that returns will eventually arrive."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261104-1-k1",
+     "tag": "Main idea",
+     "fact": "In October 2026 AI-related shares lost about $5 trillion and the Nasdaq had its worst month since March 2025; Intel then fell nearly 29% in one day.",
+     "q": "What happened to AI stocks in October 2026?",
+     "opts": [
+      "They rose to record highs",
+      "They lost about $5 trillion in value",
+      "They were banned from trading",
+      "They stayed flat"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-1-k2",
+     "tag": "Concept",
+     "fact": "A share price reflects all expected future profits, so when hopes are very high, a small disappointment can cause a big fall.",
+     "q": "Why can a small revenue miss cause a big share-price fall?",
+     "opts": [
+      "Prices reflect expected future profits",
+      "Companies must repay loans",
+      "Banks set share prices",
+      "Taxes rise after misses"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261104-1-k3",
+     "tag": "Cause & effect",
+     "fact": "The worry is spending: hyperscalers are pouring borrowed money into data centers, and falling shares could cut household spending (the wealth effect).",
+     "q": "What is the main source of anxiety in paragraph 3?",
+     "opts": [
+      "Falling revenue",
+      "Huge, often borrowed, AI spending",
+      "Too few data centers",
+      "Low electricity prices"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-1-k4",
+     "tag": "Debate",
+     "fact": "Bubble side: dot-com-style valuations and debt. Correction side: today's AI investors are big profitable firms, and some AI businesses already earn real income.",
+     "q": "What does the “correction, not collapse” side point to?",
+     "opts": [
+      "The dot-com crash",
+      "Large, established firms with real revenues",
+      "Elon Musk's chatbot costs",
+      "The fiber-optic cables of the 1990s"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-1-k5",
+     "tag": "Critical thinking",
+     "fact": "A technology can be transformative while its prices are temporarily excessive; markets ultimately demand evidence of returns.",
+     "q": "What is the author's conclusion about “Is AI a bubble?”",
+     "opts": [
+      "Yes, AI will collapse",
+      "No, prices are fair",
+      "The question is misleading: both can be true",
+      "AI is not transformative"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "The AI stock slump",
+    "question": "Is the AI boom a bubble, or just a correction?",
+    "branches": [
+     {
+      "title": "The slump",
+      "paras": "1–2",
+      "blanks": [
+       "AI shares lost about $5 trillion",
+       "high hopes magnify small misses"
+      ],
+      "kps": [
+       "n20261104-1-k1",
+       "n20261104-1-k2"
+      ]
+     },
+     {
+      "title": "The worry",
+      "paras": "3",
+      "blanks": [
+       "huge spending, often borrowed"
+      ],
+      "kps": [
+       "n20261104-1-k3"
+      ]
+     },
+     {
+      "title": "Two views",
+      "paras": "4–5",
+      "blanks": [
+       "dot-com bubble all over again",
+       "a correction, not a collapse"
+      ],
+      "kps": [
+       "n20261104-1-k4"
+      ]
+     },
+     {
+      "title": "The verdict",
+      "paras": "6–7",
+      "blanks": [
+       "transformative but overpriced",
+       "markets demand evidence"
+      ],
+      "kps": [
+       "n20261104-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "cloud demand collapsed",
+     "the government banned AI chips"
+    ]
+   },
+   "summary": {
+    "intro": "AI-related stocks fell sharply in October 2026.",
+    "model": "AI stocks lost trillions after years of sky-high expectations, partly because firms are spending, and borrowing, enormous sums. However, while skeptics see a dot-com-style bubble and others a healthy correction, the author argues that AI can be transformative even if prices are temporarily too high.",
+    "options": [
+     {
+      "t": "Because share prices reflect very optimistic expectations, even small disappointments caused large falls in AI stocks.",
+      "ok": true,
+      "why": "Main idea of paragraphs 1–2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "When expectations are extremely optimistic, even a modest disappointment can force investors to revise their assumptions"
+     },
+     {
+      "t": "Investors are worried about the enormous, often borrowed, sums that large technology firms are spending on AI.",
+      "ok": true,
+      "why": "Main idea of paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Much of the current anxiety concerns spending rather than revenue."
+     },
+     {
+      "t": "Some compare the situation to the dot-com bubble, but others see a correction, and the author concludes that both transformation and overpricing can be true.",
+      "ok": true,
+      "why": "Main idea of paragraphs 4–7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "both can be true at once"
+     },
+     {
+      "t": "Microsoft recently completed a $25 billion bond offering.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "Microsoft recently completed a $25 billion bond offering"
+     },
+     {
+      "t": "Governments have announced new taxes on AI companies to slow the boom.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Most of today's leading AI investors are small start-ups with little revenue.",
+      "ok": false,
+      "why": "Contradicts paragraph 5.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "today's leading AI investors are large, established companies with substantial existing revenues"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Imagine a relative has just received some money and wants to invest all of it in technology companies because “everyone says AI is the future.” What advice would you give them, and why?",
+    "hint": "Your advice → reason 1 (use an idea from the article) → reason 2 + example → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor Martinez: When investors are enthusiastic about an innovation such as AI, huge amounts of money flow into the companies developing it, even before they prove they can make a profit. Is investor enthusiasm for new technologies more helpful or more harmful to society? Why? (Lena says risk-taking investors build infrastructure we later use. Daniel says ordinary families lose money while resources are misdirected.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use an example from the article (dot-com cables, pension funds).",
+     "Add a reason of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261104-2",
+   "topic": "Health",
+   "title": "Electricity Instead of Medicine? A New Way to Manage Blood Sugar",
+   "dek": "An implant that burns off extra blood sugar worked in mice. How far is that from a real treatment?",
+   "sources": [
+    {
+     "name": "ScienceDaily / ETH Zurich, Nov 2, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm"
+    }
+   ],
+   "paras": [
+    "Type 2 diabetes is one of the most widespread chronic conditions of the twenty-first century, and it continues to become more common around the world. The disease develops when the body can no longer properly regulate the level of glucose—a simple sugar derived from food—in the blood. Over time, persistently high blood sugar can damage blood vessels, nerves, kidneys and eyes. Type 2 diabetes is also closely associated with excess body weight, a combination that researchers sometimes describe with the blended term \"diabesity.\" In late October 2026, a team at ETH Zurich led by the biotechnologist Martin Fussenegger reported, in the journal Science, an experimental approach that attempts to address both problems at once—not with a new drug, but with an electronic implant.",
+    "Existing treatments tackle the disease in different ways. Insulin, a hormone that helps cells absorb glucose, is effective at lowering blood sugar, but it does not deal with what the researchers call the body's chronic energy surplus: glucose that enters cells may ultimately be stored as fat, so many patients continue to gain weight. Other medications act on appetite or on the way the body processes sugar, but they can produce side effects and usually must be taken consistently for years. Lifestyle changes such as an improved diet and regular exercise remain the foundation of treatment, yet they are notoriously difficult for many people to sustain.",
+    "The Zurich device takes a fundamentally different route. Its core is a piece of graphite felt coated with tiny clusters of gold, which are in turn decorated with even smaller particles of platinum. When an electric current is applied, this material acts as a catalyst—a substance that speeds up a chemical reaction without being used up by it—and converts glucose into gluconate, a compound the body excretes in urine. Rather than pushing excess sugar into cells, then, the implant effectively removes it from circulation. And because the catalyst consists entirely of inorganic materials, it contains no living cells or enzymes that might break down over time.",
+    "Crucially, the system operates only when it is needed. A standard glucose sensor, of the kind many patients already wear on the upper arm, monitors sugar levels and sends a signal via Bluetooth to a smartphone or smartwatch. When glucose rises above a target range—typically after a meal—the phone activates the implant, which receives its power wirelessly. Once levels return to normal, the device switches itself off. This \"closed-loop\" design is intended to prevent a dangerous problem associated with some existing treatments: hypoglycemia, or blood sugar that falls too low.",
+    "In laboratory tests, the catalyst successfully processed glucose in five liters of nutrient solution, roughly the volume of blood in an adult human body. In diabetic mice, the implant regulated blood sugar precisely, and the animals lost weight. Over six weeks, it functioned reliably, and the researchers reported no evidence of tissue damage from electrical or thermal effects. Fussenegger has framed the work as part of a broader shift from conventional pharmaceuticals toward electronically controlled therapies: \"We can take control of glucose directly,\" he said, \"using electronics rather than drugs.\"",
+    "Enthusiasm, however, should be tempered by caution. The device has so far been tested only in mice, and the history of medicine contains many treatments that performed impressively in rodents but failed in human trials. Six weeks is also a short period for a condition that patients live with for decades; the long-term durability of the catalyst, and the body's response to a permanent implant, remain unknown. Some observers raise a different kind of concern. If excess sugar can simply be removed electronically, might some patients feel less motivated to change their diets or exercise habits? And a therapy that depends on wireless connections and smartphones raises practical questions about cybersecurity, device failure, and access for people who cannot afford the necessary technology.",
+    "Supporters respond that such objections, while legitimate, apply to many medical innovations. Insulin pumps and continuous glucose monitors also rely on electronics, and they have improved countless lives. Moreover, because several components of the Zurich system—such as the sensors and the wireless power units—are already commercially available, the path to a clinical device may be shorter than it would be for an entirely new drug. On balance, the implant is best regarded as a promising proof of concept rather than an imminent cure. Its real significance may lie in demonstrating that chronic metabolic disease can be managed by engineering as well as by chemistry—an idea that, if it survives the rigors of human testing, could reshape how we think about treatment altogether."
+   ],
+   "words": [
+    {
+     "w": "glucose",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈɡluːkoʊs/",
+     "syl": [
+      "glu",
+      "cose"
+     ],
+     "def": "a simple sugar that the body uses for energy",
+     "ex": "Sports drinks contain glucose to give athletes quick energy."
+    },
+    {
+     "w": "catalyst",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkætəlɪst/",
+     "syl": [
+      "cat",
+      "a",
+      "lyst"
+     ],
+     "def": "a substance that speeds up a chemical reaction without being used up",
+     "ex": "Platinum is used as a catalyst in car exhaust systems."
+    },
+    {
+     "w": "hypoglycemia",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌhaɪpoʊɡlaɪˈsiːmiə/",
+     "syl": [
+      "hy",
+      "po",
+      "gly",
+      "ce",
+      "mi",
+      "a"
+     ],
+     "def": "a condition in which blood sugar falls too low",
+     "ex": "Skipping meals after a hard workout can cause hypoglycemia."
+    },
+    {
+     "w": "proof of concept",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/pruːf əv ˈkɑːnsept/",
+     "syl": [
+      "proof",
+      "of",
+      "con",
+      "cept"
+     ],
+     "def": "an early test showing that an idea can work",
+     "ex": "The robot was only a proof of concept, not a finished product."
+    },
+    {
+     "w": "chronic",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈkrɑːnɪk/",
+     "syl": [
+      "chron",
+      "ic"
+     ],
+     "def": "lasting for a long time or coming back often",
+     "ex": "Asthma is a chronic condition for many children."
+    },
+    {
+     "w": "sustain",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/səˈsteɪn/",
+     "syl": [
+      "sus",
+      "tain"
+     ],
+     "def": "to keep something going over time",
+     "ex": "It is hard to sustain motivation during a long revision period."
+    },
+    {
+     "w": "excrete",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪkˈskriːt/",
+     "syl": [
+      "ex",
+      "crete"
+     ],
+     "def": "to remove waste from the body",
+     "ex": "The kidneys excrete extra salt in urine."
+    },
+    {
+     "w": "durability",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌdʊrəˈbɪləti/",
+     "syl": [
+      "du",
+      "ra",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the ability to last a long time without breaking or wearing out",
+     "ex": "Hikers choose boots for their durability."
+    },
+    {
+     "w": "imminent",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈɪmɪnənt/",
+     "syl": [
+      "im",
+      "mi",
+      "nent"
+     ],
+     "def": "about to happen very soon",
+     "ex": "Dark clouds showed that a storm was imminent."
+    },
+    {
+     "w": "legitimate",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/lɪˈdʒɪtɪmət/",
+     "syl": [
+      "le",
+      "git",
+      "i",
+      "mate"
+     ],
+     "def": "reasonable and acceptable; fair",
+     "ex": "Missing class for a doctor's appointment is a legitimate reason."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "an experimental approach that attempts to address both problems at once—not with a new drug, but with an electronic implant.",
+     "kind": "Main idea",
+     "note": "The hook: a device, not a drug, aimed at both blood sugar and weight."
+    },
+    {
+     "para": 3,
+     "text": "Rather than pushing excess sugar into cells, then, the implant effectively removes it from circulation.",
+     "kind": "Key distinction",
+     "note": "Contrasts the implant with insulin. Factual questions about paragraphs 2–3 hinge on this."
+    },
+    {
+     "para": 4,
+     "text": "Crucially, the system operates only when it is needed.",
+     "kind": "Topic sentence",
+     "note": "Introduces the closed-loop design. The paragraph lists how it works, which a NOT question tests."
+    },
+    {
+     "para": 6,
+     "text": "Enthusiasm, however, should be tempered by caution.",
+     "kind": "Hedging",
+     "note": "The turn to limits: mouse-only results, short testing time, and practical concerns."
+    },
+    {
+     "para": 7,
+     "text": "On balance, the implant is best regarded as a promising proof of concept rather than an imminent cure.",
+     "kind": "Author's view",
+     "note": "The author's careful conclusion: promising, but not yet a treatment."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word “tempered” in paragraph 6 is closest in meaning to",
+     "opts": [
+      "hardened",
+      "replaced",
+      "moderated",
+      "tested"
+     ],
+     "a": 2,
+     "why": "“Enthusiasm should be tempered by caution” means it should be softened or balanced by caution.",
+     "evidence": "Enthusiasm, however, should be tempered by caution.",
+     "optWhy": [
+      "Trap: the literal meaning of temper (to make steel harder) does not fit.",
+      "Too strong: the author does not want caution to replace enthusiasm; paragraph 7 still calls the device promising.",
+      "Correct. Caution should moderate the enthusiasm.",
+      "It fits grammatically, but “tested” is not the meaning of tempered."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraphs 2 and 3, how does the implant's treatment of excess glucose differ from that of insulin?",
+     "opts": [
+      "It causes excess glucose to leave the body instead of helping cells take it in.",
+      "It turns excess glucose into fat that the body can later burn as energy.",
+      "It relies on living enzymes that break glucose down more efficiently.",
+      "It helps cells absorb glucose without the need for any hormone."
+     ],
+     "a": 0,
+     "why": "Insulin pushes glucose into cells; the implant turns it into gluconate, which leaves the body in urine.",
+     "evidence": "Rather than pushing excess sugar into cells, then, the implant effectively removes it from circulation.",
+     "optWhy": [
+      "Correct. A paraphrase of removing sugar from circulation.",
+      "Mixes up the subject: storing glucose as fat is the problem with insulin, not the implant.",
+      "Contradicts the text: the catalyst contains “no living cells or enzymes.”",
+      "Swaps insulin's role onto the implant."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are true of the implant's “closed-loop” design EXCEPT:",
+     "opts": [
+      "It depends on a sensor that keeps track of glucose levels.",
+      "It uses a phone or a watch to switch the implant on.",
+      "It stops working once glucose returns to the target range.",
+      "It allows patients to choose when the implant is activated."
+     ],
+     "a": 3,
+     "why": "The system runs automatically: the sensor, phone, and switch-off are all described, but patients choosing when it runs is not.",
+     "evidence": "Once levels return to normal, the device switches itself off.",
+     "optWhy": [
+      "Mentioned: “A standard glucose sensor … monitors sugar levels.”",
+      "Mentioned: the phone “activates the implant.”",
+      "Mentioned: “the device switches itself off.”",
+      "Correct answer, because it is NOT stated and conflicts with the automatic closed-loop design."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention “five liters of nutrient solution” in paragraph 5?",
+     "opts": [
+      "To describe how the researchers supplied glucose to the diabetic mice",
+      "To indicate that the laboratory test used a volume similar to an adult's blood",
+      "To show that the catalyst processes glucose faster than the human body does",
+      "To contrast the laboratory results with less successful results in the mice"
+     ],
+     "a": 1,
+     "why": "Five liters is “roughly the volume of blood in an adult human body,” showing the test was at human scale.",
+     "evidence": "five liters of nutrient solution, roughly the volume of blood in an adult human body",
+     "optWhy": [
+      "Detail swapped: the solution was a lab test, not how the mice were fed.",
+      "Correct. The number shows the test matched an adult's blood volume.",
+      "Not stated: no speed comparison is made.",
+      "Wrong relationship: the mouse results were also successful."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the author's view of the results in mice?",
+     "opts": [
+      "They suggest that the implant may damage surrounding tissue over long periods.",
+      "They show that the device will be safe once it is eventually tested in humans.",
+      "They do not by themselves establish that the device will work in people.",
+      "They are less reliable than the results obtained with the nutrient solution."
+     ],
+     "a": 2,
+     "why": "Many treatments worked in rodents but failed in humans, so mouse results alone do not prove the device works in people.",
+     "evidence": "many treatments that performed impressively in rodents but failed in human trials",
+     "optWhy": [
+      "Unsupported: long-term effects are “unknown,” and paragraph 5 reports no tissue damage.",
+      "Too strong, and the opposite of the author's caution.",
+      "Correct. One step beyond the warning about rodent results.",
+      "Not stated: the two tests are never compared for reliability."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because its sensors and power units are already on sale, the Zurich system is now available to patients.",
+      "Since some of its parts can already be bought, the system might reach clinical use sooner than a new drug.",
+      "Developing a new drug generally takes longer than developing sensors and wireless power units.",
+      "The Zurich system can become a clinical device only if all of its components become commercially available."
+     ],
+     "a": 1,
+     "why": "Because some components are already sold, the route to a clinical device may be shorter than for a new drug.",
+     "evidence": "Moreover, because several components of the Zurich system—such as the sensors and the wireless power units—are already commercially available, the path to a clinical device may be shorter than it would be for an entirely new drug.",
+     "optWhy": [
+      "Too strong: “may be shorter” becomes “now available to patients.”",
+      "Correct. Keeps the cause and the comparison.",
+      "Keeps only half the comparison and drops the cause (parts already on sale).",
+      "Invents an “only if” condition the sentence does not contain."
+     ],
+     "highlight": "Moreover, because several components of the Zurich system—such as the sensors and the wireless power units—are already commercially available, the path to a clinical device may be shorter than it would be for an entirely new drug."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261104-2-k1",
+     "tag": "Main idea",
+     "fact": "An ETH Zurich implant uses electricity and a catalyst to turn excess blood sugar into gluconate, which the body excretes; in diabetic mice it lowered sugar and weight.",
+     "q": "What does the Zurich implant do with excess blood sugar?",
+     "opts": [
+      "Stores it as fat",
+      "Turns it into a compound the body excretes",
+      "Pushes it into cells",
+      "Turns it into insulin"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-2-k2",
+     "tag": "Concept",
+     "fact": "Insulin lowers blood sugar by moving glucose into cells, where it may become fat; the implant removes glucose instead.",
+     "q": "Why can insulin still lead to weight gain?",
+     "opts": [
+      "It raises appetite directly",
+      "Glucose moved into cells may be stored as fat",
+      "It contains sugar",
+      "It stops exercise"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-2-k3",
+     "tag": "Detail",
+     "fact": "Closed loop: a glucose sensor signals a phone, which switches the wirelessly powered implant on after meals and off when levels are normal, avoiding hypoglycemia.",
+     "q": "Why does the implant switch off automatically?",
+     "opts": [
+      "To save phone battery",
+      "To prevent blood sugar from falling too low",
+      "Because patients ask it to",
+      "To cool down"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-2-k4",
+     "tag": "Critical thinking",
+     "fact": "It has only been tested in mice for six weeks; many treatments that work in rodents fail in humans.",
+     "q": "Why is the author cautious about the results?",
+     "opts": [
+      "The journal was unknown",
+      "It has only been tested briefly in mice",
+      "The mice gained weight",
+      "The device used enzymes"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-2-k5",
+     "tag": "Debate",
+     "fact": "Concerns: less motivation to change habits, cybersecurity, device failure, and cost. Supporters: parts already exist, so the path to clinics may be shorter.",
+     "q": "Which is a concern raised about the implant?",
+     "opts": [
+      "It is too cheap",
+      "Patients might feel less need to change their diets",
+      "It works too slowly",
+      "It cannot connect to phones"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "An electric sugar fix",
+    "question": "How does the implant work, and is it ready?",
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1–2",
+      "blanks": [
+       "insulin can lead to weight gain"
+      ],
+      "kps": [
+       "n20261104-2-k2"
+      ]
+     },
+     {
+      "title": "How it works",
+      "paras": "3–4",
+      "blanks": [
+       "catalyst turns glucose into gluconate",
+       "switches on only after meals"
+      ],
+      "kps": [
+       "n20261104-2-k1",
+       "n20261104-2-k3"
+      ]
+     },
+     {
+      "title": "The results",
+      "paras": "5",
+      "blanks": [
+       "lower sugar and weight in mice"
+      ],
+      "kps": [
+       "n20261104-2-k1"
+      ]
+     },
+     {
+      "title": "Caution",
+      "paras": "6–7",
+      "blanks": [
+       "only six weeks in mice",
+       "a proof of concept, not a cure"
+      ],
+      "kps": [
+       "n20261104-2-k4",
+       "n20261104-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "patients choose when it switches on",
+     "approved for human use in 2027"
+    ]
+   },
+   "summary": {
+    "intro": "Researchers have built an implant that uses electricity to lower blood sugar.",
+    "model": "An ETH Zurich implant removes excess blood sugar by turning it into a compound the body excretes, switching on only when sugar is high. However, because it has only been tested briefly in mice, it is best seen as a promising proof of concept rather than a cure.",
+    "options": [
+     {
+      "t": "Unlike insulin, which moves sugar into cells, the implant removes excess glucose from the body.",
+      "ok": true,
+      "why": "Main idea of paragraphs 2–3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "the implant effectively removes it from circulation"
+     },
+     {
+      "t": "A sensor and smartphone switch the implant on only when blood sugar is too high, which helps prevent dangerously low levels.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Crucially, the system operates only when it is needed."
+     },
+     {
+      "t": "Although results in mice were promising, the device needs much longer testing in humans before it can be considered a treatment.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "a promising proof of concept rather than an imminent cure"
+     },
+     {
+      "t": "The catalyst is made of graphite felt coated with gold and platinum particles.",
+      "ok": false,
+      "why": "True, but only a technical detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "a piece of graphite felt coated with tiny clusters of gold"
+     },
+     {
+      "t": "The researchers plan to sell the implant in pharmacies next year.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The implant uses living enzymes that must be replaced every few weeks.",
+      "ok": false,
+      "why": "Contradicts paragraph 3.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "it contains no living cells or enzymes that might break down over time"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Many people now use smartwatches or phone apps to track their health, such as their steps, sleep, or heart rate. Do you think these tools actually make people healthier, or do they mainly create more stress? Give specific reasons.",
+    "hint": "Your view → reason 1 + example → reason 2 + example → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor Okafor: Medical technology is moving from pills toward devices that monitor and even treat our bodies automatically. When it comes to managing long-term health conditions, should society invest more in high-tech treatments or in encouraging healthier lifestyles? (Mia says devices don't depend on willpower, so they help more people. Kevin says healthier habits prevent many diseases at once and cost much less.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use a point from the article (proof of concept, cost, motivation).",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  },
+  {
+   "id": "n20261104-3",
+   "topic": "Nature",
+   "title": "A Face in the Ice: What a Satellite Image Can—and Cannot—Tell Us",
+   "dek": "A skull-shaped island in Antarctica went viral. What can one striking image really tell us about climate?",
+   "sources": [
+    {
+     "name": "ScienceDaily / NASA Earth Observatory, Nov 2, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
+    }
+   ],
+   "paras": [
+    "Seen from orbit, the island looks unsettlingly like a human skull. A dark rocky peak forms an eye socket, a curved ridge of rock debris outlines a grinning mouth, and a glacier sweeping toward the sea shapes the lower jaw. The image, released by NASA's Earth Observatory at the end of October 2026, shows Vega Island, which lies in the Weddell Sea just east of the Antarctic Peninsula. Its timing, just before Halloween, ensured that it circulated widely online. The island already had a modest place in history: in 1903, members of a Swedish expedition, stranded after pack ice crushed their ship, were reunited there before being rescued. Yet behind the eerie resemblance lies a more serious story about how snow and ice are changing in one of the planet's most sensitive regions.",
+    "The skull's features are made from ordinary glacial landforms. The \"eye\" is a nunatak, a peak of bedrock that protrudes through the surrounding ice; the word is borrowed from Greenlandic. The \"mouth\" is outlined by a lateral moraine, a ridge of rock and sediment that a glacier deposits along its sides as it advances. The jaw is formed by Devil's Bay Glacier, which scientists have monitored since the Antarctic summer of 1998–1999 and which has shown an overall loss of mass over that period. In most years, these features are partly obscured by a thick blanket of snow. They stand out clearly only when that blanket thins.",
+    "That is exactly what happened in 2026. Images captured by the Landsat 9 satellite on March 22, 2025, show the island largely covered in snow. By October 10, 2026, broad areas were bare, exposing darker glacier ice and rock. According to the glaciologist Mauri Pelto of Nichols College, the change followed unusually warm winter conditions in 2026, especially in June. Little fresh snow accumulated, and some of what did fall was lost to strong winds and to sublimation—the process by which ice turns directly into water vapor without first melting into liquid.",
+    "The loss of snow matters for reasons that go beyond appearance. Fresh snow is highly reflective: it sends much of the incoming sunlight back into space. Glacier ice and rock, being darker, absorb more of that energy and warm up. Scientists describe a surface's reflectivity as its albedo, and changes in albedo can create a feedback loop—less snow leads to more absorbed heat, which leads to further melting, which in turn exposes still more dark surfaces. If temperatures rise as the southern spring and summer arrive, the exposed ice on Vega Island may melt faster than it would beneath a protective snow cover. The island's longer record points in the same direction: a 1982 study documented four ice caps and 29 glaciers there, and many have since lost ice, revealing more bare bedrock.",
+    "It would be easy to treat the skull as a dramatic emblem of global warming, and many online posts did exactly that. Scientists, however, generally warn against drawing broad conclusions from a single season. Weather in Antarctica varies considerably from one year to the next, and one warm winter could reflect short-lived atmospheric patterns rather than a lasting shift. Climate, by definition, describes conditions averaged over decades. A single image, however striking, is a snapshot; it cannot by itself demonstrate a trend.",
+    "At the same time, dismissing the image as mere coincidence would be equally mistaken. Its value lies in context. The Antarctic Peninsula is among the fastest-warming regions on Earth, and the multi-decade record of glacier loss on Vega Island is consistent with that broader pattern. Seen in this light, the 2026 image is not proof on its own, but it is a vivid data point that fits within a long series of measurements. Satellites in the Landsat program, which has photographed Earth's surface continuously since the 1970s, are valuable precisely because they allow researchers to compare any single image against that long baseline.",
+    "There is also a lesson here about science communication. Striking images capture public attention in a way that graphs and statistics rarely do, and a skull peering out of melting ice is undeniably memorable. The risk is that attention fades as quickly as it arrives, or that audiences mistake a symbol for an argument. The most responsible approach, perhaps, is to treat such images as an entry point: to let the eerie face spark curiosity, and then to direct that curiosity toward the slower, less dramatic evidence on which scientific conclusions actually rest."
+   ],
+   "words": [
+    {
+     "w": "nunatak",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈnʌnətæk/",
+     "syl": [
+      "nun",
+      "a",
+      "tak"
+     ],
+     "def": "a rocky peak that sticks up through an ice sheet",
+     "ex": "From the plane we could see a dark nunatak rising out of the white ice."
+    },
+    {
+     "w": "moraine",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/məˈreɪn/",
+     "syl": [
+      "mo",
+      "raine"
+     ],
+     "def": "a ridge of rock and soil left behind by a glacier",
+     "ex": "The hiking trail follows an old moraine left by the retreating glacier."
+    },
+    {
+     "w": "sublimation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌsʌblɪˈmeɪʃn/",
+     "syl": [
+      "sub",
+      "li",
+      "ma",
+      "tion"
+     ],
+     "def": "the change of a solid directly into a gas without melting first",
+     "ex": "Dry ice disappears through sublimation rather than melting."
+    },
+    {
+     "w": "albedo",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ælˈbiːdoʊ/",
+     "syl": [
+      "al",
+      "be",
+      "do"
+     ],
+     "def": "how much sunlight a surface reflects",
+     "ex": "Fresh snow has a high albedo, so it stays cool even in bright sun."
+    },
+    {
+     "w": "feedback loop",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈfiːdbæk luːp/",
+     "syl": [
+      "feed",
+      "back",
+      "loop"
+     ],
+     "def": "a process in which a result causes more of the same result",
+     "ex": "Less sleep leads to more stress, and more stress leads to less sleep: a feedback loop."
+    },
+    {
+     "w": "eerie",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈɪri/",
+     "syl": [
+      "ee",
+      "rie"
+     ],
+     "def": "strange and slightly frightening",
+     "ex": "The empty school felt eerie at night."
+    },
+    {
+     "w": "protrude",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/proʊˈtruːd/",
+     "syl": [
+      "pro",
+      "trude"
+     ],
+     "def": "to stick out from a surface",
+     "ex": "Sharp rocks protrude from the river at low tide."
+    },
+    {
+     "w": "emblem",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈembləm/",
+     "syl": [
+      "em",
+      "blem"
+     ],
+     "def": "a symbol that represents an idea",
+     "ex": "The polar bear has become an emblem of climate change."
+    },
+    {
+     "w": "snapshot",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈsnæpʃɑːt/",
+     "syl": [
+      "snap",
+      "shot"
+     ],
+     "def": "a picture or record of a single moment, not the whole story",
+     "ex": "One test score is only a snapshot of a student's ability."
+    },
+    {
+     "w": "baseline",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈbeɪslaɪn/",
+     "syl": [
+      "base",
+      "line"
+     ],
+     "def": "a starting point used for comparison",
+     "ex": "Doctors measure your normal heart rate as a baseline."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Yet behind the eerie resemblance lies a more serious story about how snow and ice are changing in one of the planet's most sensitive regions.",
+     "kind": "Main idea",
+     "note": "“Yet” moves from the viral image to the real scientific story."
+    },
+    {
+     "para": 3,
+     "text": "According to the glaciologist Mauri Pelto of Nichols College, the change followed unusually warm winter conditions in 2026, especially in June.",
+     "kind": "Cause → effect",
+     "note": "Explains why the snow disappeared. Remember: June is winter in Antarctica."
+    },
+    {
+     "para": 4,
+     "text": "Scientists describe a surface's reflectivity as its albedo, and changes in albedo can create a feedback loop",
+     "kind": "Key concept",
+     "note": "The feedback loop is the reason snow loss matters. Inference questions often target it."
+    },
+    {
+     "para": 5,
+     "text": "A single image, however striking, is a snapshot; it cannot by itself demonstrate a trend.",
+     "kind": "Critical thinking",
+     "note": "Weather versus climate: one season cannot prove a long-term trend."
+    },
+    {
+     "para": 6,
+     "text": "At the same time, dismissing the image as mere coincidence would be equally mistaken.",
+     "kind": "Counterbalance",
+     "note": "The author warns against the opposite error too; context gives the image its value."
+    },
+    {
+     "para": 7,
+     "text": "The most responsible approach, perhaps, is to treat such images as an entry point",
+     "kind": "Author's view",
+     "note": "Images should spark curiosity that leads to the slower evidence."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word “obscured” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "darkened",
+      "protected",
+      "flattened",
+      "hidden"
+     ],
+     "a": 3,
+     "why": "The features are covered by snow and stand out only when the snow thins, so “hidden” fits.",
+     "evidence": "In most years, these features are partly obscured by a thick blanket of snow.",
+     "optWhy": [
+      "Trap: obscure can mean “make dark,” and the article often mentions darker surfaces.",
+      "Borrowed from paragraph 4 (“protective snow cover”), but not the meaning here.",
+      "It fits grammatically, but the text says nothing about flattening.",
+      "Correct. The snow hides the features."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what happened to the snow on Vega Island in 2026?",
+     "opts": [
+      "It melted rapidly during an unusually warm summer that peaked in June.",
+      "Little new snow built up, and some of it was lost to wind or turned straight into vapor.",
+      "It gradually changed into glacier ice, which then reflected less of the sunlight.",
+      "It was pushed aside by rock and sediment carried down by Devil's Bay Glacier."
+     ],
+     "a": 1,
+     "why": "Little fresh snow accumulated, and some was lost to wind and sublimation.",
+     "evidence": "Little fresh snow accumulated, and some of what did fall was lost to strong winds and to sublimation",
+     "optWhy": [
+      "Detail swapped: June is winter there, and the main cause was little new snow, not summer melting.",
+      "Correct. “Turned straight into vapor” paraphrases sublimation.",
+      "Borrows the reflectivity idea from paragraph 4 and invents snow turning into ice.",
+      "From paragraph 2: moraines are unrelated to the snow loss."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author mention the Swedish expedition of 1903 in paragraph 1?",
+     "opts": [
+      "To explain how the skull-shaped landform was first noticed by explorers",
+      "To suggest that conditions on the island were once much harsher than today",
+      "To point out a further reason why the island is of some historical interest",
+      "To illustrate the danger that pack ice still poses to ships in the Weddell Sea"
+     ],
+     "a": 2,
+     "why": "The author says the island “already had a modest place in history” and gives the expedition as the example.",
+     "evidence": "The island already had a modest place in history",
+     "optWhy": [
+      "Not stated: the explorers did not discover the skull shape.",
+      "Too strong: past and present conditions are not compared.",
+      "Correct. It adds historical interest.",
+      "Too broad: one 1903 event becomes a claim about danger today."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "Which of the following can be inferred from paragraph 4 about changes in albedo?",
+     "opts": [
+      "They can cause an initial loss of snow cover to contribute to further losses.",
+      "They were the main reason that little fresh snow accumulated during 2026.",
+      "They explain why glacier ice reflects more sunlight than fresh snow does.",
+      "They were first measured on Vega Island during the 1982 study of its ice."
+     ],
+     "a": 0,
+     "why": "Less snow → more heat absorbed → more melting → more dark surfaces: an initial loss can lead to further losses.",
+     "evidence": "less snow leads to more absorbed heat, which leads to further melting",
+     "optWhy": [
+      "Correct. The feedback loop means early losses feed later ones.",
+      "Cause reversed: weather caused the low snowfall; albedo change is a result.",
+      "Reversed: snow reflects MORE than ice.",
+      "The 1982 study counted ice caps and glaciers; it did not measure albedo."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, scientists warn against drawing broad conclusions from the image for all of the following reasons EXCEPT:",
+     "opts": [
+      "Antarctic weather can differ considerably from one year to the next.",
+      "Satellite images may be distorted by unusual lighting conditions.",
+      "A warm winter could be caused by temporary atmospheric patterns.",
+      "Climate refers to conditions averaged over a period of decades."
+     ],
+     "a": 1,
+     "why": "Paragraph 5 gives year-to-year variation, short-lived patterns, and the decades-long definition of climate. Lighting distortion is not mentioned.",
+     "evidence": "Scientists, however, generally warn against drawing broad conclusions from a single season.",
+     "optWhy": [
+      "Mentioned: “Weather in Antarctica varies considerably from one year to the next.”",
+      "Correct answer, because it is NOT mentioned, though it sounds technical and plausible.",
+      "Mentioned: “short-lived atmospheric patterns.”",
+      "Mentioned: “Climate … describes conditions averaged over decades.”"
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Viewed in context, the image does not prove anything alone, but it agrees with long-term records.",
+      "Because it fits a long series of measurements, the image offers strong proof of a warming trend.",
+      "The image is more vivid than other data, so it should be treated as the most important measurement.",
+      "Unless it is compared with long-term records, the image cannot be regarded as an accurate measurement."
+     ],
+     "a": 0,
+     "why": "The image is not proof on its own, but it fits a long series of measurements.",
+     "evidence": "Seen in this light, the 2026 image is not proof on its own, but it is a vivid data point that fits within a long series of measurements.",
+     "optWhy": [
+      "Correct. Keeps “not proof alone” and “fits long-term records.”",
+      "Too strong: “not proof” becomes “strong proof.”",
+      "Invents a ranking: “vivid” does not mean “most important.”",
+      "Swaps “cannot prove a trend alone” for “inaccurate measurement.”"
+     ],
+     "highlight": "Seen in this light, the 2026 image is not proof on its own, but it is a vivid data point that fits within a long series of measurements."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261104-3-k1",
+     "tag": "Main idea",
+     "fact": "A NASA image showed Vega Island, Antarctica, looking like a skull because unusually little snow covered its glaciers and rocks in 2026.",
+     "q": "Why did the skull shape show up so clearly in 2026?",
+     "opts": [
+      "A volcano erupted",
+      "Unusually little snow covered the island",
+      "NASA edited the image",
+      "The island was new"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-3-k2",
+     "tag": "Concept",
+     "fact": "The features are glacial landforms: a nunatak (rock peak through ice), a lateral moraine (rock ridge left by a glacier), and a glacier.",
+     "q": "What is a nunatak?",
+     "opts": [
+      "A type of glacier",
+      "A rock peak sticking up through ice",
+      "A Swedish ship",
+      "A satellite"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-3-k3",
+     "tag": "Cause & effect",
+     "fact": "Snow reflects sunlight; darker ice and rock absorb it. Losing snow lowers albedo and creates a feedback loop of more melting.",
+     "q": "Why does losing snow speed up melting?",
+     "opts": [
+      "Snow is heavier than ice",
+      "Darker surfaces absorb more heat",
+      "Wind blows ice away",
+      "Satellites warm the ice"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-3-k4",
+     "tag": "Critical thinking",
+     "fact": "One season is weather, not climate: a single image is a snapshot and cannot prove a trend alone.",
+     "q": "Why can't one image prove a climate trend?",
+     "opts": [
+      "Images are always fake",
+      "Climate is averaged over decades",
+      "Antarctica has no weather",
+      "Satellites are inaccurate"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261104-3-k5",
+     "tag": "Author's view",
+     "fact": "Dismissing the image is also wrong: it fits decades of glacier loss and Landsat's long baseline, so it is a vivid data point and a good entry point.",
+     "q": "What gives the image its scientific value?",
+     "opts": [
+      "Its timing near Halloween",
+      "Context: decades of consistent records",
+      "Its skull shape",
+      "Its high resolution"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "The skull in the ice",
+    "question": "What can one satellite image tell us?",
+    "branches": [
+     {
+      "title": "The image",
+      "paras": "1–2",
+      "blanks": [
+       "a skull made of glacial landforms"
+      ],
+      "kps": [
+       "n20261104-3-k1",
+       "n20261104-3-k2"
+      ]
+     },
+     {
+      "title": "Why snow vanished",
+      "paras": "3",
+      "blanks": [
+       "a warm winter, wind, sublimation"
+      ],
+      "kps": [
+       "n20261104-3-k1"
+      ]
+     },
+     {
+      "title": "Why it matters",
+      "paras": "4",
+      "blanks": [
+       "dark surfaces absorb more heat",
+       "an albedo feedback loop"
+      ],
+      "kps": [
+       "n20261104-3-k3"
+      ]
+     },
+     {
+      "title": "Reading it wisely",
+      "paras": "5–7",
+      "blanks": [
+       "one season is not a trend",
+       "fits decades of records"
+      ],
+      "kps": [
+       "n20261104-3-k4",
+       "n20261104-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "the image proves rapid global warming",
+     "a volcano melted the snow"
+    ]
+   },
+   "summary": {
+    "intro": "A satellite image of an Antarctic island that looks like a skull spread widely online.",
+    "model": "Vega Island looked like a skull in 2026 because a warm winter left its ice and rock exposed, which can speed up melting through an albedo feedback. However, while one image cannot prove a climate trend, it fits decades of records and can spark interest in the slower evidence.",
+    "options": [
+     {
+      "t": "Unusually little snow in 2026 exposed glacial landforms that made the island resemble a skull.",
+      "ok": true,
+      "why": "Main idea of paragraphs 1–3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "the change followed unusually warm winter conditions in 2026"
+     },
+     {
+      "t": "Losing reflective snow can speed up melting, because darker ice and rock absorb more heat.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "changes in albedo can create a feedback loop"
+     },
+     {
+      "t": "A single image cannot prove a trend, but it is meaningful when placed in the context of long-term records.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "it is a vivid data point that fits within a long series of measurements"
+     },
+     {
+      "t": "A Swedish expedition was stranded near the island in 1903.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "in 1903, members of a Swedish expedition"
+     },
+     {
+      "t": "NASA plans to send scientists to measure the island's ice next year.",
+      "ok": false,
+      "why": "Not mentioned in the article.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Scientists agree that the 2026 image proves a lasting shift in Antarctic climate.",
+      "ok": false,
+      "why": "Contradicts paragraph 5.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "Scientists, however, generally warn against drawing broad conclusions from a single season."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Think about a photo or video that made you care about an environmental or scientific issue. Describe it and explain why it affected you more than facts or numbers might have.",
+    "hint": "Describe the image → how it made you feel → why it worked better than numbers → what you did or thought next.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor Lindqvist: Some argue that researchers should communicate more dramatically, using striking images and memorable stories, so that important findings reach a wider audience. Others worry this risks oversimplifying the science. Should scientists make their findings more dramatic to capture public attention? (Sofia says dramatic images get millions talking. Tom says constant shock makes people stop trusting scientists.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Use the article's idea of images as an entry point.",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 100
+   }
+  }
+ ],
+ "audio": {
+  "For much of the past three years, companies associated with artificial intelligence have acted as the gravitational center of the stock market. Chipmakers, cloud-computing providers and software firms saw their valuations climb to levels that, only a decade ago, would have seemed implausible. In October 2026, however, that momentum faltered. The technology-heavy Nasdaq Composite index fell by more than 5 percent over the month—its worst monthly performance since March 2025—and AI-related shares reportedly shed around $5 trillion in market value in roughly three weeks. On November 2, the sell-off intensified when Intel's share price dropped by nearly 29 percent in a single session after the company projected fourth-quarter revenue of $15 billion to $16 billion, short of the roughly $17 billion that analysts had anticipated.": "audio/2026-11-04/a1-p1.mp3",
+  "To understand why a forecast that misses expectations by around one billion dollars can erase such a large fraction of a company's value, it helps to recall how stock prices are formed. A share price is not simply a measure of what a company earns today; it is investors' collective estimate of all the profits the firm will generate in the future, discounted to their present value. When expectations are extremely optimistic, even a modest disappointment can force investors to revise their assumptions about years of future growth. The wider the gap between current earnings and anticipated earnings, the more sensitive a price becomes to new information.": "audio/2026-11-04/a1-p2.mp3",
+  "Much of the current anxiety concerns spending rather than revenue. The largest technology firms—often called \"hyperscalers\" because they operate enormous networks of data centers—are investing unprecedented sums in the processors, buildings and electricity needed to train and run AI models. Amazon alone has indicated that it expects capital expenditure of around $220 billion this year. Increasingly, such outlays are financed not from existing profits but by borrowing: Microsoft recently completed a $25 billion bond offering, and Oracle announced plans to raise roughly $20 billion through a combination of bonds and new shares, a move that pushed its stock down by about 5 percent. Economists at Bank of America have described a sustained correction in the AI trade as \"one of the larger risks to the US and global economy,\" partly because falling share prices make households that own stocks feel poorer and therefore less inclined to spend—a phenomenon economists call the wealth effect.": "audio/2026-11-04/a1-p3.mp3",
+  "Skeptics draw an obvious comparison with the dot-com era of the late 1990s, when investors poured money into internet companies whose business models had not yet proved profitable. When that bubble burst in 2000 and 2001, the Nasdaq lost most of its value, and many firms disappeared entirely. According to this view, today's AI enthusiasm displays similar symptoms: soaring valuations, growing reliance on debt, and a narrative of inevitable transformation that discourages careful scrutiny of costs. Even some industry figures have acknowledged the strain; Elon Musk, for example, conceded that the cost of serving his company's chatbot had been \"unsustainably high relative to revenue.\"": "audio/2026-11-04/a1-p4.mp3",
+  "Others, however, caution against equating a correction with a collapse. They point out that, unlike many dot-com start-ups, today's leading AI investors are large, established companies with substantial existing revenues. Some AI-related businesses are already generating meaningful income: Amazon's cloud division reported quarterly revenue of about $46 billion, its fastest growth in years, while AI developers are rapidly building advertising and subscription businesses. From this perspective, the October decline represents investors recalibrating the timing of returns rather than rejecting the technology itself. After all, the internet did ultimately transform the global economy—it simply did so more slowly, and with different winners, than the investors of 1999 had expected.": "audio/2026-11-04/a1-p5.mp3",
+  "There is also a broader argument that bubbles, though painful, are not wholly destructive. Periods of speculative excess can finance infrastructure that society later uses productively; the fiber-optic cables laid during the dot-com boom, for instance, eventually carried the traffic of streaming services and social media. The difficulty is that the costs and benefits are distributed unevenly. Those who build the infrastructure may suffer heavy losses, while those who arrive later inherit cheap capacity. Ordinary savers whose pension funds are concentrated in a handful of technology stocks may bear risks they never consciously chose.": "audio/2026-11-04/a1-p6.mp3",
+  "Weighing these positions, it seems reasonable to conclude that the question \"Is AI a bubble?\" is somewhat misleading. A technology can be genuinely transformative while the prices attached to it are temporarily excessive; both can be true at once. What October's turbulence revealed is less a verdict on artificial intelligence than a reminder that markets ultimately demand evidence. The companies most likely to endure will be those that can demonstrate, quarter by quarter, that their enormous investments are producing returns—rather than those that rely on investors' faith that returns will eventually arrive.": "audio/2026-11-04/a1-p7.mp3",
+  "valuation": "audio/2026-11-04/a1-w-valuation.mp3",
+  "The start-up's valuation doubled after it signed a deal with a major carmaker.": "audio/2026-11-04/a1-ex-valuation.mp3",
+  "capital expenditure": "audio/2026-11-04/a1-w-capital-expenditure.mp3",
+  "The airline's capital expenditure rose as it bought twenty new planes.": "audio/2026-11-04/a1-ex-capital-expenditure.mp3",
+  "hyperscaler": "audio/2026-11-04/a1-w-hyperscaler.mp3",
+  "A single hyperscaler can use as much electricity as a small city.": "audio/2026-11-04/a1-ex-hyperscaler.mp3",
+  "wealth effect": "audio/2026-11-04/a1-w-wealth-effect.mp3",
+  "When house prices fell, the wealth effect made many families cut back on holidays.": "audio/2026-11-04/a1-ex-wealth-effect.mp3",
+  "implausible": "audio/2026-11-04/a1-w-implausible.mp3",
+  "His excuse that the dog ate his laptop sounded implausible.": "audio/2026-11-04/a1-ex-implausible.mp3",
+  "unprecedented": "audio/2026-11-04/a1-w-unprecedented.mp3",
+  "The city faced an unprecedented number of tourists this summer.": "audio/2026-11-04/a1-ex-unprecedented.mp3",
+  "scrutiny": "audio/2026-11-04/a1-w-scrutiny.mp3",
+  "The new policy came under close scrutiny from parents.": "audio/2026-11-04/a1-ex-scrutiny.mp3",
+  "speculative": "audio/2026-11-04/a1-w-speculative.mp3",
+  "Buying a rare sneaker to resell later is a speculative investment.": "audio/2026-11-04/a1-ex-speculative.mp3",
+  "inherit": "audio/2026-11-04/a1-w-inherit.mp3",
+  "The new coach will inherit a team full of injured players.": "audio/2026-11-04/a1-ex-inherit.mp3",
+  "turbulence": "audio/2026-11-04/a1-w-turbulence.mp3",
+  "The company survived years of financial turbulence.": "audio/2026-11-04/a1-ex-turbulence.mp3",
+  "In October 2026, however, that momentum faltered.": "audio/2026-11-04/a1-ks1.mp3",
+  "When expectations are extremely optimistic, even a modest disappointment can force investors to revise their assumptions about years of future growth.": "audio/2026-11-04/a1-ks2.mp3",
+  "Much of the current anxiety concerns spending rather than revenue.": "audio/2026-11-04/a1-ks3.mp3",
+  "Skeptics draw an obvious comparison with the dot-com era of the late 1990s, when investors poured money into internet companies whose business models had not yet proved profitable.": "audio/2026-11-04/a1-ks4.mp3",
+  "Others, however, caution against equating a correction with a collapse.": "audio/2026-11-04/a1-ks5.mp3",
+  "A technology can be genuinely transformative while the prices attached to it are temporarily excessive; both can be true at once.": "audio/2026-11-04/a1-ks6.mp3",
+  "Type 2 diabetes is one of the most widespread chronic conditions of the twenty-first century, and it continues to become more common around the world. The disease develops when the body can no longer properly regulate the level of glucose—a simple sugar derived from food—in the blood. Over time, persistently high blood sugar can damage blood vessels, nerves, kidneys and eyes. Type 2 diabetes is also closely associated with excess body weight, a combination that researchers sometimes describe with the blended term \"diabesity.\" In late October 2026, a team at ETH Zurich led by the biotechnologist Martin Fussenegger reported, in the journal Science, an experimental approach that attempts to address both problems at once—not with a new drug, but with an electronic implant.": "audio/2026-11-04/a2-p1.mp3",
+  "Existing treatments tackle the disease in different ways. Insulin, a hormone that helps cells absorb glucose, is effective at lowering blood sugar, but it does not deal with what the researchers call the body's chronic energy surplus: glucose that enters cells may ultimately be stored as fat, so many patients continue to gain weight. Other medications act on appetite or on the way the body processes sugar, but they can produce side effects and usually must be taken consistently for years. Lifestyle changes such as an improved diet and regular exercise remain the foundation of treatment, yet they are notoriously difficult for many people to sustain.": "audio/2026-11-04/a2-p2.mp3",
+  "The Zurich device takes a fundamentally different route. Its core is a piece of graphite felt coated with tiny clusters of gold, which are in turn decorated with even smaller particles of platinum. When an electric current is applied, this material acts as a catalyst—a substance that speeds up a chemical reaction without being used up by it—and converts glucose into gluconate, a compound the body excretes in urine. Rather than pushing excess sugar into cells, then, the implant effectively removes it from circulation. And because the catalyst consists entirely of inorganic materials, it contains no living cells or enzymes that might break down over time.": "audio/2026-11-04/a2-p3.mp3",
+  "Crucially, the system operates only when it is needed. A standard glucose sensor, of the kind many patients already wear on the upper arm, monitors sugar levels and sends a signal via Bluetooth to a smartphone or smartwatch. When glucose rises above a target range—typically after a meal—the phone activates the implant, which receives its power wirelessly. Once levels return to normal, the device switches itself off. This \"closed-loop\" design is intended to prevent a dangerous problem associated with some existing treatments: hypoglycemia, or blood sugar that falls too low.": "audio/2026-11-04/a2-p4.mp3",
+  "In laboratory tests, the catalyst successfully processed glucose in five liters of nutrient solution, roughly the volume of blood in an adult human body. In diabetic mice, the implant regulated blood sugar precisely, and the animals lost weight. Over six weeks, it functioned reliably, and the researchers reported no evidence of tissue damage from electrical or thermal effects. Fussenegger has framed the work as part of a broader shift from conventional pharmaceuticals toward electronically controlled therapies: \"We can take control of glucose directly,\" he said, \"using electronics rather than drugs.\"": "audio/2026-11-04/a2-p5.mp3",
+  "Enthusiasm, however, should be tempered by caution. The device has so far been tested only in mice, and the history of medicine contains many treatments that performed impressively in rodents but failed in human trials. Six weeks is also a short period for a condition that patients live with for decades; the long-term durability of the catalyst, and the body's response to a permanent implant, remain unknown. Some observers raise a different kind of concern. If excess sugar can simply be removed electronically, might some patients feel less motivated to change their diets or exercise habits? And a therapy that depends on wireless connections and smartphones raises practical questions about cybersecurity, device failure, and access for people who cannot afford the necessary technology.": "audio/2026-11-04/a2-p6.mp3",
+  "Supporters respond that such objections, while legitimate, apply to many medical innovations. Insulin pumps and continuous glucose monitors also rely on electronics, and they have improved countless lives. Moreover, because several components of the Zurich system—such as the sensors and the wireless power units—are already commercially available, the path to a clinical device may be shorter than it would be for an entirely new drug. On balance, the implant is best regarded as a promising proof of concept rather than an imminent cure. Its real significance may lie in demonstrating that chronic metabolic disease can be managed by engineering as well as by chemistry—an idea that, if it survives the rigors of human testing, could reshape how we think about treatment altogether.": "audio/2026-11-04/a2-p7.mp3",
+  "glucose": "audio/2026-11-04/a2-w-glucose.mp3",
+  "Sports drinks contain glucose to give athletes quick energy.": "audio/2026-11-04/a2-ex-glucose.mp3",
+  "catalyst": "audio/2026-11-04/a2-w-catalyst.mp3",
+  "Platinum is used as a catalyst in car exhaust systems.": "audio/2026-11-04/a2-ex-catalyst.mp3",
+  "hypoglycemia": "audio/2026-11-04/a2-w-hypoglycemia.mp3",
+  "Skipping meals after a hard workout can cause hypoglycemia.": "audio/2026-11-04/a2-ex-hypoglycemia.mp3",
+  "proof of concept": "audio/2026-11-04/a2-w-proof-of-concept.mp3",
+  "The robot was only a proof of concept, not a finished product.": "audio/2026-11-04/a2-ex-proof-of-concept.mp3",
+  "chronic": "audio/2026-11-04/a2-w-chronic.mp3",
+  "Asthma is a chronic condition for many children.": "audio/2026-11-04/a2-ex-chronic.mp3",
+  "sustain": "audio/2026-11-04/a2-w-sustain.mp3",
+  "It is hard to sustain motivation during a long revision period.": "audio/2026-11-04/a2-ex-sustain.mp3",
+  "excrete": "audio/2026-11-04/a2-w-excrete.mp3",
+  "The kidneys excrete extra salt in urine.": "audio/2026-11-04/a2-ex-excrete.mp3",
+  "durability": "audio/2026-11-04/a2-w-durability.mp3",
+  "Hikers choose boots for their durability.": "audio/2026-11-04/a2-ex-durability.mp3",
+  "imminent": "audio/2026-11-04/a2-w-imminent.mp3",
+  "Dark clouds showed that a storm was imminent.": "audio/2026-11-04/a2-ex-imminent.mp3",
+  "legitimate": "audio/2026-11-04/a2-w-legitimate.mp3",
+  "Missing class for a doctor's appointment is a legitimate reason.": "audio/2026-11-04/a2-ex-legitimate.mp3",
+  "an experimental approach that attempts to address both problems at once—not with a new drug, but with an electronic implant.": "audio/2026-11-04/a2-ks1.mp3",
+  "Rather than pushing excess sugar into cells, then, the implant effectively removes it from circulation.": "audio/2026-11-04/a2-ks2.mp3",
+  "Crucially, the system operates only when it is needed.": "audio/2026-11-04/a2-ks3.mp3",
+  "Enthusiasm, however, should be tempered by caution.": "audio/2026-11-04/a2-ks4.mp3",
+  "On balance, the implant is best regarded as a promising proof of concept rather than an imminent cure.": "audio/2026-11-04/a2-ks5.mp3",
+  "Seen from orbit, the island looks unsettlingly like a human skull. A dark rocky peak forms an eye socket, a curved ridge of rock debris outlines a grinning mouth, and a glacier sweeping toward the sea shapes the lower jaw. The image, released by NASA's Earth Observatory at the end of October 2026, shows Vega Island, which lies in the Weddell Sea just east of the Antarctic Peninsula. Its timing, just before Halloween, ensured that it circulated widely online. The island already had a modest place in history: in 1903, members of a Swedish expedition, stranded after pack ice crushed their ship, were reunited there before being rescued. Yet behind the eerie resemblance lies a more serious story about how snow and ice are changing in one of the planet's most sensitive regions.": "audio/2026-11-04/a3-p1.mp3",
+  "The skull's features are made from ordinary glacial landforms. The \"eye\" is a nunatak, a peak of bedrock that protrudes through the surrounding ice; the word is borrowed from Greenlandic. The \"mouth\" is outlined by a lateral moraine, a ridge of rock and sediment that a glacier deposits along its sides as it advances. The jaw is formed by Devil's Bay Glacier, which scientists have monitored since the Antarctic summer of 1998–1999 and which has shown an overall loss of mass over that period. In most years, these features are partly obscured by a thick blanket of snow. They stand out clearly only when that blanket thins.": "audio/2026-11-04/a3-p2.mp3",
+  "That is exactly what happened in 2026. Images captured by the Landsat 9 satellite on March 22, 2025, show the island largely covered in snow. By October 10, 2026, broad areas were bare, exposing darker glacier ice and rock. According to the glaciologist Mauri Pelto of Nichols College, the change followed unusually warm winter conditions in 2026, especially in June. Little fresh snow accumulated, and some of what did fall was lost to strong winds and to sublimation—the process by which ice turns directly into water vapor without first melting into liquid.": "audio/2026-11-04/a3-p3.mp3",
+  "The loss of snow matters for reasons that go beyond appearance. Fresh snow is highly reflective: it sends much of the incoming sunlight back into space. Glacier ice and rock, being darker, absorb more of that energy and warm up. Scientists describe a surface's reflectivity as its albedo, and changes in albedo can create a feedback loop—less snow leads to more absorbed heat, which leads to further melting, which in turn exposes still more dark surfaces. If temperatures rise as the southern spring and summer arrive, the exposed ice on Vega Island may melt faster than it would beneath a protective snow cover. The island's longer record points in the same direction: a 1982 study documented four ice caps and 29 glaciers there, and many have since lost ice, revealing more bare bedrock.": "audio/2026-11-04/a3-p4.mp3",
+  "It would be easy to treat the skull as a dramatic emblem of global warming, and many online posts did exactly that. Scientists, however, generally warn against drawing broad conclusions from a single season. Weather in Antarctica varies considerably from one year to the next, and one warm winter could reflect short-lived atmospheric patterns rather than a lasting shift. Climate, by definition, describes conditions averaged over decades. A single image, however striking, is a snapshot; it cannot by itself demonstrate a trend.": "audio/2026-11-04/a3-p5.mp3",
+  "At the same time, dismissing the image as mere coincidence would be equally mistaken. Its value lies in context. The Antarctic Peninsula is among the fastest-warming regions on Earth, and the multi-decade record of glacier loss on Vega Island is consistent with that broader pattern. Seen in this light, the 2026 image is not proof on its own, but it is a vivid data point that fits within a long series of measurements. Satellites in the Landsat program, which has photographed Earth's surface continuously since the 1970s, are valuable precisely because they allow researchers to compare any single image against that long baseline.": "audio/2026-11-04/a3-p6.mp3",
+  "There is also a lesson here about science communication. Striking images capture public attention in a way that graphs and statistics rarely do, and a skull peering out of melting ice is undeniably memorable. The risk is that attention fades as quickly as it arrives, or that audiences mistake a symbol for an argument. The most responsible approach, perhaps, is to treat such images as an entry point: to let the eerie face spark curiosity, and then to direct that curiosity toward the slower, less dramatic evidence on which scientific conclusions actually rest.": "audio/2026-11-04/a3-p7.mp3",
+  "nunatak": "audio/2026-11-04/a3-w-nunatak.mp3",
+  "From the plane we could see a dark nunatak rising out of the white ice.": "audio/2026-11-04/a3-ex-nunatak.mp3",
+  "moraine": "audio/2026-11-04/a3-w-moraine.mp3",
+  "The hiking trail follows an old moraine left by the retreating glacier.": "audio/2026-11-04/a3-ex-moraine.mp3",
+  "sublimation": "audio/2026-11-04/a3-w-sublimation.mp3",
+  "Dry ice disappears through sublimation rather than melting.": "audio/2026-11-04/a3-ex-sublimation.mp3",
+  "albedo": "audio/2026-11-04/a3-w-albedo.mp3",
+  "Fresh snow has a high albedo, so it stays cool even in bright sun.": "audio/2026-11-04/a3-ex-albedo.mp3",
+  "feedback loop": "audio/2026-11-04/a3-w-feedback-loop.mp3",
+  "Less sleep leads to more stress, and more stress leads to less sleep: a feedback loop.": "audio/2026-11-04/a3-ex-feedback-loop.mp3",
+  "eerie": "audio/2026-11-04/a3-w-eerie.mp3",
+  "The empty school felt eerie at night.": "audio/2026-11-04/a3-ex-eerie.mp3",
+  "protrude": "audio/2026-11-04/a3-w-protrude.mp3",
+  "Sharp rocks protrude from the river at low tide.": "audio/2026-11-04/a3-ex-protrude.mp3",
+  "emblem": "audio/2026-11-04/a3-w-emblem.mp3",
+  "The polar bear has become an emblem of climate change.": "audio/2026-11-04/a3-ex-emblem.mp3",
+  "snapshot": "audio/2026-11-04/a3-w-snapshot.mp3",
+  "One test score is only a snapshot of a student's ability.": "audio/2026-11-04/a3-ex-snapshot.mp3",
+  "baseline": "audio/2026-11-04/a3-w-baseline.mp3",
+  "Doctors measure your normal heart rate as a baseline.": "audio/2026-11-04/a3-ex-baseline.mp3",
+  "Yet behind the eerie resemblance lies a more serious story about how snow and ice are changing in one of the planet's most sensitive regions.": "audio/2026-11-04/a3-ks1.mp3",
+  "According to the glaciologist Mauri Pelto of Nichols College, the change followed unusually warm winter conditions in 2026, especially in June.": "audio/2026-11-04/a3-ks2.mp3",
+  "Scientists describe a surface's reflectivity as its albedo, and changes in albedo can create a feedback loop": "audio/2026-11-04/a3-ks3.mp3",
+  "A single image, however striking, is a snapshot; it cannot by itself demonstrate a trend.": "audio/2026-11-04/a3-ks4.mp3",
+  "At the same time, dismissing the image as mere coincidence would be equally mistaken.": "audio/2026-11-04/a3-ks5.mp3",
+  "The most responsible approach, perhaps, is to treat such images as an entry point": "audio/2026-11-04/a3-ks6.mp3"
+ }
+}
