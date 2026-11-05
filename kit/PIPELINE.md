@@ -25,7 +25,13 @@ Example day file: `days/2026-11-05.json` (read it to see the exact shape).
    read step reported (index.html, republished unchanged), `root` = the `site` folder, and `files` =
    `days/<date>.json`, `days/index.json`, and every `audio/<date>/*.mp3` (files left out are kept;
    one publish takes at most 255 files). Do not pass `icon` or `capabilities`.
-7. Open nothing; tell the teacher in one Chinese sentence that the app now has today's stories.
+7. Mirror the day to the mini-program repo **Borami-hub/daily-news** (GitHub, private). Attach it with the
+   add_repo tool (owner `Borami-hub`, repo `daily-news`, access `push`), clone it, then copy
+   `site/days/<date>.json` → `content/days/<date>.json`, `site/days/index.json` → `content/days/index.json`,
+   and `site/audio/<date>/` → `content/audio/<date>/`. Run `node kit/validate.js content/days/<date>.json`
+   from the repo root, commit ("Add <date>") and push to `main`. A GitHub Action uploads the files to WeChat
+   Cloud. If the repo cannot be attached or the push fails, skip this step and mention it in the reply.
+8. Open nothing; tell the teacher in one Chinese sentence that the app now has today's stories.
 
 ## Day file format (all student-facing text in English, no Chinese)
 
