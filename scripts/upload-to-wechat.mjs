@@ -16,6 +16,7 @@ function walk(dir) {
 }
 let files = process.argv.slice(2).filter(f => f.startsWith('content/') && fs.existsSync(f));
 if (!process.argv.slice(2).length) files = walk('content');
+files = files.filter(f => /\.(json|mp3)$/.test(f)); // the web page itself is served by GitHub Pages, not the mini program
 // index.json last, so the app never lists a day whose files are not up yet
 files.sort((a, b) => (a.endsWith('days/index.json') ? 1 : 0) - (b.endsWith('days/index.json') ? 1 : 0));
 if (!files.length) { console.log('Nothing to upload.'); process.exit(0); }
