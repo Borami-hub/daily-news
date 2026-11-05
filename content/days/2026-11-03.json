@@ -511,7 +511,8 @@
      "Respond to the other student's view."
     ],
     "minWords": 100
-   }
+   },
+   "voice": "bm_fable"
   },
   {
    "id": "n20261103-2",
@@ -1013,7 +1014,8 @@
      "Respond to the other student's view."
     ],
     "minWords": 100
-   }
+   },
+   "voice": "af_sarah"
   },
   {
    "id": "n20261103-3",
@@ -1516,7 +1518,8 @@
      "Respond to the other student's view."
     ],
     "minWords": 100
-   }
+   },
+   "voice": "am_echo"
   }
  ],
  "audio": {
