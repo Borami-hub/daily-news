@@ -1,0 +1,1725 @@
+{
+ "date": "2026-11-05",
+ "headline": "Pen friends, penguin dads and three hobbies",
+ "teaser": "Who is Mia's new pen friend, which penguin parent keeps the egg warm, and what are three teenagers doing this month?",
+ "articles": [
+  {
+   "id": "k20261105-1",
+   "topic": "People & family",
+   "genre": "Email",
+   "title": "A New Pen Friend",
+   "dek": "Mia writes to her new pen friend in Canada about her family and her town, and Leo writes back.",
+   "sources": [],
+   "paras": [
+    "Hi Leo, my name is Mia, and I'm your new pen friend! I'm thirteen years old and I'm from Valencia, a city in Spain. Our English teacher gave us your email address. I'm really happy to write to you.",
+    "There are four people in my family: my mum, my dad, my little brother and me. My brother's name is Pablo, and he's eight. He's very funny, but he's sometimes noisy! My dad is a cook in a restaurant, and my mum is a nurse. We've got a dog called Churro. He's brown and white, and he's got very short legs.",
+    "We live in a flat near the beach. There's a big park next to our building, and there are lots of cafés and shops in our street. There isn't a cinema near us, but there's one in the city centre. What about you? Have you got any brothers or sisters? Is there a beach in your town? Write soon! Love, Mia",
+    "Hi Mia, thanks for your email! I'm Leo, and I'm fourteen. I live in Halifax, on the east coast of Canada. My town is next to the sea too, but the water is very cold here!",
+    "I haven't got any brothers, but I've got two sisters, Emma and Grace. They're twins, and they're eleven. My mum is a teacher at a primary school, and my dad works at the port. We haven't got a dog, but we've got two cats. They're black, and they sleep all day!",
+    "There's a great museum in Halifax about ships and the sea. There are also lots of parks, and in winter there's a lot of snow. Is it cold in Valencia in winter? Have you got snow there? Bye for now, Leo"
+   ],
+   "words": [
+    {
+     "w": "noisy",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ˈnɔɪ.zi/",
+     "syl": [
+      "noi",
+      "sy"
+     ],
+     "def": "making a lot of loud sounds",
+     "ex": "The classroom is noisy before the teacher comes."
+    },
+    {
+     "w": "cook",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/kʊk/",
+     "syl": [
+      "cook"
+     ],
+     "def": "a person whose job is making food",
+     "ex": "The cook at our school makes great noodles."
+    },
+    {
+     "w": "nurse",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/nɜːs/",
+     "syl": [
+      "nurse"
+     ],
+     "def": "a person who looks after sick people in a hospital",
+     "ex": "The nurse gave me some medicine."
+    },
+    {
+     "w": "flat",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/flæt/",
+     "syl": [
+      "flat"
+     ],
+     "def": "a home on one floor of a big building",
+     "ex": "Our flat is on the tenth floor."
+    },
+    {
+     "w": "centre",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈsen.tər/",
+     "syl": [
+      "cen",
+      "tre"
+     ],
+     "def": "the middle part of a town or city",
+     "ex": "We often go shopping in the city centre."
+    },
+    {
+     "w": "pen friend",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpen ˌfrend/",
+     "syl": [
+      "pen",
+      "friend"
+     ],
+     "def": "a friend in another place that you write to",
+     "ex": "My pen friend lives in Japan."
+    },
+    {
+     "w": "twin",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/twɪn/",
+     "syl": [
+      "twin"
+     ],
+     "def": "one of two children born to the same mother at the same time",
+     "ex": "Tom is a twin, and his brother looks just like him."
+    },
+    {
+     "w": "coast",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/kəʊst/",
+     "syl": [
+      "coast"
+     ],
+     "def": "the land next to the sea",
+     "ex": "We drove along the coast to the beach."
+    },
+    {
+     "w": "port",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/pɔːt/",
+     "syl": [
+      "port"
+     ],
+     "def": "a place where ships stop to load and unload",
+     "ex": "Big ships arrive at the port every day."
+    },
+    {
+     "w": "primary school",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈpraɪ.mər.i ˌskuːl/",
+     "syl": [
+      "pri",
+      "ma",
+      "ry",
+      "school"
+     ],
+     "def": "a school for children from about 6 to 11",
+     "ex": "My little brother goes to primary school."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Hi Leo, my name is Mia, and I'm your new pen friend!",
+     "kind": "Main idea",
+     "note": "The first line of an email often tells you why the person is writing."
+    },
+    {
+     "para": 2,
+     "text": "We've got a dog called Churro.",
+     "kind": "Grammar to notice",
+     "note": "We've got = we have got. We use it for family and things we own."
+    },
+    {
+     "para": 3,
+     "text": "There isn't a cinema near us, but there's one in the city centre.",
+     "kind": "Grammar to notice",
+     "note": "There isn't / there's tell us what is or isn't in a place."
+    },
+    {
+     "para": 5,
+     "text": "I haven't got any brothers, but I've got two sisters, Emma and Grace.",
+     "kind": "Key details",
+     "note": "Use any after haven't got: I haven't got any brothers."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Writer's purpose",
+     "para": 0,
+     "q": "Why does Mia write to Leo?",
+     "opts": [
+      "to start a friendship with a new pen friend",
+      "to ask Leo for help with her English homework",
+      "to invite Leo to visit Valencia"
+     ],
+     "a": 0,
+     "why": "Mia says she is Leo's new pen friend and tells him about her life.",
+     "evidence": "",
+     "optWhy": [
+      "Correct. She introduces herself and asks Leo questions about his life.",
+      "Her English teacher gave her the address, but she doesn't ask for help with homework.",
+      "She talks about Valencia, but she doesn't invite Leo there."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "What does Mia's dad do?",
+     "opts": [
+      "He's a nurse.",
+      "He's a cook.",
+      "He works at the port."
+     ],
+     "a": 1,
+     "why": "Mia says her dad is a cook in a restaurant.",
+     "evidence": "My dad is a cook in a restaurant",
+     "optWhy": [
+      "Mia's mum is the nurse, not her dad.",
+      "Correct. He is a cook in a restaurant.",
+      "Leo's dad works at the port, not Mia's dad."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "Mia's flat is on the top floor of her building.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "Mia says where her flat is, but she doesn't say which floor it is on.",
+     "evidence": "We live in a flat near the beach.",
+     "optWhy": [
+      "Mia doesn't say anything about the floor.",
+      "We can't say it is wrong, because the email gives no floor.",
+      "Correct. The email only says the flat is near the beach."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who are 'They' in 'They're twins'?",
+     "opts": [
+      "Leo's cats",
+      "Leo's parents",
+      "Emma and Grace"
+     ],
+     "a": 2,
+     "why": "'They' goes back to the two sisters in the sentence before.",
+     "evidence": "They're twins, and they're eleven.",
+     "optWhy": [
+      "Leo talks about his cats later in the paragraph, and they are not eleven.",
+      "His parents are a teacher and a port worker, not twins.",
+      "Correct. Emma and Grace are Leo's twin sisters."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Where does Leo live?",
+     "opts": [
+      "on the east coast of Canada",
+      "in the centre of Valencia",
+      "on an island near Halifax"
+     ],
+     "a": 0,
+     "why": "Leo says he lives in Halifax, on the east coast of Canada.",
+     "evidence": "I live in Halifax, on the east coast of Canada.",
+     "optWhy": [
+      "Correct. Halifax is on the east coast of Canada.",
+      "Valencia is Mia's city, not Leo's.",
+      "Leo lives in Halifax, not on an island near it."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 1,
+     "q": "How does Mia feel about writing to Leo?",
+     "opts": [
+      "nervous",
+      "happy",
+      "bored"
+     ],
+     "a": 1,
+     "why": "Mia says she is really happy to write to him.",
+     "evidence": "I'm really happy to write to you.",
+     "optWhy": [
+      "Mia doesn't say she is nervous.",
+      "Correct. She uses the word 'happy'.",
+      "Nothing in the email shows she is bored."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "be · have got · there is / there are",
+    "rule": "Use be (am / is / are) to say who someone is, their age and what they are like. Use have got / has got for family and things you own. Use there is for one thing and there are for two or more things in a place. Negatives: isn't, aren't, haven't got, hasn't got.",
+    "table": [
+     [
+      "I",
+      "am · have got"
+     ],
+     [
+      "he / she / it",
+      "is · has got"
+     ],
+     [
+      "you / we / they",
+      "are · have got"
+     ],
+     [
+      "one thing",
+      "there is (there's)"
+     ],
+     [
+      "two or more things",
+      "there are"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "We've got a dog called Churro.",
+      "mark": "We've got"
+     },
+     {
+      "para": 3,
+      "text": "There's a big park next to our building, and there are lots of cafés and shops in our street.",
+      "mark": "there are"
+     },
+     {
+      "para": 3,
+      "text": "There isn't a cinema near us, but there's one in the city centre.",
+      "mark": "There isn't"
+     },
+     {
+      "para": 5,
+      "text": "I haven't got any brothers, but I've got two sisters, Emma and Grace.",
+      "mark": "haven't got"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "There ___ two cats in Leo's house.",
+      "opts": [
+       "is",
+       "are",
+       "has"
+      ],
+      "a": 1,
+      "why": "Two cats is more than one, so we use there are."
+     },
+     {
+      "type": "mc",
+      "q": "My sister ___ got long brown hair.",
+      "opts": [
+       "have",
+       "has",
+       "is"
+      ],
+      "a": 1,
+      "why": "She → has got."
+     },
+     {
+      "type": "fill",
+      "q": "___ there a swimming pool near your school?",
+      "hint": "(be)",
+      "a": "Is",
+      "why": "One swimming pool, so the question is Is there…?"
+     },
+     {
+      "type": "fill",
+      "q": "We ___ a garden, but we've got a big balcony.",
+      "hint": "(not have got)",
+      "a": "haven't got / have not got",
+      "why": "We → haven't got."
+     },
+     {
+      "type": "mc",
+      "q": "Pablo ___ eight years old.",
+      "opts": [
+       "is",
+       "has",
+       "has got"
+      ],
+      "a": 0,
+      "why": "In English we use be for age: he is eight."
+     },
+     {
+      "type": "fill",
+      "q": "There ___ any shops in my village.",
+      "hint": "(not be)",
+      "a": "aren't / are not",
+      "why": "Shops are more than one, so we use there aren't any."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261105-1-k1",
+     "tag": "People",
+     "fact": "Mia is 13 and lives in a flat near the beach in Valencia, Spain.",
+     "q": "Where does Mia live?",
+     "opts": [
+      "Valencia",
+      "Halifax",
+      "Madrid"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261105-1-k2",
+     "tag": "Family",
+     "fact": "Mia has got a little brother, Pablo, and a dog called Churro.",
+     "q": "What is the name of Mia's dog?",
+     "opts": [
+      "Pablo",
+      "Churro",
+      "Grace"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261105-1-k3",
+     "tag": "Family",
+     "fact": "Leo has got twin sisters, Emma and Grace, and two black cats.",
+     "q": "How many sisters has Leo got?",
+     "opts": [
+      "one",
+      "two",
+      "three"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261105-1-k4",
+     "tag": "Place",
+     "fact": "Leo lives in Halifax, on the east coast of Canada.",
+     "q": "Which country is Leo from?",
+     "opts": [
+      "Spain",
+      "Canada",
+      "the UK"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Two pen friends",
+    "question": "What do Mia and Leo tell each other?",
+    "branches": [
+     {
+      "title": "Mia's family",
+      "paras": "2",
+      "blanks": [
+       "little brother Pablo",
+       "dog called Churro"
+      ],
+      "kps": [
+       "k20261105-1-k2"
+      ]
+     },
+     {
+      "title": "Mia's town",
+      "paras": "1–3",
+      "blanks": [
+       "flat near the beach"
+      ],
+      "kps": [
+       "k20261105-1-k1"
+      ]
+     },
+     {
+      "title": "Leo's family",
+      "paras": "5",
+      "blanks": [
+       "twin sisters",
+       "two black cats"
+      ],
+      "kps": [
+       "k20261105-1-k3"
+      ]
+     },
+     {
+      "title": "Leo's town",
+      "paras": "4–6",
+      "blanks": [
+       "east coast of Canada",
+       "museum about ships"
+      ],
+      "kps": [
+       "k20261105-1-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a big swimming pool",
+     "a house in the mountains"
+    ]
+   },
+   "summary": {
+    "intro": "Mia and Leo write their first emails to each other.",
+    "model": "Mia and Leo are new pen friends. Mia lives near a beach in Spain, but Leo lives in Canada, so they ask about each other's families and towns.",
+    "options": [
+     {
+      "t": "Mia tells Leo about her family and her home near the beach.",
+      "ok": true,
+      "why": "This is what Mia's whole email is about.",
+      "type": "main",
+      "para": 2,
+      "evidence": "There are four people in my family: my mum, my dad, my little brother and me."
+     },
+     {
+      "t": "Leo writes back about his family and his town in Canada.",
+      "ok": true,
+      "why": "This is what Leo's whole email is about.",
+      "type": "main",
+      "para": 4,
+      "evidence": "I live in Halifax, on the east coast of Canada."
+     },
+     {
+      "t": "They both ask questions about the other person's life.",
+      "ok": true,
+      "why": "Questions keep the friendship going.",
+      "type": "main",
+      "para": 3,
+      "evidence": "Have you got any brothers or sisters?"
+     },
+     {
+      "t": "Leo's cats are black and sleep all day.",
+      "ok": false,
+      "why": "True, but it is a small detail.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "They're black, and they sleep all day!"
+     },
+     {
+      "t": "Mia and Leo met on holiday last summer.",
+      "ok": false,
+      "why": "The emails don't say this. They are new pen friends.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Leo has got a big brother and a dog.",
+      "ok": false,
+      "why": "Wrong: he has got two sisters and two cats.",
+      "type": "contra",
+      "para": 5,
+      "evidence": "I haven't got any brothers, but I've got two sisters, Emma and Grace."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Tell me about your family. Have you got any brothers, sisters or pets?",
+    "hint": "Try: 'There are … people in my family.' and 'I've got…'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write an email to a new pen friend.",
+    "steps": [
+     "Say who is in your family.",
+     "Say what there is in your town.",
+     "Ask your pen friend two questions."
+    ],
+    "minWords": 25
+   }
+  },
+  {
+   "id": "k20261105-2",
+   "topic": "The natural world",
+   "genre": "Article",
+   "title": "The Coldest Dad in the World",
+   "dek": "Every winter, emperor penguin dads do something very special for their babies.",
+   "sources": [
+    {
+     "name": "National Geographic",
+     "url": "https://www.nationalgeographic.com/animals/birds/facts/emperor-penguin"
+    }
+   ],
+   "paras": [
+    "Emperor penguins live in Antarctica, the coldest place on Earth. They are the biggest penguins in the world. An adult is about 115 centimetres tall, and it can weigh up to 40 kilograms. They usually live in big groups called colonies.",
+    "Emperor penguins are great swimmers. They eat fish, squid and krill, and they always find their food in the sea. They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes. No other bird dives deeper.",
+    "Most birds have babies in spring or summer, but emperor penguins never do this. They have their babies in the long, dark Antarctic winter. The mother lays one egg. Then she gives it to the father and goes back to the sea to find food. She is usually away for about two months.",
+    "Now the father's job starts. He doesn't sit on the egg. He keeps it on his feet, under a warm piece of skin and feathers. The wind is very strong, and it sometimes feels like minus 60 degrees. For two months, the father doesn't eat anything at all!",
+    "How do the fathers stay warm? They stand together in a big group called a huddle. The penguins in the middle are warm, but the penguins on the outside are cold. So they often change places. Every penguin gets a turn in the warm middle.",
+    "When the chick comes out of the egg, the mother usually comes back. Her stomach is full of food, and she gives some of it to the baby. Then the tired father can finally go to the sea and eat. What a dad!"
+   ],
+   "words": [
+    {
+     "w": "adult",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈæd.ʌlt/",
+     "syl": [
+      "ad",
+      "ult"
+     ],
+     "def": "a person or animal that is fully grown",
+     "ex": "Tickets cost ten euros for an adult."
+    },
+    {
+     "w": "weigh",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/weɪ/",
+     "syl": [
+      "weigh"
+     ],
+     "def": "to be a certain number of kilograms",
+     "ex": "How much do you weigh?"
+    },
+    {
+     "w": "dive",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/daɪv/",
+     "syl": [
+      "dive"
+     ],
+     "def": "to go down into water, head first",
+     "ex": "The children dive into the pool from the side."
+    },
+    {
+     "w": "stomach",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈstʌm.ək/",
+     "syl": [
+      "stom",
+      "ach"
+     ],
+     "def": "the part of your body where food goes when you eat",
+     "ex": "My stomach hurts because I ate too fast."
+    },
+    {
+     "w": "skin",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/skɪn/",
+     "syl": [
+      "skin"
+     ],
+     "def": "the outside part of a body",
+     "ex": "Put on sun cream to protect your skin."
+    },
+    {
+     "w": "krill",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/krɪl/",
+     "syl": [
+      "krill"
+     ],
+     "def": "very small sea animals that whales and penguins eat",
+     "ex": "Some whales eat tonnes of krill every day."
+    },
+    {
+     "w": "lay",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/leɪ/",
+     "syl": [
+      "lay"
+     ],
+     "def": "(of a bird) to make an egg come out of its body",
+     "ex": "Our hens lay an egg every morning."
+    },
+    {
+     "w": "feather",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈfeð.ər/",
+     "syl": [
+      "feath",
+      "er"
+     ],
+     "def": "one of the soft, light things that cover a bird",
+     "ex": "I found a white feather in the garden."
+    },
+    {
+     "w": "huddle",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈhʌd.əl/",
+     "syl": [
+      "hud",
+      "dle"
+     ],
+     "def": "a group of people or animals standing close together",
+     "ex": "The players stood in a huddle before the game."
+    },
+    {
+     "w": "chick",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/tʃɪk/",
+     "syl": [
+      "chick"
+     ],
+     "def": "a baby bird",
+     "ex": "The chick opened its mouth for food."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 3,
+     "text": "They have their babies in the long, dark Antarctic winter.",
+     "kind": "Key details",
+     "note": "This is the surprising fact that the article explains."
+    },
+    {
+     "para": 2,
+     "text": "They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes.",
+     "kind": "Key details",
+     "note": "Numbers like these are often tested in KET questions."
+    },
+    {
+     "para": 4,
+     "text": "For two months, the father doesn't eat anything at all!",
+     "kind": "Key details",
+     "note": "doesn't + verb is the present simple negative for he / she / it."
+    },
+    {
+     "para": 5,
+     "text": "So they often change places.",
+     "kind": "Cause → effect",
+     "note": "'So' tells you the result: they change places because the outside is cold."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the article mainly about?",
+     "opts": [
+      "how penguins swim and dive",
+      "how emperor penguin parents look after their egg and chick",
+      "why Antarctica is so cold"
+     ],
+     "a": 1,
+     "why": "Most of the article is about the egg, the father's job and the mother coming back.",
+     "evidence": "",
+     "optWhy": [
+      "Swimming is only in paragraph 2.",
+      "Correct. Paragraphs 3 to 6 are all about the egg and the chick.",
+      "The cold is important, but the article doesn't explain why Antarctica is cold."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Where do emperor penguins find their food?",
+     "opts": [
+      "in the sea",
+      "on the ice",
+      "in their colony"
+     ],
+     "a": 0,
+     "why": "Paragraph 2 says they always find their food in the sea.",
+     "evidence": "they always find their food in the sea",
+     "optWhy": [
+      "Correct. They always find food in the sea.",
+      "They live on the ice, but they don't find food there.",
+      "The colony is where they live, not where they eat."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 3,
+     "q": "The mother swims more than 1,000 kilometres to find food.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 2,
+     "why": "The article says she goes back to the sea, but it doesn't say how far she goes.",
+     "evidence": "goes back to the sea to find food",
+     "optWhy": [
+      "The article gives no distance.",
+      "We can't say it is wrong, because there is no number.",
+      "Correct. We only know she is away for about two months."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 4,
+     "q": "Where does the father keep the egg?",
+     "opts": [
+      "on his feet",
+      "in a hole in the ice",
+      "under the mother"
+     ],
+     "a": 0,
+     "why": "He keeps it on his feet, under warm skin and feathers.",
+     "evidence": "He keeps it on his feet",
+     "optWhy": [
+      "Correct. The egg sits on his feet.",
+      "The article doesn't talk about holes.",
+      "The mother is away at sea at this time."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 5,
+     "q": "In paragraph 5, who are 'they' in 'So they often change places'?",
+     "opts": [
+      "the mothers",
+      "the chicks",
+      "the penguins in the huddle"
+     ],
+     "a": 2,
+     "why": "'They' means the penguins in the middle and on the outside of the huddle.",
+     "evidence": "So they often change places.",
+     "optWhy": [
+      "The mothers are at sea at this time.",
+      "The chicks are not born yet in paragraph 5.",
+      "Correct. The penguins in the huddle change places."
+     ]
+    },
+    {
+     "type": "Feelings",
+     "para": 6,
+     "q": "How does the father probably feel at the end?",
+     "opts": [
+      "angry",
+      "tired",
+      "bored"
+     ],
+     "a": 1,
+     "why": "The article calls him 'the tired father'.",
+     "evidence": "Then the tired father can finally go to the sea and eat.",
+     "optWhy": [
+      "Nothing shows he is angry.",
+      "Correct. After two months with no food, he is tired.",
+      "The article doesn't say he is bored."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present simple · how often",
+    "rule": "We use the present simple for facts and habits. With he / she / it, add -s (she lays, it weighs). Negative: don't / doesn't + verb. Words like always, usually, often, sometimes and never go before the main verb, but after be.",
+    "table": [
+     [
+      "always",
+      "100%"
+     ],
+     [
+      "usually",
+      "about 80%"
+     ],
+     [
+      "often",
+      "about 60%"
+     ],
+     [
+      "sometimes",
+      "about 40%"
+     ],
+     [
+      "never",
+      "0%"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 1,
+      "text": "They usually live in big groups called colonies.",
+      "mark": "usually live"
+     },
+     {
+      "para": 2,
+      "text": "They eat fish, squid and krill, and they always find their food in the sea.",
+      "mark": "always find"
+     },
+     {
+      "para": 3,
+      "text": "Most birds have babies in spring or summer, but emperor penguins never do this.",
+      "mark": "never do"
+     },
+     {
+      "para": 4,
+      "text": "For two months, the father doesn't eat anything at all!",
+      "mark": "doesn't eat"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "My dad ___ breakfast for us on Sundays.",
+      "opts": [
+       "make",
+       "makes",
+       "making"
+      ],
+      "a": 1,
+      "why": "He → add -s: makes."
+     },
+     {
+      "type": "mc",
+      "q": "Penguins ___ cold in the sea.",
+      "opts": [
+       "are never",
+       "never are",
+       "never is"
+      ],
+      "a": 0,
+      "why": "With be, the frequency word comes after it: are never."
+     },
+     {
+      "type": "fill",
+      "q": "She ___ to school by bus every day.",
+      "hint": "(go)",
+      "a": "goes",
+      "why": "She + go → goes (add -es after o)."
+     },
+     {
+      "type": "fill",
+      "q": "Emperor penguins ___ in hot countries.",
+      "hint": "(not live)",
+      "a": "don't live / do not live",
+      "why": "They → don't + live."
+     },
+     {
+      "type": "mc",
+      "q": "I ___ late for school. I'm always on time!",
+      "opts": [
+       "am often",
+       "am never",
+       "never am"
+      ],
+      "a": 1,
+      "why": "'Always on time' means 0% late, so: I am never late."
+     },
+     {
+      "type": "fill",
+      "q": "___ your brother play football at the weekend?",
+      "hint": "(do)",
+      "a": "Does",
+      "why": "Questions with he / she / it start with Does."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261105-2-k1",
+     "tag": "Size",
+     "fact": "Emperor penguins are the biggest penguins. An adult is about 115 cm tall.",
+     "q": "How tall is an adult emperor penguin?",
+     "opts": [
+      "about 50 cm",
+      "about 115 cm",
+      "about 2 metres"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261105-2-k2",
+     "tag": "Swimming",
+     "fact": "Emperor penguins can dive more than 500 metres deep.",
+     "q": "How deep can they dive?",
+     "opts": [
+      "more than 500 metres",
+      "about 50 metres",
+      "10 metres"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261105-2-k3",
+     "tag": "Family",
+     "fact": "The father keeps the egg on his feet for two months and doesn't eat.",
+     "q": "Who keeps the egg warm?",
+     "opts": [
+      "the mother",
+      "the father",
+      "the whole colony"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261105-2-k4",
+     "tag": "Huddle",
+     "fact": "Penguins stand in a huddle and change places, so every penguin gets warm.",
+     "q": "Why do penguins change places in a huddle?",
+     "opts": [
+      "so every penguin gets warm",
+      "to find food",
+      "to look for the mother"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Emperor penguins",
+    "question": "How do emperor penguins live?",
+    "branches": [
+     {
+      "title": "Home",
+      "paras": "1",
+      "blanks": [
+       "Antarctica",
+       "big groups"
+      ],
+      "kps": [
+       "k20261105-2-k1"
+      ]
+     },
+     {
+      "title": "Food",
+      "paras": "2",
+      "blanks": [
+       "fish, squid, krill",
+       "dive 500 metres"
+      ],
+      "kps": [
+       "k20261105-2-k2"
+      ]
+     },
+     {
+      "title": "Dad's job",
+      "paras": "3–4",
+      "blanks": [
+       "egg on his feet",
+       "no food"
+      ],
+      "kps": [
+       "k20261105-2-k3"
+      ]
+     },
+     {
+      "title": "Huddle",
+      "paras": "5",
+      "blanks": [
+       "change places"
+      ],
+      "kps": [
+       "k20261105-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "build nests in trees",
+     "babies in summer"
+    ]
+   },
+   "summary": {
+    "intro": "Emperor penguins have a hard life in Antarctica.",
+    "model": "Emperor penguins live in Antarctica and find food in the sea. The father keeps the egg warm for two months, so he doesn't eat, but the huddle helps him.",
+    "options": [
+     {
+      "t": "Emperor penguins live in Antarctica and are great swimmers.",
+      "ok": true,
+      "why": "This tells us who they are.",
+      "type": "main",
+      "para": 2,
+      "evidence": "Emperor penguins are great swimmers."
+     },
+     {
+      "t": "The father keeps the egg warm for two months without food.",
+      "ok": true,
+      "why": "This is the main story of the article.",
+      "type": "main",
+      "para": 4,
+      "evidence": "For two months, the father doesn't eat anything at all!"
+     },
+     {
+      "t": "The penguins stand in a huddle to stay warm.",
+      "ok": true,
+      "why": "This explains how the fathers can live in the cold.",
+      "type": "main",
+      "para": 5,
+      "evidence": "They stand together in a big group called a huddle."
+     },
+     {
+      "t": "An adult can weigh up to 40 kilograms.",
+      "ok": false,
+      "why": "True, but it is a small detail.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "An adult is about 115 centimetres tall, and it can weigh up to 40 kilograms."
+     },
+     {
+      "t": "Emperor penguins sometimes fly short distances.",
+      "ok": false,
+      "why": "The article doesn't say this.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The mother stays with the egg all winter.",
+      "ok": false,
+      "why": "Wrong: she gives the egg to the father and goes to the sea.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Then she gives it to the father and goes back to the sea to find food."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What do you usually do on a cold winter day?",
+    "hint": "Try: 'I usually…' and 'I never… because…'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write a short text for the class wall: 'My favourite animal'.",
+    "steps": [
+     "Say where it lives.",
+     "Say what it eats.",
+     "Say what it usually does every day."
+    ],
+    "minWords": 30
+   }
+  },
+  {
+   "id": "k20261105-3",
+   "topic": "Hobbies & leisure",
+   "genre": "Three people",
+   "title": "My Hobby This Month",
+   "dek": "Three teenagers tell us about the hobby they love and what they are doing with it at the moment.",
+   "sources": [],
+   "paras": [
+    "We asked three of our readers about their favourite hobbies. We wanted to know what they usually do and what they are doing at the moment. Here is what they told us.",
+    "Sofia, 14: I play the guitar, and I practise for about half an hour every evening. I usually play pop songs, and my guitar teacher says I play very well. This month, I'm learning a difficult song for my grandma's birthday party. It's hard, but I'm getting better every day. My little sister is helping me. She's singing the song while I play!",
+    "Kenji, 13: I love taking photos. I don't have an expensive camera, so I use my mum's old phone. I usually take photos of birds in the park near my house. Birds are hard to photograph because they move so quickly. Last week I saw a woodpecker! At the moment, I'm making a photo calendar for next year, with one bird for every month. My teacher wants to put it on the classroom wall.",
+    "Amara, 15: Cooking is my favourite hobby. On Saturdays, I always make lunch for my family. We often have rice and chicken. My brother doesn't cook, but he always washes the dishes. This week is different, because I'm cooking food from other countries. Today I'm making an Italian pizza, and tomorrow I'm trying a Mexican dish. My kitchen is a bit of a mess right now!",
+    "What about you? What do you usually do in your free time, and what are you doing with your hobby this month? Write and tell us!"
+   ],
+   "words": [
+    {
+     "w": "hobby",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈhɒb.i/",
+     "syl": [
+      "hob",
+      "by"
+     ],
+     "def": "something you like doing in your free time",
+     "ex": "My hobby is drawing cartoons."
+    },
+    {
+     "w": "practise",
+     "level": "A2 word",
+     "pos": "verb",
+     "ipa": "/ˈpræk.tɪs/",
+     "syl": [
+      "prac",
+      "tise"
+     ],
+     "def": "to do something again and again to get better",
+     "ex": "I practise the piano every afternoon."
+    },
+    {
+     "w": "expensive",
+     "level": "A2 word",
+     "pos": "adjective",
+     "ipa": "/ɪkˈspen.sɪv/",
+     "syl": [
+      "ex",
+      "pen",
+      "sive"
+     ],
+     "def": "costing a lot of money",
+     "ex": "That bike is too expensive for me."
+    },
+    {
+     "w": "calendar",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/ˈkæl.ən.dər/",
+     "syl": [
+      "cal",
+      "en",
+      "dar"
+     ],
+     "def": "pages that show the days and months of a year",
+     "ex": "Write the party date on the calendar."
+    },
+    {
+     "w": "dish",
+     "level": "A2 word",
+     "pos": "noun",
+     "ipa": "/dɪʃ/",
+     "syl": [
+      "dish"
+     ],
+     "def": "food cooked in a special way",
+     "ex": "Dumplings are my favourite dish."
+    },
+    {
+     "w": "guitar",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ɡɪˈtɑːr/",
+     "syl": [
+      "gui",
+      "tar"
+     ],
+     "def": "an instrument with six strings that you play with your fingers",
+     "ex": "He plays the guitar in a band."
+    },
+    {
+     "w": "photograph",
+     "level": "Topic word",
+     "pos": "verb",
+     "ipa": "/ˈfəʊ.tə.ɡrɑːf/",
+     "syl": [
+      "pho",
+      "to",
+      "graph"
+     ],
+     "def": "to take a picture of something with a camera",
+     "ex": "It is hard to photograph a fast car."
+    },
+    {
+     "w": "woodpecker",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/ˈwʊdˌpek.ər/",
+     "syl": [
+      "wood",
+      "peck",
+      "er"
+     ],
+     "def": "a bird that makes holes in trees with its beak",
+     "ex": "A woodpecker was knocking on the old tree."
+    },
+    {
+     "w": "mess",
+     "level": "Topic word",
+     "pos": "noun",
+     "ipa": "/mes/",
+     "syl": [
+      "mess"
+     ],
+     "def": "a place that is dirty or untidy",
+     "ex": "My bedroom is a mess, so Mum is angry."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "We wanted to know what they usually do and what they are doing at the moment.",
+     "kind": "Main idea",
+     "note": "This tells you the plan of the whole text: usually vs now."
+    },
+    {
+     "para": 2,
+     "text": "This month, I'm learning a difficult song for my grandma's birthday party.",
+     "kind": "Grammar to notice",
+     "note": "'This month' + I'm learning: something happening around now."
+    },
+    {
+     "para": 3,
+     "text": "I don't have an expensive camera, so I use my mum's old phone.",
+     "kind": "Cause → effect",
+     "note": "'So' shows what Kenji does because of the problem."
+    },
+    {
+     "para": 4,
+     "text": "This week is different, because I'm cooking food from other countries.",
+     "kind": "Grammar to notice",
+     "note": "Usually she cooks rice and chicken; this week she is cooking something new."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Detail",
+     "para": 3,
+     "q": "Which person uses something that belongs to a parent?",
+     "opts": [
+      "Sofia",
+      "Amara",
+      "Kenji"
+     ],
+     "a": 2,
+     "why": "Kenji uses his mum's old phone to take photos.",
+     "evidence": "so I use my mum's old phone",
+     "optWhy": [
+      "Sofia's sister helps her, but Sofia doesn't use a parent's things.",
+      "Amara cooks for her family, but she doesn't use a parent's things.",
+      "Correct. Kenji uses his mum's old phone."
+     ]
+    },
+    {
+     "type": "Detail",
+     "para": 2,
+     "q": "Which person is getting ready for a family party?",
+     "opts": [
+      "Sofia",
+      "Kenji",
+      "Amara"
+     ],
+     "a": 0,
+     "why": "Sofia is learning a song for her grandma's birthday party.",
+     "evidence": "I'm learning a difficult song for my grandma's birthday party",
+     "optWhy": [
+      "Correct. The party is her grandma's birthday.",
+      "Kenji's calendar is for the classroom wall, not a party.",
+      "Amara cooks lunch for her family, but there is no party."
+     ]
+    },
+    {
+     "type": "Right / Wrong / Doesn't say",
+     "para": 4,
+     "q": "Amara cooks lunch for her family every day.",
+     "opts": [
+      "Right",
+      "Wrong",
+      "Doesn't say"
+     ],
+     "a": 1,
+     "why": "Amara cooks lunch on Saturdays, not every day.",
+     "evidence": "On Saturdays, I always make lunch for my family.",
+     "optWhy": [
+      "She says 'On Saturdays', not every day.",
+      "Correct. She only cooks lunch on Saturdays.",
+      "The text does tell us when she cooks: on Saturdays."
+     ]
+    },
+    {
+     "type": "Who / what does it mean?",
+     "para": 3,
+     "q": "In paragraph 3, what is 'it' in 'put it on the classroom wall'?",
+     "opts": [
+      "the woodpecker",
+      "the photo calendar",
+      "the phone"
+     ],
+     "a": 1,
+     "why": "'It' goes back to the photo calendar in the sentence before.",
+     "evidence": "My teacher wants to put it on the classroom wall.",
+     "optWhy": [
+      "The woodpecker is a bird in the park, not on a wall.",
+      "Correct. The teacher wants to put the calendar on the wall.",
+      "Kenji uses the phone to take photos; nobody puts it on a wall."
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "What is the text mainly about?",
+     "opts": [
+      "how to start a new hobby",
+      "why cooking is the best hobby",
+      "three teenagers' hobbies, usually and right now"
+     ],
+     "a": 2,
+     "why": "Each teenager says what they usually do and what they are doing now.",
+     "evidence": "",
+     "optWhy": [
+      "Nobody gives advice about starting a hobby.",
+      "Only Amara talks about cooking.",
+      "Correct. This is the plan in the first paragraph."
+     ]
+    },
+    {
+     "type": "Writer's purpose",
+     "para": 5,
+     "q": "Why does the writer ask questions in the last paragraph?",
+     "opts": [
+      "to ask readers to send in their own stories",
+      "to test the readers' English",
+      "to tell readers about a new hobby"
+     ],
+     "a": 0,
+     "why": "The writer ends with 'Write and tell us!', so they want readers to write in.",
+     "evidence": "Write and tell us!",
+     "optWhy": [
+      "Correct. The writer wants readers to send their own answers.",
+      "It isn't a test. The questions are about the readers' lives.",
+      "The last paragraph doesn't describe any hobby."
+     ]
+    }
+   ],
+   "grammar": {
+    "point": "Present simple or present continuous?",
+    "rule": "Use the present simple for habits and things that are usually true (every evening, on Saturdays, usually). Use the present continuous for things happening now or around now (at the moment, this week, today). Verbs like know, want, like and have (= own) don't usually take -ing.",
+    "table": [
+     [
+      "every day · usually · on Saturdays",
+      "I play"
+     ],
+     [
+      "now · at the moment · this week",
+      "I'm playing"
+     ],
+     [
+      "want · know · like",
+      "I want (not I'm wanting)"
+     ]
+    ],
+    "examples": [
+     {
+      "para": 2,
+      "text": "I play the guitar, and I practise for about half an hour every evening.",
+      "mark": "I practise"
+     },
+     {
+      "para": 2,
+      "text": "This month, I'm learning a difficult song for my grandma's birthday party.",
+      "mark": "I'm learning"
+     },
+     {
+      "para": 4,
+      "text": "On Saturdays, I always make lunch for my family.",
+      "mark": "I always make"
+     },
+     {
+      "para": 4,
+      "text": "Today I'm making an Italian pizza, and tomorrow I'm trying a Mexican dish.",
+      "mark": "I'm making"
+     }
+    ],
+    "items": [
+     {
+      "type": "mc",
+      "q": "Shh! The baby ___.",
+      "opts": [
+       "sleeps",
+       "is sleeping",
+       "sleep"
+      ],
+      "a": 1,
+      "why": "'Shh!' means it is happening now, so: is sleeping."
+     },
+     {
+      "type": "mc",
+      "q": "Kenji ___ photos of birds most weekends.",
+      "opts": [
+       "takes",
+       "is taking",
+       "take"
+      ],
+      "a": 0,
+      "why": "'Most weekends' is a habit, so we use the present simple: takes."
+     },
+     {
+      "type": "fill",
+      "q": "Look! Amara ___ a pizza.",
+      "hint": "(make)",
+      "a": "is making / 's making",
+      "why": "'Look!' means now: is + making (drop the e)."
+     },
+     {
+      "type": "fill",
+      "q": "I ___ to music every evening.",
+      "hint": "(listen)",
+      "a": "listen",
+      "why": "'Every evening' is a habit: I listen."
+     },
+     {
+      "type": "mc",
+      "q": "This week we ___ a play at school.",
+      "opts": [
+       "practise",
+       "are practising",
+       "practises"
+      ],
+      "a": 1,
+      "why": "'This week' is around now, so: are practising."
+     },
+     {
+      "type": "fill",
+      "q": "Sofia ___ a new guitar for her birthday.",
+      "hint": "(want)",
+      "a": "wants",
+      "why": "Want doesn't usually take -ing, so: she wants."
+     }
+    ]
+   },
+   "kps": [
+    {
+     "id": "k20261105-3-k1",
+     "tag": "Sofia",
+     "fact": "Sofia practises the guitar every evening and is learning a song for her grandma's party.",
+     "q": "What is Sofia learning this month?",
+     "opts": [
+      "a song for a party",
+      "a new language",
+      "to play the piano"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261105-3-k2",
+     "tag": "Kenji",
+     "fact": "Kenji usually takes photos of birds with his mum's old phone.",
+     "q": "What does Kenji usually photograph?",
+     "opts": [
+      "cars",
+      "birds",
+      "his friends"
+     ],
+     "a": 1
+    },
+    {
+     "id": "k20261105-3-k3",
+     "tag": "Kenji",
+     "fact": "Kenji is making a bird photo calendar for next year.",
+     "q": "What is Kenji making at the moment?",
+     "opts": [
+      "a photo calendar",
+      "a bird house",
+      "a video"
+     ],
+     "a": 0
+    },
+    {
+     "id": "k20261105-3-k4",
+     "tag": "Amara",
+     "fact": "Amara usually cooks lunch on Saturdays. This week she is cooking food from other countries.",
+     "q": "What is different about Amara's cooking this week?",
+     "opts": [
+      "She is cooking food from other countries.",
+      "She is cooking with her brother.",
+      "She isn't cooking at all."
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Three hobbies",
+    "question": "What do they usually do, and what are they doing now?",
+    "branches": [
+     {
+      "title": "Sofia",
+      "paras": "2",
+      "blanks": [
+       "plays the guitar",
+       "learning a song"
+      ],
+      "kps": [
+       "k20261105-3-k1"
+      ]
+     },
+     {
+      "title": "Kenji",
+      "paras": "3",
+      "blanks": [
+       "photos of birds",
+       "photo calendar"
+      ],
+      "kps": [
+       "k20261105-3-k2",
+       "k20261105-3-k3"
+      ]
+     },
+     {
+      "title": "Amara",
+      "paras": "4",
+      "blanks": [
+       "Saturday lunch",
+       "food from other countries"
+      ],
+      "kps": [
+       "k20261105-3-k4"
+      ]
+     },
+     {
+      "title": "You",
+      "paras": "5",
+      "blanks": [
+       "your free time"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "plays football",
+     "an expensive camera"
+    ]
+   },
+   "summary": {
+    "intro": "Three teenagers talk about their hobbies.",
+    "model": "Sofia, Kenji and Amara each have a hobby they do every week. Right now they are working on something special, because they want to get better or share it.",
+    "options": [
+     {
+      "t": "Sofia is learning a special song on the guitar this month.",
+      "ok": true,
+      "why": "This is Sofia's main news.",
+      "type": "main",
+      "para": 2,
+      "evidence": "This month, I'm learning a difficult song for my grandma's birthday party."
+     },
+     {
+      "t": "Kenji takes photos of birds and is making a calendar.",
+      "ok": true,
+      "why": "This is Kenji's main news.",
+      "type": "main",
+      "para": 3,
+      "evidence": "At the moment, I'm making a photo calendar for next year, with one bird for every month."
+     },
+     {
+      "t": "Amara loves cooking and is trying food from other countries.",
+      "ok": true,
+      "why": "This is Amara's main news.",
+      "type": "main",
+      "para": 4,
+      "evidence": "This week is different, because I'm cooking food from other countries."
+     },
+     {
+      "t": "Kenji saw a woodpecker last week.",
+      "ok": false,
+      "why": "True, but it is a small detail.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "Last week I saw a woodpecker!"
+     },
+     {
+      "t": "All three teenagers want to do their hobby as a job.",
+      "ok": false,
+      "why": "Nobody talks about jobs.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Kenji takes photos with an expensive new camera.",
+      "ok": false,
+      "why": "Wrong: he uses his mum's old phone.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "I don't have an expensive camera, so I use my mum's old phone."
+     }
+    ]
+   },
+   "speak": {
+    "p": "What is your favourite hobby? What are you doing with it at the moment?",
+    "hint": "Try: 'I usually…' and 'At the moment, I'm…'",
+    "sec": 40
+   },
+   "write": {
+    "p": "Write to the magazine about your hobby.",
+    "steps": [
+     "Say what your hobby is.",
+     "Say how often you do it.",
+     "Say what you are doing with it this month."
+    ],
+    "minWords": 30
+   }
+  }
+ ],
+ "audio": {
+  "Hi Leo, my name is Mia, and I'm your new pen friend! I'm thirteen years old and I'm from Valencia, a city in Spain. Our English teacher gave us your email address. I'm really happy to write to you.": "audio/2026-11-05/a1-p1.mp3",
+  "There are four people in my family: my mum, my dad, my little brother and me. My brother's name is Pablo, and he's eight. He's very funny, but he's sometimes noisy! My dad is a cook in a restaurant, and my mum is a nurse. We've got a dog called Churro. He's brown and white, and he's got very short legs.": "audio/2026-11-05/a1-p2.mp3",
+  "We live in a flat near the beach. There's a big park next to our building, and there are lots of cafés and shops in our street. There isn't a cinema near us, but there's one in the city centre. What about you? Have you got any brothers or sisters? Is there a beach in your town? Write soon! Love, Mia": "audio/2026-11-05/a1-p3.mp3",
+  "Hi Mia, thanks for your email! I'm Leo, and I'm fourteen. I live in Halifax, on the east coast of Canada. My town is next to the sea too, but the water is very cold here!": "audio/2026-11-05/a1-p4.mp3",
+  "I haven't got any brothers, but I've got two sisters, Emma and Grace. They're twins, and they're eleven. My mum is a teacher at a primary school, and my dad works at the port. We haven't got a dog, but we've got two cats. They're black, and they sleep all day!": "audio/2026-11-05/a1-p5.mp3",
+  "There's a great museum in Halifax about ships and the sea. There are also lots of parks, and in winter there's a lot of snow. Is it cold in Valencia in winter? Have you got snow there? Bye for now, Leo": "audio/2026-11-05/a1-p6.mp3",
+  "noisy": "audio/2026-11-05/a1-w-noisy.mp3",
+  "The classroom is noisy before the teacher comes.": "audio/2026-11-05/a1-ex-noisy.mp3",
+  "cook": "audio/2026-11-05/a1-w-cook.mp3",
+  "The cook at our school makes great noodles.": "audio/2026-11-05/a1-ex-cook.mp3",
+  "nurse": "audio/2026-11-05/a1-w-nurse.mp3",
+  "The nurse gave me some medicine.": "audio/2026-11-05/a1-ex-nurse.mp3",
+  "flat": "audio/2026-11-05/a1-w-flat.mp3",
+  "Our flat is on the tenth floor.": "audio/2026-11-05/a1-ex-flat.mp3",
+  "centre": "audio/2026-11-05/a1-w-centre.mp3",
+  "We often go shopping in the city centre.": "audio/2026-11-05/a1-ex-centre.mp3",
+  "pen friend": "audio/2026-11-05/a1-w-pen-friend.mp3",
+  "My pen friend lives in Japan.": "audio/2026-11-05/a1-ex-pen-friend.mp3",
+  "twin": "audio/2026-11-05/a1-w-twin.mp3",
+  "Tom is a twin, and his brother looks just like him.": "audio/2026-11-05/a1-ex-twin.mp3",
+  "coast": "audio/2026-11-05/a1-w-coast.mp3",
+  "We drove along the coast to the beach.": "audio/2026-11-05/a1-ex-coast.mp3",
+  "port": "audio/2026-11-05/a1-w-port.mp3",
+  "Big ships arrive at the port every day.": "audio/2026-11-05/a1-ex-port.mp3",
+  "primary school": "audio/2026-11-05/a1-w-primary-school.mp3",
+  "My little brother goes to primary school.": "audio/2026-11-05/a1-ex-primary-school.mp3",
+  "Hi Leo, my name is Mia, and I'm your new pen friend!": "audio/2026-11-05/a1-ks1.mp3",
+  "We've got a dog called Churro.": "audio/2026-11-05/a1-g1.mp3",
+  "There isn't a cinema near us, but there's one in the city centre.": "audio/2026-11-05/a1-g3.mp3",
+  "I haven't got any brothers, but I've got two sisters, Emma and Grace.": "audio/2026-11-05/a1-g4.mp3",
+  "There's a big park next to our building, and there are lots of cafés and shops in our street.": "audio/2026-11-05/a1-g2.mp3",
+  "Emperor penguins live in Antarctica, the coldest place on Earth. They are the biggest penguins in the world. An adult is about 115 centimetres tall, and it can weigh up to 40 kilograms. They usually live in big groups called colonies.": "audio/2026-11-05/a2-p1.mp3",
+  "Emperor penguins are great swimmers. They eat fish, squid and krill, and they always find their food in the sea. They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes. No other bird dives deeper.": "audio/2026-11-05/a2-p2.mp3",
+  "Most birds have babies in spring or summer, but emperor penguins never do this. They have their babies in the long, dark Antarctic winter. The mother lays one egg. Then she gives it to the father and goes back to the sea to find food. She is usually away for about two months.": "audio/2026-11-05/a2-p3.mp3",
+  "Now the father's job starts. He doesn't sit on the egg. He keeps it on his feet, under a warm piece of skin and feathers. The wind is very strong, and it sometimes feels like minus 60 degrees. For two months, the father doesn't eat anything at all!": "audio/2026-11-05/a2-p4.mp3",
+  "How do the fathers stay warm? They stand together in a big group called a huddle. The penguins in the middle are warm, but the penguins on the outside are cold. So they often change places. Every penguin gets a turn in the warm middle.": "audio/2026-11-05/a2-p5.mp3",
+  "When the chick comes out of the egg, the mother usually comes back. Her stomach is full of food, and she gives some of it to the baby. Then the tired father can finally go to the sea and eat. What a dad!": "audio/2026-11-05/a2-p6.mp3",
+  "adult": "audio/2026-11-05/a2-w-adult.mp3",
+  "Tickets cost ten euros for an adult.": "audio/2026-11-05/a2-ex-adult.mp3",
+  "weigh": "audio/2026-11-05/a2-w-weigh.mp3",
+  "How much do you weigh?": "audio/2026-11-05/a2-ex-weigh.mp3",
+  "dive": "audio/2026-11-05/a2-w-dive.mp3",
+  "The children dive into the pool from the side.": "audio/2026-11-05/a2-ex-dive.mp3",
+  "stomach": "audio/2026-11-05/a2-w-stomach.mp3",
+  "My stomach hurts because I ate too fast.": "audio/2026-11-05/a2-ex-stomach.mp3",
+  "skin": "audio/2026-11-05/a2-w-skin.mp3",
+  "Put on sun cream to protect your skin.": "audio/2026-11-05/a2-ex-skin.mp3",
+  "krill": "audio/2026-11-05/a2-w-krill.mp3",
+  "Some whales eat tonnes of krill every day.": "audio/2026-11-05/a2-ex-krill.mp3",
+  "lay": "audio/2026-11-05/a2-w-lay.mp3",
+  "Our hens lay an egg every morning.": "audio/2026-11-05/a2-ex-lay.mp3",
+  "feather": "audio/2026-11-05/a2-w-feather.mp3",
+  "I found a white feather in the garden.": "audio/2026-11-05/a2-ex-feather.mp3",
+  "huddle": "audio/2026-11-05/a2-w-huddle.mp3",
+  "The players stood in a huddle before the game.": "audio/2026-11-05/a2-ex-huddle.mp3",
+  "chick": "audio/2026-11-05/a2-w-chick.mp3",
+  "The chick opened its mouth for food.": "audio/2026-11-05/a2-ex-chick.mp3",
+  "They have their babies in the long, dark Antarctic winter.": "audio/2026-11-05/a2-ks1.mp3",
+  "They can dive more than 500 metres deep, and they sometimes stay under the water for over 20 minutes.": "audio/2026-11-05/a2-ks2.mp3",
+  "For two months, the father doesn't eat anything at all!": "audio/2026-11-05/a2-g4.mp3",
+  "So they often change places.": "audio/2026-11-05/a2-ks4.mp3",
+  "They usually live in big groups called colonies.": "audio/2026-11-05/a2-g1.mp3",
+  "They eat fish, squid and krill, and they always find their food in the sea.": "audio/2026-11-05/a2-g2.mp3",
+  "Most birds have babies in spring or summer, but emperor penguins never do this.": "audio/2026-11-05/a2-g3.mp3",
+  "We asked three of our readers about their favourite hobbies. We wanted to know what they usually do and what they are doing at the moment. Here is what they told us.": "audio/2026-11-05/a3-p1.mp3",
+  "Sofia, 14: I play the guitar, and I practise for about half an hour every evening. I usually play pop songs, and my guitar teacher says I play very well. This month, I'm learning a difficult song for my grandma's birthday party. It's hard, but I'm getting better every day. My little sister is helping me. She's singing the song while I play!": "audio/2026-11-05/a3-p2.mp3",
+  "Kenji, 13: I love taking photos. I don't have an expensive camera, so I use my mum's old phone. I usually take photos of birds in the park near my house. Birds are hard to photograph because they move so quickly. Last week I saw a woodpecker! At the moment, I'm making a photo calendar for next year, with one bird for every month. My teacher wants to put it on the classroom wall.": "audio/2026-11-05/a3-p3.mp3",
+  "Amara, 15: Cooking is my favourite hobby. On Saturdays, I always make lunch for my family. We often have rice and chicken. My brother doesn't cook, but he always washes the dishes. This week is different, because I'm cooking food from other countries. Today I'm making an Italian pizza, and tomorrow I'm trying a Mexican dish. My kitchen is a bit of a mess right now!": "audio/2026-11-05/a3-p4.mp3",
+  "What about you? What do you usually do in your free time, and what are you doing with your hobby this month? Write and tell us!": "audio/2026-11-05/a3-p5.mp3",
+  "hobby": "audio/2026-11-05/a3-w-hobby.mp3",
+  "My hobby is drawing cartoons.": "audio/2026-11-05/a3-ex-hobby.mp3",
+  "practise": "audio/2026-11-05/a3-w-practise.mp3",
+  "I practise the piano every afternoon.": "audio/2026-11-05/a3-ex-practise.mp3",
+  "expensive": "audio/2026-11-05/a3-w-expensive.mp3",
+  "That bike is too expensive for me.": "audio/2026-11-05/a3-ex-expensive.mp3",
+  "calendar": "audio/2026-11-05/a3-w-calendar.mp3",
+  "Write the party date on the calendar.": "audio/2026-11-05/a3-ex-calendar.mp3",
+  "dish": "audio/2026-11-05/a3-w-dish.mp3",
+  "Dumplings are my favourite dish.": "audio/2026-11-05/a3-ex-dish.mp3",
+  "guitar": "audio/2026-11-05/a3-w-guitar.mp3",
+  "He plays the guitar in a band.": "audio/2026-11-05/a3-ex-guitar.mp3",
+  "photograph": "audio/2026-11-05/a3-w-photograph.mp3",
+  "It is hard to photograph a fast car.": "audio/2026-11-05/a3-ex-photograph.mp3",
+  "woodpecker": "audio/2026-11-05/a3-w-woodpecker.mp3",
+  "A woodpecker was knocking on the old tree.": "audio/2026-11-05/a3-ex-woodpecker.mp3",
+  "mess": "audio/2026-11-05/a3-w-mess.mp3",
+  "My bedroom is a mess, so Mum is angry.": "audio/2026-11-05/a3-ex-mess.mp3",
+  "We wanted to know what they usually do and what they are doing at the moment.": "audio/2026-11-05/a3-ks1.mp3",
+  "This month, I'm learning a difficult song for my grandma's birthday party.": "audio/2026-11-05/a3-g2.mp3",
+  "I don't have an expensive camera, so I use my mum's old phone.": "audio/2026-11-05/a3-ks3.mp3",
+  "This week is different, because I'm cooking food from other countries.": "audio/2026-11-05/a3-ks4.mp3",
+  "I play the guitar, and I practise for about half an hour every evening.": "audio/2026-11-05/a3-g1.mp3",
+  "On Saturdays, I always make lunch for my family.": "audio/2026-11-05/a3-g3.mp3",
+  "Today I'm making an Italian pizza, and tomorrow I'm trying a Mexican dish.": "audio/2026-11-05/a3-g4.mp3"
+ }
+}

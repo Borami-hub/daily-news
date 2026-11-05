@@ -3,7 +3,7 @@ name: Upload content to WeChat Cloud
 on:
   push:
     branches: [main]
-    paths: ['content/**']
+    paths: ['content/**', '!content/a2/**']
   workflow_dispatch:
     inputs:
       all:
