@@ -6,10 +6,21 @@ Needs:  pip install --break-system-packages kokoro-onnx soundfile ; ffmpeg on PA
 Model files are downloaded once into ./tts-model/ from the kokoro-onnx GitHub release.
 Output: audio/<date>/a{n}-p{i}.mp3 (paragraphs), a{n}-w-*.mp3 / a{n}-ex-*.mp3 (words, examples),
         a{n}-ks{i}.mp3 (key sentences); the day file gets an "audio" map {text: path}.
+        Each article is read by a different narrator (see POOL); delete audio/<date>/ to regenerate.
 """
 import json, os, re, subprocess, sys, urllib.request
 
-VOICE, MODEL_DIR = "af_heart", "tts-model"
+MODEL_DIR = "tts-model"
+# Narrators rotate so the app never sounds the same: each of the day's three articles gets a different
+# voice, and the starting voice moves on every day. The pool alternates female/male and US/UK accents
+# (TOEFL listening uses several accents too). Best-sounding Kokoro voices only.
+POOL = ["af_heart", "am_michael", "bf_emma", "am_fenrir", "af_bella", "bm_george",
+        "af_nicole", "am_puck", "bf_isabella", "bm_fable", "af_sarah", "am_echo"]
+
+def voice_for(date, article_no):
+    import datetime
+    day_no = datetime.date.fromisoformat(date).toordinal()
+    return POOL[(day_no * 3 + article_no - 1) % len(POOL)]
 REL = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/"
 
 def fetch(name):
@@ -27,15 +38,19 @@ def main(day_path):
     date = day["date"]; out = f"audio/{date}"; os.makedirs(out, exist_ok=True)
     amap = {}
 
+    voice = POOL[0]
     def gen(text, name, speed=0.95):
         path = f"{out}/{name}.mp3"
         if not os.path.exists(path):
-            samples, sr = k.create(text, voice=VOICE, speed=speed, lang="en-us")
+            lang = "en-gb" if voice.startswith("b") else "en-us"
+            samples, sr = k.create(text, voice=voice, speed=speed, lang=lang)
             sf.write("_tmp.wav", samples, sr)
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "_tmp.wav", "-ac", "1", "-b:a", "48k", path], check=True)
         amap[text] = path
 
     for ai, a in enumerate(day["articles"], 1):
+        voice = voice_for(date, ai); a["voice"] = voice
+        print(f"article {ai}: {voice}")
         for pi, p in enumerate(a["paras"], 1): gen(p, f"a{ai}-p{pi}")
         for w in a["words"]:
             slug = re.sub(r"[^a-z]+", "-", w["w"].lower()).strip("-")
