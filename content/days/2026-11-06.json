@@ -1,0 +1,1688 @@
+{
+ "date": "2026-11-06",
+ "headline": "Dark mornings, default AI, and 107,000 species for sale",
+ "teaser": "Who pays for brighter evenings? Should a search engine come bundled with AI? And can we call a trade sustainable if no one counts it?",
+ "articles": [
+  {
+   "id": "n20261106-1",
+   "topic": "Society",
+   "title": "Brighter Evenings, Darker Mornings: The Hidden Cost of Permanent Daylight Saving Time",
+   "dek": "Ending the clock change sounds like pure convenience. A new study asks who would pay for the extra evening light.",
+   "sources": [
+    {
+     "name": "ScienceDaily (University of Washington), Nov 4, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm"
+    },
+    {
+     "name": "FOX 13 Seattle, Oct 30, 2026",
+     "url": "https://www.fox13seattle.com/news/permanent-daylight-saving-time-dark-school-commutes"
+    }
+   ],
+   "paras": [
+    "Twice a year, most Americans adjust their clocks: forward an hour in spring and back an hour in autumn. The ritual is widely unpopular, and in July 2026 the US House of Representatives passed the Sunshine Protection Act, a bill that would end the autumn change and keep the country on daylight saving time (DST) all year. The bill has since stalled in the Senate, but nineteen states have already approved measures that would take effect if it becomes law. Supporters often present the change as a simple matter of convenience. A new study from the University of Washington, published in Current Biology in late October, suggests that the choice involves a less visible trade-off, one that falls heavily on children.",
+    "To understand this trade-off, it helps to remember what a clock change actually does. Shifting the clock does not create additional daylight; it only moves hours of light from one end of the day to the other. Under permanent DST, winter sunsets would come an hour later, giving people brighter evenings for shopping, sport, and outdoor leisure. The price would be paid in the morning. In December and January, when days are already short, sunrise in many places would arrive after 8 a.m., and in communities at the western edge of a time zone, considerably later than that.",
+    "The researchers, led by postdoctoral scholar Guadalupe Rodríguez Ferrante and biologist Horacio de la Iglesia, set out to measure what this would mean for students. Using school start times, enrollment figures, and school locations in 14 states that have voted to adopt permanent DST if Congress allows it, they counted how many trips to school would begin before sunrise under each system. Their analysis led them to estimate that, across the United States, permanent DST would add at least 2 billion dark school commutes every year. Georgia alone would see roughly 71 million additional dark trips, while in Alabama and Mississippi the number would climb from about 2 million to more than 20 million each. Because the team assumed that students leave home at 8 a.m., which is relatively late, the authors describe their figures as conservative.",
+    "Why does darkness matter? The first concern is safety. Examining crash records, the team found that fatal accidents involving school-age pedestrians were roughly twice as likely on dark mornings as after sunrise. The researchers are careful to note that this finding does not reveal exactly how many extra crashes permanent DST would cause, since drivers and families might adapt. The second concern is biological. Morning light is the main signal that keeps the body's internal clock, or circadian rhythm, aligned with the solar day. When that signal arrives later, the clock tends to drift later as well, which can disturb sleep, mood, and appetite. Teenagers, whose internal clocks already run late, may be especially vulnerable.",
+    "Supporters of permanent DST respond that these costs must be weighed against real benefits. Lighter evenings may encourage children and adults to exercise outdoors after school or work, and some argue that they could reduce evening traffic accidents and certain kinds of crime, which tend to rise after dark. Others emphasize that the twice-yearly switch is itself disruptive: the spring transition, which costs people an hour of sleep, has been associated with short-term increases in accidents and health problems. From this perspective, ending the clock change is worthwhile even if winter mornings become darker.",
+    "Critics of the bill, including many sleep scientists, agree that the switching should stop but argue that the country is choosing the wrong permanent setting. They favor permanent standard time, which keeps clocks closer to the position of the sun. One proposed compromise, delaying school start times so that students still travel in daylight, faces its own difficulty. As the University of Washington team points out, if every schedule simply moves an hour later, society has effectively returned to standard time while keeping the label of daylight saving. Later starts would also collide with parents' working hours and after-school activities.",
+    "The debate illustrates a broader lesson about public policy: a measure that seems to offer something for nothing usually redistributes costs rather than eliminating them. Brighter evenings are visible and pleasant, while darker mornings are experienced mostly by people with little political voice, such as children waiting at bus stops. Whether permanent DST is a sensible reform may therefore depend less on the total amount of daylight, which no law can change, than on whose hours of light a society decides to protect."
+   ],
+   "words": [
+    {
+     "w": "trade-off",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈtreɪd ɒf/",
+     "syl": [
+      "trade",
+      "off"
+     ],
+     "def": "a balance between two things you cannot have at the same time",
+     "ex": "Choosing a cheaper phone often involves a trade-off between price and battery life."
+    },
+    {
+     "w": "conservative",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kənˈsɜːvətɪv/",
+     "syl": [
+      "con",
+      "ser",
+      "va",
+      "tive"
+     ],
+     "def": "(of an estimate) deliberately low or cautious",
+     "ex": "Even a conservative estimate suggests the bridge will need repairs within ten years."
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvʌlnərəbəl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or affected by something",
+     "ex": "Older trees are more vulnerable to strong winds than young, flexible ones."
+    },
+    {
+     "w": "compromise",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈkɒmprəmaɪz/",
+     "syl": [
+      "com",
+      "pro",
+      "mise"
+     ],
+     "def": "a solution in which each side gives up part of what it wants",
+     "ex": "After a long debate, the club reached a compromise on when to hold meetings."
+    },
+    {
+     "w": "redistribute",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌriːdɪˈstrɪbjuːt/",
+     "syl": [
+      "re",
+      "dis",
+      "tri",
+      "bute"
+     ],
+     "def": "to share something out among people in a different way",
+     "ex": "The new timetable will redistribute the workload more evenly among the teachers."
+    },
+    {
+     "w": "commute",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kəˈmjuːt/",
+     "syl": [
+      "com",
+      "mute"
+     ],
+     "def": "a regular journey between home and school or work",
+     "ex": "Her daily commute to school takes about forty minutes by bus."
+    },
+    {
+     "w": "pedestrian",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/pəˈdestriən/",
+     "syl": [
+      "pe",
+      "des",
+      "tri",
+      "an"
+     ],
+     "def": "a person walking, especially in a street",
+     "ex": "The city widened the pavement to make the crossing safer for every pedestrian."
+    },
+    {
+     "w": "circadian rhythm",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/sɜːˈkeɪdiən ˈrɪðəm/",
+     "syl": [
+      "cir",
+      "ca",
+      "di",
+      "an",
+      "rhy",
+      "thm"
+     ],
+     "def": "the body's natural 24-hour cycle that controls sleep and waking",
+     "ex": "Long flights across time zones can disrupt your circadian rhythm for several days."
+    },
+    {
+     "w": "daylight saving time",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈdeɪlaɪt ˈseɪvɪŋ taɪm/",
+     "syl": [
+      "day",
+      "light",
+      "sav",
+      "ing",
+      "time"
+     ],
+     "def": "the system of moving clocks one hour forward in summer",
+     "ex": "Many countries in Asia do not use daylight saving time at all."
+    },
+    {
+     "w": "standard time",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈstændəd taɪm/",
+     "syl": [
+      "stan",
+      "dard",
+      "time"
+     ],
+     "def": "the normal clock time of a region, closer to the sun's position",
+     "ex": "Sleep researchers argue that standard time matches our body clocks more closely."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new study from the University of Washington, published in Current Biology in late October, suggests that the choice involves a less visible trade-off, one that falls heavily on children.",
+     "kind": "Main idea",
+     "note": "The thesis of the passage: permanent DST is not just about convenience but about who bears the cost. Purpose and main-idea questions often depend on this sentence."
+    },
+    {
+     "para": 2,
+     "text": "Shifting the clock does not create additional daylight; it only moves hours of light from one end of the day to the other.",
+     "kind": "Key details",
+     "note": "This explains the logic behind the whole debate. Notice the semicolon: the second half restates and explains the first."
+    },
+    {
+     "para": 3,
+     "text": "Because the team assumed that students leave home at 8 a.m., which is relatively late, the authors describe their figures as conservative.",
+     "kind": "Cause → effect",
+     "note": "A cause-effect sentence about method. TOEFL likes to test whether an estimate is too high or too low."
+    },
+    {
+     "para": 4,
+     "text": "The researchers are careful to note that this finding does not reveal exactly how many extra crashes permanent DST would cause, since drivers and families might adapt.",
+     "kind": "Hedging",
+     "note": "Scientists limit their own claims here. Recognising hedging helps you avoid “too extreme” answer choices."
+    },
+    {
+     "para": 6,
+     "text": "As the University of Washington team points out, if every schedule simply moves an hour later, society has effectively returned to standard time while keeping the label of daylight saving.",
+     "kind": "Critical thinking",
+     "note": "This sentence shows why the compromise does not really work. It supports an inference question."
+    },
+    {
+     "para": 7,
+     "text": "The debate illustrates a broader lesson about public policy: a measure that seems to offer something for nothing usually redistributes costs rather than eliminating them.",
+     "kind": "Author's view",
+     "note": "The author's final judgment, which links the story to a general principle."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “stalled” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "been defeated",
+      "stopped advancing",
+      "been amended",
+      "lost power"
+     ],
+     "a": 1,
+     "why": "The bill passed the House but has not moved forward in the Senate; it is still pending, so “stopped advancing” fits.",
+     "evidence": "The bill has since stalled in the Senate",
+     "optWhy": [
+      "Trap: too strong. The bill has not been voted down; it is simply not moving forward.",
+      "Correct. A bill that has stalled has stopped making progress.",
+      "It fits the sentence, but nothing in the passage says the bill was changed.",
+      "Trap: this is the literal meaning of stall (an engine losing power), not the meaning here."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, which of the following is true of the University of Washington study?",
+     "opts": [
+      "It counted dark school trips separately in every one of the fifty states.",
+      "It found that Georgia's dark trips would rise from about 2 million to over 20 million.",
+      "It assumed an early departure time, so its figures may overstate the effect.",
+      "Its authors consider the true increase likely to be larger than they estimated."
+     ],
+     "a": 3,
+     "why": "The authors call their figures conservative because 8 a.m. is a late departure time, so the real increase is probably larger.",
+     "evidence": "the authors describe their figures as conservative",
+     "optWhy": [
+      "Detail swapped: the team used data from 14 states, not each of the fifty states.",
+      "Detail swapped: the rise from about 2 million to over 20 million describes Alabama and Mississippi; Georgia's figure is about 71 million.",
+      "Reversed: 8 a.m. is described as relatively late, which makes the estimate too low, not too high.",
+      "Correct. “Conservative” means the true number is probably higher."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are given as reasons for concern about darker mornings EXCEPT:",
+     "opts": [
+      "Students would be more likely to skip breakfast before school.",
+      "Fatal crashes involving young pedestrians are more frequent before sunrise.",
+      "A later arrival of morning light can push the internal clock later.",
+      "A disturbed circadian rhythm can affect sleep and mood."
+     ],
+     "a": 0,
+     "why": "Paragraph 4 mentions appetite in general, but it never says students would skip breakfast.",
+     "evidence": "which can disturb sleep, mood, and appetite",
+     "optWhy": [
+      "Correct. The paragraph mentions appetite, but skipping breakfast is never stated.",
+      "Stated: fatal accidents involving school-age pedestrians are about twice as likely on dark mornings.",
+      "Stated: when the light signal arrives later, the clock tends to drift later.",
+      "Stated: a shifted clock can disturb sleep, mood, and appetite."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author state that “Shifting the clock does not create additional daylight” in paragraph 2?",
+     "opts": [
+      "To argue that changing the clocks has little real effect on people's daily lives",
+      "To suggest that supporters of the bill misunderstand basic astronomy",
+      "To clarify that permanent DST would move light from mornings to evenings rather than add to it",
+      "To explain why winter sunrise already occurs after 8 a.m. in most places"
+     ],
+     "a": 2,
+     "why": "The sentence sets up the trade-off: light is moved from one end of the day to the other, not created.",
+     "evidence": "it only moves hours of light from one end of the day to the other",
+     "optWhy": [
+      "Contradicts the passage: the author goes on to show that the change has important effects.",
+      "Too strong: the author never accuses supporters of misunderstanding science.",
+      "Correct. The point is that light is shifted, not added.",
+      "Detail distorted: the passage says sunrise WOULD come after 8 a.m. under permanent DST, not that it already does in most places."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about delaying school start times as a response to permanent DST?",
+     "opts": [
+      "It is the solution that most sleep scientists recommend.",
+      "It would cost less than passing a new federal law.",
+      "It would solve the problem without affecting families' other routines.",
+      "It would partly cancel out the very change that permanent DST was meant to achieve."
+     ],
+     "a": 3,
+     "why": "If all schedules move an hour later, life returns to standard time in practice, so the delay undoes much of what permanent DST was meant to do.",
+     "evidence": "society has effectively returned to standard time while keeping the label of daylight saving",
+     "optWhy": [
+      "Detail swapped: sleep scientists favor permanent standard time, not later school starts.",
+      "Not mentioned: the passage says nothing about costs.",
+      "Contradicts the passage: later starts would collide with parents' working hours and after-school activities.",
+      "Correct. Moving everything an hour later is effectively a return to standard time."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The benefits of permanent DST are easy to notice, whereas its costs fall largely on groups with limited influence over policy.",
+      "Children waiting at bus stops prefer brighter evenings, even though they have little influence over political decisions.",
+      "Because darker mornings are less visible than brighter evenings, politicians have chosen to ignore children's safety.",
+      "Most people enjoy bright evenings, while children are the ones who usually wait at bus stops on dark mornings."
+     ],
+     "a": 0,
+     "why": "The sentence contrasts visible benefits with costs borne by people with little political voice; A keeps both parts.",
+     "evidence": "Brighter evenings are visible and pleasant, while darker mornings are experienced mostly by people with little political voice, such as children waiting at bus stops.",
+     "optWhy": [
+      "Correct. It keeps the contrast between visible benefits and costs borne by the less powerful.",
+      "Changes the meaning: the sentence does not say what children prefer.",
+      "Adds a claim: the sentence never says politicians chose to ignore children's safety.",
+      "Leaves out essential information: it drops the idea of “little political voice.”"
+     ],
+     "highlight": "Brighter evenings are visible and pleasant, while darker mornings are experienced mostly by people with little political voice, such as children waiting at bus stops."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261106-1-k1",
+     "tag": "Main idea",
+     "fact": "A University of Washington study says permanent DST would add at least 2 billion dark school commutes a year in the US.",
+     "q": "How many extra dark school commutes would permanent DST add each year, according to the study?",
+     "opts": [
+      "About 71 million",
+      "At least 2 billion",
+      "About 20 million",
+      "Exactly 35 million"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-1-k2",
+     "tag": "Concept",
+     "fact": "Changing the clock does not create daylight; it only moves light from mornings to evenings.",
+     "q": "What does a permanent clock change actually do to daylight?",
+     "opts": [
+      "It has no effect on sunrise",
+      "It adds an hour of light",
+      "It moves light from one part of the day to another",
+      "It removes an hour of light"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261106-1-k3",
+     "tag": "Evidence",
+     "fact": "Fatal crashes involving school-age pedestrians were about twice as likely on dark mornings as after sunrise.",
+     "q": "How did dark mornings relate to fatal crashes involving school-age pedestrians?",
+     "opts": [
+      "There was no difference",
+      "They were ten times as likely",
+      "They were about half as likely",
+      "They were about twice as likely"
+     ],
+     "a": 3
+    },
+    {
+     "id": "n20261106-1-k4",
+     "tag": "Biology",
+     "fact": "Morning light keeps the circadian rhythm aligned with the sun; later light can disturb sleep, mood, and appetite.",
+     "q": "What is the main signal that keeps the body clock aligned with the solar day?",
+     "opts": [
+      "Morning light",
+      "Meal times",
+      "Exercise",
+      "Evening light"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261106-1-k5",
+     "tag": "Counterargument",
+     "fact": "Supporters say lighter evenings encourage exercise and that the twice-yearly switch itself is disruptive.",
+     "q": "Which is an argument made by supporters of permanent DST?",
+     "opts": [
+      "Darker mornings improve sleep",
+      "Lighter evenings may encourage outdoor exercise",
+      "Schools should start earlier",
+      "Standard time saves energy"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-1-k6",
+     "tag": "Author's view",
+     "fact": "Many sleep scientists want to stop switching but prefer permanent standard time instead.",
+     "q": "Which permanent setting do many sleep scientists favor?",
+     "opts": [
+      "A different time for each school",
+      "Daylight saving time",
+      "Standard time",
+      "Changing clocks four times a year"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Permanent DST",
+    "question": "Who pays for brighter evenings?",
+    "branches": [
+     {
+      "title": "The proposal",
+      "paras": "1–2",
+      "blanks": [
+       "no daylight is created, only moved"
+      ],
+      "kps": [
+       "n20261106-1-k2"
+      ]
+     },
+     {
+      "title": "The study",
+      "paras": "3",
+      "blanks": [
+       "2 billion more dark commutes"
+      ],
+      "kps": [
+       "n20261106-1-k1"
+      ]
+     },
+     {
+      "title": "Why it matters",
+      "paras": "4",
+      "blanks": [
+       "twice the risk of fatal crashes",
+       "body clocks drift later"
+      ],
+      "kps": [
+       "n20261106-1-k3",
+       "n20261106-1-k4"
+      ]
+     },
+     {
+      "title": "Both sides",
+      "paras": "5–7",
+      "blanks": [
+       "evenings for exercise and leisure",
+       "sleep scientists prefer standard time"
+      ],
+      "kps": [
+       "n20261106-1-k5",
+       "n20261106-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "clocks would change four times a year",
+     "mornings would become brighter in winter"
+    ]
+   },
+   "summary": {
+    "intro": "Permanent daylight saving time would give Americans brighter winter evenings, but it involves a hidden trade-off.",
+    "model": "Permanent DST would add billions of dark school commutes, raising safety and sleep concerns, while supporters value brighter evenings. However, because later school starts would undo the change, many scientists prefer permanent standard time, so the real question is who bears the cost.",
+    "options": [
+     {
+      "t": "A study estimates that permanent DST would add at least 2 billion school commutes in the dark every year.",
+      "ok": true,
+      "why": "The central finding of the study (paragraph 3).",
+      "type": "main",
+      "para": 3,
+      "evidence": "permanent DST would add at least 2 billion dark school commutes every year"
+     },
+     {
+      "t": "Darker mornings raise concerns about pedestrian safety and about children's body clocks.",
+      "ok": true,
+      "why": "Paragraph 4's two main concerns.",
+      "type": "main",
+      "para": 4,
+      "evidence": "The first concern is safety."
+     },
+     {
+      "t": "Supporters value brighter evenings, while many scientists prefer to end switching by keeping standard time instead.",
+      "ok": true,
+      "why": "Summarises the debate in paragraphs 5–6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "They favor permanent standard time"
+     },
+     {
+      "t": "Georgia would see roughly 71 million additional dark trips under permanent DST.",
+      "ok": false,
+      "why": "True, but only one supporting number.",
+      "type": "detail",
+      "para": 3,
+      "evidence": "Georgia alone would see roughly 71 million additional dark trips"
+     },
+     {
+      "t": "Most European countries have already abandoned daylight saving time.",
+      "ok": false,
+      "why": "Europe is never mentioned.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Delaying school start times would fully solve the problem of darker mornings.",
+      "ok": false,
+      "why": "The passage says this compromise has its own problems.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "faces its own difficulty"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Interview question: A researcher is studying how daylight affects students. “How does the time you get up and travel to school affect your mood and concentration during the day? Would you support starting school one hour later? Why or why not?”",
+    "hint": "Answer directly → describe your own morning routine → give one reason with a specific example → mention one drawback of your choice → conclude.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Some governments want to keep daylight saving time all year, giving brighter evenings but darker winter mornings. Should they adopt permanent daylight saving time? (Emma says brighter evenings encourage exercise and ending the clock switch would help everyone's sleep. Kevin agrees the switching should stop, but says standard time is safer for children and better for body clocks.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Give a reason supported by the article.",
+     "Add an example from your own life or city.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_nicole"
+  },
+  {
+   "id": "n20261106-2",
+   "topic": "Technology",
+   "title": "Search, AI, and the Classroom: Who Should Decide?",
+   "dek": "Google now switches off AI for students by default, but Search goes with it. Is that a choice, or pressure?",
+   "sources": [
+    {
+     "name": "AP via ABC7 News, Nov 4, 2026",
+     "url": "https://abc7news.com/story/google-will-cut-off-search-access-students-schools-reject-ai-tools/20015277/"
+    },
+    {
+     "name": "Google blog, Nov 3, 2026",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+    },
+    {
+     "name": "The Next Web, Jul 19, 2026",
+     "url": "https://thenextweb.com/news/google-ai-search-unsafe-schools-common-sense-media"
+    }
+   ],
+   "paras": [
+    "For years, students in many schools have logged into a Google Classroom account, typed a question into Google Search, and begun their homework. That routine may soon change. On November 3, 2026, Google announced that its artificial intelligence tools, including the Gemini chatbot and Gemini in Classroom, will be switched off by default for student accounts in primary and secondary schools, known in the United States as K-12. School administrators will have to turn them on explicitly. The surprise lay in what was tied to them: Google Search will also be unavailable to those accounts unless the school opts in to the AI tools. Critics quickly argued that the policy left schools with an uncomfortable choice.",
+    "The announcement is the latest turn in a year of rapid change. In August, Google made Gemini available to many K-12 students, having previously restricted it to users aged 18 and over, and the move provoked an outcry from parents and advocacy groups. Earlier, the nonprofit Common Sense Media had rated Google's AI-powered search an \"unacceptable risk\" for young users, reporting that it readily completed homework assignments and sometimes repeated misinformation with an air of authority. Google dismissed the testing as narrow, but the criticism added pressure. In its announcement, the company presented the new defaults as a response to such concerns: school leaders, it said, should control how AI is used in their classrooms.",
+    "Why, then, did the change provoke fresh objections? The key issue is the link between two products that schools may wish to treat separately. Many educators regard a search engine as basic infrastructure, as essential to research as a library catalogue, while they view chatbots with far more caution. Under the new arrangement, a district that wants students to keep using Google Search must also accept Google's AI tools. Lina Khan, the former chair of the US Federal Trade Commission, wrote that Google was \"using its search monopoly to coerce schools into adopting AI.\" Josh Golin of the children's advocacy group Fairplay went further, urging schools to turn off Google's AI tools and consider more privacy-protective search engines.",
+    "Google's defenders can point to several counterarguments. First, the default is now \"off,\" which gives schools a decision they did not have when Gemini was simply switched on. Second, Google argues that its tools are designed to support learning rather than replace it. The company is adding a feature called Guided Learning, which, when it detects certain homework requests, walks students through a topic step by step instead of supplying an answer immediately. Google says its own research shows measurable learning gains, and it describes the goal as \"productive struggle\": challenge that stretches students without overwhelming them. From this perspective, combining search and AI simply reflects how information is now found online.",
+    "Skeptics respond that research conducted by a company about its own product deserves careful scrutiny, and that the scale of Google's presence in education changes the nature of the choice. According to the company, about 150 million students and teachers worldwide use Google Classroom, and many schools depend on inexpensive Chromebook laptops built around Google's software. For such schools, abandoning Google Search is not a realistic option, so an \"opt-in\" may function, in practice, more like a requirement. Some large districts have chosen caution instead: New York City and Los Angeles have temporarily banned generative AI tools in elementary and middle schools while they develop policies.",
+    "The deeper question concerns who should decide how young people encounter new technology. Technology companies possess the engineering expertise and can update products quickly, but their commercial interest in building habits early is obvious. Schools know their students and curricula, yet many lack the time and technical staff to evaluate complex tools. Parents, meanwhile, are often consulted last. A defensible policy would probably separate basic access to information from optional AI features, allowing each school to judge them independently. Whether Google will offer that flexibility remains unclear; the company says it will share details with schools in the coming months, before the changes take effect."
+   ],
+   "words": [
+    {
+     "w": "default",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/dɪˈfɔːlt/",
+     "syl": [
+      "de",
+      "fault"
+     ],
+     "def": "the setting a system uses unless someone changes it",
+     "ex": "The default on this camera is automatic mode, but you can switch to manual."
+    },
+    {
+     "w": "explicitly",
+     "level": "Academic",
+     "pos": "adv.",
+     "ipa": "/ɪkˈsplɪsɪtli/",
+     "syl": [
+      "ex",
+      "pli",
+      "cit",
+      "ly"
+     ],
+     "def": "clearly and directly, leaving no doubt",
+     "ex": "The rules explicitly state that phones must be switched off during exams."
+    },
+    {
+     "w": "infrastructure",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈɪnfrəstrʌktʃə/",
+     "syl": [
+      "in",
+      "fra",
+      "struc",
+      "ture"
+     ],
+     "def": "the basic systems and services a society or organisation needs to function",
+     "ex": "Fast internet is now seen as essential infrastructure, like roads and electricity."
+    },
+    {
+     "w": "coerce",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kəʊˈɜːs/",
+     "syl": [
+      "co",
+      "erce"
+     ],
+     "def": "to force someone to do something by using pressure or threats",
+     "ex": "No one should coerce students into joining a club they are not interested in."
+    },
+    {
+     "w": "scrutiny",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈskruːtɪni/",
+     "syl": [
+      "scru",
+      "ti",
+      "ny"
+     ],
+     "def": "careful and detailed examination",
+     "ex": "The new safety claims came under close scrutiny from independent scientists."
+    },
+    {
+     "w": "defensible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/dɪˈfensəbəl/",
+     "syl": [
+      "de",
+      "fen",
+      "si",
+      "ble"
+     ],
+     "def": "able to be supported with good reasons",
+     "ex": "Banning all snacks may be popular, but it is hardly a defensible rule."
+    },
+    {
+     "w": "monopoly",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/məˈnɒpəli/",
+     "syl": [
+      "mo",
+      "no",
+      "po",
+      "ly"
+     ],
+     "def": "complete control of a market by one company",
+     "ex": "For decades, the national company held a monopoly on train services."
+    },
+    {
+     "w": "advocacy group",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈædvəkəsi ɡruːp/",
+     "syl": [
+      "ad",
+      "vo",
+      "ca",
+      "cy",
+      "group"
+     ],
+     "def": "an organisation that campaigns to support a particular cause",
+     "ex": "An advocacy group for cyclists asked the city to build more bike lanes."
+    },
+    {
+     "w": "opt-in",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈɒpt ɪn/",
+     "syl": [
+      "opt",
+      "in"
+     ],
+     "def": "a system in which people must actively choose to take part",
+     "ex": "The school's new reading club works on an opt-in basis, so no one is signed up automatically."
+    },
+    {
+     "w": "generative AI",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈdʒenərətɪv eɪ aɪ/",
+     "syl": [
+      "gen",
+      "er",
+      "a",
+      "tive",
+      "A",
+      "I"
+     ],
+     "def": "artificial intelligence that creates new text, images, or other content",
+     "ex": "Some teachers use generative AI to create practice questions for their classes."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The surprise lay in what was tied to them: Google Search will also be unavailable to those accounts unless the school opts in to the AI tools.",
+     "kind": "Main idea",
+     "note": "This is the twist that makes the story controversial. The rest of the passage explains why linking Search and AI matters."
+    },
+    {
+     "para": 2,
+     "text": "In its announcement, the company presented the new defaults as a response to such concerns: school leaders, it said, should control how AI is used in their classrooms.",
+     "kind": "Key details",
+     "note": "Google's own explanation of the change. Notice “it said”: the author is reporting Google's view, not agreeing with it."
+    },
+    {
+     "para": 3,
+     "text": "The key issue is the link between two products that schools may wish to treat separately.",
+     "kind": "Topic sentence",
+     "note": "The topic sentence of paragraph 3. It answers the question the paragraph opens with."
+    },
+    {
+     "para": 4,
+     "text": "Second, Google argues that its tools are designed to support learning rather than replace it.",
+     "kind": "Interpretation",
+     "note": "The counterargument from Google's side. Rhetorical purpose questions often ask why a feature like Guided Learning is mentioned."
+    },
+    {
+     "para": 5,
+     "text": "For such schools, abandoning Google Search is not a realistic option, so an \"opt-in\" may function, in practice, more like a requirement.",
+     "kind": "Cause → effect",
+     "note": "Cause and effect: because schools depend on Google, the free choice may not be free in practice."
+    },
+    {
+     "para": 6,
+     "text": "A defensible policy would probably separate basic access to information from optional AI features, allowing each school to judge them independently.",
+     "kind": "Author's view",
+     "note": "The author's recommendation. Notice the hedge “probably”: the author is careful, not absolute."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word “stretches” in paragraph 4 is closest in meaning to",
+     "opts": [
+      "tires",
+      "lengthens",
+      "challenges the abilities of",
+      "distracts"
+     ],
+     "a": 2,
+     "why": "“Productive struggle” is challenge that makes students use their abilities fully, so “challenges the abilities of” fits.",
+     "evidence": "challenge that stretches students without overwhelming them",
+     "optWhy": [
+      "It fits the sentence, but the idea is useful challenge, not making students tired.",
+      "Trap: “lengthen” is the literal meaning of stretch, which does not apply to students here.",
+      "Correct. The challenge pushes students to work at the edge of their abilities.",
+      "It fits the sentence, but nothing suggests the challenge takes students' attention away."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following happened before Google's November announcement?",
+     "opts": [
+      "Google extended Gemini to many younger students, which drew public criticism.",
+      "Common Sense Media rated the Gemini chatbot an unacceptable risk for all users.",
+      "Google restricted Gemini to adults in response to complaints from parents.",
+      "Google accepted that Common Sense Media's testing had been thorough and fair."
+     ],
+     "a": 0,
+     "why": "In August Google opened Gemini to many K-12 students, and the move provoked an outcry.",
+     "evidence": "the move provoked an outcry from parents and advocacy groups",
+     "optWhy": [
+      "Correct. Opening Gemini to K-12 students in August caused an outcry.",
+      "Detail swapped: the rating was for Google's AI-powered search, and it concerned young users, not all users.",
+      "Order reversed: the age limit of 18 came first; the complaints came after Gemini was opened to younger students.",
+      "Contradicts the passage: Google dismissed the testing as narrow."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about many educators?",
+     "opts": [
+      "They believe that chatbots should be removed from all classrooms.",
+      "They consider Google Search less reliable than a library catalogue.",
+      "They share Lina Khan's view that Google is a monopoly in education.",
+      "They would prefer to make separate decisions about search and AI tools."
+     ],
+     "a": 3,
+     "why": "Educators see search as essential but chatbots with caution, so they would likely want to decide on each separately.",
+     "evidence": "two products that schools may wish to treat separately",
+     "optWhy": [
+      "Too extreme: they view chatbots with caution, which is not the same as wanting them removed everywhere.",
+      "Distorted comparison: search is compared to a library catalogue as equally essential, not as less reliable.",
+      "Not stated: Khan spoke of a search monopoly, and the paragraph does not say educators share her view.",
+      "Correct. Treating search as basic but chatbots with caution implies wanting separate choices."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention “Guided Learning” in paragraph 4?",
+     "opts": [
+      "To show that Google's AI tools have been proven to improve learning",
+      "To give an example Google uses to argue that its AI supports learning",
+      "To explain why Google chose to switch Search off for student accounts",
+      "To contrast Google's approach with that of large school districts"
+     ],
+     "a": 1,
+     "why": "Guided Learning is offered as an example of Google's claim that its tools support learning rather than replace it.",
+     "evidence": "Google argues that its tools are designed to support learning rather than replace it",
+     "optWhy": [
+      "Too strong: the evidence comes from Google's own research, which the author later says deserves scrutiny.",
+      "Correct. It illustrates Google's argument that AI can support learning.",
+      "Wrong connection: Guided Learning is not given as the reason Search was switched off.",
+      "Information from another paragraph: large districts are discussed in paragraph 5, not contrasted here."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following help explain why an “opt-in” may work like a requirement EXCEPT:",
+     "opts": [
+      "Many schools rely on inexpensive laptops built around Google's software.",
+      "Google Classroom is used by about 150 million students and teachers.",
+      "Some large districts have banned students from using Google Search.",
+      "Giving up Google Search is not a realistic option for many schools."
+     ],
+     "a": 2,
+     "why": "New York City and Los Angeles banned generative AI tools, not Google Search, and this is an example of caution, not a reason the opt-in works like a requirement.",
+     "evidence": "New York City and Los Angeles have temporarily banned generative AI tools",
+     "optWhy": [
+      "Stated: many schools depend on Chromebook laptops built around Google's software.",
+      "Stated: the scale of Google's presence (about 150 million users) changes the nature of the choice.",
+      "Correct. The districts banned generative AI tools, not Google Search.",
+      "Stated: abandoning Google Search is not realistic for such schools."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because technology companies update products quickly, students form habits with them early.",
+      "Since technology companies have the most expertise, they should decide how schools use their tools.",
+      "Technology companies clearly want profit, which is why they update their products so quickly.",
+      "Technology companies have technical skill and speed, yet they plainly benefit from forming users' habits young."
+     ],
+     "a": 3,
+     "why": "The sentence balances a strength (expertise and speed) against a weakness (a commercial interest in early habits). D keeps both parts and the contrast.",
+     "evidence": "Technology companies possess the engineering expertise and can update products quickly, but their commercial interest in building habits early is obvious.",
+     "optWhy": [
+      "Invents a cause: the sentence does not say quick updates cause early habits.",
+      "Changes the meaning: the “but” clause presents a weakness, so it does not conclude companies should decide.",
+      "Wrong relationship: profit is not given as the reason for quick updates.",
+      "Correct. It keeps the strength, the weakness, and the contrast between them."
+     ],
+     "highlight": "Technology companies possess the engineering expertise and can update products quickly, but their commercial interest in building habits early is obvious."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261106-2-k1",
+     "tag": "Main idea",
+     "fact": "Google switched off AI tools by default for K-12 student accounts, but Search is also off unless schools opt in to AI.",
+     "q": "What else is switched off for K-12 student accounts under Google's new policy?",
+     "opts": [
+      "Gmail",
+      "Google Search",
+      "Google Docs",
+      "Chromebook updates"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-2-k2",
+     "tag": "Background",
+     "fact": "In August Google opened Gemini to many K-12 students, which caused an outcry from parents and advocacy groups.",
+     "q": "What happened after Google opened Gemini to many K-12 students in August?",
+     "opts": [
+      "Schools paid new fees",
+      "Usage doubled overnight",
+      "An outcry from parents and advocacy groups",
+      "The tool was banned nationwide"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261106-2-k3",
+     "tag": "Criticism",
+     "fact": "Lina Khan said Google was using its search monopoly to coerce schools into adopting AI.",
+     "q": "What did Lina Khan accuse Google of?",
+     "opts": [
+      "Raising Chromebook prices",
+      "Ignoring teachers' emails",
+      "Selling student data",
+      "Using its search monopoly to coerce schools"
+     ],
+     "a": 3
+    },
+    {
+     "id": "n20261106-2-k4",
+     "tag": "Google's view",
+     "fact": "Google's Guided Learning walks students through topics step by step instead of giving the answer right away.",
+     "q": "How does Guided Learning respond to certain homework requests?",
+     "opts": [
+      "It walks students through the topic step by step",
+      "It blocks the request",
+      "It sends the question to a teacher",
+      "It gives the answer at once"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261106-2-k5",
+     "tag": "Scale",
+     "fact": "About 150 million students and teachers use Google Classroom, so dropping Google Search is not realistic for many schools.",
+     "q": "About how many students and teachers use Google Classroom?",
+     "opts": [
+      "15 million",
+      "150 million",
+      "1.5 billion",
+      "50 million"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-2-k6",
+     "tag": "Author's view",
+     "fact": "The author suggests a fair policy would let schools decide on search and AI separately.",
+     "q": "What policy does the author suggest would be most defensible?",
+     "opts": [
+      "Making AI compulsory",
+      "Banning all AI in schools",
+      "Separating access to search from optional AI features",
+      "Letting companies decide everything"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Search + AI in schools",
+    "question": "Who should decide how students use AI?",
+    "branches": [
+     {
+      "title": "The change",
+      "paras": "1",
+      "blanks": [
+       "AI off by default for students",
+       "Search off unless schools opt in"
+      ],
+      "kps": [
+       "n20261106-2-k1"
+      ]
+     },
+     {
+      "title": "Background",
+      "paras": "2",
+      "blanks": [
+       "Gemini opened to students in August"
+      ],
+      "kps": [
+       "n20261106-2-k2"
+      ]
+     },
+     {
+      "title": "Critics",
+      "paras": "3, 5",
+      "blanks": [
+       "a search monopoly used as pressure",
+       "opt-in works like a requirement"
+      ],
+      "kps": [
+       "n20261106-2-k3",
+       "n20261106-2-k5"
+      ]
+     },
+     {
+      "title": "Google's case",
+      "paras": "4",
+      "blanks": [
+       "Guided Learning walks students step by step"
+      ],
+      "kps": [
+       "n20261106-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "Google will charge schools for Search",
+     "the US government ordered the change"
+    ]
+   },
+   "summary": {
+    "intro": "Google has changed how its AI tools and Search work for school students.",
+    "model": "Google now turns AI off by default for students, but Search goes with it, so schools must accept AI to keep Search. While Google says its tools support learning, critics argue its dominance makes the opt-in a requirement, so the decisions should be separated.",
+    "options": [
+     {
+      "t": "Google's new policy turns off AI for student accounts by default but links access to Search with accepting the AI tools.",
+      "ok": true,
+      "why": "The core change described in paragraph 1.",
+      "type": "main",
+      "para": 1,
+      "evidence": "Google Search will also be unavailable to those accounts unless the school opts in to the AI tools"
+     },
+     {
+      "t": "Critics argue that because schools depend on Google, the choice to opt in works more like a requirement.",
+      "ok": true,
+      "why": "The main objection (paragraphs 3 and 5).",
+      "type": "main",
+      "para": 5,
+      "evidence": "may function, in practice, more like a requirement"
+     },
+     {
+      "t": "Google says its tools support learning, but the author suggests schools should be able to judge search and AI separately.",
+      "ok": true,
+      "why": "Balances Google's case with the author's view.",
+      "type": "main",
+      "para": 6,
+      "evidence": "separate basic access to information from optional AI features"
+     },
+     {
+      "t": "New York City and Los Angeles have temporarily banned generative AI tools in some schools.",
+      "ok": false,
+      "why": "True, but a supporting example.",
+      "type": "detail",
+      "para": 5,
+      "evidence": "New York City and Los Angeles have temporarily banned generative AI tools"
+     },
+     {
+      "t": "Google plans to charge schools a fee for keeping Search switched on.",
+      "ok": false,
+      "why": "Fees are never mentioned.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Most educators believe AI chatbots are more essential than search engines.",
+      "ok": false,
+      "why": "The passage says the opposite.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "while they view chatbots with far more caution"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Interview question: Your school is deciding whether to switch on an AI assistant for all students. “What rules, if any, would you recommend for how students use it? Explain why.”",
+    "hint": "Give a clear position → propose one or two specific rules → explain the benefit of each rule with an example → briefly admit a limitation.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: AI chatbots can now explain homework problems step by step. Should schools allow students to use AI chatbots for homework? (Sophia says AI gives students who cannot afford tutors similar support. Daniel says homework should make students think, and they should first learn to find and judge sources themselves.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Give a reason supported by the article.",
+     "Add an example of your own.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_puck"
+  },
+  {
+   "id": "n20261106-3",
+   "topic": "Animals",
+   "title": "Counting the Uncounted: The True Scale of the Global Wildlife Trade",
+   "dek": "More than 107,000 species are bought and sold, most of them legally. Can we call the trade sustainable if no one is counting?",
+   "sources": [
+    {
+     "name": "ConnectSci (CSIRO Publishing), Nov 1, 2026",
+     "url": "https://connectsci.au/news/news-parent/10334/Global-wildlife-trade-is-twice-as-big-as"
+    },
+    {
+     "name": "Malay Mail (Bernama-Xinhua), Nov 1, 2026",
+     "url": "https://malaymail.com/news/life/2026/11/01/newslife20261101plants-animals-fungi-global-wildlife-trade-involves-107000-species-double-previous-estimates-study-finds241450/241450"
+    }
+   ],
+   "paras": [
+    "When people hear the phrase \"wildlife trade,\" they tend to picture smuggled ivory, tiger parts, or pangolin scales seized at an airport. Those images are accurate but incomplete. A study published in Science Advances by researchers at the University of Melbourne has found that at least 107,356 species of plants, animals, and fungi are used and traded around the world, more than twice the previous estimate of about 50,000. The finding suggests that the commerce in living things is far broader, and far less understood, than either the public or policymakers have assumed.",
+    "Much of this trade is both legal and familiar. It includes timber for furniture and construction, seafood, medicinal plants, cut flowers, mushrooms and other fungi, and animals and ornamental fish sold as pets. According to the study, the legal trade is worth roughly ten times as much as the illegal trade that dominates headlines. In other words, much of the pressure that trade places on wild species may come not from criminal networks but from ordinary consumer demand, satisfied through lawful supply chains that rarely attract attention.",
+    "Arriving at the new figure required combining records from wildlife trade monitoring programs, and the process exposed how patchy those records are. The researchers note that the United States is the only country that systematically records and publicly shares trade data across a wide range of species groups. For most traded species, there is little or no information about how many individuals are taken, where they come from, or how wild populations are responding. \"For most of these species we have little to no data,\" said the lead researcher, Professor Alice Hughes. As a result, the authors warn, the true number of traded species is probably even higher than their estimate.",
+    "This gap matters because trade is not inherently harmful. Many species can be harvested sustainably, and for millions of people, especially in rural communities, collecting and selling wild products is an important source of income. Sustainable use can even support conservation by giving local people a financial reason to protect forests and fisheries. The difficulty is that sustainability can only be demonstrated with evidence. Without population data, no one can tell whether a particular orchid, reef fish, or tree is being harvested at a rate it can withstand, or whether it is quietly being pushed toward collapse.",
+    "Current international policy addresses only a small part of the problem. The trade target in the global biodiversity framework, the agreement under which governments have pledged to halt the loss of nature, covers only about 2 to 3 percent of the species now known to be traded, leaving roughly 97 percent outside its scope. Hughes argues that this mismatch weakens efforts to protect nature and could undermine the framework's goals. \"Without better data, we cannot accurately assess risks to biodiversity,\" she said.",
+    "The authors therefore call for a coordinated global monitoring system with standardized data collection, so that information gathered in different countries can be compared. Rather than building an entirely new bureaucracy, they suggest adapting processes that already exist, such as customs checks and the inspections that animals and animal products undergo to prevent the spread of disease. Opponents of stronger regulation might respond that additional reporting would burden small traders and poorer exporting countries, and that tracking more than 100,000 species is unrealistic. Supporters reply that the costs of ignorance are higher: a species that disappears cannot be restored by later paperwork.",
+    "The study ultimately reframes a familiar issue. Protecting wildlife is often presented as a contest between conservationists and poachers, but the larger challenge may be making everyday trade visible. Consumers who buy a houseplant, a fish fillet, or a wooden table rarely consider which species they are using or where it came from. Until governments can answer those questions systematically, the claim that the world's wildlife trade is sustainable will remain, at best, an untested assumption."
+   ],
+   "words": [
+    {
+     "w": "estimate",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈestɪmət/",
+     "syl": [
+      "es",
+      "ti",
+      "mate"
+     ],
+     "def": "a calculated guess about a number or amount",
+     "ex": "The builder's first estimate for the repairs was much lower than the final bill."
+    },
+    {
+     "w": "sustainable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/səˈsteɪnəbəl/",
+     "syl": [
+      "sus",
+      "tain",
+      "a",
+      "ble"
+     ],
+     "def": "able to continue without causing long-term damage",
+     "ex": "Fishing is only sustainable if fish populations can recover each year."
+    },
+    {
+     "w": "undermine",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌʌndəˈmaɪn/",
+     "syl": [
+      "un",
+      "der",
+      "mine"
+     ],
+     "def": "to gradually weaken something or make it less effective",
+     "ex": "Constant rumours can undermine trust between team members."
+    },
+    {
+     "w": "standardized",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈstændədaɪzd/",
+     "syl": [
+      "stan",
+      "dard",
+      "ized"
+     ],
+     "def": "made to follow the same rules or format everywhere",
+     "ex": "Every student in the country takes the same standardized test at the end of the year."
+    },
+    {
+     "w": "scope",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/skəʊp/",
+     "syl": [
+      "scope"
+     ],
+     "def": "the range of things that something deals with",
+     "ex": "The scope of the project grew when the city added three new parks."
+    },
+    {
+     "w": "biodiversity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+     "syl": [
+      "bi",
+      "o",
+      "di",
+      "ver",
+      "si",
+      "ty"
+     ],
+     "def": "the variety of plant and animal life in a place or in the world",
+     "ex": "Coral reefs support an amazing level of biodiversity in a small area."
+    },
+    {
+     "w": "supply chain",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/səˈplaɪ tʃeɪn/",
+     "syl": [
+      "sup",
+      "ply",
+      "chain"
+     ],
+     "def": "the series of steps and companies that bring a product to customers",
+     "ex": "A storm in one country can disrupt the supply chain for phones worldwide."
+    },
+    {
+     "w": "customs",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkʌstəmz/",
+     "syl": [
+      "cus",
+      "toms"
+     ],
+     "def": "the government department that checks goods entering or leaving a country",
+     "ex": "Our bags were opened at customs when we arrived at the airport."
+    },
+    {
+     "w": "monitoring",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈmɒnɪtərɪŋ/",
+     "syl": [
+      "mo",
+      "ni",
+      "tor",
+      "ing"
+     ],
+     "def": "regular observation and recording of something over time",
+     "ex": "Air quality monitoring showed that pollution was highest in the early morning."
+    },
+    {
+     "w": "poacher",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpəʊtʃə/",
+     "syl": [
+      "poach",
+      "er"
+     ],
+     "def": "a person who illegally hunts or catches animals",
+     "ex": "The rangers caught a poacher setting traps inside the national park."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The finding suggests that the commerce in living things is far broader, and far less understood, than either the public or policymakers have assumed.",
+     "kind": "Main idea",
+     "note": "The thesis: the trade is both bigger and less understood than people think. Main-idea and summary questions build on this."
+    },
+    {
+     "para": 2,
+     "text": "According to the study, the legal trade is worth roughly ten times as much as the illegal trade that dominates headlines.",
+     "kind": "Key details",
+     "note": "A surprising comparison that challenges the common image of wildlife trade. Watch how numbers are used in answer choices."
+    },
+    {
+     "para": 3,
+     "text": "For most traded species, there is little or no information about how many individuals are taken, where they come from, or how wild populations are responding.",
+     "kind": "Key details",
+     "note": "This lists exactly what data is missing. Negative factual questions often test lists like this."
+    },
+    {
+     "para": 4,
+     "text": "The difficulty is that sustainability can only be demonstrated with evidence.",
+     "kind": "Critical thinking",
+     "note": "The turning point of paragraph 4: after admitting trade can be good, the author explains why data still matters."
+    },
+    {
+     "para": 6,
+     "text": "Supporters reply that the costs of ignorance are higher: a species that disappears cannot be restored by later paperwork.",
+     "kind": "Author's view",
+     "note": "A response to the opposing view. Notice the concession-and-reply structure, which is useful in TOEFL writing."
+    },
+    {
+     "para": 7,
+     "text": "Until governments can answer those questions systematically, the claim that the world's wildlife trade is sustainable will remain, at best, an untested assumption.",
+     "kind": "Hedging",
+     "note": "The conclusion. “At best” shows the author's cautious but critical attitude."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “patchy” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "incomplete",
+      "outdated",
+      "covered in patches",
+      "kept secret"
+     ],
+     "a": 0,
+     "why": "The paragraph explains that most species have little or no data, so the records are incomplete.",
+     "evidence": "the process exposed how patchy those records are",
+     "optWhy": [
+      "Correct. The records have large gaps.",
+      "It fits the sentence, but the problem described is missing data, not old data.",
+      "Trap: this is the literal meaning of patchy (having patches), not the meaning here.",
+      "It fits the sentence, but the passage does not say countries hide their records."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following is true of the legal wildlife trade?",
+     "opts": [
+      "It mainly involves species such as tigers and pangolins.",
+      "It is growing about ten times faster than the illegal trade.",
+      "It is considerably larger in value than the illegal trade.",
+      "It causes more harm to wild species than criminal networks do."
+     ],
+     "a": 2,
+     "why": "The legal trade is worth roughly ten times as much as the illegal trade, so it is much larger in value.",
+     "evidence": "the legal trade is worth roughly ten times as much as the illegal trade",
+     "optWhy": [
+      "Information from another paragraph: tigers and pangolins are the public's image of illegal trade (paragraph 1).",
+      "Number misused: “ten times” refers to value, not growth rate.",
+      "Correct. A paraphrase of “worth roughly ten times as much.”",
+      "Too strong: the passage says pressure MAY come mostly from ordinary demand; it does not state legal trade is more harmful."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true of the data on traded species EXCEPT:",
+     "opts": [
+      "Only one country systematically shares trade data across many species groups.",
+      "Most countries publish detailed records of where traded species come from.",
+      "Information on the numbers taken is missing for most traded species.",
+      "The real number of traded species may be higher than the study's figure."
+     ],
+     "a": 1,
+     "why": "Only the United States systematically shares such data, so it is false that most countries publish detailed records.",
+     "evidence": "the United States is the only country that systematically records and publicly shares trade data",
+     "optWhy": [
+      "Stated: the United States is the only such country.",
+      "Correct. This contradicts the paragraph.",
+      "Stated: for most species there is little or no information about how many individuals are taken.",
+      "Stated: the true number is probably even higher than the estimate."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention that collecting and selling wild products is “an important source of income” in paragraph 4?",
+     "opts": [
+      "To argue that the wildlife trade should be expanded in rural areas",
+      "To explain why the illegal wildlife trade is so difficult to stop",
+      "To indicate that the study's data came mainly from rural markets",
+      "To support the point that trade is not necessarily harmful"
+     ],
+     "a": 3,
+     "why": "The income point supports the claim at the start of the paragraph that trade is not inherently harmful.",
+     "evidence": "trade is not inherently harmful",
+     "optWhy": [
+      "Too strong: the author shows benefits but never calls for expanding the trade.",
+      "Off topic: paragraph 4 discusses legal, sustainable use, not illegal trade.",
+      "Not mentioned: the passage does not say where the study's data came from in this way.",
+      "Correct. Income is one benefit showing trade can be positive."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the global biodiversity framework?",
+     "opts": [
+      "In its current form, it leaves most of the risks from trade unaddressed.",
+      "It has failed to reduce the illegal trade in endangered animals.",
+      "Governments have agreed to widen its trade target to 97 percent of species.",
+      "Hughes believes it should be replaced with an entirely new agreement."
+     ],
+     "a": 0,
+     "why": "If its trade target covers only 2–3 percent of traded species, most trade-related risks fall outside it.",
+     "evidence": "leaving roughly 97 percent outside its scope",
+     "optWhy": [
+      "Correct. With about 97 percent of traded species outside its scope, most risks are not covered.",
+      "Not mentioned: the paragraph says nothing about results for illegal trade.",
+      "Number misused: 97 percent is the share left OUT, not a new target.",
+      "Too strong: Hughes says the mismatch weakens the framework, not that it should be replaced."
+     ]
+    },
+    {
+     "type": "Main idea",
+     "para": 0,
+     "q": "Which of the following best expresses the main idea of the passage?",
+     "opts": [
+      "Illegal trafficking is far larger than reported, so customs checks must be made stricter.",
+      "Trade in wild species is far broader than assumed, and poor data make its sustainability impossible to judge.",
+      "Most wildlife trade is legal and sustainable, so stricter monitoring would burden small traders unfairly.",
+      "The United States has shown that monitoring over 100,000 traded species worldwide is already achievable."
+     ],
+     "a": 1,
+     "why": "The passage reports that trade covers far more species than thought and argues that, without data, no one can judge whether it is sustainable.",
+     "evidence": "",
+     "optWhy": [
+      "Wrong focus: the passage stresses legal trade, and customs checks are only one suggestion.",
+      "Correct. It combines the new scale of the trade with the data problem.",
+      "Contradicts the author: this is the opponents' view, and the passage says sustainability is untested.",
+      "Distorted: the US is the only country that shares data; global monitoring does not yet exist."
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261106-3-k1",
+     "tag": "Main idea",
+     "fact": "At least 107,356 species of plants, animals, and fungi are traded worldwide, more than double the earlier estimate of about 50,000.",
+     "q": "How many species are traded worldwide, according to the new study?",
+     "opts": [
+      "About 50,000",
+      "At least 107,356",
+      "Exactly 97,000",
+      "About 10,000"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-3-k2",
+     "tag": "Key detail",
+     "fact": "The legal wildlife trade is worth roughly ten times as much as the illegal trade.",
+     "q": "How does the value of the legal trade compare with the illegal trade?",
+     "opts": [
+      "Twice as large",
+      "About the same",
+      "Roughly ten times larger",
+      "Half as large"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261106-3-k3",
+     "tag": "Data gap",
+     "fact": "The United States is the only country that systematically records and publicly shares trade data across many species groups.",
+     "q": "Which country systematically shares wildlife trade data across many species groups?",
+     "opts": [
+      "Australia",
+      "No country",
+      "China",
+      "The United States"
+     ],
+     "a": 3
+    },
+    {
+     "id": "n20261106-3-k4",
+     "tag": "Balance",
+     "fact": "Trade is not inherently harmful: sustainable harvesting provides income and can support conservation.",
+     "q": "Why does the author say trade is not inherently harmful?",
+     "opts": [
+      "Because sustainable use can provide income and support conservation",
+      "Because illegal trade is shrinking",
+      "Because data is already complete",
+      "Because most species are common"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261106-3-k5",
+     "tag": "Policy gap",
+     "fact": "The global biodiversity framework's trade target covers only about 2–3% of traded species.",
+     "q": "What share of traded species does the framework's trade target cover?",
+     "opts": [
+      "About 97%",
+      "About 2–3%",
+      "About half",
+      "All of them"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261106-3-k6",
+     "tag": "Solution",
+     "fact": "The authors suggest a global monitoring system built on existing customs and animal health inspections.",
+     "q": "What existing processes do the authors suggest adapting for monitoring?",
+     "opts": [
+      "Zoo visitor surveys",
+      "School science projects",
+      "Customs checks and animal health inspections",
+      "Online shopping reviews"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Wildlife trade",
+    "question": "Is the trade sustainable if no one counts it?",
+    "branches": [
+     {
+      "title": "The scale",
+      "paras": "1–2",
+      "blanks": [
+       "more than 107,000 species traded",
+       "legal trade worth ten times more"
+      ],
+      "kps": [
+       "n20261106-3-k1",
+       "n20261106-3-k2"
+      ]
+     },
+     {
+      "title": "The data gap",
+      "paras": "3",
+      "blanks": [
+       "only the US shares broad data"
+      ],
+      "kps": [
+       "n20261106-3-k3"
+      ]
+     },
+     {
+      "title": "Trade can help",
+      "paras": "4",
+      "blanks": [
+       "income for rural communities"
+      ],
+      "kps": [
+       "n20261106-3-k4"
+      ]
+     },
+     {
+      "title": "Policy and fixes",
+      "paras": "5–6",
+      "blanks": [
+       "target covers only 2–3% of species",
+       "adapt customs and health checks"
+      ],
+      "kps": [
+       "n20261106-3-k5",
+       "n20261106-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "most trade involves tigers and pangolins",
+     "all wildlife trade should be banned"
+    ]
+   },
+   "summary": {
+    "intro": "A new study shows that the global trade in wild species is much larger than previously thought.",
+    "model": "At least 107,000 species are traded, mostly legally, yet data on most of them are missing. While trade can be sustainable and support livelihoods, current policy covers few species, so the authors call for global monitoring.",
+    "options": [
+     {
+      "t": "More than 107,000 wild species are traded worldwide, mostly through legal and familiar products.",
+      "ok": true,
+      "why": "The new scale of the trade (paragraphs 1–2).",
+      "type": "main",
+      "para": 1,
+      "evidence": "at least 107,356 species of plants, animals, and fungi are used and traded"
+     },
+     {
+      "t": "For most traded species there is too little data to tell whether trade is sustainable.",
+      "ok": true,
+      "why": "The central problem (paragraphs 3–4).",
+      "type": "main",
+      "para": 3,
+      "evidence": "For most traded species, there is little or no information"
+     },
+     {
+      "t": "Because current policy covers few species, the authors call for coordinated global monitoring using existing systems.",
+      "ok": true,
+      "why": "The proposed response (paragraphs 5–6).",
+      "type": "main",
+      "para": 6,
+      "evidence": "call for a coordinated global monitoring system"
+     },
+     {
+      "t": "The previous estimate of traded species was about 50,000.",
+      "ok": false,
+      "why": "True, but a minor supporting number.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "the previous estimate of about 50,000"
+     },
+     {
+      "t": "Most traded species are now protected by international trade bans.",
+      "ok": false,
+      "why": "Trade bans are never mentioned.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The study shows that the legal trade is causing most species to collapse.",
+      "ok": false,
+      "why": "The passage says the effects are unknown.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "no one can tell whether a particular orchid, reef fish, or tree is being harvested at a rate it can withstand"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Interview question: “Have you ever bought something made from a wild plant or animal, such as a houseplant, seafood, or wooden furniture? Would you be willing to pay more for a product certified as sustainably sourced? Why or why not?”",
+    "hint": "Answer the first question with a specific example → state whether you would pay more → give one reason → mention when you might not → wrap up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: More than 100,000 wild species are traded, mostly through ordinary products like seafood, timber, and houseplants. Who should be mainly responsible for making this trade sustainable: consumers or governments? (Aisha says governments, because shoppers cannot know where products come from. Tom says consumers, because their demand drives the trade and their choices can change companies.)",
+    "steps": [
+     "State your position and say whose view you build on.",
+     "Give a reason supported by the article.",
+     "Add an example from your own shopping.",
+     "Respond to the other student's view."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_isabella"
+  }
+ ],
+ "audio": {
+  "Twice a year, most Americans adjust their clocks: forward an hour in spring and back an hour in autumn. The ritual is widely unpopular, and in July 2026 the US House of Representatives passed the Sunshine Protection Act, a bill that would end the autumn change and keep the country on daylight saving time (DST) all year. The bill has since stalled in the Senate, but nineteen states have already approved measures that would take effect if it becomes law. Supporters often present the change as a simple matter of convenience. A new study from the University of Washington, published in Current Biology in late October, suggests that the choice involves a less visible trade-off, one that falls heavily on children.": "audio/2026-11-06/a1-p1.mp3",
+  "To understand this trade-off, it helps to remember what a clock change actually does. Shifting the clock does not create additional daylight; it only moves hours of light from one end of the day to the other. Under permanent DST, winter sunsets would come an hour later, giving people brighter evenings for shopping, sport, and outdoor leisure. The price would be paid in the morning. In December and January, when days are already short, sunrise in many places would arrive after 8 a.m., and in communities at the western edge of a time zone, considerably later than that.": "audio/2026-11-06/a1-p2.mp3",
+  "The researchers, led by postdoctoral scholar Guadalupe Rodríguez Ferrante and biologist Horacio de la Iglesia, set out to measure what this would mean for students. Using school start times, enrollment figures, and school locations in 14 states that have voted to adopt permanent DST if Congress allows it, they counted how many trips to school would begin before sunrise under each system. Their analysis led them to estimate that, across the United States, permanent DST would add at least 2 billion dark school commutes every year. Georgia alone would see roughly 71 million additional dark trips, while in Alabama and Mississippi the number would climb from about 2 million to more than 20 million each. Because the team assumed that students leave home at 8 a.m., which is relatively late, the authors describe their figures as conservative.": "audio/2026-11-06/a1-p3.mp3",
+  "Why does darkness matter? The first concern is safety. Examining crash records, the team found that fatal accidents involving school-age pedestrians were roughly twice as likely on dark mornings as after sunrise. The researchers are careful to note that this finding does not reveal exactly how many extra crashes permanent DST would cause, since drivers and families might adapt. The second concern is biological. Morning light is the main signal that keeps the body's internal clock, or circadian rhythm, aligned with the solar day. When that signal arrives later, the clock tends to drift later as well, which can disturb sleep, mood, and appetite. Teenagers, whose internal clocks already run late, may be especially vulnerable.": "audio/2026-11-06/a1-p4.mp3",
+  "Supporters of permanent DST respond that these costs must be weighed against real benefits. Lighter evenings may encourage children and adults to exercise outdoors after school or work, and some argue that they could reduce evening traffic accidents and certain kinds of crime, which tend to rise after dark. Others emphasize that the twice-yearly switch is itself disruptive: the spring transition, which costs people an hour of sleep, has been associated with short-term increases in accidents and health problems. From this perspective, ending the clock change is worthwhile even if winter mornings become darker.": "audio/2026-11-06/a1-p5.mp3",
+  "Critics of the bill, including many sleep scientists, agree that the switching should stop but argue that the country is choosing the wrong permanent setting. They favor permanent standard time, which keeps clocks closer to the position of the sun. One proposed compromise, delaying school start times so that students still travel in daylight, faces its own difficulty. As the University of Washington team points out, if every schedule simply moves an hour later, society has effectively returned to standard time while keeping the label of daylight saving. Later starts would also collide with parents' working hours and after-school activities.": "audio/2026-11-06/a1-p6.mp3",
+  "The debate illustrates a broader lesson about public policy: a measure that seems to offer something for nothing usually redistributes costs rather than eliminating them. Brighter evenings are visible and pleasant, while darker mornings are experienced mostly by people with little political voice, such as children waiting at bus stops. Whether permanent DST is a sensible reform may therefore depend less on the total amount of daylight, which no law can change, than on whose hours of light a society decides to protect.": "audio/2026-11-06/a1-p7.mp3",
+  "trade-off": "audio/2026-11-06/a1-w-trade-off.mp3",
+  "Choosing a cheaper phone often involves a trade-off between price and battery life.": "audio/2026-11-06/a1-ex-trade-off.mp3",
+  "conservative": "audio/2026-11-06/a1-w-conservative.mp3",
+  "Even a conservative estimate suggests the bridge will need repairs within ten years.": "audio/2026-11-06/a1-ex-conservative.mp3",
+  "vulnerable": "audio/2026-11-06/a1-w-vulnerable.mp3",
+  "Older trees are more vulnerable to strong winds than young, flexible ones.": "audio/2026-11-06/a1-ex-vulnerable.mp3",
+  "compromise": "audio/2026-11-06/a1-w-compromise.mp3",
+  "After a long debate, the club reached a compromise on when to hold meetings.": "audio/2026-11-06/a1-ex-compromise.mp3",
+  "redistribute": "audio/2026-11-06/a1-w-redistribute.mp3",
+  "The new timetable will redistribute the workload more evenly among the teachers.": "audio/2026-11-06/a1-ex-redistribute.mp3",
+  "commute": "audio/2026-11-06/a1-w-commute.mp3",
+  "Her daily commute to school takes about forty minutes by bus.": "audio/2026-11-06/a1-ex-commute.mp3",
+  "pedestrian": "audio/2026-11-06/a1-w-pedestrian.mp3",
+  "The city widened the pavement to make the crossing safer for every pedestrian.": "audio/2026-11-06/a1-ex-pedestrian.mp3",
+  "circadian rhythm": "audio/2026-11-06/a1-w-circadian-rhythm.mp3",
+  "Long flights across time zones can disrupt your circadian rhythm for several days.": "audio/2026-11-06/a1-ex-circadian-rhythm.mp3",
+  "daylight saving time": "audio/2026-11-06/a1-w-daylight-saving-time.mp3",
+  "Many countries in Asia do not use daylight saving time at all.": "audio/2026-11-06/a1-ex-daylight-saving-time.mp3",
+  "standard time": "audio/2026-11-06/a1-w-standard-time.mp3",
+  "Sleep researchers argue that standard time matches our body clocks more closely.": "audio/2026-11-06/a1-ex-standard-time.mp3",
+  "A new study from the University of Washington, published in Current Biology in late October, suggests that the choice involves a less visible trade-off, one that falls heavily on children.": "audio/2026-11-06/a1-ks1.mp3",
+  "Shifting the clock does not create additional daylight; it only moves hours of light from one end of the day to the other.": "audio/2026-11-06/a1-ks2.mp3",
+  "Because the team assumed that students leave home at 8 a.m., which is relatively late, the authors describe their figures as conservative.": "audio/2026-11-06/a1-ks3.mp3",
+  "The researchers are careful to note that this finding does not reveal exactly how many extra crashes permanent DST would cause, since drivers and families might adapt.": "audio/2026-11-06/a1-ks4.mp3",
+  "As the University of Washington team points out, if every schedule simply moves an hour later, society has effectively returned to standard time while keeping the label of daylight saving.": "audio/2026-11-06/a1-ks5.mp3",
+  "The debate illustrates a broader lesson about public policy: a measure that seems to offer something for nothing usually redistributes costs rather than eliminating them.": "audio/2026-11-06/a1-ks6.mp3",
+  "For years, students in many schools have logged into a Google Classroom account, typed a question into Google Search, and begun their homework. That routine may soon change. On November 3, 2026, Google announced that its artificial intelligence tools, including the Gemini chatbot and Gemini in Classroom, will be switched off by default for student accounts in primary and secondary schools, known in the United States as K-12. School administrators will have to turn them on explicitly. The surprise lay in what was tied to them: Google Search will also be unavailable to those accounts unless the school opts in to the AI tools. Critics quickly argued that the policy left schools with an uncomfortable choice.": "audio/2026-11-06/a2-p1.mp3",
+  "The announcement is the latest turn in a year of rapid change. In August, Google made Gemini available to many K-12 students, having previously restricted it to users aged 18 and over, and the move provoked an outcry from parents and advocacy groups. Earlier, the nonprofit Common Sense Media had rated Google's AI-powered search an \"unacceptable risk\" for young users, reporting that it readily completed homework assignments and sometimes repeated misinformation with an air of authority. Google dismissed the testing as narrow, but the criticism added pressure. In its announcement, the company presented the new defaults as a response to such concerns: school leaders, it said, should control how AI is used in their classrooms.": "audio/2026-11-06/a2-p2.mp3",
+  "Why, then, did the change provoke fresh objections? The key issue is the link between two products that schools may wish to treat separately. Many educators regard a search engine as basic infrastructure, as essential to research as a library catalogue, while they view chatbots with far more caution. Under the new arrangement, a district that wants students to keep using Google Search must also accept Google's AI tools. Lina Khan, the former chair of the US Federal Trade Commission, wrote that Google was \"using its search monopoly to coerce schools into adopting AI.\" Josh Golin of the children's advocacy group Fairplay went further, urging schools to turn off Google's AI tools and consider more privacy-protective search engines.": "audio/2026-11-06/a2-p3.mp3",
+  "Google's defenders can point to several counterarguments. First, the default is now \"off,\" which gives schools a decision they did not have when Gemini was simply switched on. Second, Google argues that its tools are designed to support learning rather than replace it. The company is adding a feature called Guided Learning, which, when it detects certain homework requests, walks students through a topic step by step instead of supplying an answer immediately. Google says its own research shows measurable learning gains, and it describes the goal as \"productive struggle\": challenge that stretches students without overwhelming them. From this perspective, combining search and AI simply reflects how information is now found online.": "audio/2026-11-06/a2-p4.mp3",
+  "Skeptics respond that research conducted by a company about its own product deserves careful scrutiny, and that the scale of Google's presence in education changes the nature of the choice. According to the company, about 150 million students and teachers worldwide use Google Classroom, and many schools depend on inexpensive Chromebook laptops built around Google's software. For such schools, abandoning Google Search is not a realistic option, so an \"opt-in\" may function, in practice, more like a requirement. Some large districts have chosen caution instead: New York City and Los Angeles have temporarily banned generative AI tools in elementary and middle schools while they develop policies.": "audio/2026-11-06/a2-p5.mp3",
+  "The deeper question concerns who should decide how young people encounter new technology. Technology companies possess the engineering expertise and can update products quickly, but their commercial interest in building habits early is obvious. Schools know their students and curricula, yet many lack the time and technical staff to evaluate complex tools. Parents, meanwhile, are often consulted last. A defensible policy would probably separate basic access to information from optional AI features, allowing each school to judge them independently. Whether Google will offer that flexibility remains unclear; the company says it will share details with schools in the coming months, before the changes take effect.": "audio/2026-11-06/a2-p6.mp3",
+  "default": "audio/2026-11-06/a2-w-default.mp3",
+  "The default on this camera is automatic mode, but you can switch to manual.": "audio/2026-11-06/a2-ex-default.mp3",
+  "explicitly": "audio/2026-11-06/a2-w-explicitly.mp3",
+  "The rules explicitly state that phones must be switched off during exams.": "audio/2026-11-06/a2-ex-explicitly.mp3",
+  "infrastructure": "audio/2026-11-06/a2-w-infrastructure.mp3",
+  "Fast internet is now seen as essential infrastructure, like roads and electricity.": "audio/2026-11-06/a2-ex-infrastructure.mp3",
+  "coerce": "audio/2026-11-06/a2-w-coerce.mp3",
+  "No one should coerce students into joining a club they are not interested in.": "audio/2026-11-06/a2-ex-coerce.mp3",
+  "scrutiny": "audio/2026-11-06/a2-w-scrutiny.mp3",
+  "The new safety claims came under close scrutiny from independent scientists.": "audio/2026-11-06/a2-ex-scrutiny.mp3",
+  "defensible": "audio/2026-11-06/a2-w-defensible.mp3",
+  "Banning all snacks may be popular, but it is hardly a defensible rule.": "audio/2026-11-06/a2-ex-defensible.mp3",
+  "monopoly": "audio/2026-11-06/a2-w-monopoly.mp3",
+  "For decades, the national company held a monopoly on train services.": "audio/2026-11-06/a2-ex-monopoly.mp3",
+  "advocacy group": "audio/2026-11-06/a2-w-advocacy-group.mp3",
+  "An advocacy group for cyclists asked the city to build more bike lanes.": "audio/2026-11-06/a2-ex-advocacy-group.mp3",
+  "opt-in": "audio/2026-11-06/a2-w-opt-in.mp3",
+  "The school's new reading club works on an opt-in basis, so no one is signed up automatically.": "audio/2026-11-06/a2-ex-opt-in.mp3",
+  "generative AI": "audio/2026-11-06/a2-w-generative-ai.mp3",
+  "Some teachers use generative AI to create practice questions for their classes.": "audio/2026-11-06/a2-ex-generative-ai.mp3",
+  "The surprise lay in what was tied to them: Google Search will also be unavailable to those accounts unless the school opts in to the AI tools.": "audio/2026-11-06/a2-ks1.mp3",
+  "In its announcement, the company presented the new defaults as a response to such concerns: school leaders, it said, should control how AI is used in their classrooms.": "audio/2026-11-06/a2-ks2.mp3",
+  "The key issue is the link between two products that schools may wish to treat separately.": "audio/2026-11-06/a2-ks3.mp3",
+  "Second, Google argues that its tools are designed to support learning rather than replace it.": "audio/2026-11-06/a2-ks4.mp3",
+  "For such schools, abandoning Google Search is not a realistic option, so an \"opt-in\" may function, in practice, more like a requirement.": "audio/2026-11-06/a2-ks5.mp3",
+  "A defensible policy would probably separate basic access to information from optional AI features, allowing each school to judge them independently.": "audio/2026-11-06/a2-ks6.mp3",
+  "When people hear the phrase \"wildlife trade,\" they tend to picture smuggled ivory, tiger parts, or pangolin scales seized at an airport. Those images are accurate but incomplete. A study published in Science Advances by researchers at the University of Melbourne has found that at least 107,356 species of plants, animals, and fungi are used and traded around the world, more than twice the previous estimate of about 50,000. The finding suggests that the commerce in living things is far broader, and far less understood, than either the public or policymakers have assumed.": "audio/2026-11-06/a3-p1.mp3",
+  "Much of this trade is both legal and familiar. It includes timber for furniture and construction, seafood, medicinal plants, cut flowers, mushrooms and other fungi, and animals and ornamental fish sold as pets. According to the study, the legal trade is worth roughly ten times as much as the illegal trade that dominates headlines. In other words, much of the pressure that trade places on wild species may come not from criminal networks but from ordinary consumer demand, satisfied through lawful supply chains that rarely attract attention.": "audio/2026-11-06/a3-p2.mp3",
+  "Arriving at the new figure required combining records from wildlife trade monitoring programs, and the process exposed how patchy those records are. The researchers note that the United States is the only country that systematically records and publicly shares trade data across a wide range of species groups. For most traded species, there is little or no information about how many individuals are taken, where they come from, or how wild populations are responding. \"For most of these species we have little to no data,\" said the lead researcher, Professor Alice Hughes. As a result, the authors warn, the true number of traded species is probably even higher than their estimate.": "audio/2026-11-06/a3-p3.mp3",
+  "This gap matters because trade is not inherently harmful. Many species can be harvested sustainably, and for millions of people, especially in rural communities, collecting and selling wild products is an important source of income. Sustainable use can even support conservation by giving local people a financial reason to protect forests and fisheries. The difficulty is that sustainability can only be demonstrated with evidence. Without population data, no one can tell whether a particular orchid, reef fish, or tree is being harvested at a rate it can withstand, or whether it is quietly being pushed toward collapse.": "audio/2026-11-06/a3-p4.mp3",
+  "Current international policy addresses only a small part of the problem. The trade target in the global biodiversity framework, the agreement under which governments have pledged to halt the loss of nature, covers only about 2 to 3 percent of the species now known to be traded, leaving roughly 97 percent outside its scope. Hughes argues that this mismatch weakens efforts to protect nature and could undermine the framework's goals. \"Without better data, we cannot accurately assess risks to biodiversity,\" she said.": "audio/2026-11-06/a3-p5.mp3",
+  "The authors therefore call for a coordinated global monitoring system with standardized data collection, so that information gathered in different countries can be compared. Rather than building an entirely new bureaucracy, they suggest adapting processes that already exist, such as customs checks and the inspections that animals and animal products undergo to prevent the spread of disease. Opponents of stronger regulation might respond that additional reporting would burden small traders and poorer exporting countries, and that tracking more than 100,000 species is unrealistic. Supporters reply that the costs of ignorance are higher: a species that disappears cannot be restored by later paperwork.": "audio/2026-11-06/a3-p6.mp3",
+  "The study ultimately reframes a familiar issue. Protecting wildlife is often presented as a contest between conservationists and poachers, but the larger challenge may be making everyday trade visible. Consumers who buy a houseplant, a fish fillet, or a wooden table rarely consider which species they are using or where it came from. Until governments can answer those questions systematically, the claim that the world's wildlife trade is sustainable will remain, at best, an untested assumption.": "audio/2026-11-06/a3-p7.mp3",
+  "estimate": "audio/2026-11-06/a3-w-estimate.mp3",
+  "The builder's first estimate for the repairs was much lower than the final bill.": "audio/2026-11-06/a3-ex-estimate.mp3",
+  "sustainable": "audio/2026-11-06/a3-w-sustainable.mp3",
+  "Fishing is only sustainable if fish populations can recover each year.": "audio/2026-11-06/a3-ex-sustainable.mp3",
+  "undermine": "audio/2026-11-06/a3-w-undermine.mp3",
+  "Constant rumours can undermine trust between team members.": "audio/2026-11-06/a3-ex-undermine.mp3",
+  "standardized": "audio/2026-11-06/a3-w-standardized.mp3",
+  "Every student in the country takes the same standardized test at the end of the year.": "audio/2026-11-06/a3-ex-standardized.mp3",
+  "scope": "audio/2026-11-06/a3-w-scope.mp3",
+  "The scope of the project grew when the city added three new parks.": "audio/2026-11-06/a3-ex-scope.mp3",
+  "biodiversity": "audio/2026-11-06/a3-w-biodiversity.mp3",
+  "Coral reefs support an amazing level of biodiversity in a small area.": "audio/2026-11-06/a3-ex-biodiversity.mp3",
+  "supply chain": "audio/2026-11-06/a3-w-supply-chain.mp3",
+  "A storm in one country can disrupt the supply chain for phones worldwide.": "audio/2026-11-06/a3-ex-supply-chain.mp3",
+  "customs": "audio/2026-11-06/a3-w-customs.mp3",
+  "Our bags were opened at customs when we arrived at the airport.": "audio/2026-11-06/a3-ex-customs.mp3",
+  "monitoring": "audio/2026-11-06/a3-w-monitoring.mp3",
+  "Air quality monitoring showed that pollution was highest in the early morning.": "audio/2026-11-06/a3-ex-monitoring.mp3",
+  "poacher": "audio/2026-11-06/a3-w-poacher.mp3",
+  "The rangers caught a poacher setting traps inside the national park.": "audio/2026-11-06/a3-ex-poacher.mp3",
+  "The finding suggests that the commerce in living things is far broader, and far less understood, than either the public or policymakers have assumed.": "audio/2026-11-06/a3-ks1.mp3",
+  "According to the study, the legal trade is worth roughly ten times as much as the illegal trade that dominates headlines.": "audio/2026-11-06/a3-ks2.mp3",
+  "For most traded species, there is little or no information about how many individuals are taken, where they come from, or how wild populations are responding.": "audio/2026-11-06/a3-ks3.mp3",
+  "The difficulty is that sustainability can only be demonstrated with evidence.": "audio/2026-11-06/a3-ks4.mp3",
+  "Supporters reply that the costs of ignorance are higher: a species that disappears cannot be restored by later paperwork.": "audio/2026-11-06/a3-ks5.mp3",
+  "Until governments can answer those questions systematically, the claim that the world's wildlife trade is sustainable will remain, at best, an untested assumption.": "audio/2026-11-06/a3-ks6.mp3"
+ }
+}
