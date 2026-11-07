@@ -33,6 +33,30 @@
    ],
    "words": [
     {
+     "w": "plunge",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/plʌndʒ/",
+     "syl": [
+      "plunge"
+     ],
+     "ex": "Ticket sales tend to plunge whenever the weather turns cold and rainy.",
+     "def": "to fall suddenly and by a large amount"
+    },
+    {
+     "w": "amplify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈæmplɪfaɪ/",
+     "syl": [
+      "am",
+      "pli",
+      "fy"
+     ],
+     "ex": "Social media can amplify a small rumour until it becomes national news.",
+     "def": "to make something stronger or more intense"
+    },
+    {
      "w": "infrastructure",
      "level": "Academic",
      "pos": "n.",
@@ -500,7 +524,7 @@
     ],
     "minWords": 120
    },
-   "voice": "bm_george"
+   "voice": "af_bella"
   },
   {
    "id": "n20261107-2",
@@ -528,6 +552,18 @@
     "Bruce Neal, a senior researcher at The George Institute, has argued that the approach offers greater potential at much lower cost than many drug-based treatments. Whether that potential is realised will depend less on laboratory science than on politics, economics and public trust. The humble salt shaker, it turns out, is a surprisingly good place to begin a debate about how societies balance collective health against individual freedom."
    ],
    "words": [
+    {
+     "w": "endorse",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈdɔːrs/",
+     "syl": [
+      "en",
+      "dorse"
+     ],
+     "ex": "Several medical associations now endorse regular screening for people over fifty.",
+     "def": "to publicly approve of or support something"
+    },
     {
      "w": "outsized",
      "level": "Academic",
@@ -1043,6 +1079,21 @@
    ],
    "words": [
     {
+     "w": "underestimate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌʌndərˈestɪmeɪt/",
+     "syl": [
+      "un",
+      "der",
+      "es",
+      "ti",
+      "mate"
+     ],
+     "ex": "Many students underestimate how long it takes to write a good essay.",
+     "def": "to think that something is smaller, less important or less difficult than it really is"
+    },
+    {
      "w": "physiological",
      "level": "Academic",
      "pos": "adj.",
@@ -1512,7 +1563,7 @@
     ],
     "minWords": 120
    },
-   "voice": "af_heart"
+   "voice": "am_fenrir"
   }
  ],
  "audio": {
@@ -1523,6 +1574,10 @@
   "Not everyone interprets the sell-off as a turning point. Many analysts argue that long-term demand for chips and computing power remains intact, and that the political shock will produce, at most, a temporary slowdown rather than a reversal. From this perspective, Thursday's panic was an overreaction, amplified by the fact that AI stocks had risen so far, so fast. Other factors also played a role: the chipmaker Qualcomm reported disappointing smartphone-chip sales the same day, and its shares fell 9.5 percent. Ipek Ozkardeskaya, a senior analyst at Swissquote Bank, described the moves as a rotation, with money shifting from technology to other sectors and from US markets to non-US ones, rather than a collapse.": "audio/2026-11-07/a1-p5.mp3",
   "Skeptics, however, see deeper cracks. Even before the election, investors were questioning whether the enormous spending on AI would ever generate sufficient returns, especially at a time of high interest rates. Goldman Sachs has estimated that AI-related capital spending could total around $7.6 trillion between 2026 and 2031, across chips, data centres and power supply. Such sums rest on the assumption that projects can be built quickly and relatively cheaply. If regulation lengthens approval times or forces companies to pay more of their own energy costs, the business case for some projects may weaken considerably.": "audio/2026-11-07/a1-p6.mp3",
   "The episode illustrates a broader lesson about markets. Share prices are not only a measure of present profits; they are a forecast of future ones, and forecasts depend on assumptions that may be political as well as technical. For years, the AI trade rested on the belief that the main limit on growth was engineering capacity. Thursday suggested that public consent may be an equally important constraint. Whether the sell-off proves to be a brief stumble or the beginning of a more cautious era, it has made one point clear: even the most advanced technologies must ultimately be built in real places, with the permission of the people who live there.": "audio/2026-11-07/a1-p7.mp3",
+  "plunge": "audio/2026-11-07/a1-w-plunge.mp3",
+  "Ticket sales tend to plunge whenever the weather turns cold and rainy.": "audio/2026-11-07/a1-ex-plunge.mp3",
+  "amplify": "audio/2026-11-07/a1-w-amplify.mp3",
+  "Social media can amplify a small rumour until it becomes national news.": "audio/2026-11-07/a1-ex-amplify.mp3",
   "infrastructure": "audio/2026-11-07/a1-w-infrastructure.mp3",
   "Rural areas often lack the digital infrastructure needed for online learning.": "audio/2026-11-07/a1-ex-infrastructure.mp3",
   "constraint": "audio/2026-11-07/a1-w-constraint.mp3",
@@ -1553,6 +1608,8 @@
   "Safety is another concern. For most people, extra potassium is harmless or even beneficial, but in patients with advanced kidney disease, the body may struggle to remove it, leading to a dangerous condition called hyperkalaemia. The study concluded that even in this group the benefits outweighed the risks, but the researchers stress that people with serious kidney problems, or those taking medicines that raise potassium levels, need precautions such as clear product labelling, patient education and medical supervision.": "audio/2026-11-07/a2-p6.mp3",
   "These caveats raise a broader policy question. Should governments simply encourage people to choose the healthier salt, or should they require manufacturers to use it? Supporters of stronger action argue that individual choice has limited power when most salt is hidden in packaged foods, and that a change built into the food supply would protect people without asking them to do anything. Critics worry about the cost to industry, the risks to a vulnerable minority, and the principle of governments altering what people eat without their explicit consent.": "audio/2026-11-07/a2-p7.mp3",
   "Bruce Neal, a senior researcher at The George Institute, has argued that the approach offers greater potential at much lower cost than many drug-based treatments. Whether that potential is realised will depend less on laboratory science than on politics, economics and public trust. The humble salt shaker, it turns out, is a surprisingly good place to begin a debate about how societies balance collective health against individual freedom.": "audio/2026-11-07/a2-p8.mp3",
+  "endorse": "audio/2026-11-07/a2-w-endorse.mp3",
+  "Several medical associations now endorse regular screening for people over fifty.": "audio/2026-11-07/a2-ex-endorse.mp3",
   "outsized": "audio/2026-11-07/a2-w-outsized.mp3",
   "A single viral video can have an outsized influence on what teenagers buy.": "audio/2026-11-07/a2-ex-outsized.mp3",
   "adoption": "audio/2026-11-07/a2-w-adoption.mp3",
@@ -1585,6 +1642,8 @@
   "The researchers argue that conservation policy should treat soundscapes, the total acoustic environment of a place, as seriously as physical habitats. Kunc has called for low-noise zones that would give animals a genuine acoustic refuge. Such ideas are not without precedent: some ports have asked ships to slow down in areas used by whales, partly to reduce underwater noise, and some cities have laid quieter road surfaces. Supporters point out that many of these measures also benefit people, since long-term exposure to noise has been linked to stress and heart disease in humans.": "audio/2026-11-07/a3-p6.mp3",
   "Others urge caution in interpreting the findings. Many of the studies included were carried out under experimental conditions, which may not perfectly reflect how animals respond in the wild, where they can sometimes move away or gradually adjust. Moreover, strictly protecting quiet areas could limit development in regions that genuinely need new roads or energy supplies. Balancing these interests will require careful, case-by-case decisions rather than blanket rules.": "audio/2026-11-07/a3-p7.mp3",
   "Still, the study shifts the burden of proof. It is no longer reasonable to assume that noise is merely an annoyance for wildlife. As human activity spreads into even the most remote landscapes, the question is not whether we are changing the sound of the planet, but whether we are willing to listen to what that change is costing.": "audio/2026-11-07/a3-p8.mp3",
+  "underestimate": "audio/2026-11-07/a3-w-underestimate.mp3",
+  "Many students underestimate how long it takes to write a good essay.": "audio/2026-11-07/a3-ex-underestimate.mp3",
   "physiological": "audio/2026-11-07/a3-w-physiological.mp3",
   "Stress causes clear physiological changes, such as a faster heartbeat.": "audio/2026-11-07/a3-ex-physiological.mp3",
   "vigilant": "audio/2026-11-07/a3-w-vigilant.mp3",

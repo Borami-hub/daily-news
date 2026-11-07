@@ -49,11 +49,11 @@ ARTICLE:
 | field | content |
 |---|---|
 | `id` | `n<YYYYMMDD>-<1..3>` |
-| `topic` | one of Space, Environment, Health, Technology, Science, Society, Culture, Economy, Nature, Animals, Geography |
+| `topic` | one of Space, Environment, Health, Technology, Science, Society, Culture, Economy, Nature, Animals, Geography. |
 | `title`, `dek` | the PDF title; a one-sentence standfirst that frames the critical-thinking angle |
 | `sources` | `[{ "name": "Outlet, date", "url": "https://…" }]` |
 | `paras` | array of paragraph strings = the PDF passage (600–800 words) |
-| `words` | 8–10 items `{ w, level: "Academic"|"Topic term", pos, ipa, syl: [syllables], def, ex }`. About half academic (AWL / C1 words useful across topics), half topic terms. `w` must appear in the passage (plural OK); `ex` is a NEW example sentence (not from the passage) that contains `w` exactly. English definitions only. |
+| `words` | 8–10 items `{ w, level: "Academic"|"Topic term", pos, ipa, syl: [syllables], def, ex }`. About half academic (AWL / C1 words useful across topics), half topic terms. Choose the most useful words for the student. `w` is the dictionary (base) form; the passage may use any form of it (plural, -s, -ed, -ing, etc.), e.g. `plunge` for "plunged". `ex` is a NEW example sentence (not from the passage) that contains `w` exactly. English definitions only. |
 | `keySentences` | 4–6 items `{ para, text, kind, note }`, one per main paragraph. `text` copied verbatim from that paragraph. `kind`: Main idea / Topic sentence / Cause → effect / Critical thinking / Author's view / Hedging / Key details / Interpretation. `note`: 1–2 sentences on why it matters for TOEFL reading. |
 | `questions` | the 6 PDF questions: `{ type, para (0 = whole passage), q, opts[4], a (0–3), why, evidence, optWhy[4], highlight? }`. For sentence-simplification questions add `highlight` = the tested sentence, verbatim. `evidence` = verbatim phrase from that paragraph (empty only if para = 0). `optWhy[i]` explains each option: for the answer start with "Correct."; for distractors name the trap (not mentioned / detail swapped / cause reversed / too extreme / true but not the question / another meaning of the word). Keep the PDF's quality rules: no option can be ruled in or out without reading. Balance answer letters across the day's 18 questions. |
 | `kps` | 4–6 key points `{ id: "<article id>-k<n>", tag, fact, q, opts, a }`. `fact` = one sentence to remember; `q`/`opts`/`a` = a short question that tests it (2–4 options). Used in the daily review. |
@@ -63,3 +63,5 @@ ARTICLE:
 | `write` | `{ p, steps: [4 short planning steps], minWords: 120 }` — can mirror the PDF's academic discussion task |
 
 The audio map (`"audio": { text: path }`) is added by `gen_audio.py`; do not write it by hand.
+
+Voices (teacher's rule): words and their example sentences always use `af_heart`, the top-rated US voice. Article reading rotates through the higher-rated voices in `POOL` (gen_audio.py). Never use `af_nicole` or `am_puck`.

@@ -6,24 +6,28 @@ Needs:  pip install --break-system-packages kokoro-onnx soundfile ; ffmpeg on PA
 Model files are downloaded once into ./tts-model/ from the kokoro-onnx GitHub release.
 Output: audio/<date>/a{n}-p{i}.mp3 (paragraphs), a{n}-w-*.mp3 / a{n}-ex-*.mp3 (words, examples),
         a{n}-ks{i}.mp3 (key sentences); the day file gets an "audio" map {text: path}.
-        Each article's paragraphs and key sentences are read by a rotating narrator (see POOL); words
+        Each article's paragraphs and key sentences are read by a rotating higher-rated narrator (see POOL); words
         and example sentences always use WORD_VOICE; delete audio/<date>/ to regenerate.
 """
 import json, os, re, subprocess, sys, urllib.request
 
 MODEL_DIR = "tts-model"
-# Narration uses only the two top-rated voices, alternating between them across the day's articles and shifting with the date.
-# voice, and the starting voice moves on every day. The pool alternates female/male and US/UK accents
-# (TOEFL listening uses several accents too). Best-sounding Kokoro voices only.
-POOL = ["af_heart", "af_bella"]  # only the two top-rated Kokoro voices (grades A and A-)
+# Narration (article paragraphs and key sentences) rotates through the higher-rated Kokoro voices only
+# (Kokoro VOICES.md grades: af_heart A, af_bella A-, bf_emma B-, am_michael / am_fenrir / af_sarah C+).
+# The pool mixes female/male and US/UK; the day's three articles never share a narrator, and the
+# starting point moves on every day so students hear different voices.
+# The teacher asked never to use af_nicole or am_puck again (Nov 6 feedback), and not the lower-graded ones.
+POOL = ["af_heart", "am_michael", "af_bella", "bf_emma", "am_fenrir", "af_sarah"]
+BANNED = {"af_nicole", "am_puck"}
 
-# Words and their example sentences always use one very clear US voice, so pronunciation is consistent.
+# Words and their example sentences always use the top-rated, very clear US voice (af_heart, grade A).
 WORD_VOICE = "af_heart"
 
-def voice_for(date, article_no):
+def voice_for(date, topic, used):
     import datetime
     day_no = datetime.date.fromisoformat(date).toordinal()
-    return POOL[(day_no * 3 + article_no - 1) % len(POOL)]
+    order = [POOL[(day_no * 2 + i) % len(POOL)] for i in range(len(POOL))]
+    return next(v for v in order if v not in used and v not in BANNED)
 REL = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/"
 
 def fetch(name):
@@ -41,7 +45,7 @@ def main(day_path):
     date = day["date"]; out = f"audio/{date}"; os.makedirs(out, exist_ok=True)
     amap = {}
 
-    voice = POOL[0]
+    voice = WORD_VOICE; used = set()
     def gen(text, name, speed=0.95, v=None):
         v = v or voice
         path = f"{out}/{name}.mp3"
@@ -53,8 +57,8 @@ def main(day_path):
         amap[text] = path
 
     for ai, a in enumerate(day["articles"], 1):
-        voice = voice_for(date, ai); a["voice"] = voice
-        print(f"article {ai}: {voice}")
+        voice = voice_for(date, a.get("topic", ""), used); used.add(voice); a["voice"] = voice
+        print(f"article {ai} ({a.get('topic')}): {voice}")
         for pi, p in enumerate(a["paras"], 1): gen(p, f"a{ai}-p{pi}")
         for w in a["words"]:
             slug = re.sub(r"[^a-z]+", "-", w["w"].lower()).strip("-")

@@ -22,8 +22,14 @@ const letters = { 0: 0, 1: 0, 2: 0, 3: 0 };
   a.words.forEach(w => {
     ['w', 'level', 'pos', 'ipa', 'syl', 'def', 'ex'].forEach(k => need(w[k], `${tag}: word ${w.w} missing ${k}`));
     need(['Academic', 'Topic term'].includes(w.level), `${tag}: word ${w.w} level must be Academic or Topic term`);
-    const re = new RegExp('\\b' + w.w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(s|es)?\\b', 'i');
-    need(re.test(text), `${tag}: word "${w.w}" does not appear in the article`);
+    // w may be the base form of a word in the passage: plural, -s, -ed, -ing, -er, -est, -ly forms all count
+    const esc = x => x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const base = w.w.toLowerCase(), stems = [base];
+    if (/e$/.test(base)) stems.push(base.slice(0, -1));                        // plunge → plung(ed/ing)
+    if (/[^aeiou]y$/.test(base)) stems.push(base.slice(0, -1) + 'i');          // amplify → amplifi(ed/es)
+    if (/[^aeiou][aeiou][^aeiouwxy]$/.test(base)) stems.push(base + base.slice(-1)); // stop → stopp(ed/ing)
+    const re = new RegExp('\\b(' + stems.map(esc).join('|') + ')(s|es|d|ed|ing|er|ers|est|ly|ies)?\\b', 'i');
+    need(re.test(text), `${tag}: word "${w.w}" (or a form of it) does not appear in the article`);
     need(new RegExp('\\b' + w.w + '\\b', 'i').test(w.ex), `${tag}: example for "${w.w}" must contain the exact word`);
     need(!/[一-鿿]/.test(JSON.stringify(w)), `${tag}: word ${w.w} contains Chinese (app is English-only)`);
   });
