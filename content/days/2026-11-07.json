@@ -1,0 +1,1623 @@
+{
+ "date": "2026-11-07",
+ "headline": "Chatbots with rules, a world beyond Pluto, and reefs on the edge",
+ "teaser": "Can a law teach chatbots manners? What counts as a planet? And how do we save corals when money is short?",
+ "articles": [
+  {
+   "id": "n20261107-1",
+   "topic": "Technology",
+   "title": "Teaching Chatbots Manners: New York's Law on AI Companions and Minors",
+   "dek": "New York says a chatbot that acts like a friend must follow rules when its user is a child; critics ask who can tell where friendliness ends and manipulation begins.",
+   "sources": [
+    {
+     "name": "AP via AJC, Oct 28, 2026",
+     "url": "https://www.ajc.com/news/2026/10/new-york-enacts-ban-on-unsafe-chatbot-behavior-with-kids-as-states-push-ai-regulation-boundaries"
+    },
+    {
+     "name": "The Star (AP), Oct 29, 2026",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/29/new-york-enacts-ban-on-039unsafe039-chatbot-behaviour-with-kids-as-states-push-ai-regulation-boundaries"
+    }
+   ],
+   "paras": [
+    "For most of computing history, software has been a tool: it did what it was told and nothing more. Companion chatbots are different. They are built to hold open-ended conversations, to remember a user's preferences, and to adopt a persona that feels like a friend, a confidant, or even a partner. On October 28, New York joined the states that treat that design choice as a matter of child safety. Governor Kathy Hochul signed legislation regulating how companion chatbots may behave when they are talking to anyone under the age of eighteen, a move that revives an old question in a new form: when a product is designed to feel like a relationship, what duties does its maker owe to the people who form one?",
+    "The law does not ban young people from using such programs. Instead, it defines a dozen “unsafe AI companion features” and prohibits them in conversations with minors. According to the reporting, the banned behavior includes presenting the chatbot as a real person with emotions, opinions, or a genuine relationship with the child; using flattery; producing sexually explicit material; and encouraging secrecy or unhealthy habits. Enforcement falls to the state attorney general, who may sue developers that break the rules. The remedies on offer go beyond fines: a court could order monetary damages, the shutdown of a chatbot, or the destruction of data. The measure takes effect on January 1.",
+    "Supporters argue that these features are not accidental side effects but commercial strategies. A system that flatters its user, never tires, and insists that it truly cares can make a lonely teenager feel understood, and that feeling encourages longer and more frequent use. Jim Steyer of the advocacy group Common Sense Media called the bill the strongest children's AI safety measure in the country. Their reasoning rests on an asymmetry: a company can tune a chatbot's personality using enormous amounts of data, whereas a fourteen-year-old is still learning to tell a persuasive voice from a trustworthy one. Seen this way, a legal limit is less a restriction on speech than a safety standard, comparable to rules governing toys or medicines.",
+    "Critics do not necessarily dispute the goal, but they question the drafting. Justine Gluck of the Future of Privacy Forum observed that several categories in the law are broadly worded or left undefined, and she asked where “ordinary conversational responsiveness” ends and prohibited behavior begins. The concern is practical. A chatbot that says “I'm glad you told me” might be offering harmless politeness or might be simulating an emotional bond, and developers cannot easily know which reading a court will adopt. Vague standards can push cautious companies toward over-correction, producing cold, evasive programs that fail the very students who might benefit from a patient tutor or a supportive study partner.",
+    "The New York law arrives amid a wider wave of state action. In September, California's governor signed laws requiring chatbot developers to assess risks to children, to document how they reduced those risks, and to submit to independent audits; a separate California law bars social media platforms from using addictive features for users under sixteen. Earlier in October, eight states sued OpenAI, alleging that its chatbot harmed children and deceived adults in violation of consumer protection laws, an action one activist called the most significant coordinated state effort ever taken against an AI company. Meanwhile, Congress has done little to regulate the technology, and President Donald Trump has dismissed concerns about it and warned states against regulating AI. The result is a patchwork, and Gluck suggested that the New York and California approaches could serve as models when other legislatures reconvene next year.",
+    "The debate therefore turns on a series of trade-offs rather than a simple contest between safety and progress. Is it better to prohibit specific behaviors, as New York has done, or to require risk assessments and audits, as California has? Should rules be written state by state, which allows experimentation but burdens companies, or set nationally, which is more consistent but may not arrive soon? And how much should a law assume about what a young person can distinguish for themselves? Whatever the answers, the underlying question will outlive this particular statute: when a machine is designed to sound like it cares, who is responsible for the consequences of that impression?"
+   ],
+   "words": [
+    {
+     "w": "companion",
+     "level": "Topic term",
+     "pos": "noun / adj",
+     "ipa": "/kəmˈpænjən/",
+     "syl": [
+      "com",
+      "pan",
+      "ion"
+     ],
+     "def": "a person or program that provides company and conversation",
+     "ex": "She used a language-learning app as a study companion during exams."
+    },
+    {
+     "w": "persona",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/pərˈsoʊnə/",
+     "syl": [
+      "per",
+      "so",
+      "na"
+     ],
+     "def": "a character or personality that someone or something presents to others",
+     "ex": "The actor adopted a calm persona on stage, though he was nervous."
+    },
+    {
+     "w": "prohibit",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/prəˈhɪbɪt/",
+     "syl": [
+      "pro",
+      "hib",
+      "it"
+     ],
+     "def": "to forbid something by law or rule",
+     "ex": "School rules prohibit students from using phones during exams."
+    },
+    {
+     "w": "flattery",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈflætəri/",
+     "syl": [
+      "flat",
+      "ter",
+      "y"
+     ],
+     "def": "excessive praise given to win someone's favour",
+     "ex": "His flattery made her suspicious rather than pleased."
+    },
+    {
+     "w": "enforcement",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ɪnˈfɔːrsmənt/",
+     "syl": [
+      "en",
+      "force",
+      "ment"
+     ],
+     "def": "the act of making sure that a law or rule is obeyed",
+     "ex": "Strict enforcement of the speed limit reduced accidents near the school."
+    },
+    {
+     "w": "remedies",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈremədiz/",
+     "syl": [
+      "rem",
+      "e",
+      "dies"
+     ],
+     "def": "actions or penalties that put right a wrong",
+     "ex": "The court offered several remedies, including compensation and a public apology."
+    },
+    {
+     "w": "asymmetry",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/eɪˈsɪmətri/",
+     "syl": [
+      "a",
+      "sym",
+      "me",
+      "try"
+     ],
+     "def": "a lack of balance between two sides, especially in power or information",
+     "ex": "There is an asymmetry of information between a doctor and a patient."
+    },
+    {
+     "w": "drafting",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈdræftɪŋ/",
+     "syl": [
+      "draft",
+      "ing"
+     ],
+     "def": "the process of writing the first version of a law or document",
+     "ex": "Lawyers spent months on the drafting of the new contract."
+    },
+    {
+     "w": "patchwork",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpætʃwɜːrk/",
+     "syl": [
+      "patch",
+      "work"
+     ],
+     "def": "something made of many different parts that do not fit together neatly",
+     "ex": "The country has a patchwork of local rules about fishing."
+    },
+    {
+     "w": "audit",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈɔːdɪt/",
+     "syl": [
+      "au",
+      "dit"
+     ],
+     "def": "an official, independent inspection of records or systems",
+     "ex": "An independent audit found that the school's safety records were incomplete."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Governor Kathy Hochul signed legislation regulating how companion chatbots may behave when they are talking to anyone under the age of eighteen",
+     "kind": "Main idea",
+     "note": "This is the news event the whole passage builds on: a law about behavior toward minors, not a ban on use."
+    },
+    {
+     "para": 2,
+     "text": "Enforcement falls to the state attorney general, who may sue developers that break the rules.",
+     "kind": "Key details",
+     "note": "Questions often ask who does what. Note who enforces the law and what the consequences can be."
+    },
+    {
+     "para": 3,
+     "text": "Seen this way, a legal limit is less a restriction on speech than a safety standard, comparable to rules governing toys or medicines.",
+     "kind": "Interpretation",
+     "note": "A typical sentence-simplification target: it contains a comparison and a reframing of the issue."
+    },
+    {
+     "para": 4,
+     "text": "Vague standards can push cautious companies toward over-correction, producing cold, evasive programs that fail the very students who might benefit from a patient tutor or a supportive study partner.",
+     "kind": "Cause → effect",
+     "note": "A chain of cause and effect that is easy to reverse in a wrong answer choice."
+    },
+    {
+     "para": 5,
+     "text": "Meanwhile, Congress has done little to regulate the technology",
+     "kind": "Key details",
+     "note": "Useful for NOT/EXCEPT questions: federal action has not happened, unlike the state actions listed beside it."
+    },
+    {
+     "para": 6,
+     "text": "when a machine is designed to sound like it cares, who is responsible for the consequences of that impression?",
+     "kind": "Critical thinking",
+     "note": "The author closes with an open question, a common way to signal the passage's larger theme."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word “remedies” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "cures for an illness",
+      "consequences that a court can order",
+      "proposals for improving a product",
+      "defenses available to a company"
+     ],
+     "a": 1,
+     "why": "In context, “remedies” are the court-ordered outcomes listed after the colon: damages, shutdown, and destruction of data.",
+     "evidence": "The remedies on offer go beyond fines",
+     "optWhy": [
+      "Another meaning of the word. A “remedy” can be a cure, but here it refers to what a court can order.",
+      "Correct. The colon lists monetary damages, a shutdown, and data destruction, which are outcomes a court can order.",
+      "Not mentioned. The paragraph never discusses suggestions for improving chatbots.",
+      "Detail swapped. The remedies are used against developers; they are not a defense that developers can rely on."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following is true of the New York law?",
+     "opts": [
+      "It lets the attorney general bring lawsuits that could end with a chatbot being shut down.",
+      "It forbids minors from using companion chatbots unless a parent gives permission.",
+      "It requires developers to hire independent auditors to examine how chatbots treat children.",
+      "It allows families harmed by a chatbot to claim damages directly from the developer."
+     ],
+     "a": 0,
+     "why": "Paragraph 2 says the attorney general may sue developers and that a court could order a chatbot's shutdown.",
+     "evidence": "who may sue developers that break the rules",
+     "optWhy": [
+      "Correct. The attorney general may sue developers, and one possible remedy is a shutdown.",
+      "Contradicts the passage. The law does not ban young people from using such programs.",
+      "From another paragraph. Independent audits are a California requirement described in paragraph 5.",
+      "Detail swapped. Enforcement is given to the attorney general, not to families."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following have happened EXCEPT",
+     "opts": [
+      "A group of states went to court against an AI company over harm to children.",
+      "California introduced a requirement for outside review of chatbot developers.",
+      "California limited addictive features on social media for younger users.",
+      "Congress passed national rules governing how chatbots treat minors."
+     ],
+     "a": 3,
+     "why": "Paragraph 5 says Congress has done little to regulate the technology, so no national rules have been passed.",
+     "evidence": "Congress has done little to regulate the technology",
+     "optWhy": [
+      "True but not asked. Eight states sued OpenAI.",
+      "True but not asked. California required independent audits.",
+      "True but not asked. A California law bars addictive features for users under sixteen.",
+      "Correct (the EXCEPT answer). The paragraph says Congress has done little, so this has not happened."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "Which of the following can be inferred from paragraph 4 about the law's broadly worded categories?",
+     "opts": [
+      "Courts have already ruled that friendly chatbot replies break the law.",
+      "Critics believe that protecting children from chatbots is not a worthwhile goal.",
+      "Developers may make their chatbots less warm than necessary in order to stay safe.",
+      "The attorney general is likely to ignore conversations that are open to interpretation."
+     ],
+     "a": 2,
+     "why": "Vague standards push cautious companies toward over-correction, meaning colder programs than the law may require.",
+     "evidence": "Vague standards can push cautious companies toward over-correction",
+     "optWhy": [
+      "Not mentioned. The passage only says developers cannot know which reading a court will adopt.",
+      "Contradicts the passage. Critics “do not necessarily dispute the goal.”",
+      "Correct. Over-correction by cautious companies means colder, more evasive programs.",
+      "Not mentioned. Nothing is said about how the attorney general will treat unclear cases."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention a chatbot saying “I'm glad you told me” in paragraph 4?",
+     "opts": [
+      "To give an example of flattery that the law specifically bans",
+      "To show that identical words could be read as harmless or as prohibited",
+      "To argue that warm responses are always harmful to young users",
+      "To demonstrate that developers can easily predict how a court will judge a reply"
+     ],
+     "a": 1,
+     "why": "The example shows one sentence that might be politeness or an emotional trick, so the line is hard to draw.",
+     "evidence": "might be offering harmless politeness or might be simulating an emotional bond",
+     "optWhy": [
+      "Detail swapped. Flattery is listed in paragraph 2, but this phrase is not presented as flattery.",
+      "Correct. The same words could be harmless politeness or a simulated emotional bond.",
+      "Too extreme. The author says the phrase might be harmless, not that warmth is always harmful.",
+      "Contradicts the passage. The author says developers cannot easily know which reading a court will adopt."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 3? Incorrect answer choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "In the supporters' view, the rule resembles product-safety regulation more than it resembles a curb on expression.",
+      "Rules for toys and medicines show that chatbots should be regulated by the same agencies.",
+      "A legal limit on speech is acceptable only when it resembles the safety rules for toys or medicines.",
+      "Because chatbot rules restrict speech, they should be as strict as the rules governing toys or medicines."
+     ],
+     "a": 0,
+     "why": "The sentence reframes the law as a safety standard rather than mainly a restriction on speech.",
+     "evidence": "a legal limit is less a restriction on speech than a safety standard",
+     "optWhy": [
+      "Correct. It keeps the reframing: safety standard rather than mainly a curb on expression.",
+      "Detail swapped. The comparison is about the type of rule, not about which agency regulates it.",
+      "Half right. It mentions speech and safety rules but turns the comparison into a condition for acceptable laws.",
+      "Cause reversed. The sentence says the rule is not mainly a restriction on speech, so strictness is not the point."
+     ],
+     "highlight": "Seen this way, a legal limit is less a restriction on speech than a safety standard, comparable to rules governing toys or medicines."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261107-1-k1",
+     "tag": "The law",
+     "fact": "New York's law bans about a dozen “unsafe” companion-chatbot features in conversations with minors, and the state attorney general enforces it.",
+     "q": "Who enforces New York's chatbot law?",
+     "opts": [
+      "The state attorney general",
+      "Individual parents",
+      "The chatbot developers themselves"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-1-k2",
+     "tag": "Supporters",
+     "fact": "Supporters see features such as flattery as commercial strategies and call a legal limit a safety standard.",
+     "q": "Why do supporters compare the law to rules for toys and medicines?",
+     "opts": [
+      "It is a safety standard, not mainly a limit on speech",
+      "Chatbots are physical products",
+      "Toys and medicines also use AI"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-1-k3",
+     "tag": "Critics",
+     "fact": "Critics say vague wording could push companies into over-correction.",
+     "q": "What risk do critics see in vague wording?",
+     "opts": [
+      "Companies may over-correct and build cold, evasive chatbots",
+      "Companies will ignore the law completely",
+      "Chatbots will become more flattering"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-1-k4",
+     "tag": "Patchwork",
+     "fact": "States act separately: California requires risk assessments and independent audits, eight states sued OpenAI, and Congress has done little.",
+     "q": "What does California require of chatbot developers?",
+     "opts": [
+      "Assess risks, document fixes and accept independent audits",
+      "Close any chatbot after one complaint",
+      "Hand all user data to the federal government"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-1-k5",
+     "tag": "Trade-offs",
+     "fact": "Rules can be state by state, which allows experiments, or national, which is more consistent.",
+     "q": "Which advantage of national rules does the passage mention?",
+     "opts": [
+      "They are more consistent",
+      "They allow more experimentation",
+      "They can be passed faster"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Chatbots and minors",
+    "question": "Who should set the rules for AI companions?",
+    "branches": [
+     {
+      "title": "What the law does",
+      "paras": "1–2",
+      "blanks": [
+       "bans a dozen unsafe features",
+       "attorney general enforces it"
+      ],
+      "kps": [
+       "n20261107-1-k1"
+      ]
+     },
+     {
+      "title": "The case for it",
+      "paras": "3",
+      "blanks": [
+       "flattery drives longer use",
+       "a safety standard, not censorship"
+      ],
+      "kps": [
+       "n20261107-1-k2"
+      ]
+     },
+     {
+      "title": "The case against",
+      "paras": "4",
+      "blanks": [
+       "vague, undefined categories",
+       "risk of cold, evasive chatbots"
+      ],
+      "kps": [
+       "n20261107-1-k3"
+      ]
+     },
+     {
+      "title": "A state patchwork",
+      "paras": "5–6",
+      "blanks": [
+       "California requires independent audits",
+       "Congress has done little"
+      ],
+      "kps": [
+       "n20261107-1-k4",
+       "n20261107-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "A court struck the law down in December",
+     "The law bans every minor from chatbots"
+    ]
+   },
+   "summary": {
+    "intro": "New York has limited how companion chatbots may behave with minors.",
+    "model": "Although New York's new law limits how companion chatbots may treat minors, critics warn that its vague wording could discourage useful tools. The debate also shows states acting alone because Congress has done little.",
+    "options": [
+     {
+      "t": "New York has barred companion chatbots from a set of unsafe behaviors with minors, and the attorney general can sue developers who break the rules.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "who may sue developers that break the rules",
+      "why": "Paragraph 2 describes the law and its enforcement."
+     },
+     {
+      "t": "Supporters call the law a safety standard against manipulative design, while critics fear that vague wording will cause over-correction.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Vague standards can push cautious companies toward over-correction",
+      "why": "Paragraphs 3–4 set out the two sides of the debate."
+     },
+     {
+      "t": "The law is one part of a patchwork of state action, because Congress has done little to regulate the technology.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Congress has done little to regulate the technology",
+      "why": "Paragraph 5 places the law among other state actions."
+     },
+     {
+      "t": "A chatbot saying “I'm glad you told me” might be harmless politeness or an emotional trick.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "might be offering harmless politeness or might be simulating an emotional bond",
+      "why": "A supporting example, not a main idea."
+     },
+     {
+      "t": "Chatbot developers have agreed to verify the age of every user.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "The passage never mentions age verification or an agreement by developers."
+     },
+     {
+      "t": "California has banned companion chatbots for everyone under eighteen.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "requiring chatbot developers to assess risks to children",
+      "why": "California requires risk assessments and audits; it did not ban chatbots."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people say AI chatbots should be restricted for teenagers by law, while others say families should decide. Which view do you support, and why? Give reasons and an example.",
+    "hint": "State your view, give two reasons, and answer one objection.",
+    "sec": 60
+   },
+   "write": {
+    "p": "Should governments set legal limits on how AI chatbots may talk to teenagers? Write a response to the discussion board. Support your position with reasons and respond to at least one classmate's idea.",
+    "steps": [
+     "Choose your position in one sentence.",
+     "Give two reasons, with one example.",
+     "Answer one classmate's point.",
+     "Finish with a clear conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261107-2",
+   "topic": "Space",
+   "title": "Beyond Pluto: How a Distant Object Is Testing the Meaning of “Planet”",
+   "dek": "A large object hidden in a crowded patch of sky may become the sixth dwarf planet, but first astronomers must settle what the rules actually demand.",
+   "sources": [
+    {
+     "name": "Ubergizmo, Nov 2026",
+     "url": "https://www.ubergizmo.com/2026/11/new-icy-world-discovered-beyond-pluto-could-become-solar-systems-sixth-dwarf-planet/"
+    },
+    {
+     "name": "KTVU, Oct 2026",
+     "url": "https://www.ktvu.com/news/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto"
+    }
+   ],
+   "paras": [
+    "In October, astrophysicist Matthew Holman noticed something unusual in data from the Vera C. Rubin Observatory in Chile. An object now catalogued as 2026 ED138 was far brighter than a body at its distance should be. Its orbit carries it roughly 46 astronomical units from the Sun, well beyond Pluto's average of about 40. Estimates of its diameter range from 600 to 1,500 kilometres, and Mario Jurić, who leads the observatory's solar system work, puts it at about 1,000 kilometres, comparable to Ceres, the smallest of the five bodies currently recognised as dwarf planets. If its nature is confirmed, it could become the sixth, and it is already described as the largest trans-Neptunian discovery in roughly two decades.",
+    "Why was such a large object missed for so long? The answer is partly geometry. From Earth, its orbit lies close to the plane of the Milky Way, where the sky is crowded with stars. A faint, slowly moving dot is easy to lose against that dense background. Rubin's digital camera, the largest ever built for astronomy, scans the southern sky every few nights, which supplies the repeated images needed to separate a moving object from the fixed stars behind it. The object appeared in thirty images across twenty nights between March and July, and archived data allowed astronomers to trace its orbit back to 2016. That long record strengthens confidence that it is a genuine member of the outer solar system rather than a measurement error.",
+    "Discovery, however, is not the same as classification. In 2006 the International Astronomical Union defined a dwarf planet as a body that orbits the Sun, is not a moon, has not cleared its orbital neighbourhood of other objects, and has enough mass for its own gravity to pull it into a nearly round shape. The first three conditions are comparatively straightforward to judge. The last is not. Determining an object's mass, density, and precise shape requires further observations, particularly in infrared light, which can reveal how much heat a body emits and therefore help separate a large, dark object from a smaller, shiny one. Until then, 2026 ED138 remains a candidate, and formal recognition by the International Astronomical Union may take considerable time.",
+    "The case illustrates why the definition itself provokes argument. Supporters of the 2006 criteria say that a clear rule prevents the planet list from growing without limit: if every round object counted, the solar system might contain dozens of planets or more, and the word would lose its usefulness. Critics reply that the “cleared its neighbourhood” test is subjective and depends on an object's location, since a body the size of Earth placed far out in the Kuiper Belt might fail it. They prefer definitions based on an object's intrinsic properties, such as whether it is massive enough to be round. The same new object can therefore be described in two ways without either being factually wrong: as a dwarf planet under the current rule, or as evidence that the rule needs updating.",
+    "There is also the question of what such discoveries are worth. Large telescopes and long surveys are expensive, and skeptics sometimes ask whether adding another icy body to a catalogue changes anything that matters. Astronomers generally respond that objects in the outer solar system are leftovers from the era when planets formed, so their orbits and sizes act as evidence about that history. A large body whose orbit has remained stable for years is a data point that models of the early solar system must explain. In addition, a survey that finds one such object will find others, and a statistically meaningful sample is far more informative than a handful of isolated cases. The value of the Rubin Observatory, in other words, lies not only in headline discoveries but in the volume of systematic data it produces.",
+    "Jurić has called the finding “a rare astronomical event,” and it is easy to see why the label attracts attention. Yet the more instructive lesson may concern scientific method. A candidate is announced, evidence is gathered, a definition is applied, and the conclusion remains open to revision. Whether 2026 ED138 becomes the sixth dwarf planet or prompts a new debate about the definition, the episode shows that science does not simply collect facts about the solar system; it continually decides what those facts should be called, and why."
+   ],
+   "words": [
+    {
+     "w": "astronomical unit",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌæstrəˈnɑːmɪkəl ˈjuːnɪt/",
+     "syl": [
+      "as",
+      "tro",
+      "nom",
+      "i",
+      "cal",
+      "u",
+      "nit"
+     ],
+     "def": "the average distance from Earth to the Sun, about 150 million kilometres",
+     "ex": "One astronomical unit is the average distance between Earth and the Sun."
+    },
+    {
+     "w": "infrared",
+     "level": "Topic term",
+     "pos": "noun / adj",
+     "ipa": "/ˌɪnfrəˈred/",
+     "syl": [
+      "in",
+      "fra",
+      "red"
+     ],
+     "def": "light with a longer wavelength than visible red light, often detected as heat",
+     "ex": "The telescope uses infrared light to measure how warm a distant object is."
+    },
+    {
+     "w": "neighbourhood",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈneɪbərhʊd/",
+     "syl": [
+      "neigh",
+      "bour",
+      "hood"
+     ],
+     "def": "the region or area immediately around something",
+     "ex": "A large planet clears its orbital neighbourhood of smaller debris."
+    },
+    {
+     "w": "candidate",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈkændɪdeɪt/",
+     "syl": [
+      "can",
+      "di",
+      "date"
+     ],
+     "def": "something or someone being considered for a particular status",
+     "ex": "The new species is a candidate for the endangered list."
+    },
+    {
+     "w": "classification",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌklæsɪfɪˈkeɪʃən/",
+     "syl": [
+      "clas",
+      "si",
+      "fi",
+      "ca",
+      "tion"
+     ],
+     "def": "the act of sorting things into groups according to shared features",
+     "ex": "The classification of animals into groups helps scientists compare them."
+    },
+    {
+     "w": "criteria",
+     "level": "Academic",
+     "pos": "noun (plural)",
+     "ipa": "/kraɪˈtɪriə/",
+     "syl": [
+      "cri",
+      "te",
+      "ri",
+      "a"
+     ],
+     "def": "standards used to judge or decide something",
+     "ex": "The prize committee applied three clear criteria to every entry."
+    },
+    {
+     "w": "subjective",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/səbˈdʒektɪv/",
+     "syl": [
+      "sub",
+      "jec",
+      "tive"
+     ],
+     "def": "based on personal opinion rather than measurable facts",
+     "ex": "Judging which song is best is subjective, because tastes differ."
+    },
+    {
+     "w": "intrinsic",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/ɪnˈtrɪnzɪk/",
+     "syl": [
+      "in",
+      "trin",
+      "sic"
+     ],
+     "def": "belonging naturally to something as part of its character",
+     "ex": "The intrinsic value of a friendship cannot be measured in money."
+    },
+    {
+     "w": "systematic",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/ˌsɪstəˈmætɪk/",
+     "syl": [
+      "sys",
+      "tem",
+      "at",
+      "ic"
+     ],
+     "def": "done according to a fixed, organised plan",
+     "ex": "A systematic search of the archive turned up three missing letters."
+    },
+    {
+     "w": "trace",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/treɪs/",
+     "syl": [
+      "trace"
+     ],
+     "def": "to follow the origin or development of something back in time",
+     "ex": "Historians trace the tradition back to the twelfth century."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Its orbit carries it roughly 46 astronomical units from the Sun, well beyond Pluto's average of about 40.",
+     "kind": "Key details",
+     "note": "Numbers and comparisons are common targets. Here the comparison is with Pluto's average distance."
+    },
+    {
+     "para": 2,
+     "text": "A faint, slowly moving dot is easy to lose against that dense background.",
+     "kind": "Cause → effect",
+     "note": "The reason the object was missed: its faintness plus a crowded star field."
+    },
+    {
+     "para": 3,
+     "text": "Discovery, however, is not the same as classification.",
+     "kind": "Topic sentence",
+     "note": "This sentence turns the passage from the find itself to the question of what to call it."
+    },
+    {
+     "para": 4,
+     "text": "The same new object can therefore be described in two ways without either being factually wrong: as a dwarf planet under the current rule, or as evidence that the rule needs updating.",
+     "kind": "Interpretation",
+     "note": "A dense sentence with two parallel descriptions, a good candidate for sentence simplification."
+    },
+    {
+     "para": 5,
+     "text": "In addition, a survey that finds one such object will find others, and a statistically meaningful sample is far more informative than a handful of isolated cases.",
+     "kind": "Author's view",
+     "note": "Shows the author's reasoning about why surveys matter beyond single discoveries."
+    },
+    {
+     "para": 6,
+     "text": "science does not simply collect facts about the solar system; it continually decides what those facts should be called, and why.",
+     "kind": "Main idea",
+     "note": "The closing thought, which links the news story to how science works."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word “intrinsic” in paragraph 4 is closest in meaning to",
+     "opts": [
+      "measurable by instruments",
+      "agreed on by experts",
+      "built into the object itself",
+      "visible from Earth"
+     ],
+     "a": 2,
+     "why": "“Intrinsic properties” are qualities that belong to the object itself, as opposed to its location.",
+     "evidence": "definitions based on an object's intrinsic properties",
+     "optWhy": [
+      "Related meaning, not the same. Properties may be measurable, but “intrinsic” means belonging to the object itself.",
+      "Not mentioned. Nothing in the paragraph concerns agreement among experts.",
+      "Correct. Contrasted with location, intrinsic properties belong to the object itself.",
+      "Related meaning, not the same. Visibility depends on observation, not on what the object is."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why did astronomers fail to notice the object earlier?",
+     "opts": [
+      "Its surface reflects too little sunlight for most telescopes to see.",
+      "Its orbit changes so unpredictably that early observations could not be matched.",
+      "It can be seen only from the northern sky, where fewer surveys operate.",
+      "Its position against a dense field of stars made a faint, moving dot hard to pick out."
+     ],
+     "a": 3,
+     "why": "The orbit lies near the plane of the Milky Way, where the crowded star field hides a faint moving dot.",
+     "evidence": "where the sky is crowded with stars",
+     "optWhy": [
+      "From another paragraph. Paragraph 1 says the object is brighter than expected for its distance.",
+      "Cause reversed. Archived data allowed astronomers to trace the orbit back to 2016, so it is not unpredictable.",
+      "Not mentioned. The passage says Rubin scans the southern sky.",
+      "Correct. The crowded background of stars made a faint moving dot hard to isolate."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, which of the following is NOT part of the International Astronomical Union's 2006 definition of a dwarf planet?",
+     "opts": [
+      "It travels around the Sun.",
+      "It has already cleared other objects from its orbital neighbourhood.",
+      "It is not a moon of another body.",
+      "It has enough mass to be pulled into a nearly round shape."
+     ],
+     "a": 1,
+     "why": "The definition requires that the body has NOT cleared its orbital neighbourhood.",
+     "evidence": "has not cleared its orbital neighbourhood of other objects",
+     "optWhy": [
+      "True but not asked. A dwarf planet orbits the Sun.",
+      "Correct (the EXCEPT answer). The definition says the body has not cleared its neighbourhood.",
+      "True but not asked. A dwarf planet is not a moon.",
+      "True but not asked. Enough mass for a nearly round shape is the fourth condition."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the Rubin Observatory's value?",
+     "opts": [
+      "Its contribution may lie more in the volume of systematic data than in any single discovery.",
+      "It was built mainly to search for a ninth planet.",
+      "Its findings have already proved that models of the early solar system are wrong.",
+      "It is less useful than cheaper telescopes because it finds few objects."
+     ],
+     "a": 0,
+     "why": "The final sentence says the value lies in the volume of systematic data as well as in headline discoveries.",
+     "evidence": "a statistically meaningful sample is far more informative than a handful of isolated cases",
+     "optWhy": [
+      "Correct. A large systematic sample is described as more informative than isolated cases.",
+      "Not mentioned. The passage never says what the observatory was built for.",
+      "Too extreme. The passage says models “must explain” the data, not that they have been disproved.",
+      "Contradicts the passage. The survey is said to find one object and then others."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention a body “the size of Earth” placed far out in the Kuiper Belt?",
+     "opts": [
+      "To show that Earth itself would not count as a planet under the current rule",
+      "To argue that the Kuiper Belt probably contains planet-sized objects",
+      "To explain why 2026 ED138 should be reclassified as a planet",
+      "To illustrate why critics say the neighbourhood test depends on where an object happens to be"
+     ],
+     "a": 3,
+     "why": "The example supports the critics' claim that the neighbourhood test depends on location.",
+     "evidence": "a body the size of Earth placed far out in the Kuiper Belt might fail it",
+     "optWhy": [
+      "Too extreme. The example is hypothetical and concerns an Earth-sized body in a different place.",
+      "Not mentioned. The author does not say such objects exist there.",
+      "Not mentioned. The passage never claims ED138 should become a planet.",
+      "Correct. The same body might fail the test in the Kuiper Belt, so the test depends on location."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect answer choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The object is a dwarf planet according to the facts, although some argue the rule is wrong.",
+      "Since two descriptions are possible, at least one of them must contain a factual error.",
+      "Scientists can describe the object under the current criteria or as grounds for revising them, and neither description is factually mistaken.",
+      "The rule will need updating only if the object turns out to be a dwarf planet."
+     ],
+     "a": 2,
+     "why": "The sentence says two descriptions are possible and neither is factually wrong.",
+     "evidence": "without either being factually wrong",
+     "optWhy": [
+      "Half right. It states as fact that the object is a dwarf planet, but the passage says that is not yet confirmed.",
+      "Cause reversed. The sentence says neither description is wrong.",
+      "Correct. It keeps both descriptions and the point that neither is mistaken.",
+      "Detail swapped. The passage does not make updating the rule conditional on the object being a dwarf planet."
+     ],
+     "highlight": "The same new object can therefore be described in two ways without either being factually wrong: as a dwarf planet under the current rule, or as evidence that the rule needs updating."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261107-2-k1",
+     "tag": "Discovery",
+     "fact": "2026 ED138 orbits about 46 astronomical units from the Sun and is estimated at 600 to 1,500 km across.",
+     "q": "About how far from the Sun is 2026 ED138?",
+     "opts": [
+      "About 46 astronomical units",
+      "About 4.6 astronomical units",
+      "About 460 astronomical units"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-2-k2",
+     "tag": "Why missed",
+     "fact": "Its orbit lies near the plane of the Milky Way, a crowded star field, so a faint moving dot was hard to pick out.",
+     "q": "Why was the object hard to spot?",
+     "opts": [
+      "It sits against a dense background of stars",
+      "It reflects almost no sunlight",
+      "It appears only once a century"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-2-k3",
+     "tag": "Definition",
+     "fact": "A dwarf planet orbits the Sun, is not a moon, has not cleared its neighbourhood, and is nearly round.",
+     "q": "Which condition is hardest to check for 2026 ED138?",
+     "opts": [
+      "Whether its gravity has made it nearly round",
+      "Whether it orbits the Sun",
+      "Whether it is a moon"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-2-k4",
+     "tag": "The debate",
+     "fact": "Critics say the neighbourhood test depends on location and prefer definitions based on intrinsic properties.",
+     "q": "What kind of definition do critics prefer?",
+     "opts": [
+      "One based on an object's intrinsic properties",
+      "One based on distance from the Sun",
+      "One with no firm rules at all"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-2-k5",
+     "tag": "Value",
+     "fact": "A survey that finds one object will find others, and a large sample says more than isolated cases.",
+     "q": "Why is a large sample of objects valuable?",
+     "opts": [
+      "It is more informative than a few isolated cases",
+      "It always costs less",
+      "It removes the need for definitions"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Beyond Pluto",
+    "question": "Is it a planet, or must the rule change?",
+    "branches": [
+     {
+      "title": "The discovery",
+      "paras": "1–2",
+      "blanks": [
+       "found in Rubin Observatory data",
+       "hidden against crowded stars"
+      ],
+      "kps": [
+       "n20261107-2-k1",
+       "n20261107-2-k2"
+      ]
+     },
+     {
+      "title": "Classification",
+      "paras": "3",
+      "blanks": [
+       "IAU 2006 definition applies",
+       "infrared follow-up still needed"
+      ],
+      "kps": [
+       "n20261107-2-k3"
+      ]
+     },
+     {
+      "title": "The dispute",
+      "paras": "4",
+      "blanks": [
+       "neighbourhood test depends on location",
+       "supporters want one clear limit"
+      ],
+      "kps": [
+       "n20261107-2-k4"
+      ]
+     },
+     {
+      "title": "Why it matters",
+      "paras": "5–6",
+      "blanks": [
+       "clues to early solar system",
+       "large samples beat isolated cases"
+      ],
+      "kps": [
+       "n20261107-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Astronauts landed on it in 2026",
+     "Its round shape is already confirmed"
+    ]
+   },
+   "summary": {
+    "intro": "A large new object beyond Pluto reopens a debate about what a dwarf planet is.",
+    "model": "Although astronomers have found a large object beyond Pluto, they cannot call it a dwarf planet until its mass and shape are measured. Meanwhile, the discovery revives a debate over whether the current definition depends too much on location.",
+    "options": [
+     {
+      "t": "Astronomers using the Rubin Observatory found 2026 ED138, a large body beyond Pluto that stayed hidden in a crowded star field.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "where the sky is crowded with stars",
+      "why": "Paragraphs 1–2 describe the find and why it was missed."
+     },
+     {
+      "t": "Whether it is a dwarf planet cannot be settled until its mass, density, and shape are measured.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "requires further observations",
+      "why": "Paragraph 3 explains why classification must wait."
+     },
+     {
+      "t": "The case revives a dispute over the 2006 definition, which critics say depends on an object's location.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "depends on an object's location",
+      "why": "Paragraph 4 sets out the two sides."
+     },
+     {
+      "t": "The object appeared in thirty images across twenty nights.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "thirty images across twenty nights",
+      "why": "A supporting detail, not a main idea."
+     },
+     {
+      "t": "Space agencies plan to send a probe to 2026 ED138 next year.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "The passage never mentions a probe."
+     },
+     {
+      "t": "Astronomers have confirmed that the object is nearly round.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "requires further observations",
+      "why": "Paragraph 3 says its shape still needs further observations."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think governments should fund the study of distant space objects like 2026 ED138; others think that money should be spent on problems on Earth. Which do you agree with, and why?",
+    "hint": "Choose a side, give two reasons, and concede one point to the other side.",
+    "sec": 60
+   },
+   "write": {
+    "p": "Should scientists change an established definition, such as the definition of “planet”, when new discoveries challenge it, or keep it stable? Write a response to the discussion board and engage with at least one classmate's idea.",
+    "steps": [
+     "State whether definitions should change.",
+     "Give one reason with a real example.",
+     "Answer a classmate's point.",
+     "Close with a clear conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261107-3",
+   "topic": "Nature",
+   "title": "Reefs at the Tipping Point: What a New Extinction-Risk Assessment Reveals About Corals",
+   "dek": "Nearly half of the world's reef-building coral species are now threatened, and experts differ on whether cutting emissions or protecting reefs locally should come first.",
+   "sources": [
+    {
+     "name": "University of Miami, Nov 4, 2026",
+     "url": "https://news.miami.edu/as/stories/2026/11/nearly-half-of-the-worlds-coral-species-now-face-extinction-risk.html"
+    },
+    {
+     "name": "Asharq Al-Awsat (related ecosystem assessment), Nov 5, 2026",
+     "url": "https://english.aawsat.com/varieties/5338026-study-almost-all-coral-reef-ecosystems-face-risk-collapse-50-years"
+    }
+   ],
+   "paras": [
+    "Coral reefs cover a tiny fraction of the ocean floor, yet they shelter a disproportionate share of marine life, protect coastlines from storms, and support fisheries and tourism for millions of people. A study published in Nature and summarised in early November by the University of Miami now suggests that the animals that build these ecosystems are in worse shape than previously thought. Researchers reassessed 892 reef-building coral species that the International Union for Conservation of Nature, or IUCN, had evaluated in 2008. Enough data existed to reassess 774 of them, and 340, about 44 percent, now fall into one of the Red List's threatened categories.",
+    "The breakdown shows how serious the situation has become. Thirty-three species are listed as critically endangered, 251 as endangered, and 56 as vulnerable. The pattern differs by region: roughly half of the assessed Atlantic species are threatened, compared with about 43 percent in the Indo-Pacific. To reach these conclusions, the team did not simply count surviving corals. They combined historical changes in coral cover, projections of severe bleaching events, and each species' biological traits, which influence how well it tolerates stress. Climate-related thermal stress emerged as the main factor behind the elevated extinction risk for most threatened species, and projected heat stress as the main driver of expected population decline.",
+    "Understanding why heat is so damaging requires a brief look at coral biology. Reef-building corals live in partnership with microscopic algae that live inside their tissues and supply much of their energy. When water temperatures stay unusually high, this partnership breaks down and the coral expels its algae, a process known as bleaching. A bleached coral is not immediately dead, but it is starved and vulnerable, and if the heat persists it may not recover. Marine heatwaves, which are prolonged periods of unusually warm seawater, therefore pose a different kind of threat from a gradual rise in average temperature: they can push a reef past its tolerance in a single season.",
+    "The timing of the assessment adds a further concern. The analysis was completed before the 2023–2025 global coral bleaching event, so the true share of threatened species today is probably higher than 44 percent. Juan Pablo Quimbayo, a biologist at the University of Miami, described the results as “a serious deterioration in the conservation status of corals” and warned that “the window for protecting these essential marine ecosystems is narrowing.” He also noted that the current super El Niño, a natural climate pattern that temporarily warms the Pacific, could worsen the risk. That matters because natural variability and human-driven warming can reinforce each other: an El Niño that a reef might once have survived becomes more dangerous when the baseline temperature of the ocean is already higher.",
+    "Scientists and policymakers disagree, at least in emphasis, about what should be done. One view holds that the only durable solution is to slow ocean warming and reduce the frequency and severity of marine heatwaves, which means cutting greenhouse gas emissions on a global scale. From this perspective, local measures, such as marine protected areas or restoration projects that grow coral fragments in nurseries, buy time but cannot compensate for continuing heat. The researchers themselves say that conservation will depend on limiting warming and that protecting reefs also requires addressing broader environmental challenges. A second perspective stresses that emissions cuts are slow and uncertain and that reefs cannot wait: protecting corals that show greater heat tolerance, reducing pollution and overfishing, and supporting restoration might give reefs the best chance of surviving long enough for climate policy to take effect.",
+    "These positions are less opposed than they first appear, but they compete for limited money and attention, and that is where the real trade-offs arise. Should scarce funding go to the most threatened species, or to the reef areas that seem most likely to survive? Should coastal communities that depend on reefs carry conservation costs when the main cause of warming lies far away? The assessment cannot answer such questions. What it does provide is a measurement: close to half of the world's reef-building coral species face an elevated risk of extinction, and the true proportion is probably still rising."
+   ],
+   "words": [
+    {
+     "w": "disproportionate",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/ˌdɪsprəˈpɔːrʃənət/",
+     "syl": [
+      "dis",
+      "pro",
+      "por",
+      "tion",
+      "ate"
+     ],
+     "def": "too large or too small in comparison with something else",
+     "ex": "Small farms bear a disproportionate share of the flood damage."
+    },
+    {
+     "w": "elevated",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/ˈelɪveɪtɪd/",
+     "syl": [
+      "el",
+      "e",
+      "vat",
+      "ed"
+     ],
+     "def": "higher than normal",
+     "ex": "Elevated stress levels can make it harder to concentrate."
+    },
+    {
+     "w": "baseline",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈbeɪslaɪn/",
+     "syl": [
+      "base",
+      "line"
+     ],
+     "def": "a starting level used for comparison",
+     "ex": "Scientists compared the new data with the baseline from ten years ago."
+    },
+    {
+     "w": "durable",
+     "level": "Academic",
+     "pos": "adj",
+     "ipa": "/ˈdʊrəbəl/",
+     "syl": [
+      "du",
+      "ra",
+      "ble"
+     ],
+     "def": "lasting a long time without breaking down",
+     "ex": "A durable agreement needs support from both sides."
+    },
+    {
+     "w": "reinforce",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌriːɪnˈfɔːrs/",
+     "syl": [
+      "re",
+      "in",
+      "force"
+     ],
+     "def": "to make something stronger",
+     "ex": "Good examples reinforce an argument in an essay."
+    },
+    {
+     "w": "tolerance",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈtɑːlərəns/",
+     "syl": [
+      "tol",
+      "er",
+      "ance"
+     ],
+     "def": "the ability to endure something difficult or unpleasant",
+     "ex": "Some plants have a high tolerance for dry conditions."
+    },
+    {
+     "w": "thermal",
+     "level": "Topic term",
+     "pos": "adj",
+     "ipa": "/ˈθɜːrməl/",
+     "syl": [
+      "ther",
+      "mal"
+     ],
+     "def": "relating to heat",
+     "ex": "The thermal camera showed which parts of the building lose heat."
+    },
+    {
+     "w": "bleaching",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbliːtʃɪŋ/",
+     "syl": [
+      "bleach",
+      "ing"
+     ],
+     "def": "the loss of colour in coral when it expels its algae",
+     "ex": "Severe bleaching turned large parts of the reef white."
+    },
+    {
+     "w": "marine heatwave",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/məˈriːn ˈhiːtweɪv/",
+     "syl": [
+      "ma",
+      "rine",
+      "heat",
+      "wave"
+     ],
+     "def": "a long period of unusually warm sea temperatures",
+     "ex": "A marine heatwave can harm fish as well as coral."
+    },
+    {
+     "w": "restoration",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌrestəˈreɪʃən/",
+     "syl": [
+      "res",
+      "to",
+      "ra",
+      "tion"
+     ],
+     "def": "the work of returning something to its earlier, healthy condition",
+     "ex": "River restoration brought fish back to the town."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Enough data existed to reassess 774 of them, and 340, about 44 percent, now fall into one of the Red List's threatened categories.",
+     "kind": "Key details",
+     "note": "The central statistic of the whole passage. Know which numbers belong together."
+    },
+    {
+     "para": 2,
+     "text": "Climate-related thermal stress emerged as the main factor behind the elevated extinction risk for most threatened species, and projected heat stress as the main driver of expected population decline.",
+     "kind": "Cause → effect",
+     "note": "The main cause is stated here, which makes it a likely target for a cause-reversal wrong answer."
+    },
+    {
+     "para": 3,
+     "text": "Marine heatwaves, which are prolonged periods of unusually warm seawater, therefore pose a different kind of threat from a gradual rise in average temperature",
+     "kind": "Interpretation",
+     "note": "The author distinguishes sudden heat spikes from slow warming. Watch for contrasts like this."
+    },
+    {
+     "para": 4,
+     "text": "The analysis was completed before the 2023–2025 global coral bleaching event, so the true share of threatened species today is probably higher than 44 percent.",
+     "kind": "Hedging",
+     "note": "Note “probably”: the author hedges, so a correct inference should not sound certain."
+    },
+    {
+     "para": 5,
+     "text": "From this perspective, local measures, such as marine protected areas or restoration projects that grow coral fragments in nurseries, buy time but cannot compensate for continuing heat.",
+     "kind": "Interpretation",
+     "note": "One side of the debate. A good question stem may ask you to restate it in simpler words."
+    },
+    {
+     "para": 6,
+     "text": "These positions are less opposed than they first appear, but they compete for limited money and attention, and that is where the real trade-offs arise.",
+     "kind": "Main idea",
+     "note": "The author's own summary of the debate, which frames the closing questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word “elevated” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "physically raised",
+      "officially approved",
+      "suddenly triggered",
+      "higher than normal"
+     ],
+     "a": 3,
+     "why": "“Elevated extinction risk” means a risk that is higher than normal.",
+     "evidence": "the elevated extinction risk for most threatened species",
+     "optWhy": [
+      "Another meaning of the word. “Elevated” can describe something lifted up, but a risk is not physically lifted.",
+      "Not mentioned. Approval plays no role in the sentence.",
+      "Related meaning, not the same. The risk is described as high, not as something that was triggered.",
+      "Correct. An elevated risk is one that is higher than normal."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what happens to a coral during bleaching?",
+     "opts": [
+      "It dies immediately because of the heat.",
+      "Its algae multiply and block the light it needs.",
+      "It expels the algae that provide much of its energy, leaving it weakened.",
+      "It absorbs extra heat and grows faster for a short time."
+     ],
+     "a": 2,
+     "why": "Paragraph 3 says the coral expels its algae, which supply much of its energy, so it is starved and vulnerable.",
+     "evidence": "the coral expels its algae",
+     "optWhy": [
+      "Contradicts the passage. A bleached coral is “not immediately dead.”",
+      "Cause reversed. The coral expels its algae; the algae do not overgrow it.",
+      "Correct. The coral loses the algae that supply much of its energy and becomes vulnerable.",
+      "Not mentioned. The passage never says that corals grow faster during heat."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 2,
+     "q": "According to paragraph 2, researchers used all of the following to reach their conclusions EXCEPT",
+     "opts": [
+      "measurements of pollution in the water around each reef",
+      "historical changes in coral cover",
+      "projected severe bleaching events",
+      "the biological traits of each species"
+     ],
+     "a": 0,
+     "why": "Paragraph 2 lists coral cover, bleaching projections, and biological traits, but not pollution measurements.",
+     "evidence": "historical changes in coral cover, projections of severe bleaching events, and each species' biological traits",
+     "optWhy": [
+      "Correct (the EXCEPT answer). Pollution measurements are not among the sources listed.",
+      "True but not asked. Historical changes in coral cover are listed.",
+      "True but not asked. Projections of severe bleaching events are listed.",
+      "True but not asked. Each species' biological traits are listed."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the figure of 44 percent?",
+     "opts": [
+      "It is probably too high because it relied on projections rather than observations.",
+      "It may understate the current situation because later events were not included.",
+      "It applies only to species that were affected by the 2023–2025 bleaching event.",
+      "It shows that the conservation status of corals has improved since 2008."
+     ],
+     "a": 1,
+     "why": "The analysis was completed before the 2023–2025 bleaching event, so the true share today is probably higher.",
+     "evidence": "so the true share of threatened species today is probably higher than 44 percent",
+     "optWhy": [
+      "Cause reversed. The paragraph says the real share is probably higher, not lower.",
+      "Correct. Because the analysis predates the bleaching event, the figure may understate the situation.",
+      "Detail swapped. The study was completed before that event, so it cannot apply only to species affected by it.",
+      "Contradicts the passage. The results are described as a serious deterioration."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention the current super El Niño in paragraph 4?",
+     "opts": [
+      "To suggest that a natural climate pattern can add to the danger created by long-term warming",
+      "To argue that El Niño rather than human activity is the main cause of reef decline",
+      "To explain why some coral species were left out of the assessment",
+      "To show that reefs will recover once the event has ended"
+     ],
+     "a": 0,
+     "why": "The author says natural variability and human-driven warming can reinforce each other.",
+     "evidence": "could worsen the risk",
+     "optWhy": [
+      "Correct. The El Niño could worsen the risk and, with human-driven warming, can reinforce it.",
+      "Too extreme. The passage names thermal stress as the main factor and says the two kinds of warming reinforce each other.",
+      "Detail swapped. Species were left out because data were insufficient, as paragraph 1 states.",
+      "Not mentioned. The passage does not claim reefs will recover afterwards."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect answer choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Local measures are worth adopting only after ocean heat has stopped rising.",
+      "In this view, local protection and restoration can delay losses but cannot make up for heat that keeps persisting.",
+      "Restoration projects are the better choice because they work more quickly than marine protected areas.",
+      "Since heat continues, local measures such as nurseries are a waste of resources."
+     ],
+     "a": 1,
+     "why": "The sentence says local measures buy time but cannot offset continuing heat.",
+     "evidence": "buy time but cannot compensate for continuing heat",
+     "optWhy": [
+      "Half right. It mentions heat, but turns “cannot compensate” into a condition for when to act.",
+      "Correct. It keeps both ideas: local measures delay losses, but continuing heat is not offset.",
+      "Not mentioned. The sentence does not compare restoration with protected areas.",
+      "Too extreme. The sentence says the measures “buy time,” so it does not call them wasteful."
+     ],
+     "highlight": "From this perspective, local measures, such as marine protected areas or restoration projects that grow coral fragments in nurseries, buy time but cannot compensate for continuing heat."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261107-3-k1",
+     "tag": "Findings",
+     "fact": "Of 774 reassessed reef-building coral species, 340 (about 44 percent) are threatened.",
+     "q": "About what share of the assessed coral species is threatened?",
+     "opts": [
+      "About 44 percent",
+      "About 4 percent",
+      "About 94 percent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-3-k2",
+     "tag": "Regions",
+     "fact": "About half of assessed Atlantic species are threatened, against about 43 percent in the Indo-Pacific.",
+     "q": "Which region has the higher share of threatened species?",
+     "opts": [
+      "The Atlantic",
+      "The Indo-Pacific",
+      "They are exactly equal"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-3-k3",
+     "tag": "Bleaching",
+     "fact": "Heat makes corals expel the algae that supply much of their energy, which is called bleaching.",
+     "q": "What does a coral lose during bleaching?",
+     "opts": [
+      "The algae that supply much of its energy",
+      "Its stony skeleton",
+      "The water around it"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-3-k4",
+     "tag": "Underestimate",
+     "fact": "The assessment predates the 2023–2025 bleaching event, so the true share is probably higher than 44 percent.",
+     "q": "Why is 44 percent probably an underestimate?",
+     "opts": [
+      "The analysis was completed before the 2023–2025 bleaching event",
+      "Researchers ignored thermal stress",
+      "It counts only one ocean"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261107-3-k5",
+     "tag": "Responses",
+     "fact": "One view stresses slowing ocean warming; another stresses local protection and restoration, and the two compete for money.",
+     "q": "What do the researchers say conservation will depend on?",
+     "opts": [
+      "Limiting warming and addressing broader challenges",
+      "Ending all fishing worldwide",
+      "Growing corals only in aquariums"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Corals at risk",
+    "question": "How should reefs be protected?",
+    "branches": [
+     {
+      "title": "The numbers",
+      "paras": "1–2",
+      "blanks": [
+       "340 of 774 species threatened",
+       "Atlantic share is about half"
+      ],
+      "kps": [
+       "n20261107-3-k1",
+       "n20261107-3-k2"
+      ]
+     },
+     {
+      "title": "The cause",
+      "paras": "3",
+      "blanks": [
+       "marine heatwaves cause bleaching",
+       "coral expels its algae"
+      ],
+      "kps": [
+       "n20261107-3-k3"
+      ]
+     },
+     {
+      "title": "Likely worse",
+      "paras": "4",
+      "blanks": [
+       "study predates 2023–2025 bleaching",
+       "super El Niño adds danger"
+      ],
+      "kps": [
+       "n20261107-3-k4"
+      ]
+     },
+     {
+      "title": "The choices",
+      "paras": "5–6",
+      "blanks": [
+       "cut emissions to slow warming",
+       "local protection buys time"
+      ],
+      "kps": [
+       "n20261107-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Tourism fees have already saved most reefs",
+     "Heat was found to be a minor factor"
+    ]
+   },
+   "summary": {
+    "intro": "A new assessment finds many reef-building corals at risk of extinction.",
+    "model": "A new assessment finds that about 44 percent of reef-building corals are threatened, mainly because of heat, and the real figure is probably higher. While some experts stress cutting emissions, others favor local protection, and both compete for limited resources.",
+    "options": [
+     {
+      "t": "Close to half of the assessed reef-building coral species, 340 out of 774, are now in a threatened category.",
+      "ok": true,
+      "type": "main",
+      "para": 1,
+      "evidence": "340, about 44 percent",
+      "why": "Paragraph 1 gives the central finding."
+     },
+     {
+      "t": "Heat stress is the main driver, and the true figure is probably higher because the study predates the 2023–2025 bleaching event.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "so the true share of threatened species today is probably higher than 44 percent",
+      "why": "Paragraphs 2–4 explain the cause and the likely underestimate."
+     },
+     {
+      "t": "Experts differ in emphasis between cutting emissions and local protection, and both compete for limited money and attention.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "they compete for limited money and attention",
+      "why": "Paragraphs 5–6 present the debate and the trade-offs."
+     },
+     {
+      "t": "Thirty-three species are listed as critically endangered.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "Thirty-three species are listed as critically endangered",
+      "why": "A supporting number, not a main idea."
+     },
+     {
+      "t": "Fishing nets are the leading cause of coral loss in the Atlantic.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "The passage never says this."
+     },
+     {
+      "t": "Researchers found that heat was a minor factor compared with pollution.",
+      "ok": false,
+      "type": "contra",
+      "para": 2,
+      "evidence": "Climate-related thermal stress emerged as the main factor",
+      "why": "Paragraph 2 says thermal stress is the main factor."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people say wealthy countries should pay to protect coral reefs in other parts of the world. Do you agree or disagree? Explain your opinion with reasons and an example.",
+    "hint": "State your opinion, give two reasons, and mention one drawback of your view.",
+    "sec": 60
+   },
+   "write": {
+    "p": "Should limited conservation money go first to the most threatened species, or to the places most likely to survive? Write a response to the discussion board and engage with at least one classmate's idea.",
+    "steps": [
+     "Choose one priority and say why.",
+     "Add a reason with an example.",
+     "Answer a classmate's point.",
+     "Finish with a clear conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "For most of computing history, software has been a tool: it did what it was told and nothing more. Companion chatbots are different. They are built to hold open-ended conversations, to remember a user's preferences, and to adopt a persona that feels like a friend, a confidant, or even a partner. On October 28, New York joined the states that treat that design choice as a matter of child safety. Governor Kathy Hochul signed legislation regulating how companion chatbots may behave when they are talking to anyone under the age of eighteen, a move that revives an old question in a new form: when a product is designed to feel like a relationship, what duties does its maker owe to the people who form one?": "audio/2026-11-07/a1-p1.mp3",
+  "The law does not ban young people from using such programs. Instead, it defines a dozen “unsafe AI companion features” and prohibits them in conversations with minors. According to the reporting, the banned behavior includes presenting the chatbot as a real person with emotions, opinions, or a genuine relationship with the child; using flattery; producing sexually explicit material; and encouraging secrecy or unhealthy habits. Enforcement falls to the state attorney general, who may sue developers that break the rules. The remedies on offer go beyond fines: a court could order monetary damages, the shutdown of a chatbot, or the destruction of data. The measure takes effect on January 1.": "audio/2026-11-07/a1-p2.mp3",
+  "Supporters argue that these features are not accidental side effects but commercial strategies. A system that flatters its user, never tires, and insists that it truly cares can make a lonely teenager feel understood, and that feeling encourages longer and more frequent use. Jim Steyer of the advocacy group Common Sense Media called the bill the strongest children's AI safety measure in the country. Their reasoning rests on an asymmetry: a company can tune a chatbot's personality using enormous amounts of data, whereas a fourteen-year-old is still learning to tell a persuasive voice from a trustworthy one. Seen this way, a legal limit is less a restriction on speech than a safety standard, comparable to rules governing toys or medicines.": "audio/2026-11-07/a1-p3.mp3",
+  "Critics do not necessarily dispute the goal, but they question the drafting. Justine Gluck of the Future of Privacy Forum observed that several categories in the law are broadly worded or left undefined, and she asked where “ordinary conversational responsiveness” ends and prohibited behavior begins. The concern is practical. A chatbot that says “I'm glad you told me” might be offering harmless politeness or might be simulating an emotional bond, and developers cannot easily know which reading a court will adopt. Vague standards can push cautious companies toward over-correction, producing cold, evasive programs that fail the very students who might benefit from a patient tutor or a supportive study partner.": "audio/2026-11-07/a1-p4.mp3",
+  "The New York law arrives amid a wider wave of state action. In September, California's governor signed laws requiring chatbot developers to assess risks to children, to document how they reduced those risks, and to submit to independent audits; a separate California law bars social media platforms from using addictive features for users under sixteen. Earlier in October, eight states sued OpenAI, alleging that its chatbot harmed children and deceived adults in violation of consumer protection laws, an action one activist called the most significant coordinated state effort ever taken against an AI company. Meanwhile, Congress has done little to regulate the technology, and President Donald Trump has dismissed concerns about it and warned states against regulating AI. The result is a patchwork, and Gluck suggested that the New York and California approaches could serve as models when other legislatures reconvene next year.": "audio/2026-11-07/a1-p5.mp3",
+  "The debate therefore turns on a series of trade-offs rather than a simple contest between safety and progress. Is it better to prohibit specific behaviors, as New York has done, or to require risk assessments and audits, as California has? Should rules be written state by state, which allows experimentation but burdens companies, or set nationally, which is more consistent but may not arrive soon? And how much should a law assume about what a young person can distinguish for themselves? Whatever the answers, the underlying question will outlive this particular statute: when a machine is designed to sound like it cares, who is responsible for the consequences of that impression?": "audio/2026-11-07/a1-p6.mp3",
+  "companion": "audio/2026-11-07/a1-w-companion.mp3",
+  "She used a language-learning app as a study companion during exams.": "audio/2026-11-07/a1-ex-companion.mp3",
+  "persona": "audio/2026-11-07/a1-w-persona.mp3",
+  "The actor adopted a calm persona on stage, though he was nervous.": "audio/2026-11-07/a1-ex-persona.mp3",
+  "prohibit": "audio/2026-11-07/a1-w-prohibit.mp3",
+  "School rules prohibit students from using phones during exams.": "audio/2026-11-07/a1-ex-prohibit.mp3",
+  "flattery": "audio/2026-11-07/a1-w-flattery.mp3",
+  "His flattery made her suspicious rather than pleased.": "audio/2026-11-07/a1-ex-flattery.mp3",
+  "enforcement": "audio/2026-11-07/a1-w-enforcement.mp3",
+  "Strict enforcement of the speed limit reduced accidents near the school.": "audio/2026-11-07/a1-ex-enforcement.mp3",
+  "remedies": "audio/2026-11-07/a1-w-remedies.mp3",
+  "The court offered several remedies, including compensation and a public apology.": "audio/2026-11-07/a1-ex-remedies.mp3",
+  "asymmetry": "audio/2026-11-07/a1-w-asymmetry.mp3",
+  "There is an asymmetry of information between a doctor and a patient.": "audio/2026-11-07/a1-ex-asymmetry.mp3",
+  "drafting": "audio/2026-11-07/a1-w-drafting.mp3",
+  "Lawyers spent months on the drafting of the new contract.": "audio/2026-11-07/a1-ex-drafting.mp3",
+  "patchwork": "audio/2026-11-07/a1-w-patchwork.mp3",
+  "The country has a patchwork of local rules about fishing.": "audio/2026-11-07/a1-ex-patchwork.mp3",
+  "audit": "audio/2026-11-07/a1-w-audit.mp3",
+  "An independent audit found that the school's safety records were incomplete.": "audio/2026-11-07/a1-ex-audit.mp3",
+  "Governor Kathy Hochul signed legislation regulating how companion chatbots may behave when they are talking to anyone under the age of eighteen": "audio/2026-11-07/a1-ks1.mp3",
+  "Enforcement falls to the state attorney general, who may sue developers that break the rules.": "audio/2026-11-07/a1-ks2.mp3",
+  "Seen this way, a legal limit is less a restriction on speech than a safety standard, comparable to rules governing toys or medicines.": "audio/2026-11-07/a1-ks3.mp3",
+  "Vague standards can push cautious companies toward over-correction, producing cold, evasive programs that fail the very students who might benefit from a patient tutor or a supportive study partner.": "audio/2026-11-07/a1-ks4.mp3",
+  "Meanwhile, Congress has done little to regulate the technology": "audio/2026-11-07/a1-ks5.mp3",
+  "when a machine is designed to sound like it cares, who is responsible for the consequences of that impression?": "audio/2026-11-07/a1-ks6.mp3",
+  "In October, astrophysicist Matthew Holman noticed something unusual in data from the Vera C. Rubin Observatory in Chile. An object now catalogued as 2026 ED138 was far brighter than a body at its distance should be. Its orbit carries it roughly 46 astronomical units from the Sun, well beyond Pluto's average of about 40. Estimates of its diameter range from 600 to 1,500 kilometres, and Mario Jurić, who leads the observatory's solar system work, puts it at about 1,000 kilometres, comparable to Ceres, the smallest of the five bodies currently recognised as dwarf planets. If its nature is confirmed, it could become the sixth, and it is already described as the largest trans-Neptunian discovery in roughly two decades.": "audio/2026-11-07/a2-p1.mp3",
+  "Why was such a large object missed for so long? The answer is partly geometry. From Earth, its orbit lies close to the plane of the Milky Way, where the sky is crowded with stars. A faint, slowly moving dot is easy to lose against that dense background. Rubin's digital camera, the largest ever built for astronomy, scans the southern sky every few nights, which supplies the repeated images needed to separate a moving object from the fixed stars behind it. The object appeared in thirty images across twenty nights between March and July, and archived data allowed astronomers to trace its orbit back to 2016. That long record strengthens confidence that it is a genuine member of the outer solar system rather than a measurement error.": "audio/2026-11-07/a2-p2.mp3",
+  "Discovery, however, is not the same as classification. In 2006 the International Astronomical Union defined a dwarf planet as a body that orbits the Sun, is not a moon, has not cleared its orbital neighbourhood of other objects, and has enough mass for its own gravity to pull it into a nearly round shape. The first three conditions are comparatively straightforward to judge. The last is not. Determining an object's mass, density, and precise shape requires further observations, particularly in infrared light, which can reveal how much heat a body emits and therefore help separate a large, dark object from a smaller, shiny one. Until then, 2026 ED138 remains a candidate, and formal recognition by the International Astronomical Union may take considerable time.": "audio/2026-11-07/a2-p3.mp3",
+  "The case illustrates why the definition itself provokes argument. Supporters of the 2006 criteria say that a clear rule prevents the planet list from growing without limit: if every round object counted, the solar system might contain dozens of planets or more, and the word would lose its usefulness. Critics reply that the “cleared its neighbourhood” test is subjective and depends on an object's location, since a body the size of Earth placed far out in the Kuiper Belt might fail it. They prefer definitions based on an object's intrinsic properties, such as whether it is massive enough to be round. The same new object can therefore be described in two ways without either being factually wrong: as a dwarf planet under the current rule, or as evidence that the rule needs updating.": "audio/2026-11-07/a2-p4.mp3",
+  "There is also the question of what such discoveries are worth. Large telescopes and long surveys are expensive, and skeptics sometimes ask whether adding another icy body to a catalogue changes anything that matters. Astronomers generally respond that objects in the outer solar system are leftovers from the era when planets formed, so their orbits and sizes act as evidence about that history. A large body whose orbit has remained stable for years is a data point that models of the early solar system must explain. In addition, a survey that finds one such object will find others, and a statistically meaningful sample is far more informative than a handful of isolated cases. The value of the Rubin Observatory, in other words, lies not only in headline discoveries but in the volume of systematic data it produces.": "audio/2026-11-07/a2-p5.mp3",
+  "Jurić has called the finding “a rare astronomical event,” and it is easy to see why the label attracts attention. Yet the more instructive lesson may concern scientific method. A candidate is announced, evidence is gathered, a definition is applied, and the conclusion remains open to revision. Whether 2026 ED138 becomes the sixth dwarf planet or prompts a new debate about the definition, the episode shows that science does not simply collect facts about the solar system; it continually decides what those facts should be called, and why.": "audio/2026-11-07/a2-p6.mp3",
+  "astronomical unit": "audio/2026-11-07/a2-w-astronomical-unit.mp3",
+  "One astronomical unit is the average distance between Earth and the Sun.": "audio/2026-11-07/a2-ex-astronomical-unit.mp3",
+  "infrared": "audio/2026-11-07/a2-w-infrared.mp3",
+  "The telescope uses infrared light to measure how warm a distant object is.": "audio/2026-11-07/a2-ex-infrared.mp3",
+  "neighbourhood": "audio/2026-11-07/a2-w-neighbourhood.mp3",
+  "A large planet clears its orbital neighbourhood of smaller debris.": "audio/2026-11-07/a2-ex-neighbourhood.mp3",
+  "candidate": "audio/2026-11-07/a2-w-candidate.mp3",
+  "The new species is a candidate for the endangered list.": "audio/2026-11-07/a2-ex-candidate.mp3",
+  "classification": "audio/2026-11-07/a2-w-classification.mp3",
+  "The classification of animals into groups helps scientists compare them.": "audio/2026-11-07/a2-ex-classification.mp3",
+  "criteria": "audio/2026-11-07/a2-w-criteria.mp3",
+  "The prize committee applied three clear criteria to every entry.": "audio/2026-11-07/a2-ex-criteria.mp3",
+  "subjective": "audio/2026-11-07/a2-w-subjective.mp3",
+  "Judging which song is best is subjective, because tastes differ.": "audio/2026-11-07/a2-ex-subjective.mp3",
+  "intrinsic": "audio/2026-11-07/a2-w-intrinsic.mp3",
+  "The intrinsic value of a friendship cannot be measured in money.": "audio/2026-11-07/a2-ex-intrinsic.mp3",
+  "systematic": "audio/2026-11-07/a2-w-systematic.mp3",
+  "A systematic search of the archive turned up three missing letters.": "audio/2026-11-07/a2-ex-systematic.mp3",
+  "trace": "audio/2026-11-07/a2-w-trace.mp3",
+  "Historians trace the tradition back to the twelfth century.": "audio/2026-11-07/a2-ex-trace.mp3",
+  "Its orbit carries it roughly 46 astronomical units from the Sun, well beyond Pluto's average of about 40.": "audio/2026-11-07/a2-ks1.mp3",
+  "A faint, slowly moving dot is easy to lose against that dense background.": "audio/2026-11-07/a2-ks2.mp3",
+  "Discovery, however, is not the same as classification.": "audio/2026-11-07/a2-ks3.mp3",
+  "The same new object can therefore be described in two ways without either being factually wrong: as a dwarf planet under the current rule, or as evidence that the rule needs updating.": "audio/2026-11-07/a2-ks4.mp3",
+  "In addition, a survey that finds one such object will find others, and a statistically meaningful sample is far more informative than a handful of isolated cases.": "audio/2026-11-07/a2-ks5.mp3",
+  "science does not simply collect facts about the solar system; it continually decides what those facts should be called, and why.": "audio/2026-11-07/a2-ks6.mp3",
+  "Coral reefs cover a tiny fraction of the ocean floor, yet they shelter a disproportionate share of marine life, protect coastlines from storms, and support fisheries and tourism for millions of people. A study published in Nature and summarised in early November by the University of Miami now suggests that the animals that build these ecosystems are in worse shape than previously thought. Researchers reassessed 892 reef-building coral species that the International Union for Conservation of Nature, or IUCN, had evaluated in 2008. Enough data existed to reassess 774 of them, and 340, about 44 percent, now fall into one of the Red List's threatened categories.": "audio/2026-11-07/a3-p1.mp3",
+  "The breakdown shows how serious the situation has become. Thirty-three species are listed as critically endangered, 251 as endangered, and 56 as vulnerable. The pattern differs by region: roughly half of the assessed Atlantic species are threatened, compared with about 43 percent in the Indo-Pacific. To reach these conclusions, the team did not simply count surviving corals. They combined historical changes in coral cover, projections of severe bleaching events, and each species' biological traits, which influence how well it tolerates stress. Climate-related thermal stress emerged as the main factor behind the elevated extinction risk for most threatened species, and projected heat stress as the main driver of expected population decline.": "audio/2026-11-07/a3-p2.mp3",
+  "Understanding why heat is so damaging requires a brief look at coral biology. Reef-building corals live in partnership with microscopic algae that live inside their tissues and supply much of their energy. When water temperatures stay unusually high, this partnership breaks down and the coral expels its algae, a process known as bleaching. A bleached coral is not immediately dead, but it is starved and vulnerable, and if the heat persists it may not recover. Marine heatwaves, which are prolonged periods of unusually warm seawater, therefore pose a different kind of threat from a gradual rise in average temperature: they can push a reef past its tolerance in a single season.": "audio/2026-11-07/a3-p3.mp3",
+  "The timing of the assessment adds a further concern. The analysis was completed before the 2023–2025 global coral bleaching event, so the true share of threatened species today is probably higher than 44 percent. Juan Pablo Quimbayo, a biologist at the University of Miami, described the results as “a serious deterioration in the conservation status of corals” and warned that “the window for protecting these essential marine ecosystems is narrowing.” He also noted that the current super El Niño, a natural climate pattern that temporarily warms the Pacific, could worsen the risk. That matters because natural variability and human-driven warming can reinforce each other: an El Niño that a reef might once have survived becomes more dangerous when the baseline temperature of the ocean is already higher.": "audio/2026-11-07/a3-p4.mp3",
+  "Scientists and policymakers disagree, at least in emphasis, about what should be done. One view holds that the only durable solution is to slow ocean warming and reduce the frequency and severity of marine heatwaves, which means cutting greenhouse gas emissions on a global scale. From this perspective, local measures, such as marine protected areas or restoration projects that grow coral fragments in nurseries, buy time but cannot compensate for continuing heat. The researchers themselves say that conservation will depend on limiting warming and that protecting reefs also requires addressing broader environmental challenges. A second perspective stresses that emissions cuts are slow and uncertain and that reefs cannot wait: protecting corals that show greater heat tolerance, reducing pollution and overfishing, and supporting restoration might give reefs the best chance of surviving long enough for climate policy to take effect.": "audio/2026-11-07/a3-p5.mp3",
+  "These positions are less opposed than they first appear, but they compete for limited money and attention, and that is where the real trade-offs arise. Should scarce funding go to the most threatened species, or to the reef areas that seem most likely to survive? Should coastal communities that depend on reefs carry conservation costs when the main cause of warming lies far away? The assessment cannot answer such questions. What it does provide is a measurement: close to half of the world's reef-building coral species face an elevated risk of extinction, and the true proportion is probably still rising.": "audio/2026-11-07/a3-p6.mp3",
+  "disproportionate": "audio/2026-11-07/a3-w-disproportionate.mp3",
+  "Small farms bear a disproportionate share of the flood damage.": "audio/2026-11-07/a3-ex-disproportionate.mp3",
+  "elevated": "audio/2026-11-07/a3-w-elevated.mp3",
+  "Elevated stress levels can make it harder to concentrate.": "audio/2026-11-07/a3-ex-elevated.mp3",
+  "baseline": "audio/2026-11-07/a3-w-baseline.mp3",
+  "Scientists compared the new data with the baseline from ten years ago.": "audio/2026-11-07/a3-ex-baseline.mp3",
+  "durable": "audio/2026-11-07/a3-w-durable.mp3",
+  "A durable agreement needs support from both sides.": "audio/2026-11-07/a3-ex-durable.mp3",
+  "reinforce": "audio/2026-11-07/a3-w-reinforce.mp3",
+  "Good examples reinforce an argument in an essay.": "audio/2026-11-07/a3-ex-reinforce.mp3",
+  "tolerance": "audio/2026-11-07/a3-w-tolerance.mp3",
+  "Some plants have a high tolerance for dry conditions.": "audio/2026-11-07/a3-ex-tolerance.mp3",
+  "thermal": "audio/2026-11-07/a3-w-thermal.mp3",
+  "The thermal camera showed which parts of the building lose heat.": "audio/2026-11-07/a3-ex-thermal.mp3",
+  "bleaching": "audio/2026-11-07/a3-w-bleaching.mp3",
+  "Severe bleaching turned large parts of the reef white.": "audio/2026-11-07/a3-ex-bleaching.mp3",
+  "marine heatwave": "audio/2026-11-07/a3-w-marine-heatwave.mp3",
+  "A marine heatwave can harm fish as well as coral.": "audio/2026-11-07/a3-ex-marine-heatwave.mp3",
+  "restoration": "audio/2026-11-07/a3-w-restoration.mp3",
+  "River restoration brought fish back to the town.": "audio/2026-11-07/a3-ex-restoration.mp3",
+  "Enough data existed to reassess 774 of them, and 340, about 44 percent, now fall into one of the Red List's threatened categories.": "audio/2026-11-07/a3-ks1.mp3",
+  "Climate-related thermal stress emerged as the main factor behind the elevated extinction risk for most threatened species, and projected heat stress as the main driver of expected population decline.": "audio/2026-11-07/a3-ks2.mp3",
+  "Marine heatwaves, which are prolonged periods of unusually warm seawater, therefore pose a different kind of threat from a gradual rise in average temperature": "audio/2026-11-07/a3-ks3.mp3",
+  "The analysis was completed before the 2023–2025 global coral bleaching event, so the true share of threatened species today is probably higher than 44 percent.": "audio/2026-11-07/a3-ks4.mp3",
+  "From this perspective, local measures, such as marine protected areas or restoration projects that grow coral fragments in nurseries, buy time but cannot compensate for continuing heat.": "audio/2026-11-07/a3-ks5.mp3",
+  "These positions are less opposed than they first appear, but they compete for limited money and attention, and that is where the real trade-offs arise.": "audio/2026-11-07/a3-ks6.mp3"
+ }
+}

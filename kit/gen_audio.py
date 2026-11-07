@@ -12,11 +12,10 @@ Output: audio/<date>/a{n}-p{i}.mp3 (paragraphs), a{n}-w-*.mp3 / a{n}-ex-*.mp3 (w
 import json, os, re, subprocess, sys, urllib.request
 
 MODEL_DIR = "tts-model"
-# Narrators rotate so the app never sounds the same: each of the day's three articles gets a different
+# Narration uses only the two top-rated voices, alternating between them across the day's articles and shifting with the date.
 # voice, and the starting voice moves on every day. The pool alternates female/male and US/UK accents
 # (TOEFL listening uses several accents too). Best-sounding Kokoro voices only.
-POOL = ["af_heart", "am_michael", "bf_emma", "am_fenrir", "af_bella", "bm_george",
-        "af_nicole", "am_puck", "bf_isabella", "bm_fable", "af_sarah", "am_echo"]
+POOL = ["af_heart", "af_bella"]  # only the two top-rated Kokoro voices (grades A and A-)
 
 # Words and their example sentences always use one very clear US voice, so pronunciation is consistent.
 WORD_VOICE = "af_heart"
