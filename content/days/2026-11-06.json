@@ -530,7 +530,7 @@
     ],
     "minWords": 120
    },
-   "voice": "af_nicole"
+   "voice": "af_heart"
   },
   {
    "id": "n20261106-2",
@@ -1060,7 +1060,7 @@
     ],
     "minWords": 120
    },
-   "voice": "am_puck"
+   "voice": "am_michael"
   },
   {
    "id": "n20261106-3",
@@ -1582,7 +1582,7 @@
     ],
     "minWords": 120
    },
-   "voice": "bf_isabella"
+   "voice": "af_bella"
   }
  ],
  "audio": {
