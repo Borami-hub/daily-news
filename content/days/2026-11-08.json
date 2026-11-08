@@ -1,0 +1,1620 @@
+{
+ "date": "2026-11-08",
+ "headline": "Climate deals, forgotten grasslands and the carbon in every breath",
+ "teaser": "Can an energy crisis speed up climate action? Was Europe ever really a land of endless forest? And should we worry about the CO2 we breathe out?",
+ "articles": [
+  {
+   "id": "n20261108-1",
+   "topic": "Environment",
+   "title": "Antalya's Balancing Act: Can Climate Talks Survive an Energy Crisis?",
+   "dek": "COP31 opens in Türkiye as war drives up energy prices. Will the crisis push countries toward clean power, or away from their climate promises?",
+   "sources": [
+    {
+     "name": "The Guardian (via AOL), Nov 6, 2026",
+     "url": "https://www.aol.co.uk/articles/cop31-expose-conflicts-contradictions-world-070046000.html"
+    },
+    {
+     "name": "Carbon Brief, Nov 6, 2026",
+     "url": "https://www.carbonbrief.org/daily-briefing-cop31-to-start-rosebank-push-simply-staggering-el-nino"
+    },
+    {
+     "name": "Türkiye Today, Nov 7, 2026",
+     "url": "https://www.turkiyetoday.com/nation/what-to-watch-as-cop31-climate-talks-begin-in-antalya-3231859"
+    }
+   ],
+   "paras": [
+    "On Monday, November 9, delegates from nearly 200 countries will gather in the Turkish resort city of Antalya for COP31, the United Nations’ annual climate summit. For almost two weeks, until November 20, ministers, diplomats, scientists and activists will argue over how quickly the world should cut the greenhouse gases that are warming the planet. More than 100,000 people are expected to attend, and dozens of world leaders are scheduled to speak at a leaders’ summit on November 11 and 12. Yet many observers believe this year’s talks will be among the most difficult in recent memory.",
+    "Part of the difficulty is visible in the summit’s unusual structure. Under UN rules dating back to 1992, Türkiye and Australia belong to the same regional group, and both wanted to host the 2026 conference. Because the climate treaty has no mechanism for settling competing bids, the two countries reached a compromise at last year’s summit in Brazil: Türkiye hosts the event and leads a programme of voluntary “action” commitments, while Australia, represented by its climate minister Chris Bowen, chairs the formal negotiations. Supporters say the arrangement shows that rivals can cooperate; critics worry that divided leadership may blur responsibility if the talks stall.",
+    "The scientific backdrop is sobering. According to a recent report from the UN Environment Programme, even if every country fully implemented its current pledges, the world would still be on course for about 2.6°C of warming this century — far above the 1.5°C goal set in the 2015 Paris Agreement. Scientists now accept that the 1.5°C threshold will be crossed, at least temporarily, and global carbon emissions have yet to peak. A strong El Niño, a natural climate pattern that releases heat from the Pacific Ocean, could make 2026 or 2027 the hottest year on record.",
+    "Against this background, the co-hosts have chosen a practical centrepiece: electrification. Today, electricity supplies only about 20 percent of the world’s final energy demand; the rest comes mostly from burning fuels directly in cars, furnaces and boilers. Türkiye and Australia want countries to commit to raising that share to 35 percent by 2035. The logic is that electric vehicles, heat pumps and industrial machines can run on power from solar and wind farms, whereas a petrol engine cannot. “I would like to see a strong outcome on electrification,” Bowen has said.",
+    "Optimists believe the timing is surprisingly favourable. An energy crisis linked to war in the Middle East has pushed up oil and gas prices, reminding importing countries how vulnerable they are to distant conflicts. Fatih Birol, head of the International Energy Agency, has argued that this pressure could produce a “climate action comeback,” because producing electricity at home from sunlight and wind is both cleaner and more secure. “I have rarely seen the energy security policy objectives and the climate objectives so closely aligned,” he said.",
+    "Skeptics, however, point to contradictions closer to home. Coal remains Türkiye’s largest source of electricity, and its national climate plan allows emissions to keep rising rather than falling, although the government did cancel the expansion of a major coal plant in July. Australia, one of the world’s largest exporters of coal and gas, has declined to set an end date for coal. Campaigners also note that the 2023 summit in Dubai promised a “transition away from fossil fuels,” yet last year’s final agreement in Brazil did not explicitly mention them. To these critics, a focus on electrification risks becoming a comfortable way to avoid the harder question of when fossil fuels will actually be abandoned.",
+    "Money is a third fault line. African negotiators want wealthy nations to triple funding for adaptation — the sea walls, drought-resistant crops and early-warning systems that help communities cope with the warming that is already unavoidable. Developed countries, facing high energy bills and tight budgets of their own, have been reluctant to promise more. Meanwhile, the United States government is not taking part in the negotiations at all, sending only a delegation from Congress, which weakens the pressure on other large emitters.",
+    "Because every COP decision requires consensus among nearly 200 governments, a single country can block an agreement. Bowen himself has admitted that reaching a deal “will not be easy.” Whether Antalya succeeds may therefore depend less on dramatic announcements than on measurable commitments, such as electrification targets, that countries can be held to. In my view, a modest but specific agreement would be worth more than another ambitious promise that is quietly forgotten; the real test of COP31 will come not on November 20, but in the years that follow."
+   ],
+   "words": [
+    {
+     "w": "sobering",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈsoʊbərɪŋ/",
+     "syl": [
+      "so",
+      "ber",
+      "ing"
+     ],
+     "def": "making you feel serious and worried because a situation is worse than you hoped",
+     "ex": "The doctor’s report was sobering, so the whole family started eating more healthily."
+    },
+    {
+     "w": "compromise",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈkɑːmprəmaɪz/",
+     "syl": [
+      "com",
+      "pro",
+      "mise"
+     ],
+     "def": "an agreement in which each side accepts less than it originally wanted",
+     "ex": "After hours of arguing, the club members reached a compromise on the trip budget."
+    },
+    {
+     "w": "threshold",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈθreʃhoʊld/",
+     "syl": [
+      "thresh",
+      "old"
+     ],
+     "def": "the level at which something starts to happen or change",
+     "ex": "Many people have a low pain threshold and dislike injections."
+    },
+    {
+     "w": "electrification",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪˌlektrɪfɪˈkeɪʃn/",
+     "syl": [
+      "e",
+      "lec",
+      "tri",
+      "fi",
+      "ca",
+      "tion"
+     ],
+     "def": "the process of changing machines, vehicles or systems so that they run on electricity",
+     "ex": "The electrification of city buses has made the air on busy streets cleaner."
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvʌlnərəbl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or affected by something bad",
+     "ex": "Small coastal towns are especially vulnerable to rising sea levels."
+    },
+    {
+     "w": "contradiction",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌkɑːntrəˈdɪkʃn/",
+     "syl": [
+      "con",
+      "tra",
+      "dic",
+      "tion"
+     ],
+     "def": "a situation in which two facts, ideas or actions cannot both be true or fit together",
+     "ex": "There is a contradiction between praising exercise and cutting school sports time."
+    },
+    {
+     "w": "adaptation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌædæpˈteɪʃn/",
+     "syl": [
+      "ad",
+      "ap",
+      "ta",
+      "tion"
+     ],
+     "def": "actions that help people and places cope with the effects of climate change",
+     "ex": "Planting shade trees is a simple form of adaptation to hotter summers."
+    },
+    {
+     "w": "emitter",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪˈmɪtər/",
+     "syl": [
+      "e",
+      "mit",
+      "ter"
+     ],
+     "def": "a country, company or thing that releases gases, especially greenhouse gases, into the air",
+     "ex": "The steel plant is the largest emitter of carbon dioxide in the region."
+    },
+    {
+     "w": "consensus",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˈsensəs/",
+     "syl": [
+      "con",
+      "sen",
+      "sus"
+     ],
+     "def": "general agreement among all or most members of a group",
+     "ex": "The class reached a consensus that the field trip should be moved to spring."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Yet many observers believe this year’s talks will be among the most difficult in recent memory.",
+     "kind": "Main idea",
+     "note": "“Yet” turns from the facts of the summit to the article’s central claim: these talks will be hard. Main-idea questions often hide behind contrast words."
+    },
+    {
+     "para": 3,
+     "text": "The scientific backdrop is sobering.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence that sets the tone; every detail that follows (2.6°C, emissions not peaking, El Niño) supports it."
+    },
+    {
+     "para": 5,
+     "text": "Optimists believe the timing is surprisingly favourable.",
+     "kind": "Topic sentence",
+     "note": "Introduces the first side of the debate. Track who holds each view: optimists here, skeptics in paragraph 6."
+    },
+    {
+     "para": 6,
+     "text": "To these critics, a focus on electrification risks becoming a comfortable way to avoid the harder question of when fossil fuels will actually be abandoned.",
+     "kind": "Critical thinking",
+     "note": "The critics’ main argument. “Risks becoming” is hedged language: it is a warning, not a fact."
+    },
+    {
+     "para": 8,
+     "text": "Because every COP decision requires consensus among nearly 200 governments, a single country can block an agreement.",
+     "kind": "Cause → effect",
+     "note": "A clear cause-and-effect structure (“Because …, …”) that TOEFL often tests in factual and inference questions."
+    },
+    {
+     "para": 8,
+     "text": "In my view, a modest but specific agreement would be worth more than another ambitious promise that is quietly forgotten; the real test of COP31 will come not on November 20, but in the years that follow.",
+     "kind": "Author's view",
+     "note": "“In my view” signals the author’s own judgement, which differs from the reported opinions of optimists and skeptics."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “sobering” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "calming and relaxing",
+      "serious and worrying",
+      "clear and alcohol-free",
+      "surprising and exciting"
+     ],
+     "a": 1,
+     "evidence": "The scientific backdrop is sobering.",
+     "why": "“Sobering” describes facts that make people feel serious and concerned; the paragraph goes on to list worrying warming figures.",
+     "optWhy": [
+      "Another meaning of the word: “sober up” can suggest calming down, but the paragraph is about alarming facts, not relaxation.",
+      "Correct. The UNEP figures and record heat make the situation serious and worrying.",
+      "Another meaning of the word: “sober” can mean not drunk, which does not fit a scientific backdrop.",
+      "Wrong tone: the facts are alarming, not exciting; “surprising” is not the core meaning."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why do Türkiye and Australia share the leadership of COP31?",
+     "opts": [
+      "Australia withdrew because it could not afford to host the summit.",
+      "The UN asked both countries to host together so that costs could be shared.",
+      "Türkiye had no experience of running formal climate negotiations.",
+      "The climate treaty had no way to decide between their competing bids."
+     ],
+     "a": 3,
+     "evidence": "Because the climate treaty has no mechanism for settling competing bids",
+     "why": "Paragraph 2 says the treaty has no mechanism for settling competing bids, so the two countries made a compromise.",
+     "optWhy": [
+      "Not mentioned: the passage says nothing about Australia being unable to afford the summit.",
+      "Not mentioned: the UN did not ask them to share costs; the two countries reached a compromise themselves.",
+      "Not mentioned: Türkiye’s experience is never discussed; this is an unsupported assumption.",
+      "Correct. A paraphrase of “no mechanism for settling competing bids”."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following are reasons critics doubt the hosts’ commitment EXCEPT:",
+     "opts": [
+      "Türkiye has recently expanded a major coal plant.",
+      "Coal is still Türkiye’s largest source of electricity.",
+      "Australia has not set an end date for coal.",
+      "Türkiye’s climate plan allows emissions to keep rising."
+     ],
+     "a": 0,
+     "evidence": "although the government did cancel the expansion of a major coal plant in July",
+     "why": "The passage says Türkiye cancelled the expansion of a major coal plant, so option A contradicts the text.",
+     "optWhy": [
+      "Correct. This contradicts the paragraph: the expansion was cancelled, not carried out.",
+      "Stated in the paragraph: “Coal remains Türkiye’s largest source of electricity.”",
+      "Stated in the paragraph: Australia “has declined to set an end date for coal.”",
+      "Stated in the paragraph: the plan “allows emissions to keep rising rather than falling.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about countries that import oil and gas?",
+     "opts": [
+      "They are likely to weaken their climate targets until the energy crisis ends.",
+      "They have already reached the 35 percent electrification goal.",
+      "They may see home-grown solar and wind power as a way to reduce risk.",
+      "They blame the International Energy Agency for higher fuel prices."
+     ],
+     "a": 2,
+     "evidence": "producing electricity at home from sunlight and wind is both cleaner and more secure",
+     "why": "Because importers are “vulnerable” to distant conflicts and domestic renewables are “more secure,” they may turn to solar and wind to reduce risk.",
+     "optWhy": [
+      "Opposite of the text: Birol expects a “climate action comeback,” not weaker targets.",
+      "Not mentioned: 35 percent is a target for 2035, not something already achieved.",
+      "Correct. Importers are vulnerable, and home-produced renewable power is described as more secure.",
+      "Not mentioned: the IEA is quoted as an expert, not blamed for prices."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention “electric vehicles, heat pumps and industrial machines” in paragraph 4?",
+     "opts": [
+      "To illustrate how electrification lets clean power replace fuels burned directly",
+      "To show which industries will lose the most from the 35 percent target",
+      "To argue that petrol engines are more efficient than electric machines",
+      "To list the products that Türkiye and Australia hope to export to other countries"
+     ],
+     "a": 0,
+     "evidence": "electric vehicles, heat pumps and industrial machines can run on power from solar and wind farms, whereas a petrol engine cannot",
+     "why": "The examples explain the logic of electrification: these machines can use solar and wind power, unlike petrol engines.",
+     "optWhy": [
+      "Correct. The examples show why electrification allows renewable electricity to replace directly burned fuels.",
+      "Not mentioned: the paragraph does not discuss which industries lose.",
+      "Opposite of the text: the point is that petrol engines cannot use solar and wind power.",
+      "Not mentioned: exports are not discussed in paragraph 4."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8?",
+     "opts": [
+      "Antalya will succeed only if leaders make dramatic announcements about electrification.",
+      "Electrification targets are less important than dramatic announcements at Antalya.",
+      "Countries will probably ignore any commitments made at Antalya, including the targets for electrification.",
+      "Specific commitments that can be checked may matter more to Antalya’s success than bold announcements."
+     ],
+     "a": 3,
+     "evidence": "Whether Antalya succeeds may therefore depend less on dramatic announcements than on measurable commitments, such as electrification targets, that countries can be held to.",
+     "why": "The sentence compares two things: measurable commitments matter more than dramatic announcements.",
+     "optWhy": [
+      "Comparison reversed and too extreme: the sentence says announcements matter less, and it uses “may,” not “only if.”",
+      "Comparison reversed: the sentence says announcements matter less than measurable targets.",
+      "Not stated: the sentence does not predict that countries will ignore commitments.",
+      "Correct. “Measurable commitments … countries can be held to” = specific commitments that can be checked."
+     ],
+     "highlight": "Whether Antalya succeeds may therefore depend less on dramatic announcements than on measurable commitments, such as electrification targets, that countries can be held to."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261108-1-k1",
+     "tag": "Basics",
+     "fact": "COP31 runs from November 9 to 20, 2026, in Antalya, Türkiye, with nearly 200 countries taking part.",
+     "q": "Where is COP31 being held?",
+     "opts": [
+      "Belém, Brazil",
+      "Antalya, Türkiye",
+      "Sydney, Australia",
+      "Dubai, UAE"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-1-k2",
+     "tag": "Structure",
+     "fact": "Türkiye hosts the summit, while Australia’s Chris Bowen chairs the formal negotiations.",
+     "q": "Who chairs the formal negotiations?",
+     "opts": [
+      "Türkiye",
+      "The United States",
+      "Australia"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261108-1-k3",
+     "tag": "Science",
+     "fact": "Even if all current pledges are met, the world is on course for about 2.6°C of warming this century.",
+     "q": "What warming are current pledges heading for?",
+     "opts": [
+      "About 1.5°C",
+      "About 2.6°C",
+      "About 4°C"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-1-k4",
+     "tag": "Goal",
+     "fact": "The co-hosts want electricity’s share of final energy demand to rise from about 20 percent to 35 percent by 2035.",
+     "q": "What electrification target do the hosts want by 2035?",
+     "opts": [
+      "20 percent",
+      "35 percent",
+      "50 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-1-k5",
+     "tag": "Debate",
+     "fact": "Optimists say the energy crisis aligns security and climate goals; skeptics say the hosts still rely on coal and fossil fuels.",
+     "q": "According to optimists, why could the energy crisis help climate action?",
+     "opts": [
+      "Oil is becoming cheaper",
+      "Home-grown clean power is more secure",
+      "The US is leading the talks"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-1-k6",
+     "tag": "Rules",
+     "fact": "COP decisions need consensus, so a single country can block an agreement.",
+     "q": "Why is a deal hard to reach?",
+     "opts": [
+      "Votes need a two-thirds majority",
+      "Every decision needs consensus",
+      "Only the hosts can vote"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "COP31 in Antalya",
+    "question": "Can climate talks make progress during an energy crisis?",
+    "branches": [
+     {
+      "title": "The summit",
+      "paras": "1–2",
+      "blanks": [
+       "nearly 200 countries meet",
+       "shared leadership after competing bids"
+      ],
+      "kps": [
+       "n20261108-1-k1",
+       "n20261108-1-k2"
+      ]
+     },
+     {
+      "title": "The science",
+      "paras": "3",
+      "blanks": [
+       "pledges still mean 2.6°C"
+      ],
+      "kps": [
+       "n20261108-1-k3"
+      ]
+     },
+     {
+      "title": "Electrification plan",
+      "paras": "4–5",
+      "blanks": [
+       "raise electricity share to 35%",
+       "energy security aligns with climate"
+      ],
+      "kps": [
+       "n20261108-1-k4",
+       "n20261108-1-k5"
+      ]
+     },
+     {
+      "title": "Fault lines",
+      "paras": "6–8",
+      "blanks": [
+       "hosts still depend on coal",
+       "every decision needs consensus"
+      ],
+      "kps": [
+       "n20261108-1-k5",
+       "n20261108-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "China chairs the negotiations",
+     "fossil fuels banned in Dubai"
+    ]
+   },
+   "summary": {
+    "intro": "COP31 opens in Antalya at a time of rising temperatures and an energy crisis.",
+    "model": "COP31 aims to speed up electrification because energy security and climate goals now overlap. However, critics point to the hosts’ fossil-fuel ties, disputes over adaptation funding and the need for consensus, so success may depend on measurable commitments.",
+    "options": [
+     {
+      "t": "The co-hosts hope to make electrification the centrepiece of the talks, raising electricity’s share of energy use to 35 percent by 2035.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Türkiye and Australia want countries to commit to raising that share to 35 percent by 2035."
+     },
+     {
+      "t": "Optimists see the energy crisis as a chance for climate action, but skeptics argue the hosts’ own reliance on fossil fuels weakens their message.",
+      "ok": true,
+      "why": "Main contrast of paragraphs 5–6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Skeptics, however, point to contradictions closer to home."
+     },
+     {
+      "t": "Disputes over adaptation funding and the need for consensus among nearly 200 countries make a meaningful deal difficult.",
+      "ok": true,
+      "why": "Main idea of paragraphs 7–8.",
+      "type": "main",
+      "para": 8,
+      "evidence": "a single country can block an agreement"
+     },
+     {
+      "t": "More than 100,000 people are expected to attend the summit in Antalya.",
+      "ok": false,
+      "why": "A minor detail, not a main idea.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "More than 100,000 people are expected to attend"
+     },
+     {
+      "t": "Most countries have agreed to stop using coal completely by 2035.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The United States is leading the negotiations on adaptation finance.",
+      "ok": false,
+      "why": "Contradicts paragraph 7: the US government is not taking part in the negotiations.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "the United States government is not taking part in the negotiations at all"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe that international meetings like COP31 are the best way to fight climate change. Others think individual countries, cities or companies can achieve more on their own. Which view do you agree with, and why? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (scale/fairness or speed) + example → reason 2 + example → one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, nearly 200 countries meet at COP31. Because of an energy crisis, some argue that governments should focus first on keeping energy cheap and secure, even if climate goals are delayed. Others say the crisis is exactly the reason to speed up the switch to clean electricity. What do you think governments should prioritise right now, and why? (Leo says: Families are struggling with high bills now. Governments should first protect people from rising prices, then return to climate targets when the crisis is over.) (Ana says: Solar and wind power are produced at home, so they protect countries from foreign conflicts. The crisis is a reason to move faster, not slower.)",
+    "steps": [
+     "Choose a side, or a balanced position, in one sentence.",
+     "Give one reason with a concrete example (prices, jobs, energy security).",
+     "Respond to Leo or Ana: agree with part of their idea, then add something new.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261108-2",
+   "topic": "Geography",
+   "title": "Was Europe Ever Really a Land of Endless Forest?",
+   "dek": "A major review suggests Europe’s wild landscape was a patchwork of woods and grassland kept open by giant grazers. Should we still plant dense forests everywhere?",
+   "sources": [
+    {
+     "name": "ScienceDaily / Aarhus University, Nov 7, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
+    },
+    {
+     "name": "EurekAlert! / Aarhus University press release",
+     "url": "https://www.eurekalert.org/news-releases/1118276"
+    },
+    {
+     "name": "Science in Poland (PAP)",
+     "url": "https://scienceinpoland.pl/en/news/news%2C113994%2Ceuropes-primeval-landscape-wasnt-endless-forest-after-all-surprising-study-finds"
+    }
+   ],
+   "paras": [
+    "Ask many Europeans to imagine their continent before farmers arrived, and they will picture a dark, unbroken forest stretching from the Atlantic to the Urals — the kind of wilderness found in fairy tales. This image has shaped science and policy for generations. Conservationists have often treated closed-canopy forest, in which the crowns of tall trees touch and shade the ground below, as Europe’s “natural” state, and many governments still measure environmental progress by how many trees they plant. A study from Aarhus University in Denmark, published in the journal Biological Conservation and widely discussed again this week, argues that this picture is largely mistaken.",
+    "The researchers, led by doctoral researcher Szymon Czyżewski and senior author Professor Jens-Christian Svenning, reviewed evidence covering roughly the last 23 million years, from the Miocene epoch to the period just before industrialisation. Their conclusion is striking: for more than 20 million years, much of Europe was a mosaic of scattered trees, open woodland, scrub, grassland and flowering meadows. Dense, dark forests, they argue, are a relatively recent phenomenon. Importantly, the mosaic persisted not only during unusually warm or cold periods but also under temperate climates similar to today’s.",
+    "What kept the landscape open? The authors point to large plant-eating animals. Elephants, rhinoceroses, wild horses, aurochs — the giant wild ancestors of cattle — and bison browsed young trees, broke branches and trampled vegetation, creating clearings where light-loving plants could thrive. As most of these animals disappeared, first through extinction at the end of the last ice age and later through hunting and land-use change, the forces that held trees in check weakened. According to the study, much of the most recent shift has happened within the last hundred years, as traditional grazing by livestock vanished from large parts of the countryside.",
+    "The evidence comes from many sources rather than one. Traditionally, scientists reconstructed ancient vegetation mainly from fossil pollen trapped in lake sediments. The Aarhus team combined pollen with preserved plant remains, ancient charcoal, chemical isotopes in fossil teeth and bones, fossil insects such as dung beetles — a sign of large grazing herds — and environmental DNA recovered from soil. They paid special attention to the Eemian interglacial, a warm period about 130,000 to 115,000 years ago, when the climate resembled today’s but human influence was minimal.",
+    "The idea is not entirely new. Around the turn of the century, the Dutch ecologist Frans Vera proposed that grazing animals had kept Europe’s primeval landscape partly open, and his theory provoked fierce debate. Critics noted that pollen records from many sites are dominated by tree pollen, which they took as evidence of largely closed forests. Supporters of the new study argue that pollen alone can be misleading, because trees produce and spread far more pollen than many grassland plants, and that combining several independent types of evidence gives a more reliable picture.",
+    "If the authors are right, the implications for conservation are significant. Many species now associated with farmland, such as larks, jackdaws and the European hamster, may originally have evolved in open woodland shaped by wild herbivores. Planting dense forest everywhere could therefore remove the very habitats these species depend on. The researchers single out Denmark, where public subsidies support only the planting of dense forest; Svenning warned that this approach “will not only be harmful for biodiversity” but also contradicts the ecosystems in which Europe’s species evolved.",
+    "Not everyone will be persuaded. Dense forests can store large amounts of carbon, so governments trying to meet climate targets have strong reasons to favour them. Bringing back large herbivores, meanwhile, raises practical problems: bison and wild cattle need space, may damage crops and can collide with cars on busy roads. Some scientists may also question how confidently a landscape that existed millions of years ago can guide decisions about a crowded continent today.",
+    "The authors themselves do not call for recreating an ancient landscape exactly. Instead, they suggest restoring the natural processes, especially grazing, that once made Europe’s ecosystems diverse and resilient. Their study is a reminder that “natural” is not a fixed snapshot but a moving target. In my view, the strongest lesson is not that tree planting is wrong, but that conservation goals should be based on evidence rather than on a fairy-tale image of the past."
+   ],
+   "words": [
+    {
+     "w": "canopy",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkænəpi/",
+     "syl": [
+      "can",
+      "o",
+      "py"
+     ],
+     "def": "the top layer of a forest, formed by the leaves and branches of tall trees",
+     "ex": "Monkeys spend most of their lives high in the rainforest canopy."
+    },
+    {
+     "w": "mosaic",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/moʊˈzeɪɪk/",
+     "syl": [
+      "mo",
+      "sa",
+      "ic"
+     ],
+     "def": "a pattern made of many different small parts placed together",
+     "ex": "From the plane, the farmland looked like a mosaic of green and yellow fields."
+    },
+    {
+     "w": "phenomenon",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/fəˈnɑːmɪnən/",
+     "syl": [
+      "phe",
+      "nom",
+      "e",
+      "non"
+     ],
+     "def": "something that happens or exists, especially something unusual or worth studying",
+     "ex": "Online shopping during festivals has become a global phenomenon."
+    },
+    {
+     "w": "persist",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/pərˈsɪst/",
+     "syl": [
+      "per",
+      "sist"
+     ],
+     "def": "to continue to exist or happen for a long time",
+     "ex": "If the cough continues to persist, you should see a doctor."
+    },
+    {
+     "w": "herbivore",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈhɜːrbɪvɔːr/",
+     "syl": [
+      "her",
+      "bi",
+      "vore"
+     ],
+     "def": "an animal that eats only plants",
+     "ex": "The giraffe is a tall herbivore that feeds on leaves from the tops of trees."
+    },
+    {
+     "w": "browse",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/braʊz/",
+     "syl": [
+      "browse"
+     ],
+     "def": "(of an animal) to feed on leaves, shoots and twigs of trees and bushes",
+     "ex": "Deer often browse the young shoots in the garden at night."
+    },
+    {
+     "w": "provoke",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/prəˈvoʊk/",
+     "syl": [
+      "pro",
+      "voke"
+     ],
+     "def": "to cause a strong reaction, such as anger or debate",
+     "ex": "The new school rule is likely to provoke complaints from students."
+    },
+    {
+     "w": "implication",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌɪmplɪˈkeɪʃn/",
+     "syl": [
+      "im",
+      "pli",
+      "ca",
+      "tion"
+     ],
+     "def": "a possible effect or result of an action or decision",
+     "ex": "The scientists discussed the implication of the result for future farming."
+    },
+    {
+     "w": "resilient",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/rɪˈzɪliənt/",
+     "syl": [
+      "re",
+      "sil",
+      "i",
+      "ent"
+     ],
+     "def": "able to recover quickly after being damaged or disturbed",
+     "ex": "Coral reefs with many species tend to be more resilient after storms."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A study from Aarhus University in Denmark, published in the journal Biological Conservation and widely discussed again this week, argues that this picture is largely mistaken.",
+     "kind": "Main idea",
+     "note": "The thesis comes at the end of paragraph 1 after the “fairy-tale” image is set up. TOEFL main-idea answers often paraphrase this kind of sentence."
+    },
+    {
+     "para": 2,
+     "text": "Dense, dark forests, they argue, are a relatively recent phenomenon.",
+     "kind": "Key details",
+     "note": "The core finding in one short sentence. “They argue” reminds you this is the authors’ claim, not settled fact."
+    },
+    {
+     "para": 3,
+     "text": "What kept the landscape open? The authors point to large plant-eating animals.",
+     "kind": "Cause → effect",
+     "note": "A question-and-answer structure that introduces the cause: large herbivores kept Europe open."
+    },
+    {
+     "para": 5,
+     "text": "Supporters of the new study argue that pollen alone can be misleading, because trees produce and spread far more pollen than many grassland plants, and that combining several independent types of evidence gives a more reliable picture.",
+     "kind": "Critical thinking",
+     "note": "Explains why two groups read the same evidence differently — a common inference-question target."
+    },
+    {
+     "para": 7,
+     "text": "Not everyone will be persuaded.",
+     "kind": "Topic sentence",
+     "note": "Signals the counter-argument paragraph: carbon storage, practical problems and doubts about using the deep past as a guide."
+    },
+    {
+     "para": 8,
+     "text": "In my view, the strongest lesson is not that tree planting is wrong, but that conservation goals should be based on evidence rather than on a fairy-tale image of the past.",
+     "kind": "Author's view",
+     "note": "A balanced conclusion using “not … but …”. Note how it links back to the fairy-tale image in paragraph 1."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “browsed” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "looked through casually",
+      "searched on the internet",
+      "fed on",
+      "walked across"
+     ],
+     "a": 2,
+     "evidence": "browsed young trees",
+     "why": "Animals that browse eat the leaves and shoots of trees and bushes.",
+     "optWhy": [
+      "Another meaning of the word: people “browse” shops or books, but animals browsing trees are eating them.",
+      "Another meaning of the word: “browse” is used for websites, which does not fit elephants and bison.",
+      "Correct. The herbivores ate young trees, which helped keep the landscape open.",
+      "Detail swapped: walking over plants is “trampled,” a different action in the same sentence."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what did the researchers conclude about the mosaic landscape?",
+     "opts": [
+      "It also existed under temperate climates like today’s.",
+      "It appeared only during unusually warm periods in Europe’s past.",
+      "It replaced dense forests about 20 million years ago.",
+      "It spread across Europe after industrialisation."
+     ],
+     "a": 0,
+     "evidence": "but also under temperate climates similar to today’s",
+     "why": "The mosaic persisted “not only during unusually warm or cold periods but also under temperate climates similar to today’s.”",
+     "optWhy": [
+      "Correct. A paraphrase of “also under temperate climates similar to today’s.”",
+      "Too extreme / contradicts the text: the mosaic existed in warm, cold and temperate periods.",
+      "Cause reversed: dense forests are the recent development, not the older one that was replaced.",
+      "Contradicts the text: the review covers the time before industrialisation."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following were used as evidence EXCEPT",
+     "opts": [
+      "chemical isotopes in fossil teeth",
+      "fossil insects such as dung beetles",
+      "environmental DNA from the soil",
+      "satellite images of modern forests"
+     ],
+     "a": 3,
+     "evidence": "and environmental DNA recovered from soil",
+     "why": "Paragraph 4 lists pollen, plant remains, charcoal, isotopes, fossil insects and environmental DNA, but not satellite images.",
+     "optWhy": [
+      "Mentioned: “chemical isotopes in fossil teeth and bones.”",
+      "Mentioned: “fossil insects such as dung beetles.”",
+      "Mentioned: “environmental DNA recovered from soil.”",
+      "Correct. Satellite images are never mentioned."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about fossil pollen records?",
+     "opts": [
+      "They prove that Europe was mostly open grassland.",
+      "They may overstate how many trees grew in an area.",
+      "They were first collected by the ecologist Frans Vera.",
+      "They are no longer used by any modern scientists."
+     ],
+     "a": 1,
+     "evidence": "trees produce and spread far more pollen than many grassland plants",
+     "why": "If trees release far more pollen than grassland plants, pollen records can make tree cover look larger than it was.",
+     "optWhy": [
+      "Opposite / too extreme: critics used pollen as evidence for closed forest, and nothing is “proved.”",
+      "Correct. Trees produce more pollen, so pollen records may exaggerate tree cover.",
+      "Not mentioned: Vera proposed a theory; the passage does not say he collected pollen.",
+      "Too extreme: the Aarhus team still used pollen, combined with other evidence."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention “larks, jackdaws and the European hamster” in paragraph 6?",
+     "opts": [
+      "To show that farmland animals are more common than forest animals",
+      "To explain why these species have recently disappeared from Denmark",
+      "To give examples of species that may depend on open habitats",
+      "To argue that farmers should stop planting crops on their land"
+     ],
+     "a": 2,
+     "evidence": "may originally have evolved in open woodland shaped by wild herbivores",
+     "why": "The animals are examples of species that may have evolved in open woodland, so dense planting could remove their habitat.",
+     "optWhy": [
+      "Not mentioned: the paragraph does not compare numbers of farmland and forest animals.",
+      "Not mentioned: no species is said to have disappeared from Denmark.",
+      "Correct. They illustrate species that may rely on open, grazed landscapes.",
+      "Too extreme / not stated: the author does not ask farmers to stop growing crops."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 3?",
+     "opts": [
+      "Trees spread rapidly after the last ice age, and this caused most of the large animals to die out.",
+      "The gradual loss of large animals reduced the pressure that had limited tree growth.",
+      "Hunting and land-use change were the only reasons large animals disappeared.",
+      "Large animals weakened the trees until hunting forced them to leave Europe."
+     ],
+     "a": 1,
+     "evidence": "As most of these animals disappeared, first through extinction at the end of the last ice age and later through hunting and land-use change, the forces that held trees in check weakened.",
+     "why": "The sentence says that as the large animals disappeared over time, the forces limiting trees became weaker.",
+     "optWhy": [
+      "Cause and effect reversed: the animals’ disappearance weakened the control on trees, not the other way round.",
+      "Correct. “The forces that held trees in check weakened” = less pressure limiting tree growth.",
+      "Too extreme and incomplete: extinction at the end of the ice age is also named, so “only” is wrong.",
+      "Distorts the sentence: animals did not “weaken the trees,” and leaving Europe is not mentioned."
+     ],
+     "highlight": "As most of these animals disappeared, first through extinction at the end of the last ice age and later through hunting and land-use change, the forces that held trees in check weakened."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261108-2-k1",
+     "tag": "Main finding",
+     "fact": "For more than 20 million years, much of Europe was a mosaic of open woodland, scrub, grassland and meadows, not dense forest.",
+     "q": "What did much of Europe look like for most of the last 23 million years?",
+     "opts": [
+      "Unbroken dark forest",
+      "A mosaic of woodland and grassland",
+      "Bare desert"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-2-k2",
+     "tag": "Cause",
+     "fact": "Large herbivores such as elephants, aurochs and bison kept the landscape open by browsing and trampling.",
+     "q": "What kept the landscape open?",
+     "opts": [
+      "Frequent floods",
+      "Large plant-eating animals",
+      "Early farmers"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-2-k3",
+     "tag": "Method",
+     "fact": "The team combined pollen with charcoal, isotopes, fossil insects and environmental DNA instead of relying on pollen alone.",
+     "q": "Why might pollen alone be misleading?",
+     "opts": [
+      "Trees spread far more pollen than grassland plants",
+      "Pollen cannot survive in lakes",
+      "Pollen is only found in deserts"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261108-2-k4",
+     "tag": "Recent change",
+     "fact": "Much of the most recent shift toward closed forest happened within the last hundred years, as traditional grazing disappeared.",
+     "q": "When did much of the most recent shift happen?",
+     "opts": [
+      "During the Miocene",
+      "Within the last hundred years",
+      "During the Eemian interglacial"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-2-k5",
+     "tag": "Policy",
+     "fact": "The authors criticise policies, such as Denmark’s subsidies, that support only dense forest planting.",
+     "q": "What do the authors criticise in Denmark?",
+     "opts": [
+      "Subsidies only for dense forest",
+      "Bans on cattle",
+      "Too few national parks"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261108-2-k6",
+     "tag": "Counter-view",
+     "fact": "Critics note that dense forests store carbon and that reintroducing large herbivores causes practical problems.",
+     "q": "Which is a reason some may still favour dense forests?",
+     "opts": [
+      "They store large amounts of carbon",
+      "They contain more larks",
+      "They need no land"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Europe's open past",
+    "question": "Was Europe's natural landscape really a dense forest?",
+    "branches": [
+     {
+      "title": "New finding",
+      "paras": "1–2",
+      "blanks": [
+       "mosaic of woods and grassland",
+       "dense forest is recent"
+      ],
+      "kps": [
+       "n20261108-2-k1"
+      ]
+     },
+     {
+      "title": "Giant grazers",
+      "paras": "3",
+      "blanks": [
+       "herbivores browsed and trampled trees",
+       "grazing vanished in last century"
+      ],
+      "kps": [
+       "n20261108-2-k2",
+       "n20261108-2-k4"
+      ]
+     },
+     {
+      "title": "Evidence and debate",
+      "paras": "4–5",
+      "blanks": [
+       "many sources beyond pollen",
+       "pollen may overstate trees"
+      ],
+      "kps": [
+       "n20261108-2-k3"
+      ]
+     },
+     {
+      "title": "What it means",
+      "paras": "6–8",
+      "blanks": [
+       "open habitats for farmland species",
+       "carbon storage favours forests"
+      ],
+      "kps": [
+       "n20261108-2-k5",
+       "n20261108-2-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "farmers cleared all ancient forests",
+     "pollen records were ignored completely"
+    ]
+   },
+   "summary": {
+    "intro": "A new review challenges the idea that Europe was naturally covered by dense forest.",
+    "model": "The study argues that Europe was long a mosaic of woodland and grassland kept open by large herbivores, so dense forest is recent. However, while this challenges tree-planting policies, critics point to carbon storage and practical problems.",
+    "options": [
+     {
+      "t": "For most of the last 23 million years, much of Europe was a mixed landscape of woodland and grassland rather than closed forest.",
+      "ok": true,
+      "why": "Main idea of paragraphs 1–2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "much of Europe was a mosaic of scattered trees, open woodland, scrub, grassland and flowering meadows"
+     },
+     {
+      "t": "Large herbivores kept the land open, and the study combined several kinds of evidence to support this view.",
+      "ok": true,
+      "why": "Main idea of paragraphs 3–5.",
+      "type": "main",
+      "para": 3,
+      "evidence": "The authors point to large plant-eating animals."
+     },
+     {
+      "t": "The findings question policies that plant only dense forest, although carbon storage and practical problems give reasons for caution.",
+      "ok": true,
+      "why": "Main idea of paragraphs 6–7.",
+      "type": "main",
+      "para": 6,
+      "evidence": "the implications for conservation are significant"
+     },
+     {
+      "t": "Fossil dung beetles can indicate that large grazing herds were present.",
+      "ok": false,
+      "why": "A minor supporting detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "fossil insects such as dung beetles — a sign of large grazing herds"
+     },
+     {
+      "t": "The European Union has banned new tree planting on former farmland.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The authors want to recreate Europe’s ancient landscape exactly as it was.",
+      "ok": false,
+      "why": "Contradicts paragraph 8.",
+      "type": "contra",
+      "para": 8,
+      "evidence": "The authors themselves do not call for recreating an ancient landscape exactly."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think the best way to help nature is to plant as many trees as possible. Others believe it is better to protect a variety of habitats, such as grasslands and wetlands. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Opinion → reason 1 + example from your city or country → reason 2 + example → wrap-up.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A new study suggests that Europe’s natural landscape was a mix of woods and open grassland kept open by large grazing animals such as bison. Some conservationists now want to bring large herbivores back to wild areas. Others think tree planting is simpler and better for the climate. Which approach should governments support, and why? (Sara says: Bringing back bison and wild horses restores the natural process that created Europe’s biodiversity. Planting dense forests everywhere could destroy habitats for many species.) (Tom says: Forests store carbon, and we are in a climate emergency. Large animals may damage farms and cause road accidents, so planting trees is the safer choice.)",
+    "steps": [
+     "State which approach you support, or how to combine them.",
+     "Give one reason with an example (biodiversity, carbon, safety, cost).",
+     "Respond to Sara or Tom with a new point.",
+     "Conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261108-3",
+   "topic": "Science",
+   "title": "Every Breath We Take: Counting the Carbon in Human Metabolism",
+   "dek": "Humans breathe out about two billion tonnes of CO2 a year. Is that a climate problem, or a striking number that is easy to misread?",
+   "sources": [
+    {
+     "name": "University of Bath, Oct 28, 2026",
+     "url": "https://www.bath.ac.uk/announcements/human-metabolism-produces-two-billion-tonnes-of-co2-a-year-global-study-finds/"
+    },
+    {
+     "name": "ScienceDaily / University of Bath, Nov 7, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
+    }
+   ],
+   "paras": [
+    "Every time you breathe out, you release a small puff of carbon dioxide, the same gas that is driving climate change when it comes from cars and power stations. One person’s breath seems trivial, but there are now more than eight billion of us. A new study led by the University of Bath in the United Kingdom, published in The Lancet Planetary Health, has attempted to calculate how much carbon dioxide all of humanity produces simply by staying alive. The answer — about two billion tonnes a year — has produced attention-grabbing headlines, but its real meaning is more subtle than they suggest.",
+    "To understand where this gas comes from, it helps to recall basic biology. Our cells release energy from food through a process called cellular respiration, in which sugars and fats react with oxygen to produce energy, water and carbon dioxide. The blood carries the carbon dioxide to the lungs, and we exhale it. The more energy a body uses — because it is larger, more active or still growing — the more carbon dioxide it generates.",
+    "The research team, led by Professor Javier Gonzalez of the university’s Centre for Exercise, Nutrition and Metabolism, combined thousands of real-world measurements of people from infancy to old age with global data on population and body weight. They estimated that the carbon dioxide produced by human metabolism rose from about 1.18 billion tonnes in 1985 to about 2.05 billion tonnes in 2015, an increase of 74 percent. More than 60 percent of that growth was explained by the rising number of people, rather than by each person producing much more.",
+    "Should we therefore worry about our breathing? The researchers insist that we should not. “The important thing is that the carbon dioxide we breathe out is not the same as burning fossil fuels,” Gonzalez said. The carbon in our food was absorbed from the atmosphere by plants only recently, usually months or a few years earlier, so exhaling it simply returns it to the air in a short, closed loop. Coal, oil and gas, by contrast, contain carbon that was locked underground for millions of years; burning them adds new carbon to the atmosphere. “We’re not saying that breathing is driving climate change,” he stressed, and the team does not recommend that anyone exercise less or change their diet.",
+    "If breathing is not the problem, why count it at all? The answer lies in carbon accounting. Scientists track where carbon comes from and where it goes in order to predict how the climate will respond to different policies, and their models depend on getting every part of the carbon cycle right. According to the researchers, human metabolism is a sizeable part of that cycle, particularly in densely populated towns and cities. When sensors measure the carbon dioxide rising from a city, some of it comes from millions of exhaling residents; if that share is ignored or misjudged, estimates of emissions from traffic or heating could be distorted.",
+    "Critics of the media coverage argue that headlines such as “humans emit two billion tonnes of CO2 just by staying alive” risk confusing the public. Some readers might conclude that population growth itself is the main cause of global warming, or that cutting emissions is pointless because people must breathe. Yet the countries where populations are growing fastest generally have the lowest fossil-fuel emissions per person, while a relatively small share of wealthy consumers accounts for a large proportion of global emissions.",
+    "Others point out that the story does not end at the lungs. Although the carbon we exhale is part of a short cycle, producing our food often involves fossil fuels — in fertilisers, farm machinery, transport and refrigeration. From this perspective, diet does matter for the climate, not because of what we breathe out, but because of the energy used to grow and deliver what we eat. The study itself does not make this argument, but it highlights how closely human biology is connected to wider systems.",
+    "In my view, the Bath study is valuable precisely because its finding is so easy to misread. It shows that careful scientific accounting must include even the most ordinary activities, while reminding us that not all carbon dioxide is equal. The lesson for readers is to look beyond a striking number and ask where the carbon came from, and how long it was stored, before deciding whether it matters."
+   ],
+   "words": [
+    {
+     "w": "trivial",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈtrɪviəl/",
+     "syl": [
+      "triv",
+      "i",
+      "al"
+     ],
+     "def": "having little importance or value",
+     "ex": "What seemed like a trivial mistake in the code crashed the whole app."
+    },
+    {
+     "w": "subtle",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈsʌtl/",
+     "syl": [
+      "sub",
+      "tle"
+     ],
+     "def": "not obvious; needing careful thought to notice or understand",
+     "ex": "There is a subtle difference between being confident and being proud."
+    },
+    {
+     "w": "metabolism",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/məˈtæbəlɪzəm/",
+     "syl": [
+      "me",
+      "tab",
+      "o",
+      "lism"
+     ],
+     "def": "the chemical processes in the body that turn food into energy",
+     "ex": "Teenagers often have a fast metabolism because their bodies are still growing."
+    },
+    {
+     "w": "respiration",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌrespəˈreɪʃn/",
+     "syl": [
+      "res",
+      "pi",
+      "ra",
+      "tion"
+     ],
+     "def": "the process by which living things use oxygen to release energy from food",
+     "ex": "Plants carry out respiration at night, when there is no light for photosynthesis."
+    },
+    {
+     "w": "exhale",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/eksˈheɪl/",
+     "syl": [
+      "ex",
+      "hale"
+     ],
+     "def": "to breathe air out of the lungs",
+     "ex": "The yoga teacher told us to exhale slowly through the mouth."
+    },
+    {
+     "w": "insist",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈsɪst/",
+     "syl": [
+      "in",
+      "sist"
+     ],
+     "def": "to say firmly that something is true, especially when others may doubt it",
+     "ex": "My grandmother continues to insist that handwritten letters are more personal than emails."
+    },
+    {
+     "w": "distort",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/dɪˈstɔːrt/",
+     "syl": [
+      "dis",
+      "tort"
+     ],
+     "def": "to change something so that it is no longer accurate or true",
+     "ex": "A single extreme value can distort the average of a small data set."
+    },
+    {
+     "w": "proportion",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/prəˈpɔːrʃn/",
+     "syl": [
+      "pro",
+      "por",
+      "tion"
+     ],
+     "def": "a part or share of a whole, often compared with the total",
+     "ex": "A large proportion of the students walk to school every day."
+    },
+    {
+     "w": "fertiliser",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈfɜːrtəlaɪzər/",
+     "syl": [
+      "fer",
+      "ti",
+      "lis",
+      "er"
+     ],
+     "def": "a substance added to soil to help plants grow",
+     "ex": "Farmers who use too much fertiliser can pollute nearby rivers."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The answer — about two billion tonnes a year — has produced attention-grabbing headlines, but its real meaning is more subtle than they suggest.",
+     "kind": "Main idea",
+     "note": "The thesis: a big number with a subtle meaning. The rest of the article explains why the number is easy to misread."
+    },
+    {
+     "para": 3,
+     "text": "More than 60 percent of that growth was explained by the rising number of people, rather than by each person producing much more.",
+     "kind": "Key details",
+     "note": "A classic factual-question sentence: “rather than” separates the real cause from a tempting wrong one."
+    },
+    {
+     "para": 4,
+     "text": "Coal, oil and gas, by contrast, contain carbon that was locked underground for millions of years; burning them adds new carbon to the atmosphere.",
+     "kind": "Cause → effect",
+     "note": "“By contrast” marks the key difference between breath carbon and fossil carbon — the logical heart of the article."
+    },
+    {
+     "para": 5,
+     "text": "If breathing is not the problem, why count it at all? The answer lies in carbon accounting.",
+     "kind": "Topic sentence",
+     "note": "A rhetorical question introduces the purpose of the research. Expect a rhetorical-purpose question here."
+    },
+    {
+     "para": 6,
+     "text": "Critics of the media coverage argue that headlines such as “humans emit two billion tonnes of CO2 just by staying alive” risk confusing the public.",
+     "kind": "Critical thinking",
+     "note": "Shows how the framing of a fact, not the fact itself, can mislead readers."
+    },
+    {
+     "para": 8,
+     "text": "In my view, the Bath study is valuable precisely because its finding is so easy to misread.",
+     "kind": "Author's view",
+     "note": "The author’s judgement: the study’s value lies partly in teaching readers to think carefully about numbers."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “trivial” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "related to quiz facts",
+      "harmful",
+      "invisible",
+      "insignificant"
+     ],
+     "a": 3,
+     "evidence": "One person’s breath seems trivial",
+     "why": "One breath seems too small to matter, so “trivial” means insignificant.",
+     "optWhy": [
+      "Another meaning trap: “trivia” means quiz-style facts, but “trivial” means unimportant.",
+      "Opposite idea: the sentence stresses that one breath seems too small to cause harm.",
+      "Detail swapped: CO2 is invisible, but that is not what “trivial” means here.",
+      "Correct. One breath seems too small to matter."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what was the main reason for the rise in metabolic CO2 between 1985 and 2015?",
+     "opts": [
+      "People exercised much more than before.",
+      "There were many more people alive.",
+      "Average body weight roughly doubled.",
+      "Measurement methods became more accurate."
+     ],
+     "a": 1,
+     "evidence": "More than 60 percent of that growth was explained by the rising number of people",
+     "why": "Most of the growth came from the rising number of people, not from each person producing much more.",
+     "optWhy": [
+      "Not mentioned: exercise levels are not given as a cause.",
+      "Correct. Population growth explained more than 60 percent of the increase.",
+      "Not mentioned / too extreme: body-weight data were used, but no doubling is stated.",
+      "Detail swapped: “real-world measurements” were the method, not the cause of the rise."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are true about the carbon we breathe out EXCEPT:",
+     "opts": [
+      "It was taken from the air by plants fairly recently.",
+      "It returns to the atmosphere in a short loop.",
+      "It had been stored underground for millions of years.",
+      "It differs from the carbon that is released when coal is burned."
+     ],
+     "a": 2,
+     "evidence": "Coal, oil and gas, by contrast, contain carbon that was locked underground for millions of years",
+     "why": "Carbon stored underground for millions of years describes fossil fuels, not the carbon we exhale.",
+     "optWhy": [
+      "Stated: plants absorbed it “only recently.”",
+      "Stated: exhaling returns it “in a short, closed loop.”",
+      "Correct. This describes fossil fuels, which the paragraph contrasts with breath.",
+      "Stated: Gonzalez says exhaled CO2 “is not the same as burning fossil fuels.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about measuring emissions in cities?",
+     "opts": [
+      "Ignoring human breathing could make traffic emissions appear larger.",
+      "City sensors are unable to detect any carbon dioxide from vehicles.",
+      "Human breathing produces more CO2 than road traffic in most large cities.",
+      "Cities should reduce their populations to cut their emissions."
+     ],
+     "a": 0,
+     "evidence": "if that share is ignored or misjudged, estimates of emissions from traffic or heating could be distorted",
+     "why": "If breath CO2 is missed, it may be wrongly counted as coming from traffic or heating, so those estimates could be too high.",
+     "optWhy": [
+      "Correct. Unaccounted breath CO2 could be wrongly assigned to traffic or heating.",
+      "Not stated: sensors measure all CO2 rising from a city, including traffic.",
+      "Too extreme / not stated: the passage calls metabolism “sizeable,” not larger than traffic.",
+      "Not stated: the passage makes no recommendation about population size."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author explain cellular respiration in paragraph 2?",
+     "opts": [
+      "To argue that active people harm the climate more than others",
+      "To show that the Bath study relied on new medical technology",
+      "To prove that exhaled carbon dioxide causes global warming",
+      "To give background on how the human body makes carbon dioxide"
+     ],
+     "a": 3,
+     "evidence": "Our cells release energy from food through a process called cellular respiration",
+     "why": "The paragraph begins “it helps to recall basic biology”: it provides background on where exhaled CO2 comes from.",
+     "optWhy": [
+      "Not the purpose: activity raises CO2 output, but the author never says active people harm the climate.",
+      "Not mentioned: the paragraph is about biology, not research technology.",
+      "Contradicts the passage: the researchers say breathing is not driving climate change.",
+      "Correct. It explains the biological source of exhaled CO2."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "Diet affects the climate through the energy used to produce and transport food, not through breathing.",
+      "Both breathing and the production of food have a large and similar effect on the climate.",
+      "What we breathe out matters more for the climate than how our food is grown.",
+      "People should stop eating any food that has been transported long distances."
+     ],
+     "a": 0,
+     "evidence": "From this perspective, diet does matter for the climate, not because of what we breathe out, but because of the energy used to grow and deliver what we eat.",
+     "why": "The sentence contrasts two causes: diet matters because of food-production energy, not because of exhaled breath.",
+     "optWhy": [
+      "Correct. Keeps the contrast “not because of … but because of …”.",
+      "Distorts the contrast: the sentence says breathing is not the reason diet matters.",
+      "Reverses the comparison: food-production energy is the important factor, not breath.",
+      "Too extreme / not stated: the sentence gives no advice about what to eat."
+     ],
+     "highlight": "From this perspective, diet does matter for the climate, not because of what we breathe out, but because of the energy used to grow and deliver what we eat."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261108-3-k1",
+     "tag": "Number",
+     "fact": "Human metabolism produces about two billion tonnes of CO2 a year (2.05 billion tonnes in 2015).",
+     "q": "About how much CO2 did human metabolism produce in 2015?",
+     "opts": [
+      "About 2 million tonnes",
+      "About 2 billion tonnes",
+      "About 20 billion tonnes"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-3-k2",
+     "tag": "Cause",
+     "fact": "More than 60 percent of the 74 percent rise since 1985 came from population growth.",
+     "q": "What mainly explains the rise?",
+     "opts": [
+      "People eating more meat",
+      "More people alive",
+      "Better measurement"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-3-k3",
+     "tag": "Key difference",
+     "fact": "Exhaled carbon was recently taken from the air by plants, while fossil fuels release carbon stored for millions of years.",
+     "q": "Why is breathing different from burning coal?",
+     "opts": [
+      "Breath carbon is part of a short cycle",
+      "Breath contains no carbon",
+      "Coal releases oxygen"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261108-3-k4",
+     "tag": "Purpose",
+     "fact": "Counting metabolic CO2 improves carbon accounting, especially in crowded cities.",
+     "q": "Why does the study count breathing at all?",
+     "opts": [
+      "To ask people to exercise less",
+      "To improve carbon accounting",
+      "To tax large families"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261108-3-k5",
+     "tag": "Debate",
+     "fact": "Critics warn that dramatic headlines may make people blame population growth or think climate action is pointless.",
+     "q": "What do critics of the headlines worry about?",
+     "opts": [
+      "Readers may be confused",
+      "Scientists made a calculation error",
+      "Breathing will be banned"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Carbon in our breath",
+    "question": "Should we worry about the CO2 humans breathe out?",
+    "branches": [
+     {
+      "title": "The number",
+      "paras": "1–3",
+      "blanks": [
+       "about two billion tonnes yearly",
+       "rise mainly from population growth"
+      ],
+      "kps": [
+       "n20261108-3-k1",
+       "n20261108-3-k2"
+      ]
+     },
+     {
+      "title": "Not fossil carbon",
+      "paras": "4",
+      "blanks": [
+       "food carbon returns in short loop"
+      ],
+      "kps": [
+       "n20261108-3-k3"
+      ]
+     },
+     {
+      "title": "Why count it",
+      "paras": "5",
+      "blanks": [
+       "better carbon accounting in cities"
+      ],
+      "kps": [
+       "n20261108-3-k4"
+      ]
+     },
+     {
+      "title": "Wider debate",
+      "paras": "6–8",
+      "blanks": [
+       "headlines may confuse the public",
+       "food production uses fossil fuels"
+      ],
+      "kps": [
+       "n20261108-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "breathing drives global warming",
+     "exercise should be reduced"
+    ]
+   },
+   "summary": {
+    "intro": "A University of Bath study estimates how much carbon dioxide humans produce by breathing.",
+    "model": "Humans exhale about two billion tonnes of CO2 a year, mainly because the population has grown. However, because this carbon comes from food, it is not like fossil fuels, so the study matters for accurate carbon accounting rather than as a cause of warming.",
+    "options": [
+     {
+      "t": "Human metabolism produces about two billion tonnes of CO2 a year, a rise driven mostly by population growth.",
+      "ok": true,
+      "why": "Main idea of paragraphs 1–3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "More than 60 percent of that growth was explained by the rising number of people"
+     },
+     {
+      "t": "Exhaled carbon is part of a short cycle, unlike fossil fuels, so breathing is not driving climate change.",
+      "ok": true,
+      "why": "Main idea of paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "the carbon dioxide we breathe out is not the same as burning fossil fuels"
+     },
+     {
+      "t": "The estimate is useful for carbon accounting, but dramatic headlines about it risk misleading the public.",
+      "ok": true,
+      "why": "Main idea of paragraphs 5–6.",
+      "type": "main",
+      "para": 5,
+      "evidence": "The answer lies in carbon accounting."
+     },
+     {
+      "t": "The blood carries carbon dioxide from the cells to the lungs.",
+      "ok": false,
+      "why": "A minor background detail.",
+      "type": "detail",
+      "para": 2,
+      "evidence": "The blood carries the carbon dioxide to the lungs"
+     },
+     {
+      "t": "The researchers measured the breath of every person in the United Kingdom.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The research team advises people to exercise less to protect the climate.",
+      "ok": false,
+      "why": "Contradicts paragraph 4.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "the team does not recommend that anyone exercise less or change their diet"
+     }
+    ]
+   },
+   "speak": {
+    "p": "News headlines often use dramatic numbers to attract readers. Some people think this helps the public pay attention to science. Others think it causes confusion and mistrust. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Opinion → reason 1 + a headline you have seen → reason 2 + example → conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A recent study found that humans breathe out about two billion tonnes of carbon dioxide each year, and some headlines presented this as a climate problem. Who has the greater responsibility for preventing misunderstandings about science: journalists who write the headlines, or readers who share them? Explain your view. (Ming says: Journalists are professionals. They should write accurate headlines, because most people only read the headline and never the full article.) (Emma says: Readers cannot blame the media for everything. Before sharing a story, everyone should read it carefully and check the facts.)",
+    "steps": [
+     "Decide who carries more responsibility, or argue for sharing it.",
+     "Give a reason with an example (a viral post, a misleading number).",
+     "Respond to Ming or Emma with a new idea.",
+     "Conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "On Monday, November 9, delegates from nearly 200 countries will gather in the Turkish resort city of Antalya for COP31, the United Nations’ annual climate summit. For almost two weeks, until November 20, ministers, diplomats, scientists and activists will argue over how quickly the world should cut the greenhouse gases that are warming the planet. More than 100,000 people are expected to attend, and dozens of world leaders are scheduled to speak at a leaders’ summit on November 11 and 12. Yet many observers believe this year’s talks will be among the most difficult in recent memory.": "audio/2026-11-08/a1-p1.mp3",
+  "Part of the difficulty is visible in the summit’s unusual structure. Under UN rules dating back to 1992, Türkiye and Australia belong to the same regional group, and both wanted to host the 2026 conference. Because the climate treaty has no mechanism for settling competing bids, the two countries reached a compromise at last year’s summit in Brazil: Türkiye hosts the event and leads a programme of voluntary “action” commitments, while Australia, represented by its climate minister Chris Bowen, chairs the formal negotiations. Supporters say the arrangement shows that rivals can cooperate; critics worry that divided leadership may blur responsibility if the talks stall.": "audio/2026-11-08/a1-p2.mp3",
+  "The scientific backdrop is sobering. According to a recent report from the UN Environment Programme, even if every country fully implemented its current pledges, the world would still be on course for about 2.6°C of warming this century — far above the 1.5°C goal set in the 2015 Paris Agreement. Scientists now accept that the 1.5°C threshold will be crossed, at least temporarily, and global carbon emissions have yet to peak. A strong El Niño, a natural climate pattern that releases heat from the Pacific Ocean, could make 2026 or 2027 the hottest year on record.": "audio/2026-11-08/a1-p3.mp3",
+  "Against this background, the co-hosts have chosen a practical centrepiece: electrification. Today, electricity supplies only about 20 percent of the world’s final energy demand; the rest comes mostly from burning fuels directly in cars, furnaces and boilers. Türkiye and Australia want countries to commit to raising that share to 35 percent by 2035. The logic is that electric vehicles, heat pumps and industrial machines can run on power from solar and wind farms, whereas a petrol engine cannot. “I would like to see a strong outcome on electrification,” Bowen has said.": "audio/2026-11-08/a1-p4.mp3",
+  "Optimists believe the timing is surprisingly favourable. An energy crisis linked to war in the Middle East has pushed up oil and gas prices, reminding importing countries how vulnerable they are to distant conflicts. Fatih Birol, head of the International Energy Agency, has argued that this pressure could produce a “climate action comeback,” because producing electricity at home from sunlight and wind is both cleaner and more secure. “I have rarely seen the energy security policy objectives and the climate objectives so closely aligned,” he said.": "audio/2026-11-08/a1-p5.mp3",
+  "Skeptics, however, point to contradictions closer to home. Coal remains Türkiye’s largest source of electricity, and its national climate plan allows emissions to keep rising rather than falling, although the government did cancel the expansion of a major coal plant in July. Australia, one of the world’s largest exporters of coal and gas, has declined to set an end date for coal. Campaigners also note that the 2023 summit in Dubai promised a “transition away from fossil fuels,” yet last year’s final agreement in Brazil did not explicitly mention them. To these critics, a focus on electrification risks becoming a comfortable way to avoid the harder question of when fossil fuels will actually be abandoned.": "audio/2026-11-08/a1-p6.mp3",
+  "Money is a third fault line. African negotiators want wealthy nations to triple funding for adaptation — the sea walls, drought-resistant crops and early-warning systems that help communities cope with the warming that is already unavoidable. Developed countries, facing high energy bills and tight budgets of their own, have been reluctant to promise more. Meanwhile, the United States government is not taking part in the negotiations at all, sending only a delegation from Congress, which weakens the pressure on other large emitters.": "audio/2026-11-08/a1-p7.mp3",
+  "Because every COP decision requires consensus among nearly 200 governments, a single country can block an agreement. Bowen himself has admitted that reaching a deal “will not be easy.” Whether Antalya succeeds may therefore depend less on dramatic announcements than on measurable commitments, such as electrification targets, that countries can be held to. In my view, a modest but specific agreement would be worth more than another ambitious promise that is quietly forgotten; the real test of COP31 will come not on November 20, but in the years that follow.": "audio/2026-11-08/a1-p8.mp3",
+  "sobering": "audio/2026-11-08/a1-w-sobering.mp3",
+  "The doctor’s report was sobering, so the whole family started eating more healthily.": "audio/2026-11-08/a1-ex-sobering.mp3",
+  "compromise": "audio/2026-11-08/a1-w-compromise.mp3",
+  "After hours of arguing, the club members reached a compromise on the trip budget.": "audio/2026-11-08/a1-ex-compromise.mp3",
+  "threshold": "audio/2026-11-08/a1-w-threshold.mp3",
+  "Many people have a low pain threshold and dislike injections.": "audio/2026-11-08/a1-ex-threshold.mp3",
+  "electrification": "audio/2026-11-08/a1-w-electrification.mp3",
+  "The electrification of city buses has made the air on busy streets cleaner.": "audio/2026-11-08/a1-ex-electrification.mp3",
+  "vulnerable": "audio/2026-11-08/a1-w-vulnerable.mp3",
+  "Small coastal towns are especially vulnerable to rising sea levels.": "audio/2026-11-08/a1-ex-vulnerable.mp3",
+  "contradiction": "audio/2026-11-08/a1-w-contradiction.mp3",
+  "There is a contradiction between praising exercise and cutting school sports time.": "audio/2026-11-08/a1-ex-contradiction.mp3",
+  "adaptation": "audio/2026-11-08/a1-w-adaptation.mp3",
+  "Planting shade trees is a simple form of adaptation to hotter summers.": "audio/2026-11-08/a1-ex-adaptation.mp3",
+  "emitter": "audio/2026-11-08/a1-w-emitter.mp3",
+  "The steel plant is the largest emitter of carbon dioxide in the region.": "audio/2026-11-08/a1-ex-emitter.mp3",
+  "consensus": "audio/2026-11-08/a1-w-consensus.mp3",
+  "The class reached a consensus that the field trip should be moved to spring.": "audio/2026-11-08/a1-ex-consensus.mp3",
+  "Yet many observers believe this year’s talks will be among the most difficult in recent memory.": "audio/2026-11-08/a1-ks1.mp3",
+  "The scientific backdrop is sobering.": "audio/2026-11-08/a1-ks2.mp3",
+  "Optimists believe the timing is surprisingly favourable.": "audio/2026-11-08/a1-ks3.mp3",
+  "To these critics, a focus on electrification risks becoming a comfortable way to avoid the harder question of when fossil fuels will actually be abandoned.": "audio/2026-11-08/a1-ks4.mp3",
+  "Because every COP decision requires consensus among nearly 200 governments, a single country can block an agreement.": "audio/2026-11-08/a1-ks5.mp3",
+  "In my view, a modest but specific agreement would be worth more than another ambitious promise that is quietly forgotten; the real test of COP31 will come not on November 20, but in the years that follow.": "audio/2026-11-08/a1-ks6.mp3",
+  "Ask many Europeans to imagine their continent before farmers arrived, and they will picture a dark, unbroken forest stretching from the Atlantic to the Urals — the kind of wilderness found in fairy tales. This image has shaped science and policy for generations. Conservationists have often treated closed-canopy forest, in which the crowns of tall trees touch and shade the ground below, as Europe’s “natural” state, and many governments still measure environmental progress by how many trees they plant. A study from Aarhus University in Denmark, published in the journal Biological Conservation and widely discussed again this week, argues that this picture is largely mistaken.": "audio/2026-11-08/a2-p1.mp3",
+  "The researchers, led by doctoral researcher Szymon Czyżewski and senior author Professor Jens-Christian Svenning, reviewed evidence covering roughly the last 23 million years, from the Miocene epoch to the period just before industrialisation. Their conclusion is striking: for more than 20 million years, much of Europe was a mosaic of scattered trees, open woodland, scrub, grassland and flowering meadows. Dense, dark forests, they argue, are a relatively recent phenomenon. Importantly, the mosaic persisted not only during unusually warm or cold periods but also under temperate climates similar to today’s.": "audio/2026-11-08/a2-p2.mp3",
+  "What kept the landscape open? The authors point to large plant-eating animals. Elephants, rhinoceroses, wild horses, aurochs — the giant wild ancestors of cattle — and bison browsed young trees, broke branches and trampled vegetation, creating clearings where light-loving plants could thrive. As most of these animals disappeared, first through extinction at the end of the last ice age and later through hunting and land-use change, the forces that held trees in check weakened. According to the study, much of the most recent shift has happened within the last hundred years, as traditional grazing by livestock vanished from large parts of the countryside.": "audio/2026-11-08/a2-p3.mp3",
+  "The evidence comes from many sources rather than one. Traditionally, scientists reconstructed ancient vegetation mainly from fossil pollen trapped in lake sediments. The Aarhus team combined pollen with preserved plant remains, ancient charcoal, chemical isotopes in fossil teeth and bones, fossil insects such as dung beetles — a sign of large grazing herds — and environmental DNA recovered from soil. They paid special attention to the Eemian interglacial, a warm period about 130,000 to 115,000 years ago, when the climate resembled today’s but human influence was minimal.": "audio/2026-11-08/a2-p4.mp3",
+  "The idea is not entirely new. Around the turn of the century, the Dutch ecologist Frans Vera proposed that grazing animals had kept Europe’s primeval landscape partly open, and his theory provoked fierce debate. Critics noted that pollen records from many sites are dominated by tree pollen, which they took as evidence of largely closed forests. Supporters of the new study argue that pollen alone can be misleading, because trees produce and spread far more pollen than many grassland plants, and that combining several independent types of evidence gives a more reliable picture.": "audio/2026-11-08/a2-p5.mp3",
+  "If the authors are right, the implications for conservation are significant. Many species now associated with farmland, such as larks, jackdaws and the European hamster, may originally have evolved in open woodland shaped by wild herbivores. Planting dense forest everywhere could therefore remove the very habitats these species depend on. The researchers single out Denmark, where public subsidies support only the planting of dense forest; Svenning warned that this approach “will not only be harmful for biodiversity” but also contradicts the ecosystems in which Europe’s species evolved.": "audio/2026-11-08/a2-p6.mp3",
+  "Not everyone will be persuaded. Dense forests can store large amounts of carbon, so governments trying to meet climate targets have strong reasons to favour them. Bringing back large herbivores, meanwhile, raises practical problems: bison and wild cattle need space, may damage crops and can collide with cars on busy roads. Some scientists may also question how confidently a landscape that existed millions of years ago can guide decisions about a crowded continent today.": "audio/2026-11-08/a2-p7.mp3",
+  "The authors themselves do not call for recreating an ancient landscape exactly. Instead, they suggest restoring the natural processes, especially grazing, that once made Europe’s ecosystems diverse and resilient. Their study is a reminder that “natural” is not a fixed snapshot but a moving target. In my view, the strongest lesson is not that tree planting is wrong, but that conservation goals should be based on evidence rather than on a fairy-tale image of the past.": "audio/2026-11-08/a2-p8.mp3",
+  "canopy": "audio/2026-11-08/a2-w-canopy.mp3",
+  "Monkeys spend most of their lives high in the rainforest canopy.": "audio/2026-11-08/a2-ex-canopy.mp3",
+  "mosaic": "audio/2026-11-08/a2-w-mosaic.mp3",
+  "From the plane, the farmland looked like a mosaic of green and yellow fields.": "audio/2026-11-08/a2-ex-mosaic.mp3",
+  "phenomenon": "audio/2026-11-08/a2-w-phenomenon.mp3",
+  "Online shopping during festivals has become a global phenomenon.": "audio/2026-11-08/a2-ex-phenomenon.mp3",
+  "persist": "audio/2026-11-08/a2-w-persist.mp3",
+  "If the cough continues to persist, you should see a doctor.": "audio/2026-11-08/a2-ex-persist.mp3",
+  "herbivore": "audio/2026-11-08/a2-w-herbivore.mp3",
+  "The giraffe is a tall herbivore that feeds on leaves from the tops of trees.": "audio/2026-11-08/a2-ex-herbivore.mp3",
+  "browse": "audio/2026-11-08/a2-w-browse.mp3",
+  "Deer often browse the young shoots in the garden at night.": "audio/2026-11-08/a2-ex-browse.mp3",
+  "provoke": "audio/2026-11-08/a2-w-provoke.mp3",
+  "The new school rule is likely to provoke complaints from students.": "audio/2026-11-08/a2-ex-provoke.mp3",
+  "implication": "audio/2026-11-08/a2-w-implication.mp3",
+  "The scientists discussed the implication of the result for future farming.": "audio/2026-11-08/a2-ex-implication.mp3",
+  "resilient": "audio/2026-11-08/a2-w-resilient.mp3",
+  "Coral reefs with many species tend to be more resilient after storms.": "audio/2026-11-08/a2-ex-resilient.mp3",
+  "A study from Aarhus University in Denmark, published in the journal Biological Conservation and widely discussed again this week, argues that this picture is largely mistaken.": "audio/2026-11-08/a2-ks1.mp3",
+  "Dense, dark forests, they argue, are a relatively recent phenomenon.": "audio/2026-11-08/a2-ks2.mp3",
+  "What kept the landscape open? The authors point to large plant-eating animals.": "audio/2026-11-08/a2-ks3.mp3",
+  "Supporters of the new study argue that pollen alone can be misleading, because trees produce and spread far more pollen than many grassland plants, and that combining several independent types of evidence gives a more reliable picture.": "audio/2026-11-08/a2-ks4.mp3",
+  "Not everyone will be persuaded.": "audio/2026-11-08/a2-ks5.mp3",
+  "In my view, the strongest lesson is not that tree planting is wrong, but that conservation goals should be based on evidence rather than on a fairy-tale image of the past.": "audio/2026-11-08/a2-ks6.mp3",
+  "Every time you breathe out, you release a small puff of carbon dioxide, the same gas that is driving climate change when it comes from cars and power stations. One person’s breath seems trivial, but there are now more than eight billion of us. A new study led by the University of Bath in the United Kingdom, published in The Lancet Planetary Health, has attempted to calculate how much carbon dioxide all of humanity produces simply by staying alive. The answer — about two billion tonnes a year — has produced attention-grabbing headlines, but its real meaning is more subtle than they suggest.": "audio/2026-11-08/a3-p1.mp3",
+  "To understand where this gas comes from, it helps to recall basic biology. Our cells release energy from food through a process called cellular respiration, in which sugars and fats react with oxygen to produce energy, water and carbon dioxide. The blood carries the carbon dioxide to the lungs, and we exhale it. The more energy a body uses — because it is larger, more active or still growing — the more carbon dioxide it generates.": "audio/2026-11-08/a3-p2.mp3",
+  "The research team, led by Professor Javier Gonzalez of the university’s Centre for Exercise, Nutrition and Metabolism, combined thousands of real-world measurements of people from infancy to old age with global data on population and body weight. They estimated that the carbon dioxide produced by human metabolism rose from about 1.18 billion tonnes in 1985 to about 2.05 billion tonnes in 2015, an increase of 74 percent. More than 60 percent of that growth was explained by the rising number of people, rather than by each person producing much more.": "audio/2026-11-08/a3-p3.mp3",
+  "Should we therefore worry about our breathing? The researchers insist that we should not. “The important thing is that the carbon dioxide we breathe out is not the same as burning fossil fuels,” Gonzalez said. The carbon in our food was absorbed from the atmosphere by plants only recently, usually months or a few years earlier, so exhaling it simply returns it to the air in a short, closed loop. Coal, oil and gas, by contrast, contain carbon that was locked underground for millions of years; burning them adds new carbon to the atmosphere. “We’re not saying that breathing is driving climate change,” he stressed, and the team does not recommend that anyone exercise less or change their diet.": "audio/2026-11-08/a3-p4.mp3",
+  "If breathing is not the problem, why count it at all? The answer lies in carbon accounting. Scientists track where carbon comes from and where it goes in order to predict how the climate will respond to different policies, and their models depend on getting every part of the carbon cycle right. According to the researchers, human metabolism is a sizeable part of that cycle, particularly in densely populated towns and cities. When sensors measure the carbon dioxide rising from a city, some of it comes from millions of exhaling residents; if that share is ignored or misjudged, estimates of emissions from traffic or heating could be distorted.": "audio/2026-11-08/a3-p5.mp3",
+  "Critics of the media coverage argue that headlines such as “humans emit two billion tonnes of CO2 just by staying alive” risk confusing the public. Some readers might conclude that population growth itself is the main cause of global warming, or that cutting emissions is pointless because people must breathe. Yet the countries where populations are growing fastest generally have the lowest fossil-fuel emissions per person, while a relatively small share of wealthy consumers accounts for a large proportion of global emissions.": "audio/2026-11-08/a3-p6.mp3",
+  "Others point out that the story does not end at the lungs. Although the carbon we exhale is part of a short cycle, producing our food often involves fossil fuels — in fertilisers, farm machinery, transport and refrigeration. From this perspective, diet does matter for the climate, not because of what we breathe out, but because of the energy used to grow and deliver what we eat. The study itself does not make this argument, but it highlights how closely human biology is connected to wider systems.": "audio/2026-11-08/a3-p7.mp3",
+  "In my view, the Bath study is valuable precisely because its finding is so easy to misread. It shows that careful scientific accounting must include even the most ordinary activities, while reminding us that not all carbon dioxide is equal. The lesson for readers is to look beyond a striking number and ask where the carbon came from, and how long it was stored, before deciding whether it matters.": "audio/2026-11-08/a3-p8.mp3",
+  "trivial": "audio/2026-11-08/a3-w-trivial.mp3",
+  "What seemed like a trivial mistake in the code crashed the whole app.": "audio/2026-11-08/a3-ex-trivial.mp3",
+  "subtle": "audio/2026-11-08/a3-w-subtle.mp3",
+  "There is a subtle difference between being confident and being proud.": "audio/2026-11-08/a3-ex-subtle.mp3",
+  "metabolism": "audio/2026-11-08/a3-w-metabolism.mp3",
+  "Teenagers often have a fast metabolism because their bodies are still growing.": "audio/2026-11-08/a3-ex-metabolism.mp3",
+  "respiration": "audio/2026-11-08/a3-w-respiration.mp3",
+  "Plants carry out respiration at night, when there is no light for photosynthesis.": "audio/2026-11-08/a3-ex-respiration.mp3",
+  "exhale": "audio/2026-11-08/a3-w-exhale.mp3",
+  "The yoga teacher told us to exhale slowly through the mouth.": "audio/2026-11-08/a3-ex-exhale.mp3",
+  "insist": "audio/2026-11-08/a3-w-insist.mp3",
+  "My grandmother continues to insist that handwritten letters are more personal than emails.": "audio/2026-11-08/a3-ex-insist.mp3",
+  "distort": "audio/2026-11-08/a3-w-distort.mp3",
+  "A single extreme value can distort the average of a small data set.": "audio/2026-11-08/a3-ex-distort.mp3",
+  "proportion": "audio/2026-11-08/a3-w-proportion.mp3",
+  "A large proportion of the students walk to school every day.": "audio/2026-11-08/a3-ex-proportion.mp3",
+  "fertiliser": "audio/2026-11-08/a3-w-fertiliser.mp3",
+  "Farmers who use too much fertiliser can pollute nearby rivers.": "audio/2026-11-08/a3-ex-fertiliser.mp3",
+  "The answer — about two billion tonnes a year — has produced attention-grabbing headlines, but its real meaning is more subtle than they suggest.": "audio/2026-11-08/a3-ks1.mp3",
+  "More than 60 percent of that growth was explained by the rising number of people, rather than by each person producing much more.": "audio/2026-11-08/a3-ks2.mp3",
+  "Coal, oil and gas, by contrast, contain carbon that was locked underground for millions of years; burning them adds new carbon to the atmosphere.": "audio/2026-11-08/a3-ks3.mp3",
+  "If breathing is not the problem, why count it at all? The answer lies in carbon accounting.": "audio/2026-11-08/a3-ks4.mp3",
+  "Critics of the media coverage argue that headlines such as “humans emit two billion tonnes of CO2 just by staying alive” risk confusing the public.": "audio/2026-11-08/a3-ks5.mp3",
+  "In my view, the Bath study is valuable precisely because its finding is so easy to misread.": "audio/2026-11-08/a3-ks6.mp3"
+ }
+}
