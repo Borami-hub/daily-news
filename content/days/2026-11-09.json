@@ -1,0 +1,1639 @@
+{
+ "date": "2026-11-09",
+ "headline": "Moon contracts, falling gold and a snake’s second chance",
+ "teaser": "Should private companies build our Moon Base? Why would a central bank buy gold as prices fall? And can captive breeding save a rare snake?",
+ "articles": [
+  {
+   "id": "n20261109-1",
+   "topic": "Space",
+   "title": "Building a Base on the Moon, One Contract at a Time",
+   "dek": "NASA is paying private companies to help build a Moon Base. Is buying services from industry the smartest way to explore space, or a risky bet?",
+   "sources": [
+    {
+     "name": "NASA Watch, Nov 8, 2026",
+     "url": "https://nasawatch.com/2026/11/08/nasa-moon-base-contracts-landers-rover/"
+    },
+    {
+     "name": "Starlust, Nov 8, 2026",
+     "url": "https://starlust.org/nasa-shares-moon-base-updates-at-the-max-power-expo-including-a-nuclear-powered-rover-and-new-lander-deals/"
+    },
+    {
+     "name": "TeslaNorth, Nov 8, 2026",
+     "url": "https://teslanorth.com/2026/11/08/nasa-spacex-starship-moon-communications-2028"
+    }
+   ],
+   "paras": [
+    "On November 7, at an aerospace exhibition at the Kennedy Space Center in Florida, NASA announced a package of contracts that brings its plan for a permanent Moon Base a step closer to reality. The awards range from a nuclear-powered rover to a ten-year agreement under which private companies will compete to deliver cargo to the lunar surface. “We are building the Moon Base mission by mission,” said NASA Administrator Jared Isaacman. The announcement offers a clear picture of how the agency now hopes to explore space: not by building everything itself, but by buying services from industry.",
+    "For most of the space age, NASA designed and owned its own rockets and spacecraft. The Apollo missions that landed astronauts on the Moon between 1969 and 1972 were government projects from start to finish. Over the past two decades, however, the agency has gradually shifted toward a commercial model. Instead of building hardware, it signs contracts with companies that design their own vehicles and are paid for delivering results. The Commercial Lunar Payload Services program, known as CLPS, applied this idea to the Moon by paying firms to carry NASA instruments to the lunar surface.",
+    "The largest of the new awards extends that approach. NASA selected eight companies, including SpaceX, Blue Origin, Firefly Aerospace and Intuitive Machines, for a follow-on program called CLPS 2. Over ten years, these firms will compete for individual delivery missions worth a combined maximum of $10 billion. This figure is a ceiling rather than a guaranteed payment; companies receive money only when they win specific missions. At the same time, NASA raised the value of the original CLPS contract from $2.6 billion to $4.2 billion.",
+    "The most eye-catching project is a six-wheeled rover called PROMISE, which will explore the Moon’s south pole. Because it will be nuclear-powered, it is designed to keep working through the long, freezing lunar night and inside craters that never see sunlight, where solar panels would be useless. Engineers at NASA’s Jet Propulsion Laboratory will build it partly from spare parts and test models left over from the Curiosity and Perseverance Mars rovers, an approach intended to reduce both cost and risk. Its drill will reach about one meter below the surface. Blue Origin received a $94 million base contract, with an option worth up to $140 million more, to land the rover on the Moon in late 2028.",
+    "Other awards fill in the supporting pieces. About $1.3 billion in task orders will pay three companies to launch and transport cargo, including small drones designed to survey the south pole. SpaceX will use its giant Starship rocket to place communications satellites in cislunar space, the region between Earth and the Moon, in 2028. Three more firms will develop a solar-powered tower that provides both electricity and communications for equipment on the surface.",
+    "Supporters argue that this model is the fastest and most affordable way to build a lasting presence on the Moon. Competition, they say, pushes companies to cut costs and innovate, and firms that own their vehicles can sell services to other customers, spreading the expense. Reusing Mars rover parts and buying launches rather than building rockets allows NASA to focus its limited budget on science. In Isaacman’s words, when astronauts eventually return, they “will arrive with the first elements of the Moon Base already waiting for them.”",
+    "Yet the approach carries real risks. When NASA buys a service, it gives up some control over design and schedules, and commercial lunar landers have a mixed record: several recent missions have tipped over or crashed while landing. Many of the vehicles in the plan, including Starship and Blue Origin’s lander, are still being tested, so a delay at one company could ripple through the whole program. Nuclear power also raises questions. Although nuclear power sources have run safely on Mars rovers for years, launching radioactive material will always require careful oversight and public trust.",
+    "In the end, NASA’s announcement is less a single breakthrough than a bet on a particular way of exploring. If the commercial model works, the Moon could host a steady stream of robots, instruments and eventually people within a decade. If it falters, the agency may discover that outsourcing saves money only when everything goes to plan. For now, the contracts suggest that the return to the Moon will be shaped not only by rocket science, but also by how wisely the work is shared."
+   ],
+   "words": [
+    {
+     "w": "commercial",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kəˈmɜːrʃəl/",
+     "syl": [
+      "com",
+      "mer",
+      "cial"
+     ],
+     "def": "connected with buying and selling goods and services in order to make a profit",
+     "ex": "The town’s old factory was turned into a commercial centre full of shops and cafés."
+    },
+    {
+     "w": "ceiling",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈsiːlɪŋ/",
+     "syl": [
+      "ceil",
+      "ing"
+     ],
+     "def": "an official upper limit on an amount, such as a price or a payment",
+     "ex": "The government set a ceiling on rent increases so that families could plan their budgets."
+    },
+    {
+     "w": "outsource",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈaʊtsɔːrs/",
+     "syl": [
+      "out",
+      "source"
+     ],
+     "def": "to pay another company to do work instead of doing it within your own organization",
+     "ex": "Many schools outsource their cleaning and catering to private firms."
+    },
+    {
+     "w": "innovate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈɪnəveɪt/",
+     "syl": [
+      "in",
+      "no",
+      "vate"
+     ],
+     "def": "to introduce new ideas, methods or products",
+     "ex": "Small companies often innovate faster because they have fewer rules to follow."
+    },
+    {
+     "w": "oversight",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈoʊvərsaɪt/",
+     "syl": [
+      "o",
+      "ver",
+      "sight"
+     ],
+     "def": "the process of watching and checking an activity to make sure it is done correctly and safely",
+     "ex": "The new hospital will be built under strict government oversight."
+    },
+    {
+     "w": "falter",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈfɔːltər/",
+     "syl": [
+      "fal",
+      "ter"
+     ],
+     "def": "to become weaker or less successful, or to stop making progress",
+     "ex": "When funding began to falter, the team had to cancel two of its experiments."
+    },
+    {
+     "w": "ripple",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈrɪpəl/",
+     "syl": [
+      "rip",
+      "ple"
+     ],
+     "def": "(of an effect) to spread gradually from one part of something to other parts",
+     "ex": "A storm in one port can ripple through global supply chains for weeks."
+    },
+    {
+     "w": "lunar",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˈluːnər/",
+     "syl": [
+      "lu",
+      "nar"
+     ],
+     "def": "relating to the Moon",
+     "ex": "Astronauts collected lunar rocks to study how the Moon was formed."
+    },
+    {
+     "w": "cislunar",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/sɪsˈluːnər/",
+     "syl": [
+      "cis",
+      "lu",
+      "nar"
+     ],
+     "def": "relating to the space between Earth and the Moon",
+     "ex": "Several countries plan to place navigation satellites in cislunar orbits."
+    },
+    {
+     "w": "rover",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈroʊvər/",
+     "syl": [
+      "ro",
+      "ver"
+     ],
+     "def": "a vehicle designed to drive across the surface of another planet or moon",
+     "ex": "The rover sent back photos of a dry riverbed on Mars."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The announcement offers a clear picture of how the agency now hopes to explore space: not by building everything itself, but by buying services from industry.",
+     "kind": "Main idea",
+     "note": "The colon introduces the article’s central idea, the shift to a commercial model. Main-idea questions often target sentences like this at the end of paragraph 1."
+    },
+    {
+     "para": 2,
+     "text": "Over the past two decades, however, the agency has gradually shifted toward a commercial model.",
+     "kind": "Topic sentence",
+     "note": "“However” marks the turn from history (Apollo) to the present. Contrast words signal where the paragraph’s real point begins."
+    },
+    {
+     "para": 3,
+     "text": "This figure is a ceiling rather than a guaranteed payment; companies receive money only when they win specific missions.",
+     "kind": "Key details",
+     "note": "“Rather than” corrects a likely misunderstanding about the $10 billion. TOEFL factual questions often test this kind of precise distinction."
+    },
+    {
+     "para": 4,
+     "text": "Because it will be nuclear-powered, it is designed to keep working through the long, freezing lunar night and inside craters that never see sunlight, where solar panels would be useless.",
+     "kind": "Cause → effect",
+     "note": "“Because” links nuclear power to the rover’s main advantage. Identify cause and effect to answer “why” questions quickly."
+    },
+    {
+     "para": 6,
+     "text": "Supporters argue that this model is the fastest and most affordable way to build a lasting presence on the Moon.",
+     "kind": "Author's view",
+     "note": "This reports one side of the debate, not the author’s own view. Separating reported opinions from the author’s position is key for inference questions."
+    },
+    {
+     "para": 7,
+     "text": "Yet the approach carries real risks.",
+     "kind": "Critical thinking",
+     "note": "A short sentence beginning with “Yet” introduces the opposing view. The paragraph that follows lists the risks one by one."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention the Apollo missions in paragraph 2?",
+     "opts": [
+      "To argue that government projects are more reliable than commercial ones",
+      "To contrast NASA’s earlier way of working with its current approach",
+      "To show that NASA once planned a permanent base on the Moon",
+      "To explain why the Moon’s south pole has not yet been explored"
+     ],
+     "a": 1,
+     "evidence": "were government projects from start to finish",
+     "why": "Apollo is given as an example of the old model, in which NASA built and owned everything, to contrast with the newer commercial model described in the next sentence.",
+     "optWhy": [
+      "Not the author’s purpose: the paragraph does not compare reliability; it describes a change in method.",
+      "Correct. Apollo shows the old government-run model, which the paragraph then contrasts with the commercial model.",
+      "Not mentioned: the paragraph says nothing about a base being planned during Apollo.",
+      "Not mentioned: the south pole appears only later, in paragraph 4, and is not linked to Apollo."
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “ceiling” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "the top surface inside a room",
+      "the starting payment for a project",
+      "the average cost of a mission",
+      "an upper limit on an amount"
+     ],
+     "a": 3,
+     "evidence": "This figure is a ceiling rather than a guaranteed payment",
+     "why": "The $10 billion is the most that can be paid in total, not a promised amount, so “ceiling” means an upper limit.",
+     "optWhy": [
+      "Another meaning of the word: a ceiling is the top of a room, but here it describes money.",
+      "Wrong idea: the text says the figure is the maximum, not the starting amount.",
+      "Detail swapped: an average is a typical value, while a ceiling is a maximum.",
+      "Correct. The figure is the most that can be paid; firms are paid only for missions they win."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 4,
+     "q": "According to paragraph 4, why will the PROMISE rover be built partly from parts of Mars rovers?",
+     "opts": [
+      "To lower both the cost and the risk of the project",
+      "Because those Mars rovers have already ended their missions",
+      "Because nuclear power can only be used with Mars rover designs",
+      "So that Blue Origin’s lander can carry the rover more easily"
+     ],
+     "a": 0,
+     "evidence": "an approach intended to reduce both cost and risk",
+     "why": "The paragraph states that reusing spare parts and test models is “intended to reduce both cost and risk.”",
+     "optWhy": [
+      "Correct. This paraphrases “intended to reduce both cost and risk.”",
+      "Not mentioned: the text says the parts are spare parts and test models, not that the Mars rovers have stopped working.",
+      "Not mentioned: no link is made between nuclear power and Mars rover designs.",
+      "Not mentioned: the lander is mentioned, but not as the reason for reusing parts."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are part of the supporting awards EXCEPT",
+     "opts": [
+      "drones designed to survey the south pole",
+      "satellites placed between Earth and the Moon",
+      "a crewed landing on the Moon in 2028",
+      "a tower that supplies power and communications"
+     ],
+     "a": 2,
+     "evidence": "Other awards fill in the supporting pieces.",
+     "why": "Drones, satellites in cislunar space and a solar-powered tower are all listed. A crewed landing is not mentioned; 2028 is the year of the satellite launch.",
+     "optWhy": [
+      "Mentioned: “small drones designed to survey the south pole.”",
+      "Mentioned: satellites in “cislunar space, the region between Earth and the Moon.”",
+      "Correct. No crewed landing is described; the year 2028 belongs to the Starship satellite mission.",
+      "Mentioned: “a solar-powered tower that provides both electricity and communications.”"
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 7,
+     "q": "What can be inferred from paragraph 7 about the Moon Base plan?",
+     "opts": [
+      "NASA has decided to stop using nuclear power on future rovers.",
+      "Commercial lunar landers have never landed successfully.",
+      "Starship has already delivered cargo to the Moon several times.",
+      "Its schedule depends partly on vehicles that are not yet fully proven."
+     ],
+     "a": 3,
+     "evidence": "are still being tested, so a delay at one company could ripple through the whole program",
+     "why": "Because key vehicles are “still being tested” and a delay could affect the whole program, the plan’s timing depends on unproven vehicles.",
+     "optWhy": [
+      "Contradiction: the paragraph raises questions about nuclear power but says nothing about stopping it.",
+      "Too extreme: the record is “mixed,” which means some landings succeeded.",
+      "Contradiction: Starship is described as “still being tested.”",
+      "Correct. Unfinished vehicles plus the risk of delays mean the schedule depends on them."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "If it falters, the agency may discover that outsourcing saves money only when everything goes to plan.",
+     "opts": [
+      "If the model fails, NASA may learn that paying companies is cheaper only when nothing goes wrong.",
+      "If the model fails, NASA will save money by doing all of the work itself again.",
+      "Outsourcing always saves NASA money, even when its plans do not work out.",
+      "NASA has already learned that its plans rarely go as expected."
+     ],
+     "a": 0,
+     "evidence": "If it falters, the agency may discover that outsourcing saves money only when everything goes to plan.",
+     "why": "The sentence says that if the commercial model runs into trouble, NASA might find the savings from outsourcing depend on everything going right.",
+     "optWhy": [
+      "Correct. It keeps the condition (if it fails), the possibility (may learn) and the limit (only when nothing goes wrong).",
+      "Adds information: the sentence does not say NASA would return to doing the work itself.",
+      "Contradiction: the sentence says savings happen “only when everything goes to plan.”",
+      "Changes the meaning: the original is a future possibility, not something NASA has already learned."
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261109-1-k1",
+     "tag": "Basics",
+     "fact": "On November 7, 2026, NASA announced Moon Base contracts at an aerospace exhibition at Kennedy Space Center.",
+     "q": "Where did NASA announce the Moon Base contracts?",
+     "opts": [
+      "Kennedy Space Center, Florida",
+      "Jet Propulsion Laboratory, California",
+      "Johnson Space Center, Texas"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261109-1-k2",
+     "tag": "Commercial model",
+     "fact": "NASA increasingly buys services from companies instead of building and owning all its own hardware.",
+     "q": "What is NASA’s main approach in the new contracts?",
+     "opts": [
+      "Building every rocket itself",
+      "Buying services from industry",
+      "Leaving the Moon to other countries"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261109-1-k3",
+     "tag": "CLPS 2",
+     "fact": "Eight companies can compete for CLPS 2 missions worth up to $10 billion over ten years; the figure is a ceiling, not a promise.",
+     "q": "What does the $10 billion for CLPS 2 represent?",
+     "opts": [
+      "A payment already made to SpaceX",
+      "A maximum total for missions companies must win",
+      "The cost of the PROMISE rover"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261109-1-k4",
+     "tag": "PROMISE",
+     "fact": "The nuclear-powered PROMISE rover can work through the lunar night and in dark craters, and it reuses Mars rover parts.",
+     "q": "Why does PROMISE use nuclear power?",
+     "opts": [
+      "To work where solar panels would be useless",
+      "Because it is cheaper than solar power",
+      "To travel faster across the surface"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261109-1-k5",
+     "tag": "Risks",
+     "fact": "Commercial landers have a mixed record, and many vehicles in the plan are still being tested, so delays could spread.",
+     "q": "Which is a risk mentioned in the article?",
+     "opts": [
+      "Too many companies have finished their vehicles",
+      "A delay at one company could affect the whole program",
+      "NASA has stopped funding science"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "NASA’s Moon Base",
+    "question": "Is buying services from companies the best way to build a Moon Base?",
+    "branches": [
+     {
+      "title": "New approach",
+      "paras": "1–2",
+      "blanks": [
+       "buying services from industry",
+       "Apollo was government-run"
+      ],
+      "kps": [
+       "n20261109-1-k1",
+       "n20261109-1-k2"
+      ]
+     },
+     {
+      "title": "Main contracts",
+      "paras": "3–5",
+      "blanks": [
+       "$10 billion ceiling for landers",
+       "nuclear rover for the south pole"
+      ],
+      "kps": [
+       "n20261109-1-k3",
+       "n20261109-1-k4"
+      ]
+     },
+     {
+      "title": "Supporters say",
+      "paras": "6",
+      "blanks": [
+       "competition cuts costs"
+      ],
+      "kps": [
+       "n20261109-1-k2"
+      ]
+     },
+     {
+      "title": "Risks",
+      "paras": "7–8",
+      "blanks": [
+       "landers have a mixed record",
+       "vehicles still being tested"
+      ],
+      "kps": [
+       "n20261109-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "NASA builds every rocket itself",
+     "astronauts land on the Moon in 2026"
+    ]
+   },
+   "summary": {
+    "intro": "NASA has announced a package of contracts that relies on private companies to help build a base on the Moon.",
+    "model": "NASA now buys services from companies, awarding lander, rover and communications contracts because competition may cut costs. However, unproven vehicles and nuclear safety questions mean the plan is a bet that succeeds only if companies deliver on time.",
+    "options": [
+     {
+      "t": "NASA has moved from building its own spacecraft to paying companies for services, an approach the new contracts extend to the Moon.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "Over the past two decades, however, the agency has gradually shifted toward a commercial model.",
+      "why": "Main idea of paragraphs 1–3."
+     },
+     {
+      "t": "The awards include a $10 billion lander program, a nuclear-powered rover and communications and power projects to support a base.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "The most eye-catching project is a six-wheeled rover called PROMISE",
+      "why": "Summarizes the key contracts in paragraphs 3–5."
+     },
+     {
+      "t": "Supporters believe competition lowers costs, but critics point to unproven vehicles, a mixed landing record and the need for oversight of nuclear power.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Yet the approach carries real risks.",
+      "why": "Main contrast of paragraphs 6–7."
+     },
+     {
+      "t": "The PROMISE rover’s drill will reach about one meter below the surface.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "Its drill will reach about one meter below the surface.",
+      "why": "A minor detail, not a main idea."
+     },
+     {
+      "t": "China has announced that it will build its own base near the same landing sites.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "NASA has guaranteed each of the eight companies an equal share of the $10 billion.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "This figure is a ceiling rather than a guaranteed payment",
+      "why": "Contradicts paragraph 3: the money is a ceiling, and firms are paid only for missions they win."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think space exploration should be carried out mainly by government agencies. Others believe private companies can do it better and more cheaply. Which view do you agree with, and why? Use specific reasons and examples.",
+    "hint": "Give your view → reason 1 (cost/speed or safety/control) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: NASA is now paying private companies to deliver cargo, launch satellites and even land a nuclear-powered rover on the Moon. Supporters say competition makes space exploration faster and cheaper. Critics say important public projects should stay under government control. Should governments rely on private companies for big public projects like this? Why or why not? (Mia says: Companies have to compete, so they work harder to cut costs and find new ideas. NASA can then spend its money on science instead of building rockets.) (Daniel says: When a company fails or is delayed, the whole public project suffers. Safety-critical work, like launching nuclear material, should be controlled directly by the government.)",
+    "steps": [
+     "State your position in one clear sentence.",
+     "Give one reason with a concrete example (cost, speed, safety, accountability).",
+     "Respond to Mia or Daniel: agree with part of their point, then add a new idea.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261109-2",
+   "topic": "Economy",
+   "title": "Buying When Prices Fall: Why China’s Central Bank Keeps Adding Gold",
+   "dek": "Gold just had its worst October since 2008, yet China’s central bank kept buying. Is gold smart insurance or an outdated asset that earns nothing?",
+   "sources": [
+    {
+     "name": "Seoul Economic Daily, Nov 7, 2026",
+     "url": "https://en.sedaily.com/international/2026/11/07/chinas-central-bank-extends-gold-buying-streak-to-24-months"
+    },
+    {
+     "name": "Brave New Coin, Nov 7, 2026",
+     "url": "https://bravenewcoin.com/insights/china-buys-26-tonnes-of-gold-in-october-despite-7-price-drop-extending-record-buying-streak"
+    },
+    {
+     "name": "Bloomberg, Nov 7, 2026",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop"
+    }
+   ],
+   "paras": [
+    "Gold had a terrible October. Its price fell by nearly 7 percent during the month, the steepest October drop since 2008, and slipped below $4,000 an ounce, its lowest level in a year. Many private investors sold. Yet one of the world’s most powerful financial institutions did the opposite. According to official data released on November 7, the People’s Bank of China, the country’s central bank, added about 25.8 tonnes of gold to its reserves in October, extending its buying streak to 24 consecutive months.",
+    "To understand why this matters, it helps to know what central banks do with their reserves. Every central bank holds a stockpile of foreign currencies and other assets, known as foreign exchange reserves. These reserves can be used to stabilize the national currency, pay for imports during a crisis, or reassure markets that the country can meet its obligations. Most reserves are held in major currencies, especially the US dollar, often in the form of government bonds. Gold is a smaller but symbolically important part of the mix, because its value is not tied to any single government’s promises.",
+    "China’s purchases have been steady rather than dramatic. The central bank now reports holdings of about 78.3 million ounces, roughly 2,400 tonnes. It bought about 63 tonnes in the third quarter, the most of any central bank that publicly reported its purchases, and roughly 129 tonnes in the first ten months of the year. China is not alone: according to the World Gold Council, central banks around the world bought a net 321 tonnes between July and September, the largest quarterly total since late 2024.",
+    "Why would a central bank keep buying an asset whose price is falling? One explanation is diversification. A reserve portfolio concentrated in one currency is exposed to that currency’s risks, including changes in the issuing country’s interest rates or policies. Gold offers a form of protection that does not depend on another government, and the World Gold Council lists safety and liquidity among the qualities central banks value in it. From this point of view, a lower price is not a warning sign but an opportunity: the bank can buy more gold for the same amount of money.",
+    "A second explanation concerns long-term planning. Central banks do not trade like individual investors who hope to profit within weeks. They think in decades, and small, regular purchases smooth out the effect of short-term price swings, a strategy sometimes compared to saving a fixed amount each month. Officially, however, Beijing rarely explains its reasoning, and the data alone cannot reveal the exact balance between these motives.",
+    "There are also costs and risks. Gold pays no interest, unlike government bonds, so every tonne bought means giving up a steady income. Its price can also be extremely volatile, as October showed. Because of the fall in prices, the reported value of China’s gold reserves dropped from about $323.5 billion at the end of September to $306.4 billion a month later, even though the bank owned more gold. There are reasons, too, not to read too much into the purchases. China’s foreign exchange reserves total about $3.4 trillion, more than ten times the value of its gold, and the dollar remains by far the world’s dominant reserve currency.",
+    "Central bank demand nevertheless has real effects on the market. Bloomberg has described continued official buying as a key support for prices in a weak market, since it creates steady demand when other buyers retreat. Ordinary Chinese savers also reportedly bought gold around the $4,000 level in October, suggesting that some households share the view that falling prices are a chance to buy rather than a reason to panic.",
+    "The story of China’s gold purchases therefore raises a broader question about value and trust. Is gold a relic of the past, an asset that earns nothing and swings wildly in price, or a form of insurance whose worth becomes clear only in a crisis? Different institutions answer that question differently, and their choices reflect how they see the risks ahead. For students of economics, the lesson is that a market price tells only part of the story; the reasons behind each decision to buy or sell matter just as much."
+   ],
+   "words": [
+    {
+     "w": "consecutive",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kənˈsekjətɪv/",
+     "syl": [
+      "con",
+      "sec",
+      "u",
+      "tive"
+     ],
+     "def": "following one after another without a break",
+     "ex": "It rained for five consecutive days, so the football match was cancelled."
+    },
+    {
+     "w": "stabilize",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈsteɪbəlaɪz/",
+     "syl": [
+      "sta",
+      "bi",
+      "lize"
+     ],
+     "def": "to make something steady and stop it from changing or moving suddenly",
+     "ex": "Doctors worked through the night to stabilize the patient’s heart rate."
+    },
+    {
+     "w": "obligation",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌɑːblɪˈɡeɪʃən/",
+     "syl": [
+      "ob",
+      "li",
+      "ga",
+      "tion"
+     ],
+     "def": "something you must do or pay because of a law, promise or agreement",
+     "ex": "The company has a legal obligation to repay the loan by next year."
+    },
+    {
+     "w": "diversification",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/daɪˌvɜːrsɪfɪˈkeɪʃən/",
+     "syl": [
+      "di",
+      "ver",
+      "si",
+      "fi",
+      "ca",
+      "tion"
+     ],
+     "def": "the act of spreading money or activity across different types so that the risk is lower",
+     "ex": "Diversification protects farmers who grow several crops instead of just one."
+    },
+    {
+     "w": "volatile",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvɑːlətəl/",
+     "syl": [
+      "vol",
+      "a",
+      "tile"
+     ],
+     "def": "likely to change suddenly and unpredictably",
+     "ex": "Food prices became volatile after the drought damaged the harvest."
+    },
+    {
+     "w": "relic",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈrelɪk/",
+     "syl": [
+      "rel",
+      "ic"
+     ],
+     "def": "something that survives from the past but may no longer be useful today",
+     "ex": "Some people see printed maps as a relic of the days before smartphones."
+    },
+    {
+     "w": "reserve",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/rɪˈzɜːrv/",
+     "syl": [
+      "re",
+      "serve"
+     ],
+     "def": "money, gold or other assets that a country or central bank keeps for future use",
+     "ex": "The country used part of its reserve of foreign currency to pay for imported fuel."
+    },
+    {
+     "w": "stockpile",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈstɑːkpaɪl/",
+     "syl": [
+      "stock",
+      "pile"
+     ],
+     "def": "a large supply of something kept for future use",
+     "ex": "The hospital keeps a stockpile of masks in case of an outbreak."
+    },
+    {
+     "w": "portfolio",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/pɔːrtˈfoʊlioʊ/",
+     "syl": [
+      "port",
+      "fo",
+      "li",
+      "o"
+     ],
+     "def": "the set of investments owned by a person or an organization",
+     "ex": "Her portfolio includes shares, bonds and a small amount of gold."
+    },
+    {
+     "w": "liquidity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/lɪˈkwɪdəti/",
+     "syl": [
+      "li",
+      "quid",
+      "i",
+      "ty"
+     ],
+     "def": "how easily an asset can be bought or sold quickly without changing its price much",
+     "ex": "Cash has the highest liquidity because you can spend it immediately."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Yet one of the world’s most powerful financial institutions did the opposite.",
+     "kind": "Main idea",
+     "note": "“Yet” sets up the puzzle of the whole article: why buy when others sell? Contrast sentences in paragraph 1 often point to the main idea."
+    },
+    {
+     "para": 2,
+     "text": "Gold is a smaller but symbolically important part of the mix, because its value is not tied to any single government’s promises.",
+     "kind": "Key details",
+     "note": "“Because” explains gold’s special role. Expect factual questions on reasons like this."
+    },
+    {
+     "para": 4,
+     "text": "From this point of view, a lower price is not a warning sign but an opportunity: the bank can buy more gold for the same amount of money.",
+     "kind": "Interpretation",
+     "note": "“From this point of view” shows the writer is presenting one interpretation, not a fact. The “not … but …” structure carries the key idea."
+    },
+    {
+     "para": 5,
+     "text": "Officially, however, Beijing rarely explains its reasoning, and the data alone cannot reveal the exact balance between these motives.",
+     "kind": "Hedging",
+     "note": "This sentence limits how certain we can be. Answers that claim to know China’s exact motive are usually “too extreme.”"
+    },
+    {
+     "para": 6,
+     "text": "Gold pays no interest, unlike government bonds, so every tonne bought means giving up a steady income.",
+     "kind": "Cause → effect",
+     "note": "“So” links a fact (no interest) to its cost (lost income). This is the main argument against holding gold."
+    },
+    {
+     "para": 8,
+     "text": "For students of economics, the lesson is that a market price tells only part of the story; the reasons behind each decision to buy or sell matter just as much.",
+     "kind": "Author's view",
+     "note": "The conclusion states the author’s own lesson. Questions about the author’s purpose often point to the final sentence."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word “streak” in paragraph 1 is closest in meaning to",
+     "opts": [
+      "a thin line of colour",
+      "a sudden fall in value",
+      "an unbroken series",
+      "a risky strategy"
+     ],
+     "a": 2,
+     "evidence": "extending its buying streak to 24 consecutive months",
+     "why": "A “streak” here is a run of the same result happening again and again; the bank has bought gold for 24 months in a row.",
+     "optWhy": [
+      "Another meaning of the word: a streak can be a thin line of colour, but not in this financial context.",
+      "Wrong idea: the streak refers to purchases, not to the price fall.",
+      "Correct. “24 consecutive months” of buying is an unbroken series.",
+      "Not supported: the word describes repetition, not risk."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why is gold a symbolically important part of central bank reserves?",
+     "opts": [
+      "Its value does not depend on the promises of any one government.",
+      "It pays a higher return than most government bonds.",
+      "It makes up the largest share of most countries’ reserves.",
+      "It is the only asset that can pay for imports in a crisis."
+     ],
+     "a": 0,
+     "evidence": "because its value is not tied to any single government’s promises",
+     "why": "The paragraph says gold matters because its value “is not tied to any single government’s promises.”",
+     "optWhy": [
+      "Correct. This paraphrases “not tied to any single government’s promises.”",
+      "Contradiction: paragraph 6 says gold pays no interest at all.",
+      "Contradiction: the text calls gold “a smaller” part of the mix.",
+      "Not stated: reserves in general can pay for imports; gold is not called the only such asset."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true EXCEPT:",
+     "opts": [
+      "China’s gold holdings are roughly 2,400 tonnes.",
+      "China alone bought 321 tonnes of gold between July and September.",
+      "Central banks other than China’s have also been buying gold.",
+      "China was the largest reported buyer of gold in the third quarter."
+     ],
+     "a": 1,
+     "evidence": "central banks around the world bought a net 321 tonnes between July and September",
+     "why": "The 321 tonnes were bought by central banks around the world; China bought about 63 tonnes in that quarter.",
+     "optWhy": [
+      "True: “about 78.3 million ounces, roughly 2,400 tonnes.”",
+      "Correct. This statement is false: 321 tonnes is the worldwide total, while China bought about 63 tonnes.",
+      "True: central banks around the world bought a net 321 tonnes.",
+      "True: “the most of any central bank that publicly reported its purchases.”"
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "A reserve portfolio concentrated in one currency is exposed to that currency’s risks, including changes in the issuing country’s interest rates or policies.",
+     "opts": [
+      "Changes in interest rates make every currency equally risky for central banks.",
+      "Countries that issue currencies often change their policies to harm other nations.",
+      "Central banks should hold only one currency to avoid interest-rate risks.",
+      "Holding reserves mainly in one currency leaves a bank open to that country’s policy changes."
+     ],
+     "a": 3,
+     "evidence": "A reserve portfolio concentrated in one currency is exposed to that currency’s risks",
+     "why": "The sentence says that depending on one currency exposes reserves to risks from that currency’s country, such as changes in interest rates or policy.",
+     "optWhy": [
+      "Changes the meaning: the sentence is about relying on one currency, not about all currencies being equally risky.",
+      "Adds information: nothing is said about countries trying to harm others.",
+      "Contradiction: the sentence warns against concentrating reserves in one currency.",
+      "Correct. It keeps the key idea: concentration in one currency means exposure to that country’s decisions."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention “saving a fixed amount each month” in paragraph 5?",
+     "opts": [
+      "To suggest that households should copy the central bank",
+      "To show that the bank’s purchases are too small to matter",
+      "To make the idea of regular long-term buying easier to understand",
+      "To criticize Beijing for not explaining its decisions"
+     ],
+     "a": 2,
+     "evidence": "a strategy sometimes compared to saving a fixed amount each month",
+     "why": "The comparison uses a familiar everyday habit to explain how small, regular purchases reduce the effect of price swings.",
+     "optWhy": [
+      "Reversed: the comparison explains the bank using household behaviour, not the other way round.",
+      "Not supported: the paragraph presents regular buying as a sensible strategy, not as unimportant.",
+      "Correct. The everyday example makes the strategy of regular buying easy to picture.",
+      "True but not the purpose: the lack of explanation is mentioned in a separate sentence, not in the comparison."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the value of China’s gold reserves in October?",
+     "opts": [
+      "It rose because the bank added more gold.",
+      "The fall in price outweighed the effect of the new purchases.",
+      "It fell because the bank sold part of its gold.",
+      "It is now larger than China’s foreign exchange reserves."
+     ],
+     "a": 1,
+     "evidence": "even though the bank owned more gold",
+     "why": "The bank owned more gold, yet the reported value fell from about $323.5 billion to $306.4 billion, so the price drop had a bigger effect than the extra tonnes.",
+     "optWhy": [
+      "Contradiction: the value dropped, it did not rise.",
+      "Correct. More gold but a lower total value means the price fall mattered more.",
+      "Cause reversed: the bank bought gold; the value fell because of prices.",
+      "Contradiction: foreign exchange reserves are “more than ten times the value of its gold.”"
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261109-2-k1",
+     "tag": "The news",
+     "fact": "China’s central bank added about 25.8 tonnes of gold in October 2026, its 24th consecutive month of buying.",
+     "q": "How long has China’s central bank been buying gold every month?",
+     "opts": [
+      "6 months",
+      "12 months",
+      "24 months"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261109-2-k2",
+     "tag": "Price",
+     "fact": "Gold fell nearly 7% in October, its steepest October drop since 2008, and slipped below $4,000 an ounce.",
+     "q": "What happened to the gold price in October 2026?",
+     "opts": [
+      "It reached a record high",
+      "It fell nearly 7%",
+      "It stayed the same"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261109-2-k3",
+     "tag": "Reserves",
+     "fact": "Central banks hold foreign exchange reserves to stabilize their currency, pay for imports in a crisis and reassure markets.",
+     "q": "Which is NOT a use of reserves mentioned in the article?",
+     "opts": [
+      "Stabilizing the currency",
+      "Paying for imports in a crisis",
+      "Paying teachers’ salaries"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261109-2-k4",
+     "tag": "Reasons",
+     "fact": "Diversification and long-term planning are two possible reasons for buying gold when prices fall.",
+     "q": "Why might a lower gold price be an opportunity for a central bank?",
+     "opts": [
+      "It can buy more gold for the same money",
+      "Gold starts paying interest",
+      "Other banks must sell to it"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261109-2-k5",
+     "tag": "Costs",
+     "fact": "Gold pays no interest and its price is volatile; the value of China’s gold fell in October even though it owned more.",
+     "q": "Why did the value of China’s gold reserves fall in October?",
+     "opts": [
+      "The bank sold gold",
+      "The gold price dropped",
+      "The yuan became stronger"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "China buys gold",
+    "question": "Why keep buying gold when its price is falling?",
+    "branches": [
+     {
+      "title": "The news",
+      "paras": "1",
+      "blanks": [
+       "24 consecutive months of buying",
+       "worst October since 2008"
+      ],
+      "kps": [
+       "n20261109-2-k1",
+       "n20261109-2-k2"
+      ]
+     },
+     {
+      "title": "What reserves do",
+      "paras": "2–3",
+      "blanks": [
+       "stabilize the national currency",
+       "not tied to one government"
+      ],
+      "kps": [
+       "n20261109-2-k3"
+      ]
+     },
+     {
+      "title": "Reasons to buy",
+      "paras": "4–5",
+      "blanks": [
+       "diversify away from one currency",
+       "regular long-term purchases"
+      ],
+      "kps": [
+       "n20261109-2-k4"
+      ]
+     },
+     {
+      "title": "Costs and risks",
+      "paras": "6–7",
+      "blanks": [
+       "gold pays no interest",
+       "value fell despite more gold"
+      ],
+      "kps": [
+       "n20261109-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "China sold half its gold",
+     "gold pays higher interest than bonds"
+    ]
+   },
+   "summary": {
+    "intro": "China’s central bank kept buying gold in October 2026, even though gold prices fell sharply.",
+    "model": "China’s central bank extended its gold-buying streak while prices fell, because gold may diversify reserves and suit long-term planning. However, gold pays no interest and is volatile, so whether it is insurance or a relic remains debated.",
+    "options": [
+     {
+      "t": "Although gold prices fell sharply in October, China’s central bank continued a two-year streak of monthly gold purchases.",
+      "ok": true,
+      "type": "main",
+      "para": 1,
+      "evidence": "Yet one of the world’s most powerful financial institutions did the opposite.",
+      "why": "Main idea of paragraphs 1 and 3."
+     },
+     {
+      "t": "Diversification away from a single currency and long-term planning may explain why a central bank buys when prices are low.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "One explanation is diversification.",
+      "why": "Main idea of paragraphs 4–5."
+     },
+     {
+      "t": "Gold also has drawbacks: it earns no interest, its price can swing wildly, and it remains a small part of China’s reserves.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "There are also costs and risks.",
+      "why": "Main idea of paragraph 6."
+     },
+     {
+      "t": "Ordinary Chinese savers reportedly bought gold around the $4,000 level in October.",
+      "ok": false,
+      "type": "detail",
+      "para": 7,
+      "evidence": "Ordinary Chinese savers also reportedly bought gold around the $4,000 level in October",
+      "why": "A minor supporting detail."
+     },
+     {
+      "t": "China plans to replace the US dollar with gold in all of its international trade.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "Because gold pays more interest than government bonds, China earns a steady income from it.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "Gold pays no interest, unlike government bonds",
+      "why": "Contradicts paragraph 6."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people prefer to keep their savings in safe assets like gold or bank deposits. Others prefer riskier investments that may earn more money. Which approach do you think is better for a young person, and why? Use specific reasons and examples.",
+    "hint": "State your choice → reason 1 (safety or growth) + example → reason 2 + example → conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Central banks such as China’s have been buying gold for two years, even when prices fall. Some economists say gold is reliable insurance in an uncertain world. Others call it an outdated asset because it earns no interest and its price swings wildly. Is gold still a sensible thing for countries to hold today? Explain your view. (Sofia says: Gold has kept its value for thousands of years and does not depend on any government. In a crisis, it is the safest thing a country can own.) (Kevin says: Gold earns nothing, and October showed how quickly its value can fall. Countries would do better to hold bonds that pay interest every year.)",
+    "steps": [
+     "Give your view in one sentence.",
+     "Support it with one reason and an example (a crisis, a price fall, interest income).",
+     "Respond to Sofia or Kevin, agreeing with part of their idea before adding something new.",
+     "Conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261109-3",
+   "topic": "Animals",
+   "title": "Rocks, Rescue and Risk: Returning an Endangered Snake to the Wild",
+   "dek": "Six captive-bred snakes were released into the wild near Sydney, and most have survived. Is breeding animals in captivity the answer, or should we protect their homes first?",
+   "sources": [
+    {
+     "name": "University of Technology Sydney, Nov 6, 2026",
+     "url": "https://www.uts.edu.au/news/2026/11/world-first-successful-wild-release-of-endangered-broad-headed-snake"
+    },
+    {
+     "name": "Aussie Ark, May 13, 2026",
+     "url": "https://www.aussieark.org.au/about-us/news/wild-release-of-endangered-broad-headed-snake"
+    }
+   ],
+   "paras": [
+    "In the sandstone cliffs south of Sydney, Australia, six young snakes have been doing something no member of their species had done before: living in the wild after being born in captivity. Researchers from the University of Technology Sydney and the conservation group Aussie Ark announced on November 6 that at least four of the six endangered broad-headed snakes released in May had survived their first months outside. The number is small, but the result is being described as a world first for the species.",
+    "The broad-headed snake is one of Australia’s most threatened reptiles. It is found only in the rocky escarpments of the Sydney sandstone basin and nearby ranges, where it shelters in cracks and under flat rocks. The species grows to about 90 centimeters long, is venomous, and hunts mainly small lizards that live among the rocks. Its biology makes it especially vulnerable: snakes take around five years to reach adulthood, and females breed only every two or three years. Even small losses can therefore take decades to recover from.",
+    "Several pressures have pushed the species toward the edge. The severe drought of 2017 to 2019 and the bushfires of 2020 hit populations hard; researchers recorded a decline of about 64 percent between the drought and 2023, and little breeding was observed for three years after the fires. A more surprising threat is human demand for garden decoration. Natural “bush rock” is collected from the wild for landscaping, and a single attractive boulder can sell for hundreds of dollars. Removing these rocks destroys the shelters the snakes depend on, along with the lizards they eat. The state of New South Wales listed bush-rock removal as a key threatening process as early as 1999.",
+    "The rescue program began in October 2024, when Aussie Ark collected adult snakes from the wild to create an “insurance population” in specialized enclosures. Eight juveniles were bred. Two were kept for their valuable genetics, and six were released beneath specially designed artificial rocks. These rocks, developed by researcher Benjamin Croak, copy the crevice size and heat-holding properties of natural stone, giving the young snakes a safe place to hide and warm themselves. Each snake has a unique head pattern, which allows researchers to identify individuals during regular surveys.",
+    "Supporters see the result as evidence that captive breeding can help species recover. Without intervention, they argue, a species with such slow reproduction might simply run out of time. The project also involves Indigenous rangers, who are being trained to monitor the snakes on their traditional lands, linking conservation with cultural knowledge. Professor Jonathan Webb, who has studied the species for 34 years, plans further releases at selected sites over the next few years.",
+    "However, reintroduction is far from a guaranteed solution. Released animals have no experience of the wild and can be eaten by native predators such as kookaburras and brown snakes, or by introduced cats and foxes. Four survivors after a few months is encouraging, but it says little about whether the snakes will live long enough to breed, which is the real measure of success. Captive breeding is also expensive, and a common criticism is that the money might be better spent protecting habitat, since releasing animals into an environment that is still being damaged may only delay their decline.",
+    "Webb himself identifies habitat loss as the greatest threat. He has called for a permit system that would require sellers of landscaping rock to prove their stone was not taken from the habitat of threatened species. Such a rule would place part of the responsibility on ordinary consumers, many of whom have no idea that a decorative boulder in their garden may once have been a snake’s home.",
+    "The story of the broad-headed snake illustrates a wider challenge in conservation. Saving a species is rarely a matter of one dramatic action; it usually requires science, money, cooperation and changes in everyday behavior. Snakes may not attract the same public sympathy as koalas or pandas, but the program raises an important question: should we judge a species’ value by how appealing it looks, or by the role it plays in the ecosystem it belongs to?"
+   ],
+   "words": [
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvʌlnərəbəl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or affected by something bad",
+     "ex": "Young children are especially vulnerable to extreme heat."
+    },
+    {
+     "w": "intervention",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌɪntərˈvenʃən/",
+     "syl": [
+      "in",
+      "ter",
+      "ven",
+      "tion"
+     ],
+     "def": "action taken to improve a difficult situation or stop it getting worse",
+     "ex": "Early intervention helped the student catch up with her reading."
+    },
+    {
+     "w": "guarantee",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌɡærənˈtiː/",
+     "syl": [
+      "guar",
+      "an",
+      "tee"
+     ],
+     "def": "to make sure that something will certainly happen",
+     "ex": "Hard work cannot guarantee success, but it makes success much more likely."
+    },
+    {
+     "w": "illustrate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈɪləstreɪt/",
+     "syl": [
+      "il",
+      "lus",
+      "trate"
+     ],
+     "def": "to show that something is true or explain it by giving examples",
+     "ex": "The teacher used a simple experiment to illustrate how magnets work."
+    },
+    {
+     "w": "appealing",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/əˈpiːlɪŋ/",
+     "syl": [
+      "ap",
+      "peal",
+      "ing"
+     ],
+     "def": "attractive or interesting",
+     "ex": "A shorter school day sounds appealing, but it might mean longer holidays disappear."
+    },
+    {
+     "w": "endangered",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ɪnˈdeɪndʒərd/",
+     "syl": [
+      "en",
+      "dan",
+      "gered"
+     ],
+     "def": "(of a plant or animal) at serious risk of disappearing completely",
+     "ex": "The endangered turtles lay their eggs on only a few beaches."
+    },
+    {
+     "w": "escarpment",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪˈskɑːrpmənt/",
+     "syl": [
+      "es",
+      "carp",
+      "ment"
+     ],
+     "def": "a long, steep slope or cliff at the edge of a high area of land",
+     "ex": "We climbed the escarpment to see the whole valley below."
+    },
+    {
+     "w": "juvenile",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈdʒuːvənaɪl/",
+     "syl": [
+      "ju",
+      "ve",
+      "nile"
+     ],
+     "def": "a young animal that is not yet fully grown",
+     "ex": "Each juvenile in the zoo’s breeding program is weighed every week."
+    },
+    {
+     "w": "captivity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kæpˈtɪvəti/",
+     "syl": [
+      "cap",
+      "tiv",
+      "i",
+      "ty"
+     ],
+     "def": "the state of being kept in a zoo, enclosure or other place instead of living freely",
+     "ex": "Some birds learn to talk in captivity but never do so in the wild."
+    },
+    {
+     "w": "reintroduction",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌriːɪntrəˈdʌkʃən/",
+     "syl": [
+      "re",
+      "in",
+      "tro",
+      "duc",
+      "tion"
+     ],
+     "def": "the act of returning a species to an area where it used to live",
+     "ex": "The reintroduction of wolves changed how deer moved through the park."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The number is small, but the result is being described as a world first for the species.",
+     "kind": "Main idea",
+     "note": "The “but” balances a weakness (small numbers) against the significance (a world first). The whole article weighs hope against limits."
+    },
+    {
+     "para": 2,
+     "text": "Its biology makes it especially vulnerable: snakes take around five years to reach adulthood, and females breed only every two or three years.",
+     "kind": "Cause → effect",
+     "note": "The colon introduces the reasons for the species’ vulnerability. Factual questions often ask for the evidence after a colon."
+    },
+    {
+     "para": 3,
+     "text": "A more surprising threat is human demand for garden decoration.",
+     "kind": "Topic sentence",
+     "note": "This sentence shifts from natural threats to a human one. Notice “more surprising,” which signals the writer’s emphasis."
+    },
+    {
+     "para": 4,
+     "text": "These rocks, developed by researcher Benjamin Croak, copy the crevice size and heat-holding properties of natural stone, giving the young snakes a safe place to hide and warm themselves.",
+     "kind": "Key details",
+     "note": "The “-ing” clause explains the purpose of the artificial rocks. Purpose and function details are common TOEFL targets."
+    },
+    {
+     "para": 6,
+     "text": "However, reintroduction is far from a guaranteed solution.",
+     "kind": "Critical thinking",
+     "note": "“However” introduces the limits of the program. The counter-argument usually follows the supporters’ paragraph."
+    },
+    {
+     "para": 8,
+     "text": "Saving a species is rarely a matter of one dramatic action; it usually requires science, money, cooperation and changes in everyday behavior.",
+     "kind": "Author's view",
+     "note": "“Rarely” and “usually” are hedging words, showing a careful general claim rather than an absolute one."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why can even small losses take decades for the species to recover from?",
+     "opts": [
+      "The snakes mature slowly, and females do not breed every year.",
+      "The snakes live in only a few cities around Sydney.",
+      "Their venom makes it difficult for them to find mates.",
+      "The lizards they eat are disappearing faster than they are."
+     ],
+     "a": 0,
+     "evidence": "snakes take around five years to reach adulthood, and females breed only every two or three years",
+     "why": "Slow growth (about five years to adulthood) and infrequent breeding mean that lost snakes are replaced very slowly.",
+     "optWhy": [
+      "Correct. This paraphrases “five years to reach adulthood” and “breed only every two or three years.”",
+      "Detail swapped: the snakes live in rocky escarpments, not in cities.",
+      "Not mentioned: venom is mentioned, but not linked to finding mates.",
+      "Not mentioned: the paragraph does not say the lizards are disappearing."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following have harmed the broad-headed snake EXCEPT",
+     "opts": [
+      "a long period of drought",
+      "the removal of rocks for gardens",
+      "competition from introduced lizards",
+      "bushfires in 2020"
+     ],
+     "a": 2,
+     "evidence": "Several pressures have pushed the species toward the edge.",
+     "why": "Drought, bushfires and bush-rock removal are all listed. Introduced lizards are not mentioned; lizards are the snakes’ food.",
+     "optWhy": [
+      "Mentioned: “The severe drought of 2017 to 2019.”",
+      "Mentioned: bush rock “collected from the wild for landscaping.”",
+      "Correct. Introduced lizards are never mentioned; lizards are prey, not competitors.",
+      "Mentioned: “the bushfires of 2020 hit populations hard.”"
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention that each snake has a unique head pattern?",
+     "opts": [
+      "To show that the snakes are easy for predators to see",
+      "To explain why two snakes were kept for their genetics",
+      "To suggest that captive-bred snakes look different from wild ones",
+      "To explain how researchers can recognize individual snakes"
+     ],
+     "a": 3,
+     "evidence": "which allows researchers to identify individuals during regular surveys",
+     "why": "The head pattern is mentioned because it lets researchers tell individual snakes apart when they check on them.",
+     "optWhy": [
+      "Not mentioned: nothing links the pattern to predators.",
+      "Detail swapped: the genetics point is a separate idea in the same paragraph.",
+      "Not mentioned: no comparison with wild snakes is made.",
+      "Correct. The pattern “allows researchers to identify individuals.”"
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word “measure” in paragraph 6 is closest in meaning to",
+     "opts": [
+      "a law passed by a government",
+      "a standard used to judge something",
+      "a unit for recording length",
+      "an action taken to solve a problem"
+     ],
+     "a": 1,
+     "evidence": "which is the real measure of success",
+     "why": "Breeding is the true way to judge whether the program has succeeded, so “measure” means a standard for judging.",
+     "optWhy": [
+      "Another meaning of the word: a “measure” can be a law, but here it describes success.",
+      "Correct. Breeding is the standard used to judge success.",
+      "Another meaning of the word: units such as meters are measures, but that does not fit “success.”",
+      "Another meaning of the word: “measures” can be actions, but this sentence is about judging results."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the program’s success so far?",
+     "opts": [
+      "It is too early to know whether the releases will lead to a lasting population.",
+      "Most of the released snakes have already been eaten by cats and foxes.",
+      "It has proven that captive breeding works better than protecting habitat.",
+      "The surviving snakes have already started breeding in the wild."
+     ],
+     "a": 0,
+     "evidence": "it says little about whether the snakes will live long enough to breed",
+     "why": "Survival for a few months does not show whether the snakes will breed, so the long-term result is still unknown.",
+     "optWhy": [
+      "Correct. The real test, breeding, has not yet happened.",
+      "Contradiction: at least four of six survived, so most have not been eaten.",
+      "Too extreme: the paragraph raises doubts about captive breeding rather than proving it is better.",
+      "Contradiction: the text says it is unclear whether they will live long enough to breed."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Such a rule would place part of the responsibility on ordinary consumers, many of whom have no idea that a decorative boulder in their garden may once have been a snake’s home.",
+     "opts": [
+      "Most consumers know their garden rocks come from snake habitat but buy them anyway.",
+      "Consumers would be fined if a snake were found living in their garden.",
+      "The rule would make buyers share responsibility, although many do not realize garden rocks may come from snake habitat.",
+      "Ordinary consumers should be responsible for building new homes for snakes."
+     ],
+     "a": 2,
+     "evidence": "Such a rule would place part of the responsibility on ordinary consumers",
+     "why": "The sentence says the permit rule would make consumers partly responsible, and that many of them do not know where decorative rocks come from.",
+     "optWhy": [
+      "Contradiction: the sentence says many consumers “have no idea.”",
+      "Adds information: fines are never mentioned.",
+      "Correct. It keeps both parts: shared responsibility and consumers’ lack of awareness.",
+      "Changes the meaning: the rule is about buying rock, not about building homes for snakes."
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261109-3-k1",
+     "tag": "The news",
+     "fact": "At least four of six captive-bred broad-headed snakes survived their first months after release near Sydney, a world first.",
+     "q": "How many of the six released snakes are known to have survived?",
+     "opts": [
+      "At least two",
+      "At least four",
+      "All six"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261109-3-k2",
+     "tag": "Biology",
+     "fact": "Broad-headed snakes take about five years to mature, and females breed only every two or three years.",
+     "q": "Why does the species recover slowly?",
+     "opts": [
+      "It matures slowly and breeds rarely",
+      "It lays thousands of eggs",
+      "It lives only one year"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261109-3-k3",
+     "tag": "Threats",
+     "fact": "Drought, bushfires and the removal of bush rock for gardens have all harmed the species.",
+     "q": "Which human activity threatens the snake?",
+     "opts": [
+      "Taking rocks for landscaping",
+      "Fishing in rivers",
+      "Planting new forests"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261109-3-k4",
+     "tag": "Method",
+     "fact": "Juveniles were released under artificial rocks that copy natural rock, and each snake is identified by its head pattern.",
+     "q": "What was placed at the release site to help the snakes?",
+     "opts": [
+      "Heat lamps",
+      "Artificial rocks",
+      "Feeding stations"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261109-3-k5",
+     "tag": "Debate",
+     "fact": "Critics of captive breeding say money may be better spent protecting habitat; breeding in the wild is the real test of success.",
+     "q": "According to the article, what is the real measure of success?",
+     "opts": [
+      "Surviving a few months",
+      "Breeding in the wild",
+      "Being seen by tourists"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Saving a rare snake",
+    "question": "Is captive breeding the answer, or should habitat come first?",
+    "branches": [
+     {
+      "title": "The release",
+      "paras": "1, 4",
+      "blanks": [
+       "four of six survived",
+       "hidden under artificial rocks"
+      ],
+      "kps": [
+       "n20261109-3-k1",
+       "n20261109-3-k4"
+      ]
+     },
+     {
+      "title": "Why it’s rare",
+      "paras": "2",
+      "blanks": [
+       "five years to adulthood"
+      ],
+      "kps": [
+       "n20261109-3-k2"
+      ]
+     },
+     {
+      "title": "Threats",
+      "paras": "3",
+      "blanks": [
+       "drought and bushfires",
+       "bush rock taken for gardens"
+      ],
+      "kps": [
+       "n20261109-3-k3"
+      ]
+     },
+     {
+      "title": "The debate",
+      "paras": "5–7",
+      "blanks": [
+       "breeding is the real test",
+       "permits for selling rock"
+      ],
+      "kps": [
+       "n20261109-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "snakes released in national zoos",
+     "the species is now out of danger"
+    ]
+   },
+   "summary": {
+    "intro": "Captive-bred broad-headed snakes have been released into the wild in Australia for the first time.",
+    "model": "Most of the captive-bred snakes survived their release, so supporters see hope for a slow-breeding species. However, predators, cost and continued rock removal mean that protecting habitat may matter as much as breeding.",
+    "options": [
+     {
+      "t": "A slow-breeding, endangered snake has declined because of drought, fire and the removal of rocks from its habitat.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "Several pressures have pushed the species toward the edge.",
+      "why": "Main idea of paragraphs 2–3."
+     },
+     {
+      "t": "A captive-breeding program released young snakes under artificial rocks, and most survived their first months.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "six were released beneath specially designed artificial rocks",
+      "why": "Main idea of paragraphs 1 and 4."
+     },
+     {
+      "t": "Supporters see the program as a lifeline, but critics stress predators, cost and the need to protect habitat first.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "However, reintroduction is far from a guaranteed solution.",
+      "why": "Main contrast of paragraphs 5–7."
+     },
+     {
+      "t": "Professor Jonathan Webb has studied the species for 34 years.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "who has studied the species for 34 years",
+      "why": "A minor detail."
+     },
+     {
+      "t": "Zoos around the world have agreed to take some of the snakes for public display.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The released snakes have already produced their first wild-born young.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "it says little about whether the snakes will live long enough to breed",
+      "why": "Contradicts paragraph 6."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think governments should spend money mainly on saving popular animals, such as pandas and koalas, because they attract public support. Others believe less attractive animals, like snakes and insects, deserve equal attention. Which view do you agree with, and why?",
+    "hint": "Choose a side → reason 1 (public support or ecosystem role) + example → reason 2 + example → conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: In Australia, scientists bred endangered snakes in captivity and released them into the wild. Most survived their first months. Some conservationists say captive breeding is essential for species that reproduce slowly. Others argue that limited money should go to protecting habitat instead, because animals cannot survive if their homes keep disappearing. Which approach should receive more funding? Explain why. (Grace says: If we wait for habitat protection, some species will disappear first. Captive breeding buys time and keeps their genes safe.) (Omar says: Releasing animals into a damaged environment is like filling a bucket with a hole in it. We have to stop the habitat loss first.)",
+    "steps": [
+     "State which approach you would fund, or how you would balance them.",
+     "Give a reason and a concrete example (slow breeding, rock removal, predators, cost).",
+     "Respond to Grace or Omar, building on part of their idea.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "audio": {
+  "On November 7, at an aerospace exhibition at the Kennedy Space Center in Florida, NASA announced a package of contracts that brings its plan for a permanent Moon Base a step closer to reality. The awards range from a nuclear-powered rover to a ten-year agreement under which private companies will compete to deliver cargo to the lunar surface. “We are building the Moon Base mission by mission,” said NASA Administrator Jared Isaacman. The announcement offers a clear picture of how the agency now hopes to explore space: not by building everything itself, but by buying services from industry.": "audio/2026-11-09/a1-p1.mp3",
+  "For most of the space age, NASA designed and owned its own rockets and spacecraft. The Apollo missions that landed astronauts on the Moon between 1969 and 1972 were government projects from start to finish. Over the past two decades, however, the agency has gradually shifted toward a commercial model. Instead of building hardware, it signs contracts with companies that design their own vehicles and are paid for delivering results. The Commercial Lunar Payload Services program, known as CLPS, applied this idea to the Moon by paying firms to carry NASA instruments to the lunar surface.": "audio/2026-11-09/a1-p2.mp3",
+  "The largest of the new awards extends that approach. NASA selected eight companies, including SpaceX, Blue Origin, Firefly Aerospace and Intuitive Machines, for a follow-on program called CLPS 2. Over ten years, these firms will compete for individual delivery missions worth a combined maximum of $10 billion. This figure is a ceiling rather than a guaranteed payment; companies receive money only when they win specific missions. At the same time, NASA raised the value of the original CLPS contract from $2.6 billion to $4.2 billion.": "audio/2026-11-09/a1-p3.mp3",
+  "The most eye-catching project is a six-wheeled rover called PROMISE, which will explore the Moon’s south pole. Because it will be nuclear-powered, it is designed to keep working through the long, freezing lunar night and inside craters that never see sunlight, where solar panels would be useless. Engineers at NASA’s Jet Propulsion Laboratory will build it partly from spare parts and test models left over from the Curiosity and Perseverance Mars rovers, an approach intended to reduce both cost and risk. Its drill will reach about one meter below the surface. Blue Origin received a $94 million base contract, with an option worth up to $140 million more, to land the rover on the Moon in late 2028.": "audio/2026-11-09/a1-p4.mp3",
+  "Other awards fill in the supporting pieces. About $1.3 billion in task orders will pay three companies to launch and transport cargo, including small drones designed to survey the south pole. SpaceX will use its giant Starship rocket to place communications satellites in cislunar space, the region between Earth and the Moon, in 2028. Three more firms will develop a solar-powered tower that provides both electricity and communications for equipment on the surface.": "audio/2026-11-09/a1-p5.mp3",
+  "Supporters argue that this model is the fastest and most affordable way to build a lasting presence on the Moon. Competition, they say, pushes companies to cut costs and innovate, and firms that own their vehicles can sell services to other customers, spreading the expense. Reusing Mars rover parts and buying launches rather than building rockets allows NASA to focus its limited budget on science. In Isaacman’s words, when astronauts eventually return, they “will arrive with the first elements of the Moon Base already waiting for them.”": "audio/2026-11-09/a1-p6.mp3",
+  "Yet the approach carries real risks. When NASA buys a service, it gives up some control over design and schedules, and commercial lunar landers have a mixed record: several recent missions have tipped over or crashed while landing. Many of the vehicles in the plan, including Starship and Blue Origin’s lander, are still being tested, so a delay at one company could ripple through the whole program. Nuclear power also raises questions. Although nuclear power sources have run safely on Mars rovers for years, launching radioactive material will always require careful oversight and public trust.": "audio/2026-11-09/a1-p7.mp3",
+  "In the end, NASA’s announcement is less a single breakthrough than a bet on a particular way of exploring. If the commercial model works, the Moon could host a steady stream of robots, instruments and eventually people within a decade. If it falters, the agency may discover that outsourcing saves money only when everything goes to plan. For now, the contracts suggest that the return to the Moon will be shaped not only by rocket science, but also by how wisely the work is shared.": "audio/2026-11-09/a1-p8.mp3",
+  "commercial": "audio/2026-11-09/a1-w-commercial.mp3",
+  "The town’s old factory was turned into a commercial centre full of shops and cafés.": "audio/2026-11-09/a1-ex-commercial.mp3",
+  "ceiling": "audio/2026-11-09/a1-w-ceiling.mp3",
+  "The government set a ceiling on rent increases so that families could plan their budgets.": "audio/2026-11-09/a1-ex-ceiling.mp3",
+  "outsource": "audio/2026-11-09/a1-w-outsource.mp3",
+  "Many schools outsource their cleaning and catering to private firms.": "audio/2026-11-09/a1-ex-outsource.mp3",
+  "innovate": "audio/2026-11-09/a1-w-innovate.mp3",
+  "Small companies often innovate faster because they have fewer rules to follow.": "audio/2026-11-09/a1-ex-innovate.mp3",
+  "oversight": "audio/2026-11-09/a1-w-oversight.mp3",
+  "The new hospital will be built under strict government oversight.": "audio/2026-11-09/a1-ex-oversight.mp3",
+  "falter": "audio/2026-11-09/a1-w-falter.mp3",
+  "When funding began to falter, the team had to cancel two of its experiments.": "audio/2026-11-09/a1-ex-falter.mp3",
+  "ripple": "audio/2026-11-09/a1-w-ripple.mp3",
+  "A storm in one port can ripple through global supply chains for weeks.": "audio/2026-11-09/a1-ex-ripple.mp3",
+  "lunar": "audio/2026-11-09/a1-w-lunar.mp3",
+  "Astronauts collected lunar rocks to study how the Moon was formed.": "audio/2026-11-09/a1-ex-lunar.mp3",
+  "cislunar": "audio/2026-11-09/a1-w-cislunar.mp3",
+  "Several countries plan to place navigation satellites in cislunar orbits.": "audio/2026-11-09/a1-ex-cislunar.mp3",
+  "rover": "audio/2026-11-09/a1-w-rover.mp3",
+  "The rover sent back photos of a dry riverbed on Mars.": "audio/2026-11-09/a1-ex-rover.mp3",
+  "The announcement offers a clear picture of how the agency now hopes to explore space: not by building everything itself, but by buying services from industry.": "audio/2026-11-09/a1-ks1.mp3",
+  "Over the past two decades, however, the agency has gradually shifted toward a commercial model.": "audio/2026-11-09/a1-ks2.mp3",
+  "This figure is a ceiling rather than a guaranteed payment; companies receive money only when they win specific missions.": "audio/2026-11-09/a1-ks3.mp3",
+  "Because it will be nuclear-powered, it is designed to keep working through the long, freezing lunar night and inside craters that never see sunlight, where solar panels would be useless.": "audio/2026-11-09/a1-ks4.mp3",
+  "Supporters argue that this model is the fastest and most affordable way to build a lasting presence on the Moon.": "audio/2026-11-09/a1-ks5.mp3",
+  "Yet the approach carries real risks.": "audio/2026-11-09/a1-ks6.mp3",
+  "Gold had a terrible October. Its price fell by nearly 7 percent during the month, the steepest October drop since 2008, and slipped below $4,000 an ounce, its lowest level in a year. Many private investors sold. Yet one of the world’s most powerful financial institutions did the opposite. According to official data released on November 7, the People’s Bank of China, the country’s central bank, added about 25.8 tonnes of gold to its reserves in October, extending its buying streak to 24 consecutive months.": "audio/2026-11-09/a2-p1.mp3",
+  "To understand why this matters, it helps to know what central banks do with their reserves. Every central bank holds a stockpile of foreign currencies and other assets, known as foreign exchange reserves. These reserves can be used to stabilize the national currency, pay for imports during a crisis, or reassure markets that the country can meet its obligations. Most reserves are held in major currencies, especially the US dollar, often in the form of government bonds. Gold is a smaller but symbolically important part of the mix, because its value is not tied to any single government’s promises.": "audio/2026-11-09/a2-p2.mp3",
+  "China’s purchases have been steady rather than dramatic. The central bank now reports holdings of about 78.3 million ounces, roughly 2,400 tonnes. It bought about 63 tonnes in the third quarter, the most of any central bank that publicly reported its purchases, and roughly 129 tonnes in the first ten months of the year. China is not alone: according to the World Gold Council, central banks around the world bought a net 321 tonnes between July and September, the largest quarterly total since late 2024.": "audio/2026-11-09/a2-p3.mp3",
+  "Why would a central bank keep buying an asset whose price is falling? One explanation is diversification. A reserve portfolio concentrated in one currency is exposed to that currency’s risks, including changes in the issuing country’s interest rates or policies. Gold offers a form of protection that does not depend on another government, and the World Gold Council lists safety and liquidity among the qualities central banks value in it. From this point of view, a lower price is not a warning sign but an opportunity: the bank can buy more gold for the same amount of money.": "audio/2026-11-09/a2-p4.mp3",
+  "A second explanation concerns long-term planning. Central banks do not trade like individual investors who hope to profit within weeks. They think in decades, and small, regular purchases smooth out the effect of short-term price swings, a strategy sometimes compared to saving a fixed amount each month. Officially, however, Beijing rarely explains its reasoning, and the data alone cannot reveal the exact balance between these motives.": "audio/2026-11-09/a2-p5.mp3",
+  "There are also costs and risks. Gold pays no interest, unlike government bonds, so every tonne bought means giving up a steady income. Its price can also be extremely volatile, as October showed. Because of the fall in prices, the reported value of China’s gold reserves dropped from about $323.5 billion at the end of September to $306.4 billion a month later, even though the bank owned more gold. There are reasons, too, not to read too much into the purchases. China’s foreign exchange reserves total about $3.4 trillion, more than ten times the value of its gold, and the dollar remains by far the world’s dominant reserve currency.": "audio/2026-11-09/a2-p6.mp3",
+  "Central bank demand nevertheless has real effects on the market. Bloomberg has described continued official buying as a key support for prices in a weak market, since it creates steady demand when other buyers retreat. Ordinary Chinese savers also reportedly bought gold around the $4,000 level in October, suggesting that some households share the view that falling prices are a chance to buy rather than a reason to panic.": "audio/2026-11-09/a2-p7.mp3",
+  "The story of China’s gold purchases therefore raises a broader question about value and trust. Is gold a relic of the past, an asset that earns nothing and swings wildly in price, or a form of insurance whose worth becomes clear only in a crisis? Different institutions answer that question differently, and their choices reflect how they see the risks ahead. For students of economics, the lesson is that a market price tells only part of the story; the reasons behind each decision to buy or sell matter just as much.": "audio/2026-11-09/a2-p8.mp3",
+  "consecutive": "audio/2026-11-09/a2-w-consecutive.mp3",
+  "It rained for five consecutive days, so the football match was cancelled.": "audio/2026-11-09/a2-ex-consecutive.mp3",
+  "stabilize": "audio/2026-11-09/a2-w-stabilize.mp3",
+  "Doctors worked through the night to stabilize the patient’s heart rate.": "audio/2026-11-09/a2-ex-stabilize.mp3",
+  "obligation": "audio/2026-11-09/a2-w-obligation.mp3",
+  "The company has a legal obligation to repay the loan by next year.": "audio/2026-11-09/a2-ex-obligation.mp3",
+  "diversification": "audio/2026-11-09/a2-w-diversification.mp3",
+  "Diversification protects farmers who grow several crops instead of just one.": "audio/2026-11-09/a2-ex-diversification.mp3",
+  "volatile": "audio/2026-11-09/a2-w-volatile.mp3",
+  "Food prices became volatile after the drought damaged the harvest.": "audio/2026-11-09/a2-ex-volatile.mp3",
+  "relic": "audio/2026-11-09/a2-w-relic.mp3",
+  "Some people see printed maps as a relic of the days before smartphones.": "audio/2026-11-09/a2-ex-relic.mp3",
+  "reserve": "audio/2026-11-09/a2-w-reserve.mp3",
+  "The country used part of its reserve of foreign currency to pay for imported fuel.": "audio/2026-11-09/a2-ex-reserve.mp3",
+  "stockpile": "audio/2026-11-09/a2-w-stockpile.mp3",
+  "The hospital keeps a stockpile of masks in case of an outbreak.": "audio/2026-11-09/a2-ex-stockpile.mp3",
+  "portfolio": "audio/2026-11-09/a2-w-portfolio.mp3",
+  "Her portfolio includes shares, bonds and a small amount of gold.": "audio/2026-11-09/a2-ex-portfolio.mp3",
+  "liquidity": "audio/2026-11-09/a2-w-liquidity.mp3",
+  "Cash has the highest liquidity because you can spend it immediately.": "audio/2026-11-09/a2-ex-liquidity.mp3",
+  "Yet one of the world’s most powerful financial institutions did the opposite.": "audio/2026-11-09/a2-ks1.mp3",
+  "Gold is a smaller but symbolically important part of the mix, because its value is not tied to any single government’s promises.": "audio/2026-11-09/a2-ks2.mp3",
+  "From this point of view, a lower price is not a warning sign but an opportunity: the bank can buy more gold for the same amount of money.": "audio/2026-11-09/a2-ks3.mp3",
+  "Officially, however, Beijing rarely explains its reasoning, and the data alone cannot reveal the exact balance between these motives.": "audio/2026-11-09/a2-ks4.mp3",
+  "Gold pays no interest, unlike government bonds, so every tonne bought means giving up a steady income.": "audio/2026-11-09/a2-ks5.mp3",
+  "For students of economics, the lesson is that a market price tells only part of the story; the reasons behind each decision to buy or sell matter just as much.": "audio/2026-11-09/a2-ks6.mp3",
+  "In the sandstone cliffs south of Sydney, Australia, six young snakes have been doing something no member of their species had done before: living in the wild after being born in captivity. Researchers from the University of Technology Sydney and the conservation group Aussie Ark announced on November 6 that at least four of the six endangered broad-headed snakes released in May had survived their first months outside. The number is small, but the result is being described as a world first for the species.": "audio/2026-11-09/a3-p1.mp3",
+  "The broad-headed snake is one of Australia’s most threatened reptiles. It is found only in the rocky escarpments of the Sydney sandstone basin and nearby ranges, where it shelters in cracks and under flat rocks. The species grows to about 90 centimeters long, is venomous, and hunts mainly small lizards that live among the rocks. Its biology makes it especially vulnerable: snakes take around five years to reach adulthood, and females breed only every two or three years. Even small losses can therefore take decades to recover from.": "audio/2026-11-09/a3-p2.mp3",
+  "Several pressures have pushed the species toward the edge. The severe drought of 2017 to 2019 and the bushfires of 2020 hit populations hard; researchers recorded a decline of about 64 percent between the drought and 2023, and little breeding was observed for three years after the fires. A more surprising threat is human demand for garden decoration. Natural “bush rock” is collected from the wild for landscaping, and a single attractive boulder can sell for hundreds of dollars. Removing these rocks destroys the shelters the snakes depend on, along with the lizards they eat. The state of New South Wales listed bush-rock removal as a key threatening process as early as 1999.": "audio/2026-11-09/a3-p3.mp3",
+  "The rescue program began in October 2024, when Aussie Ark collected adult snakes from the wild to create an “insurance population” in specialized enclosures. Eight juveniles were bred. Two were kept for their valuable genetics, and six were released beneath specially designed artificial rocks. These rocks, developed by researcher Benjamin Croak, copy the crevice size and heat-holding properties of natural stone, giving the young snakes a safe place to hide and warm themselves. Each snake has a unique head pattern, which allows researchers to identify individuals during regular surveys.": "audio/2026-11-09/a3-p4.mp3",
+  "Supporters see the result as evidence that captive breeding can help species recover. Without intervention, they argue, a species with such slow reproduction might simply run out of time. The project also involves Indigenous rangers, who are being trained to monitor the snakes on their traditional lands, linking conservation with cultural knowledge. Professor Jonathan Webb, who has studied the species for 34 years, plans further releases at selected sites over the next few years.": "audio/2026-11-09/a3-p5.mp3",
+  "However, reintroduction is far from a guaranteed solution. Released animals have no experience of the wild and can be eaten by native predators such as kookaburras and brown snakes, or by introduced cats and foxes. Four survivors after a few months is encouraging, but it says little about whether the snakes will live long enough to breed, which is the real measure of success. Captive breeding is also expensive, and a common criticism is that the money might be better spent protecting habitat, since releasing animals into an environment that is still being damaged may only delay their decline.": "audio/2026-11-09/a3-p6.mp3",
+  "Webb himself identifies habitat loss as the greatest threat. He has called for a permit system that would require sellers of landscaping rock to prove their stone was not taken from the habitat of threatened species. Such a rule would place part of the responsibility on ordinary consumers, many of whom have no idea that a decorative boulder in their garden may once have been a snake’s home.": "audio/2026-11-09/a3-p7.mp3",
+  "The story of the broad-headed snake illustrates a wider challenge in conservation. Saving a species is rarely a matter of one dramatic action; it usually requires science, money, cooperation and changes in everyday behavior. Snakes may not attract the same public sympathy as koalas or pandas, but the program raises an important question: should we judge a species’ value by how appealing it looks, or by the role it plays in the ecosystem it belongs to?": "audio/2026-11-09/a3-p8.mp3",
+  "vulnerable": "audio/2026-11-09/a3-w-vulnerable.mp3",
+  "Young children are especially vulnerable to extreme heat.": "audio/2026-11-09/a3-ex-vulnerable.mp3",
+  "intervention": "audio/2026-11-09/a3-w-intervention.mp3",
+  "Early intervention helped the student catch up with her reading.": "audio/2026-11-09/a3-ex-intervention.mp3",
+  "guarantee": "audio/2026-11-09/a3-w-guarantee.mp3",
+  "Hard work cannot guarantee success, but it makes success much more likely.": "audio/2026-11-09/a3-ex-guarantee.mp3",
+  "illustrate": "audio/2026-11-09/a3-w-illustrate.mp3",
+  "The teacher used a simple experiment to illustrate how magnets work.": "audio/2026-11-09/a3-ex-illustrate.mp3",
+  "appealing": "audio/2026-11-09/a3-w-appealing.mp3",
+  "A shorter school day sounds appealing, but it might mean longer holidays disappear.": "audio/2026-11-09/a3-ex-appealing.mp3",
+  "endangered": "audio/2026-11-09/a3-w-endangered.mp3",
+  "The endangered turtles lay their eggs on only a few beaches.": "audio/2026-11-09/a3-ex-endangered.mp3",
+  "escarpment": "audio/2026-11-09/a3-w-escarpment.mp3",
+  "We climbed the escarpment to see the whole valley below.": "audio/2026-11-09/a3-ex-escarpment.mp3",
+  "juvenile": "audio/2026-11-09/a3-w-juvenile.mp3",
+  "Each juvenile in the zoo’s breeding program is weighed every week.": "audio/2026-11-09/a3-ex-juvenile.mp3",
+  "captivity": "audio/2026-11-09/a3-w-captivity.mp3",
+  "Some birds learn to talk in captivity but never do so in the wild.": "audio/2026-11-09/a3-ex-captivity.mp3",
+  "reintroduction": "audio/2026-11-09/a3-w-reintroduction.mp3",
+  "The reintroduction of wolves changed how deer moved through the park.": "audio/2026-11-09/a3-ex-reintroduction.mp3",
+  "The number is small, but the result is being described as a world first for the species.": "audio/2026-11-09/a3-ks1.mp3",
+  "Its biology makes it especially vulnerable: snakes take around five years to reach adulthood, and females breed only every two or three years.": "audio/2026-11-09/a3-ks2.mp3",
+  "A more surprising threat is human demand for garden decoration.": "audio/2026-11-09/a3-ks3.mp3",
+  "These rocks, developed by researcher Benjamin Croak, copy the crevice size and heat-holding properties of natural stone, giving the young snakes a safe place to hide and warm themselves.": "audio/2026-11-09/a3-ks4.mp3",
+  "However, reintroduction is far from a guaranteed solution.": "audio/2026-11-09/a3-ks5.mp3",
+  "Saving a species is rarely a matter of one dramatic action; it usually requires science, money, cooperation and changes in everyday behavior.": "audio/2026-11-09/a3-ks6.mp3"
+ }
+}
