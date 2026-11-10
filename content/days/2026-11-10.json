@@ -1,0 +1,1634 @@
+{
+ "date": "2026-11-10",
+ "headline": "Climate promises, a trade pause and a Moon base built by students",
+ "teaser": "Can a climate summit succeed without a new treaty? Is a two-month trade truce better than none? And what can students add to a base on the Moon?",
+ "articles": [
+  {
+   "id": "n20261110-1",
+   "topic": "Environment",
+   "title": "COP31 Opens in Antalya: Can Climate Promises Finally Become Action?",
+   "dek": "Nearly 200 countries meet in Türkiye with a modest goal: delivering what they have already promised. Is that realism, or a retreat from ambition?",
+   "sources": [
+    {
+     "name": "UN News, Nov 9, 2026",
+     "url": "https://news.un.org/en/story/2026/11/1168763"
+    },
+    {
+     "name": "UN News explainer, Nov 2026",
+     "url": "https://news.un.org/en/story/2026/11/1168735"
+    },
+    {
+     "name": "DW via The Daily Star, Nov 8, 2026",
+     "url": "https://www.thedailystar.net/news/environment/climate-crisis/news/cop31-antalya-kicks-can-world-move-beyond-big-promises-4318311"
+    }
+   ],
+   "paras": [
+    "On 9 November 2026, delegates from nearly 200 countries gathered in Antalya for COP31, the United Nations' annual climate conference. The talks will run until 20 November. Unlike some earlier summits, this one is not designed to produce a single landmark treaty. Instead, organisers say the aim is to turn the promises countries have already made into concrete action. Whether that modest-sounding goal reflects hard-won realism or a quiet retreat from ambition is the question hanging over the next two weeks.",
+    "COP stands for Conference of the Parties, the countries that signed the UN's 1992 climate convention. The most famous meeting, in Paris in 2015, produced an agreement to hold global warming well below 2°C above pre-industrial levels and to try to limit it to 1.5°C. The system has achieved something: before Paris, the world was heading for about 3 to 3.5°C of warming, according to David Victor of the University of California, San Diego. Yet even if every current commitment were fully implemented, the latest UN projections still point to as much as 2.6°C, and the UN has concluded that 1.5°C can no longer be met without a period of temporary overshoot.",
+    "This year's conference also has an unusual structure. Türkiye is the host, and its environment minister, Murat Kurum, serves as COP31 President, while Australia's climate minister, Chris Bowen, leads the negotiations under a co-presidency arrangement agreed at COP30. Bowen has promised a decision that will be developed throughout the conference rather than rushed out in the final hours, as has often happened in the past. He has admitted, however, that there is 'a difference of views' about how ambitious that decision should be. Because COP decisions require consensus, a single country can block a deal that every other country supports.",
+    "Money is expected to be the hardest issue. Developing countries want faster access to funding for adaptation, meaning measures such as flood defences and drought-resistant crops that help people cope with impacts already under way. At the 2024 talks in Baku, wealthy nations agreed to provide at least $300 billion a year to developing countries by 2035. Many poorer countries say this is too little and too hard to reach. Cristian Barrasueta of the World Rural Forum argues that complicated procedures and multiple intermediaries keep funds away from small farming organisations. Meanwhile, some donors are cutting back: Germany's international climate finance fell from €6.1 billion in 2024 to €4.7 billion in 2025. Emerging and developing economies outside China, home to nearly two-thirds of the world's population, received only 18 per cent of global clean-energy investment in 2025.",
+    "Optimists point out that the energy transition is moving faster than many expected. A decade ago, fewer than one in 100 new cars sold worldwide was electric; in 2025 the figure was one in four. More than 600 gigawatts of solar power were added in 2025 alone. Türkiye and Australia want to raise electricity's share of global energy use from about 20 per cent today to 35 per cent by 2035, and the International Energy Agency estimates that faster electrification could cut fuel-importing countries' energy bills by more than $400 billion by 2035.",
+    "Supporters of this action-first approach argue that the world does not need another treaty so much as delivery on the ones it already has. UN climate chief Simon Stiell said progress was 'nowhere near far enough or fair enough' and urged countries to move beyond setting targets. Victor goes further, suggesting that real progress now comes from smaller 'clubs' of governments and companies willing to move together, such as a meeting held in Santa Marta, Colombia, in April 2026, which drew 57 countries.",
+    "Critics see a danger in lowered expectations. Without a clear, shared plan, they argue, countries that profit from oil and gas can simply wait out the pressure. There is still no consensus on how quickly to move away from coal, oil and gas, and oil-producing states such as Saudi Arabia have repeatedly blocked such plans in the past. The human stakes are rising: the World Health Organization estimates that 3.3 to 3.6 billion people live in areas highly vulnerable to climate change, and a severe drought in Bolivia has killed more than 75,000 livestock.",
+    "Both sides have a point. Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum. In my view, COP31 should be judged not by the elegance of its final text but by whether countries leave Antalya with measurable steps: faster grid building, simpler access to finance and a timetable for checking progress. Like a student who keeps rewriting a study plan instead of opening the textbook, the world has had enough plans. What it needs now is evidence of work."
+   ],
+   "words": [
+    {
+     "w": "concrete",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈkɑːŋkriːt/",
+     "syl": [
+      "con",
+      "crete"
+     ],
+     "def": "specific and practical rather than general or based on ideas",
+     "ex": "The club made a concrete plan to collect 500 books for the village library by June."
+    },
+    {
+     "w": "commitment",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kəˈmɪtmənt/",
+     "syl": [
+      "com",
+      "mit",
+      "ment"
+     ],
+     "def": "a promise to do something or to act in a particular way",
+     "ex": "The school made a commitment to plant one tree for every new student."
+    },
+    {
+     "w": "implement",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈɪmpləment/",
+     "syl": [
+      "im",
+      "ple",
+      "ment"
+     ],
+     "def": "to make a plan, decision or agreement start to work",
+     "ex": "The city will implement the new recycling rules from January."
+    },
+    {
+     "w": "consensus",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˈsensəs/",
+     "syl": [
+      "con",
+      "sen",
+      "sus"
+     ],
+     "def": "general agreement among all the people or groups involved",
+     "ex": "After a long debate, the class reached a consensus on the trip destination."
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvʌlnərəbəl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or affected by something bad",
+     "ex": "Low-lying islands are especially vulnerable to rising sea levels."
+    },
+    {
+     "w": "overshoot",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈoʊvərʃuːt/",
+     "syl": [
+      "o",
+      "ver",
+      "shoot"
+     ],
+     "def": "a period in which a limit, such as a temperature target, is passed before the level falls back",
+     "ex": "Scientists warn that even a short overshoot could damage coral reefs permanently."
+    },
+    {
+     "w": "intermediary",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌɪntərˈmiːdieri/",
+     "syl": [
+      "in",
+      "ter",
+      "me",
+      "di",
+      "ar",
+      "y"
+     ],
+     "def": "a person or organisation that passes something between two other groups",
+     "ex": "The charity acted as an intermediary between the donors and the farmers."
+    },
+    {
+     "w": "adaptation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌædæpˈteɪʃən/",
+     "syl": [
+      "ad",
+      "ap",
+      "ta",
+      "tion"
+     ],
+     "def": "actions that help people and places cope with the effects of climate change",
+     "ex": "Building higher sea walls is one form of adaptation for coastal towns."
+    },
+    {
+     "w": "electrification",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪˌlektrɪfɪˈkeɪʃən/",
+     "syl": [
+      "e",
+      "lec",
+      "tri",
+      "fi",
+      "ca",
+      "tion"
+     ],
+     "def": "the process of changing machines or systems so that they run on electricity",
+     "ex": "The electrification of city buses has made the streets much quieter."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Instead, organisers say the aim is to turn the promises countries have already made into concrete action.",
+     "kind": "Main idea",
+     "note": "This sentence states the summit's central goal. Main-idea questions often target the sentence that follows a contrast word like 'Instead'."
+    },
+    {
+     "para": 2,
+     "text": "Yet even if every current commitment were fully implemented, the latest UN projections still point to as much as 2.6°C, and the UN has concluded that 1.5°C can no longer be met without a period of temporary overshoot.",
+     "kind": "Key details",
+     "note": "'Yet' signals a contrast with the progress just described. Factual questions often test numbers like 2.6°C and 1.5°C, so note which number belongs to which claim."
+    },
+    {
+     "para": 3,
+     "text": "Because COP decisions require consensus, a single country can block a deal that every other country supports.",
+     "kind": "Cause → effect",
+     "note": "A clear cause-effect sentence explaining why ambitious deals are hard. Inference questions often build on this rule."
+    },
+    {
+     "para": 4,
+     "text": "Money is expected to be the hardest issue.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence that tells you the whole paragraph is about climate finance. Use it to locate answers quickly."
+    },
+    {
+     "para": 7,
+     "text": "Critics see a danger in lowered expectations.",
+     "kind": "Critical thinking",
+     "note": "This sentence introduces the opposing view. TOEFL passages often present two sides; track who believes what."
+    },
+    {
+     "para": 8,
+     "text": "Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum.",
+     "kind": "Author's view",
+     "note": "The author balances both sides before giving a judgement. This sentence is the tested sentence in the simplification question."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word 'concrete' in paragraph 1 is closest in meaning to",
+     "opts": [
+      "made of cement, sand and stone",
+      "specific and practical",
+      "firm and impossible to change",
+      "physical and easy to see"
+     ],
+     "a": 1,
+     "why": "'Concrete action' is contrasted with promises, so it means practical, specific action rather than words.",
+     "evidence": "turn the promises countries have already made into concrete action",
+     "optWhy": [
+      "Another meaning of the word: concrete as a building material does not fit 'action'.",
+      "Correct. 'Concrete action' means specific, practical steps, in contrast to promises.",
+      "Too extreme: the passage contrasts action with promises; it says nothing about decisions that cannot change.",
+      "Another meaning of the word: 'physical' fits objects, not the contrast between promises and action."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what would happen if every current national commitment were fully carried out?",
+     "opts": [
+      "Warming would be held to 1.5°C without any overshoot.",
+      "Warming would return to the pre-Paris path of 3 to 3.5°C.",
+      "Warming would stay well below the 2°C goal set in Paris.",
+      "Warming could still reach as much as 2.6°C."
+     ],
+     "a": 3,
+     "why": "The paragraph says that even with every current commitment fully implemented, UN projections point to as much as 2.6°C.",
+     "evidence": "the latest UN projections still point to as much as 2.6°C",
+     "optWhy": [
+      "Contradiction: the UN says 1.5°C can no longer be met without overshoot.",
+      "Detail swapped: 3 to 3.5°C was the path before Paris, not the result of current commitments.",
+      "True but not the question: 'well below 2°C' is the Paris goal, not the projected outcome.",
+      "Correct. The UN projects up to 2.6°C even if commitments are fully implemented."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are mentioned as problems with climate finance EXCEPT:",
+     "opts": [
+      "Wealthy nations have refused to set any financial target.",
+      "The procedures for obtaining funds are complicated.",
+      "Some donor countries have reduced their contributions.",
+      "Most of the world's population gets a small share of clean-energy investment."
+     ],
+     "a": 0,
+     "why": "Wealthy nations did set a target ($300 billion a year by 2035), so A is not a problem mentioned; B, C and D all appear in the paragraph.",
+     "evidence": "wealthy nations agreed to provide at least $300 billion a year",
+     "optWhy": [
+      "Correct. This contradicts the paragraph: wealthy nations agreed to a $300 billion target.",
+      "Mentioned: 'complicated procedures and multiple intermediaries keep funds away'.",
+      "Mentioned: Germany's climate finance fell from €6.1 billion to €4.7 billion.",
+      "Mentioned: developing economies with nearly two-thirds of the population got only 18 per cent."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about earlier COP conferences?",
+     "opts": [
+      "They were always led by two countries at the same time.",
+      "They rarely needed every country to agree to a decision.",
+      "Their final decisions were often written late.",
+      "Their negotiations were usually led by Australia."
+     ],
+     "a": 2,
+     "why": "Bowen promises a decision developed throughout the conference 'rather than rushed out in the final hours, as has often happened', so past decisions were often last-minute.",
+     "evidence": "rather than rushed out in the final hours, as has often happened in the past",
+     "optWhy": [
+      "Over-generalisation: the co-presidency is described as unusual this year, not as normal.",
+      "Contradiction: COP decisions require consensus.",
+      "Correct. 'Rushed out in the final hours, as has often happened in the past' implies last-minute decisions.",
+      "Not mentioned: Australia's role is described only for this year."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention electric cars and solar power in paragraph 5?",
+     "opts": [
+      "To argue that fossil fuels will disappear before 2035",
+      "To support the view that the energy transition is fast",
+      "To explain why developing countries need more climate finance",
+      "To compare the costs of different clean-energy technologies"
+     ],
+     "a": 1,
+     "why": "The figures on electric cars, solar and batteries are evidence for the optimists' claim that the transition is moving faster than expected.",
+     "evidence": "the energy transition is moving faster than many expected",
+     "optWhy": [
+      "Too extreme: the paragraph never says fossil fuels will disappear.",
+      "Correct. The examples support the claim that the transition is moving faster than expected.",
+      "True topic, wrong paragraph: finance is discussed in paragraph 4, not here.",
+      "Not mentioned: the paragraph gives growth figures, not cost comparisons."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Agreements mean little unless they are carried out, yet action without common rules may lead countries to do as little as possible.",
+      "Countries should stop signing new treaties altogether and instead put every bit of their effort into delivering practical results.",
+      "Shared rules mean nothing at all unless every single country competes to carry them out faster than the others do.",
+      "Most treaties fail because countries race against each other to sign as many agreements as they can."
+     ],
+     "a": 0,
+     "why": "The sentence makes two balanced points: agreements need action, and action needs common rules or countries may do the minimum. Only A keeps both.",
+     "evidence": "Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum.",
+     "optWhy": [
+      "Correct. It keeps both halves: treaties need delivery, and delivery needs shared rules.",
+      "Leaves out essential information: it drops the second half and adds an extreme recommendation.",
+      "Meaning changed: the 'race' is a race to do the minimum, not to act faster.",
+      "Cause invented: the sentence says nothing about racing to sign agreements."
+     ],
+     "highlight": "Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261110-1-k1",
+     "tag": "Basics",
+     "fact": "COP31 opened on 9 November 2026 in Antalya, Türkiye, and runs until 20 November.",
+     "q": "Where is COP31 being held?",
+     "opts": [
+      "Antalya, Türkiye",
+      "Paris, France",
+      "Baku, Azerbaijan"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261110-1-k2",
+     "tag": "Goal",
+     "fact": "COP31 aims to turn existing promises into concrete action rather than produce a new treaty.",
+     "q": "What is the main aim of COP31?",
+     "opts": [
+      "Sign a new landmark treaty",
+      "Turn existing promises into action",
+      "Replace the Paris Agreement"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-1-k3",
+     "tag": "Warming",
+     "fact": "Even if all current commitments are implemented, warming could reach about 2.6°C.",
+     "q": "How much warming do UN projections show if current commitments are met?",
+     "opts": [
+      "1.5°C",
+      "Up to 2.6°C",
+      "3 to 3.5°C"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-1-k4",
+     "tag": "Rules",
+     "fact": "COP decisions need consensus, so one country can block a deal.",
+     "q": "Why can a single country block a COP deal?",
+     "opts": [
+      "Decisions require consensus",
+      "It hosts the meeting",
+      "It pays the most money"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261110-1-k5",
+     "tag": "Finance",
+     "fact": "Wealthy nations agreed in Baku to provide at least $300 billion a year by 2035.",
+     "q": "How much climate finance did wealthy nations promise in Baku?",
+     "opts": [
+      "$100 billion a year",
+      "$300 billion a year by 2035",
+      "$400 billion by 2030"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-1-k6",
+     "tag": "Progress",
+     "fact": "One in four new cars sold in 2025 was electric, up from fewer than one in 100 a decade earlier.",
+     "q": "What share of new cars sold in 2025 was electric?",
+     "opts": [
+      "One in 100",
+      "One in ten",
+      "One in four"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "COP31 in Antalya",
+    "question": "Should COP31 be judged by its treaty or by action?",
+    "branches": [
+     {
+      "title": "The goal",
+      "paras": "1–2",
+      "blanks": [
+       "turn promises into concrete action",
+       "up to 2.6°C even if implemented"
+      ],
+      "kps": [
+       "n20261110-1-k1",
+       "n20261110-1-k2",
+       "n20261110-1-k3"
+      ]
+     },
+     {
+      "title": "How it works",
+      "paras": "3–4",
+      "blanks": [
+       "decisions require consensus",
+       "$300 billion a year by 2035"
+      ],
+      "kps": [
+       "n20261110-1-k4",
+       "n20261110-1-k5"
+      ]
+     },
+     {
+      "title": "Supporters say",
+      "paras": "5–6",
+      "blanks": [
+       "energy transition moving faster",
+       "smaller clubs of countries"
+      ],
+      "kps": [
+       "n20261110-1-k6"
+      ]
+     },
+     {
+      "title": "Critics say",
+      "paras": "7–8",
+      "blanks": [
+       "oil producers can wait it out"
+      ],
+      "kps": [
+       "n20261110-1-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "a new treaty replaces Paris",
+     "1.5°C limit is still easily reached"
+    ]
+   },
+   "summary": {
+    "intro": "At COP31 in Antalya, countries are trying to turn existing climate promises into concrete action instead of signing a new treaty.",
+    "model": "COP31 focuses on delivering existing promises because current commitments still point to about 2.6°C. However, consensus rules and weak finance make progress hard, so the summit should be judged by measurable action rather than its final text.",
+    "options": [
+     {
+      "t": "Current national plans are not enough: even if fully carried out, they could still allow about 2.6°C of warming.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "the latest UN projections still point to as much as 2.6°C"
+     },
+     {
+      "t": "Finance for poorer countries is a central problem, as funds are seen as too small and too hard to reach.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Money is expected to be the hardest issue."
+     },
+     {
+      "t": "Supporters want delivery on existing agreements, while critics fear that lower expectations let big polluters avoid pressure.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Critics see a danger in lowered expectations."
+     },
+     {
+      "t": "A meeting in Santa Marta, Colombia, in April 2026 drew 57 countries.",
+      "ok": false,
+      "type": "detail",
+      "para": 6,
+      "evidence": "which drew 57 countries"
+     },
+     {
+      "t": "Several countries announced at the opening that they would leave the Paris Agreement.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "COP31 is expected to produce a single landmark treaty that replaces earlier promises.",
+      "ok": false,
+      "type": "contra",
+      "para": 1,
+      "evidence": "this one is not designed to produce a single landmark treaty"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think international meetings like COP31 are the best way to solve climate change. Others think individual countries, companies and cities should act on their own without waiting for global agreements. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (speed/flexibility or fairness/coordination) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Our class has been discussing the UN climate conference COP31. Instead of aiming for a new treaty, organisers want countries to deliver on promises they have already made. Some people say this is realistic; others say it lowers ambition. Which approach do you think will do more to fight climate change: focusing on action under existing agreements, or pushing for a new, stronger global treaty? Why? (Lena says: I support the action-first approach. We already have the Paris Agreement, and the problem is that countries do not keep their promises. Spending another ten years negotiating a new treaty would just delay real projects like building power grids.) (Omar says: I disagree. Without a stronger treaty, there is no pressure on big polluters. If every country only does what it wants, some will do almost nothing. Clear global rules are the only way to make everyone move at the same speed.)",
+    "steps": [
+     "Choose your position in one sentence.",
+     "Respond to one classmate's idea by name.",
+     "Add a specific example or personal experience.",
+     "End with a short conclusion that restates your view."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261110-2",
+   "topic": "Economy",
+   "title": "China Extends Its Trade Truce with the US for Two More Months",
+   "dek": "Beijing has kept an extra 24% tariff on hold until January. Is a short pause a sensible way to buy time, or does it simply keep businesses guessing?",
+   "sources": [
+    {
+     "name": "Reuters via Yahoo Finance, Nov 9, 2026",
+     "url": "https://finance.yahoo.com/economy/policy/articles/china-extends-suspension-24-tariff-030006090.html"
+    },
+    {
+     "name": "Reuters via TimesLIVE, Nov 9, 2026",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-09-china-extends-us-trade-truce-by-two-months/"
+    },
+    {
+     "name": "Global Times, Nov 9, 2026",
+     "url": "https://www.globaltimes.cn/page/202611/1373982.shtml"
+    }
+   ],
+   "paras": [
+    "On Monday, 9 November, China announced that it would keep suspending an additional 24 per cent tariff on goods imported from the United States for another two months, starting at 1:01 p.m. on Tuesday, 10 November. A 10 per cent tariff will remain in place. The decision came just before the suspension was due to expire, and it effectively extends a fragile trade truce between the world's two largest economies. Beijing also extended, until 10 January 2027, its suspension of special port fees on US-linked ships and of measures against 16 US firms on its export-control list and 11 on its 'unreliable entity list'.",
+    "To see why this matters, it helps to understand what a tariff is. A tariff is a tax on imported goods, collected when they cross the border. Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices. In 2025, Washington and Beijing imposed tariffs on each other's products in several rounds, at one point raising them above 100 per cent. A truce agreed later that year cut most of those increases, leaving a 10 per cent tariff in place while suspending the extra 24 per cent. Monday's decision keeps that arrangement alive.",
+    "The timing is not accidental. The announcement followed a video call on Friday between Chinese Vice-Premier He Lifeng and two senior US officials, Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer. According to China's Global Times, Washington extended some of its own suspensions in response, including measures aimed at the shipping industry. China's tariff commission said the steps carry out the 'outcomes and consensus' reached when the two presidents met in Washington in September. Xi Jinping and Donald Trump are expected to meet again, for the third time this year, at the APEC leaders' summit in China next week. A proposed $60 billion package of reciprocal tariff cuts, including about $17 billion worth of US farm products, is still under discussion.",
+    "Supporters of the extension see it as a sensible way to buy time. Cheng Dawei, an economist at Renmin University of China, said the move could ease near-term worries about trade friction and give markets an 'anchor of stability'. Song Guoyou of Fudan University said it showed that both sides were honouring their commitments. For exporters, farmers and shipping companies, avoiding a sudden jump in costs is valuable. A factory that sells machine parts to American buyers, for example, can keep its prices steady through the busy end-of-year season instead of renegotiating every contract.",
+    "Sceptics, however, focus on the length of the reprieve. Two months is a short horizon for a business deciding whether to build a new production line or sign a year-long supply contract. Market analysts quoted in Chinese media described the move as 'a temporary reprieve rather than a broad easing of tariffs'. Uncertainty is itself a cost: companies that cannot predict tax rates may delay investment, hold extra stock or shift suppliers to other countries 'just in case'. Cheng also noted that US domestic politics after the recent midterm elections add another layer of unpredictability.",
+    "There are also signs that tensions have not disappeared. Song described Washington's approach as a 'dual' one: carrying out agreements while applying pressure elsewhere. Beijing has strongly objected to recent US sanctions on Chinese firms over alleged links to Cuba. It has also said it will 'closely follow' US plans to use a different legal tool, known as Section 301, to replace tariffs that US courts ruled invalid, and that it will adjust its countermeasures if necessary. In other words, each side is keeping its options open.",
+    "Economists often describe trade wars using the idea of a 'prisoner's dilemma'. Each country may feel it gains by imposing tariffs to protect its industries or to win leverage in negotiations, but when both retaliate, both usually end up worse off: consumers pay more, exporters lose markets and supply chains become less efficient. A truce is a way of stepping back from that trap. Yet a truce renewed in short steps also keeps the threat of new tariffs on the table, which some officials see as useful pressure and others see as a source of instability.",
+    "On balance, the two-month extension is better than the alternative. A sudden return of the 24 per cent tariff would have hurt companies and consumers on both sides at a delicate moment, just before a major summit. Still, short-term fixes cannot replace a durable agreement. The real test will come at next week's meeting: if the two leaders can turn temporary pauses into longer, more predictable rules, businesses will be able to plan again. If not, the world may simply be counting down to the next deadline."
+   ],
+   "words": [
+    {
+     "w": "suspend",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/səˈspend/",
+     "syl": [
+      "sus",
+      "pend"
+     ],
+     "def": "to stop something officially for a period of time",
+     "ex": "The museum will suspend its evening tours while the roof is repaired."
+    },
+    {
+     "w": "impose",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪmˈpoʊz/",
+     "syl": [
+      "im",
+      "pose"
+     ],
+     "def": "to officially introduce a rule, tax or punishment that people must accept",
+     "ex": "Some cities impose a fee on cars that enter the centre at busy times."
+    },
+    {
+     "w": "reciprocal",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/rɪˈsɪprəkəl/",
+     "syl": [
+      "re",
+      "cip",
+      "ro",
+      "cal"
+     ],
+     "def": "given or done by each of two sides to the other",
+     "ex": "The two schools signed a reciprocal agreement to share their libraries."
+    },
+    {
+     "w": "uncertainty",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ʌnˈsɜːrtənti/",
+     "syl": [
+      "un",
+      "cer",
+      "tain",
+      "ty"
+     ],
+     "def": "a situation in which something is not known or cannot be predicted",
+     "ex": "The uncertainty about the weather made it hard to plan the sports day."
+    },
+    {
+     "w": "leverage",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈlevərɪdʒ/",
+     "syl": [
+      "lev",
+      "er",
+      "age"
+     ],
+     "def": "the power to influence what another person or group does",
+     "ex": "Having two job offers gave her more leverage when she discussed her salary."
+    },
+    {
+     "w": "durable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈdʊrəbəl/",
+     "syl": [
+      "du",
+      "ra",
+      "ble"
+     ],
+     "def": "able to last for a long time without breaking or failing",
+     "ex": "Both sides hoped the ceasefire would become a durable peace."
+    },
+    {
+     "w": "tariff",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈtærɪf/",
+     "syl": [
+      "tar",
+      "iff"
+     ],
+     "def": "a tax that a government charges on goods coming into or leaving a country",
+     "ex": "A higher tariff on imported cheese made it more expensive in local shops."
+    },
+    {
+     "w": "retaliate",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/rɪˈtælieɪt/",
+     "syl": [
+      "re",
+      "tal",
+      "i",
+      "ate"
+     ],
+     "def": "to do something harmful to someone because they have done something harmful to you",
+     "ex": "When one country raised taxes on steel, its neighbour decided to retaliate."
+    },
+    {
+     "w": "reprieve",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/rɪˈpriːv/",
+     "syl": [
+      "re",
+      "prieve"
+     ],
+     "def": "a delay before something unpleasant happens, giving temporary relief",
+     "ex": "The heavy rain gave the farmers a short reprieve from the drought."
+    },
+    {
+     "w": "countermeasure",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkaʊntərmeʒər/",
+     "syl": [
+      "coun",
+      "ter",
+      "mea",
+      "sure"
+     ],
+     "def": "an action taken to oppose or reduce the effect of another action",
+     "ex": "The bank introduced a new countermeasure against online fraud."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The decision came just before the suspension was due to expire, and it effectively extends a fragile trade truce between the world's two largest economies.",
+     "kind": "Main idea",
+     "note": "This sentence explains why the news matters: it keeps a fragile truce alive. The word 'fragile' signals that the peace could easily break."
+    },
+    {
+     "para": 2,
+     "text": "Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices.",
+     "kind": "Key details",
+     "note": "A concession sentence ('Although…') that explains who really pays for tariffs. This is the tested sentence in the simplification question."
+    },
+    {
+     "para": 4,
+     "text": "Supporters of the extension see it as a sensible way to buy time.",
+     "kind": "Topic sentence",
+     "note": "Introduces the first viewpoint. Questions about 'supporters' should be answered from this paragraph."
+    },
+    {
+     "para": 5,
+     "text": "Uncertainty is itself a cost: companies that cannot predict tax rates may delay investment, hold extra stock or shift suppliers to other countries 'just in case'.",
+     "kind": "Cause → effect",
+     "note": "The colon introduces three effects of uncertainty. Negative factual questions often test lists like this one."
+    },
+    {
+     "para": 7,
+     "text": "Each country may feel it gains by imposing tariffs to protect its industries or to win leverage in negotiations, but when both retaliate, both usually end up worse off: consumers pay more, exporters lose markets and supply chains become less efficient.",
+     "kind": "Interpretation",
+     "note": "This sentence explains the 'prisoner's dilemma'. Notice the hedging words 'may' and 'usually', which make the claim careful rather than absolute."
+    },
+    {
+     "para": 8,
+     "text": "Still, short-term fixes cannot replace a durable agreement.",
+     "kind": "Author's view",
+     "note": "After agreeing the extension is better than nothing, the author adds a limit with 'Still'. This is the author's balanced judgement."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 7,
+     "q": "The word 'leverage' in paragraph 7 is closest in meaning to",
+     "opts": [
+      "a bar used to lift heavy objects",
+      "borrowed money used to make investments",
+      "power to influence the other side",
+      "a balance between two equal forces"
+     ],
+     "a": 2,
+     "why": "Countries impose tariffs 'to win leverage in negotiations', meaning power to influence the other side.",
+     "evidence": "to win leverage in negotiations",
+     "optWhy": [
+      "Another meaning of the word: the physical lever sense does not fit negotiations.",
+      "Another meaning of the word: the finance sense (borrowing to invest) does not fit this context.",
+      "Correct. In negotiations, leverage is power to influence the other side.",
+      "Meaning changed: leverage is about gaining an advantage, not keeping things equal."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, what did China decide on 9 November?",
+     "opts": [
+      "To continue suspending the extra 24 per cent tariff for two more months",
+      "To remove every remaining tariff on goods imported from the United States",
+      "To raise the remaining tariff on US goods from 10 to 24 per cent",
+      "To end its special port fees on US-linked ships permanently"
+     ],
+     "a": 0,
+     "why": "China said it would keep suspending the additional 24 per cent tariff for another two months, while the 10 per cent tariff stays.",
+     "evidence": "keep suspending an additional 24 per cent tariff on goods imported from the United States for another two months",
+     "optWhy": [
+      "Correct. China kept the extra 24 per cent tariff suspended for two more months.",
+      "Contradiction: a 10 per cent tariff remains in place.",
+      "Cause reversed: the 24 per cent tariff stays suspended; nothing was raised.",
+      "Too extreme: the port-fee suspension runs only until 10 January 2027, not permanently."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are possible effects of uncertainty on companies EXCEPT:",
+     "opts": [
+      "delaying investment",
+      "holding extra stock",
+      "moving to suppliers in other countries",
+      "cutting prices to win more customers"
+     ],
+     "a": 3,
+     "why": "The paragraph lists delaying investment, holding extra stock and shifting suppliers; cutting prices is not mentioned.",
+     "evidence": "may delay investment, hold extra stock or shift suppliers to other countries",
+     "optWhy": [
+      "Mentioned: 'may delay investment'.",
+      "Mentioned: 'hold extra stock'.",
+      "Mentioned: 'shift suppliers to other countries'.",
+      "Correct. Cutting prices is not mentioned as an effect of uncertainty."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the proposed $60 billion package?",
+     "opts": [
+      "It has already been signed by both presidents.",
+      "Its final form may depend on the next meeting.",
+      "It would cover only American farm products.",
+      "It was rejected at the September meeting in Washington."
+     ],
+     "a": 1,
+     "why": "The package is 'still under discussion' and the two leaders are about to meet, so its final shape may be decided there.",
+     "evidence": "is still under discussion",
+     "optWhy": [
+      "Contradiction: it is still under discussion, so it has not been signed.",
+      "Correct. Because it is still under discussion and the leaders meet next week, the meeting may shape it.",
+      "Detail swapped: farm products are only part of it ('including about $17 billion').",
+      "Not supported: the September meeting produced 'outcomes and consensus', not a rejection."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention the 'prisoner's dilemma' in paragraph 7?",
+     "opts": [
+      "To show that trade disputes are usually settled in court",
+      "To argue that tariffs always protect a country's industries",
+      "To describe a punishment one country used against another",
+      "To explain why both sides can lose when each one retaliates"
+     ],
+     "a": 3,
+     "why": "The idea is used to explain that each side may think tariffs help it, but when both retaliate both end up worse off.",
+     "evidence": "when both retaliate, both usually end up worse off",
+     "optWhy": [
+      "Not mentioned: courts appear in paragraph 6, not as the point of this idea.",
+      "Too extreme: the paragraph says countries may 'feel' they gain, not that tariffs always help.",
+      "Another meaning of the word: 'prisoner' suggests punishment, but the term is an economic model.",
+      "Correct. It explains why mutual retaliation leaves both sides worse off."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 2,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Importing companies refuse to pay tariffs, so their customers have to pay the whole tax instead.",
+      "Customers pay tariffs directly at the border whenever they buy goods from another country.",
+      "Importers pay the tariff, but they often make buyers bear some of it through higher prices.",
+      "Higher prices paid by customers cause importing companies to pay larger tariffs at the border."
+     ],
+     "a": 2,
+     "why": "The importer pays the tariff, but part of the cost often reaches customers through higher prices. Only C keeps both ideas.",
+     "evidence": "Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices.",
+     "optWhy": [
+      "Contradiction: importers do pay; only part of the cost is passed on.",
+      "Detail swapped: the importing company, not the customer, pays at the border.",
+      "Correct. It keeps who pays and how part of the cost reaches buyers.",
+      "Cause reversed: tariffs lead to higher prices, not the other way round."
+     ],
+     "highlight": "Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261110-2-k1",
+     "tag": "Basics",
+     "fact": "On 9 November, China kept its extra 24% tariff on US goods suspended for two more months; a 10% tariff remains.",
+     "q": "Which tariff remains in place?",
+     "opts": [
+      "10%",
+      "24%",
+      "34%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261110-2-k2",
+     "tag": "Definition",
+     "fact": "A tariff is a tax on imported goods, paid by the importer but often partly passed on to customers.",
+     "q": "Who pays a tariff at the border?",
+     "opts": [
+      "The customer",
+      "The importing company",
+      "The exporting country's government"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-2-k3",
+     "tag": "Next step",
+     "fact": "Xi and Trump are expected to meet at the APEC summit in China next week.",
+     "q": "Where are the two leaders expected to meet next?",
+     "opts": [
+      "The G20 in Brazil",
+      "The APEC summit in China",
+      "The UN in New York"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-2-k4",
+     "tag": "Supporters",
+     "fact": "Supporters say the extension buys time and gives markets an 'anchor of stability'.",
+     "q": "How do supporters describe the extension?",
+     "opts": [
+      "An anchor of stability",
+      "A complete end to tariffs",
+      "A new trade war"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261110-2-k5",
+     "tag": "Sceptics",
+     "fact": "Sceptics say two months is too short for businesses to plan and that uncertainty is itself a cost.",
+     "q": "What is the sceptics' main concern?",
+     "opts": [
+      "The tariff is too low",
+      "The extension is too short to plan around",
+      "Port fees are too high"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-2-k6",
+     "tag": "Theory",
+     "fact": "In a 'prisoner's dilemma', both sides end up worse off when each retaliates.",
+     "q": "What does the 'prisoner's dilemma' show about trade wars?",
+     "opts": [
+      "One side always wins",
+      "Both sides can end up worse off",
+      "Tariffs always protect jobs"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "US–China trade truce",
+    "question": "Is a short trade truce better than none?",
+    "branches": [
+     {
+      "title": "The decision",
+      "paras": "1–2",
+      "blanks": [
+       "extra 24% tariff stays suspended",
+       "10% tariff remains"
+      ],
+      "kps": [
+       "n20261110-2-k1",
+       "n20261110-2-k2"
+      ]
+     },
+     {
+      "title": "Why now",
+      "paras": "3",
+      "blanks": [
+       "APEC summit next week"
+      ],
+      "kps": [
+       "n20261110-2-k3"
+      ]
+     },
+     {
+      "title": "Supporters say",
+      "paras": "4",
+      "blanks": [
+       "buys time for talks",
+       "an anchor of stability"
+      ],
+      "kps": [
+       "n20261110-2-k4"
+      ]
+     },
+     {
+      "title": "Sceptics say",
+      "paras": "5–7",
+      "blanks": [
+       "two months is too short",
+       "both sides end up worse off"
+      ],
+      "kps": [
+       "n20261110-2-k5",
+       "n20261110-2-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "all tariffs removed for good",
+     "customers pay tariffs at the border"
+    ]
+   },
+   "summary": {
+    "intro": "China has extended a pause on an extra 24 per cent tariff on US goods for two more months.",
+    "model": "China kept its extra tariff on hold, which buys time before a summit and steadies markets. However, a two-month window still leaves businesses uncertain, so only a durable agreement will let them plan again.",
+    "options": [
+     {
+      "t": "China's two-month extension keeps a fragile truce alive just before the two leaders meet again.",
+      "ok": true,
+      "type": "main",
+      "para": 1,
+      "evidence": "it effectively extends a fragile trade truce"
+     },
+     {
+      "t": "Supporters argue the pause buys time and protects businesses from a sudden rise in costs.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Supporters of the extension see it as a sensible way to buy time."
+     },
+     {
+      "t": "Sceptics warn that short pauses create uncertainty, which leads companies to delay investment.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Uncertainty is itself a cost"
+     },
+     {
+      "t": "The proposed package includes about $17 billion worth of US farm products.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "evidence": "including about $17 billion worth of US farm products"
+     },
+     {
+      "t": "Several European countries have joined the truce to protect their own exporters.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "China has decided to remove the remaining 10 per cent tariff on US goods.",
+      "ok": false,
+      "type": "contra",
+      "para": 1,
+      "evidence": "A 10 per cent tariff will remain in place."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe countries should trade freely with as few taxes on imports as possible. Others think governments should use tariffs to protect local jobs and industries. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (prices and choice for consumers, or protecting jobs) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: We have been studying the trade truce between China and the United States, which was just extended by two months. Some economists say short extensions are a smart way to keep talks going. Others argue that they create uncertainty and that only long-term agreements help businesses. In your view, are short-term trade truces more helpful or more harmful? Why? (Mei says: I think short truces are helpful. Trade talks are complicated, and a two-month pause stops prices from jumping while leaders keep negotiating. Without the extension, the 24% tariff would have come back the very next day.) (Jack says: I see it differently. A company cannot plan a new factory or a year-long contract around a two-month window. Constant deadlines make businesses nervous, so they delay investment, and that hurts jobs on both sides.)",
+    "steps": [
+     "Choose your position in one sentence.",
+     "Respond to one classmate's idea by name.",
+     "Add a specific example or personal experience.",
+     "End with a short conclusion that restates your view."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261110-3",
+   "topic": "Space",
+   "title": "NASA Asks Students to Help Design a Base on the Moon",
+   "dek": "A $1 million challenge invites high school and university students to solve real lunar engineering problems. Is it a smart way to find fresh ideas, or mostly a public-relations exercise?",
+   "sources": [
+    {
+     "name": "Space.com, Nov 9, 2026",
+     "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems"
+    },
+    {
+     "name": "Tech Times, Nov 8, 2026",
+     "url": "https://www.techtimes.com/articles/330258/20261108/nasa-moon-base-student-challenge-1-million-prize-solve-six-lunar-engineering-problems.htm"
+    },
+    {
+     "name": "NASA, Oct 23, 2026",
+     "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+    }
+   ],
+   "paras": [
+    "On 8 November 2026, at an aerospace exhibition at the Kennedy Space Center in Florida, NASA launched a competition with an unusual target audience. The Moon Base Student Challenge invites high school and university students in the United States to help solve real engineering problems for a future base on the Moon, with a total of $1 million in prizes. Registration is open until 25 January 2027. The announcement raises an interesting question: what can teenagers and young engineers contribute to one of the most complex projects NASA has ever attempted?",
+    "The challenge is part of a much larger plan. In March 2026, NASA announced its Moon Base Program, which aims to build a permanent crewed outpost near the Moon's south pole by the early 2030s. Before that, the agency hopes to land astronauts on the Moon again in 2028, using landers being developed by SpaceX and Blue Origin. The south pole attracts scientists because some of its deep craters never receive sunlight and may hold water ice, which could one day provide drinking water, oxygen and even rocket fuel. According to a planning guide for the base, the first decade of construction could involve 81 launches, 73 lunar landings and about 214,000 kilograms of cargo.",
+    "The competition focuses on six problem areas, including power, life support, communications and astronaut safety. Teams first submit concepts and then refine them, and finalists will present their solutions to NASA leaders. According to the news site Tech Times, entries take the form of 'trade studies' and briefings, the same formats professional aerospace engineers use. A trade study compares several possible designs and weighs their trade-offs. For example, solar panels are light and simple, but they produce nothing during the long lunar night, while a small nuclear reactor works continuously but is heavier and raises safety questions.",
+    "Why would a space agency with thousands of experienced engineers ask students for help? Part of the answer is that much about the south pole is still unknown. 'We're going to be getting tons of data from the South Pole, which again, we know very little about right now,' said Carlos García-Galán, a manager in NASA's Moon Base Program. When a problem is new, ideas from outside the usual pipeline can be surprisingly useful. NASA Administrator Jared Isaacman put the message more directly: 'You do not have to wait until graduation to contribute.'",
+    "Supporters see the challenge as excellent value. One million dollars is tiny compared with the cost of a single rocket launch, yet it could produce hundreds of fresh proposals. Crowdsourcing ideas through prize competitions has a good record, because prizes attract solutions from people an organisation would never have hired directly. Perhaps more importantly, the challenge may inspire students to choose careers in science and engineering. The people who will run a lunar base in the 2040s are in school today, and giving them a real problem to work on is more motivating than any textbook exercise.",
+    "Critics, however, raise several concerns. Student designs, however creative, rarely become flight hardware, so the competition may work more as public relations than as engineering. The challenge is also open only to students in the United States, which limits the range of ideas it can gather. Its future is uncertain as well: the White House proposed eliminating the budget of NASA's Office of STEM Engagement, which runs its education programmes, for the 2026 and 2027 financial years. Congress rejected the 2026 cut, but a House draft for 2027 included it, so whether such programmes continue depends on future appropriations. Some also question the larger goal, arguing that money spent on a Moon base might do more good on Earth.",
+    "These criticisms deserve to be taken seriously, but they miss part of the point. Even if no student design ever flies, the process of comparing options, working within strict constraints and defending a choice in front of experts is exactly the kind of thinking a lunar base will require. A feasible plan for living on the Moon will be built from many small, careful decisions, and practising those decisions early has value of its own. The challenge would be stronger, though, if NASA published the best ideas openly so that students around the world could learn from them.",
+    "In the end, the Moon Base Student Challenge is a small, symbolic investment in a very large and uncertain project. It will not decide whether humans live on the Moon. But it does send a clear message to young people: the future of space exploration is not something to watch from a distance. It is a set of problems waiting for someone, perhaps someone still in school, to solve."
+   ],
+   "words": [
+    {
+     "w": "permanent",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈpɜːrmənənt/",
+     "syl": [
+      "per",
+      "ma",
+      "nent"
+     ],
+     "def": "lasting for a very long time or for all time",
+     "ex": "The scientists hope to set up a permanent research station on the island."
+    },
+    {
+     "w": "inspire",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈspaɪər/",
+     "syl": [
+      "in",
+      "spire"
+     ],
+     "def": "to give someone the wish or confidence to do something",
+     "ex": "A visit to the observatory can inspire young people to study physics."
+    },
+    {
+     "w": "constraint",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˈstreɪnt/",
+     "syl": [
+      "con",
+      "straint"
+     ],
+     "def": "something that limits what you can do",
+     "ex": "Time was the biggest constraint on our science project."
+    },
+    {
+     "w": "feasible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈfiːzəbəl/",
+     "syl": [
+      "fea",
+      "si",
+      "ble"
+     ],
+     "def": "possible to do and likely to work",
+     "ex": "Engineers are checking whether a bridge across the bay is feasible."
+    },
+    {
+     "w": "symbolic",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/sɪmˈbɑːlɪk/",
+     "syl": [
+      "sym",
+      "bol",
+      "ic"
+     ],
+     "def": "important mainly because of what it represents rather than its practical effect",
+     "ex": "Planting the first tree was a symbolic start to the green-city project."
+    },
+    {
+     "w": "outpost",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈaʊtpoʊst/",
+     "syl": [
+      "out",
+      "post"
+     ],
+     "def": "a small base or settlement far away from the main centre",
+     "ex": "The research team lived in a tiny outpost on the Antarctic ice."
+    },
+    {
+     "w": "trade-off",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈtreɪd ɔːf/",
+     "syl": [
+      "trade",
+      "off"
+     ],
+     "def": "a balance between two things you want but cannot fully have at the same time",
+     "ex": "There is a trade-off between a phone's battery size and its weight."
+    },
+    {
+     "w": "crowdsource",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˈkraʊdsɔːrs/",
+     "syl": [
+      "crowd",
+      "source"
+     ],
+     "def": "to get ideas, help or information from a large number of people, often online",
+     "ex": "The museum decided to crowdsource names for its new robot guide."
+    },
+    {
+     "w": "appropriation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/əˌproʊpriˈeɪʃən/",
+     "syl": [
+      "ap",
+      "pro",
+      "pri",
+      "a",
+      "tion"
+     ],
+     "def": "an amount of public money that a government officially sets aside for a purpose",
+     "ex": "The new hospital wing depends on next year's appropriation from the state."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The announcement raises an interesting question: what can teenagers and young engineers contribute to one of the most complex projects NASA has ever attempted?",
+     "kind": "Main idea",
+     "note": "The question after the colon sets up the whole passage. The rest of the article answers it from different viewpoints."
+    },
+    {
+     "para": 2,
+     "text": "The south pole attracts scientists because some of its deep craters never receive sunlight and may hold water ice, which could one day provide drinking water, oxygen and even rocket fuel.",
+     "kind": "Cause → effect",
+     "note": "'Because' gives the reason for choosing the south pole. Notice the hedging: 'may hold' and 'could one day', so the ice is not yet confirmed."
+    },
+    {
+     "para": 3,
+     "text": "A trade study compares several possible designs and weighs their trade-offs.",
+     "kind": "Key details",
+     "note": "A definition sentence. TOEFL passages often define technical terms; vocabulary and inference questions can build on these definitions."
+    },
+    {
+     "para": 5,
+     "text": "Supporters see the challenge as excellent value.",
+     "kind": "Topic sentence",
+     "note": "Introduces the supporters' view. The rest of the paragraph gives reasons: low cost, fresh ideas and inspiration."
+    },
+    {
+     "para": 6,
+     "text": "Critics, however, raise several concerns.",
+     "kind": "Critical thinking",
+     "note": "'However' signals the opposing view. The paragraph then lists concerns, a common target for negative factual questions."
+    },
+    {
+     "para": 7,
+     "text": "These criticisms deserve to be taken seriously, but they miss part of the point.",
+     "kind": "Author's view",
+     "note": "The author makes a concession and then disagrees. This 'yes, but' pattern often signals the writer's real opinion."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word 'pipeline' in paragraph 4 is closest in meaning to",
+     "opts": [
+      "the usual route by which people and ideas reach an organisation",
+      "a long pipe that carries oil or natural gas across great distances",
+      "a system for supplying water to the future Moon base",
+      "a list of planned projects that are still waiting to receive their funding"
+     ],
+     "a": 0,
+     "why": "'Ideas from outside the usual pipeline' are ideas that do not come through NASA's normal route of trained engineers.",
+     "evidence": "ideas from outside the usual pipeline can be surprisingly useful",
+     "optWhy": [
+      "Correct. The 'usual pipeline' is the normal route by which experts and ideas reach NASA.",
+      "Another meaning of the word: the literal oil or gas pipe does not fit 'ideas'.",
+      "Topic confusion: water ice is mentioned in paragraph 2, but not here.",
+      "Another meaning of the word: 'in the pipeline' (waiting) is a different use."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why are scientists interested in the Moon's south pole?",
+     "opts": [
+      "It receives sunlight throughout the lunar year.",
+      "It is the easiest place on the Moon to land.",
+      "It is where earlier astronauts collected rock samples.",
+      "Some of its craters may contain water ice."
+     ],
+     "a": 3,
+     "why": "The paragraph says some deep craters never receive sunlight and may hold water ice, a possible source of water, oxygen and fuel.",
+     "evidence": "some of its deep craters never receive sunlight and may hold water ice",
+     "optWhy": [
+      "Contradiction: some of its craters never receive sunlight.",
+      "Not mentioned: the paragraph says nothing about landing being easy.",
+      "Not mentioned: earlier missions are not discussed in this paragraph.",
+      "Correct. Craters there may hold water ice."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following are concerns about the challenge EXCEPT:",
+     "opts": [
+      "Student designs rarely become real flight hardware.",
+      "The prize money is too large for a student contest.",
+      "Only students in the United States can take part.",
+      "Funding for NASA's education programmes may be cut."
+     ],
+     "a": 1,
+     "why": "Paragraph 6 mentions flight hardware, the US-only rule and possible budget cuts, but never says the prize is too large.",
+     "evidence": "open only to students in the United States",
+     "optWhy": [
+      "Mentioned: student designs 'rarely become flight hardware'.",
+      "Correct. The size of the prize is not criticised in paragraph 6.",
+      "Mentioned: the challenge is 'open only to students in the United States'.",
+      "Mentioned: the White House proposed eliminating the STEM Engagement budget."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about choosing a power source for a Moon base?",
+     "opts": [
+      "Solar panels are clearly the best choice because they are light.",
+      "NASA has already decided to use a small nuclear reactor.",
+      "Each option has strengths to weigh against weaknesses.",
+      "Power is the only problem the students are asked to solve."
+     ],
+     "a": 2,
+     "why": "The solar and nuclear examples each have an advantage and a drawback, so engineers must weigh trade-offs rather than pick an obvious winner.",
+     "evidence": "weighs their trade-offs",
+     "optWhy": [
+      "Too extreme: solar panels produce nothing during the lunar night.",
+      "Not mentioned: no decision is described; nuclear is only an example.",
+      "Correct. Both examples show advantages balanced by drawbacks.",
+      "Contradiction: there are six problem areas, not one."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author compare the $1 million prize with 'the cost of a single rocket launch' in paragraph 5?",
+     "opts": [
+      "To suggest that the challenge is cheap compared with its possible benefits",
+      "To criticise NASA for spending far too much of its budget on rockets",
+      "To show that students could design a cheaper rocket",
+      "To explain how the prize money will be divided among the different winners"
+     ],
+     "a": 0,
+     "why": "The comparison shows that the prize is very small next to normal space costs, supporting the idea that the challenge is excellent value.",
+     "evidence": "One million dollars is tiny compared with the cost of a single rocket launch",
+     "optWhy": [
+      "Correct. The comparison supports the claim that the challenge is 'excellent value'.",
+      "Meaning changed: the author is not criticising rocket spending.",
+      "Not mentioned: students are not asked to design rockets.",
+      "Not mentioned: the passage does not explain how the prize is divided."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Since no student design will ever fly, NASA should stop asking its experts to spend time judging them.",
+      "Although student designs may never be used, weighing options under limits and justifying choices is what a Moon base needs.",
+      "Students must defend their designs in front of a panel of experts before any of those designs can be flown to the Moon.",
+      "A lunar base will need strict rules for the experts who compare and rank the many designs that students send to NASA."
+     ],
+     "a": 1,
+     "why": "The sentence concedes that student designs may never fly but argues that the thinking process itself is what a Moon base needs. Only B keeps both parts.",
+     "evidence": "Even if no student design ever flies, the process of comparing options, working within strict constraints and defending a choice in front of experts is exactly the kind of thinking a lunar base will require.",
+     "optWhy": [
+      "Meaning changed: the sentence defends the challenge; it does not say NASA should stop.",
+      "Correct. It keeps the concession and the main claim about useful thinking skills.",
+      "Detail swapped: defending a choice is part of the process, not a condition for flying.",
+      "Meaning changed: 'strict constraints' limit the designs, not rules for the experts."
+     ],
+     "highlight": "Even if no student design ever flies, the process of comparing options, working within strict constraints and defending a choice in front of experts is exactly the kind of thinking a lunar base will require."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261110-3-k1",
+     "tag": "Basics",
+     "fact": "NASA's Moon Base Student Challenge offers $1 million in total prizes; registration closes on 25 January 2027.",
+     "q": "How much prize money does the challenge offer in total?",
+     "opts": [
+      "$100,000",
+      "$1 million",
+      "$10 million"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-3-k2",
+     "tag": "Big plan",
+     "fact": "NASA aims to build a permanent crewed outpost near the Moon's south pole by the early 2030s.",
+     "q": "Where does NASA plan to build its Moon base?",
+     "opts": [
+      "Near the south pole",
+      "On the far side",
+      "Near the equator"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261110-3-k3",
+     "tag": "Water",
+     "fact": "Some south-pole craters never receive sunlight and may hold water ice.",
+     "q": "Why is the south pole attractive to scientists?",
+     "opts": [
+      "It is always sunny",
+      "Its craters may hold water ice",
+      "It has the flattest ground"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-3-k4",
+     "tag": "Trade-offs",
+     "fact": "A trade study compares designs and weighs trade-offs, such as solar versus nuclear power.",
+     "q": "What does a trade study do?",
+     "opts": [
+      "Calculates prize money",
+      "Compares designs and weighs trade-offs",
+      "Sells parts to other agencies"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-3-k5",
+     "tag": "Supporters",
+     "fact": "Supporters say the prize is cheap and could inspire students to become engineers.",
+     "q": "Which is a supporters' argument?",
+     "opts": [
+      "Designs will fly next year",
+      "It is cheap and inspiring",
+      "It replaces NASA engineers"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261110-3-k6",
+     "tag": "Critics",
+     "fact": "Critics say student designs rarely fly and that the challenge is open only to US students.",
+     "q": "Which is a critics' concern?",
+     "opts": [
+      "The prize is too large",
+      "It is open only to US students",
+      "It lasts too long"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Moon Base Student Challenge",
+    "question": "Is a student challenge a smart way to help build a Moon base?",
+    "branches": [
+     {
+      "title": "The challenge",
+      "paras": "1, 3",
+      "blanks": [
+       "$1 million in prizes",
+       "six problem areas"
+      ],
+      "kps": [
+       "n20261110-3-k1",
+       "n20261110-3-k4"
+      ]
+     },
+     {
+      "title": "Bigger plan",
+      "paras": "2",
+      "blanks": [
+       "permanent outpost near south pole",
+       "craters may hold water ice"
+      ],
+      "kps": [
+       "n20261110-3-k2",
+       "n20261110-3-k3"
+      ]
+     },
+     {
+      "title": "Supporters say",
+      "paras": "4–5",
+      "blanks": [
+       "cheap compared with a launch",
+       "inspire future engineers"
+      ],
+      "kps": [
+       "n20261110-3-k5"
+      ]
+     },
+     {
+      "title": "Critics say",
+      "paras": "6",
+      "blanks": [
+       "designs rarely become flight hardware"
+      ],
+      "kps": [
+       "n20261110-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "open to students worldwide",
+     "the south pole is always sunny"
+    ]
+   },
+   "summary": {
+    "intro": "NASA has launched a $1 million challenge asking students to help solve engineering problems for a future Moon base.",
+    "model": "NASA's challenge asks students to weigh trade-offs for a Moon base because much about the south pole is unknown. While critics call it mostly publicity, the author argues the thinking it trains is valuable, so it is a small but worthwhile investment.",
+    "options": [
+     {
+      "t": "The challenge is part of NASA's plan to build a permanent base near the Moon's south pole.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "The challenge is part of a much larger plan."
+     },
+     {
+      "t": "Supporters say it is cheap, brings in fresh ideas and may inspire future engineers.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Supporters see the challenge as excellent value."
+     },
+     {
+      "t": "Critics doubt its practical value and its future funding, but the author argues that the thinking it trains is still useful.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "These criticisms deserve to be taken seriously, but they miss part of the point."
+     },
+     {
+      "t": "The first decade of construction could involve 81 launches and 73 lunar landings.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "81 launches, 73 lunar landings"
+     },
+     {
+      "t": "The winning team will travel to the Kennedy Space Center to watch a rocket launch.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The challenge is open to students from any country in the world.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "open only to students in the United States"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think students learn more by working on real-world problems, such as designing part of a Moon base. Others think students should first master the basics through textbooks and exams. Which approach do you prefer, and why?",
+    "hint": "State your view → reason 1 (motivation or solid foundations) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week we read about NASA's Moon Base Student Challenge, which offers $1 million in prizes for student solutions to lunar engineering problems. Some people think competitions like this are a smart way to find fresh ideas and inspire future scientists. Others think they are mostly publicity, since student designs rarely become real hardware. What is your view? Are student challenges like this valuable? Why or why not? (Sofia says: I think they are very valuable. Students are not afraid to try unusual ideas, and the prize money is tiny compared with NASA's budget. Even if only one idea is useful, the contest has paid for itself.) (Ethan says: I'm less sure. Real engineers spend years testing equipment. A student team working for a few months cannot compete with that, so I think the contest is mostly good advertising for NASA.)",
+    "steps": [
+     "Choose your position in one sentence.",
+     "Respond to one classmate's idea by name.",
+     "Add a specific example or personal experience.",
+     "End with a short conclusion that restates your view."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "audio": {
+  "On 9 November 2026, delegates from nearly 200 countries gathered in Antalya for COP31, the United Nations' annual climate conference. The talks will run until 20 November. Unlike some earlier summits, this one is not designed to produce a single landmark treaty. Instead, organisers say the aim is to turn the promises countries have already made into concrete action. Whether that modest-sounding goal reflects hard-won realism or a quiet retreat from ambition is the question hanging over the next two weeks.": "audio/2026-11-10/a1-p1.mp3",
+  "COP stands for Conference of the Parties, the countries that signed the UN's 1992 climate convention. The most famous meeting, in Paris in 2015, produced an agreement to hold global warming well below 2°C above pre-industrial levels and to try to limit it to 1.5°C. The system has achieved something: before Paris, the world was heading for about 3 to 3.5°C of warming, according to David Victor of the University of California, San Diego. Yet even if every current commitment were fully implemented, the latest UN projections still point to as much as 2.6°C, and the UN has concluded that 1.5°C can no longer be met without a period of temporary overshoot.": "audio/2026-11-10/a1-p2.mp3",
+  "This year's conference also has an unusual structure. Türkiye is the host, and its environment minister, Murat Kurum, serves as COP31 President, while Australia's climate minister, Chris Bowen, leads the negotiations under a co-presidency arrangement agreed at COP30. Bowen has promised a decision that will be developed throughout the conference rather than rushed out in the final hours, as has often happened in the past. He has admitted, however, that there is 'a difference of views' about how ambitious that decision should be. Because COP decisions require consensus, a single country can block a deal that every other country supports.": "audio/2026-11-10/a1-p3.mp3",
+  "Money is expected to be the hardest issue. Developing countries want faster access to funding for adaptation, meaning measures such as flood defences and drought-resistant crops that help people cope with impacts already under way. At the 2024 talks in Baku, wealthy nations agreed to provide at least $300 billion a year to developing countries by 2035. Many poorer countries say this is too little and too hard to reach. Cristian Barrasueta of the World Rural Forum argues that complicated procedures and multiple intermediaries keep funds away from small farming organisations. Meanwhile, some donors are cutting back: Germany's international climate finance fell from €6.1 billion in 2024 to €4.7 billion in 2025. Emerging and developing economies outside China, home to nearly two-thirds of the world's population, received only 18 per cent of global clean-energy investment in 2025.": "audio/2026-11-10/a1-p4.mp3",
+  "Optimists point out that the energy transition is moving faster than many expected. A decade ago, fewer than one in 100 new cars sold worldwide was electric; in 2025 the figure was one in four. More than 600 gigawatts of solar power were added in 2025 alone. Türkiye and Australia want to raise electricity's share of global energy use from about 20 per cent today to 35 per cent by 2035, and the International Energy Agency estimates that faster electrification could cut fuel-importing countries' energy bills by more than $400 billion by 2035.": "audio/2026-11-10/a1-p5.mp3",
+  "Supporters of this action-first approach argue that the world does not need another treaty so much as delivery on the ones it already has. UN climate chief Simon Stiell said progress was 'nowhere near far enough or fair enough' and urged countries to move beyond setting targets. Victor goes further, suggesting that real progress now comes from smaller 'clubs' of governments and companies willing to move together, such as a meeting held in Santa Marta, Colombia, in April 2026, which drew 57 countries.": "audio/2026-11-10/a1-p6.mp3",
+  "Critics see a danger in lowered expectations. Without a clear, shared plan, they argue, countries that profit from oil and gas can simply wait out the pressure. There is still no consensus on how quickly to move away from coal, oil and gas, and oil-producing states such as Saudi Arabia have repeatedly blocked such plans in the past. The human stakes are rising: the World Health Organization estimates that 3.3 to 3.6 billion people live in areas highly vulnerable to climate change, and a severe drought in Bolivia has killed more than 75,000 livestock.": "audio/2026-11-10/a1-p7.mp3",
+  "Both sides have a point. Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum. In my view, COP31 should be judged not by the elegance of its final text but by whether countries leave Antalya with measurable steps: faster grid building, simpler access to finance and a timetable for checking progress. Like a student who keeps rewriting a study plan instead of opening the textbook, the world has had enough plans. What it needs now is evidence of work.": "audio/2026-11-10/a1-p8.mp3",
+  "concrete": "audio/2026-11-10/a1-w-concrete.mp3",
+  "The club made a concrete plan to collect 500 books for the village library by June.": "audio/2026-11-10/a1-ex-concrete.mp3",
+  "commitment": "audio/2026-11-10/a1-w-commitment.mp3",
+  "The school made a commitment to plant one tree for every new student.": "audio/2026-11-10/a1-ex-commitment.mp3",
+  "implement": "audio/2026-11-10/a1-w-implement.mp3",
+  "The city will implement the new recycling rules from January.": "audio/2026-11-10/a1-ex-implement.mp3",
+  "consensus": "audio/2026-11-10/a1-w-consensus.mp3",
+  "After a long debate, the class reached a consensus on the trip destination.": "audio/2026-11-10/a1-ex-consensus.mp3",
+  "vulnerable": "audio/2026-11-10/a1-w-vulnerable.mp3",
+  "Low-lying islands are especially vulnerable to rising sea levels.": "audio/2026-11-10/a1-ex-vulnerable.mp3",
+  "overshoot": "audio/2026-11-10/a1-w-overshoot.mp3",
+  "Scientists warn that even a short overshoot could damage coral reefs permanently.": "audio/2026-11-10/a1-ex-overshoot.mp3",
+  "intermediary": "audio/2026-11-10/a1-w-intermediary.mp3",
+  "The charity acted as an intermediary between the donors and the farmers.": "audio/2026-11-10/a1-ex-intermediary.mp3",
+  "adaptation": "audio/2026-11-10/a1-w-adaptation.mp3",
+  "Building higher sea walls is one form of adaptation for coastal towns.": "audio/2026-11-10/a1-ex-adaptation.mp3",
+  "electrification": "audio/2026-11-10/a1-w-electrification.mp3",
+  "The electrification of city buses has made the streets much quieter.": "audio/2026-11-10/a1-ex-electrification.mp3",
+  "Instead, organisers say the aim is to turn the promises countries have already made into concrete action.": "audio/2026-11-10/a1-ks1.mp3",
+  "Yet even if every current commitment were fully implemented, the latest UN projections still point to as much as 2.6°C, and the UN has concluded that 1.5°C can no longer be met without a period of temporary overshoot.": "audio/2026-11-10/a1-ks2.mp3",
+  "Because COP decisions require consensus, a single country can block a deal that every other country supports.": "audio/2026-11-10/a1-ks3.mp3",
+  "Money is expected to be the hardest issue.": "audio/2026-11-10/a1-ks4.mp3",
+  "Critics see a danger in lowered expectations.": "audio/2026-11-10/a1-ks5.mp3",
+  "Treaties without delivery are empty, but delivery without shared rules can become a race to do the minimum.": "audio/2026-11-10/a1-ks6.mp3",
+  "On Monday, 9 November, China announced that it would keep suspending an additional 24 per cent tariff on goods imported from the United States for another two months, starting at 1:01 p.m. on Tuesday, 10 November. A 10 per cent tariff will remain in place. The decision came just before the suspension was due to expire, and it effectively extends a fragile trade truce between the world's two largest economies. Beijing also extended, until 10 January 2027, its suspension of special port fees on US-linked ships and of measures against 16 US firms on its export-control list and 11 on its 'unreliable entity list'.": "audio/2026-11-10/a2-p1.mp3",
+  "To see why this matters, it helps to understand what a tariff is. A tariff is a tax on imported goods, collected when they cross the border. Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices. In 2025, Washington and Beijing imposed tariffs on each other's products in several rounds, at one point raising them above 100 per cent. A truce agreed later that year cut most of those increases, leaving a 10 per cent tariff in place while suspending the extra 24 per cent. Monday's decision keeps that arrangement alive.": "audio/2026-11-10/a2-p2.mp3",
+  "The timing is not accidental. The announcement followed a video call on Friday between Chinese Vice-Premier He Lifeng and two senior US officials, Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer. According to China's Global Times, Washington extended some of its own suspensions in response, including measures aimed at the shipping industry. China's tariff commission said the steps carry out the 'outcomes and consensus' reached when the two presidents met in Washington in September. Xi Jinping and Donald Trump are expected to meet again, for the third time this year, at the APEC leaders' summit in China next week. A proposed $60 billion package of reciprocal tariff cuts, including about $17 billion worth of US farm products, is still under discussion.": "audio/2026-11-10/a2-p3.mp3",
+  "Supporters of the extension see it as a sensible way to buy time. Cheng Dawei, an economist at Renmin University of China, said the move could ease near-term worries about trade friction and give markets an 'anchor of stability'. Song Guoyou of Fudan University said it showed that both sides were honouring their commitments. For exporters, farmers and shipping companies, avoiding a sudden jump in costs is valuable. A factory that sells machine parts to American buyers, for example, can keep its prices steady through the busy end-of-year season instead of renegotiating every contract.": "audio/2026-11-10/a2-p4.mp3",
+  "Sceptics, however, focus on the length of the reprieve. Two months is a short horizon for a business deciding whether to build a new production line or sign a year-long supply contract. Market analysts quoted in Chinese media described the move as 'a temporary reprieve rather than a broad easing of tariffs'. Uncertainty is itself a cost: companies that cannot predict tax rates may delay investment, hold extra stock or shift suppliers to other countries 'just in case'. Cheng also noted that US domestic politics after the recent midterm elections add another layer of unpredictability.": "audio/2026-11-10/a2-p5.mp3",
+  "There are also signs that tensions have not disappeared. Song described Washington's approach as a 'dual' one: carrying out agreements while applying pressure elsewhere. Beijing has strongly objected to recent US sanctions on Chinese firms over alleged links to Cuba. It has also said it will 'closely follow' US plans to use a different legal tool, known as Section 301, to replace tariffs that US courts ruled invalid, and that it will adjust its countermeasures if necessary. In other words, each side is keeping its options open.": "audio/2026-11-10/a2-p6.mp3",
+  "Economists often describe trade wars using the idea of a 'prisoner's dilemma'. Each country may feel it gains by imposing tariffs to protect its industries or to win leverage in negotiations, but when both retaliate, both usually end up worse off: consumers pay more, exporters lose markets and supply chains become less efficient. A truce is a way of stepping back from that trap. Yet a truce renewed in short steps also keeps the threat of new tariffs on the table, which some officials see as useful pressure and others see as a source of instability.": "audio/2026-11-10/a2-p7.mp3",
+  "On balance, the two-month extension is better than the alternative. A sudden return of the 24 per cent tariff would have hurt companies and consumers on both sides at a delicate moment, just before a major summit. Still, short-term fixes cannot replace a durable agreement. The real test will come at next week's meeting: if the two leaders can turn temporary pauses into longer, more predictable rules, businesses will be able to plan again. If not, the world may simply be counting down to the next deadline.": "audio/2026-11-10/a2-p8.mp3",
+  "suspend": "audio/2026-11-10/a2-w-suspend.mp3",
+  "The museum will suspend its evening tours while the roof is repaired.": "audio/2026-11-10/a2-ex-suspend.mp3",
+  "impose": "audio/2026-11-10/a2-w-impose.mp3",
+  "Some cities impose a fee on cars that enter the centre at busy times.": "audio/2026-11-10/a2-ex-impose.mp3",
+  "reciprocal": "audio/2026-11-10/a2-w-reciprocal.mp3",
+  "The two schools signed a reciprocal agreement to share their libraries.": "audio/2026-11-10/a2-ex-reciprocal.mp3",
+  "uncertainty": "audio/2026-11-10/a2-w-uncertainty.mp3",
+  "The uncertainty about the weather made it hard to plan the sports day.": "audio/2026-11-10/a2-ex-uncertainty.mp3",
+  "leverage": "audio/2026-11-10/a2-w-leverage.mp3",
+  "Having two job offers gave her more leverage when she discussed her salary.": "audio/2026-11-10/a2-ex-leverage.mp3",
+  "durable": "audio/2026-11-10/a2-w-durable.mp3",
+  "Both sides hoped the ceasefire would become a durable peace.": "audio/2026-11-10/a2-ex-durable.mp3",
+  "tariff": "audio/2026-11-10/a2-w-tariff.mp3",
+  "A higher tariff on imported cheese made it more expensive in local shops.": "audio/2026-11-10/a2-ex-tariff.mp3",
+  "retaliate": "audio/2026-11-10/a2-w-retaliate.mp3",
+  "When one country raised taxes on steel, its neighbour decided to retaliate.": "audio/2026-11-10/a2-ex-retaliate.mp3",
+  "reprieve": "audio/2026-11-10/a2-w-reprieve.mp3",
+  "The heavy rain gave the farmers a short reprieve from the drought.": "audio/2026-11-10/a2-ex-reprieve.mp3",
+  "countermeasure": "audio/2026-11-10/a2-w-countermeasure.mp3",
+  "The bank introduced a new countermeasure against online fraud.": "audio/2026-11-10/a2-ex-countermeasure.mp3",
+  "The decision came just before the suspension was due to expire, and it effectively extends a fragile trade truce between the world's two largest economies.": "audio/2026-11-10/a2-ks1.mp3",
+  "Although it is paid by the importing company, part of the cost is often passed on to customers in the form of higher prices.": "audio/2026-11-10/a2-ks2.mp3",
+  "Supporters of the extension see it as a sensible way to buy time.": "audio/2026-11-10/a2-ks3.mp3",
+  "Uncertainty is itself a cost: companies that cannot predict tax rates may delay investment, hold extra stock or shift suppliers to other countries 'just in case'.": "audio/2026-11-10/a2-ks4.mp3",
+  "Each country may feel it gains by imposing tariffs to protect its industries or to win leverage in negotiations, but when both retaliate, both usually end up worse off: consumers pay more, exporters lose markets and supply chains become less efficient.": "audio/2026-11-10/a2-ks5.mp3",
+  "Still, short-term fixes cannot replace a durable agreement.": "audio/2026-11-10/a2-ks6.mp3",
+  "On 8 November 2026, at an aerospace exhibition at the Kennedy Space Center in Florida, NASA launched a competition with an unusual target audience. The Moon Base Student Challenge invites high school and university students in the United States to help solve real engineering problems for a future base on the Moon, with a total of $1 million in prizes. Registration is open until 25 January 2027. The announcement raises an interesting question: what can teenagers and young engineers contribute to one of the most complex projects NASA has ever attempted?": "audio/2026-11-10/a3-p1.mp3",
+  "The challenge is part of a much larger plan. In March 2026, NASA announced its Moon Base Program, which aims to build a permanent crewed outpost near the Moon's south pole by the early 2030s. Before that, the agency hopes to land astronauts on the Moon again in 2028, using landers being developed by SpaceX and Blue Origin. The south pole attracts scientists because some of its deep craters never receive sunlight and may hold water ice, which could one day provide drinking water, oxygen and even rocket fuel. According to a planning guide for the base, the first decade of construction could involve 81 launches, 73 lunar landings and about 214,000 kilograms of cargo.": "audio/2026-11-10/a3-p2.mp3",
+  "The competition focuses on six problem areas, including power, life support, communications and astronaut safety. Teams first submit concepts and then refine them, and finalists will present their solutions to NASA leaders. According to the news site Tech Times, entries take the form of 'trade studies' and briefings, the same formats professional aerospace engineers use. A trade study compares several possible designs and weighs their trade-offs. For example, solar panels are light and simple, but they produce nothing during the long lunar night, while a small nuclear reactor works continuously but is heavier and raises safety questions.": "audio/2026-11-10/a3-p3.mp3",
+  "Why would a space agency with thousands of experienced engineers ask students for help? Part of the answer is that much about the south pole is still unknown. 'We're going to be getting tons of data from the South Pole, which again, we know very little about right now,' said Carlos García-Galán, a manager in NASA's Moon Base Program. When a problem is new, ideas from outside the usual pipeline can be surprisingly useful. NASA Administrator Jared Isaacman put the message more directly: 'You do not have to wait until graduation to contribute.'": "audio/2026-11-10/a3-p4.mp3",
+  "Supporters see the challenge as excellent value. One million dollars is tiny compared with the cost of a single rocket launch, yet it could produce hundreds of fresh proposals. Crowdsourcing ideas through prize competitions has a good record, because prizes attract solutions from people an organisation would never have hired directly. Perhaps more importantly, the challenge may inspire students to choose careers in science and engineering. The people who will run a lunar base in the 2040s are in school today, and giving them a real problem to work on is more motivating than any textbook exercise.": "audio/2026-11-10/a3-p5.mp3",
+  "Critics, however, raise several concerns. Student designs, however creative, rarely become flight hardware, so the competition may work more as public relations than as engineering. The challenge is also open only to students in the United States, which limits the range of ideas it can gather. Its future is uncertain as well: the White House proposed eliminating the budget of NASA's Office of STEM Engagement, which runs its education programmes, for the 2026 and 2027 financial years. Congress rejected the 2026 cut, but a House draft for 2027 included it, so whether such programmes continue depends on future appropriations. Some also question the larger goal, arguing that money spent on a Moon base might do more good on Earth.": "audio/2026-11-10/a3-p6.mp3",
+  "These criticisms deserve to be taken seriously, but they miss part of the point. Even if no student design ever flies, the process of comparing options, working within strict constraints and defending a choice in front of experts is exactly the kind of thinking a lunar base will require. A feasible plan for living on the Moon will be built from many small, careful decisions, and practising those decisions early has value of its own. The challenge would be stronger, though, if NASA published the best ideas openly so that students around the world could learn from them.": "audio/2026-11-10/a3-p7.mp3",
+  "In the end, the Moon Base Student Challenge is a small, symbolic investment in a very large and uncertain project. It will not decide whether humans live on the Moon. But it does send a clear message to young people: the future of space exploration is not something to watch from a distance. It is a set of problems waiting for someone, perhaps someone still in school, to solve.": "audio/2026-11-10/a3-p8.mp3",
+  "permanent": "audio/2026-11-10/a3-w-permanent.mp3",
+  "The scientists hope to set up a permanent research station on the island.": "audio/2026-11-10/a3-ex-permanent.mp3",
+  "inspire": "audio/2026-11-10/a3-w-inspire.mp3",
+  "A visit to the observatory can inspire young people to study physics.": "audio/2026-11-10/a3-ex-inspire.mp3",
+  "constraint": "audio/2026-11-10/a3-w-constraint.mp3",
+  "Time was the biggest constraint on our science project.": "audio/2026-11-10/a3-ex-constraint.mp3",
+  "feasible": "audio/2026-11-10/a3-w-feasible.mp3",
+  "Engineers are checking whether a bridge across the bay is feasible.": "audio/2026-11-10/a3-ex-feasible.mp3",
+  "symbolic": "audio/2026-11-10/a3-w-symbolic.mp3",
+  "Planting the first tree was a symbolic start to the green-city project.": "audio/2026-11-10/a3-ex-symbolic.mp3",
+  "outpost": "audio/2026-11-10/a3-w-outpost.mp3",
+  "The research team lived in a tiny outpost on the Antarctic ice.": "audio/2026-11-10/a3-ex-outpost.mp3",
+  "trade-off": "audio/2026-11-10/a3-w-trade-off.mp3",
+  "There is a trade-off between a phone's battery size and its weight.": "audio/2026-11-10/a3-ex-trade-off.mp3",
+  "crowdsource": "audio/2026-11-10/a3-w-crowdsource.mp3",
+  "The museum decided to crowdsource names for its new robot guide.": "audio/2026-11-10/a3-ex-crowdsource.mp3",
+  "appropriation": "audio/2026-11-10/a3-w-appropriation.mp3",
+  "The new hospital wing depends on next year's appropriation from the state.": "audio/2026-11-10/a3-ex-appropriation.mp3",
+  "The announcement raises an interesting question: what can teenagers and young engineers contribute to one of the most complex projects NASA has ever attempted?": "audio/2026-11-10/a3-ks1.mp3",
+  "The south pole attracts scientists because some of its deep craters never receive sunlight and may hold water ice, which could one day provide drinking water, oxygen and even rocket fuel.": "audio/2026-11-10/a3-ks2.mp3",
+  "A trade study compares several possible designs and weighs their trade-offs.": "audio/2026-11-10/a3-ks3.mp3",
+  "Supporters see the challenge as excellent value.": "audio/2026-11-10/a3-ks4.mp3",
+  "Critics, however, raise several concerns.": "audio/2026-11-10/a3-ks5.mp3",
+  "These criticisms deserve to be taken seriously, but they miss part of the point.": "audio/2026-11-10/a3-ks6.mp3"
+ }
+}
