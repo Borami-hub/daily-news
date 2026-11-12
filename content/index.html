@@ -204,6 +204,9 @@ textarea.ta.short{min-height:110px}
 .xtag{font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;background:var(--soft);color:var(--muted);white-space:nowrap}
 .xo.r .xtag{background:#cfe8d9;color:var(--good)}.xo.w .xtag{background:#f6d4cc;color:var(--bad)}
 .xres{font-weight:700;font-size:14px}.xres.xok{color:var(--good)}.xres.xno{color:var(--bad)}
+.xmore{border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--surface)}
+.xmore summary{cursor:pointer;font-weight:700;font-size:14px;color:var(--accent)}
+.xmore[open] summary{margin-bottom:8px}
 .xsteps{background:#f4f1ea;border-radius:10px;padding:10px 12px}
 .xh2{font-size:12px;font-weight:800;letter-spacing:.5px;color:var(--amber);text-transform:uppercase}
 .xsteps ol{margin:6px 0 0;padding-left:20px;font-size:14px;line-height:1.55}.xsteps li{margin:4px 0}
@@ -772,11 +775,14 @@ function explain(q, picked, a) {
   if (!rich(q)) return `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>
     <div class="ow">${q.opts.map((o, i) => `<div class="owi ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b>${'ABCD'[i]}</b><span>${esc(q.optWhy[i])}</span></div>`).join('')}</div>
     ${a ? evidenceBlock(q, a) : ''}`;
-  const ok = picked === q.a;
-  return `${ctxBlock(q, a)}
-    <div class="xops">${q.opts.map((o, i) => `<div class="xo ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b class="xl">${'ABCD'[i]}</b><div class="xb"><div class="xt">${esc(o)}${i === picked ? ' <span class="you">your answer</span>' : ''}</div><div class="xw">${esc(q.optWhy[i])}</div></div><span class="xtag">${i === q.a ? 'Correct' : 'Ruled out'}</span></div>`).join('')}</div>
-    <div class="xres ${ok ? 'xok' : 'xno'}">${ok ? '✓ Correct' : picked == null || picked < 0 ? `Skipped · Correct answer: ${'ABCD'[q.a]}` : `✗ Your answer: ${'ABCD'[picked]} · Correct answer: ${'ABCD'[q.a]}`}</div>
-    ${q.steps && q.steps.length ? `<div class="xsteps"><div class="xh2">How to solve it</div><ol>${q.steps.map(x => `<li><b>${esc(x.t)}:</b> ${esc(x.x)}</li>`).join('')}</ol></div>` : `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>`}`;
+  const ok = picked === q.a, answered = picked != null && picked >= 0;
+  const card = i => `<div class="xo ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b class="xl">${'ABCD'[i]}</b><div class="xb"><div class="xt">${esc(q.opts[i])}${i === picked ? ' <span class="you">your answer</span>' : ''}</div><div class="xw">${esc(q.optWhy[i])}</div></div><span class="xtag">${i === q.a ? 'Correct' : 'Ruled out'}</span></div>`;
+  const res = `<div class="xres ${ok ? 'xok' : 'xno'}">${ok ? '✓ Correct' : !answered ? `Skipped · Correct answer: ${'ABCD'[q.a]}` : `✗ Your answer: ${'ABCD'[picked]} · Correct answer: ${'ABCD'[q.a]}`}</div>`;
+  const steps = q.steps && q.steps.length ? `<div class="xsteps"><div class="xh2">How to solve it</div><ol>${q.steps.map(x => `<li><b>${esc(x.t)}:</b> ${esc(x.x)}</li>`).join('')}</ol></div>` : `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>`;
+  if (ok) return `${res}${ctxBlock(q, a)}${steps}
+    <details class="xmore"><summary>See why each option is right or wrong</summary><div class="xops">${[0, 1, 2, 3].map(card).join('')}</div></details>`;
+  const order = answered ? [picked, q.a].concat([0, 1, 2, 3].filter(i => i !== picked && i !== q.a)) : [0, 1, 2, 3];
+  return `${res}${ctxBlock(q, a)}<div class="xops">${order.map(card).join('')}</div>${steps}`;
 }
 function testView(st) {
   const s = st.s, { id } = st.params, q = s.qs[s.i], n = s.qs.length, a = art(id), mine = s.answers[s.i];
