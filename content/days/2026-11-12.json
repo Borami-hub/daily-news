@@ -389,10 +389,36 @@
      "why": "Here modest describes expectations that were not high: few people expected much from the talks. Limited keeps this meaning.",
      "evidence": "Expectations were modest from the start",
      "optWhy": [
-      "Another meaning of the word: a modest person is humble, but expectations cannot be humble.",
-      "Correct. Modest expectations are limited, not high, expectations.",
-      "Fits the grammar, but the passage says nothing about expectations being shared by everyone.",
-      "Fits the grammar, but nothing suggests the expectations were kept secret."
+      "Trap: another meaning of the word. Modest means \"humble\" when it describes a person, but here it describes expectations, and expectations cannot be humble.",
+      "Correct. The next part says the meeting \"did not produce a plan\" and gave only \"one concrete result\", so people expected little from the start. Put it back: \"Expectations were limited from the start\" makes sense.",
+      "Not in the text. It fits the grammar, but nothing says the expectations were shared by everyone.",
+      "Not in the text. It fits the grammar, but nothing suggests the expectations were secret or unspoken."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Expectations were modest from the start, and the meeting did not produce a plan to end a war that is now approaching its fifth year.",
+       "hl": "modest"
+      },
+      {
+       "para": 1,
+       "text": "It did, however, produce one concrete result: both sides agreed to a large exchange of prisoners of war.",
+       "hl": "one concrete result"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check what the word describes",
+       "x": "Modest describes expectations, not a person, so the meaning \"humble\" cannot work."
+      },
+      {
+       "t": "Use the context",
+       "x": "\"did not produce a plan … one concrete result\" shows the results were small, which matches low expectations."
+      },
+      {
+       "t": "Put the answer back",
+       "x": "Only \"limited\" fits the sentence and agrees with \"only one result\"."
+      }
      ]
     },
     {
@@ -409,10 +435,31 @@
      "why": "Paragraph 2 says the exact numbers were still being finalized when the talks closed, and the exchange should happen within two to three weeks.",
      "evidence": "The exact numbers were still being finalized when the talks closed",
      "optWhy": [
-      "Contradicts the passage: TASS said the exchange should happen within two to three weeks, not during the talks.",
-      "Contradicts the passage: the numbers were still being worked out at the end, so they were not fixed in advance.",
-      "Detail swapped: TASS only reported when the exchange should take place; it did not propose it.",
-      "Correct. A paraphrase of \"the exact numbers were still being finalized when the talks closed.\""
+      "Contradicts the text. TASS said the swap should happen \"within two to three weeks\", so it had not happened yet.",
+      "Contradicts the text. The numbers were still being finalized when the talks closed, so they could not have been fixed before the delegations arrived.",
+      "Detail swapped. TASS only reported when the exchange should happen; it did not propose the exchange.",
+      "Correct. \"Still being settled when the meeting ended\" = \"still being finalized when the talks closed\". Same meaning, different words."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The exact numbers were still being finalized when the talks closed, and Russia's state news agency TASS reported that the exchange should take place within two to three weeks.",
+       "hl": "still being finalized when the talks closed"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "The key words \"prisoner exchange\" and \"exact numbers\" take you to paragraph 2."
+      },
+      {
+       "t": "Watch the time words",
+       "x": "\"finalized when the talks closed\" (not finished at the end) and \"within two to three weeks\" (happens later)."
+      },
+      {
+       "t": "Pick the paraphrase",
+       "x": "D changes the words but not the meaning. A and B change the timing; C changes who did what."
+      }
      ]
     },
     {
@@ -429,10 +476,36 @@
      "why": "Paragraph 3 mentions Istanbul, Geneva and exchanges of 100 to 300 people, but it never says the United States attended the meetings behind every exchange.",
      "evidence": "smaller exchanges of 100 to 300 people have taken place every two or three months",
      "optWhy": [
-      "Correct. The passage never says the United States attended these meetings, and \"always\" goes far beyond the text.",
-      "Stated: the 1,000-for-1,000 swap came after talks in Istanbul.",
-      "Stated: smaller exchanges of 100 to 300 people happened every two or three months.",
-      "Stated: each side freed 200 prisoners in March after a meeting in Geneva."
+      "Correct. Paragraph 3 never says the United States attended these meetings, and \"always\" is far too strong. The US mediated this week's talks (paragraph 1), but that cannot be applied to every earlier swap.",
+      "Stated: \"after talks in Istanbul, the two countries carried out a 1,000-for-1,000 swap\". Ruled out.",
+      "Stated: \"smaller exchanges of 100 to 300 people\". Ruled out.",
+      "Stated: \"in March of this year each side freed 200 prisoners following a meeting in Geneva\". Ruled out."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "In May 2025, after talks in Istanbul, the two countries carried out a 1,000-for-1,000 swap, and in March of this year each side freed 200 prisoners following a meeting in Geneva.",
+       "hl": "Istanbul"
+      },
+      {
+       "para": 3,
+       "text": "Between these headline events, smaller exchanges of 100 to 300 people have taken place every two or three months, according to one analyst quoted by Al Jazeera.",
+       "hl": "100 to 300 people"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know the question type",
+       "x": "EXCEPT questions ask for the one choice that is NOT true or NOT mentioned."
+      },
+      {
+       "t": "Tick off each choice",
+       "x": "In paragraph 3 find Istanbul ✓, 100–300 people ✓, March and Geneva ✓."
+      },
+      {
+       "t": "Confirm what is left",
+       "x": "A has no support in the text and uses the extreme word \"always\"."
+      }
      ]
     },
     {
@@ -449,10 +522,31 @@
      "why": "Kushner said territorial questions \"will be\" the hardest to settle, which implies they remain unresolved even though some progress was made on security.",
      "evidence": "Kushner himself acknowledged that territorial questions will be the hardest to settle",
      "optWhy": [
-      "Contradicts the passage: he said these questions will be the hardest to settle, so they are not settled.",
-      "Detail swapped: he said progress had been made on security; territory is the hardest issue.",
-      "Correct. Saying the territorial questions \"will be the hardest to settle\" implies the most difficult problems are still open.",
-      "Not mentioned: nothing in the paragraph suggests he wants to delay exchanges."
+      "Contradicts the text. He said territorial questions \"will be the hardest to settle\"; the future tense shows they are not settled.",
+      "Details swapped. Progress was made on security; territory is the hardest issue.",
+      "Correct. \"Acknowledged\" + \"will be the hardest to settle\" → he admits the hardest problems are still open. One small, safe step from the text.",
+      "Not in the text. Nothing suggests he wants to delay exchanges; in paragraph 2 he praised the swap."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Kushner himself acknowledged that territorial questions will be the hardest to settle, even though he said progress had been made on a framework for security after the war.",
+       "hl": "acknowledged that territorial questions will be the hardest to settle"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know what an inference is",
+       "x": "The answer = the text + one small step of reasoning. It is not a copy, and it does not go too far."
+      },
+      {
+       "t": "Focus on key words",
+       "x": "\"acknowledged\" (admitted) and \"will be\" (future) → the problem is not solved yet."
+      },
+      {
+       "t": "Rule out",
+       "x": "A contradicts the text, B swaps the details, D is not mentioned."
+      }
      ]
     },
     {
@@ -469,10 +563,36 @@
      "why": "The example supports the paragraph's opening claim that prisoner exchanges are not new; the author then says the new deal is notable for its scale.",
      "evidence": "Prisoner exchanges are not new in this conflict.",
      "optWhy": [
-      "Correct. The example supports the topic sentence \"Prisoner exchanges are not new in this conflict.\"",
-      "Contradicts the passage: the new swap is described as the biggest, so the earlier one was not larger.",
-      "Not mentioned: the passage never explains why the location changed.",
-      "Too far: an agreed swap shows the Istanbul talks produced a result, not that they failed."
+      "Correct. The paragraph opens with the claim \"Prisoner exchanges are not new in this conflict\", and the May 2025 swap is evidence for it.",
+      "Contradicts the text. The new swap is described as the biggest (paragraph 2), so the earlier one was not larger.",
+      "Not in the text. The passage never explains why the location changed.",
+      "Goes too far. A swap followed the Istanbul talks, so they produced a result; nothing says they failed."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Prisoner exchanges are not new in this conflict.",
+       "hl": "not new"
+      },
+      {
+       "para": 3,
+       "text": "What makes the new agreement notable is therefore not the idea itself but its scale, and the fact that it emerged from the first meeting of the three delegations since February.",
+       "hl": "not the idea itself but its scale"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask \"why\", not \"what\"",
+       "x": "Purpose questions ask what job the example does."
+      },
+      {
+       "t": "Find the topic sentence",
+       "x": "\"Prisoner exchanges are not new in this conflict.\" The example supports it."
+      },
+      {
+       "t": "Check the conclusion",
+       "x": "\"therefore not the idea itself but its scale\" confirms the point: swaps are not new; this one is bigger."
+      }
      ]
     },
     {
@@ -489,12 +609,33 @@
      "why": "The essential idea is that limited, checkable agreements can create some trust between governments that distrust each other. Only D keeps the condition and the result.",
      "evidence": "agreeing on something limited and verifiable",
      "optWhy": [
-      "Contradicts the sentence: it says such governments can agree on limited things.",
-      "Adds information: outside observers are never mentioned.",
-      "Too broad: the sentence is about governments with deep distrust, not every agreement.",
-      "Correct. It keeps the condition (deep distrust), the method (limited, checkable deals) and the result (some confidence)."
+      "Contradicts the sentence. It says such governments CAN agree on limited things, not that they usually refuse.",
+      "Adds information. Outside observers are never mentioned; \"verifiable\" only means the deal can be checked.",
+      "Too broad. The sentence is about governments with deep distrust, not every agreement, and it says confidence CAN be built, not that it is the main purpose.",
+      "Correct. It keeps the condition (deep distrust), the method (small deals that can be checked) and the result (a minimum of confidence)."
      ],
-     "highlight": "When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence."
+     "highlight": "When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence.",
+     "ctx": [
+      {
+       "para": 4,
+       "text": "When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence.",
+       "hl": "agreeing on something limited and verifiable"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the skeleton",
+       "x": "When [condition], agreeing on [method] can build [result]. \"such as …\" is only an example and can be dropped."
+      },
+      {
+       "t": "Decide what must stay",
+       "x": "The right answer keeps the condition, the method and the result."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the meaning, B adds information, C makes it too broad."
+      }
+     ]
     }
    ],
    "voice": "af_heart"
@@ -884,10 +1025,31 @@
      "why": "A sound investment is a sensible, reliable one, the opposite of a bubble that may burst.",
      "evidence": "is the enormous spending on artificial intelligence a sound investment",
      "optWhy": [
-      "Another meaning of the word: sound as a noun relates to noise, but that meaning does not fit an investment.",
-      "Fits the grammar, but the question is whether the spending is wise, not whether it is popular.",
-      "Correct. A sound investment is a sensible, well-judged one.",
-      "Fits the grammar, but speed is not the issue; the contrast is with a bubble."
+      "Trap: another meaning of the word. As a noun, sound means noise, but here it is an adjective before \"investment\", and a \"noisy investment\" makes no sense.",
+      "Changes the idea. The question is whether the spending is wise, not whether it is popular.",
+      "Correct. \"A sound investment, or a bubble waiting to burst\" sets up a contrast: wise and safe versus about to collapse. Sound = sensible.",
+      "Not the point. It fits the grammar, but the contrast is about safety and wisdom, not speed."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "The rebound followed a period of unusual volatility driven by a single question that now hangs over global markets: is the enormous spending on artificial intelligence a sound investment, or a bubble waiting to burst?",
+       "hl": "a sound investment, or a bubble waiting to burst"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check the part of speech",
+       "x": "In \"a ___ investment\", sound is an adjective, not the noun \"noise\"."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "\"or\" links sound investment ↔ bubble waiting to burst, so sound means the opposite of a risky bubble."
+      },
+      {
+       "t": "Put it back",
+       "x": "\"a sensible investment, or a bubble waiting to burst\" reads naturally."
+      }
      ]
     },
     {
@@ -904,10 +1066,41 @@
      "why": "Revenue rose 168%, yet the company still had a net loss of about $709 million.",
      "evidence": "its net loss still reached roughly $709 million",
      "optWhy": [
-      "Correct. Revenue rose 168%, but the net loss still reached about $709 million.",
-      "Contradicts the passage: it lost less money than expected, but it still lost money.",
-      "Contradicts the passage: its stock had fallen more than 40% in a month.",
-      "Detail swapped: CoreWeave rents out chips; the passage calls Nvidia the leading designer."
+      "Correct. \"revenue rose 168%\" = grew sharply; \"its net loss still reached roughly $709 million\" = still lost money.",
+      "Detail swapped. \"Lost less money than expected\" is still a loss, not a profit. Do not let \"less\" trick you.",
+      "Contradicts the text. Its stock had fallen by more than 40% in a month.",
+      "Detail swapped. CoreWeave rents out chips; paragraph 3 says Nvidia designs them."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Its third-quarter revenue rose 168% to about $3.7 billion, and it lost less money over the summer than analysts had expected, although its net loss still reached roughly $709 million.",
+       "hl": "although its net loss still reached roughly $709 million"
+      },
+      {
+       "para": 2,
+       "text": "Before Wednesday, however, its stock had fallen by more than 40% in a month.",
+       "hl": "fallen by more than 40%"
+      },
+      {
+       "para": 2,
+       "text": "CoreWeave, a company that rents out the powerful computer chips used to train and run AI systems, saw its shares jump 24.7%.",
+       "hl": "rents out"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "CoreWeave is described in paragraph 2."
+      },
+      {
+       "t": "Notice \"although\"",
+       "x": "Revenue grew strongly, although the company still lost money: \"both sides of that debate\"."
+      },
+      {
+       "t": "Read comparisons carefully",
+       "x": "\"less money than expected\" is not the same as \"a profit\"."
+      }
      ]
     },
     {
@@ -924,10 +1117,41 @@
      "why": "Paragraph 4 lists the inflation report, expected rate rises and election-related restrictions. A chip shortage is not mentioned as a force weighing on stocks.",
      "evidence": "Several separate forces had been weighing on these stocks.",
      "optWhy": [
-      "Stated: a worse-than-expected inflation report pushed yields higher.",
-      "Stated: investors expected the Federal Reserve to raise rates.",
-      "Stated: midterm gains could lead to restrictions on data centers.",
-      "Correct. Paragraph 4 never mentions a chip shortage; paragraph 6 mentions shortages of land, power and construction capacity, not chips."
+      "Stated: \"A worse-than-expected inflation report\". Ruled out.",
+      "Stated: expectations that the Federal Reserve will increase interest rates. Ruled out.",
+      "Stated: midterm gains \"could lead to new restrictions on AI data centers\". Ruled out.",
+      "Correct. Paragraph 4 never mentions a chip shortage. Paragraph 6 mentions shortages of land, power and construction capacity, and as something that may help leading firms, not hurt stocks."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "A worse-than-expected inflation report on Tuesday pushed bond yields higher and raised expectations that the Federal Reserve will increase interest rates, perhaps more than once.",
+       "hl": "worse-than-expected inflation report"
+      },
+      {
+       "para": 4,
+       "text": "Investors were also concerned that gains by the Democratic Party in last week's midterm elections could lead to new restrictions on AI data centers, which consume vast amounts of electricity and land.",
+       "hl": "new restrictions on AI data centers"
+      },
+      {
+       "para": 6,
+       "text": "Morgan Stanley noted that shortages of land, power and construction capacity for data centers may protect the market share of dominant chip suppliers, since newcomers would struggle to compete for the same scarce resources.",
+       "hl": "shortages of land, power and construction capacity"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the pressures",
+       "x": "Paragraph 4: inflation report → higher rates → possible limits on data centers."
+      },
+      {
+       "t": "Match and remove",
+       "x": "A, B and C each match a pressure in paragraph 4."
+      },
+      {
+       "t": "Spot the borrowed word",
+       "x": "D borrows \"shortage\" from paragraph 6 but changes what is short and what it does."
+      }
      ]
     },
     {
@@ -944,10 +1168,31 @@
      "why": "A high yield means CoreWeave must pay a lot of interest to borrow, because lenders see considerable risk.",
      "evidence": "some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk",
      "optWhy": [
-      "Contradicts the passage: the high yield is a sign that lenders see risk.",
-      "Correct. Paying yields above 16% means the company pays a high price for borrowed money.",
-      "Detail swapped: 16% is the yield on some CoreWeave bonds, not the Federal Reserve's rate.",
-      "Not mentioned: the passage gives no date for when the bonds were sold."
+      "Contradicts the text. The high yield is \"a sign that lenders see considerable risk\".",
+      "Correct. A bond's yield is the interest the company pays lenders. Yields above 16% mean borrowing is expensive for CoreWeave.",
+      "Numbers confused. 16% is the yield on some CoreWeave bonds, not the Federal Reserve's rate.",
+      "Not in the text. The passage does not say when the bonds were sold; the elections are a separate point."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Higher rates matter especially for AI infrastructure, because building data centers requires huge amounts of borrowed money; some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk.",
+       "hl": "yields above 16%, a sign that lenders see considerable risk"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Understand the term",
+       "x": "For the company, a bond yield is the cost of borrowing."
+      },
+      {
+       "t": "Link cause and effect",
+       "x": "\"building data centers requires huge amounts of borrowed money\", so interest costs matter a lot."
+      },
+      {
+       "t": "Check with the text",
+       "x": "\"lenders see considerable risk\" → lenders demand high interest → borrowing is expensive."
+      }
      ]
     },
     {
@@ -964,10 +1209,36 @@
      "why": "The dot-com era is the comparison used by people who fear an AI bubble; the author presents it as their reasoning.",
      "evidence": "Those who fear a bubble often recall the dot-com era of the late 1990s",
      "optWhy": [
-      "Too extreme: the author reports skeptics' concerns but makes no such prediction; 2027 refers to Baird's forecasts.",
-      "Not mentioned: the passage does not discuss how the Nasdaq began.",
-      "Correct. The example explains why skeptics fear a bubble.",
-      "Contradicts the passage: dot-com profits failed to arrive quickly enough."
+      "Too extreme. The author reports what worried investors think and makes no prediction; 2027 belongs to Baird's forecasts.",
+      "Not in the text. The passage does not explain how the Nasdaq began.",
+      "Correct. \"Those who fear a bubble often recall the dot-com era\": it is the historical comparison worried investors use.",
+      "Contradicts the text. Dot-com profits \"failed to arrive quickly enough\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Those who fear a bubble often recall the dot-com era of the late 1990s, when investors poured money into internet companies on the assumption that future profits would justify almost any price.",
+       "hl": "Those who fear a bubble often recall"
+      },
+      {
+       "para": 5,
+       "text": "When those profits failed to arrive quickly enough, the Nasdaq lost most of its value between 2000 and 2002.",
+       "hl": "failed to arrive quickly enough"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask who uses the example",
+       "x": "\"Those who fear a bubble\" bring up the dot-com era."
+      },
+      {
+       "t": "Check the author's position",
+       "x": "Paragraph 5 gives one side and paragraph 6 the reply; the author does not take a side yet."
+      },
+      {
+       "t": "Choose",
+       "x": "C describes the example's job; A gives the author a view he does not state."
+      }
      ]
     },
     {
@@ -984,12 +1255,33 @@
      "why": "The essential idea: a technology can be truly important even when its stock prices are too high, as the internet showed. Only A keeps both parts and the example.",
      "evidence": "A technology can be genuinely transformative while its stock prices still run ahead of reality",
      "optWhy": [
-      "Correct. It keeps both ideas (real importance, overpriced shares) and the internet example.",
-      "Cause invented: the sentence does not say investors recovered their losses.",
-      "Too extreme: always turns a possibility into a rule.",
-      "Contradicts the sentence: the internet went on to reshape the economy."
+      "Correct. It keeps both ideas (truly important technology, overpriced shares) and the internet example.",
+      "Adds a cause. The sentence never says investors later won back their losses.",
+      "Too extreme. The sentence says \"can\"; \"always\" turns a possibility into a rule.",
+      "Contradicts the sentence. The internet \"went on to reshape the global economy\"."
      ],
-     "highlight": "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy."
+     "highlight": "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy.",
+     "ctx": [
+      {
+       "para": 7,
+       "text": "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy.",
+       "hl": "can be genuinely transformative while its stock prices still run ahead of reality"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the skeleton",
+       "x": "A technology can be X while Y, as the internet proved."
+      },
+      {
+       "t": "Name the core",
+       "x": "X (transformative) and Y (prices ahead of reality) can both be true at once."
+      },
+      {
+       "t": "Check details",
+       "x": "can ≠ always; watch for added causes (B) and reversed conclusions (D)."
+      }
+     ]
     }
    ],
    "voice": "am_michael"
@@ -1372,10 +1664,31 @@
      "why": "The planets went through the violent late stages of their stars' lives and survived them, so they withstood those stages.",
      "evidence": "any that survive there must have endured the violent late stages of their stars' lives",
      "optWhy": [
-      "Another meaning of the word: endure can mean \"last\" (as in a tradition endures), but here it takes an object and means survived something hard.",
-      "Contradicts the sentence: the planets went through these stages; they did not avoid them.",
-      "Fits the grammar, but the stars, not the planets, caused these stages.",
-      "Correct. To endure a violent stage is to withstand it and survive."
+      "Trap: another meaning of the word. Endure can mean \"last\" (a tradition endures), but here it has an object, \"the violent late stages\", so it means \"go through and survive\".",
+      "Contradicts the sentence. To survive there, planets must go through these stages, not avoid them.",
+      "Wrong doer. The stars' own life cycle causes these stages, not the planets.",
+      "Correct. \"Withstood\" matches \"survive\": any planet still there must have withstood its stars' violent final stages."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "No planet has ever been found orbiting a pair of white dwarfs, and any that survive there must have endured the violent late stages of their stars' lives, when the stars swelled and shed much of their material.",
+       "hl": "survive there must have endured"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Look at the grammar",
+       "x": "\"endured\" + an object → \"experienced and survived\"."
+      },
+      {
+       "t": "Use the clue",
+       "x": "\"any that survive there must have endured…\": survive points to \"got through\"."
+      },
+      {
+       "t": "Put it back",
+       "x": "\"must have withstood the violent late stages\" is complete and clear."
+      }
      ]
     },
     {
@@ -1392,10 +1705,36 @@
      "why": "Paragraph 3 says LISA will fire lasers between its three spacecraft to detect extremely small changes in distance.",
      "evidence": "By firing lasers between them, it will be able to detect changes in distance smaller than the width of a helium atom",
      "optWhy": [
-      "Detail swapped: LISA is led by the European Space Agency; NASA contributes parts and support.",
-      "Correct. A paraphrase of \"by firing lasers between them, it will be able to detect changes in distance\".",
-      "Contradicts the passage: LISA is three spacecraft flying in space.",
-      "Contradicts the passage: it will not launch until the mid-2030s."
+      "Detail swapped. LISA is \"Led by the European Space Agency\"; NASA contributes parts and support.",
+      "Correct. \"firing lasers between them\" = using lasers between the spacecraft; \"detect changes in distance\" = measure tiny changes in distance.",
+      "Contradicts the text. LISA is three spacecraft in space; the ground-based observatories are from paragraph 2.",
+      "Contradicts the text. LISA will not launch until the mid-2030s."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Led by the European Space Agency, which formally adopted the mission in 2024, it is scheduled to launch in the mid-2030s, with NASA contributing telescopes, other hardware, and engineering and science support.",
+       "hl": "Led by the European Space Agency"
+      },
+      {
+       "para": 3,
+       "text": "By firing lasers between them, it will be able to detect changes in distance smaller than the width of a helium atom, which is precise enough to sense the slow, steady waves given off by pairs of stars in our galaxy.",
+       "hl": "By firing lasers between them"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 3 describes LISA."
+      },
+      {
+       "t": "Watch the tense",
+       "x": "\"is scheduled to launch\" and \"will be able to\" are future, so D is wrong."
+      },
+      {
+       "t": "Check who leads",
+       "x": "\"Led by\" ESA versus NASA \"contributing\", so A is wrong."
+      }
      ]
     },
     {
@@ -1412,10 +1751,41 @@
      "why": "The planet is detected indirectly: its gravity disturbs the pair's motion and adds sidebands to the pair's signal. The passage never says LISA hears the planet's own waves.",
      "evidence": "its gravity will slightly disturb the pair's motion",
      "optWhy": [
-      "Stated in paragraph 4.",
-      "Stated: LISA is expected to pick out around 10,000 pairs individually.",
-      "Correct. Contradicts the method: the planet changes the pair's signal rather than being heard directly.",
-      "Stated: sidebands appear just above and below the pair's main signal."
+      "Stated: \"A white dwarf is the dense, Earth-sized core left behind\". Ruled out.",
+      "Stated: \"LISA is expected to pick out around 10,000 of them individually\". Ruled out.",
+      "Correct. In the text, the planet's gravity disturbs the PAIR's motion and adds sidebands to the PAIR's signal. LISA detects the planet indirectly, not by hearing waves from the planet itself.",
+      "Stated: sidebands \"just above and below the pair's main signal\". Ruled out."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "A white dwarf is the dense, Earth-sized core left behind when a star like the Sun runs out of fuel.",
+       "hl": "core left behind"
+      },
+      {
+       "para": 4,
+       "text": "If a planet circles such a pair, its gravity will slightly disturb the pair's motion.",
+       "hl": "its gravity will slightly disturb the pair's motion"
+      },
+      {
+       "para": 4,
+       "text": "That disturbance would add faint extra signals, called sidebands, at frequencies just above and below the pair's main signal.",
+       "hl": "just above and below the pair's main signal"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know the question type",
+       "x": "EXCEPT question: check each choice against paragraph 4."
+      },
+      {
+       "t": "Follow the chain",
+       "x": "planet → gravity disturbs the pair's motion → sidebands on the pair's signal."
+      },
+      {
+       "t": "Spot the change",
+       "x": "C changes the source of the signal from the pair to the planet itself. The comparison with the radial velocity method also shows detection is indirect."
+      }
      ]
     },
     {
@@ -1432,10 +1802,31 @@
      "why": "Webb could detect a planet about five times Jupiter's mass, while LISA could detect one smaller than Jupiter under ideal conditions, so LISA could find lighter planets in the best case.",
      "evidence": "whereas LISA, under ideal conditions, could detect one smaller than Jupiter",
      "optWhy": [
-      "Correct. Five Jupiter masses for Webb versus less than one for LISA implies LISA can, at best, detect lighter planets.",
-      "Contradicts the passage: LISA's best case is the smaller planet.",
-      "Not stated: Webb's role is to follow up LISA's discoveries, not to find them first.",
-      "Contradicts the passage: LISA could detect a planet smaller than Jupiter."
+      "Correct. Webb's limit is about five Jupiter masses; LISA, in ideal conditions, can go below one Jupiter mass. So at best LISA can find lighter planets.",
+      "Reversed and too extreme. LISA has the smaller limit, and the text says \"under ideal conditions\", not \"all conditions\".",
+      "Order reversed. Webb's job is to \"follow up LISA's discoveries\", not to find them first.",
+      "Contradicts the text. LISA could detect a planet smaller than Jupiter."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "In a test case set 500 light-years away, Webb could detect a planet about five times as massive as Jupiter, whereas LISA, under ideal conditions, could detect one smaller than Jupiter.",
+       "hl": "whereas LISA, under ideal conditions, could detect one smaller than Jupiter"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Put the numbers side by side",
+       "x": "Webb ≈ 5 × Jupiter; LISA < 1 × Jupiter (ideal conditions)."
+      },
+      {
+       "t": "Notice the signal words",
+       "x": "\"whereas\" (contrast) and \"under ideal conditions\" (only in the best case)."
+      },
+      {
+       "t": "Keep the limit",
+       "x": "The right answer keeps \"in the best case\"; B's \"all conditions\" is wrong."
+      }
      ]
     },
     {
@@ -1452,10 +1843,36 @@
      "why": "The long delay is presented as a result of how weak the waves are, which highlights the challenge of detecting them.",
      "evidence": "Because the waves are extraordinarily weak by the time they reach Earth",
      "optWhy": [
-      "Wrong attitude: the author does not criticize anyone.",
-      "Correct. The century-long wait illustrates how weak the waves are.",
-      "Contradicts the passage: the 2015 detection confirmed the prediction.",
-      "Information from another paragraph: LISA's launch date is in paragraph 3 and is not linked to this point."
+      "Wrong attitude. The author explains; he does not criticize anyone.",
+      "Correct. The sentence is cause and effect: \"Because the waves are extraordinarily weak … scientists needed almost a century\". The long wait shows how faint the waves are.",
+      "Contradicts the text. The 2015 detection confirmed Einstein's prediction.",
+      "From another paragraph. LISA's launch date is in paragraph 3 and is not linked to this point."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Because the waves are extraordinarily weak by the time they reach Earth, scientists needed almost a century to build instruments sensitive enough to detect them.",
+       "hl": "Because the waves are extraordinarily weak"
+      },
+      {
+       "para": 2,
+       "text": "Ground-based observatories finally recorded the first gravitational wave in 2015, a signal from two colliding black holes, and the discovery was soon recognized with a Nobel Prize.",
+       "hl": "finally recorded"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask what the sentence does",
+       "x": "Purpose questions ask why the author includes it."
+      },
+      {
+       "t": "Read the structure",
+       "x": "\"Because [weak waves], scientists needed almost a century\": the cause is the point."
+      },
+      {
+       "t": "Rule out",
+       "x": "A has the wrong attitude, C contradicts the facts, D comes from another paragraph."
+      }
      ]
     },
     {
@@ -1472,12 +1889,33 @@
      "why": "The essential idea: overlapping signals from many pairs will make the faint planet signals hard to separate. Only C keeps the cause and the effect.",
      "evidence": "Signals from thousands of white dwarf pairs will overlap",
      "optWhy": [
-      "Cause reversed: the overlap makes sidebands hard to find; sidebands do not cause the overlap.",
-      "Too extreme: the problem is finding faint sidebands, not detecting the pairs at all.",
-      "Correct. It keeps the cause (overlapping signals) and the result (weak signals hard to pick out).",
-      "Meaning changed: the sentence describes a difficulty, not a solution."
+      "Cause reversed. The overlap makes sidebands hard to find; sidebands do not cause the overlap.",
+      "Goes too far. The problem is picking out faint sidebands, not detecting the pairs at all.",
+      "Correct. \"so many signals will mix together\" = signals will overlap; \"weak planet signals\" = faint sidebands; \"hard to pick out\" = difficult to separate from noise.",
+      "Meaning changed. The sentence describes a difficulty; D turns it into a solution."
      ],
-     "highlight": "Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise."
+     "highlight": "Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise.",
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise.",
+       "hl": "will overlap, making faint sidebands difficult to separate from noise"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the skeleton",
+       "x": "Signals will overlap (cause), making faint sidebands hard to separate (result)."
+      },
+      {
+       "t": "Keep the direction",
+       "x": "The answer must keep \"overlap → hard to separate\"."
+      },
+      {
+       "t": "Check each choice",
+       "x": "A reverses the cause, D turns the problem into a solution, B exaggerates."
+      }
+     ]
     }
    ],
    "voice": "af_bella"

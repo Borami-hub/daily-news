@@ -46,6 +46,9 @@ const letters = { 0: 0, 1: 0, 2: 0, 3: 0 };
     need(typeof q.para === 'number' && q.para >= 0 && q.para <= a.paras.length, `${qt}: para must be 0 (whole) or a paragraph number`);
     if (q.para && q.evidence) need(a.paras[q.para - 1].includes(q.evidence), `${qt}: evidence not found verbatim in paragraph ${q.para}`);
     if (q.para) need(q.evidence, `${qt}: evidence missing`);
+    (q.ctx || []).forEach(c => need(a.paras[c.para - 1] && a.paras[c.para - 1].includes(c.text) && (!c.hl || c.text.includes(c.hl)), `${qt}: ctx sentence not verbatim in paragraph ${c.para} (or hl not inside it): "${(c.text || '').slice(0, 50)}"`));
+    if (q.steps) need(q.steps.length === 3 && q.steps.every(x => x.t && x.x), `${qt}: steps must be 3 items {t, x}`);
+    if (!q.ctx || !q.steps) warn.push(`${qt}: missing ctx/steps (detailed explanation)`);
   });
   // mind map
   const mm = a.mindmap || {};

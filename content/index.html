@@ -189,6 +189,24 @@ textarea.ta.short{min-height:110px}
 .opt.chosen{border-color:var(--accent);background:var(--soft);color:var(--accent);font-weight:600}
 .you{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-left:6px;opacity:.8}
 
+/* detailed explanations */
+.xctx{background:#f8f5ee;border:1px solid #e6dfcf;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
+.xh{font-size:12px;font-weight:800;letter-spacing:.5px;color:var(--muted);text-transform:uppercase}
+.xctx p{margin:0;font-family:var(--serif);font-size:15px;line-height:1.65}
+.xctx mark{background:var(--hlbg);border-bottom:2px solid var(--hl);color:inherit}
+.xp{color:var(--accent);font-family:var(--font);font-size:12px;margin-right:2px}
+.xops{display:flex;flex-direction:column;gap:7px}
+.xo{display:grid;grid-template-columns:24px 1fr auto;gap:8px;align-items:start;border:1px solid var(--line);border-radius:10px;padding:10px;background:var(--surface)}
+.xo.r{background:var(--goodbg);border-color:var(--good)}.xo.w{background:var(--badbg);border-color:var(--bad)}
+.xl{width:22px;height:22px;border-radius:6px;background:var(--soft);color:var(--muted);display:flex;align-items:center;justify-content:center;font-size:12px}
+.xo.r .xl{background:var(--good);color:#fff}.xo.w .xl{background:var(--bad);color:#fff}
+.xt{font-weight:700;font-size:14px;line-height:1.4}.xw{font-size:13px;line-height:1.5;color:var(--ink);margin-top:3px}
+.xtag{font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;background:var(--soft);color:var(--muted);white-space:nowrap}
+.xo.r .xtag{background:#cfe8d9;color:var(--good)}.xo.w .xtag{background:#f6d4cc;color:var(--bad)}
+.xres{font-weight:700;font-size:14px}.xres.xok{color:var(--good)}.xres.xno{color:var(--bad)}
+.xsteps{background:#f4f1ea;border-radius:10px;padding:10px 12px}
+.xh2{font-size:12px;font-weight:800;letter-spacing:.5px;color:var(--amber);text-transform:uppercase}
+.xsteps ol{margin:6px 0 0;padding-left:20px;font-size:14px;line-height:1.55}.xsteps li{margin:4px 0}
 /* reader */
 .screen{--serif:"Source Serif 4",Georgia,"Noto Serif","Songti SC",serif;--hl:#c98a00;--hlbg:#fff1bf;--kwbg:#cfeee9}
 .reader{background:var(--surface);min-height:100%}
@@ -562,7 +580,7 @@ const PAGES = {
         qs = shuffle(ids).map(x => itemQ(itemById(x)));
       } else {
         const a = art(id);
-        if (mode === 'toefl') qs = a.questions.map((q, i) => ({ id: `${a.id}-q${i}`, type: 'mc', tag: q.type, prompt: q.q, opts: q.opts, a: q.a, fact: q.why, para: q.para, evidence: q.evidence, optWhy: q.optWhy, highlight: q.highlight }));
+        if (mode === 'toefl') qs = a.questions.map((q, i) => ({ id: `${a.id}-q${i}`, type: 'mc', tag: q.type, prompt: q.q, opts: q.opts, a: q.a, fact: q.why, para: q.para, evidence: q.evidence, optWhy: q.optWhy, highlight: q.highlight, ctx: q.ctx, steps: q.steps }));
       }
       Object.assign(st.s, { qs, i: 0, answered: false, picked: -1, typed: '', ok: false, correct: 0, wrong: [], requeued: {}, finished: false, showP: false, style: mode === 'toefl' ? null : 'practice', answers: [], reviewing: false, ri: 0, t0: 0 });
     },
@@ -589,11 +607,11 @@ const PAGES = {
         ${q.highlight ? `<div class="hlq">${esc(q.highlight)}</div>` : ''}
         ${q.type === 'spell' ? `<div style="font-size:16px;font-weight:700;color:var(--accent)">${esc(q.def)}</div>` : ''}
         ${q.sub ? `<div class="muted">${esc(q.sub)}</div>` : ''}
-        ${q.type === 'mc' ? `<div style="display:flex;flex-direction:column;gap:8px">${q.opts.map((o, i) => `<button class="opt ${s.answered && i === q.a ? 'right' : ''} ${s.answered && i === s.picked && i !== q.a ? 'wrong' : ''}" data-act="pick" data-i="${i}" ${s.answered ? 'disabled' : ''}><b class="ol">${'ABCD'[i]}</b>${esc(o)}</button>`).join('')}</div>`
+        ${q.type === 'mc' && s.answered && rich(q) ? '' : q.type === 'mc' ? `<div style="display:flex;flex-direction:column;gap:8px">${q.opts.map((o, i) => `<button class="opt ${s.answered && i === q.a ? 'right' : ''} ${s.answered && i === s.picked && i !== q.a ? 'wrong' : ''}" data-act="pick" data-i="${i}" ${s.answered ? 'disabled' : ''}><b class="ol">${'ABCD'[i]}</b>${esc(o)}</button>`).join('')}</div>`
           : `<form class="row" data-act="spell" style="flex-wrap:nowrap"><input class="input" id="spellIn" autocomplete="off" autocapitalize="off" spellcheck="false" value="${esc(s.typed)}" ${s.answered ? 'disabled' : 'data-autofocus'} placeholder="Type the word"><button class="btn ${s.answered ? 'dim' : ''}" ${s.answered ? 'disabled' : ''}>Check</button></form>`}
         ${s.answered ? (q.type === 'spell'
             ? `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Answer: ' + esc(q.answer)} <button class="say" data-act="speak" data-t="${esc(q.answer)}">🔊</button></div>`
-            : `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Not quite.'}</div>${q.optWhy ? explain(q, s.picked, a0) : `<div class="fact">${esc(q.fact)}</div>`}`)
+            : `${rich(q) ? '' : `<div class="fb ${s.ok ? 'ok' : 'no'}">${s.ok ? 'Correct' : 'Not quite.'}</div>`}${q.optWhy ? explain(q, s.picked, a0) : `<div class="fact">${esc(q.fact)}</div>`}`)
           + `<button class="btn" data-act="next" data-autofocus>${s.i === n - 1 ? 'Finish' : 'Next'}</button>` : ''}
       </div>${pasg}</div>`;
     }
@@ -745,10 +763,20 @@ function evidenceBlock(q, a) {
   const p = esc(a.paras[q.para - 1]), e = q.evidence ? esc(q.evidence) : '';
   return `<div class="evi"><span class="eyebrow">Evidence · paragraph ${q.para}</span><p>${e && p.includes(e) ? p.replace(e, `<mark>${e}</mark>`) : p}</p></div>`;
 }
+const rich = q => !!(q && (q.ctx || q.steps) && q.optWhy);
+function ctxBlock(q, a) {
+  if (!q.ctx || !q.ctx.length) return a ? evidenceBlock(q, a) : '';
+  return `<div class="xctx"><div class="xh">Back to the text</div>${q.ctx.map(c => { const t = esc(c.text), h = c.hl ? esc(c.hl) : ''; return `<p><b class="xp">¶${c.para}</b> ${h && t.includes(h) ? t.replace(h, `<mark>${h}</mark>`) : t}</p>`; }).join('')}</div>`;
+}
 function explain(q, picked, a) {
-  return `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>
+  if (!rich(q)) return `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>
     <div class="ow">${q.opts.map((o, i) => `<div class="owi ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b>${'ABCD'[i]}</b><span>${esc(q.optWhy[i])}</span></div>`).join('')}</div>
     ${a ? evidenceBlock(q, a) : ''}`;
+  const ok = picked === q.a;
+  return `${ctxBlock(q, a)}
+    <div class="xops">${q.opts.map((o, i) => `<div class="xo ${i === q.a ? 'r' : i === picked ? 'w' : ''}"><b class="xl">${'ABCD'[i]}</b><div class="xb"><div class="xt">${esc(o)}${i === picked ? ' <span class="you">your answer</span>' : ''}</div><div class="xw">${esc(q.optWhy[i])}</div></div><span class="xtag">${i === q.a ? 'Correct' : 'Ruled out'}</span></div>`).join('')}</div>
+    <div class="xres ${ok ? 'xok' : 'xno'}">${ok ? '✓ Correct' : picked == null || picked < 0 ? `Skipped · Correct answer: ${'ABCD'[q.a]}` : `✗ Your answer: ${'ABCD'[picked]} · Correct answer: ${'ABCD'[q.a]}`}</div>
+    ${q.steps && q.steps.length ? `<div class="xsteps"><div class="xh2">How to solve it</div><ol>${q.steps.map(x => `<li><b>${esc(x.t)}:</b> ${esc(x.x)}</li>`).join('')}</ol></div>` : `<div class="fact"><b>Why ${'ABCD'[q.a]}:</b> ${esc(q.fact)}</div>`}`;
 }
 function testView(st) {
   const s = st.s, { id } = st.params, q = s.qs[s.i], n = s.qs.length, a = art(id), mine = s.answers[s.i];
@@ -769,7 +797,7 @@ function reviewView(st) {
     <div class="dots">${s.qs.map((x, i) => `<button class="dot ${i === s.ri ? 'cur' : ''} ${s.answers[i] === x.a ? 'ok' : 'no'}" data-act="rgoto" data-i="${i}">${i + 1}</button>`).join('')}</div>
     <div><span class="chip">${esc(q.tag)}</span></div>
     <div style="font-size:17px;font-weight:600">${esc(q.prompt)}</div>${q.highlight ? `<div class="hlq">${esc(q.highlight)}</div>` : ''}
-    <div style="display:flex;flex-direction:column;gap:8px">${q.opts.map((o, i) => `<div class="opt ${i === q.a ? 'right' : ''} ${i === mine && i !== q.a ? 'wrong' : ''}"><b class="ol">${'ABCD'[i]}</b>${esc(o)}${i === mine ? ' <span class="you">your answer</span>' : ''}</div>`).join('')}</div>
+    ${rich(q) ? '' : `<div style="display:flex;flex-direction:column;gap:8px">${q.opts.map((o, i) => `<div class="opt ${i === q.a ? 'right' : ''} ${i === mine && i !== q.a ? 'wrong' : ''}"><b class="ol">${'ABCD'[i]}</b>${esc(o)}${i === mine ? ' <span class="you">your answer</span>' : ''}</div>`).join('')}</div>`}
     ${explain(q, mine, a)}
     <div class="row" style="flex-wrap:nowrap"><button class="ghost" style="flex:1;${s.ri === 0 ? 'opacity:.4' : ''}" data-act="rprev">Previous</button>${s.ri < n - 1 ? `<button class="btn" style="flex:1" data-act="rnext">Next</button>` : `<button class="btn" style="flex:1" data-act="rexit">Back to summary</button>`}</div>
   </div></div>`;
