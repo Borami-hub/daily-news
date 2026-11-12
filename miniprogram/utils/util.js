@@ -17,12 +17,22 @@ function getPlayer() {
   return player;
 }
 const idOf = text => { const p = getApp().globalData.audio[text]; return p ? config.PREFIX + p : ''; };
+const fsm = wx.getFileSystemManager();
+// Keep each clip as a real .mp3 file in the app's own storage: the player needs the .mp3 extension to read the
+// whole file (temp downloads have none), and saved clips play instantly next time, even offline.
 function local(id) {
   if (!fileCache[id]) {
-    fileCache[id] = new Promise((resolve, reject) => wx.cloud.downloadFile({
-      fileID: id, success: r => resolve(r.tempFilePath),
-      fail: e => { delete fileCache[id]; console.error('audio download failed', id, e); reject(e); }
-    }));
+    const dest = `${wx.env.USER_DATA_PATH}/a-${id.split('/').slice(-2).join('-')}`;
+    fileCache[id] = new Promise((resolve, reject) => {
+      try { fsm.accessSync(dest); return resolve(dest); } catch (e) {}
+      wx.cloud.downloadFile({
+        fileID: id,
+        success: r => {
+          try { fsm.copyFileSync(r.tempFilePath, dest); resolve(dest); } catch (e) { console.error('save audio', e); resolve(r.tempFilePath); }
+        },
+        fail: e => { delete fileCache[id]; console.error('audio download failed', id, e); reject(e); }
+      });
+    });
   }
   return fileCache[id];
 }
