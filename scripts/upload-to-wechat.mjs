@@ -49,11 +49,23 @@ async function upload(at, file) {
   return cloudPath;
 }
 
-const at = await token();
+// Network hiccups (e.g. "other side closed") are retried with a short back-off instead of failing the whole run.
+let at = await token();
+async function uploadWithRetry(file) {
+  for (let attempt = 1; ; attempt++) {
+    try { return await upload(at, file); }
+    catch (e) {
+      if (attempt >= 5) throw e;
+      if (/40001|42001|access_token/.test(String(e.message))) at = await token();
+      console.log(`retry ${attempt} for ${file}: ${e.cause ? e.cause.message : e.message}`);
+      await new Promise(r => setTimeout(r, 2000 * attempt));
+    }
+  }
+}
 let ok = 0;
 for (let i = 0; i < files.length; i += 6) {
   const batch = files.slice(i, i + 6);
-  const done = await Promise.all(batch.map(f => upload(at, f)));
+  const done = await Promise.all(batch.map(f => uploadWithRetry(f)));
   ok += done.length;
   done.forEach(p => console.log('uploaded', p));
 }
