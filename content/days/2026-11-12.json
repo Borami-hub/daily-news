@@ -1,0 +1,1581 @@
+{
+ "date": "2026-11-12",
+ "headline": "Prisoner swaps, AI jitters and planets we can hear: when is progress real?",
+ "teaser": "Can a prisoner exchange lead to peace? Is AI spending a bubble? And could we find new worlds by listening instead of looking?",
+ "articles": [
+  {
+   "id": "n20261112-1",
+   "topic": "Society",
+   "title": "Talks Without a Truce: What Can a Prisoner Swap Achieve?",
+   "dek": "Russia and Ukraine agreed in Abu Dhabi on their largest prisoner exchange of the war, but is a humanitarian deal a first step toward peace or a substitute for it?",
+   "sources": [
+    {
+     "name": "AP via KPBS, Nov 11, 2026",
+     "url": "https://www.kpbs.org/news/international/2026/11/11/russia-and-ukraine-agree-to-a-large-exchange-of-prisoners-of-war-officials-say"
+    },
+    {
+     "name": "Al Jazeera, Nov 11, 2026",
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    }
+   ],
+   "paras": [
+    "After nine months without face-to-face meetings, negotiators from Russia and Ukraine sat down again this week in Abu Dhabi, the capital of the United Arab Emirates. The two days of talks, which ended on November 11, were mediated by the United States and led on the American side by envoys Jared Kushner and Steve Witkoff. Neither President Vladimir Putin nor President Volodymyr Zelenskyy attended; instead, the delegations were headed by Russia's chief negotiator, Vladimir Medinsky, and Ukraine's David Arakhamia. Expectations were modest from the start, and the meeting did not produce a plan to end a war that is now approaching its fifth year. It did, however, produce one concrete result: both sides agreed to a large exchange of prisoners of war.",
+    "According to Kushner, the swap will be \"the biggest humanitarian release of prisoners\" since Russia's full-scale invasion of Ukraine in February 2022. The exact numbers were still being finalized when the talks closed, and Russia's state news agency TASS reported that the exchange should take place within two to three weeks. The delegations also discussed other humanitarian questions, including the return of Ukrainian civilians held in captivity and of children taken from Ukraine during the war. Kushner described the session as \"a very tough meeting but a productive one,\" Zelenskyy called it \"constructive and quite substantive,\" and U.S. Secretary of State Marco Rubio said it was \"very productive\" while warning that a real breakthrough would take time.",
+    "Prisoner exchanges are not new in this conflict. In May 2025, after talks in Istanbul, the two countries carried out a 1,000-for-1,000 swap, and in March of this year each side freed 200 prisoners following a meeting in Geneva. Between these headline events, smaller exchanges of 100 to 300 people have taken place every two or three months, according to one analyst quoted by Al Jazeera. What makes the new agreement notable is therefore not the idea itself but its scale, and the fact that it emerged from the first meeting of the three delegations since February.",
+    "Supporters of this step-by-step approach argue that humanitarian deals are the most realistic place to begin. When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence. Each successful exchange shows that commitments can be kept, and diplomats hope that this record will make harder conversations possible later. Families on both sides also gain something immediate and concrete, regardless of what happens at the negotiating table.",
+    "Skeptics, however, point out that swapping prisoners does nothing to resolve the issues that keep the war going. Kushner himself acknowledged that territorial questions will be the hardest to settle, even though he said progress had been made on a framework for security after the war. Neither side has shown a willingness to abandon its core demands, and fighting continues along a front line that has barely moved this year. From this perspective, repeated humanitarian agreements risk creating an impression of momentum while the central disagreements remain untouched.",
+    "A further dispute concerns who should be in the room. Russia has long resisted direct European involvement in the negotiations, although Medinsky said after this round that Moscow did not oppose the participation of the European Union, while questioning what the two sides would actually discuss. Ukraine takes a different view. Arakhamia argued that future talks should be multilateral and include Europe, and Zelenskyy said he did not believe European security could be considered without Europe. Representatives of the EU and NATO consulted with the Ukrainian delegation in Abu Dhabi, but they were not formal participants.",
+    "The next steps will test which interpretation is correct. Kushner and Witkoff planned to brief Putin in Moscow and then meet Zelenskyy in Dublin, while Arakhamia spoke of \"good momentum\" toward a solution before the end of the year. If the prisoner exchange goes ahead smoothly, it may strengthen the case that small, practical agreements can open a path to larger ones. If the talks stall again, critics will argue that humanitarian gestures, however valuable to the families involved, cannot substitute for compromise on the questions that matter most. For now, the Abu Dhabi meeting offers a reminder that in diplomacy, progress and stalemate can exist at the same time."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "It did, however, produce one concrete result: both sides agreed to a large exchange of prisoners of war.",
+     "kind": "Main idea",
+     "note": "The contrast word however tells you the main point: no peace plan, but one concrete humanitarian result."
+    },
+    {
+     "para": 3,
+     "text": "What makes the new agreement notable is therefore not the idea itself but its scale, and the fact that it emerged from the first meeting of the three delegations since February.",
+     "kind": "Interpretation",
+     "note": "The structure not X but Y shows the author's judgment. Questions often ask why earlier swaps are mentioned."
+    },
+    {
+     "para": 4,
+     "text": "Each successful exchange shows that commitments can be kept, and diplomats hope that this record will make harder conversations possible later.",
+     "kind": "Cause → effect",
+     "note": "This is the supporters' logic: small kept promises lead to trust and bigger talks."
+    },
+    {
+     "para": 5,
+     "text": "Skeptics, however, point out that swapping prisoners does nothing to resolve the issues that keep the war going.",
+     "kind": "Topic sentence",
+     "note": "Signals the opposing view. In TOEFL passages, a paragraph starting with a contrast often introduces the second side of a debate."
+    },
+    {
+     "para": 6,
+     "text": "Ukraine takes a different view.",
+     "kind": "Topic sentence",
+     "note": "A short sentence that marks a shift between the Russian and Ukrainian positions on European participation."
+    },
+    {
+     "para": 7,
+     "text": "For now, the Abu Dhabi meeting offers a reminder that in diplomacy, progress and stalemate can exist at the same time.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion. Questions about the author's attitude usually point to this kind of sentence."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261112-1-k1",
+     "tag": "Basics",
+     "fact": "US-mediated talks between Russia and Ukraine took place in Abu Dhabi, the first meeting of the delegations in nine months.",
+     "q": "Where were the talks held?",
+     "opts": [
+      "Abu Dhabi",
+      "Geneva",
+      "Istanbul"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261112-1-k2",
+     "tag": "Result",
+     "fact": "The two sides agreed to a large prisoner-of-war exchange, described as the biggest since February 2022.",
+     "q": "What concrete result did the talks produce?",
+     "opts": [
+      "A ceasefire",
+      "A large prisoner exchange",
+      "A new border"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-1-k3",
+     "tag": "Supporters",
+     "fact": "Supporters say limited, verifiable humanitarian deals can build a minimum of confidence.",
+     "q": "Why do supporters like humanitarian deals?",
+     "opts": [
+      "They end wars quickly",
+      "They can build some trust",
+      "They settle territory"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-1-k4",
+     "tag": "Skeptics",
+     "fact": "Skeptics say prisoner swaps do not resolve the core issues; territory is the hardest question.",
+     "q": "Which issue did Kushner call the hardest?",
+     "opts": [
+      "Territorial questions",
+      "Prisoner numbers",
+      "The meeting place"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261112-1-k5",
+     "tag": "Europe",
+     "fact": "Ukraine wants future talks to be multilateral and include Europe.",
+     "q": "What does Ukraine want for future talks?",
+     "opts": [
+      "Only two countries",
+      "Europe included",
+      "No US mediation"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "The Abu Dhabi talks",
+    "question": "Is a prisoner swap a first step toward peace?",
+    "branches": [
+     {
+      "title": "What happened",
+      "paras": "1–2",
+      "blanks": [
+       "first meeting in nine months",
+       "biggest humanitarian release of prisoners"
+      ],
+      "kps": [
+       "n20261112-1-k1",
+       "n20261112-1-k2"
+      ]
+     },
+     {
+      "title": "Supporters say",
+      "paras": "3–4",
+      "blanks": [
+       "build a minimum of confidence"
+      ],
+      "kps": [
+       "n20261112-1-k3"
+      ]
+     },
+     {
+      "title": "Skeptics say",
+      "paras": "5",
+      "blanks": [
+       "core issues remain untouched",
+       "territory hardest to settle"
+      ],
+      "kps": [
+       "n20261112-1-k4"
+      ]
+     },
+     {
+      "title": "Who takes part",
+      "paras": "6–7",
+      "blanks": [
+       "Ukraine wants Europe included"
+      ],
+      "kps": [
+       "n20261112-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a ceasefire was signed",
+     "Putin and Zelenskyy met face to face"
+    ]
+   },
+   "summary": {
+    "intro": "US-mediated talks in Abu Dhabi did not produce a peace plan, but Russia and Ukraine agreed to a large prisoner exchange.",
+    "model": "Supporters see humanitarian deals as a realistic way to build trust. However, skeptics argue that swaps leave the core disputes, such as territory, unresolved, while the two sides also disagree about Europe's role.",
+    "options": [
+     {
+      "t": "Supporters argue that small, checkable humanitarian agreements can build some trust for harder talks later.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 4)",
+      "type": "main",
+      "para": 4,
+      "evidence": "Supporters of this step-by-step approach argue that humanitarian deals are the most realistic place to begin."
+     },
+     {
+      "t": "Critics warn that prisoner exchanges leave the main causes of the war, such as territory, unresolved.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 5)",
+      "type": "main",
+      "para": 5,
+      "evidence": "swapping prisoners does nothing to resolve the issues that keep the war going"
+     },
+     {
+      "t": "The two sides also disagree about whether Europe should take part in future negotiations.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 6)",
+      "type": "main",
+      "para": 6,
+      "evidence": "A further dispute concerns who should be in the room."
+     },
+     {
+      "t": "Each side freed 200 prisoners in March after a meeting in Geneva.",
+      "ok": false,
+      "why": "A minor detail: it is true, but too specific for a summary. (paragraph 3)",
+      "type": "detail",
+      "para": 3,
+      "evidence": "in March of this year each side freed 200 prisoners following a meeting in Geneva"
+     },
+     {
+      "t": "The United Nations will supervise the prisoner exchange.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The talks ended with an agreement on new borders between the two countries.",
+      "ok": false,
+      "why": "Contradicts the passage: there was no plan to end the war, and territory remains the hardest issue. (paragraph 1)",
+      "type": "contra",
+      "para": 1,
+      "evidence": "the meeting did not produce a plan to end a war"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think that when two sides strongly disagree, they should first solve small, practical problems. Others think they should deal with the biggest problem first. Which approach do you prefer? Use a specific example, such as a disagreement between friends or classmates.",
+    "hint": "State your choice → reason 1 (trust / momentum or wasted time) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, Russia and Ukraine agreed to a large prisoner exchange in US-mediated talks, but they made no progress on ending the war. Some people say humanitarian deals are the best first step toward peace. Others say they only create the appearance of progress. In your view, should negotiators focus on small humanitarian agreements first, or should they concentrate on the main disputes from the start? Why? (Mia says: Small agreements matter. When enemies keep simple promises, such as returning prisoners on time, they slowly learn to trust each other, and that trust makes harder deals possible later.) (Daniel says: I am not convinced. Focusing on easy deals lets both sides look cooperative without making any real compromises. Unless the main disputes are discussed directly, the war simply continues.)",
+    "steps": [
+     "Choose a side: humanitarian deals first, or main disputes first.",
+     "Give one reason linked to trust or to wasted time.",
+     "Add an example, such as a promise that was kept or talks that went nowhere.",
+     "Respond to Mia or Daniel, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "mediate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈmiːdieɪt/",
+     "syl": [
+      "me",
+      "di",
+      "ate"
+     ],
+     "def": "to try to help two opposing sides reach an agreement",
+     "ex": "The teacher offered to mediate between the two students after their argument."
+    },
+    {
+     "w": "delegation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌdelɪˈɡeɪʃn/",
+     "syl": [
+      "del",
+      "e",
+      "ga",
+      "tion"
+     ],
+     "def": "a group of people chosen to represent a country or organization",
+     "ex": "A delegation of students met the mayor to discuss safer bike lanes."
+    },
+    {
+     "w": "humanitarian",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/hjuːˌmænɪˈteəriən/",
+     "syl": [
+      "hu",
+      "man",
+      "i",
+      "tar",
+      "i",
+      "an"
+     ],
+     "def": "concerned with reducing suffering and improving people's lives",
+     "ex": "The charity sent humanitarian supplies to the villages cut off by the flood."
+    },
+    {
+     "w": "verifiable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈverɪfaɪəbl/",
+     "syl": [
+      "ver",
+      "i",
+      "fi",
+      "a",
+      "ble"
+     ],
+     "def": "able to be checked and shown to be true",
+     "ex": "A good essay supports its claims with verifiable facts rather than rumors."
+    },
+    {
+     "w": "skeptic",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈskeptɪk/",
+     "syl": [
+      "skep",
+      "tic"
+     ],
+     "def": "a person who doubts that a claim is true or that a plan will work",
+     "ex": "Even the biggest skeptic in the class was impressed by the results of the experiment."
+    },
+    {
+     "w": "multilateral",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈlætərəl/",
+     "syl": [
+      "mul",
+      "ti",
+      "lat",
+      "er",
+      "al"
+     ],
+     "def": "involving three or more countries or groups",
+     "ex": "The ocean treaty is a multilateral agreement signed by dozens of countries."
+    },
+    {
+     "w": "momentum",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/məˈmentəm/",
+     "syl": [
+      "mo",
+      "men",
+      "tum"
+     ],
+     "def": "the force that keeps a process developing or moving forward",
+     "ex": "The campaign gained momentum after several famous athletes joined it."
+    },
+    {
+     "w": "substitute",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈsʌbstɪtjuːt/",
+     "syl": [
+      "sub",
+      "sti",
+      "tute"
+     ],
+     "def": "to be used in place of something else (substitute for = replace)",
+     "ex": "Watching videos cannot fully substitute for speaking a language with real people."
+    },
+    {
+     "w": "stalemate",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈsteɪlmeɪt/",
+     "syl": [
+      "stale",
+      "mate"
+     ],
+     "def": "a situation in which neither side can make progress or win",
+     "ex": "After hours of debate, the committee reached a stalemate and postponed the vote."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"modest\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "humble",
+      "limited",
+      "shared",
+      "unspoken"
+     ],
+     "a": 1,
+     "why": "Here modest describes expectations that were not high: few people expected much from the talks. Limited keeps this meaning.",
+     "evidence": "Expectations were modest from the start",
+     "optWhy": [
+      "Another meaning of the word: a modest person is humble, but expectations cannot be humble.",
+      "Correct. Modest expectations are limited, not high, expectations.",
+      "Fits the grammar, but the passage says nothing about expectations being shared by everyone.",
+      "Fits the grammar, but nothing suggests the expectations were kept secret."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following is true of the prisoner exchange agreed in Abu Dhabi?",
+     "opts": [
+      "It was carried out on the final day of the talks.",
+      "Its exact size had been fixed before the delegations arrived.",
+      "It was proposed by TASS as a way to restart negotiations.",
+      "Its numbers were still being settled when the meeting ended."
+     ],
+     "a": 3,
+     "why": "Paragraph 2 says the exact numbers were still being finalized when the talks closed, and the exchange should happen within two to three weeks.",
+     "evidence": "The exact numbers were still being finalized when the talks closed",
+     "optWhy": [
+      "Contradicts the passage: TASS said the exchange should happen within two to three weeks, not during the talks.",
+      "Contradicts the passage: the numbers were still being worked out at the end, so they were not fixed in advance.",
+      "Detail swapped: TASS only reported when the exchange should take place; it did not propose it.",
+      "Correct. A paraphrase of \"the exact numbers were still being finalized when the talks closed.\""
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true of earlier prisoner exchanges in this war EXCEPT:",
+     "opts": [
+      "They were always arranged at meetings attended by the United States.",
+      "One of them followed talks held in Istanbul.",
+      "Some of them involved between 100 and 300 people.",
+      "One took place in March of this year after a meeting in Geneva."
+     ],
+     "a": 0,
+     "why": "Paragraph 3 mentions Istanbul, Geneva and exchanges of 100 to 300 people, but it never says the United States attended the meetings behind every exchange.",
+     "evidence": "smaller exchanges of 100 to 300 people have taken place every two or three months",
+     "optWhy": [
+      "Correct. The passage never says the United States attended these meetings, and \"always\" goes far beyond the text.",
+      "Stated: the 1,000-for-1,000 swap came after talks in Istanbul.",
+      "Stated: smaller exchanges of 100 to 300 people happened every two or three months.",
+      "Stated: each side freed 200 prisoners in March after a meeting in Geneva."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about Kushner's view of the talks?",
+     "opts": [
+      "He believes the territorial questions have largely been settled.",
+      "He considers the security framework to be the most difficult issue.",
+      "He accepts that the hardest problems have not yet been solved.",
+      "He thinks further prisoner exchanges should be postponed."
+     ],
+     "a": 2,
+     "why": "Kushner said territorial questions \"will be\" the hardest to settle, which implies they remain unresolved even though some progress was made on security.",
+     "evidence": "Kushner himself acknowledged that territorial questions will be the hardest to settle",
+     "optWhy": [
+      "Contradicts the passage: he said these questions will be the hardest to settle, so they are not settled.",
+      "Detail swapped: he said progress had been made on security; territory is the hardest issue.",
+      "Correct. Saying the territorial questions \"will be the hardest to settle\" implies the most difficult problems are still open.",
+      "Not mentioned: nothing in the paragraph suggests he wants to delay exchanges."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 3,
+     "q": "Why does the author mention the 1,000-for-1,000 swap in May 2025?",
+     "opts": [
+      "To show that the new agreement is not the first of its kind",
+      "To argue that the earlier swap was larger than the new one",
+      "To explain why the talks moved from Istanbul to Abu Dhabi",
+      "To suggest that the negotiations in Istanbul had failed"
+     ],
+     "a": 0,
+     "why": "The example supports the paragraph's opening claim that prisoner exchanges are not new; the author then says the new deal is notable for its scale.",
+     "evidence": "Prisoner exchanges are not new in this conflict.",
+     "optWhy": [
+      "Correct. The example supports the topic sentence \"Prisoner exchanges are not new in this conflict.\"",
+      "Contradicts the passage: the new swap is described as the biggest, so the earlier one was not larger.",
+      "Not mentioned: the passage never explains why the location changed.",
+      "Too far: an agreed swap shows the Istanbul talks produced a result, not that they failed."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Governments that distrust each other usually refuse to agree on how many soldiers to return.",
+      "Deep distrust means that every agreement about soldiers must be checked by outside observers.",
+      "Building confidence is the main purpose of every agreement about returning soldiers.",
+      "Small agreements that can be checked may help deeply distrustful governments trust each other a little."
+     ],
+     "a": 3,
+     "why": "The essential idea is that limited, checkable agreements can create some trust between governments that distrust each other. Only D keeps the condition and the result.",
+     "evidence": "agreeing on something limited and verifiable",
+     "optWhy": [
+      "Contradicts the sentence: it says such governments can agree on limited things.",
+      "Adds information: outside observers are never mentioned.",
+      "Too broad: the sentence is about governments with deep distrust, not every agreement.",
+      "Correct. It keeps the condition (deep distrust), the method (limited, checkable deals) and the result (some confidence)."
+     ],
+     "highlight": "When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence."
+    }
+   ],
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261112-2",
+   "topic": "Economy",
+   "title": "Boom, Bubble or Both? Wall Street's Nervous Bet on AI",
+   "dek": "AI stocks bounced back after a sharp sell-off, reviving the question of whether huge AI spending is a sound investment or a bubble.",
+   "sources": [
+    {
+     "name": "AP via BNN Bloomberg, Nov 11, 2026",
+     "url": "https://bnnbloomberg.ca/markets/2026/11/11/rebounding-ai-stocks-lift-wall-street"
+    },
+    {
+     "name": "TheStreet, Nov 11, 2026",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    }
+   ],
+   "paras": [
+    "On Wednesday, November 11, investors on Wall Street rushed back into the technology stocks they had been selling only days earlier. The S&P 500 rose 1.3% to 7,619.38, almost erasing the losses of the previous week's sell-off and leaving the index within 2.6% of the all-time high it set in October. The tech-heavy Nasdaq Composite climbed 1.6%, while the Dow Jones Industrial Average gained 0.5%. The rebound followed a period of unusual volatility driven by a single question that now hangs over global markets: is the enormous spending on artificial intelligence a sound investment, or a bubble waiting to burst?",
+    "The day's biggest winner illustrated both sides of that debate. CoreWeave, a company that rents out the powerful computer chips used to train and run AI systems, saw its shares jump 24.7%. Its third-quarter revenue rose 168% to about $3.7 billion, and it lost less money over the summer than analysts had expected, although its net loss still reached roughly $709 million. The company also raised its revenue forecast for the year and said it expects about $9 billion in customer prepayments and deposits over the next three months. Before Wednesday, however, its stock had fallen by more than 40% in a month.",
+    "Other companies connected to AI also recovered. The memory-chip maker Micron gained 11.9%, Broadcom rose 4%, and Nvidia, the world's leading designer of AI chips, climbed 2.9% after losing more than $430 billion in market value over two days earlier in the week. Markets in Asia shared the optimism: South Korea's Kospi index, which is heavily weighted toward chipmakers, rose 2.6%. To optimists, the rebound was a sign that last week's panic had been an overreaction and that demand for computing power remains extremely strong.",
+    "Several separate forces had been weighing on these stocks. A worse-than-expected inflation report on Tuesday pushed bond yields higher and raised expectations that the Federal Reserve will increase interest rates, perhaps more than once. Higher rates matter especially for AI infrastructure, because building data centers requires huge amounts of borrowed money; some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk. Investors were also concerned that gains by the Democratic Party in last week's midterm elections could lead to new restrictions on AI data centers, which consume vast amounts of electricity and land.",
+    "Those who fear a bubble often recall the dot-com era of the late 1990s, when investors poured money into internet companies on the assumption that future profits would justify almost any price. When those profits failed to arrive quickly enough, the Nasdaq lost most of its value between 2000 and 2002. Today's skeptics see familiar signs: companies spending far more on chips and buildings than they currently earn from AI products, and share prices that swing sharply on a single earnings report. The investment firm Baird, for example, downgraded Nvidia this week, citing reduced visibility into data-center forecasts for 2027.",
+    "Optimists reply that the comparison is misleading. Unlike many internet start-ups of the 1990s, the largest AI spenders are highly profitable firms, and the demand for computing power is measurable rather than hypothetical, as CoreWeave's billions in prepayments suggest. Some analysts even argue that physical limits could help established leaders. Morgan Stanley noted that shortages of land, power and construction capacity for data centers may protect the market share of dominant chip suppliers, since newcomers would struggle to compete for the same scarce resources.",
+    "Both interpretations may contain some truth. A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy. For ordinary observers, the lesson of this week is less about predicting the next move in share prices than about recognizing what drives them. Interest rates, electricity supplies and political decisions may matter as much to the future of AI as the brilliance of the technology itself."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The rebound followed a period of unusual volatility driven by a single question that now hangs over global markets: is the enormous spending on artificial intelligence a sound investment, or a bubble waiting to burst?",
+     "kind": "Main idea",
+     "note": "This question frames the whole passage. Every later paragraph supports one side or the other."
+    },
+    {
+     "para": 2,
+     "text": "The day's biggest winner illustrated both sides of that debate.",
+     "kind": "Topic sentence",
+     "note": "Tells you the CoreWeave details will contain good news and bad news. Look for both in fact questions."
+    },
+    {
+     "para": 4,
+     "text": "Higher rates matter especially for AI infrastructure, because building data centers requires huge amounts of borrowed money; some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk.",
+     "kind": "Cause → effect",
+     "note": "A cause-effect chain: higher rates → costlier borrowing → pressure on AI builders. Inference questions often target it."
+    },
+    {
+     "para": 5,
+     "text": "Those who fear a bubble often recall the dot-com era of the late 1990s, when investors poured money into internet companies on the assumption that future profits would justify almost any price.",
+     "kind": "Key details",
+     "note": "A historical comparison. Rhetorical-purpose questions often ask why such an example is mentioned."
+    },
+    {
+     "para": 6,
+     "text": "Optimists reply that the comparison is misleading.",
+     "kind": "Topic sentence",
+     "note": "Signals the counterargument to the bubble view."
+    },
+    {
+     "para": 7,
+     "text": "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion: both sides may be partly right."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261112-2-k1",
+     "tag": "Market",
+     "fact": "On November 11 the S&P 500 rose 1.3%, almost erasing the previous week's AI-driven sell-off.",
+     "q": "How much did the S&P 500 rise on November 11?",
+     "opts": [
+      "0.5%",
+      "1.3%",
+      "24.7%"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-2-k2",
+     "tag": "CoreWeave",
+     "fact": "CoreWeave's revenue rose 168%, but it still reported a net loss of about $709 million.",
+     "q": "Did CoreWeave make a profit?",
+     "opts": [
+      "Yes, a record profit",
+      "No, it still lost money",
+      "The passage does not say"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-2-k3",
+     "tag": "Rates",
+     "fact": "Higher interest rates hurt AI builders because data centers are built with borrowed money.",
+     "q": "Why do higher rates matter for AI infrastructure?",
+     "opts": [
+      "Data centers need borrowed money",
+      "Chips become slower",
+      "Electricity becomes free"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261112-2-k4",
+     "tag": "Bubble view",
+     "fact": "Skeptics compare today's AI boom with the dot-com bubble of the late 1990s.",
+     "q": "Which era do skeptics compare the AI boom with?",
+     "opts": [
+      "The dot-com era",
+      "The oil crisis",
+      "The Great Depression"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261112-2-k5",
+     "tag": "Optimist view",
+     "fact": "Optimists say the biggest AI spenders are profitable and demand for computing power is measurable.",
+     "q": "What do optimists say about AI demand?",
+     "opts": [
+      "It is hypothetical",
+      "It is measurable",
+      "It is falling"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "The AI stock rebound",
+    "question": "Is AI spending a sound investment or a bubble?",
+    "branches": [
+     {
+      "title": "The rebound",
+      "paras": "1–3",
+      "blanks": [
+       "S&P 500 rose 1.3%",
+       "CoreWeave shares jumped 24.7%"
+      ],
+      "kps": [
+       "n20261112-2-k1",
+       "n20261112-2-k2"
+      ]
+     },
+     {
+      "title": "Pressures",
+      "paras": "4",
+      "blanks": [
+       "higher interest rates",
+       "limits on data centers"
+      ],
+      "kps": [
+       "n20261112-2-k3"
+      ]
+     },
+     {
+      "title": "Bubble fears",
+      "paras": "5",
+      "blanks": [
+       "echoes of the dot-com era"
+      ],
+      "kps": [
+       "n20261112-2-k4"
+      ]
+     },
+     {
+      "title": "Optimist reply",
+      "paras": "6–7",
+      "blanks": [
+       "demand is measurable",
+       "profitable big spenders"
+      ],
+      "kps": [
+       "n20261112-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "AI chips are now cheaper than ever",
+     "CoreWeave reported a record profit"
+    ]
+   },
+   "summary": {
+    "intro": "After a sharp sell-off, AI-related stocks rebounded on November 11, reviving the debate over whether AI spending is a sound investment or a bubble.",
+    "model": "Strong results from companies such as CoreWeave encouraged optimists. However, rising interest rates, political risks and memories of the dot-com crash keep skeptics worried, so the market may depend as much on these outside forces as on the technology.",
+    "options": [
+     {
+      "t": "Strong results from AI companies such as CoreWeave helped stocks recover from the earlier sell-off.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 2)",
+      "type": "main",
+      "para": 2,
+      "evidence": "The day's biggest winner illustrated both sides of that debate."
+     },
+     {
+      "t": "Interest rates and possible political limits on data centers had been putting pressure on AI stocks.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 4)",
+      "type": "main",
+      "para": 4,
+      "evidence": "Several separate forces had been weighing on these stocks."
+     },
+     {
+      "t": "Skeptics compare the AI boom with the dot-com bubble, while optimists argue that today's demand is real and measurable.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraphs 5–6)",
+      "type": "main",
+      "para": 6,
+      "evidence": "Optimists reply that the comparison is misleading."
+     },
+     {
+      "t": "South Korea's Kospi index rose 2.6% on the same day.",
+      "ok": false,
+      "why": "A minor detail: it is true, but too specific for a summary. (paragraph 3)",
+      "type": "detail",
+      "para": 3,
+      "evidence": "South Korea's Kospi index, which is heavily weighted toward chipmakers, rose 2.6%"
+     },
+     {
+      "t": "Several governments have agreed to buy shares in AI companies to stabilize prices.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Lower interest rates made it cheaper for companies to build data centers this week.",
+      "ok": false,
+      "why": "Contradicts the passage: investors expected higher rates. (paragraph 4)",
+      "type": "contra",
+      "para": 4,
+      "evidence": "raised expectations that the Federal Reserve will increase interest rates"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think young people should learn about investing and the stock market at school. Others think it is too risky and complicated for teenagers. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (useful life skill or risk of gambling-like behavior) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week AI-related stocks rose sharply after a sell-off, and some analysts compared the AI boom with the dot-com bubble of the late 1990s. Others say today's demand for AI is real and will keep growing. In your view, is the huge spending on AI by technology companies a wise long-term investment or a risky bubble? Why? (Sofia says: It is a wise investment. AI is already used in medicine, education and science, and companies are paying billions in advance for computing power. That is real demand, not just hope.) (Ethan says: I think it is risky. Companies are spending far more on chips and data centers than they earn from AI, and higher interest rates make that debt dangerous. Even useful technologies can be overpriced.)",
+    "steps": [
+     "Choose a side: wise investment or risky bubble.",
+     "Give one reason linked to real demand or to debt and high prices.",
+     "Add an example, such as prepayments, the dot-com crash or data-center costs.",
+     "Respond to Sofia or Ethan, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "volatility",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌvɒləˈtɪləti/",
+     "syl": [
+      "vol",
+      "a",
+      "til",
+      "i",
+      "ty"
+     ],
+     "def": "the tendency to change suddenly and unpredictably, especially in prices",
+     "ex": "The volatility of oil prices makes it hard for airlines to plan their budgets."
+    },
+    {
+     "w": "bubble",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈbʌbl/",
+     "syl": [
+      "bub",
+      "ble"
+     ],
+     "def": "a situation in which prices rise far above the real value of something and later fall sharply",
+     "ex": "Some economists warned that the rise in house prices was a bubble that could burst."
+    },
+    {
+     "w": "infrastructure",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+     "syl": [
+      "in",
+      "fra",
+      "struc",
+      "ture"
+     ],
+     "def": "the basic systems and structures, such as buildings, power supplies and networks, that an activity needs",
+     "ex": "The government plans to spend more on rural infrastructure such as roads and internet cables."
+    },
+    {
+     "w": "yield",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/jiːld/",
+     "syl": [
+      "yield"
+     ],
+     "def": "the interest that a bond or other investment pays, shown as a percentage",
+     "ex": "When lenders feel nervous, they demand a higher yield before buying a company's bonds."
+    },
+    {
+     "w": "downgrade",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˌdaʊnˈɡreɪd/",
+     "syl": [
+      "down",
+      "grade"
+     ],
+     "def": "to lower the rating, rank or value given to something",
+     "ex": "The agency may downgrade the city's credit rating if its debts keep rising."
+    },
+    {
+     "w": "hypothetical",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˌhaɪpəˈθetɪkl/",
+     "syl": [
+      "hy",
+      "po",
+      "thet",
+      "i",
+      "cal"
+     ],
+     "def": "based on possible situations rather than real ones",
+     "ex": "The teacher asked a hypothetical question: what would you do if you could not use the internet for a year?"
+    },
+    {
+     "w": "transformative",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/trænsˈfɔːmətɪv/",
+     "syl": [
+      "trans",
+      "for",
+      "ma",
+      "tive"
+     ],
+     "def": "causing a major and lasting change",
+     "ex": "For many remote villages, cheap solar panels have been a transformative technology."
+    },
+    {
+     "w": "overreaction",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌəʊvəriˈækʃn/",
+     "syl": [
+      "o",
+      "ver",
+      "re",
+      "ac",
+      "tion"
+     ],
+     "def": "a response that is stronger or more emotional than a situation deserves",
+     "ex": "Cancelling the whole school trip because of light rain would be an overreaction."
+    },
+    {
+     "w": "justify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈdʒʌstɪfaɪ/",
+     "syl": [
+      "jus",
+      "ti",
+      "fy"
+     ],
+     "def": "to show that something is reasonable or worth its cost",
+     "ex": "The museum will have to justify the higher ticket price with better exhibitions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"sound\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "noisy",
+      "popular",
+      "sensible",
+      "rapid"
+     ],
+     "a": 2,
+     "why": "A sound investment is a sensible, reliable one, the opposite of a bubble that may burst.",
+     "evidence": "is the enormous spending on artificial intelligence a sound investment",
+     "optWhy": [
+      "Another meaning of the word: sound as a noun relates to noise, but that meaning does not fit an investment.",
+      "Fits the grammar, but the question is whether the spending is wise, not whether it is popular.",
+      "Correct. A sound investment is a sensible, well-judged one.",
+      "Fits the grammar, but speed is not the issue; the contrast is with a bubble."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following is true of CoreWeave?",
+     "opts": [
+      "Its revenue grew sharply, but it still lost money.",
+      "It earned a profit for the first time over the summer.",
+      "Its shares had risen steadily during the previous month.",
+      "It designs the chips that are used to train AI systems."
+     ],
+     "a": 0,
+     "why": "Revenue rose 168%, yet the company still had a net loss of about $709 million.",
+     "evidence": "its net loss still reached roughly $709 million",
+     "optWhy": [
+      "Correct. Revenue rose 168%, but the net loss still reached about $709 million.",
+      "Contradicts the passage: it lost less money than expected, but it still lost money.",
+      "Contradicts the passage: its stock had fallen more than 40% in a month.",
+      "Detail swapped: CoreWeave rents out chips; the passage calls Nvidia the leading designer."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following had been weighing on AI stocks EXCEPT",
+     "opts": [
+      "an inflation report that was worse than expected",
+      "the possibility of higher interest rates",
+      "election results that might bring limits on data centers",
+      "a shortage of chips for new data centers"
+     ],
+     "a": 3,
+     "why": "Paragraph 4 lists the inflation report, expected rate rises and election-related restrictions. A chip shortage is not mentioned as a force weighing on stocks.",
+     "evidence": "Several separate forces had been weighing on these stocks.",
+     "optWhy": [
+      "Stated: a worse-than-expected inflation report pushed yields higher.",
+      "Stated: investors expected the Federal Reserve to raise rates.",
+      "Stated: midterm gains could lead to restrictions on data centers.",
+      "Correct. Paragraph 4 never mentions a chip shortage; paragraph 6 mentions shortages of land, power and construction capacity, not chips."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the fact that some CoreWeave bonds pay yields above 16%?",
+     "opts": [
+      "Lenders regard CoreWeave as an unusually safe borrower.",
+      "Borrowing money is expensive for CoreWeave.",
+      "The Federal Reserve has raised its interest rate to 16%.",
+      "The bonds were sold after last week's midterm elections."
+     ],
+     "a": 1,
+     "why": "A high yield means CoreWeave must pay a lot of interest to borrow, because lenders see considerable risk.",
+     "evidence": "some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk",
+     "optWhy": [
+      "Contradicts the passage: the high yield is a sign that lenders see risk.",
+      "Correct. Paying yields above 16% means the company pays a high price for borrowed money.",
+      "Detail swapped: 16% is the yield on some CoreWeave bonds, not the Federal Reserve's rate.",
+      "Not mentioned: the passage gives no date for when the bonds were sold."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention the dot-com era in paragraph 5?",
+     "opts": [
+      "To predict that AI companies will lose most of their value by 2027",
+      "To explain how the Nasdaq index was originally created",
+      "To present the historical example that worried investors compare today's market with",
+      "To show that internet companies earned profits faster than expected"
+     ],
+     "a": 2,
+     "why": "The dot-com era is the comparison used by people who fear an AI bubble; the author presents it as their reasoning.",
+     "evidence": "Those who fear a bubble often recall the dot-com era of the late 1990s",
+     "optWhy": [
+      "Too extreme: the author reports skeptics' concerns but makes no such prediction; 2027 refers to Baird's forecasts.",
+      "Not mentioned: the passage does not discuss how the Nasdaq began.",
+      "Correct. The example explains why skeptics fear a bubble.",
+      "Contradicts the passage: dot-com profits failed to arrive quickly enough."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The internet shows that a technology can change the world even if its share prices were once too high.",
+      "Because the internet reshaped the economy, investors who lost money in the crash later recovered it.",
+      "Stock prices always rise faster than reality when a technology is truly transformative.",
+      "The dot-com crash proved that the internet was less important than investors had believed."
+     ],
+     "a": 0,
+     "why": "The essential idea: a technology can be truly important even when its stock prices are too high, as the internet showed. Only A keeps both parts and the example.",
+     "evidence": "A technology can be genuinely transformative while its stock prices still run ahead of reality",
+     "optWhy": [
+      "Correct. It keeps both ideas (real importance, overpriced shares) and the internet example.",
+      "Cause invented: the sentence does not say investors recovered their losses.",
+      "Too extreme: always turns a possibility into a rule.",
+      "Contradicts the sentence: the internet went on to reshape the economy."
+     ],
+     "highlight": "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy."
+    }
+   ],
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261112-3",
+   "topic": "Space",
+   "title": "Listening for Planets: How Gravitational Waves Could Reveal New Worlds",
+   "dek": "A NASA study suggests the future LISA observatory could find planets around pairs of dead stars by 'hearing' them in gravitational waves, but the method has never been tested.",
+   "sources": [
+    {
+     "name": "NASA Science, Nov 10, 2026",
+     "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+    },
+    {
+     "name": "NASA Science: LISA formally adopted by ESA",
+     "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/lisa-formally-adopted-by-european-space-agency"
+    }
+   ],
+   "paras": [
+    "For three decades, astronomers have discovered planets beyond our solar system mainly by watching light. They look for the tiny dip in brightness when a planet passes in front of its star, or for the slight wobble in a star's light caused by an orbiting planet's gravity. A new NASA study proposes a very different approach: detecting planets not through light at all, but through ripples in space itself. According to two papers published in The Astrophysical Journal and described by NASA on November 10, a future space observatory called LISA could reveal an entirely new population of worlds.",
+    "Those ripples are gravitational waves, disturbances in the fabric of space-time that Albert Einstein predicted in 1916. They are produced when massive objects accelerate, for example when two dense stars orbit each other at high speed. Because the waves are extraordinarily weak by the time they reach Earth, scientists needed almost a century to build instruments sensitive enough to detect them. Ground-based observatories finally recorded the first gravitational wave in 2015, a signal from two colliding black holes, and the discovery was soon recognized with a Nobel Prize.",
+    "LISA, the Laser Interferometer Space Antenna, is designed to go much further. Led by the European Space Agency, which formally adopted the mission in 2024, it is scheduled to launch in the mid-2030s, with NASA contributing telescopes, other hardware, and engineering and science support. LISA will consist of three spacecraft flying in a triangle whose sides each measure about 2.5 million kilometers. By firing lasers between them, it will be able to detect changes in distance smaller than the width of a helium atom, which is precise enough to sense the slow, steady waves given off by pairs of stars in our galaxy.",
+    "The new research focuses on one kind of pair: double white dwarfs. A white dwarf is the dense, Earth-sized core left behind when a star like the Sun runs out of fuel. Scientists estimate that the Milky Way contains about 10 million pairs of white dwarfs orbiting each other in less than an hour, and LISA is expected to pick out around 10,000 of them individually. If a planet circles such a pair, its gravity will slightly disturb the pair's motion. That disturbance would add faint extra signals, called sidebands, at frequencies just above and below the pair's main signal. The idea resembles the radial velocity method, which finds planets by measuring how they make their stars wobble, except that LISA would read the wobble in gravitational waves rather than in starlight.",
+    "The concept itself is not entirely new; the Japanese astrophysicist Naoki Seto first suggested it in 2008. What the new papers add is a detailed estimate of which planets could realistically be found, and a plan for confirming them. The second paper examines how the James Webb Space Telescope, whose infrared instruments can detect the extra heat a planet gives off, might follow up LISA's discoveries. In a test case set 500 light-years away, Webb could detect a planet about five times as massive as Jupiter, whereas LISA, under ideal conditions, could detect one smaller than Jupiter.",
+    "If such planets exist, they would be remarkable. No planet has ever been found orbiting a pair of white dwarfs, and any that survive there must have endured the violent late stages of their stars' lives, when the stars swelled and shed much of their material. Finding them would help scientists understand whether planetary systems can outlive their stars, a question with obvious relevance to the distant future of our own solar system, since the Sun is expected to become a white dwarf in several billion years.",
+    "There are, however, reasons for caution. The method has never been tested, and the most impressive estimates depend on ideal conditions that real data rarely provide. Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise. Moreover, the observatory will not launch for roughly a decade, and large space missions are often delayed. Even so, the study shows how a new kind of instrument can change the questions astronomers are able to ask. Just as telescopes once extended human vision, gravitational-wave detectors may allow scientists, in effect, to listen to the universe."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new NASA study proposes a very different approach: detecting planets not through light at all, but through ripples in space itself.",
+     "kind": "Main idea",
+     "note": "States the central idea of the passage with a not X but Y contrast."
+    },
+    {
+     "para": 2,
+     "text": "Because the waves are extraordinarily weak by the time they reach Earth, scientists needed almost a century to build instruments sensitive enough to detect them.",
+     "kind": "Cause → effect",
+     "note": "Explains why detection took so long. Rhetorical-purpose questions often point here."
+    },
+    {
+     "para": 4,
+     "text": "That disturbance would add faint extra signals, called sidebands, at frequencies just above and below the pair's main signal.",
+     "kind": "Key details",
+     "note": "The core of the detection method. Fact and negative-fact questions test what the planet actually changes."
+    },
+    {
+     "para": 5,
+     "text": "What the new papers add is a detailed estimate of which planets could realistically be found, and a plan for confirming them.",
+     "kind": "Topic sentence",
+     "note": "Separates what is new (estimates and confirmation plan) from what is old (the 2008 idea)."
+    },
+    {
+     "para": 6,
+     "text": "Finding them would help scientists understand whether planetary systems can outlive their stars, a question with obvious relevance to the distant future of our own solar system, since the Sun is expected to become a white dwarf in several billion years.",
+     "kind": "Interpretation",
+     "note": "Explains why the research matters beyond the discovery itself."
+    },
+    {
+     "para": 7,
+     "text": "There are, however, reasons for caution.",
+     "kind": "Hedging",
+     "note": "Introduces the limitations. TOEFL passages often balance excitement with caution near the end."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261112-3-k1",
+     "tag": "Idea",
+     "fact": "The study proposes finding planets through gravitational waves instead of light.",
+     "q": "How would LISA find planets?",
+     "opts": [
+      "Through starlight",
+      "Through gravitational waves",
+      "Through radio signals"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-3-k2",
+     "tag": "LISA",
+     "fact": "LISA is an ESA-led mission of three spacecraft, planned to launch in the mid-2030s.",
+     "q": "Who leads the LISA mission?",
+     "opts": [
+      "NASA",
+      "The European Space Agency",
+      "Japan's space agency"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-3-k3",
+     "tag": "Method",
+     "fact": "A planet around a white dwarf pair would add faint sidebands to the pair's gravitational-wave signal.",
+     "q": "What would a planet add to the pair's signal?",
+     "opts": [
+      "Sidebands",
+      "A flash of light",
+      "Silence"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261112-3-k4",
+     "tag": "Follow-up",
+     "fact": "The James Webb Space Telescope could confirm planets by detecting their infrared heat.",
+     "q": "Which telescope could confirm LISA's planets?",
+     "opts": [
+      "Hubble",
+      "James Webb",
+      "Chandra"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261112-3-k5",
+     "tag": "Caution",
+     "fact": "The method is untested, and overlapping signals may hide faint sidebands.",
+     "q": "Has the method been tested?",
+     "opts": [
+      "Yes, many times",
+      "No, never",
+      "Only once"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Hearing hidden planets",
+    "question": "Can gravitational waves reveal new worlds?",
+    "branches": [
+     {
+      "title": "The waves",
+      "paras": "1–2",
+      "blanks": [
+       "ripples in space-time",
+       "first detected in 2015"
+      ],
+      "kps": [
+       "n20261112-3-k1"
+      ]
+     },
+     {
+      "title": "LISA",
+      "paras": "3",
+      "blanks": [
+       "three spacecraft in a triangle",
+       "launch in the mid-2030s"
+      ],
+      "kps": [
+       "n20261112-3-k2"
+      ]
+     },
+     {
+      "title": "The method",
+      "paras": "4–5",
+      "blanks": [
+       "sidebands around the main signal",
+       "Webb confirms with infrared"
+      ],
+      "kps": [
+       "n20261112-3-k3",
+       "n20261112-3-k4"
+      ]
+     },
+     {
+      "title": "Why caution",
+      "paras": "6–7",
+      "blanks": [
+       "never been tested",
+       "signals will overlap"
+      ],
+      "kps": [
+       "n20261112-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "planets already found around white dwarf pairs",
+     "LISA will orbit the Moon"
+    ]
+   },
+   "summary": {
+    "intro": "A NASA study suggests that the future LISA observatory could detect planets through gravitational waves rather than light.",
+    "model": "A planet orbiting a pair of white dwarfs would add faint sidebands to the pair's signal, and Webb could confirm such planets. However, because the method is untested and signals will overlap, success is far from certain.",
+    "options": [
+     {
+      "t": "A planet circling a pair of white dwarfs would slightly change the pair's gravitational-wave signal.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 4)",
+      "type": "main",
+      "para": 4,
+      "evidence": "If a planet circles such a pair, its gravity will slightly disturb the pair's motion."
+     },
+     {
+      "t": "Finding such planets would show whether planetary systems can survive the deaths of their stars.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 6)",
+      "type": "main",
+      "para": 6,
+      "evidence": "Finding them would help scientists understand whether planetary systems can outlive their stars"
+     },
+     {
+      "t": "The approach is promising but uncertain, because it is untested and faint signals may be lost among many others.",
+      "ok": true,
+      "why": "Correct. This is one of the passage's major ideas. (paragraph 7)",
+      "type": "main",
+      "para": 7,
+      "evidence": "There are, however, reasons for caution."
+     },
+     {
+      "t": "Naoki Seto first suggested the idea in 2008.",
+      "ok": false,
+      "why": "A minor detail: it is true, but too specific for a summary. (paragraph 5)",
+      "type": "detail",
+      "para": 5,
+      "evidence": "the Japanese astrophysicist Naoki Seto first suggested it in 2008"
+     },
+     {
+      "t": "LISA will also search for signs of life on planets around white dwarfs.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Several planets have already been found orbiting pairs of white dwarfs.",
+      "ok": false,
+      "why": "Contradicts the passage: no such planet has ever been found. (paragraph 6)",
+      "type": "contra",
+      "para": 6,
+      "evidence": "No planet has ever been found orbiting a pair of white dwarfs"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think governments should spend large amounts of money on space science, such as new telescopes and observatories. Others think the money should be used to solve problems on Earth first. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (knowledge, inspiration, new technology or urgent needs on Earth) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: NASA scientists say a future space observatory, LISA, could find planets by detecting gravitational waves, but it will not launch until the mid-2030s and the method has never been tested. Missions like this take decades and cost billions. In your view, is it worth investing in long-term science projects whose results are uncertain and may arrive many years later? Why or why not? (Aisha says: Yes. Many important discoveries were unexpected. Gravitational waves themselves took a century to detect, and that work produced new technology and a Nobel Prize. Science needs patience.) (Lucas says: I am not so sure. When results are uncertain and far away, the money might do more good in projects that solve problems now, such as climate monitoring or medical research.)",
+    "steps": [
+     "Choose a side: worth it, or not worth it.",
+     "Give one reason linked to knowledge and technology, or to urgent needs.",
+     "Add an example, such as the 2015 detection or a present-day problem.",
+     "Respond to Aisha or Lucas, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "gravitational wave",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌɡrævɪˈteɪʃənl weɪv/",
+     "syl": [
+      "grav",
+      "i",
+      "ta",
+      "tion",
+      "al",
+      "wave"
+     ],
+     "def": "a ripple in space-time produced when very massive objects accelerate",
+     "ex": "Scientists detected a gravitational wave produced when two black holes collided."
+    },
+    {
+     "w": "white dwarf",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌwaɪt ˈdwɔːf/",
+     "syl": [
+      "white",
+      "dwarf"
+     ],
+     "def": "the small, very dense core that remains after a star like the Sun has used up its fuel",
+     "ex": "Sirius B is a well-known white dwarf that circles the bright star Sirius."
+    },
+    {
+     "w": "orbit",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˈɔːbɪt/",
+     "syl": [
+      "or",
+      "bit"
+     ],
+     "def": "to move in a curved path around a star, planet or moon",
+     "ex": "The International Space Station can orbit Earth about sixteen times a day."
+    },
+    {
+     "w": "dense",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/dens/",
+     "syl": [
+      "dense"
+     ],
+     "def": "having a lot of mass packed into a small space",
+     "ex": "Lead is a dense metal, so even a small piece feels heavy."
+    },
+    {
+     "w": "sensitive",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈsensətɪv/",
+     "syl": [
+      "sen",
+      "si",
+      "tive"
+     ],
+     "def": "able to detect or respond to very small changes",
+     "ex": "This microphone is so sensitive that it can pick up a whisper across the room."
+    },
+    {
+     "w": "precise",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/prɪˈsaɪs/",
+     "syl": [
+      "pre",
+      "cise"
+     ],
+     "def": "exact and accurate in every detail",
+     "ex": "The recipe gives precise measurements for every ingredient."
+    },
+    {
+     "w": "disturbance",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/dɪˈstɜːbəns/",
+     "syl": [
+      "dis",
+      "tur",
+      "bance"
+     ],
+     "def": "a change that interrupts the normal state or movement of something",
+     "ex": "Engineers traced the disturbance in the signal to a faulty cable."
+    },
+    {
+     "w": "confirm",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kənˈfɜːm/",
+     "syl": [
+      "con",
+      "firm"
+     ],
+     "def": "to show that something is definitely true",
+     "ex": "Further tests are needed to confirm the surprising results."
+    },
+    {
+     "w": "endure",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪnˈdjʊə(r)/",
+     "syl": [
+      "en",
+      "dure"
+     ],
+     "def": "to experience something difficult or harmful and survive it",
+     "ex": "The explorers had to endure freezing winds for three weeks."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word \"endured\" in paragraph 6 is closest in meaning to",
+     "opts": [
+      "lasted",
+      "avoided",
+      "caused",
+      "withstood"
+     ],
+     "a": 3,
+     "why": "The planets went through the violent late stages of their stars' lives and survived them, so they withstood those stages.",
+     "evidence": "any that survive there must have endured the violent late stages of their stars' lives",
+     "optWhy": [
+      "Another meaning of the word: endure can mean \"last\" (as in a tradition endures), but here it takes an object and means survived something hard.",
+      "Contradicts the sentence: the planets went through these stages; they did not avoid them.",
+      "Fits the grammar, but the stars, not the planets, caused these stages.",
+      "Correct. To endure a violent stage is to withstand it and survive."
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, which of the following is true of LISA?",
+     "opts": [
+      "It is being built and led mainly by NASA.",
+      "It will use lasers to measure tiny changes in the distance between spacecraft.",
+      "It will be placed on the ground to avoid interference from space.",
+      "It has already detected waves from pairs of stars in our galaxy."
+     ],
+     "a": 1,
+     "why": "Paragraph 3 says LISA will fire lasers between its three spacecraft to detect extremely small changes in distance.",
+     "evidence": "By firing lasers between them, it will be able to detect changes in distance smaller than the width of a helium atom",
+     "optWhy": [
+      "Detail swapped: LISA is led by the European Space Agency; NASA contributes parts and support.",
+      "Correct. A paraphrase of \"by firing lasers between them, it will be able to detect changes in distance\".",
+      "Contradicts the passage: LISA is three spacecraft flying in space.",
+      "Contradicts the passage: it will not launch until the mid-2030s."
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are true EXCEPT:",
+     "opts": [
+      "A white dwarf is the core left when a star like the Sun runs out of fuel.",
+      "LISA is expected to identify around 10,000 white dwarf pairs individually.",
+      "A planet orbiting a white dwarf pair produces its own waves that LISA detects directly.",
+      "A planet would add faint signals just above and below the pair's main frequency."
+     ],
+     "a": 2,
+     "why": "The planet is detected indirectly: its gravity disturbs the pair's motion and adds sidebands to the pair's signal. The passage never says LISA hears the planet's own waves.",
+     "evidence": "its gravity will slightly disturb the pair's motion",
+     "optWhy": [
+      "Stated in paragraph 4.",
+      "Stated: LISA is expected to pick out around 10,000 pairs individually.",
+      "Correct. Contradicts the method: the planet changes the pair's signal rather than being heard directly.",
+      "Stated: sidebands appear just above and below the pair's main signal."
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the test case set 500 light-years away?",
+     "opts": [
+      "Under ideal conditions, LISA could find lighter planets than Webb could.",
+      "Webb could find smaller planets than LISA under all conditions.",
+      "Webb would discover these planets long before LISA launches.",
+      "Both instruments could detect only planets heavier than Jupiter."
+     ],
+     "a": 0,
+     "why": "Webb could detect a planet about five times Jupiter's mass, while LISA could detect one smaller than Jupiter under ideal conditions, so LISA could find lighter planets in the best case.",
+     "evidence": "whereas LISA, under ideal conditions, could detect one smaller than Jupiter",
+     "optWhy": [
+      "Correct. Five Jupiter masses for Webb versus less than one for LISA implies LISA can, at best, detect lighter planets.",
+      "Contradicts the passage: LISA's best case is the smaller planet.",
+      "Not stated: Webb's role is to follow up LISA's discoveries, not to find them first.",
+      "Contradicts the passage: LISA could detect a planet smaller than Jupiter."
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention that scientists needed almost a century to detect gravitational waves?",
+     "opts": [
+      "To criticize earlier physicists for working too slowly",
+      "To emphasize how faint the waves are by the time they reach Earth",
+      "To show that Einstein's original prediction was partly incorrect",
+      "To explain why LISA will not launch until the mid-2030s"
+     ],
+     "a": 1,
+     "why": "The long delay is presented as a result of how weak the waves are, which highlights the challenge of detecting them.",
+     "evidence": "Because the waves are extraordinarily weak by the time they reach Earth",
+     "optWhy": [
+      "Wrong attitude: the author does not criticize anyone.",
+      "Correct. The century-long wait illustrates how weak the waves are.",
+      "Contradicts the passage: the 2015 detection confirmed the prediction.",
+      "Information from another paragraph: LISA's launch date is in paragraph 3 and is not linked to this point."
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Faint sidebands will cause the signals from thousands of white dwarf pairs to overlap.",
+      "Thousands of white dwarf pairs will be too noisy for LISA to detect at all.",
+      "Because so many signals will mix together, the weak planet signals may be hard to pick out.",
+      "Noise from LISA's instruments will be removed by separating thousands of signals."
+     ],
+     "a": 2,
+     "why": "The essential idea: overlapping signals from many pairs will make the faint planet signals hard to separate. Only C keeps the cause and the effect.",
+     "evidence": "Signals from thousands of white dwarf pairs will overlap",
+     "optWhy": [
+      "Cause reversed: the overlap makes sidebands hard to find; sidebands do not cause the overlap.",
+      "Too extreme: the problem is finding faint sidebands, not detecting the pairs at all.",
+      "Correct. It keeps the cause (overlapping signals) and the result (weak signals hard to pick out).",
+      "Meaning changed: the sentence describes a difficulty, not a solution."
+     ],
+     "highlight": "Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise."
+    }
+   ],
+   "voice": "af_bella"
+  }
+ ],
+ "audio": {
+  "After nine months without face-to-face meetings, negotiators from Russia and Ukraine sat down again this week in Abu Dhabi, the capital of the United Arab Emirates. The two days of talks, which ended on November 11, were mediated by the United States and led on the American side by envoys Jared Kushner and Steve Witkoff. Neither President Vladimir Putin nor President Volodymyr Zelenskyy attended; instead, the delegations were headed by Russia's chief negotiator, Vladimir Medinsky, and Ukraine's David Arakhamia. Expectations were modest from the start, and the meeting did not produce a plan to end a war that is now approaching its fifth year. It did, however, produce one concrete result: both sides agreed to a large exchange of prisoners of war.": "audio/2026-11-12/a1-p1.mp3",
+  "According to Kushner, the swap will be \"the biggest humanitarian release of prisoners\" since Russia's full-scale invasion of Ukraine in February 2022. The exact numbers were still being finalized when the talks closed, and Russia's state news agency TASS reported that the exchange should take place within two to three weeks. The delegations also discussed other humanitarian questions, including the return of Ukrainian civilians held in captivity and of children taken from Ukraine during the war. Kushner described the session as \"a very tough meeting but a productive one,\" Zelenskyy called it \"constructive and quite substantive,\" and U.S. Secretary of State Marco Rubio said it was \"very productive\" while warning that a real breakthrough would take time.": "audio/2026-11-12/a1-p2.mp3",
+  "Prisoner exchanges are not new in this conflict. In May 2025, after talks in Istanbul, the two countries carried out a 1,000-for-1,000 swap, and in March of this year each side freed 200 prisoners following a meeting in Geneva. Between these headline events, smaller exchanges of 100 to 300 people have taken place every two or three months, according to one analyst quoted by Al Jazeera. What makes the new agreement notable is therefore not the idea itself but its scale, and the fact that it emerged from the first meeting of the three delegations since February.": "audio/2026-11-12/a1-p3.mp3",
+  "Supporters of this step-by-step approach argue that humanitarian deals are the most realistic place to begin. When two governments distrust each other deeply, agreeing on something limited and verifiable, such as the number of soldiers to be returned on a particular day, can build a minimum of confidence. Each successful exchange shows that commitments can be kept, and diplomats hope that this record will make harder conversations possible later. Families on both sides also gain something immediate and concrete, regardless of what happens at the negotiating table.": "audio/2026-11-12/a1-p4.mp3",
+  "Skeptics, however, point out that swapping prisoners does nothing to resolve the issues that keep the war going. Kushner himself acknowledged that territorial questions will be the hardest to settle, even though he said progress had been made on a framework for security after the war. Neither side has shown a willingness to abandon its core demands, and fighting continues along a front line that has barely moved this year. From this perspective, repeated humanitarian agreements risk creating an impression of momentum while the central disagreements remain untouched.": "audio/2026-11-12/a1-p5.mp3",
+  "A further dispute concerns who should be in the room. Russia has long resisted direct European involvement in the negotiations, although Medinsky said after this round that Moscow did not oppose the participation of the European Union, while questioning what the two sides would actually discuss. Ukraine takes a different view. Arakhamia argued that future talks should be multilateral and include Europe, and Zelenskyy said he did not believe European security could be considered without Europe. Representatives of the EU and NATO consulted with the Ukrainian delegation in Abu Dhabi, but they were not formal participants.": "audio/2026-11-12/a1-p6.mp3",
+  "The next steps will test which interpretation is correct. Kushner and Witkoff planned to brief Putin in Moscow and then meet Zelenskyy in Dublin, while Arakhamia spoke of \"good momentum\" toward a solution before the end of the year. If the prisoner exchange goes ahead smoothly, it may strengthen the case that small, practical agreements can open a path to larger ones. If the talks stall again, critics will argue that humanitarian gestures, however valuable to the families involved, cannot substitute for compromise on the questions that matter most. For now, the Abu Dhabi meeting offers a reminder that in diplomacy, progress and stalemate can exist at the same time.": "audio/2026-11-12/a1-p7.mp3",
+  "mediate": "audio/2026-11-12/a1-w-mediate.mp3",
+  "The teacher offered to mediate between the two students after their argument.": "audio/2026-11-12/a1-ex-mediate.mp3",
+  "delegation": "audio/2026-11-12/a1-w-delegation.mp3",
+  "A delegation of students met the mayor to discuss safer bike lanes.": "audio/2026-11-12/a1-ex-delegation.mp3",
+  "humanitarian": "audio/2026-11-12/a1-w-humanitarian.mp3",
+  "The charity sent humanitarian supplies to the villages cut off by the flood.": "audio/2026-11-12/a1-ex-humanitarian.mp3",
+  "verifiable": "audio/2026-11-12/a1-w-verifiable.mp3",
+  "A good essay supports its claims with verifiable facts rather than rumors.": "audio/2026-11-12/a1-ex-verifiable.mp3",
+  "skeptic": "audio/2026-11-12/a1-w-skeptic.mp3",
+  "Even the biggest skeptic in the class was impressed by the results of the experiment.": "audio/2026-11-12/a1-ex-skeptic.mp3",
+  "multilateral": "audio/2026-11-12/a1-w-multilateral.mp3",
+  "The ocean treaty is a multilateral agreement signed by dozens of countries.": "audio/2026-11-12/a1-ex-multilateral.mp3",
+  "momentum": "audio/2026-11-12/a1-w-momentum.mp3",
+  "The campaign gained momentum after several famous athletes joined it.": "audio/2026-11-12/a1-ex-momentum.mp3",
+  "substitute": "audio/2026-11-12/a1-w-substitute.mp3",
+  "Watching videos cannot fully substitute for speaking a language with real people.": "audio/2026-11-12/a1-ex-substitute.mp3",
+  "stalemate": "audio/2026-11-12/a1-w-stalemate.mp3",
+  "After hours of debate, the committee reached a stalemate and postponed the vote.": "audio/2026-11-12/a1-ex-stalemate.mp3",
+  "It did, however, produce one concrete result: both sides agreed to a large exchange of prisoners of war.": "audio/2026-11-12/a1-ks1.mp3",
+  "What makes the new agreement notable is therefore not the idea itself but its scale, and the fact that it emerged from the first meeting of the three delegations since February.": "audio/2026-11-12/a1-ks2.mp3",
+  "Each successful exchange shows that commitments can be kept, and diplomats hope that this record will make harder conversations possible later.": "audio/2026-11-12/a1-ks3.mp3",
+  "Skeptics, however, point out that swapping prisoners does nothing to resolve the issues that keep the war going.": "audio/2026-11-12/a1-ks4.mp3",
+  "Ukraine takes a different view.": "audio/2026-11-12/a1-ks5.mp3",
+  "For now, the Abu Dhabi meeting offers a reminder that in diplomacy, progress and stalemate can exist at the same time.": "audio/2026-11-12/a1-ks6.mp3",
+  "On Wednesday, November 11, investors on Wall Street rushed back into the technology stocks they had been selling only days earlier. The S&P 500 rose 1.3% to 7,619.38, almost erasing the losses of the previous week's sell-off and leaving the index within 2.6% of the all-time high it set in October. The tech-heavy Nasdaq Composite climbed 1.6%, while the Dow Jones Industrial Average gained 0.5%. The rebound followed a period of unusual volatility driven by a single question that now hangs over global markets: is the enormous spending on artificial intelligence a sound investment, or a bubble waiting to burst?": "audio/2026-11-12/a2-p1.mp3",
+  "The day's biggest winner illustrated both sides of that debate. CoreWeave, a company that rents out the powerful computer chips used to train and run AI systems, saw its shares jump 24.7%. Its third-quarter revenue rose 168% to about $3.7 billion, and it lost less money over the summer than analysts had expected, although its net loss still reached roughly $709 million. The company also raised its revenue forecast for the year and said it expects about $9 billion in customer prepayments and deposits over the next three months. Before Wednesday, however, its stock had fallen by more than 40% in a month.": "audio/2026-11-12/a2-p2.mp3",
+  "Other companies connected to AI also recovered. The memory-chip maker Micron gained 11.9%, Broadcom rose 4%, and Nvidia, the world's leading designer of AI chips, climbed 2.9% after losing more than $430 billion in market value over two days earlier in the week. Markets in Asia shared the optimism: South Korea's Kospi index, which is heavily weighted toward chipmakers, rose 2.6%. To optimists, the rebound was a sign that last week's panic had been an overreaction and that demand for computing power remains extremely strong.": "audio/2026-11-12/a2-p3.mp3",
+  "Several separate forces had been weighing on these stocks. A worse-than-expected inflation report on Tuesday pushed bond yields higher and raised expectations that the Federal Reserve will increase interest rates, perhaps more than once. Higher rates matter especially for AI infrastructure, because building data centers requires huge amounts of borrowed money; some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk. Investors were also concerned that gains by the Democratic Party in last week's midterm elections could lead to new restrictions on AI data centers, which consume vast amounts of electricity and land.": "audio/2026-11-12/a2-p4.mp3",
+  "Those who fear a bubble often recall the dot-com era of the late 1990s, when investors poured money into internet companies on the assumption that future profits would justify almost any price. When those profits failed to arrive quickly enough, the Nasdaq lost most of its value between 2000 and 2002. Today's skeptics see familiar signs: companies spending far more on chips and buildings than they currently earn from AI products, and share prices that swing sharply on a single earnings report. The investment firm Baird, for example, downgraded Nvidia this week, citing reduced visibility into data-center forecasts for 2027.": "audio/2026-11-12/a2-p5.mp3",
+  "Optimists reply that the comparison is misleading. Unlike many internet start-ups of the 1990s, the largest AI spenders are highly profitable firms, and the demand for computing power is measurable rather than hypothetical, as CoreWeave's billions in prepayments suggest. Some analysts even argue that physical limits could help established leaders. Morgan Stanley noted that shortages of land, power and construction capacity for data centers may protect the market share of dominant chip suppliers, since newcomers would struggle to compete for the same scarce resources.": "audio/2026-11-12/a2-p6.mp3",
+  "Both interpretations may contain some truth. A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy. For ordinary observers, the lesson of this week is less about predicting the next move in share prices than about recognizing what drives them. Interest rates, electricity supplies and political decisions may matter as much to the future of AI as the brilliance of the technology itself.": "audio/2026-11-12/a2-p7.mp3",
+  "volatility": "audio/2026-11-12/a2-w-volatility.mp3",
+  "The volatility of oil prices makes it hard for airlines to plan their budgets.": "audio/2026-11-12/a2-ex-volatility.mp3",
+  "bubble": "audio/2026-11-12/a2-w-bubble.mp3",
+  "Some economists warned that the rise in house prices was a bubble that could burst.": "audio/2026-11-12/a2-ex-bubble.mp3",
+  "infrastructure": "audio/2026-11-12/a2-w-infrastructure.mp3",
+  "The government plans to spend more on rural infrastructure such as roads and internet cables.": "audio/2026-11-12/a2-ex-infrastructure.mp3",
+  "yield": "audio/2026-11-12/a2-w-yield.mp3",
+  "When lenders feel nervous, they demand a higher yield before buying a company's bonds.": "audio/2026-11-12/a2-ex-yield.mp3",
+  "downgrade": "audio/2026-11-12/a2-w-downgrade.mp3",
+  "The agency may downgrade the city's credit rating if its debts keep rising.": "audio/2026-11-12/a2-ex-downgrade.mp3",
+  "hypothetical": "audio/2026-11-12/a2-w-hypothetical.mp3",
+  "The teacher asked a hypothetical question: what would you do if you could not use the internet for a year?": "audio/2026-11-12/a2-ex-hypothetical.mp3",
+  "transformative": "audio/2026-11-12/a2-w-transformative.mp3",
+  "For many remote villages, cheap solar panels have been a transformative technology.": "audio/2026-11-12/a2-ex-transformative.mp3",
+  "overreaction": "audio/2026-11-12/a2-w-overreaction.mp3",
+  "Cancelling the whole school trip because of light rain would be an overreaction.": "audio/2026-11-12/a2-ex-overreaction.mp3",
+  "justify": "audio/2026-11-12/a2-w-justify.mp3",
+  "The museum will have to justify the higher ticket price with better exhibitions.": "audio/2026-11-12/a2-ex-justify.mp3",
+  "The rebound followed a period of unusual volatility driven by a single question that now hangs over global markets: is the enormous spending on artificial intelligence a sound investment, or a bubble waiting to burst?": "audio/2026-11-12/a2-ks1.mp3",
+  "The day's biggest winner illustrated both sides of that debate.": "audio/2026-11-12/a2-ks2.mp3",
+  "Higher rates matter especially for AI infrastructure, because building data centers requires huge amounts of borrowed money; some of CoreWeave's bonds already pay yields above 16%, a sign that lenders see considerable risk.": "audio/2026-11-12/a2-ks3.mp3",
+  "Those who fear a bubble often recall the dot-com era of the late 1990s, when investors poured money into internet companies on the assumption that future profits would justify almost any price.": "audio/2026-11-12/a2-ks4.mp3",
+  "Optimists reply that the comparison is misleading.": "audio/2026-11-12/a2-ks5.mp3",
+  "A technology can be genuinely transformative while its stock prices still run ahead of reality, as the internet itself proved: the dot-com crash ruined many investors, yet the internet went on to reshape the global economy.": "audio/2026-11-12/a2-ks6.mp3",
+  "For three decades, astronomers have discovered planets beyond our solar system mainly by watching light. They look for the tiny dip in brightness when a planet passes in front of its star, or for the slight wobble in a star's light caused by an orbiting planet's gravity. A new NASA study proposes a very different approach: detecting planets not through light at all, but through ripples in space itself. According to two papers published in The Astrophysical Journal and described by NASA on November 10, a future space observatory called LISA could reveal an entirely new population of worlds.": "audio/2026-11-12/a3-p1.mp3",
+  "Those ripples are gravitational waves, disturbances in the fabric of space-time that Albert Einstein predicted in 1916. They are produced when massive objects accelerate, for example when two dense stars orbit each other at high speed. Because the waves are extraordinarily weak by the time they reach Earth, scientists needed almost a century to build instruments sensitive enough to detect them. Ground-based observatories finally recorded the first gravitational wave in 2015, a signal from two colliding black holes, and the discovery was soon recognized with a Nobel Prize.": "audio/2026-11-12/a3-p2.mp3",
+  "LISA, the Laser Interferometer Space Antenna, is designed to go much further. Led by the European Space Agency, which formally adopted the mission in 2024, it is scheduled to launch in the mid-2030s, with NASA contributing telescopes, other hardware, and engineering and science support. LISA will consist of three spacecraft flying in a triangle whose sides each measure about 2.5 million kilometers. By firing lasers between them, it will be able to detect changes in distance smaller than the width of a helium atom, which is precise enough to sense the slow, steady waves given off by pairs of stars in our galaxy.": "audio/2026-11-12/a3-p3.mp3",
+  "The new research focuses on one kind of pair: double white dwarfs. A white dwarf is the dense, Earth-sized core left behind when a star like the Sun runs out of fuel. Scientists estimate that the Milky Way contains about 10 million pairs of white dwarfs orbiting each other in less than an hour, and LISA is expected to pick out around 10,000 of them individually. If a planet circles such a pair, its gravity will slightly disturb the pair's motion. That disturbance would add faint extra signals, called sidebands, at frequencies just above and below the pair's main signal. The idea resembles the radial velocity method, which finds planets by measuring how they make their stars wobble, except that LISA would read the wobble in gravitational waves rather than in starlight.": "audio/2026-11-12/a3-p4.mp3",
+  "The concept itself is not entirely new; the Japanese astrophysicist Naoki Seto first suggested it in 2008. What the new papers add is a detailed estimate of which planets could realistically be found, and a plan for confirming them. The second paper examines how the James Webb Space Telescope, whose infrared instruments can detect the extra heat a planet gives off, might follow up LISA's discoveries. In a test case set 500 light-years away, Webb could detect a planet about five times as massive as Jupiter, whereas LISA, under ideal conditions, could detect one smaller than Jupiter.": "audio/2026-11-12/a3-p5.mp3",
+  "If such planets exist, they would be remarkable. No planet has ever been found orbiting a pair of white dwarfs, and any that survive there must have endured the violent late stages of their stars' lives, when the stars swelled and shed much of their material. Finding them would help scientists understand whether planetary systems can outlive their stars, a question with obvious relevance to the distant future of our own solar system, since the Sun is expected to become a white dwarf in several billion years.": "audio/2026-11-12/a3-p6.mp3",
+  "There are, however, reasons for caution. The method has never been tested, and the most impressive estimates depend on ideal conditions that real data rarely provide. Signals from thousands of white dwarf pairs will overlap, making faint sidebands difficult to separate from noise. Moreover, the observatory will not launch for roughly a decade, and large space missions are often delayed. Even so, the study shows how a new kind of instrument can change the questions astronomers are able to ask. Just as telescopes once extended human vision, gravitational-wave detectors may allow scientists, in effect, to listen to the universe.": "audio/2026-11-12/a3-p7.mp3",
+  "gravitational wave": "audio/2026-11-12/a3-w-gravitational-wave.mp3",
+  "Scientists detected a gravitational wave produced when two black holes collided.": "audio/2026-11-12/a3-ex-gravitational-wave.mp3",
+  "white dwarf": "audio/2026-11-12/a3-w-white-dwarf.mp3",
+  "Sirius B is a well-known white dwarf that circles the bright star Sirius.": "audio/2026-11-12/a3-ex-white-dwarf.mp3",
+  "orbit": "audio/2026-11-12/a3-w-orbit.mp3",
+  "The International Space Station can orbit Earth about sixteen times a day.": "audio/2026-11-12/a3-ex-orbit.mp3",
+  "dense": "audio/2026-11-12/a3-w-dense.mp3",
+  "Lead is a dense metal, so even a small piece feels heavy.": "audio/2026-11-12/a3-ex-dense.mp3",
+  "sensitive": "audio/2026-11-12/a3-w-sensitive.mp3",
+  "This microphone is so sensitive that it can pick up a whisper across the room.": "audio/2026-11-12/a3-ex-sensitive.mp3",
+  "precise": "audio/2026-11-12/a3-w-precise.mp3",
+  "The recipe gives precise measurements for every ingredient.": "audio/2026-11-12/a3-ex-precise.mp3",
+  "disturbance": "audio/2026-11-12/a3-w-disturbance.mp3",
+  "Engineers traced the disturbance in the signal to a faulty cable.": "audio/2026-11-12/a3-ex-disturbance.mp3",
+  "confirm": "audio/2026-11-12/a3-w-confirm.mp3",
+  "Further tests are needed to confirm the surprising results.": "audio/2026-11-12/a3-ex-confirm.mp3",
+  "endure": "audio/2026-11-12/a3-w-endure.mp3",
+  "The explorers had to endure freezing winds for three weeks.": "audio/2026-11-12/a3-ex-endure.mp3",
+  "A new NASA study proposes a very different approach: detecting planets not through light at all, but through ripples in space itself.": "audio/2026-11-12/a3-ks1.mp3",
+  "Because the waves are extraordinarily weak by the time they reach Earth, scientists needed almost a century to build instruments sensitive enough to detect them.": "audio/2026-11-12/a3-ks2.mp3",
+  "That disturbance would add faint extra signals, called sidebands, at frequencies just above and below the pair's main signal.": "audio/2026-11-12/a3-ks3.mp3",
+  "What the new papers add is a detailed estimate of which planets could realistically be found, and a plan for confirming them.": "audio/2026-11-12/a3-ks4.mp3",
+  "Finding them would help scientists understand whether planetary systems can outlive their stars, a question with obvious relevance to the distant future of our own solar system, since the Sun is expected to become a white dwarf in several billion years.": "audio/2026-11-12/a3-ks5.mp3",
+  "There are, however, reasons for caution.": "audio/2026-11-12/a3-ks6.mp3"
+ }
+}
