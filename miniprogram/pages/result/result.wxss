@@ -1,0 +1,6 @@
+.nowrap { flex-wrap: nowrap; gap: 28rpx; }
+.grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14rpx; }
+.grid3 > view { background: var(--soft); border-radius: 16rpx; padding: 16rpx 18rpx; display: flex; flex-direction: column; }
+.v { font-size: 34rpx; font-weight: 800; }
+.tip { display: flex; gap: 16rpx; align-items: baseline; font-size: 28rpx; line-height: 1.5; }
+.tdot { width: 18rpx; height: 18rpx; border-radius: 50%; background: var(--amber); flex-shrink: 0; }

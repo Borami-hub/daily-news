@@ -1,0 +1,42 @@
+<view class="reader fs{{fs}}" wx:if="{{a}}">
+  <view class="rtools">
+    <text class="tool" bindtap="playAll">{{isPlaying ? '❚❚ Stop' : '▶ Listen'}}</text>
+    <text class="tool {{hl.w ? 'on' : ''}}" data-k="w" bindtap="toggle">Words</text>
+    <text class="tool {{hl.s ? 'on' : ''}}" data-k="s" bindtap="toggle">Key sentences</text>
+    <text class="tool" bindtap="size">Aa</text>
+  </view>
+  <view class="rart">
+    <view class="rkicker" style="color:{{a.color}}">{{a.kicker}}</view>
+    <view class="rtitle serif">{{a.title}}</view>
+    <view class="rdek serif" wx:if="{{a.dek}}">{{a.dek}}</view>
+    <view class="rmeta">{{a.meta}}</view>
+    <view wx:for="{{paras}}" wx:for-item="p" wx:key="i" id="p{{p.i}}" class="rp {{playing === p.i ? 'playing' : ''}}">
+      <text class="rpn">{{p.i + 1}}</text>
+      <view class="rtext serif"><text wx:for="{{p.segs}}" wx:for-item="sg" wx:key="index" class="{{sg.k != null ? 'ks' : ''}}" data-k="{{sg.k}}" bindtap="tapKs"><text wx:for="{{sg.parts}}" wx:for-item="pt" wx:key="index" class="{{pt.w ? 'kw' : ''}}" data-w="{{pt.w}}" bindtap="tapWord">{{pt.t}}</text></text></view>
+    </view>
+    <view class="rsrc">Source: {{a.sources}}. Rewritten for C1 learners.</view>
+  </view>
+  <view class="wrap" style="padding-top:0">
+    <view class="panel ctr" wx:if="{{result}}">
+      <text class="eyebrow">Reading done</text>
+      <view class="row" style="justify-content:center;gap:48rpx"><view><text class="big">{{result.time}}</text><view class="meta">time</view></view><view><text class="big">{{result.wpm}}</text><view class="meta">words / min</view></view></view>
+      <view class="meta">{{result.tip}}</view>
+      <view class="btn" bindtap="toQuiz">Go to the questions</view>
+    </view>
+    <view class="btn" wx:else bindtap="done">I've finished reading</view>
+  </view>
+</view>
+<block wx:if="{{sheet}}">
+  <view class="sheet-bg" bindtap="close"></view>
+  <view class="sheet" wx:if="{{sheet.kind === 'w'}}">
+    <view class="spread"><text class="chip {{sheet.w.level === 'Academic' ? '' : 'term'}}">{{sheet.w.level}}</text><text class="say" data-t="{{sheet.w.w}}" bindtap="say">🔊</text></view>
+    <view class="sw">{{sheet.w.w}} <text class="muted small">{{sheet.w.ipa}} · {{sheet.w.pos}}</text></view>
+    <view class="sfact">{{sheet.w.def}}</view><view class="meta">{{sheet.w.ex}}</view>
+    <view class="ghost" bindtap="close">Back to the article</view>
+  </view>
+  <view class="sheet ks-sheet" wx:else>
+    <view class="spread"><text class="kind">{{sheet.k.kind}}</text><text class="chip">Paragraph {{sheet.k.para}}</text></view>
+    <view class="squote serif">“{{sheet.k.text}}”</view><view class="sfact ksf">{{sheet.k.note}}</view>
+    <view class="row"><text class="say" data-t="{{sheet.k.text}}" bindtap="say">🔊 Listen</text><view class="ghost flex1" bindtap="close">Back to the article</view></view>
+  </view>
+</block>

@@ -1,0 +1,37 @@
+<view class="wrap" wx:if="{{state === 'loading'}}"><view class="panel"><view class="h3">Loading today's stories…</view><view class="bar"><view class="fill" style="width:40%"></view></view></view></view>
+<view class="wrap" wx:elif="{{state === 'config'}}"><view class="panel"><view class="h3">还没有连接云存储</view><view class="meta">请在 config.js 里填入 days/index.json 的 File ID。</view></view></view>
+<view class="wrap" wx:elif="{{state === 'error' || state === 'empty'}}"><view class="panel"><view class="h3">{{state === 'empty' ? 'No stories yet' : 'Could not load the stories'}}</view><view class="meta">Check your network, then try again.</view><view class="btn" bindtap="retry">Try again</view></view></view>
+
+<view class="wrap" wx:else>
+  <scroll-view scroll-x class="dstrip" enhanced show-scrollbar="{{false}}" wx:if="{{strip.length > 1}}">
+    <view class="dchip {{s.on ? 'on' : ''}}" wx:for="{{strip}}" wx:for-item="s" wx:key="date" data-d="{{s.date}}" bindtap="pickDay">
+      <text class="dwd">{{s.wd}}</text><text class="dnum">{{s.num}}</text><text class="dmon">{{s.mon}}</text>
+      <view class="ddots"><view wx:for="{{s.dots}}" wx:for-item="f" wx:key="index" class="dd {{f ? 'f' : ''}}"></view></view>
+    </view>
+  </scroll-view>
+  <view>
+    <view class="eyebrow">{{day.long}}</view>
+    <view class="h1">{{day.headline}}</view>
+    <view class="meta" wx:if="{{day.teaser}}">{{day.teaser}}</view>
+  </view>
+  <view class="name-row"><text class="muted">Name</text><input class="flex1" value="{{name}}" placeholder="Your name, for your teacher" bindinput="onName"/></view>
+  <view class="story" wx:for="{{cards}}" wx:for-item="c" wx:key="id" data-id="{{c.id}}" bindtap="openArt" style="border-left-color:{{c.color}}">
+    <text class="sn" style="color:{{c.color}}">{{c.n}}</text>
+    <view class="sbody"><text class="topic" style="color:{{c.color}}">{{c.topic}}</text><text class="h3">{{c.title}}</text><text class="meta">{{c.status}}</text></view>
+    <text class="go" style="color:var(--accent)">›</text>
+  </view>
+  <view class="panel">
+    <view><view class="eyebrow">Daily review · {{review.dayLabel}}</view><view class="h2">{{!review.enrolled ? 'Starts after your first story' : review.checked ? 'Checked in today' : 'Not checked in yet'}}</view></view>
+    <view class="meta" wx:if="{{!review.enrolled}}">Finish Questions and Summary, and the story's key points and words join your daily review. Right answers come back after a few days; wrong ones come back tomorrow.</view>
+    <view class="spread" wx:else><view><text class="big">{{review.streak}}</text> <text class="muted">day streak</text></view><text class="meta">{{review.line}}</text></view>
+    <view class="cal"><view wx:for="{{review.cal}}" wx:for-item="c" wx:key="k" class="cell {{c.c}}"></view></view>
+    <view class="spread meta"><text>4 weeks ago</text><text>Today</text></view>
+    <block wx:if="{{review.enrolled}}">
+      <view class="btn" wx:if="{{!review.checked && review.due}}" bindtap="review">Start review · {{review.cap}} questions</view>
+      <view class="btn" wx:elif="{{!review.checked}}" bindtap="checkin">Nothing due today — check in</view>
+      <view class="ghost" wx:elif="{{review.due}}" bindtap="review">Keep going · {{review.cap}} more</view>
+      <view class="ghost" wx:else data-extra="1" bindtap="review">Practice 10 more</view>
+    </block>
+  </view>
+  <view class="meta">Progress, check-ins, and recordings are saved on this phone. Pull down to refresh.</view>
+</view>

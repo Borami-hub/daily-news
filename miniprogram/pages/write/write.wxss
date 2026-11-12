@@ -1,0 +1,4 @@
+.task { font-size: 30rpx; font-weight: 600; line-height: 1.5; }
+.stu { display: flex; flex-direction: column; gap: 6rpx; background: var(--bg); border-radius: 16rpx; padding: 18rpx 22rpx; font-size: 28rpx; line-height: 1.5; }
+.who { font-weight: 800; color: var(--accent); }
+.step { display: flex; gap: 16rpx; font-size: 28rpx; line-height: 1.45; } .sn { color: var(--accent); font-weight: 800; }

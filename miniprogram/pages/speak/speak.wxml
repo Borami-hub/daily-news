@@ -1,0 +1,14 @@
+<view class="wrap" wx:if="{{sp}}">
+  <view><view class="eyebrow">Step 6 · Speak</view><view class="h2">Give your opinion</view></view>
+  <view class="panel">
+    <text class="eyebrow">Question · about {{sp.sec}} seconds</text>
+    <view class="h3">{{sp.p}}</view>
+    <view class="meta">Tip: {{sp.hint}}</view>
+    <view class="meta">Take 15 seconds to plan, then record.</view>
+    <view class="row">
+      <view class="rbtn {{live ? 'live' : ''}}" bindtap="record">{{live ? '■ Stop' : r ? '● Record again' : '● Record'}}</view>
+      <block wx:if="{{r && !live}}"><view class="ghost" bindtap="play">▶ Play · {{r.sec}}s</view><view class="ghost" bindtap="share">Send to teacher</view></block>
+    </view>
+  </view>
+  <view class="btn" bindtap="done">Done</view>
+</view>

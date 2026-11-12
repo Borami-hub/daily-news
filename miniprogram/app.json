@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/article/article",
+    "pages/words/words",
+    "pages/read/read",
+    "pages/quiz/quiz",
+    "pages/mindmap/mindmap",
+    "pages/summary/summary",
+    "pages/speak/speak",
+    "pages/write/write",
+    "pages/result/result"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0b7a75",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "每日精读",
+    "backgroundColor": "#edf3f4"
+  },
+  "requiredPrivateInfos": [],
+  "permission": {},
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

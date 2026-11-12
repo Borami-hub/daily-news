@@ -1,0 +1,18 @@
+<view class="wrap" wx:if="{{w}}">
+  <view class="spread"><text class="eyebrow">Step 1 · Words</text><text class="meta">{{i + 1}} / {{n}}</text></view>
+  <view class="bar"><view class="fill" style="width:{{(i + 1) / n * 100}}%"></view></view>
+  <view class="panel card">
+    <text class="chip {{w.level === 'Academic' ? '' : 'term'}}">{{w.level}}</text>
+    <view class="word {{w.long ? 'long' : ''}}">{{w.w}}</view>
+    <view class="row center"><text class="muted ipa">{{w.ipa}}</text><text class="say" bindtap="sayWord">🔊 Listen</text></view>
+    <view class="syl"><text wx:for="{{w.syl}}" wx:key="index" class="s {{index % 2 === 0 ? 'odd' : ''}}">{{item}}</text></view>
+    <view class="meta">{{w.pos}}</view>
+    <view class="def" wx:if="{{show}}">{{w.def}}</view>
+    <view class="ghost" wx:else bindtap="reveal">Guess the meaning, then tap to check</view>
+  </view>
+  <view class="panel" wx:if="{{hit}}"><text class="eyebrow">In the article · paragraph {{hit.para}}</text>
+    <view class="ctxt"><text wx:for="{{hit.segs}}" wx:for-item="s" wx:key="index" class="{{s.hl ? 'hit' : ''}}">{{s.t}}</text></view></view>
+  <view class="panel"><view class="spread"><text class="eyebrow">Another example</text><text class="say" bindtap="sayEx">🔊</text></view>
+    <view class="ctxt big2"><text wx:for="{{ex}}" wx:for-item="s" wx:key="index" class="{{s.hl ? 'hit' : ''}}">{{s.t}}</text></view></view>
+  <view class="row nowrap"><view class="ghost flex1 {{i === 0 ? 'dim' : ''}}" bindtap="prev">Previous</view><view class="btn flex1" bindtap="next">{{i === n - 1 ? 'Done' : 'Next word'}}</view></view>
+</view>

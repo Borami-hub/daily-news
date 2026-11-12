@@ -1,0 +1,107 @@
+<template name="segs"><text wx:for="{{segs}}" wx:for-item="g" wx:key="index" class="{{g.hl ? 'mark' : ''}}">{{g.t}}</text></template>
+
+<template name="explain">
+  <block wx:if="{{ex.simple}}"><view class="fact">{{ex.fact}}</view></block>
+  <block wx:elif="{{!ex.rich}}">
+    <view class="fact">{{ex.fact}}</view>
+    <view class="ow"><view wx:for="{{ex.ow}}" wx:for-item="o" wx:key="L" class="owi {{o.cls}}"><text class="b">{{o.L}}</text><text>{{o.why}}</text></view></view>
+    <view class="evi" wx:if="{{ex.evi}}"><text class="eyebrow">Evidence · paragraph {{ex.evi.para}}</text><view class="serif evt"><template is="segs" data="{{segs: ex.evi.segs}}"/></view></view>
+  </block>
+  <block wx:else>
+    <view class="xres {{ex.ok ? 'xok' : 'xno'}}">{{ex.res}}</view>
+    <view class="xctx"><text class="xh">Back to the text</text>
+      <view wx:for="{{ex.ctx}}" wx:for-item="c" wx:key="index" class="serif xcl"><text class="xp">¶{{c.para}} </text><template is="segs" data="{{segs: c.segs}}"/></view>
+    </view>
+    <block wx:if="{{!ex.ok}}">
+      <view class="xops"><view wx:for="{{ex.cards}}" wx:for-item="c" wx:key="L" class="xo {{c.cls}}"><text class="xl">{{c.L}}</text><view class="flex1"><view class="xt">{{c.text}}<text class="you" wx:if="{{c.mine}}">your answer</text></view><view class="xw">{{c.why}}</view></view><text class="xtag">{{c.tag}}</text></view></view>
+    </block>
+    <view class="xsteps" wx:if="{{ex.steps.length}}"><text class="xh2">How to solve it</text>
+      <view wx:for="{{ex.steps}}" wx:for-item="st" wx:key="index" class="xstep"><text class="xn">{{index + 1}}.</text><view class="flex1"><text class="b">{{st.t}}: </text>{{st.x}}</view></view>
+    </view>
+    <view class="fact" wx:if="{{ex.fact}}">{{ex.fact}}</view>
+    <block wx:if="{{ex.ok}}">
+      <view class="xmore" bindtap="toggleOpen">{{ex.folded ? '▸' : '▾'}} See why each option is right or wrong</view>
+      <view class="xops" wx:if="{{!ex.folded}}"><view wx:for="{{ex.cards}}" wx:for-item="c" wx:key="L" class="xo {{c.cls}}"><text class="xl">{{c.L}}</text><view class="flex1"><view class="xt">{{c.text}}<text class="you" wx:if="{{c.mine}}">your answer</text></view><view class="xw">{{c.why}}</view></view><text class="xtag">{{c.tag}}</text></view></view>
+    </block>
+  </block>
+</template>
+
+<view class="wrap" wx:if="{{v === 'loading'}}"><view class="panel"><view class="h3">Loading…</view></view></view>
+<view class="wrap" wx:elif="{{v === 'empty'}}"><view class="panel">Nothing to review.</view></view>
+
+<view class="wrap" wx:elif="{{v === 'style'}}">
+  <view><view class="eyebrow">Questions · {{title}}</view><view class="h2">How do you want to practice?</view></view>
+  <view class="choice" data-v="practice" bindtap="style"><text class="h3">Practice mode</text><text class="meta">See the answer and a full explanation after each question.</text></view>
+  <view class="choice" data-v="test" bindtap="style"><view class="h3">Test mode <text class="chip">TOEFL-like</text></view><text class="meta">No feedback until the end. You can change answers and move between questions. Timed.</text></view>
+</view>
+
+<view class="wrap" wx:elif="{{v === 'practice'}}">
+  <view class="panel">
+    <view class="spread"><text class="eyebrow">{{eyebrow}}</text><text class="meta">{{i + 1}} / {{n}} · {{correct}} correct</text></view>
+    <view class="bar"><view class="fill" style="width:{{(i + (answered ? 1 : 0)) / n * 100}}%"></view></view>
+    <view><text class="chip">{{q.tag}}</text></view>
+    <view class="prompt">{{q.prompt}}</view>
+    <view class="hlq serif" wx:if="{{q.highlight}}">{{q.highlight}}</view>
+    <view class="spelldef" wx:if="{{q.type === 'spell'}}">{{q.def}}</view>
+    <view class="muted" wx:if="{{q.sub}}">{{q.sub}}</view>
+    <block wx:if="{{q.type === 'mc'}}">
+      <view class="opts" wx:if="{{!hidePlain}}"><view wx:for="{{opts}}" wx:for-item="o" wx:key="L" class="opt {{o.cls}}" data-i="{{index}}" bindtap="pick"><text class="ol">{{o.L}}</text><text class="flex1">{{o.o}}</text></view></view>
+    </block>
+    <view class="row nowrap" wx:else>
+      <input class="input flex1" value="{{typed}}" disabled="{{answered}}" focus="{{!answered}}" placeholder="Type the word" bindinput="onSpell" bindconfirm="spell" confirm-type="done"/>
+      <view class="btn {{answered ? 'dim' : ''}}" bindtap="spell">Check</view>
+    </view>
+    <block wx:if="{{answered}}">
+      <view wx:if="{{q.type === 'spell'}}" class="fb {{ok ? 'ok' : 'no'}}">{{ok ? 'Correct' : 'Answer: ' + q.answer}} <text class="say" bindtap="sayAnswer">🔊</text></view>
+      <block wx:else>
+        <view wx:if="{{!ex.rich}}" class="fb {{ok ? 'ok' : 'no'}}">{{ok ? 'Correct' : 'Not quite.'}}</view>
+        <template is="explain" data="{{ex}}"/>
+      </block>
+      <view class="btn" bindtap="next">{{last ? 'Finish' : 'Next'}}</view>
+    </block>
+  </view>
+  <block wx:if="{{peek && !answered}}">
+    <view class="ghost" bindtap="togglep">{{showP ? 'Hide' : 'Check'}} paragraph {{peek.para}}</view>
+    <view class="panel" wx:if="{{showP}}"><text class="eyebrow">Paragraph {{peek.para}}</text><view class="serif evt">{{peek.text}}</view></view>
+  </block>
+</view>
+
+<view class="wrap" wx:elif="{{v === 'test'}}">
+  <view class="panel">
+    <view class="spread"><text class="eyebrow">Test mode</text><text class="meta">⏱ {{timer || '0:00'}}</text></view>
+    <view class="dots"><view wx:for="{{dots}}" wx:for-item="d" wx:key="i" class="dot {{d.c}}" data-i="{{d.i}}" bindtap="goto">{{d.i + 1}}</view></view>
+    <view><text class="chip">{{q.tag}}</text></view>
+    <view class="prompt">{{q.prompt}}</view>
+    <view class="hlq serif" wx:if="{{q.highlight}}">{{q.highlight}}</view>
+    <view class="opts"><view wx:for="{{opts}}" wx:for-item="o" wx:key="L" class="opt {{o.chosen ? 'chosen' : ''}}" data-i="{{index}}" bindtap="tpick"><text class="ol">{{o.L}}</text><text class="flex1">{{o.o}}</text></view></view>
+    <view class="row nowrap"><view class="ghost flex1 {{i === 0 ? 'dim' : ''}}" bindtap="tprev">Back</view><view class="btn flex1" wx:if="{{!last}}" bindtap="tnext">Next</view><view class="btn flex1" wx:else bindtap="tsubmit">Submit all</view></view>
+  </view>
+  <block wx:if="{{peek}}">
+    <view class="ghost" bindtap="togglep">{{showP ? 'Hide' : 'Check'}} paragraph {{peek.para}}</view>
+    <view class="panel" wx:if="{{showP}}"><text class="eyebrow">Paragraph {{peek.para}}</text><view class="serif evt">{{peek.text}}</view></view>
+  </block>
+</view>
+
+<view class="wrap" wx:elif="{{v === 'review'}}">
+  <view class="panel">
+    <view class="spread"><text class="eyebrow">Review · question {{ri + 1}} of {{n}}</text><text class="chip {{chip[0]}}">{{chip[1]}}</text></view>
+    <view class="dots"><view wx:for="{{dots}}" wx:for-item="d" wx:key="i" class="dot {{d.c}}" data-i="{{d.i}}" bindtap="rgoto">{{d.i + 1}}</view></view>
+    <view><text class="chip">{{q.tag}}</text></view>
+    <view class="prompt">{{q.prompt}}</view>
+    <view class="hlq serif" wx:if="{{q.highlight}}">{{q.highlight}}</view>
+    <view class="opts" wx:if="{{!ex.rich}}"><view wx:for="{{plain}}" wx:for-item="o" wx:key="L" class="opt {{o.cls}}"><text class="ol">{{o.L}}</text><text class="flex1">{{o.o}}<text class="you" wx:if="{{o.mine}}">your answer</text></text></view></view>
+    <template is="explain" data="{{ex}}"/>
+    <view class="row nowrap"><view class="ghost flex1 {{ri === 0 ? 'dim' : ''}}" bindtap="rprev">Previous</view><view class="btn flex1" wx:if="{{ri < n - 1}}" bindtap="rnext">Next</view><view class="btn flex1" wx:else bindtap="rexit">Back to summary</view></view>
+  </view>
+</view>
+
+<view class="wrap" wx:elif="{{v === 'done'}}">
+  <view class="panel ctr"><text class="eyebrow">{{sum.title}}</text><text class="big" style="font-size:112rpx">{{sum.big}}</text><text class="muted">{{sum.bigLabel}}</text><text class="meta" wx:if="{{sum.line}}">{{sum.line}}</text>
+    <view class="cal" wx:if="{{cal.length}}"><view wx:for="{{cal}}" wx:for-item="c" wx:key="k" class="cell {{c.c}}"></view></view></view>
+  <view class="panel" wx:if="{{wrongList.length}}"><text class="eyebrow">To review{{mode === 'review' ? ' · back tomorrow' : ''}}</text>
+    <view wx:for="{{wrongList}}" wx:for-item="w" wx:key="index" class="wl"><text class="chip bad">{{w.tag}}</text><view class="meta">{{w.text}}</view></view></view>
+  <view class="panel" wx:if="{{mode === 'toefl'}}"><text class="eyebrow">Your answers</text>
+    <view class="dots"><view wx:for="{{dots}}" wx:for-item="d" wx:key="i" class="dot {{d.c}}" data-i="{{d.i}}" bindtap="rgoto">{{d.i + 1}}</view></view>
+    <view class="btn" data-i="0" bindtap="rgoto">Review all with explanations</view></view>
+  <view class="row"><view class="ghost flex1" bindtap="back">Back</view><view class="btn flex1" wx:if="{{sum.canResult}}" bindtap="toResult">See results</view><view class="btn flex1" wx:if="{{mode === 'review'}}" bindtap="copyDay">Copy check-in</view></view>
+</view>

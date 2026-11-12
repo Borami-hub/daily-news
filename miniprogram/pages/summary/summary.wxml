@@ -1,0 +1,48 @@
+<view class="wrap" wx:if="{{ready}}">
+  <view><view class="eyebrow">Step 5 · Summary</view><view class="h2">Prose summary</view>
+    <view class="meta">Complete the summary by choosing the THREE statements that express the most important ideas. Some statements are minor details, are not in the article, or contradict it.</view></view>
+  <view class="panel sumbox">
+    <view class="intro">{{intro}}</view>
+    <view wx:for="{{slots}}" wx:for-item="x" wx:key="index" class="sslot {{x.t ? 'filled' : ''}} {{x.st}}" data-i="{{x.i}}" bindtap="unpick">
+      <block wx:if="{{x.t}}"><text class="bul">•</text><text class="flex1">{{x.t}}</text><text wx:if="{{!checked}}" class="x">×</text></block>
+      <text wx:else class="meta">Tap a statement below to add it here</text>
+    </view>
+    <block wx:if="{{checked}}"><view class="spread"><text class="h3">Score</text><text class="h2">{{pts}} / 2</text></view><view class="meta">TOEFL scoring: 3 correct = 2 points, 2 correct = 1 point, fewer = 0.</view></block>
+    <view wx:else class="btn {{n < 3 ? 'dim' : ''}}" bindtap="check">Check · {{n}}/3</view>
+  </view>
+  <view class="eyebrow">{{checked ? 'All six statements' : 'Statements'}}</view>
+  <view class="stmts">
+    <block wx:for="{{list}}" wx:for-item="o" wx:key="i">
+      <view wx:if="{{!checked}}" class="stmt" data-i="{{o.i}}" bindtap="pick"><text class="flex1">{{o.t}}</text><text class="add">＋</text></view>
+      <view wx:else class="stmt done {{o.ok ? 'r' : o.on ? 'w' : ''}}">
+        <view class="row"><text class="tchip {{o.tc}}">{{o.type}}</text><text class="you" wx:if="{{o.on}}">you chose this</text></view>
+        <text>{{o.t}}</text>
+        <view class="spread"><text class="meta flex1">{{o.why}}</text><text wx:if="{{o.para}}" class="link" data-i="{{o.i}}" bindtap="ev">Show in article ›</text></view>
+      </view>
+    </block>
+  </view>
+  <block wx:if="{{checked}}">
+    <view class="panel">
+      <text class="eyebrow">Part 2 · Say it in your own words</text>
+      <view class="h3">Write a 1–2 sentence summary of the whole article (40 words or fewer).</view>
+      <textarea class="ta short" value="{{own}}" disabled="{{compared}}" placeholder="In your own words…" maxlength="-1" auto-height bindinput="onOwn"/>
+      <text class="meta" style="color:{{wcColor}}">{{words}} / 40 words</text>
+      <view wx:if="{{!compared}}" class="btn" bindtap="compare">Compare with the model</view>
+      <block wx:else>
+        <view class="model"><text class="eyebrow">Model summary</text><view class="serif mt"><text wx:for="{{model}}" wx:for-item="m" wx:key="index" class="{{m.b ? 'tw' : ''}}">{{m.t}}</text></view><text class="meta">Transition words are in bold.</text></view>
+        <text class="eyebrow">Check your own summary</text>
+        <view wx:for="{{checks}}" wx:for-item="c" wx:key="index" class="chk" data-i="{{index}}" bindtap="chk"><text class="cb {{c.on ? 'on' : ''}}">{{c.on ? '✓' : ''}}</text><text class="flex1">{{c.c}}</text></view>
+        <view class="row"><view class="ghost" bindtap="edit">Edit my summary</view><view class="btn flex1" bindtap="done">Done</view></view>
+      </block>
+    </view>
+    <view class="row"><view class="ghost" bindtap="redo">Redo the statements</view></view>
+  </block>
+</view>
+<block wx:if="{{sheet}}">
+  <view class="sheet-bg" bindtap="close"></view>
+  <view class="sheet" style="border-top-color:var(--hl)">
+    <view class="spread"><text class="kind">{{sheet.type}}</text><text class="chip">Paragraph {{sheet.para}}</text></view>
+    <view class="serif sp"><text wx:for="{{sheet.segs}}" wx:for-item="g" wx:key="index" class="{{g.hl ? 'mark' : ''}}">{{g.t}}</text></view>
+    <view class="ghost" bindtap="close">Close</view>
+  </view>
+</block>

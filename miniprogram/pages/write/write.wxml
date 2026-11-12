@@ -1,0 +1,15 @@
+<view class="wrap" wx:if="{{wr}}">
+  <view><view class="eyebrow">Step 7 · Write</view><view class="h2">Think critically</view></view>
+  <view class="panel">
+    <text class="eyebrow">Task</text>
+    <view class="task">{{wr.prof}}</view>
+    <view wx:for="{{wr.students}}" wx:for-item="s" wx:key="index" class="stu"><text class="who">{{s.who}}</text><text>{{s.say}}</text></view>
+    <text class="eyebrow">Plan</text>
+    <view wx:for="{{wr.steps}}" wx:key="index" class="step"><text class="sn">{{index + 1}}</text><text class="flex1">{{item}}</text></view>
+  </view>
+  <view class="panel">
+    <textarea class="ta" value="{{text}}" placeholder="Write your answer here…" maxlength="-1" bindinput="onInput"/>
+    <view class="spread"><text class="meta" style="{{n >= wr.min ? 'color:var(--good)' : ''}}">{{n}} / {{wr.min}}+ words</text><text class="meta" wx:if="{{at}}">Submitted {{at}}</text></view>
+    <view class="row"><view class="btn flex1" bindtap="submit">Submit</view><view class="ghost" bindtap="copy">Copy for teacher</view></view>
+  </view>
+</view>

@@ -1,0 +1,20 @@
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20rpx; align-items: start; }
+.mmb { background: var(--surface); border: 4rpx solid; border-radius: 32rpx; padding: 20rpx; display: flex; flex-direction: column; gap: 12rpx; min-width: 0; }
+.mmh { display: flex; align-items: center; gap: 12rpx; }
+.mmn { width: 44rpx; height: 44rpx; border-radius: 50%; color: #fff; font-weight: 800; font-size: 24rpx; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.mmt { font-weight: 800; font-size: 28rpx; line-height: 1.2; }
+.mmp { font-size: 20rpx; font-weight: 700; letter-spacing: 2rpx; text-transform: uppercase; color: var(--muted); }
+.mslot { font-size: 25rpx; line-height: 1.35; border: 3rpx dashed; border-radius: 20rpx; padding: 14rpx 16rpx; color: var(--muted); }
+.mslot.filled { border-style: solid; color: var(--ink); font-weight: 600; }
+.mslot.sel { box-shadow: 0 0 0 6rpx #bfe3e0; }
+.mslot.right { border-color: var(--good) !important; background: var(--goodbg); }
+.mslot.wrong { background: var(--badbg); color: var(--bad); }
+.mslot.fixed { border-color: var(--amber) !important; }
+.mk.ok { color: var(--good); }
+.fixline { color: var(--good); font-weight: 600; margin-top: 6rpx; }
+.more { font-size: 24rpx; font-weight: 700; }
+.center { align-self: center; width: 78%; background: var(--ink); color: #fff; border-radius: 44rpx; padding: 28rpx 32rpx; text-align: center; }
+.core { font-size: 36rpx; font-weight: 800; } .q { font-size: 24rpx; color: #b9d3d8; margin-top: 6rpx; }
+.pool { display: flex; flex-wrap: wrap; gap: 14rpx; }
+.pchip { border: 3rpx solid var(--line); background: var(--surface); border-radius: 999rpx; padding: 14rpx 24rpx; font-size: 26rpx; }
+.pchip.used { opacity: .25; }

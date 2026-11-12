@@ -1,0 +1,11 @@
+{
+  "description": "每日精读 mini program",
+  "miniprogramRoot": "./",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "daily-news",
+  "libVersion": "3.4.0",
+  "setting": { "es6": true, "enhance": true, "postcss": true, "minified": true, "urlCheck": true },
+  "condition": {},
+  "editorSetting": { "tabIndent": "insertSpaces", "tabSize": 2 }
+}

@@ -1,0 +1,10 @@
+<view class="wrap" wx:if="{{none}}"><view class="panel">No results yet. Finish Questions and Summary first.</view></view>
+<view class="wrap" wx:elif="{{r}}">
+  <view><view class="eyebrow">Results · {{r.at}}</view><view class="h2">{{r.title}}</view></view>
+  <view class="panel">
+    <view class="row nowrap"><text class="big" style="font-size:100rpx">{{r.overall}}%</text><view><view class="stars" style="font-size:40rpx">{{r.stars}}</view><view class="meta">6 questions + 2 summary points</view></view></view>
+    <view class="grid3"><view><text class="meta">Questions</text><text class="v">{{r.q}}</text></view><view><text class="meta">Summary</text><text class="v">{{r.s}}</text></view><view><text class="meta">Mind map</text><text class="v">{{r.m}}</text></view></view>
+  </view>
+  <view class="panel"><text class="eyebrow">What to work on</text><view wx:for="{{tips}}" wx:key="index" class="tip"><view class="tdot"></view><text class="flex1">{{item}}</text></view></view>
+  <view class="row"><view class="ghost" bindtap="retake">Retry questions</view><view class="btn flex1" bindtap="copy">Copy results for teacher</view></view>
+</view>

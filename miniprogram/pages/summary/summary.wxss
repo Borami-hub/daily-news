@@ -1,0 +1,22 @@
+.sumbox { border: 4rpx solid var(--ink); }
+.intro { font-weight: 700; font-size: 32rpx; line-height: 1.45; }
+.sslot { display: flex; gap: 14rpx; border: 3rpx dashed var(--line); border-radius: 20rpx; padding: 20rpx 24rpx; font-size: 28rpx; line-height: 1.45; background: var(--bg); min-height: 44rpx; }
+.sslot.filled { border-style: solid; border-color: var(--accent); background: var(--soft); }
+.sslot.right { border-color: var(--good); background: var(--goodbg); } .sslot.wrong { border-color: var(--bad); background: var(--badbg); }
+.bul { color: var(--accent); font-weight: 800; } .x { color: var(--muted); font-size: 36rpx; line-height: 1; }
+.stmts { display: flex; flex-direction: column; gap: 16rpx; }
+.stmt { display: flex; gap: 20rpx; align-items: flex-start; border: 2rpx solid var(--line); background: var(--surface); border-radius: 20rpx; padding: 22rpx 24rpx; font-size: 28rpx; line-height: 1.45; }
+.stmt.done { flex-direction: column; gap: 12rpx; }
+.stmt.r { border-color: var(--good); } .stmt.w { border-color: var(--bad); background: var(--badbg); }
+.add { color: var(--accent); font-weight: 800; font-size: 36rpx; line-height: 1; }
+.tchip { font-size: 22rpx; font-weight: 800; border-radius: 999rpx; padding: 4rpx 18rpx; text-transform: uppercase; letter-spacing: 1rpx; }
+.tchip.good { background: var(--goodbg); color: var(--good); } .tchip.bad { background: var(--badbg); color: var(--bad); } .tchip.amber { background: #fdf0d5; color: var(--amber); }
+.link { color: var(--accent); font-weight: 700; font-size: 26rpx; white-space: nowrap; }
+.model { background: var(--soft); border-radius: 20rpx; padding: 24rpx; display: flex; flex-direction: column; gap: 12rpx; }
+.mt { font-size: 32rpx; line-height: 1.7; } .tw { color: var(--accent); font-weight: 700; }
+.chk { display: flex; gap: 16rpx; font-size: 28rpx; padding: 8rpx 0; align-items: flex-start; }
+.cb { width: 40rpx; height: 40rpx; border: 3rpx solid var(--line); border-radius: 10rpx; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 26rpx; flex-shrink: 0; }
+.cb.on { background: var(--good); border-color: var(--good); }
+.kind { font-size: 24rpx; font-weight: 800; letter-spacing: 2rpx; text-transform: uppercase; color: var(--hl); }
+.sp { font-size: 31rpx; line-height: 1.7; }
+.dim { opacity: .4; }

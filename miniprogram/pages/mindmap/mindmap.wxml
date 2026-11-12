@@ -1,0 +1,41 @@
+<template name="branch">
+  <view class="mmb" style="border-color:{{b.c}}" data-b="{{b.bi}}" bindtap="open">
+    <view class="mmh"><text class="mmn" style="background:{{b.c}}">{{b.bi + 1}}</text><text class="mmt" style="color:{{b.c}}">{{b.title}}</text></view>
+    <text class="mmp">Para {{b.paras}}</text>
+    <view wx:for="{{b.slots}}" wx:for-item="x" wx:key="k" class="mslot {{x.fill ? 'filled' : ''}} {{x.state}} {{sel === x.k ? 'sel' : ''}}" style="border-color:{{x.state === 'right' ? '' : b.c}};{{x.fill && !x.state ? 'background:' + b.t : ''}}" data-k="{{x.k}}" catchtap="slot">
+      <text wx:if="{{x.state === 'right'}}" class="mk ok">✓ </text><text wx:if="{{x.state === 'wrong'}}" class="mk">✗ </text>{{x.fill || 'tap to fill'}}
+      <view wx:if="{{x.state === 'wrong'}}" class="fixline">→ {{x.answer}}</view>
+    </view>
+    <text wx:if="{{checked}}" class="more" style="color:{{b.c}}">Key point ›</text>
+  </view>
+</template>
+<view class="wrap" wx:if="{{mm}}">
+  <view><view class="eyebrow">Step 4 · Mind map</view><view class="h2">Map the article</view><view class="meta">Tap an empty box, then tap the phrase that belongs there. Watch out: two phrases are traps.</view></view>
+  <view class="grid">
+    <template is="branch" data="{{b: branches[0], sel, checked}}"/>
+    <template is="branch" data="{{b: branches[1], sel, checked}}"/>
+  </view>
+  <view class="center"><view class="core">{{mm.center}}</view><view class="q">{{mm.question}}</view></view>
+  <view class="grid">
+    <template is="branch" data="{{b: branches[2], sel, checked}}"/>
+    <template is="branch" data="{{b: branches[3], sel, checked}}"/>
+  </view>
+  <view class="panel" wx:if="{{!checked}}">
+    <view class="spread"><text class="eyebrow">Phrase bank</text><text class="meta">{{left}} left</text></view>
+    <view class="pool"><text wx:for="{{pool}}" wx:for-item="p" wx:key="i" class="pchip {{p.used ? 'used' : ''}}" data-i="{{p.i}}" bindtap="chip">{{p.t}}</text></view>
+    <view class="btn" bindtap="check">Check my map</view>
+  </view>
+  <view class="panel" wx:else>
+    <view class="spread"><text class="h3">Score</text><text class="h2">{{score}}</text></view>
+    <view class="meta">Traps: {{traps}}. Tap any branch to see its key point.</view>
+    <view class="row"><view class="ghost" bindtap="show">Show answers</view><view class="ghost" bindtap="retry">Try again</view><view class="btn" bindtap="back">Done</view></view>
+  </view>
+</view>
+<block wx:if="{{sheet}}">
+  <view class="sheet-bg" bindtap="close"></view>
+  <view class="sheet" style="border-top-color:{{sheet.b.c}}">
+    <view class="spread"><text class="h3" style="color:{{sheet.b.c}}">{{sheet.b.bi + 1}}. {{sheet.b.title}}</text><text class="chip">Para {{sheet.b.paras}}</text></view>
+    <view wx:for="{{sheet.facts}}" wx:key="index" class="sfact" style="background:{{sheet.b.t}}">{{item}}</view>
+    <view class="row"><text class="say" bindtap="sayPara">🔊 Listen to paragraph {{sheet.pn}}</text><view class="ghost flex1" bindtap="close">Close</view></view>
+  </view>
+</block>

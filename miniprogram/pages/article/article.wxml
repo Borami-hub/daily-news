@@ -1,0 +1,20 @@
+<view class="wrap" wx:if="{{a}}">
+  <view class="hero" style="border-top-color:{{a.color}}">
+    <text class="topic" style="color:{{a.color}}">{{a.topic}}</text>
+    <view class="h2">{{a.title}}</view>
+    <view class="meta">{{a.meta}}</view>
+    <view class="bar"><view class="fill" style="width:{{n / 8 * 100}}%"></view></view>
+    <text class="meta">{{n}}/8 steps done</text>
+  </view>
+  <view class="list">
+    <view wx:for="{{mods}}" wx:for-item="m" wx:key="key" class="item mod {{index === 0 ? 'first' : ''}} {{m.done ? 'done' : ''}} {{m.next ? 'next' : ''}}" data-key="{{m.key}}" bindtap="open">
+      <text class="no">{{m.done ? '✓' : m.no}}</text>
+      <view class="flex1"><view class="h3">{{m.title}}</view><view class="meta">{{m.sub}}</view></view>
+      <text class="chip" wx:if="{{m.next}}">Next</text>
+      <text class="go">›</text>
+    </view>
+  </view>
+  <view class="meta">Sources (tap to copy the link):</view>
+  <view class="meta src" wx:for="{{a.sources}}" wx:for-item="s" wx:key="url" data-url="{{s.url}}" bindtap="copySrc">{{s.name}}</view>
+  <view class="meta">Article rewritten for C1 learners.</view>
+</view>

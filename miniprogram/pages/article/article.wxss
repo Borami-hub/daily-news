@@ -1,0 +1,5 @@
+.hero { background: var(--surface); border: 2rpx solid var(--line); border-top: 8rpx solid; border-radius: 24rpx; padding: 32rpx; display: flex; flex-direction: column; gap: 16rpx; }
+.topic { font-size: 22rpx; font-weight: 700; letter-spacing: 2rpx; text-transform: uppercase; }
+.no { width: 60rpx; height: 60rpx; border-radius: 50%; background: var(--soft); color: var(--accent); font-weight: 800; display: flex; align-items: center; justify-content: center; font-size: 26rpx; flex-shrink: 0; }
+.mod.done .no { background: var(--good); color: #fff; } .mod.next .no { background: var(--accent); color: #fff; }
+.src { color: var(--accent); text-decoration: underline; }

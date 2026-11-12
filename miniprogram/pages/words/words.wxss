@@ -1,0 +1,10 @@
+.card { align-items: center; text-align: center; padding: 48rpx 32rpx; }
+.word { font-size: 84rpx; font-weight: 800; line-height: 1.1; } .word.long { font-size: 60rpx; }
+.center { justify-content: center; } .ipa { font-size: 32rpx; }
+.syl { display: flex; gap: 10rpx; justify-content: center; flex-wrap: wrap; }
+.syl .s { border: 2rpx solid var(--line); border-radius: 12rpx; padding: 6rpx 18rpx; font-weight: 700; font-size: 30rpx; }
+.syl .s.odd { color: var(--accent); }
+.def { font-size: 34rpx; font-weight: 700; line-height: 1.45; }
+.hit { color: var(--accent); font-weight: 700; }
+.ctxt { font-size: 30rpx; line-height: 1.7; } .big2 { font-size: 32rpx; }
+.nowrap { flex-wrap: nowrap; } .dim { opacity: .4; }

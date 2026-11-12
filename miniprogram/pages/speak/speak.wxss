@@ -1,0 +1,2 @@
+.rbtn { background: var(--accent); color: #fff; border-radius: 999rpx; padding: 18rpx 34rpx; font-size: 28rpx; font-weight: 600; }
+.rbtn.live { background: var(--bad); }
