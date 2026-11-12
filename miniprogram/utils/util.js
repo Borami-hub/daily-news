@@ -4,56 +4,55 @@ const config = require('../config.js');
 const TOPIC = { Economy: '#b35c00', Nature: '#2f9e44', Animals: '#5c940d', Geography: '#1971c2', Space: '#3b5bdb', Environment: '#2b8a3e', Health: '#c2410c', Technology: '#7048e8', Society: '#0b7285', Culture: '#a61e4d', Science: '#0b7a75' };
 const topicColor = t => TOPIC[t] || '#0b7a75';
 
-// Audio: cloud file IDs are turned into https temp URLs (more reliable than giving the player a cloud:// ID),
-// cached for the session. Errors show the reason so problems can be diagnosed on the phone.
+// Audio: each mp3 is downloaded from cloud storage with wx.cloud.downloadFile (the same way the lessons load,
+// so no domain whitelist is needed) and played from the local temp file. Files are cached for the session.
 let player = null, queue = [], onStep = null, onStop = null, token = 0;
-const urlCache = {};
+const fileCache = {};
 function getPlayer() {
   if (player) return player;
   player = wx.createInnerAudioContext({ useWebAudioImplement: false });
   try { wx.setInnerAudioOption({ obeyMuteSwitch: false, mixWithOther: true }); } catch (e) {}
-  player.onEnded(() => {
-    if (queue.length) { const n = queue.shift(); player.src = n.url; player.play(); if (onStep) onStep(n.i); }
-    else { const f = onStop; onStep = onStop = null; if (f) f(); }
-  });
+  player.onEnded(() => next());
   player.onError(err => { wx.showToast({ title: 'Audio error ' + (err && err.errCode != null ? err.errCode : ''), icon: 'none' }); console.error('audio error', err, player.src); stop(); });
   return player;
 }
 const idOf = text => { const p = getApp().globalData.audio[text]; return p ? config.PREFIX + p : ''; };
-function toUrls(ids) {
-  const need = ids.filter(id => !urlCache[id]);
-  if (!need.length) return Promise.resolve(ids.map(id => urlCache[id]));
-  const batches = [];
-  for (let i = 0; i < need.length; i += 50) batches.push(need.slice(i, i + 50));
-  return Promise.all(batches.map(b => wx.cloud.getTempFileURL({ fileList: b }).then(r => {
-    (r.fileList || []).forEach(f => { if (f.tempFileURL) urlCache[f.fileID] = f.tempFileURL; else console.error('temp url failed', f); });
-  }))).then(() => ids.map(id => urlCache[id] || ''));
+function local(id) {
+  if (!fileCache[id]) {
+    fileCache[id] = new Promise((resolve, reject) => wx.cloud.downloadFile({
+      fileID: id, success: r => resolve(r.tempFilePath),
+      fail: e => { delete fileCache[id]; console.error('audio download failed', id, e); reject(e); }
+    }));
+  }
+  return fileCache[id];
+}
+function playFile(my, item) {
+  return local(item.id).then(path => {
+    if (my !== token) return;
+    const p = getPlayer(); p.src = path; p.play();
+    if (onStep && item.i != null) onStep(item.i);
+  });
+}
+function fail(e) { wx.showToast({ title: 'Audio download failed', icon: 'none' }); console.error(e); stop(); }
+function next() {
+  if (!queue.length) { const f = onStop; onStep = onStop = null; if (f) f(); return; }
+  const my = token, item = queue.shift();
+  if (queue[0]) local(queue[0].id).catch(() => {}); // fetch the one after next in the background
+  playFile(my, item).catch(fail);
 }
 function speak(text) {
   stop();
   const id = idOf(text);
   if (!id) { wx.showToast({ title: 'No audio for this', icon: 'none' }); return; }
-  const my = ++token;
-  toUrls([id]).then(([url]) => {
-    if (my !== token) return;
-    if (!url) return wx.showToast({ title: 'Audio file not found', icon: 'none' });
-    const p = getPlayer(); p.src = url; p.play();
-  }).catch(e => { console.error('getTempFileURL', e); wx.showToast({ title: 'Audio load failed', icon: 'none' }); });
+  playFile(++token, { id }).catch(fail);
 }
 // texts: array of strings; stepCb(i) fires as each one starts; doneCb when finished or stopped
 function playAll(texts, stepCb, doneCb) {
   stop();
   const items = texts.map((t, i) => ({ i, id: idOf(t) })).filter(x => x.id);
   if (!items.length) { wx.showToast({ title: 'No audio for this', icon: 'none' }); return false; }
-  const my = ++token; onStep = stepCb; onStop = doneCb;
-  toUrls(items.map(x => x.id)).then(urls => {
-    if (my !== token) return;
-    items.forEach((x, k) => { x.url = urls[k]; });
-    const ok = items.filter(x => x.url);
-    if (!ok.length) { wx.showToast({ title: 'Audio file not found', icon: 'none' }); return stop(); }
-    const p = getPlayer(); const first = ok.shift(); queue = ok;
-    p.src = first.url; p.play(); if (onStep) onStep(first.i);
-  }).catch(e => { console.error('getTempFileURL', e); wx.showToast({ title: 'Audio load failed', icon: 'none' }); stop(); });
+  ++token; onStep = stepCb; onStop = doneCb; queue = items;
+  next();
   return true;
 }
 function stop() {
