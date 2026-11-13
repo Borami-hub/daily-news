@@ -53,7 +53,7 @@ def main(day_path):
             lang = "en-gb" if v.startswith("b") else "en-us"
             samples, sr = k.create(text, voice=v, speed=speed, lang=lang)
             sf.write("_tmp.wav", samples, sr)
-            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "_tmp.wav", "-ac", "1", "-b:a", "48k", path], check=True)
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "_tmp.wav", "-ar", "44100", "-ac", "1", "-b:a", "64k", path], check=True)
         amap[text] = path
 
     for ai, a in enumerate(day["articles"], 1):
