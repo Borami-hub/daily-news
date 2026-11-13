@@ -30,6 +30,13 @@ jobs:
           else
             echo "list=$(git diff --name-only --diff-filter=AM "$BEFORE" "${{ github.sha }}" -- content | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           fi
+      - name: Make sure audio plays on phones (44.1 kHz mp3)
+        run: |
+          command -v ffmpeg >/dev/null || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
+          find content/audio -name '*.mp3' | while read -r f; do
+            sr=$(ffprobe -v error -select_streams a:0 -show_entries stream=sample_rate -of csv=p=0 "$f")
+            if [ "$sr" != "44100" ]; then ffmpeg -v error -y -i "$f" -ar 44100 -ac 1 -b:a 64k "$f.tmp.mp3" && mv "$f.tmp.mp3" "$f" && echo "re-encoded $f"; fi
+          done
       - name: Upload
         env:
           WX_APPID: ${{ secrets.WX_APPID }}
