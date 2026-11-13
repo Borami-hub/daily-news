@@ -1,0 +1,2035 @@
+{
+ "date": "2026-11-13",
+ "headline": "A summit, a DNA model and plastic in the wild: what counts as proof?",
+ "teaser": "Can 21 economies agree on anything big? Should we trust an AI that reads DNA before anyone checks it? And should we act on plastic before we know it harms wildlife?",
+ "articles": [
+  {
+   "id": "n20261113-1",
+   "topic": "Society",
+   "title": "Shenzhen Hosts APEC: Can a Club of 21 Still Agree?",
+   "dek": "As Asia-Pacific leaders gather in Shenzhen, can a forum that needs every member's approval still deliver results that matter?",
+   "sources": [
+    {
+     "name": "CGTN, Nov 12, 2026",
+     "url": "https://news.cgtn.com/news/2026-11-12/What-to-watch-as-Shenzhen-prepares-to-host-APEC-leaders-1S0RYXsxm4o/p.html"
+    },
+    {
+     "name": "Reuters via Investing.com, Nov 8, 2026",
+     "url": "https://www.investing.com/news/economy-news/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit-5010387"
+    },
+    {
+     "name": "APEC Secretariat, Nov 3, 2026",
+     "url": "https://www.apec.org/press/news-releases/2026/apec-advances-trade--ai-cooperation-ahead-of-leaders--week"
+    }
+   ],
+   "paras": [
+    "Next week, the southern Chinese city of Shenzhen will become the meeting place of the Asia-Pacific. Leaders' Week of the Asia-Pacific Economic Cooperation forum, better known as APEC, begins on November 14, and the leaders of its 21 member economies are due to meet on November 18 and 19. It is the third time China has hosted the forum, after Shanghai in 2001 and Beijing in 2014. Together, APEC's members are home to roughly three billion people and produce more than 60 percent of the world's economic output, so the decisions taken in Shenzhen could, at least in theory, affect almost everyone.",
+    "APEC is an unusual organization. It was founded in 1989 to encourage trade and investment around the Pacific Rim, and its members are called \"economies\" rather than countries, which reflects the forum's focus on economic rather than political questions. Unlike the World Trade Organization, APEC cannot force its members to do anything. Its agreements are voluntary and must be reached by consensus, meaning that every member has to accept the final text. Supporters see this as a strength, because nobody is pushed into a commitment it cannot keep. Critics see it as a weakness, because the need for unanimous approval often reduces bold plans to cautious promises.",
+    "This year's host has chosen the theme \"Building an Asia-Pacific Community to Prosper Together,\" built around three priorities: openness, innovation and cooperation. On trade, officials have been working toward a long-discussed Free Trade Area of the Asia-Pacific, and they have set up a center to promote paperless trade. According to APEC research, replacing paper trade documents with digital ones could cut the cost of trade transactions by about 5.8 percent, a saving that would matter most to small exporters with limited staff and budgets. Such practical, technical steps rarely make headlines, yet they are where the forum has often been most effective.",
+    "Artificial intelligence is the other major item. APEC has adopted an AI Initiative for 2026 to 2030, and leaders are expected to discuss how the benefits of the technology can be shared. Here the gap between members is wide. \"The benefits are very much going to those economies that are ready to embrace AI,\" Carlos Kuriyama of APEC's Policy Support Unit told reporters. Economies with advanced chip industries, strong digital skills and plentiful data could pull further ahead, while smaller and poorer members risk being left behind. Business leaders attending the event have called for fewer cross-border barriers, but export controls on advanced chips and strict data rules make such cooperation politically difficult.",
+    "The summit also takes place against a tense global background. APEC expects the region's economy to grow by 3.4 percent in 2026, slightly faster than last year, but it also forecasts that inflation will rise from 2.4 percent to 3.2 percent, partly because of high energy prices. US President Donald Trump has said he expects to meet Chinese President Xi Jinping, and possibly Russian President Vladimir Putin, in Shenzhen. Because the leaders of the world's two largest economies rarely meet face to face, many observers will pay more attention to these side meetings than to the official program.",
+    "Opinions differ on what the summit can realistically achieve. Optimists argue that APEC's size is its value: as a multilateral forum with 21 members, it gives middle-sized and smaller economies a voice and makes a simple deal between great powers less likely. They also point out that informal conversations on the sidelines can reduce misunderstandings even when no agreement is signed. Skeptics reply that the forum's declarations are often vague, and that reports suggest major trade outcomes may be saved for the Group of 20 summit instead. In their view, the meeting may turn out to be more symbolic than substantial.",
+    "Perhaps both views contain some truth. A forum that relies on consensus is unlikely to solve the hardest disputes between its most powerful members, but it can still make steady progress on less dramatic problems, such as customs paperwork or digital skills training. Whether Shenzhen is remembered as a success may therefore depend on what people expect from it: a breakthrough on the world's biggest conflicts, or a series of small, practical steps that make trade a little cheaper and cooperation a little easier."
+   ],
+   "words": [
+    {
+     "w": "consensus",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˈsensəs/",
+     "syl": [
+      "con",
+      "sen",
+      "sus"
+     ],
+     "def": "general agreement among all the members of a group",
+     "ex": "After a long discussion, the class reached a consensus on where to go for the school trip."
+    },
+    {
+     "w": "unanimous",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/juˈnænɪməs/",
+     "syl": [
+      "u",
+      "nan",
+      "i",
+      "mous"
+     ],
+     "def": "agreed by everyone in a group, with no one against",
+     "ex": "The decision to plant more trees on campus was unanimous."
+    },
+    {
+     "w": "voluntary",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈvɑːlənteri/",
+     "syl": [
+      "vol",
+      "un",
+      "tar",
+      "y"
+     ],
+     "def": "done because you choose to, not because a rule forces you",
+     "ex": "Joining the weekend reading club is voluntary, but most students take part."
+    },
+    {
+     "w": "transaction",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/trænˈzækʃn/",
+     "syl": [
+      "trans",
+      "ac",
+      "tion"
+     ],
+     "def": "an act of buying, selling or exchanging something, often involving money",
+     "ex": "Every transaction in the school shop is now recorded on a tablet."
+    },
+    {
+     "w": "embrace",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ɪmˈbreɪs/",
+     "syl": [
+      "em",
+      "brace"
+     ],
+     "def": "to accept a new idea, method or change with enthusiasm",
+     "ex": "Many older teachers were quick to embrace online lessons."
+    },
+    {
+     "w": "forecast",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈfɔːrkæst/",
+     "syl": [
+      "fore",
+      "cast"
+     ],
+     "def": "to say what you expect to happen in the future, based on information",
+     "ex": "Economists forecast that prices will keep rising next year."
+    },
+    {
+     "w": "multilateral",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌmʌltiˈlætərəl/",
+     "syl": [
+      "mul",
+      "ti",
+      "lat",
+      "er",
+      "al"
+     ],
+     "def": "involving three or more countries or groups",
+     "ex": "The climate deal was a multilateral agreement signed by nearly 200 countries."
+    },
+    {
+     "w": "sideline",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈsaɪdlaɪn/",
+     "syl": [
+      "side",
+      "line"
+     ],
+     "def": "(on the sidelines) in informal talks that happen next to an official event",
+     "ex": "The two ministers met on the sideline of the conference to discuss trade."
+    },
+    {
+     "w": "substantial",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/səbˈstænʃl/",
+     "syl": [
+      "sub",
+      "stan",
+      "tial"
+     ],
+     "def": "real and important, not just for show; also, large in amount",
+     "ex": "The new rules made a substantial difference to how safe the roads felt."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "It is the third time China has hosted the forum, after Shanghai in 2001 and Beijing in 2014.",
+     "kind": "Key details",
+     "note": "Dates and numbers like these are common targets for factual questions; note the order of the cities."
+    },
+    {
+     "para": 2,
+     "text": "Its agreements are voluntary and must be reached by consensus, meaning that every member has to accept the final text.",
+     "kind": "Topic sentence",
+     "note": "The word meaning introduces a definition; TOEFL often tests terms that the passage defines for you."
+    },
+    {
+     "para": 3,
+     "text": "Such practical, technical steps rarely make headlines, yet they are where the forum has often been most effective.",
+     "kind": "Author's view",
+     "note": "Yet shows the author's opinion: small steps matter more than they seem. Purpose questions often point here."
+    },
+    {
+     "para": 4,
+     "text": "Here the gap between members is wide.",
+     "kind": "Main idea",
+     "note": "A short sentence that states the paragraph's main problem; the rest of the paragraph gives evidence."
+    },
+    {
+     "para": 6,
+     "text": "Opinions differ on what the summit can realistically achieve.",
+     "kind": "Topic sentence",
+     "note": "This signals two sides: look for optimists and skeptics in the sentences that follow."
+    },
+    {
+     "para": 7,
+     "text": "Perhaps both views contain some truth.",
+     "kind": "Hedging",
+     "note": "Perhaps softens the claim; the author balances the two views instead of choosing one."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, how is APEC different from the World Trade Organization?",
+     "opts": [
+      "Its members must accept decisions made by a majority vote.",
+      "It has no power to make members follow its agreements.",
+      "It was set up mainly to settle members' political disputes.",
+      "It allows only fully independent countries to join it."
+     ],
+     "a": 1,
+     "why": "The paragraph says APEC \"cannot force its members to do anything\" and that its agreements are voluntary. Option B restates this.",
+     "evidence": "Unlike the World Trade Organization, APEC cannot force its members to do anything.",
+     "optWhy": [
+      "Contradicts the text. APEC needs consensus: \"every member has to accept the final text\", not just a majority.",
+      "Correct. \"cannot force its members to do anything\" = \"has no power to make members follow its agreements\".",
+      "Contradicts the text. APEC was founded \"to encourage trade and investment\" and focuses on \"economic rather than political questions\".",
+      "Contradicts the text. Its members are called \"economies\" rather than countries, so this restriction is the opposite of what is described."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Unlike the World Trade Organization, APEC cannot force its members to do anything.",
+       "hl": "cannot force its members to do anything"
+      },
+      {
+       "para": 2,
+       "text": "Its agreements are voluntary and must be reached by consensus, meaning that every member has to accept the final text.",
+       "hl": "every member has to accept the final text"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Go to paragraph 2 and scan for \"World Trade Organization\"."
+      },
+      {
+       "t": "Match the key words",
+       "x": "\"Unlike\" signals the difference: APEC \"cannot force\" members, and its agreements are \"voluntary\"."
+      },
+      {
+       "t": "Check and rule out",
+       "x": "A ignores consensus, C and D contradict what the paragraph says about trade and \"economies\"."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 3,
+     "q": "Why does the author mention that digital trade documents could cut costs by about 5.8 percent?",
+     "opts": [
+      "To show that APEC's trade plans are too costly for small exporters",
+      "To argue that the planned free trade area has already been completed",
+      "To compare APEC's results with those of the World Trade Organization",
+      "To illustrate the practical value of a technical trade measure"
+     ],
+     "a": 3,
+     "why": "The figure is an example of a small, technical step with a real benefit; the author then says such steps are \"where the forum has often been most effective\".",
+     "evidence": "could cut the cost of trade transactions by about 5.8 percent",
+     "optWhy": [
+      "Cause reversed. The text says the saving \"would matter most to small exporters\"; it helps them rather than costing them.",
+      "Not in the text. Officials are only \"working toward\" the free trade area; nothing says it is complete.",
+      "Wrong paragraph. The WTO comparison is in paragraph 2 and is about enforcement, not costs.",
+      "Correct. The number shows a concrete benefit, and the next sentence calls these \"practical, technical steps\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "According to APEC research, replacing paper trade documents with digital ones could cut the cost of trade transactions by about 5.8 percent, a saving that would matter most to small exporters with limited staff and budgets.",
+       "hl": "a saving that would matter most to small exporters"
+      },
+      {
+       "para": 3,
+       "text": "Such practical, technical steps rarely make headlines, yet they are where the forum has often been most effective.",
+       "hl": "practical, technical steps"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask why, not what",
+       "x": "A purpose question asks what job the number does in the paragraph."
+      },
+      {
+       "t": "Read the next sentence",
+       "x": "\"Such practical, technical steps\" tells you the 5.8 percent figure is an example of a practical step."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the effect, B is not stated, C belongs to paragraph 2."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following could make AI cooperation among APEC members difficult EXCEPT",
+     "opts": [
+      "a lack of interest among business leaders at the event",
+      "export controls placed on the most advanced computer chips",
+      "strict rules about how data can be shared",
+      "large differences in how ready members are for AI"
+     ],
+     "a": 0,
+     "why": "Business leaders are described as wanting more cooperation (\"called for fewer cross-border barriers\"), so a lack of interest is not mentioned as a difficulty.",
+     "evidence": "Business leaders attending the event have called for fewer cross-border barriers",
+     "optWhy": [
+      "Correct. The text says the opposite: business leaders \"have called for fewer cross-border barriers\", so they are interested in cooperation.",
+      "Stated in the text: \"export controls on advanced chips\" make cooperation \"politically difficult\".",
+      "Stated in the text: \"strict data rules\" are listed as a barrier.",
+      "Stated in the text: \"the gap between members is wide\", and poorer members \"risk being left behind\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Business leaders attending the event have called for fewer cross-border barriers, but export controls on advanced chips and strict data rules make such cooperation politically difficult.",
+       "hl": "export controls on advanced chips and strict data rules"
+      },
+      {
+       "para": 4,
+       "text": "Here the gap between members is wide.",
+       "hl": "the gap between members is wide"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find three true answers",
+       "x": "In an EXCEPT question, three options are in the text; you are looking for the one that is not."
+      },
+      {
+       "t": "Tick them off",
+       "x": "Chips, data rules and the readiness gap all appear in paragraph 4."
+      },
+      {
+       "t": "Check the odd one",
+       "x": "Business leaders want fewer barriers, so \"lack of interest\" contradicts the text."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the economic outlook for the region?",
+     "opts": [
+      "The region's economy is expected to shrink during 2026.",
+      "Energy prices are the only reason that inflation is expected to rise.",
+      "Faster growth will not necessarily make conditions easier overall.",
+      "APEC expects inflation to fall as economic growth speeds up."
+     ],
+     "a": 2,
+     "why": "Growth is expected to rise slightly, \"but\" inflation is also forecast to rise. So better growth comes with a new problem: it does not mean everything improves.",
+     "evidence": "but it also forecasts that inflation will rise from 2.4 percent to 3.2 percent, partly because of high energy prices",
+     "optWhy": [
+      "Contradicts the text. The economy is expected \"to grow by 3.4 percent\", slightly faster than last year.",
+      "Too extreme. The text says \"partly because of high energy prices\", so energy is one reason, not the only one.",
+      "Correct. \"grow ... slightly faster\" + \"but ... inflation will rise\" → growth and rising prices together, so conditions are mixed.",
+      "Reversed. Inflation is forecast to rise \"from 2.4 percent to 3.2 percent\", not fall."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "APEC expects the region's economy to grow by 3.4 percent in 2026, slightly faster than last year, but it also forecasts that inflation will rise from 2.4 percent to 3.2 percent, partly because of high energy prices.",
+       "hl": "but it also forecasts that inflation will rise"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know what an inference is",
+       "x": "The answer goes one small step beyond the text, never against it."
+      },
+      {
+       "t": "Notice the contrast",
+       "x": "\"but\" links good news (growth) with bad news (inflation)."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and D contradict the numbers; B turns \"partly\" into \"only\"."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word \"substantial\" in paragraph 6 is closest in meaning to",
+     "opts": [
+      "meaningful in practice",
+      "large in physical size",
+      "carefully planned in advance",
+      "widely reported in the media"
+     ],
+     "a": 0,
+     "why": "\"Symbolic\" means important only as a sign; its opposite here is \"substantial\": producing real, practical results.",
+     "evidence": "the meeting may turn out to be more symbolic than substantial",
+     "optWhy": [
+      "Correct. \"more symbolic than substantial\" contrasts show with real results, so substantial = meaningful in practice.",
+      "Trap: another meaning of the word. A \"substantial meal\" is large, but a meeting cannot be large in physical size; the contrast is with \"symbolic\".",
+      "Not supported. Nothing in the sentence is about planning; the skeptics' complaint is that declarations are \"vague\".",
+      "Not supported. A meeting can be widely reported and still be only symbolic; that is not the contrast."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "In their view, the meeting may turn out to be more symbolic than substantial.",
+       "hl": "more symbolic than substantial"
+      },
+      {
+       "para": 6,
+       "text": "Skeptics reply that the forum's declarations are often vague, and that reports suggest major trade outcomes may be saved for the Group of 20 summit instead.",
+       "hl": "declarations are often vague"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"substantial\" in the last sentence of paragraph 6."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "\"more symbolic than substantial\": the word means the opposite of \"only a sign\"."
+      },
+      {
+       "t": "Test each option",
+       "x": "Put each option into the sentence; only \"meaningful in practice\" fits the skeptics' point."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "Because APEC relies on consensus, its strongest members can easily settle their disputes over customs rules.",
+      "APEC should stop working on small problems and focus fully on its members' most serious disputes.",
+      "Customs paperwork and digital skills training are the hardest problems for APEC's most powerful members.",
+      "Although consensus makes major disputes hard to solve, APEC can still advance on smaller practical issues."
+     ],
+     "a": 3,
+     "why": "The sentence has two parts: consensus makes the hardest disputes unlikely to be solved, but steady progress on less dramatic problems is still possible. Only D keeps both.",
+     "evidence": "A forum that relies on consensus is unlikely to solve the hardest disputes between its most powerful members, but it can still make steady progress on less dramatic problems",
+     "optWhy": [
+      "Changes the meaning. The sentence says the hardest disputes are \"unlikely\" to be solved, not \"easily\" settled.",
+      "Adds advice. The sentence describes what APEC can do; it does not say APEC should stop working on small problems.",
+      "Details swapped. Customs paperwork is an example of \"less dramatic problems\", not of the hardest disputes.",
+      "Correct. \"unlikely to solve the hardest disputes\" = \"hard to solve\"; \"steady progress on less dramatic problems\" = \"advance on smaller practical issues\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "A forum that relies on consensus is unlikely to solve the hardest disputes between its most powerful members, but it can still make steady progress on less dramatic problems, such as customs paperwork or digital skills training.",
+       "hl": "unlikely to solve the hardest disputes"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: consensus → hardest disputes unlikely to be solved. Part 2: but → progress on smaller problems."
+      },
+      {
+       "t": "Find both parts",
+       "x": "The right answer must keep the contrast \"although / but\" and both ideas."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses part 1, B adds advice, C swaps the examples."
+      }
+     ],
+     "highlight": "A forum that relies on consensus is unlikely to solve the hardest disputes between its most powerful members, but it can still make steady progress on less dramatic problems, such as customs paperwork or digital skills training."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261113-1-k1",
+     "tag": "Basics",
+     "fact": "APEC has 21 member economies, and its leaders meet in Shenzhen on November 18 and 19.",
+     "q": "How many member economies does APEC have?",
+     "opts": [
+      "21",
+      "20",
+      "60"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261113-1-k2",
+     "tag": "Rules",
+     "fact": "APEC agreements are voluntary and need consensus: every member must accept the final text.",
+     "q": "How are APEC agreements reached?",
+     "opts": [
+      "By majority vote",
+      "By consensus",
+      "By the host alone"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-1-k3",
+     "tag": "Trade",
+     "fact": "Digital trade documents could cut trade transaction costs by about 5.8 percent.",
+     "q": "What could cut trade costs by about 5.8 percent?",
+     "opts": [
+      "Lower taxes",
+      "Digital trade documents",
+      "Cheaper energy"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-1-k4",
+     "tag": "AI",
+     "fact": "AI benefits are going mostly to economies that are ready to embrace the technology.",
+     "q": "Who benefits most from AI, according to APEC?",
+     "opts": [
+      "Economies ready for AI",
+      "The smallest economies",
+      "All members equally"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261113-1-k5",
+     "tag": "Debate",
+     "fact": "Optimists value APEC's size and side talks; skeptics say its declarations are often vague.",
+     "q": "What do skeptics say about APEC's declarations?",
+     "opts": [
+      "They are too strict",
+      "They are often vague",
+      "They are legally binding"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "APEC in Shenzhen",
+    "question": "Can a consensus forum still deliver results?",
+    "branches": [
+     {
+      "title": "How APEC works",
+      "paras": "1–2",
+      "blanks": [
+       "21 member economies",
+       "agreements reached by consensus"
+      ],
+      "kps": [
+       "n20261113-1-k1",
+       "n20261113-1-k2"
+      ]
+     },
+     {
+      "title": "Main agenda",
+      "paras": "3–4",
+      "blanks": [
+       "paperless trade cuts costs",
+       "AI benefits unevenly shared"
+      ],
+      "kps": [
+       "n20261113-1-k3",
+       "n20261113-1-k4"
+      ]
+     },
+     {
+      "title": "Background",
+      "paras": "5",
+      "blanks": [
+       "inflation forecast to rise"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Two views",
+      "paras": "6–7",
+      "blanks": [
+       "gives smaller economies a voice",
+       "more symbolic than substantial"
+      ],
+      "kps": [
+       "n20261113-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "members vote by simple majority",
+     "APEC can punish members"
+    ]
+   },
+   "summary": {
+    "intro": "Leaders of APEC's 21 member economies meet in Shenzhen, where trade and AI top the agenda.",
+    "model": "Because APEC works by consensus, it rarely forces bold decisions. However, it can still make practical progress on issues such as paperless trade and AI, while observers disagree about whether the summit will be substantial or mostly symbolic.",
+    "options": [
+     {
+      "t": "APEC's agreements are voluntary and need the approval of every member, which can make plans more cautious.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "why": "Correct. This explains how APEC works and why its results are limited. (paragraph 2)",
+      "evidence": "the need for unanimous approval often reduces bold plans to cautious promises"
+     },
+     {
+      "t": "Trade digitalization and AI are the main topics, though AI's benefits are shared unevenly among members.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "why": "Correct. This covers the summit's two main agenda items. (paragraphs 3–4)",
+      "evidence": "Here the gap between members is wide."
+     },
+     {
+      "t": "Optimists value APEC's size and informal talks, while skeptics expect a mostly symbolic meeting.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "why": "Correct. This is the central debate of the passage. (paragraph 6)",
+      "evidence": "Opinions differ on what the summit can realistically achieve."
+     },
+     {
+      "t": "China previously hosted APEC in Shanghai in 2001 and in Beijing in 2014.",
+      "ok": false,
+      "type": "detail",
+      "para": 1,
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 1)",
+      "evidence": "after Shanghai in 2001 and Beijing in 2014"
+     },
+     {
+      "t": "APEC members have agreed to share all their AI chips with smaller economies.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "why": "Not mentioned in the passage.",
+      "evidence": ""
+     },
+     {
+      "t": "APEC can force members to follow its decisions, just like the World Trade Organization.",
+      "ok": false,
+      "type": "contra",
+      "para": 2,
+      "why": "Contradicts the passage: APEC cannot force its members to do anything. (paragraph 2)",
+      "evidence": "APEC cannot force its members to do anything"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think a group decision should be made only when everyone agrees. Others think the majority should decide so that the group can act quickly. Which approach do you prefer for making decisions in a class or club? Use specific reasons and an example.",
+    "hint": "State your choice → reason 1 (fairness / speed) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, leaders of APEC's 21 member economies meet in Shenzhen. APEC only makes decisions that every member accepts, so its agreements are voluntary. Some people say this makes the forum fair and stable; others say it makes the forum too weak to solve big problems. In your opinion, are international forums that work by consensus still useful today? Why or why not? (Lena says: Yes. Consensus means that every country, including small ones, has a voice, and countries are more likely to keep promises they freely agreed to.) (Marcus says: I disagree. When every member can block a decision, the final statement becomes so vague that nothing really changes. Big problems need faster and firmer action.)",
+    "steps": [
+     "Decide: consensus forums are useful, or too weak.",
+     "Give one reason, such as fairness to small members or slow decisions.",
+     "Add an example, such as a group project or a school rule.",
+     "Respond to Lena or Marcus, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261113-2",
+   "topic": "Technology",
+   "title": "AlphaGenome 2: Can AI Read Our DNA One Cell at a Time?",
+   "dek": "Google DeepMind's new model predicts how DNA changes affect individual cell types, but should we trust results that no one outside the company has checked yet?",
+   "sources": [
+    {
+     "name": "Google DeepMind blog, Nov 11, 2026",
+     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+     "name": "Implicator.ai, Nov 12, 2026",
+     "url": "https://www.implicator.ai/deepmind-alphagenome-2-cell-type-variants/"
+    }
+   ],
+   "paras": [
+    "Every cell in your body carries almost exactly the same DNA, yet a brain cell behaves very differently from a skin cell or an immune cell. The reason is that each type of cell switches different genes on and off. This creates a problem for scientists who study disease: a small change in someone's DNA, called a variant, might be harmless in most of the body but damaging in one particular type of cell. On November 11, Google DeepMind released AlphaGenome 2, an artificial intelligence model designed to predict exactly these cell-specific effects.",
+    "The original AlphaGenome, announced in 2025, could read long stretches of DNA and estimate how a variant would change gene activity, but its predictions were averaged across whole tissues such as the liver or the lungs. The new version is what researchers call a conditional model. A user gives it a sequence of up to one million DNA letters together with a chosen condition, such as a specific cell type or cell state, and the model predicts what happens in that condition alone. It was trained on bulk and single-cell data from humans and mice, including more than 100 million individual cell profiles from 68 tissues. It can also predict DNA methylation, a chemical tag that helps control whether genes are active, which the first version could not do.",
+    "DeepMind reports impressive gains. On a test built from a single-cell map of 28 types of immune cells, AlphaGenome 2 identified 30 percent of the variants thought to cause changes in gene activity, compared with 16 percent for the earlier model and other specialized tools. In one example, the model reproduced a published discovery about inflammatory bowel disease: a distant variant that overactivates a gene called ETS2 in particular gut immune cells. Perhaps most usefully, researchers can describe a new cell state by uploading gene-activity data from just a few dozen cells, without retraining the whole model. \"What makes AlphaGenome 2 exciting is how it adapts directly to new single-cell data without retraining,\" said Sarah Teichmann, a co-founder of the Human Cell Atlas.",
+    "Supporters believe tools like this could speed up medical research considerably. Large genetic studies have linked thousands of DNA variants to traits and illnesses, from height to type 2 diabetes, but in most cases nobody knows which variant actually matters, which gene it affects or in which cells. Testing every possibility in a laboratory would take decades and cost enormous sums. If a computer model can narrow thousands of candidates down to a short list, scientists can focus their expensive experiments on the most promising leads.",
+    "Yet there are good reasons for caution. The headline benchmark results come from DeepMind's own preprint, a paper that has not yet been peer reviewed, and no independent team has so far evaluated the new version. A separate preprint led by researchers at the Charité hospital in Berlin, posted on November 9, tested the original AlphaGenome and found that it often failed to follow certain DNA disruptions through to the rest of a gene; its authors argued that systematic testing and laboratory checks remain essential. DeepMind itself states that the model is intended for research only and is \"not validated or approved for clinical or diagnostic use.\"",
+    "Access raises a further question. AlphaGenome 2 is free for non-commercial research through an online interface, while commercial access is available only in a private preview. Its more detailed predictions also demand more computing power than the original model. Some scientists welcome the free academic access, but others worry that an important research tool controlled by a single technology company could shape which questions get studied and who can afford to study them. Unlike open-source software, a tool offered through a company's interface can be changed, limited or withdrawn at the company's discretion.",
+    "On balance, AlphaGenome 2 looks like a genuine step forward rather than a finished solution. It is best understood as a powerful hypothesis generator, a source of educated guesses that must still be tested in real cells. If independent researchers confirm DeepMind's results, the model could help explain why the same genetic variant causes trouble in one tissue but not another. Until then, the most scientific response is the one researchers usually recommend: interested, but not yet convinced."
+   ],
+   "words": [
+    {
+     "w": "variant",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈveriənt/",
+     "syl": [
+      "var",
+      "i",
+      "ant"
+     ],
+     "def": "a form of something that is slightly different from other forms, such as a change in a DNA sequence",
+     "ex": "Doctors tested whether the new virus variant spreads faster than earlier ones."
+    },
+    {
+     "w": "conditional",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kənˈdɪʃənl/",
+     "syl": [
+      "con",
+      "di",
+      "tion",
+      "al"
+     ],
+     "def": "depending on a particular condition or situation",
+     "ex": "The scholarship is conditional on keeping good grades."
+    },
+    {
+     "w": "methylation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌmeθɪˈleɪʃn/",
+     "syl": [
+      "meth",
+      "yl",
+      "a",
+      "tion"
+     ],
+     "def": "the adding of small chemical groups to DNA, which can switch genes on or off",
+     "ex": "Scientists found that diet can change methylation patterns in mice."
+    },
+    {
+     "w": "benchmark",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈbentʃmɑːrk/",
+     "syl": [
+      "bench",
+      "mark"
+     ],
+     "def": "a standard test used to measure and compare performance",
+     "ex": "The new phone beat its rivals on every speed benchmark."
+    },
+    {
+     "w": "preprint",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpriːprɪnt/",
+     "syl": [
+      "pre",
+      "print"
+     ],
+     "def": "a scientific paper shared publicly before it has been checked by other experts",
+     "ex": "The team posted a preprint online so other scientists could comment quickly."
+    },
+    {
+     "w": "peer review",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˌpɪr rɪˈvjuː/",
+     "syl": [
+      "peer",
+      "re",
+      "view"
+     ],
+     "def": "to have a piece of research checked by other experts before it is published",
+     "ex": "Journals peer review every article before it appears in print."
+    },
+    {
+     "w": "validate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈvælɪdeɪt/",
+     "syl": [
+      "val",
+      "i",
+      "date"
+     ],
+     "def": "to prove that something is correct, accurate or fit for use",
+     "ex": "Scientists must validate the results in a second laboratory."
+    },
+    {
+     "w": "hypothesis",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/haɪˈpɑːθəsɪs/",
+     "syl": [
+      "hy",
+      "poth",
+      "e",
+      "sis"
+     ],
+     "def": "an idea or explanation that has not yet been proved and needs testing",
+     "ex": "Our hypothesis was that plants grow faster with music, but the data said no."
+    },
+    {
+     "w": "discretion",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/dɪˈskreʃn/",
+     "syl": [
+      "dis",
+      "cre",
+      "tion"
+     ],
+     "def": "the freedom to decide what should be done in a situation",
+     "ex": "Extra homework is given at the teacher's discretion."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "This creates a problem for scientists who study disease: a small change in someone's DNA, called a variant, might be harmless in most of the body but damaging in one particular type of cell.",
+     "kind": "Main idea",
+     "note": "The colon introduces the problem the whole passage is about. The word called gives a definition."
+    },
+    {
+     "para": 2,
+     "text": "The new version is what researchers call a conditional model.",
+     "kind": "Topic sentence",
+     "note": "A new term is introduced and then explained; TOEFL vocabulary and factual questions often target such terms."
+    },
+    {
+     "para": 4,
+     "text": "Supporters believe tools like this could speed up medical research considerably.",
+     "kind": "Topic sentence",
+     "note": "This opens the supporters' side. Expect the counter-argument in the next paragraph."
+    },
+    {
+     "para": 5,
+     "text": "Yet there are good reasons for caution.",
+     "kind": "Critical thinking",
+     "note": "Yet signals a turn from benefits to problems; questions about the author's attitude often start here."
+    },
+    {
+     "para": 6,
+     "text": "Access raises a further question.",
+     "kind": "Topic sentence",
+     "note": "Further tells you a new, additional concern is being added."
+    },
+    {
+     "para": 7,
+     "text": "On balance, AlphaGenome 2 looks like a genuine step forward rather than a finished solution.",
+     "kind": "Author's view",
+     "note": "On balance introduces the author's final judgment, which weighs both sides."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"carries\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "moves from one place to another",
+      "supports the weight of",
+      "contains",
+      "is responsible for"
+     ],
+     "a": 2,
+     "why": "\"Every cell carries the same DNA\" means the DNA is inside every cell; \"contains\" keeps this meaning.",
+     "evidence": "Every cell in your body carries almost exactly the same DNA",
+     "optWhy": [
+      "Trap: another meaning of the word. Carry often means transport, but cells do not move DNA anywhere here; they simply have it inside them.",
+      "Trap: another meaning of the word. \"Carry the weight of\" is about holding something up, which makes no sense for DNA in a cell.",
+      "Correct. The sentence is about what is inside each cell: \"carries ... the same DNA\" = \"contains the same DNA\".",
+      "Trap: another meaning of the word. We say someone \"carries responsibility\", but the sentence compares the DNA inside different cells."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Every cell in your body carries almost exactly the same DNA, yet a brain cell behaves very differently from a skin cell or an immune cell.",
+       "hl": "carries almost exactly the same DNA"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"carries\" is in the first sentence of paragraph 1."
+      },
+      {
+       "t": "Use the context",
+       "x": "The sentence compares what is inside a brain cell, a skin cell and an immune cell."
+      },
+      {
+       "t": "Test each option",
+       "x": "Only \"contains\" fits: every cell contains almost the same DNA."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what is one way AlphaGenome 2 differs from the original AlphaGenome?",
+     "opts": [
+      "It can make predictions for one chosen cell type or state.",
+      "It can read long DNA sequences, which the first could not.",
+      "It was trained only on data taken from human tissues and organs.",
+      "It averages its predictions across entire organs."
+     ],
+     "a": 0,
+     "why": "The new version is a conditional model: the user chooses a condition such as a cell type, and the model predicts \"what happens in that condition alone\".",
+     "evidence": "the model predicts what happens in that condition alone",
+     "optWhy": [
+      "Correct. \"a chosen condition, such as a specific cell type or cell state\" + \"in that condition alone\" = predictions for one chosen cell type or state.",
+      "Contradicts the text. The original model \"could read long stretches of DNA\" too.",
+      "Contradicts the text. It was trained on data \"from humans and mice\".",
+      "Reversed. Averaging \"across whole tissues\" describes the original model, not the new one."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "A user gives it a sequence of up to one million DNA letters together with a chosen condition, such as a specific cell type or cell state, and the model predicts what happens in that condition alone.",
+       "hl": "predicts what happens in that condition alone"
+      },
+      {
+       "para": 2,
+       "text": "The original AlphaGenome, announced in 2025, could read long stretches of DNA and estimate how a variant would change gene activity, but its predictions were averaged across whole tissues such as the liver or the lungs.",
+       "hl": "averaged across whole tissues"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "Paragraph 2 first describes the original model, then \"The new version\"."
+      },
+      {
+       "t": "Match the key words",
+       "x": "\"conditional\" and \"in that condition alone\" describe the change."
+      },
+      {
+       "t": "Rule out",
+       "x": "B and C contradict the text; D describes the old model."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 3,
+     "q": "Why does the author mention inflammatory bowel disease in paragraph 3?",
+     "opts": [
+      "To show that AlphaGenome 2 has already been used to cure a disease",
+      "To explain why gut immune cells are hard to study in laboratories",
+      "To argue that the earlier model gave wrong results about this gene",
+      "To give an example of the model matching an existing discovery"
+     ],
+     "a": 3,
+     "why": "The disease is introduced with \"In one example\": the model \"reproduced a published discovery\", which shows it can find a result scientists already knew was true.",
+     "evidence": "the model reproduced a published discovery about inflammatory bowel disease",
+     "optWhy": [
+      "Too extreme. The model reproduced a finding about the disease; nothing says anyone was cured.",
+      "Not in the text. The paragraph does not discuss how hard gut cells are to study.",
+      "Not in the text. The example is about the new model's success, not an error by the old model.",
+      "Correct. \"In one example, the model reproduced a published discovery\" = an example of matching an existing discovery."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "In one example, the model reproduced a published discovery about inflammatory bowel disease: a distant variant that overactivates a gene called ETS2 in particular gut immune cells.",
+       "hl": "In one example, the model reproduced a published discovery"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Look for a signal",
+       "x": "\"In one example\" tells you the disease is an example."
+      },
+      {
+       "t": "Ask: example of what?",
+       "x": "The paragraph begins \"DeepMind reports impressive gains\"; the example supports that claim."
+      },
+      {
+       "t": "Rule out",
+       "x": "A goes too far; B and C are not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4?",
+     "opts": [
+      "Computer models cost more than experiments, so scientists can only test a few variants.",
+      "By shortening the list of possible variants, a model could help scientists use costly experiments well.",
+      "Scientists must first test thousands of variants in the laboratory before a computer model can be trained.",
+      "A short list of the most important variants has already been made for every known disease."
+     ],
+     "a": 1,
+     "why": "The sentence says: if a model narrows thousands of candidates to a short list, scientists can spend their expensive experiments on the best leads. B keeps the condition and the result.",
+     "evidence": "If a computer model can narrow thousands of candidates down to a short list, scientists can focus their expensive experiments on the most promising leads.",
+     "optWhy": [
+      "Wrong cause. It is the experiments that are \"expensive\"; the model is what saves money.",
+      "Correct. \"narrow thousands of candidates down to a short list\" = \"shortening the list\"; \"focus their expensive experiments\" = \"use costly experiments well\".",
+      "Order reversed. The sentence says the model comes first and then guides experiments.",
+      "Too extreme. The sentence is a condition (\"If\"); nothing has been done \"for every known disease\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "If a computer model can narrow thousands of candidates down to a short list, scientists can focus their expensive experiments on the most promising leads.",
+       "hl": "narrow thousands of candidates down to a short list"
+      },
+      {
+       "para": 4,
+       "text": "Testing every possibility in a laboratory would take decades and cost enormous sums.",
+       "hl": "cost enormous sums"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Condition: a model narrows the list. Result: experiments focus on the best leads."
+      },
+      {
+       "t": "Keep both parts",
+       "x": "The right answer must keep \"if → then\" and the idea that experiments are expensive."
+      },
+      {
+       "t": "Rule out",
+       "x": "A changes the cause, C reverses the order, D turns a condition into a fact."
+      }
+     ],
+     "highlight": "If a computer model can narrow thousands of candidates down to a short list, scientists can focus their expensive experiments on the most promising leads."
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are reasons for caution about AlphaGenome 2 EXCEPT",
+     "opts": [
+      "Its main results have not yet gone through the peer review process.",
+      "No independent team has evaluated the new version so far.",
+      "It has already given wrong diagnoses to hospital patients.",
+      "It has not been approved for use in diagnosing illness."
+     ],
+     "a": 2,
+     "why": "The model is for research only and is not used for diagnosis, so the text never says it has given wrong diagnoses to patients.",
+     "evidence": "not validated or approved for clinical or diagnostic use",
+     "optWhy": [
+      "Stated: the results come from a preprint \"that has not yet been peer reviewed\".",
+      "Stated: \"no independent team has so far evaluated the new version\".",
+      "Correct. Not mentioned, and it does not fit: the model is \"intended for research only\", so it is not used on patients.",
+      "Stated: it is \"not validated or approved for clinical or diagnostic use\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "The headline benchmark results come from DeepMind's own preprint, a paper that has not yet been peer reviewed, and no independent team has so far evaluated the new version.",
+       "hl": "has not yet been peer reviewed"
+      },
+      {
+       "para": 5,
+       "text": "DeepMind itself states that the model is intended for research only and is \"not validated or approved for clinical or diagnostic use.\"",
+       "hl": "intended for research only"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find three true answers",
+       "x": "Paragraph 5 lists several reasons for caution."
+      },
+      {
+       "t": "Tick them off",
+       "x": "Peer review (A), independent testing (B) and approval (D) are all there."
+      },
+      {
+       "t": "Check the odd one",
+       "x": "The model is \"for research only\", so it cannot have misdiagnosed patients."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about researchers who depend on AlphaGenome 2?",
+     "opts": [
+      "They will have to share all their results with DeepMind.",
+      "Their access could be affected by the company's choices.",
+      "They can freely rewrite the model to suit their projects.",
+      "They must pay a fee even for non-commercial research."
+     ],
+     "a": 1,
+     "why": "The tool \"can be changed, limited or withdrawn at the company's discretion\", so researchers who rely on it depend on decisions the company makes.",
+     "evidence": "can be changed, limited or withdrawn at the company's discretion",
+     "optWhy": [
+      "Not in the text. Nothing says users must share their results.",
+      "Correct. \"changed, limited or withdrawn at the company's discretion\" → users' access depends on the company's decisions.",
+      "Contradicts the text. Unlike open-source software, the tool is controlled by the company, so users cannot freely change it.",
+      "Contradicts the text. It \"is free for non-commercial research\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Unlike open-source software, a tool offered through a company's interface can be changed, limited or withdrawn at the company's discretion.",
+       "hl": "at the company's discretion"
+      },
+      {
+       "para": 6,
+       "text": "AlphaGenome 2 is free for non-commercial research through an online interface, while commercial access is available only in a private preview.",
+       "hl": "free for non-commercial research"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know what an inference is",
+       "x": "Take one small step from what the paragraph says."
+      },
+      {
+       "t": "Focus on key words",
+       "x": "\"at the company's discretion\" = the company decides."
+      },
+      {
+       "t": "Rule out",
+       "x": "A is not mentioned; C and D contradict the paragraph."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261113-2-k1",
+     "tag": "Problem",
+     "fact": "A DNA variant can be harmless in most of the body but damaging in one type of cell.",
+     "q": "Why are cell-specific predictions important?",
+     "opts": [
+      "Variants act the same everywhere",
+      "A variant's effect can depend on the cell type",
+      "Cells contain different DNA"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-2-k2",
+     "tag": "New model",
+     "fact": "AlphaGenome 2 is a conditional model that predicts effects for one chosen cell type or state.",
+     "q": "What kind of model is AlphaGenome 2?",
+     "opts": [
+      "A conditional model",
+      "An averaging model",
+      "A diagnostic tool"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261113-2-k3",
+     "tag": "Results",
+     "fact": "On an immune-cell test, it found 30 percent of likely causal variants, compared with 16 percent for earlier tools.",
+     "q": "What share of likely causal variants did AlphaGenome 2 find?",
+     "opts": [
+      "16 percent",
+      "30 percent",
+      "68 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-2-k4",
+     "tag": "Caution",
+     "fact": "Its main results come from a preprint that has not been peer reviewed or independently tested.",
+     "q": "Why should we be cautious about the results?",
+     "opts": [
+      "They are not yet peer reviewed",
+      "They were proven wrong",
+      "They used no real data"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261113-2-k5",
+     "tag": "Access",
+     "fact": "It is free for non-commercial research, but the company controls access to it.",
+     "q": "Who controls access to AlphaGenome 2?",
+     "opts": [
+      "Every user",
+      "Google DeepMind",
+      "Hospitals"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AlphaGenome 2",
+    "question": "Should we trust AI predictions about our DNA?",
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1",
+      "blanks": [
+       "harmless in most cells, damaging in one"
+      ],
+      "kps": [
+       "n20261113-2-k1"
+      ]
+     },
+     {
+      "title": "What's new",
+      "paras": "2–3",
+      "blanks": [
+       "predicts for one chosen condition",
+       "30 percent versus 16 percent"
+      ],
+      "kps": [
+       "n20261113-2-k2",
+       "n20261113-2-k3"
+      ]
+     },
+     {
+      "title": "Why be careful",
+      "paras": "5",
+      "blanks": [
+       "not yet peer reviewed",
+       "research use only"
+      ],
+      "kps": [
+       "n20261113-2-k4"
+      ]
+     },
+     {
+      "title": "Access",
+      "paras": "6–7",
+      "blanks": [
+       "controlled by one company"
+      ],
+      "kps": [
+       "n20261113-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "approved for hospital diagnosis",
+     "trained only on human data"
+    ]
+   },
+   "summary": {
+    "intro": "Google DeepMind's AlphaGenome 2 predicts how DNA variants affect specific types of cells.",
+    "model": "AlphaGenome 2 can predict DNA effects for individual cell types, so it may speed up medical research. However, its results are not yet peer reviewed, while access depends on one company, so scientists remain cautious.",
+    "options": [
+     {
+      "t": "The new model predicts how a DNA variant behaves in one chosen cell type or state, not just in whole tissues.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "why": "Correct. This is the key advance described in the passage. (paragraph 2)",
+      "evidence": "the model predicts what happens in that condition alone"
+     },
+     {
+      "t": "Supporters hope it can narrow down long lists of variants so that lab experiments are better targeted.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "why": "Correct. This is the main benefit supporters describe. (paragraph 4)",
+      "evidence": "Supporters believe tools like this could speed up medical research considerably."
+     },
+     {
+      "t": "Its results have not been independently checked, and access is controlled by a single company.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "why": "Correct. These are the two main concerns. (paragraphs 5–6)",
+      "evidence": "no independent team has so far evaluated the new version"
+     },
+     {
+      "t": "The model reproduced a finding about a gene called ETS2 in gut immune cells.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "why": "A minor detail: an example, too specific for a summary. (paragraph 3)",
+      "evidence": "a distant variant that overactivates a gene called ETS2 in particular gut immune cells"
+     },
+     {
+      "t": "Hospitals in Europe have started using the model to choose treatments for patients.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "why": "Not mentioned in the passage.",
+      "evidence": ""
+     },
+     {
+      "t": "The new model is free for every kind of user, including commercial companies.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "why": "Contradicts the passage: commercial access is only in a private preview. (paragraph 6)",
+      "evidence": "commercial access is available only in a private preview"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe new scientific tools should be shared as soon as they are created, even before experts have fully checked them. Others think tools should be released only after careful independent testing. Which view do you agree with? Explain using specific reasons and an example.",
+    "hint": "State your view → reason 1 (speed of progress / risk of mistakes) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Google DeepMind has released AlphaGenome 2, an AI model that predicts how changes in DNA affect specific cells. It is free for academic research, but its results have not yet been peer reviewed, and the company controls who can use it. Should powerful research tools like this be developed mainly by large technology companies, or mainly by universities and public institutions? Why? (Aisha says: Companies have the money and computing power that universities lack. Without them, a tool like this might take ten more years to build, and patients would wait longer for new treatments.) (Tom says: Public institutions are better. Scientific tools should be open so that anyone can check them, and research should not depend on what one company decides to allow.)",
+    "steps": [
+     "Choose: tech companies or public institutions.",
+     "Give one reason, such as money and speed or openness and trust.",
+     "Add an example, such as an app, a medicine or a school project.",
+     "Respond to Aisha or Tom, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261113-3",
+   "topic": "Environment",
+   "title": "Plastic in the Blood: Even Remote Wildlife Can't Escape",
+   "dek": "A Nature study found microplastics in wild animals far from any town, but should we act before we know whether the plastic causes harm?",
+   "sources": [
+    {
+     "name": "UBC Okanagan News, Nov 12, 2026",
+     "url": "https://news.ok.ubc.ca/2026/11/12/even-remote-wildlife-are-exposed-to-microplastics-study-finds/"
+    },
+    {
+     "name": "National Geographic, Nov 12, 2026",
+     "url": "https://www.nationalgeographic.com/environment/article/microplastic-brazilian-pantanal-wildlife-anteaters-tapirs"
+    }
+   ],
+   "paras": [
+    "The Pantanal, in western Brazil, is the largest tropical wetland on Earth, a seasonal flood plain famous for its jaguars, giant otters and huge flocks of birds. If any place in South America could be described as untouched, it might be here. Yet a new study published in the journal Nature has found tiny pieces of plastic in the blood of every animal the researchers sampled in the region, including animals living more than 65 kilometers from the nearest development and more than 112 kilometers from the nearest waste facility.",
+    "Microplastics are fragments of plastic smaller than five millimeters. Some are manufactured at that size, but most form when larger items such as bags, bottles and packaging slowly break apart under sunlight, heat and friction. Because they are light and long-lasting, they travel easily. Scientists have already detected them in deep ocean trenches, on mountain peaks and in human blood, so finding them in wildlife is not in itself a surprise. What makes this study unusual is the way it connects the plastic inside an animal's body to the places where that animal actually lives and travels.",
+    "The international team, led by Dr. Marcia Ferraz of the University of British Columbia Okanagan in Canada, took blood samples from 47 free-ranging lowland tapirs and giant anteaters in three Brazilian regions: the heavily deforested southern edge of the Amazon, a farming area in the Cerrado savanna, and a relatively undisturbed ranch in the Pantanal. The animals had also been fitted with GPS collars, so the scientists knew how close each one came to roads, towns and waste sites. Microplastics were found in 43 of the 47 animals, at an average of 73.8 particles per milliliter of blood, a level within the range previously reported in humans.",
+    "The pattern was clear. Animals living in landscapes more heavily changed by people, and those that moved closer to human development and waste facilities, carried more plastic. However, distance offered only partial protection. Even where human influence was effectively zero, the team's model predicted a baseline of about 10 particles per milliliter. The researchers suggest that wind and water carry plastic fragments far beyond the places where they are thrown away. \"This is the first study to link microplastics inside a wild animal's body to where that animal lives and travels,\" said co-author Dr. Michael Noonan.",
+    "The findings raise uncomfortable questions about waste management. Brazil's human footprint, a measure of how strongly people shape the land, grew by about 42 percent between 2001 and 2020, compared with 26 percent worldwide. In many rural and interior areas, rubbish collection and treatment have not kept pace with this growth, so plastic that is dumped or left in the open can escape into the wider environment. For conservationists, the study suggests that protecting wildlife means paying attention not only to forests and rivers, but also to rubbish bins.",
+    "Still, the authors are careful not to overstate what they found. The study measured exposure, not harm, and it shows an association rather than direct cause and effect. \"We don't yet know what these particles are doing to the animals' health, and that's what worries us,\" Dr. Ferraz said. Laboratory studies of microplastic damage often use doses far higher than those found in nature, so their results may not apply to wild animals. Moreover, tapirs and anteaters already face habitat loss, pesticides, wildfires and climate change, which makes the effect of plastic hard to separate from other stresses.",
+    "This uncertainty divides opinion on what to do next. Some argue for the precautionary principle: since plastic is now found almost everywhere and is extremely difficult to remove, societies should cut plastic waste now rather than wait for proof of damage. Others respond that limited money for conservation should go first to threats that are already known to kill animals, such as deforestation and fire, until research shows how dangerous microplastics really are. Both sides, however, agree on one point: when even the blood of animals in a remote wetland contains plastic, the idea of truly untouched nature needs to be rethought."
+   ],
+   "words": [
+    {
+     "w": "fragment",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈfræɡmənt/",
+     "syl": [
+      "frag",
+      "ment"
+     ],
+     "def": "a small piece that has broken off something larger",
+     "ex": "We found a fragment of an old vase while digging in the garden."
+    },
+    {
+     "w": "deforest",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˌdiːˈfɔːrɪst/",
+     "syl": [
+      "de",
+      "for",
+      "est"
+     ],
+     "def": "to cut down or remove the trees from a large area",
+     "ex": "Farmers deforest hillsides to grow crops, which can cause landslides."
+    },
+    {
+     "w": "baseline",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈbeɪslaɪn/",
+     "syl": [
+      "base",
+      "line"
+     ],
+     "def": "a starting level used to compare later changes",
+     "ex": "We measured each student's reading speed in September as a baseline."
+    },
+    {
+     "w": "footprint",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈfʊtprɪnt/",
+     "syl": [
+      "foot",
+      "print"
+     ],
+     "def": "the effect that people or an activity have on the land or environment",
+     "ex": "Taking the train instead of flying reduces your carbon footprint."
+    },
+    {
+     "w": "conservationist",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌkɑːnsərˈveɪʃənɪst/",
+     "syl": [
+      "con",
+      "ser",
+      "va",
+      "tion",
+      "ist"
+     ],
+     "def": "a person who works to protect animals, plants and natural areas",
+     "ex": "A local conservationist taught us how to build nest boxes for birds."
+    },
+    {
+     "w": "overstate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌoʊvərˈsteɪt/",
+     "syl": [
+      "o",
+      "ver",
+      "state"
+     ],
+     "def": "to describe something as larger, better or worse than it really is",
+     "ex": "The advert seemed to overstate how long the battery would last."
+    },
+    {
+     "w": "exposure",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɪkˈspoʊʒər/",
+     "syl": [
+      "ex",
+      "po",
+      "sure"
+     ],
+     "def": "the state of being in contact with something, especially something harmful",
+     "ex": "Long exposure to loud music can damage your hearing."
+    },
+    {
+     "w": "association",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əˌsoʊsiˈeɪʃn/",
+     "syl": [
+      "as",
+      "so",
+      "ci",
+      "a",
+      "tion"
+     ],
+     "def": "a link between two things, which does not necessarily mean one causes the other",
+     "ex": "The study found an association between screen time and poor sleep."
+    },
+    {
+     "w": "precautionary",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/prɪˈkɔːʃəneri/",
+     "syl": [
+      "pre",
+      "cau",
+      "tion",
+      "ar",
+      "y"
+     ],
+     "def": "done to prevent possible harm before it happens",
+     "ex": "As a precautionary step, the school closed the field after the storm."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "If any place in South America could be described as untouched, it might be here.",
+     "kind": "Interpretation",
+     "note": "This sets up an expectation that the next sentence (Yet ...) will break; a common TOEFL structure."
+    },
+    {
+     "para": 2,
+     "text": "What makes this study unusual is the way it connects the plastic inside an animal's body to the places where that animal actually lives and travels.",
+     "kind": "Main idea",
+     "note": "What makes ... unusual is ... tells you what is new about the research, a frequent question target."
+    },
+    {
+     "para": 4,
+     "text": "However, distance offered only partial protection.",
+     "kind": "Cause → effect",
+     "note": "However plus only partial limits the previous finding; inference questions often test such limits."
+    },
+    {
+     "para": 5,
+     "text": "The findings raise uncomfortable questions about waste management.",
+     "kind": "Topic sentence",
+     "note": "The paragraph moves from results to their meaning for society."
+    },
+    {
+     "para": 6,
+     "text": "The study measured exposure, not harm, and it shows an association rather than direct cause and effect.",
+     "kind": "Hedging",
+     "note": "Association vs cause is a key critical-thinking idea; the author warns against overstating results."
+    },
+    {
+     "para": 7,
+     "text": "This uncertainty divides opinion on what to do next.",
+     "kind": "Critical thinking",
+     "note": "This signals two sides: the precautionary view and the focus-on-known-threats view."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"untouched\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "left uneaten",
+      "emotionally unmoved",
+      "never visited by scientists",
+      "undisturbed by human activity"
+     ],
+     "a": 3,
+     "why": "The sentence asks whether any place is still free from human influence; the study then shows plastic has reached it. \"Undisturbed by human activity\" fits.",
+     "evidence": "If any place in South America could be described as untouched, it might be here.",
+     "optWhy": [
+      "Trap: another meaning of the word. Food can be left untouched, but the word here describes a place.",
+      "Trap: another meaning of the word. People can be untouched by a sad story, but a wetland cannot have feelings.",
+      "Not supported. Scientists did visit the Pantanal; the point is the absence of human pollution, not of visitors.",
+      "Correct. The next sentence (\"Yet ... tiny pieces of plastic\") shows untouched means free from human effects."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "If any place in South America could be described as untouched, it might be here.",
+       "hl": "untouched"
+      },
+      {
+       "para": 1,
+       "text": "Yet a new study published in the journal Nature has found tiny pieces of plastic in the blood of every animal the researchers sampled in the region, including animals living more than 65 kilometers from the nearest development and more than 112 kilometers from the nearest waste facility.",
+       "hl": "found tiny pieces of plastic"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"untouched\" is in the second sentence of paragraph 1."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "\"Yet\" in the next sentence: even here, plastic was found, so untouched = free from human effects."
+      },
+      {
+       "t": "Test each option",
+       "x": "Only \"undisturbed by human activity\" fits a place and the contrast."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention deep ocean trenches, mountain peaks and human blood in paragraph 2?",
+     "opts": [
+      "To argue that microplastics are more harmful in the sea than on land",
+      "To explain why finding microplastics in wildlife is not surprising alone",
+      "To show where the research team collected its blood samples",
+      "To suggest that most microplastics are produced in mountain regions"
+     ],
+     "a": 1,
+     "why": "These places show how widespread microplastics already are, which is why the author says finding them in wildlife \"is not in itself a surprise\".",
+     "evidence": "so finding them in wildlife is not in itself a surprise",
+     "optWhy": [
+      "Not in the text. The paragraph compares no levels of harm between sea and land.",
+      "Correct. The list leads to \"so finding them in wildlife is not in itself a surprise\" = finding them alone is not surprising.",
+      "Details swapped. The samples came from tapirs and anteaters in Brazil (paragraph 3), not from these places.",
+      "Distorts the text. Microplastics form from \"bags, bottles and packaging\"; mountain peaks are only where they were detected."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Scientists have already detected them in deep ocean trenches, on mountain peaks and in human blood, so finding them in wildlife is not in itself a surprise.",
+       "hl": "not in itself a surprise"
+      },
+      {
+       "para": 2,
+       "text": "What makes this study unusual is the way it connects the plastic inside an animal's body to the places where that animal actually lives and travels.",
+       "hl": "What makes this study unusual"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask why, not what",
+       "x": "Purpose questions ask what job the examples do."
+      },
+      {
+       "t": "Follow the word so",
+       "x": "\"so finding them in wildlife is not in itself a surprise\" gives the purpose."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and D are not stated; C mixes in paragraph 3."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, how did the researchers know how close each animal came to human activity?",
+     "opts": [
+      "They measured the plastic levels in rivers near each animal's home.",
+      "They interviewed farmers who lived in each region.",
+      "They followed the animals' movements with GPS collars.",
+      "They compared the animals with samples from humans."
+     ],
+     "a": 2,
+     "why": "The animals \"had also been fitted with GPS collars, so the scientists knew how close each one came to roads, towns and waste sites\".",
+     "evidence": "The animals had also been fitted with GPS collars, so the scientists knew how close each one came to roads, towns and waste sites.",
+     "optWhy": [
+      "Not in the text. The paragraph mentions no water samples.",
+      "Not in the text. No interviews are mentioned.",
+      "Correct. \"fitted with GPS collars, so the scientists knew how close each one came\" = followed their movements with GPS collars.",
+      "Details swapped. Humans are mentioned only to compare plastic levels (\"within the range previously reported in humans\")."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "The animals had also been fitted with GPS collars, so the scientists knew how close each one came to roads, towns and waste sites.",
+       "hl": "fitted with GPS collars"
+      },
+      {
+       "para": 3,
+       "text": "Microplastics were found in 43 of the 47 animals, at an average of 73.8 particles per milliliter of blood, a level within the range previously reported in humans.",
+       "hl": "within the range previously reported in humans"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Scan paragraph 3 for words about distance: \"how close\"."
+      },
+      {
+       "t": "Match the key words",
+       "x": "\"GPS collars, so the scientists knew how close\" answers the question directly."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and B are not mentioned; D uses a detail for a different purpose."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about living far from people?",
+     "opts": [
+      "It lowers an animal's plastic exposure but cannot fully prevent it.",
+      "It completely protects animals from taking in microplastics.",
+      "It raises plastic levels because the wind collects there.",
+      "It has no link at all with the amount of plastic found inside the animals."
+     ],
+     "a": 0,
+     "why": "Animals closer to people carried more plastic, but \"distance offered only partial protection\": even with zero human influence, the model predicted about 10 particles per milliliter.",
+     "evidence": "However, distance offered only partial protection.",
+     "optWhy": [
+      "Correct. \"carried more plastic\" near people + \"only partial protection\" + a baseline of 10 particles → distance helps but does not stop exposure.",
+      "Too extreme. \"only partial protection\" means the protection is not complete.",
+      "Cause reversed. Wind carries plastic far away, but the text says remote animals have less plastic, not more.",
+      "Contradicts the text. Animals closer to people \"carried more plastic\", so there is a clear link."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "However, distance offered only partial protection.",
+       "hl": "only partial protection"
+      },
+      {
+       "para": 4,
+       "text": "Even where human influence was effectively zero, the team's model predicted a baseline of about 10 particles per milliliter.",
+       "hl": "a baseline of about 10 particles per milliliter"
+      },
+      {
+       "para": 4,
+       "text": "Animals living in landscapes more heavily changed by people, and those that moved closer to human development and waste facilities, carried more plastic.",
+       "hl": "carried more plastic"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Know what an inference is",
+       "x": "Combine two facts from the paragraph into one small conclusion."
+      },
+      {
+       "t": "Link the facts",
+       "x": "Near people = more plastic; far away = still a baseline of about 10 particles."
+      },
+      {
+       "t": "Rule out",
+       "x": "B is too extreme, C reverses the result, D contradicts the pattern."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following make it hard to judge how harmful microplastics are EXCEPT",
+     "opts": [
+      "The study measured exposure rather than damage.",
+      "Laboratory studies often use doses that are unrealistically high.",
+      "The animals face several other threats at the same time.",
+      "The particles leave the blood too quickly to be measured."
+     ],
+     "a": 3,
+     "why": "The paragraph lists exposure-not-harm, high lab doses and other stresses. It never says particles leave the blood too quickly; in fact they were measured.",
+     "evidence": "The study measured exposure, not harm",
+     "optWhy": [
+      "Stated: \"The study measured exposure, not harm\".",
+      "Stated: lab studies \"often use doses far higher than those found in nature\".",
+      "Stated: animals \"already face habitat loss, pesticides, wildfires and climate change\".",
+      "Correct. Not mentioned, and it conflicts with paragraph 3, where plastic was measured in 43 of 47 animals."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The study measured exposure, not harm, and it shows an association rather than direct cause and effect.",
+       "hl": "measured exposure, not harm"
+      },
+      {
+       "para": 6,
+       "text": "Laboratory studies of microplastic damage often use doses far higher than those found in nature, so their results may not apply to wild animals.",
+       "hl": "doses far higher than those found in nature"
+      },
+      {
+       "para": 3,
+       "text": "Microplastics were found in 43 of the 47 animals, at an average of 73.8 particles per milliliter of blood, a level within the range previously reported in humans.",
+       "hl": "found in 43 of the 47 animals"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find three true answers",
+       "x": "Paragraph 6 lists the limits of the study."
+      },
+      {
+       "t": "Tick them off",
+       "x": "Exposure not harm (A), high lab doses (B), other threats (C)."
+      },
+      {
+       "t": "Check the odd one",
+       "x": "D is never mentioned, and paragraph 3 shows the particles were measured."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "Some believe microplastics research should get more money than work against deforestation and fire.",
+      "Some argue that deforestation and fires are mainly caused by plastic waste in protected areas.",
+      "Some think scarce funds should target proven threats first, until the risk of microplastics is clearer.",
+      "Some claim that microplastics have already been shown to kill more animals than fire does."
+     ],
+     "a": 2,
+     "why": "The sentence says: limited conservation money should first go to threats known to kill animals, until research shows how dangerous microplastics are. C keeps the priority and the time limit.",
+     "evidence": "Others respond that limited money for conservation should go first to threats that are already known to kill animals",
+     "optWhy": [
+      "Reversed. The sentence puts known threats such as deforestation and fire first, not microplastics research.",
+      "Wrong link. The sentence never says plastic causes deforestation or fire.",
+      "Correct. \"limited money\" = \"scarce funds\"; \"threats that are already known to kill animals\" = \"proven threats\"; \"until research shows\" = \"until the risk is clearer\".",
+      "Contradicts the text. The danger of microplastics is still unknown (\"until research shows how dangerous\")."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Others respond that limited money for conservation should go first to threats that are already known to kill animals, such as deforestation and fire, until research shows how dangerous microplastics really are.",
+       "hl": "should go first to threats that are already known to kill animals"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Main idea: limited money → known threats first. Time limit: until research shows the danger of microplastics."
+      },
+      {
+       "t": "Paraphrase",
+       "x": "Look for \"scarce funds\", \"proven threats\" and \"until ... clearer\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the priority, B invents a cause, D contradicts the uncertainty."
+      }
+     ],
+     "highlight": "Others respond that limited money for conservation should go first to threats that are already known to kill animals, such as deforestation and fire, until research shows how dangerous microplastics really are."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261113-3-k1",
+     "tag": "Finding",
+     "fact": "Every animal sampled in the remote Pantanal had microplastics in its blood.",
+     "q": "What did the study find in the Pantanal?",
+     "opts": [
+      "No plastic at all",
+      "Plastic in every sampled animal",
+      "Plastic only in young animals"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-3-k2",
+     "tag": "Method",
+     "fact": "Researchers took blood from 47 tapirs and anteaters and tracked them with GPS collars.",
+     "q": "How did researchers know where the animals travelled?",
+     "opts": [
+      "GPS collars",
+      "Camera traps",
+      "Farmer reports"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261113-3-k3",
+     "tag": "Pattern",
+     "fact": "Animals closer to people carried more plastic, but distance gave only partial protection.",
+     "q": "What was the effect of living far from people?",
+     "opts": [
+      "Full protection",
+      "Only partial protection",
+      "More plastic"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-3-k4",
+     "tag": "Limits",
+     "fact": "The study measured exposure, not harm, and shows an association, not cause and effect.",
+     "q": "What did the study NOT measure?",
+     "opts": [
+      "Plastic in blood",
+      "Harm to health",
+      "Distance to towns"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261113-3-k5",
+     "tag": "Debate",
+     "fact": "Some want to cut plastic now (precautionary principle); others want to fund known threats first.",
+     "q": "What does the precautionary principle suggest?",
+     "opts": [
+      "Wait for proof",
+      "Act before proof of harm",
+      "Ignore small risks"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Plastic in wildlife",
+    "question": "Should we act before we know the harm?",
+    "branches": [
+     {
+      "title": "Findings",
+      "paras": "1, 3",
+      "blanks": [
+       "43 of 47 animals",
+       "even in the remote Pantanal"
+      ],
+      "kps": [
+       "n20261113-3-k1",
+       "n20261113-3-k2"
+      ]
+     },
+     {
+      "title": "The pattern",
+      "paras": "4",
+      "blanks": [
+       "closer to people, more plastic",
+       "baseline of about 10 particles"
+      ],
+      "kps": [
+       "n20261113-3-k3"
+      ]
+     },
+     {
+      "title": "Limits",
+      "paras": "6",
+      "blanks": [
+       "exposure, not harm"
+      ],
+      "kps": [
+       "n20261113-3-k4"
+      ]
+     },
+     {
+      "title": "What to do",
+      "paras": "5, 7",
+      "blanks": [
+       "cut plastic waste now",
+       "fund known threats first"
+      ],
+      "kps": [
+       "n20261113-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "plastic found only near cities",
+     "plastic proven to kill tapirs"
+    ]
+   },
+   "summary": {
+    "intro": "A Nature study found microplastics in the blood of wild tapirs and anteaters in Brazil, even in a remote wetland.",
+    "model": "Animals closer to people carried more plastic, but even remote animals were exposed, because wind and water spread it. However, the study did not measure harm, so people disagree about whether to act now or wait for more evidence.",
+    "options": [
+     {
+      "t": "Microplastics were found in almost all the animals tested, including those living far from towns.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "why": "Correct. This is the study's main finding. (paragraphs 1 and 3)",
+      "evidence": "Microplastics were found in 43 of the 47 animals"
+     },
+     {
+      "t": "Animals closer to people carried more plastic, but distance did not fully protect them.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "why": "Correct. This is the pattern the study revealed. (paragraph 4)",
+      "evidence": "However, distance offered only partial protection."
+     },
+     {
+      "t": "Because harm has not been shown, people disagree about whether to act on plastic now.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "why": "Correct. This is the debate at the end of the passage. (paragraphs 6–7)",
+      "evidence": "This uncertainty divides opinion on what to do next."
+     },
+     {
+      "t": "The average level was 73.8 particles per milliliter of blood.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "why": "A minor detail: a number that is too specific for a summary. (paragraph 3)",
+      "evidence": "at an average of 73.8 particles per milliliter of blood"
+     },
+     {
+      "t": "The researchers recommended banning plastic bags across Brazil.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "why": "Not mentioned in the passage.",
+      "evidence": ""
+     },
+     {
+      "t": "The study proved that microplastics are making tapirs and anteaters sick.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "why": "Contradicts the passage: the study measured exposure, not harm. (paragraph 6)",
+      "evidence": "The study measured exposure, not harm"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think governments should act against a possible danger, such as microplastics, before scientists have proved that it causes harm. Others think governments should wait for clear evidence. Which view do you agree with? Use specific reasons and an example.",
+    "hint": "State your view → reason 1 (prevention / cost) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A new study found microplastics in the blood of wild animals in Brazil, even in a remote wetland. However, scientists do not yet know whether the plastic harms the animals. Should governments limit plastic use now, or should they wait until research proves the damage? Explain your view. (Sofia says: We should act now. Plastic lasts for hundreds of years and spreads everywhere, so by the time we have proof, it will be too late to clean it up.) (Ken says: Money for nature is limited. It is better to spend it on problems we know are deadly, like forest fires and deforestation, and study plastic more carefully first.)",
+    "steps": [
+     "Choose: act now, or wait for more evidence.",
+     "Give one reason, such as prevention or limited money.",
+     "Add an example, such as a plastic bag ban or a forest fire.",
+     "Respond to Sofia or Ken, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "audio": {
+  "Next week, the southern Chinese city of Shenzhen will become the meeting place of the Asia-Pacific. Leaders' Week of the Asia-Pacific Economic Cooperation forum, better known as APEC, begins on November 14, and the leaders of its 21 member economies are due to meet on November 18 and 19. It is the third time China has hosted the forum, after Shanghai in 2001 and Beijing in 2014. Together, APEC's members are home to roughly three billion people and produce more than 60 percent of the world's economic output, so the decisions taken in Shenzhen could, at least in theory, affect almost everyone.": "audio/2026-11-13/a1-p1.mp3",
+  "APEC is an unusual organization. It was founded in 1989 to encourage trade and investment around the Pacific Rim, and its members are called \"economies\" rather than countries, which reflects the forum's focus on economic rather than political questions. Unlike the World Trade Organization, APEC cannot force its members to do anything. Its agreements are voluntary and must be reached by consensus, meaning that every member has to accept the final text. Supporters see this as a strength, because nobody is pushed into a commitment it cannot keep. Critics see it as a weakness, because the need for unanimous approval often reduces bold plans to cautious promises.": "audio/2026-11-13/a1-p2.mp3",
+  "This year's host has chosen the theme \"Building an Asia-Pacific Community to Prosper Together,\" built around three priorities: openness, innovation and cooperation. On trade, officials have been working toward a long-discussed Free Trade Area of the Asia-Pacific, and they have set up a center to promote paperless trade. According to APEC research, replacing paper trade documents with digital ones could cut the cost of trade transactions by about 5.8 percent, a saving that would matter most to small exporters with limited staff and budgets. Such practical, technical steps rarely make headlines, yet they are where the forum has often been most effective.": "audio/2026-11-13/a1-p3.mp3",
+  "Artificial intelligence is the other major item. APEC has adopted an AI Initiative for 2026 to 2030, and leaders are expected to discuss how the benefits of the technology can be shared. Here the gap between members is wide. \"The benefits are very much going to those economies that are ready to embrace AI,\" Carlos Kuriyama of APEC's Policy Support Unit told reporters. Economies with advanced chip industries, strong digital skills and plentiful data could pull further ahead, while smaller and poorer members risk being left behind. Business leaders attending the event have called for fewer cross-border barriers, but export controls on advanced chips and strict data rules make such cooperation politically difficult.": "audio/2026-11-13/a1-p4.mp3",
+  "The summit also takes place against a tense global background. APEC expects the region's economy to grow by 3.4 percent in 2026, slightly faster than last year, but it also forecasts that inflation will rise from 2.4 percent to 3.2 percent, partly because of high energy prices. US President Donald Trump has said he expects to meet Chinese President Xi Jinping, and possibly Russian President Vladimir Putin, in Shenzhen. Because the leaders of the world's two largest economies rarely meet face to face, many observers will pay more attention to these side meetings than to the official program.": "audio/2026-11-13/a1-p5.mp3",
+  "Opinions differ on what the summit can realistically achieve. Optimists argue that APEC's size is its value: as a multilateral forum with 21 members, it gives middle-sized and smaller economies a voice and makes a simple deal between great powers less likely. They also point out that informal conversations on the sidelines can reduce misunderstandings even when no agreement is signed. Skeptics reply that the forum's declarations are often vague, and that reports suggest major trade outcomes may be saved for the Group of 20 summit instead. In their view, the meeting may turn out to be more symbolic than substantial.": "audio/2026-11-13/a1-p6.mp3",
+  "Perhaps both views contain some truth. A forum that relies on consensus is unlikely to solve the hardest disputes between its most powerful members, but it can still make steady progress on less dramatic problems, such as customs paperwork or digital skills training. Whether Shenzhen is remembered as a success may therefore depend on what people expect from it: a breakthrough on the world's biggest conflicts, or a series of small, practical steps that make trade a little cheaper and cooperation a little easier.": "audio/2026-11-13/a1-p7.mp3",
+  "consensus": "audio/2026-11-13/a1-w-consensus.mp3",
+  "After a long discussion, the class reached a consensus on where to go for the school trip.": "audio/2026-11-13/a1-ex-consensus.mp3",
+  "unanimous": "audio/2026-11-13/a1-w-unanimous.mp3",
+  "The decision to plant more trees on campus was unanimous.": "audio/2026-11-13/a1-ex-unanimous.mp3",
+  "voluntary": "audio/2026-11-13/a1-w-voluntary.mp3",
+  "Joining the weekend reading club is voluntary, but most students take part.": "audio/2026-11-13/a1-ex-voluntary.mp3",
+  "transaction": "audio/2026-11-13/a1-w-transaction.mp3",
+  "Every transaction in the school shop is now recorded on a tablet.": "audio/2026-11-13/a1-ex-transaction.mp3",
+  "embrace": "audio/2026-11-13/a1-w-embrace.mp3",
+  "Many older teachers were quick to embrace online lessons.": "audio/2026-11-13/a1-ex-embrace.mp3",
+  "forecast": "audio/2026-11-13/a1-w-forecast.mp3",
+  "Economists forecast that prices will keep rising next year.": "audio/2026-11-13/a1-ex-forecast.mp3",
+  "multilateral": "audio/2026-11-13/a1-w-multilateral.mp3",
+  "The climate deal was a multilateral agreement signed by nearly 200 countries.": "audio/2026-11-13/a1-ex-multilateral.mp3",
+  "sideline": "audio/2026-11-13/a1-w-sideline.mp3",
+  "The two ministers met on the sideline of the conference to discuss trade.": "audio/2026-11-13/a1-ex-sideline.mp3",
+  "substantial": "audio/2026-11-13/a1-w-substantial.mp3",
+  "The new rules made a substantial difference to how safe the roads felt.": "audio/2026-11-13/a1-ex-substantial.mp3",
+  "It is the third time China has hosted the forum, after Shanghai in 2001 and Beijing in 2014.": "audio/2026-11-13/a1-ks1.mp3",
+  "Its agreements are voluntary and must be reached by consensus, meaning that every member has to accept the final text.": "audio/2026-11-13/a1-ks2.mp3",
+  "Such practical, technical steps rarely make headlines, yet they are where the forum has often been most effective.": "audio/2026-11-13/a1-ks3.mp3",
+  "Here the gap between members is wide.": "audio/2026-11-13/a1-ks4.mp3",
+  "Opinions differ on what the summit can realistically achieve.": "audio/2026-11-13/a1-ks5.mp3",
+  "Perhaps both views contain some truth.": "audio/2026-11-13/a1-ks6.mp3",
+  "Every cell in your body carries almost exactly the same DNA, yet a brain cell behaves very differently from a skin cell or an immune cell. The reason is that each type of cell switches different genes on and off. This creates a problem for scientists who study disease: a small change in someone's DNA, called a variant, might be harmless in most of the body but damaging in one particular type of cell. On November 11, Google DeepMind released AlphaGenome 2, an artificial intelligence model designed to predict exactly these cell-specific effects.": "audio/2026-11-13/a2-p1.mp3",
+  "The original AlphaGenome, announced in 2025, could read long stretches of DNA and estimate how a variant would change gene activity, but its predictions were averaged across whole tissues such as the liver or the lungs. The new version is what researchers call a conditional model. A user gives it a sequence of up to one million DNA letters together with a chosen condition, such as a specific cell type or cell state, and the model predicts what happens in that condition alone. It was trained on bulk and single-cell data from humans and mice, including more than 100 million individual cell profiles from 68 tissues. It can also predict DNA methylation, a chemical tag that helps control whether genes are active, which the first version could not do.": "audio/2026-11-13/a2-p2.mp3",
+  "DeepMind reports impressive gains. On a test built from a single-cell map of 28 types of immune cells, AlphaGenome 2 identified 30 percent of the variants thought to cause changes in gene activity, compared with 16 percent for the earlier model and other specialized tools. In one example, the model reproduced a published discovery about inflammatory bowel disease: a distant variant that overactivates a gene called ETS2 in particular gut immune cells. Perhaps most usefully, researchers can describe a new cell state by uploading gene-activity data from just a few dozen cells, without retraining the whole model. \"What makes AlphaGenome 2 exciting is how it adapts directly to new single-cell data without retraining,\" said Sarah Teichmann, a co-founder of the Human Cell Atlas.": "audio/2026-11-13/a2-p3.mp3",
+  "Supporters believe tools like this could speed up medical research considerably. Large genetic studies have linked thousands of DNA variants to traits and illnesses, from height to type 2 diabetes, but in most cases nobody knows which variant actually matters, which gene it affects or in which cells. Testing every possibility in a laboratory would take decades and cost enormous sums. If a computer model can narrow thousands of candidates down to a short list, scientists can focus their expensive experiments on the most promising leads.": "audio/2026-11-13/a2-p4.mp3",
+  "Yet there are good reasons for caution. The headline benchmark results come from DeepMind's own preprint, a paper that has not yet been peer reviewed, and no independent team has so far evaluated the new version. A separate preprint led by researchers at the Charité hospital in Berlin, posted on November 9, tested the original AlphaGenome and found that it often failed to follow certain DNA disruptions through to the rest of a gene; its authors argued that systematic testing and laboratory checks remain essential. DeepMind itself states that the model is intended for research only and is \"not validated or approved for clinical or diagnostic use.\"": "audio/2026-11-13/a2-p5.mp3",
+  "Access raises a further question. AlphaGenome 2 is free for non-commercial research through an online interface, while commercial access is available only in a private preview. Its more detailed predictions also demand more computing power than the original model. Some scientists welcome the free academic access, but others worry that an important research tool controlled by a single technology company could shape which questions get studied and who can afford to study them. Unlike open-source software, a tool offered through a company's interface can be changed, limited or withdrawn at the company's discretion.": "audio/2026-11-13/a2-p6.mp3",
+  "On balance, AlphaGenome 2 looks like a genuine step forward rather than a finished solution. It is best understood as a powerful hypothesis generator, a source of educated guesses that must still be tested in real cells. If independent researchers confirm DeepMind's results, the model could help explain why the same genetic variant causes trouble in one tissue but not another. Until then, the most scientific response is the one researchers usually recommend: interested, but not yet convinced.": "audio/2026-11-13/a2-p7.mp3",
+  "variant": "audio/2026-11-13/a2-w-variant.mp3",
+  "Doctors tested whether the new virus variant spreads faster than earlier ones.": "audio/2026-11-13/a2-ex-variant.mp3",
+  "conditional": "audio/2026-11-13/a2-w-conditional.mp3",
+  "The scholarship is conditional on keeping good grades.": "audio/2026-11-13/a2-ex-conditional.mp3",
+  "methylation": "audio/2026-11-13/a2-w-methylation.mp3",
+  "Scientists found that diet can change methylation patterns in mice.": "audio/2026-11-13/a2-ex-methylation.mp3",
+  "benchmark": "audio/2026-11-13/a2-w-benchmark.mp3",
+  "The new phone beat its rivals on every speed benchmark.": "audio/2026-11-13/a2-ex-benchmark.mp3",
+  "preprint": "audio/2026-11-13/a2-w-preprint.mp3",
+  "The team posted a preprint online so other scientists could comment quickly.": "audio/2026-11-13/a2-ex-preprint.mp3",
+  "peer review": "audio/2026-11-13/a2-w-peer-review.mp3",
+  "Journals peer review every article before it appears in print.": "audio/2026-11-13/a2-ex-peer-review.mp3",
+  "validate": "audio/2026-11-13/a2-w-validate.mp3",
+  "Scientists must validate the results in a second laboratory.": "audio/2026-11-13/a2-ex-validate.mp3",
+  "hypothesis": "audio/2026-11-13/a2-w-hypothesis.mp3",
+  "Our hypothesis was that plants grow faster with music, but the data said no.": "audio/2026-11-13/a2-ex-hypothesis.mp3",
+  "discretion": "audio/2026-11-13/a2-w-discretion.mp3",
+  "Extra homework is given at the teacher's discretion.": "audio/2026-11-13/a2-ex-discretion.mp3",
+  "This creates a problem for scientists who study disease: a small change in someone's DNA, called a variant, might be harmless in most of the body but damaging in one particular type of cell.": "audio/2026-11-13/a2-ks1.mp3",
+  "The new version is what researchers call a conditional model.": "audio/2026-11-13/a2-ks2.mp3",
+  "Supporters believe tools like this could speed up medical research considerably.": "audio/2026-11-13/a2-ks3.mp3",
+  "Yet there are good reasons for caution.": "audio/2026-11-13/a2-ks4.mp3",
+  "Access raises a further question.": "audio/2026-11-13/a2-ks5.mp3",
+  "On balance, AlphaGenome 2 looks like a genuine step forward rather than a finished solution.": "audio/2026-11-13/a2-ks6.mp3",
+  "The Pantanal, in western Brazil, is the largest tropical wetland on Earth, a seasonal flood plain famous for its jaguars, giant otters and huge flocks of birds. If any place in South America could be described as untouched, it might be here. Yet a new study published in the journal Nature has found tiny pieces of plastic in the blood of every animal the researchers sampled in the region, including animals living more than 65 kilometers from the nearest development and more than 112 kilometers from the nearest waste facility.": "audio/2026-11-13/a3-p1.mp3",
+  "Microplastics are fragments of plastic smaller than five millimeters. Some are manufactured at that size, but most form when larger items such as bags, bottles and packaging slowly break apart under sunlight, heat and friction. Because they are light and long-lasting, they travel easily. Scientists have already detected them in deep ocean trenches, on mountain peaks and in human blood, so finding them in wildlife is not in itself a surprise. What makes this study unusual is the way it connects the plastic inside an animal's body to the places where that animal actually lives and travels.": "audio/2026-11-13/a3-p2.mp3",
+  "The international team, led by Dr. Marcia Ferraz of the University of British Columbia Okanagan in Canada, took blood samples from 47 free-ranging lowland tapirs and giant anteaters in three Brazilian regions: the heavily deforested southern edge of the Amazon, a farming area in the Cerrado savanna, and a relatively undisturbed ranch in the Pantanal. The animals had also been fitted with GPS collars, so the scientists knew how close each one came to roads, towns and waste sites. Microplastics were found in 43 of the 47 animals, at an average of 73.8 particles per milliliter of blood, a level within the range previously reported in humans.": "audio/2026-11-13/a3-p3.mp3",
+  "The pattern was clear. Animals living in landscapes more heavily changed by people, and those that moved closer to human development and waste facilities, carried more plastic. However, distance offered only partial protection. Even where human influence was effectively zero, the team's model predicted a baseline of about 10 particles per milliliter. The researchers suggest that wind and water carry plastic fragments far beyond the places where they are thrown away. \"This is the first study to link microplastics inside a wild animal's body to where that animal lives and travels,\" said co-author Dr. Michael Noonan.": "audio/2026-11-13/a3-p4.mp3",
+  "The findings raise uncomfortable questions about waste management. Brazil's human footprint, a measure of how strongly people shape the land, grew by about 42 percent between 2001 and 2020, compared with 26 percent worldwide. In many rural and interior areas, rubbish collection and treatment have not kept pace with this growth, so plastic that is dumped or left in the open can escape into the wider environment. For conservationists, the study suggests that protecting wildlife means paying attention not only to forests and rivers, but also to rubbish bins.": "audio/2026-11-13/a3-p5.mp3",
+  "Still, the authors are careful not to overstate what they found. The study measured exposure, not harm, and it shows an association rather than direct cause and effect. \"We don't yet know what these particles are doing to the animals' health, and that's what worries us,\" Dr. Ferraz said. Laboratory studies of microplastic damage often use doses far higher than those found in nature, so their results may not apply to wild animals. Moreover, tapirs and anteaters already face habitat loss, pesticides, wildfires and climate change, which makes the effect of plastic hard to separate from other stresses.": "audio/2026-11-13/a3-p6.mp3",
+  "This uncertainty divides opinion on what to do next. Some argue for the precautionary principle: since plastic is now found almost everywhere and is extremely difficult to remove, societies should cut plastic waste now rather than wait for proof of damage. Others respond that limited money for conservation should go first to threats that are already known to kill animals, such as deforestation and fire, until research shows how dangerous microplastics really are. Both sides, however, agree on one point: when even the blood of animals in a remote wetland contains plastic, the idea of truly untouched nature needs to be rethought.": "audio/2026-11-13/a3-p7.mp3",
+  "fragment": "audio/2026-11-13/a3-w-fragment.mp3",
+  "We found a fragment of an old vase while digging in the garden.": "audio/2026-11-13/a3-ex-fragment.mp3",
+  "deforest": "audio/2026-11-13/a3-w-deforest.mp3",
+  "Farmers deforest hillsides to grow crops, which can cause landslides.": "audio/2026-11-13/a3-ex-deforest.mp3",
+  "baseline": "audio/2026-11-13/a3-w-baseline.mp3",
+  "We measured each student's reading speed in September as a baseline.": "audio/2026-11-13/a3-ex-baseline.mp3",
+  "footprint": "audio/2026-11-13/a3-w-footprint.mp3",
+  "Taking the train instead of flying reduces your carbon footprint.": "audio/2026-11-13/a3-ex-footprint.mp3",
+  "conservationist": "audio/2026-11-13/a3-w-conservationist.mp3",
+  "A local conservationist taught us how to build nest boxes for birds.": "audio/2026-11-13/a3-ex-conservationist.mp3",
+  "overstate": "audio/2026-11-13/a3-w-overstate.mp3",
+  "The advert seemed to overstate how long the battery would last.": "audio/2026-11-13/a3-ex-overstate.mp3",
+  "exposure": "audio/2026-11-13/a3-w-exposure.mp3",
+  "Long exposure to loud music can damage your hearing.": "audio/2026-11-13/a3-ex-exposure.mp3",
+  "association": "audio/2026-11-13/a3-w-association.mp3",
+  "The study found an association between screen time and poor sleep.": "audio/2026-11-13/a3-ex-association.mp3",
+  "precautionary": "audio/2026-11-13/a3-w-precautionary.mp3",
+  "As a precautionary step, the school closed the field after the storm.": "audio/2026-11-13/a3-ex-precautionary.mp3",
+  "If any place in South America could be described as untouched, it might be here.": "audio/2026-11-13/a3-ks1.mp3",
+  "What makes this study unusual is the way it connects the plastic inside an animal's body to the places where that animal actually lives and travels.": "audio/2026-11-13/a3-ks2.mp3",
+  "However, distance offered only partial protection.": "audio/2026-11-13/a3-ks3.mp3",
+  "The findings raise uncomfortable questions about waste management.": "audio/2026-11-13/a3-ks4.mp3",
+  "The study measured exposure, not harm, and it shows an association rather than direct cause and effect.": "audio/2026-11-13/a3-ks5.mp3",
+  "This uncertainty divides opinion on what to do next.": "audio/2026-11-13/a3-ks6.mp3"
+ }
+}
