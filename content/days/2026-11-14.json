@@ -1,0 +1,2071 @@
+{
+ "date": "2026-11-14",
+ "headline": "A court, a crow and a classroom: what does it mean to be smart?",
+ "teaser": "Should a judge be able to pause AI? Is a faster brain a smarter brain? And do some children struggle with maths because they are stuck on one path?",
+ "articles": [
+  {
+   "id": "n20261114-1",
+   "topic": "Technology",
+   "title": "Can a Court Pause AI? Nonprofits Sue Five Tech Giants",
+   "dek": "Four nonprofit groups want a judge to freeze the next generation of AI. Who should decide how fast a powerful technology moves: companies, lawmakers or courts?",
+   "sources": [
+    {
+     "name": "Al Jazeera, Nov 12, 2026",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+    },
+    {
+     "name": "Dataconomy, Nov 13, 2026",
+     "url": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai"
+    }
+   ],
+   "paras": [
+    "On Thursday, November 12, four American nonprofit groups filed a lawsuit in San Francisco Superior Court that, if it succeeded, would be one of the most dramatic interventions in the history of technology. The groups, which are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI, are asking a judge to order five of the world's most powerful artificial intelligence developers to stop training and releasing their next generation of models. The defendants are OpenAI, Anthropic, Google, Meta and the AI division of SpaceX, whose products include ChatGPT, Claude and Gemini.",
+    "Why take the issue to a court at all? In most countries, new technologies are governed by elected legislatures and specialist regulators rather than by judges. In the United States, however, Congress has debated artificial intelligence for years without passing a broad federal law. The plaintiffs argue that this silence has created a dangerous vacuum. Because no agency has clear power to stop the development of advanced AI, they say, the courts are the only institution left that can act quickly. Their complaint relies on California's unfair competition law, which allows judges to block business practices that harm the public, and on the old legal idea of a \"public nuisance\", an activity that endangers the health or property of a whole community.",
+    "The heart of the case is a claim about control. According to the plaintiffs, the companies are racing to build systems that can learn and carry out tasks with less and less human supervision, yet none of them can guarantee that these systems will not cause catastrophic harm. As evidence, the complaint points to documented cyberattacks carried out with the help of AI. It also quotes public statements in which industry leaders themselves have admitted that the technology could go badly wrong. In the groups' view, no other industry would be allowed to decide for itself whether its own products are safe enough to sell, so AI developers should not be trusted to do so either.",
+    "What exactly do the groups want? In the short term, they are seeking an emergency injunction that would pause work on new frontier models until the companies can demonstrate that the technology remains under human control. They also call for government inspections, monitoring of the huge computing centres where models are trained, and the authority to halt prohibited work. In the longer term, they want independent evaluators, a new regulatory agency, and \"strict liability\", a rule under which companies would have to pay for damage caused by their products even if they had not been careless.",
+    "Critics are likely to raise several objections. The most familiar concerns competition with China. President Donald Trump has argued that slowing AI development would simply allow rival countries to take the lead. The plaintiffs reply that a slowdown could be negotiated through bilateral deals or an international treaty, so that no country would gain an advantage by continuing alone. A second objection concerns expertise: judges are trained in law, not computer science, and a single state court may seem a strange place to decide the future of a global industry. A third worry is that a sweeping freeze could also delay useful applications of AI in medicine, education and scientific research.",
+    "The companies themselves have said little so far. Meta declined to comment, and the other four defendants did not immediately respond to reporters. Historically, courts have been reluctant to order entire industries to stop working, especially when much of the harm being described lies in the future rather than the present. For that reason, the request for an immediate freeze faces a difficult path. Even so, the lawsuit may matter whatever its final outcome, because it could force the companies to explain, in a formal legal setting, how they test their systems and what they would do if something went seriously wrong.",
+    "In the end, the case raises a question that goes far beyond one courtroom: who should decide how fast a powerful new technology develops? Supporters see the lawsuit as a necessary emergency brake at a moment when lawmakers have failed to act. Opponents see it as an attempt to let judges make policy that ought to belong to democratically elected governments. Both sides agree on one point, however. The rules for advanced AI are still being written, and the choices made in the next few years are likely to shape how the technology affects everyone."
+   ],
+   "words": [
+    {
+     "w": "intervention",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌɪntərˈvenʃn/",
+     "syl": [
+      "in",
+      "ter",
+      "ven",
+      "tion"
+     ],
+     "def": "an action taken to change what is happening or to stop a situation from getting worse",
+     "ex": "The teacher's quick intervention stopped the argument before anyone got upset."
+    },
+    {
+     "w": "plaintiff",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpleɪntɪf/",
+     "syl": [
+      "plain",
+      "tiff"
+     ],
+     "def": "a person or group that brings a case against another in a court of law",
+     "ex": "The plaintiff claimed that the factory had polluted the river near her farm."
+    },
+    {
+     "w": "vacuum",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈvækjuːm/",
+     "syl": [
+      "vac",
+      "uum"
+     ],
+     "def": "a situation in which something important, such as rules or leadership, is missing",
+     "ex": "When the club's captain left, there was a leadership vacuum for several weeks."
+    },
+    {
+     "w": "nuisance",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈnjuːsns/",
+     "syl": [
+      "nui",
+      "sance"
+     ],
+     "def": "in law, an activity that harms or seriously annoys other people or the public",
+     "ex": "The court ruled that the loud factory was a public nuisance to nearby residents."
+    },
+    {
+     "w": "catastrophic",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˌkætəˈstrɒfɪk/",
+     "syl": [
+      "cat",
+      "a",
+      "stroph",
+      "ic"
+     ],
+     "def": "causing very great damage or suffering",
+     "ex": "A catastrophic flood could destroy the entire harvest in a single night."
+    },
+    {
+     "w": "injunction",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪnˈdʒʌŋkʃn/",
+     "syl": [
+      "in",
+      "junc",
+      "tion"
+     ],
+     "def": "an official order from a court that tells someone to stop doing something",
+     "ex": "The judge issued an injunction that stopped the company from cutting down the old trees."
+    },
+    {
+     "w": "demonstrate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈdemənstreɪt/",
+     "syl": [
+      "dem",
+      "on",
+      "strate"
+     ],
+     "def": "to show clearly, with evidence, that something is true",
+     "ex": "You must demonstrate that your experiment can be repeated before others accept the result."
+    },
+    {
+     "w": "liability",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌlaɪəˈbɪləti/",
+     "syl": [
+      "li",
+      "a",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "legal responsibility for something, especially for paying for damage or loss",
+     "ex": "The bike-sharing firm accepted liability for the accident caused by its faulty brakes."
+    },
+    {
+     "w": "sweeping",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈswiːpɪŋ/",
+     "syl": [
+      "sweep",
+      "ing"
+     ],
+     "def": "having a very large effect on many things or people",
+     "ex": "The new principal introduced sweeping changes to the school timetable."
+    },
+    {
+     "w": "reluctant",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/rɪˈlʌktənt/",
+     "syl": [
+      "re",
+      "luc",
+      "tant"
+     ],
+     "def": "not willing to do something and therefore slow to do it",
+     "ex": "Many students are reluctant to ask questions in front of a large class."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The groups, which are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI, are asking a judge to order five of the world's most powerful artificial intelligence developers to stop training and releasing their next generation of models.",
+     "kind": "Main idea",
+     "note": "This sentence states who is suing and what they want; questions about the passage's purpose start here."
+    },
+    {
+     "para": 2,
+     "text": "The plaintiffs argue that this silence has created a dangerous vacuum.",
+     "kind": "Cause → effect",
+     "note": "Congress's silence (cause) leads to a vacuum (effect); TOEFL often asks why something happened."
+    },
+    {
+     "para": 3,
+     "text": "The heart of the case is a claim about control.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence tells you what the whole paragraph will prove."
+    },
+    {
+     "para": 5,
+     "text": "Critics are likely to raise several objections.",
+     "kind": "Topic sentence",
+     "note": "Signals a list of counter-arguments: the first, a second, a third. Track each one for negative factual questions."
+    },
+    {
+     "para": 6,
+     "text": "Even so, the lawsuit may matter whatever its final outcome, because it could force the companies to explain, in a formal legal setting, how they test their systems and what they would do if something went seriously wrong.",
+     "kind": "Author's view",
+     "note": "\"Even so\" introduces the author's own judgment after a concession; a common inference target."
+    },
+    {
+     "para": 7,
+     "text": "In the end, the case raises a question that goes far beyond one courtroom: who should decide how fast a powerful new technology develops?",
+     "kind": "Critical thinking",
+     "note": "The closing question frames the whole debate and is useful for summary questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"vacuum\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "a cleaning machine that uses suction",
+      "an absence of rules or authority",
+      "a space completely empty of air",
+      "a period of public anger"
+     ],
+     "a": 1,
+     "why": "The next sentence explains the vacuum: \"no agency has clear power to stop the development of advanced AI\". So the vacuum is a gap in rules or authority.",
+     "evidence": "this silence has created a dangerous vacuum",
+     "optWhy": [
+      "Wrong meaning of the word. A vacuum cleaner has nothing to do with a gap in the law; the paragraph is about Congress not passing a law.",
+      "Correct. \"no agency has clear power\" after Congress passed no law = \"an absence of rules or authority\".",
+      "Wrong meaning of the word. This is the literal physics meaning; here the word is used figuratively for missing rules.",
+      "Not mentioned. The paragraph talks about \"silence\" from Congress, not public anger."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "In the United States, however, Congress has debated artificial intelligence for years without passing a broad federal law.",
+       "hl": "without passing a broad federal law"
+      },
+      {
+       "para": 2,
+       "text": "Because no agency has clear power to stop the development of advanced AI, they say, the courts are the only institution left that can act quickly.",
+       "hl": "no agency has clear power"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"vacuum\" in paragraph 2: \"this silence has created a dangerous vacuum\"."
+      },
+      {
+       "t": "Use the context",
+       "x": "The sentences before and after say Congress passed no law and no agency has clear power."
+      },
+      {
+       "t": "Check the options",
+       "x": "Only B matches a gap in rules; A and C are other dictionary meanings of the word."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why do the plaintiffs believe a court should deal with this issue?",
+     "opts": [
+      "Judges understand computer science better than lawmakers do.",
+      "California law requires all technology disputes to go to court.",
+      "Congress recently passed a law asking courts to regulate AI.",
+      "No other institution currently has clear power to act quickly."
+     ],
+     "a": 3,
+     "why": "The plaintiffs say that because no agency has clear power, \"the courts are the only institution left that can act quickly\". Option D restates this.",
+     "evidence": "the courts are the only institution left that can act quickly",
+     "optWhy": [
+      "Contradicts the passage. Paragraph 5 says \"judges are trained in law, not computer science\".",
+      "Too extreme. The law \"allows judges to block business practices that harm the public\"; it does not require every technology dispute to go to court.",
+      "Contradicts the passage. Congress has debated AI \"without passing a broad federal law\".",
+      "Correct. \"the only institution left that can act quickly\" = \"no other institution currently has clear power to act quickly\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Because no agency has clear power to stop the development of advanced AI, they say, the courts are the only institution left that can act quickly.",
+       "hl": "the courts are the only institution left that can act quickly"
+      },
+      {
+       "para": 5,
+       "text": "A second objection concerns expertise: judges are trained in law, not computer science, and a single state court may seem a strange place to decide the future of a global industry.",
+       "hl": "judges are trained in law, not computer science"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 2 asks \"Why take the issue to a court at all?\"."
+      },
+      {
+       "t": "Find the reason",
+       "x": "Look for \"they say\": the courts are \"the only institution left that can act quickly\"."
+      },
+      {
+       "t": "Rule out traps",
+       "x": "A borrows from paragraph 5 but reverses it; C reverses \"without passing\"."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are part of the plaintiffs' argument EXCEPT:",
+     "opts": [
+      "AI companies have already caused a global economic crisis.",
+      "AI systems are being built to work with less human supervision.",
+      "The companies cannot guarantee their systems will avoid catastrophic harm.",
+      "Some industry leaders have said the technology could go badly wrong."
+     ],
+     "a": 0,
+     "why": "Paragraph 3 mentions reduced supervision, the lack of a guarantee against catastrophic harm, and leaders' own warnings. It never says AI has already caused an economic crisis.",
+     "evidence": "none of them can guarantee that these systems will not cause catastrophic harm",
+     "optWhy": [
+      "Correct. This is NOT mentioned. The evidence in the paragraph is \"documented cyberattacks\" and leaders' statements, not any economic crisis.",
+      "Mentioned. \"tasks with less and less human supervision\" matches this option.",
+      "Mentioned. \"none of them can guarantee that these systems will not cause catastrophic harm\" matches this option.",
+      "Mentioned. \"industry leaders themselves have admitted that the technology could go badly wrong\" matches this option."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "According to the plaintiffs, the companies are racing to build systems that can learn and carry out tasks with less and less human supervision, yet none of them can guarantee that these systems will not cause catastrophic harm.",
+       "hl": "less and less human supervision"
+      },
+      {
+       "para": 3,
+       "text": "It also quotes public statements in which industry leaders themselves have admitted that the technology could go badly wrong.",
+       "hl": "could go badly wrong"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the paragraph",
+       "x": "Paragraph 3 lists the plaintiffs' main claims and their evidence."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "Find B, C and D in the text: supervision, guarantee, leaders' statements."
+      },
+      {
+       "t": "Choose the missing one",
+       "x": "Nothing in the paragraph mentions an economic crisis, so A is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The companies have promised to pause their newest models until humans can control them.",
+      "The groups want all existing AI tools to be permanently banned by the court.",
+      "For now, the groups want a court order stopping work on new models until the firms prove humans still control the technology.",
+      "The groups want the court to control AI technology directly in the short term."
+     ],
+     "a": 2,
+     "why": "The sentence says that, in the short term, the groups want a court order (injunction) to pause new models until the companies prove humans still control the technology. Option C keeps all of this.",
+     "evidence": "they are seeking an emergency injunction that would pause work on new frontier models until the companies can demonstrate that the technology remains under human control",
+     "optWhy": [
+      "Detail swapped. It is the groups who are \"seeking\" the pause; the companies have promised nothing.",
+      "Too extreme. The injunction would \"pause work on new frontier models\", not permanently ban all existing tools.",
+      "Correct. \"emergency injunction\" = \"court order\"; \"pause work on new frontier models until the companies can demonstrate...\" = \"stopping work on new models until the firms prove...\".",
+      "Leaves out essential information. It drops the pause on new models and the condition \"until the companies can demonstrate\" control."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "In the short term, they are seeking an emergency injunction that would pause work on new frontier models until the companies can demonstrate that the technology remains under human control.",
+       "hl": "pause work on new frontier models until the companies can demonstrate"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break the sentence down",
+       "x": "Who? the groups. Want what? an injunction. To do what? pause new models. Until when? until control is proved."
+      },
+      {
+       "t": "Look for the paraphrase",
+       "x": "Find the option that keeps all four parts with different words."
+      },
+      {
+       "t": "Rule out changes",
+       "x": "A swaps who acts, B makes it permanent, D drops the condition."
+      }
+     ],
+     "highlight": "In the short term, they are seeking an emergency injunction that would pause work on new frontier models until the companies can demonstrate that the technology remains under human control."
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention \"medicine, education and scientific research\" in paragraph 5?",
+     "opts": [
+      "To show that a freeze could also hold back helpful uses of AI",
+      "To list the industries that filed the lawsuit against the companies",
+      "To prove that AI has already transformed these three fields",
+      "To explain why judges are experts in technology"
+     ],
+     "a": 0,
+     "why": "The three fields are examples of \"useful applications of AI\" that a freeze \"could also delay\". They illustrate the third objection to the lawsuit.",
+     "evidence": "a sweeping freeze could also delay useful applications of AI in medicine, education and scientific research",
+     "optWhy": [
+      "Correct. \"could also delay useful applications\" = \"hold back helpful uses of AI\"; the fields are examples of those uses.",
+      "Detail swapped. The lawsuit was filed by four nonprofit groups (paragraph 1), not by these sectors.",
+      "Too extreme. The text only says useful applications could be delayed; it never claims AI has already transformed these fields.",
+      "Contradicts the passage. The same paragraph says \"judges are trained in law, not computer science\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "A third worry is that a sweeping freeze could also delay useful applications of AI in medicine, education and scientific research.",
+       "hl": "delay useful applications of AI"
+      },
+      {
+       "para": 1,
+       "text": "On Thursday, November 12, four American nonprofit groups filed a lawsuit in San Francisco Superior Court that, if it succeeded, would be one of the most dramatic interventions in the history of technology.",
+       "hl": "four American nonprofit groups filed a lawsuit"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "The three fields appear in the last sentence of paragraph 5."
+      },
+      {
+       "t": "Ask what job it does",
+       "x": "The sentence begins \"A third worry is...\", so the fields illustrate an objection."
+      },
+      {
+       "t": "Rule out",
+       "x": "B confuses who sued; C exaggerates; D contradicts the same paragraph."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the lawsuit?",
+     "opts": [
+      "The judge has already rejected the request for a freeze.",
+      "The companies have agreed to share their testing methods.",
+      "Most of the harm described has already happened.",
+      "It could have an effect even if the freeze is not granted."
+     ],
+     "a": 3,
+     "why": "The author says the freeze \"faces a difficult path\" but the lawsuit \"may matter whatever its final outcome\" because it could force companies to explain their testing. So it could have an effect even without a freeze.",
+     "evidence": "the lawsuit may matter whatever its final outcome",
+     "optWhy": [
+      "Not stated. The request \"faces a difficult path\", which means no decision has been made yet.",
+      "Detail swapped. The lawsuit \"could force the companies to explain\" their testing; nothing says they have agreed to do so.",
+      "Contradicts the text. \"much of the harm being described lies in the future rather than the present\".",
+      "Correct. \"may matter whatever its final outcome\" + \"faces a difficult path\" = it could have an effect even if the freeze is not granted."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "For that reason, the request for an immediate freeze faces a difficult path.",
+       "hl": "faces a difficult path"
+      },
+      {
+       "para": 6,
+       "text": "Even so, the lawsuit may matter whatever its final outcome, because it could force the companies to explain, in a formal legal setting, how they test their systems and what they would do if something went seriously wrong.",
+       "hl": "may matter whatever its final outcome"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key contrast",
+       "x": "Paragraph 6 says the freeze \"faces a difficult path\", then \"Even so\"."
+      },
+      {
+       "t": "Infer",
+       "x": "\"Even so\" introduces a benefit that does not depend on winning."
+      },
+      {
+       "t": "Check against the text",
+       "x": "A, B and C each go beyond or reverse what paragraph 6 says."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261114-1-k1",
+     "tag": "Who",
+     "fact": "Four nonprofit groups sued OpenAI, Anthropic, Google, Meta and SpaceX's AI division in San Francisco Superior Court.",
+     "q": "Where was the lawsuit filed?",
+     "opts": [
+      "San Francisco Superior Court",
+      "The US Supreme Court",
+      "A court in Washington, D.C."
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-1-k2",
+     "tag": "Why a court",
+     "fact": "The plaintiffs say Congress has passed no broad AI law, leaving a vacuum that only courts can fill quickly.",
+     "q": "Why do the plaintiffs turn to a court?",
+     "opts": [
+      "Congress has passed no broad AI law",
+      "The companies asked for a court ruling",
+      "A new law requires it"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-1-k3",
+     "tag": "Demand",
+     "fact": "They want an emergency injunction pausing new frontier models until companies prove human control.",
+     "q": "Until when would the pause last?",
+     "opts": [
+      "Until the companies prove the technology is under human control",
+      "For exactly one year",
+      "Until China agrees to stop"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-1-k4",
+     "tag": "Strict liability",
+     "fact": "Strict liability means companies pay for damage even if they were not careless.",
+     "q": "Under strict liability, a company pays for damage...",
+     "opts": [
+      "even if it was not careless",
+      "only if it broke a law on purpose",
+      "only if a judge finds it careless"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-1-k5",
+     "tag": "Objection",
+     "fact": "Critics raise competition with China, judges' lack of technical expertise, and delays to useful AI.",
+     "q": "Which is NOT an objection in the passage?",
+     "opts": [
+      "AI is too expensive for schools",
+      "Competition with rival countries",
+      "Judges are not computer scientists"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "AI pause lawsuit",
+    "question": "Should a court be able to pause AI?",
+    "distractors": [
+     "companies already agreed to pause",
+     "Congress passed a federal AI law"
+    ],
+    "branches": [
+     {
+      "title": "The case",
+      "paras": "1–2",
+      "blanks": [
+       "four nonprofits sue five developers",
+       "Congress left a vacuum"
+      ],
+      "kps": [
+       "n20261114-1-k1",
+       "n20261114-1-k2"
+      ]
+     },
+     {
+      "title": "Main claim",
+      "paras": "3",
+      "blanks": [
+       "no guarantee against catastrophic harm"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Demands",
+      "paras": "4",
+      "blanks": [
+       "emergency injunction on new models",
+       "strict liability for damage"
+      ],
+      "kps": [
+       "n20261114-1-k3",
+       "n20261114-1-k4"
+      ]
+     },
+     {
+      "title": "Objections",
+      "paras": "5–7",
+      "blanks": [
+       "competition with rival countries",
+       "judges are not computer scientists"
+      ],
+      "kps": [
+       "n20261114-1-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "Four nonprofit groups have asked a US court to pause the development of the most advanced AI models.",
+    "model": "Because Congress has passed no broad AI law, four nonprofits want a court to pause new AI models until companies prove they are under control. However, critics question whether courts should make such decisions, so the case may matter more for the debate it starts than for its result.",
+    "options": [
+     {
+      "t": "The plaintiffs argue that, without a federal law, courts must act because companies cannot guarantee their systems are safe.",
+      "ok": true,
+      "why": "Correct. This is the core argument. (paragraphs 2–3)",
+      "type": "main",
+      "para": 2,
+      "evidence": "this silence has created a dangerous vacuum"
+     },
+     {
+      "t": "The groups want an emergency pause on new models, followed by inspections, independent evaluators and strict liability.",
+      "ok": true,
+      "why": "Correct. This summarizes the demands. (paragraph 4)",
+      "type": "main",
+      "para": 4,
+      "evidence": "they are seeking an emergency injunction"
+     },
+     {
+      "t": "Critics raise objections about competition, expertise and lost benefits, and a full freeze faces a difficult path in court.",
+      "ok": true,
+      "why": "Correct. This covers the opposing view and likely outcome. (paragraphs 5–6)",
+      "type": "main",
+      "para": 6,
+      "evidence": "the request for an immediate freeze faces a difficult path"
+     },
+     {
+      "t": "Meta declined to comment on the lawsuit.",
+      "ok": false,
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 6)",
+      "type": "detail",
+      "para": 6,
+      "evidence": "Meta declined to comment"
+     },
+     {
+      "t": "The judge has scheduled a hearing for early next year.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The five companies have agreed to stop training new models.",
+      "ok": false,
+      "why": "Contradicts the passage: the companies have said little and agreed to nothing.",
+      "type": "contra",
+      "para": 6,
+      "evidence": "the other four defendants did not immediately respond to reporters"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe new technologies should be tested very carefully before the public can use them, even if this slows progress. Others think it is better to release new technology quickly and fix problems later. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (safety / speed) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, four nonprofit groups asked a US court to pause the development of the most advanced AI models until the companies can prove the technology is under human control. Supporters call this a necessary emergency brake. Critics say courts should not make technology policy and that a pause could delay useful applications. Should a powerful new technology be paused until its safety is proven? Why or why not? (Lena says: Yes. We do not allow new medicines to be sold before they are tested, so AI should not be different. If the risks are serious, it is better to wait a little than to regret it later.) (Marcus says: I disagree. A pause would only slow down the careful companies while others keep going. It is better to keep developing AI and to build strong safety rules at the same time.)",
+    "steps": [
+     "Decide: pause until safety is proven, or keep developing with rules.",
+     "Give one reason, such as testing rules in medicine or competition between countries.",
+     "Add an example, such as new medicines or self-driving cars.",
+     "Respond to Lena or Marcus, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261114-2",
+   "topic": "Animals",
+   "title": "Faster Than Thought? Crows Out-Decide Monkeys and Humans",
+   "dek": "Two crows made visual decisions in about a quarter of a second. Does a faster decision mean a smarter brain, and how far can two birds take us?",
+   "sources": [
+    {
+     "name": "ScienceDaily (University of Tübingen), Nov 12, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
+    },
+    {
+     "name": "University of Tübingen press release, Oct 2026",
+     "url": "https://uni-tuebingen.de/en/news-default/article/crows-make-decisions-twice-as-fast-as-humans-and-monkeys/"
+    },
+    {
+     "name": "Science, Oct 22, 2026 (doi:10.1126/science.aed6459)",
+     "url": "https://doi.org/10.1126/science.aed6459"
+    }
+   ],
+   "paras": [
+    "Making a decision often feels instant, but every choice requires the brain to collect evidence, weigh it and then commit to an action. A new study published in the journal Science suggests that crows complete this process remarkably quickly. Philipp Schmidbauer and Andreas Nieder, two neuroscientists at the University of Tübingen in Germany, found that carrion crows can make a simple visual decision in about 235 milliseconds, roughly twice as fast as monkeys tested on similar tasks and apparently faster than humans as well.",
+    "To measure decision speed, the researchers adapted a classic experiment that has been used with monkeys for decades. Two hand-raised crows sat in front of a touchscreen showing white dots on a black background. Some of the dots moved together to the left or to the right, while the rest moved randomly. The bird had to judge the overall direction and peck one of two targets, and every correct answer earned a mealworm. The difficulty varied enormously. In the easiest trials, 81 percent of the dots moved in the same direction; in the hardest, only 3 percent did, which made the signal almost impossible to separate from the background noise.",
+    "The crows began to respond, on average, about 235 milliseconds after the dots appeared, measured from the first movement of the head toward the screen. In three earlier studies with closely matched tasks, monkeys needed roughly 410 to 600 milliseconds. Strikingly, the birds barely slowed down when the task became harder: their reaction times ranged from about 220 milliseconds on the easiest trials to 254 milliseconds on the hardest. Their accuracy was nearly perfect when the motion was clear and still above chance when it was faint. Nieder stressed that the crows were never pushed to hurry. \"We just gave them a self-paced decision,\" he explained.",
+    "The team also recorded the activity of 248 individual neurons in a region called the nidopallium caudolaterale, which is thought to play a role similar to that of the prefrontal cortex in primates. Of these cells, 58 fired differently depending on which direction the crow would eventually choose. Remarkably, this signal appeared only about 70 milliseconds after the dots came on, roughly 170 milliseconds before the bird moved its head. The activity rose gradually as evidence accumulated, grew faster when the motion was clearer, and reached a common level at the moment the bird committed to its choice.",
+    "This pattern closely resembles what scientists call a \"decision variable\", a running total of evidence that climbs until it crosses a threshold. The same computation was first described in the brains of monkeys. Yet the ancestors of birds and mammals went their separate ways more than 300 million years ago, and the two groups organize their brains very differently: mammals have a layered cortex, whereas birds pack their neurons into dense clusters. That two such different structures solve the problem in the same way is a striking example of convergent evolution. As Nieder put it, \"a brain does not need a mammalian neocortex to perform sophisticated computations.\"",
+    "Why are crows so fast? The researchers have several ideas, but each one is still a hypothesis that has not yet been tested directly. Bird brains contain many small neurons packed closely together, so the fibres connecting them are short. \"Long lines take time. Short lines speed everything up,\" Nieder said. Birds also have a higher body temperature, about 41 to 42 degrees Celsius compared with roughly 36.6 degrees in humans, which could speed up the chemical signals between cells. Finally, a life spent flying and searching for food may have favoured animals that could react to what they see in a fraction of a second.",
+    "Nevertheless, the findings come with important limits. Only two birds were tested, although this is the usual number for studies that record single neurons in monkeys. The crows were not compared with monkeys or humans in the same laboratory; instead, their results were set against published studies that used different equipment and a different response, since monkeys move their eyes while crows peck. The comparison with humans is the weakest part of the claim. Most importantly, the experiment measured one narrow skill. Being quick at judging moving dots does not make crows smarter than people overall, but it does show that intelligence can be built in more than one way."
+   ],
+   "words": [
+    {
+     "w": "commit",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kəˈmɪt/",
+     "syl": [
+      "com",
+      "mit"
+     ],
+     "def": "to make a final decision to do something, so that you cannot easily change it",
+     "ex": "Once you commit to an answer on the test, move on to the next question."
+    },
+    {
+     "w": "adapt",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/əˈdæpt/",
+     "syl": [
+      "a",
+      "dapt"
+     ],
+     "def": "to change something so that it is suitable for a new use or situation",
+     "ex": "The teacher had to adapt the experiment so that younger students could do it safely."
+    },
+    {
+     "w": "neuron",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈnjʊərɒn/",
+     "syl": [
+      "neu",
+      "ron"
+     ],
+     "def": "a cell that carries information as electrical and chemical signals in the brain and nerves",
+     "ex": "Each neuron can connect with thousands of other cells in the brain."
+    },
+    {
+     "w": "accumulate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/əˈkjuːmjəleɪt/",
+     "syl": [
+      "ac",
+      "cu",
+      "mu",
+      "late"
+     ],
+     "def": "to gradually increase in amount over a period of time",
+     "ex": "Dust will accumulate on the shelves if nobody cleans the room."
+    },
+    {
+     "w": "threshold",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈθreʃhəʊld/",
+     "syl": [
+      "thresh",
+      "old"
+     ],
+     "def": "the level or point at which something starts to happen",
+     "ex": "The alarm sounds only when the noise rises above a certain threshold."
+    },
+    {
+     "w": "cortex",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkɔːteks/",
+     "syl": [
+      "cor",
+      "tex"
+     ],
+     "def": "the outer layer of the brain, involved in thinking, memory and planning",
+     "ex": "Damage to the visual cortex can affect how a person sees shapes and colours."
+    },
+    {
+     "w": "convergent evolution",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kənˈvɜːdʒənt ˌiːvəˈluːʃn/",
+     "syl": [
+      "con",
+      "ver",
+      "gent",
+      "e",
+      "vo",
+      "lu",
+      "tion"
+     ],
+     "def": "the process by which unrelated living things develop similar features because they face similar challenges",
+     "ex": "The wings of bats and birds are a famous example of convergent evolution."
+    },
+    {
+     "w": "hypothesis",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/haɪˈpɒθəsɪs/",
+     "syl": [
+      "hy",
+      "poth",
+      "e",
+      "sis"
+     ],
+     "def": "an idea that explains something but has not yet been proved",
+     "ex": "Our hypothesis was that plants near the window would grow taller."
+    },
+    {
+     "w": "sophisticated",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/səˈfɪstɪkeɪtɪd/",
+     "syl": [
+      "so",
+      "phis",
+      "ti",
+      "cat",
+      "ed"
+     ],
+     "def": "complex and advanced in the way it works",
+     "ex": "Modern phones use sophisticated software to recognise faces."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Making a decision often feels instant, but every choice requires the brain to collect evidence, weigh it and then commit to an action.",
+     "kind": "Topic sentence",
+     "note": "Defines decision-making as a process, which the rest of the passage measures."
+    },
+    {
+     "para": 3,
+     "text": "Strikingly, the birds barely slowed down when the task became harder: their reaction times ranged from about 220 milliseconds on the easiest trials to 254 milliseconds on the hardest.",
+     "kind": "Key details",
+     "note": "Numbers plus a colon explanation: check exactly which number belongs to which condition."
+    },
+    {
+     "para": 4,
+     "text": "The activity rose gradually as evidence accumulated, grew faster when the motion was clearer, and reached a common level at the moment the bird committed to its choice.",
+     "kind": "Key details",
+     "note": "Three steps in one sentence; questions often test their order."
+    },
+    {
+     "para": 5,
+     "text": "That two such different structures solve the problem in the same way is a striking example of convergent evolution.",
+     "kind": "Interpretation",
+     "note": "The author explains why the finding matters; rhetorical purpose questions point here."
+    },
+    {
+     "para": 6,
+     "text": "The researchers have several ideas, but each one is still a hypothesis that has not yet been tested directly.",
+     "kind": "Hedging",
+     "note": "Hedging words like \"hypothesis\" and \"not yet\" tell you the claims are uncertain."
+    },
+    {
+     "para": 7,
+     "text": "Being quick at judging moving dots does not make crows smarter than people overall, but it does show that intelligence can be built in more than one way.",
+     "kind": "Author's view",
+     "note": "The author's final judgment limits the claim; avoid answer choices that say crows are smarter overall."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what made some trials much harder than others?",
+     "opts": [
+      "The crows had to peck the screen several times in a row.",
+      "The dots appeared on a white background instead of a black one.",
+      "Only a very small share of the dots moved in the same direction.",
+      "The researchers stopped giving the crows any reward."
+     ],
+     "a": 2,
+     "why": "The difficulty depended on how many dots moved together: 81 percent in the easiest trials, \"only 3 percent\" in the hardest. Option C restates this.",
+     "evidence": "in the hardest, only 3 percent did",
+     "optWhy": [
+      "Not mentioned. The bird pecked \"one of two targets\"; nothing says it pecked several times.",
+      "Detail swapped. The screen showed \"white dots on a black background\" in all trials.",
+      "Correct. \"only 3 percent did\" (moved in the same direction) = \"only a very small share of the dots moved in the same direction\".",
+      "Contradicts the text. \"every correct answer earned a mealworm\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "In the easiest trials, 81 percent of the dots moved in the same direction; in the hardest, only 3 percent did, which made the signal almost impossible to separate from the background noise.",
+       "hl": "only 3 percent did"
+      },
+      {
+       "para": 2,
+       "text": "Two hand-raised crows sat in front of a touchscreen showing white dots on a black background.",
+       "hl": "white dots on a black background"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key words",
+       "x": "Look for \"easiest\" and \"hardest\" in paragraph 2."
+      },
+      {
+       "t": "Compare the numbers",
+       "x": "81 percent vs 3 percent of dots moving together."
+      },
+      {
+       "t": "Rule out",
+       "x": "B swaps the colours; D contradicts the mealworm reward."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"faint\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "weak and hard to detect",
+      "about to lose consciousness",
+      "moving very fast",
+      "completely missing"
+     ],
+     "a": 0,
+     "why": "\"faint\" is contrasted with \"clear\": accuracy was nearly perfect when the motion was clear and still above chance when it was faint. So it means weak and hard to see.",
+     "evidence": "still above chance when it was faint",
+     "optWhy": [
+      "Correct. \"faint\" is the opposite of \"clear\" in the same sentence, so it means weak and hard to detect.",
+      "Wrong meaning of the word. \"To faint\" can mean to lose consciousness, but here the word describes the motion signal, not a person.",
+      "Not supported. The sentence is about how clear the motion was, not its speed.",
+      "Too extreme. If the signal were completely missing, the crows could not be \"above chance\"; the motion was there but weak."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Their accuracy was nearly perfect when the motion was clear and still above chance when it was faint.",
+       "hl": "when it was faint"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"faint\" is in paragraph 3, describing the motion."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "The sentence contrasts \"clear\" with \"faint\"."
+      },
+      {
+       "t": "Check the options",
+       "x": "Only A is the opposite of clear; B is another meaning of the word."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, which of the following is NOT true of the neurons that were recorded?",
+     "opts": [
+      "Some of them showed which direction the crow would choose.",
+      "Their activity increased gradually as evidence came in.",
+      "Their signal appeared before the crow moved its head.",
+      "They were located in the bird's prefrontal cortex."
+     ],
+     "a": 3,
+     "why": "The neurons were in the nidopallium caudolaterale, which only \"plays a role similar to\" the prefrontal cortex of primates. Birds do not have a prefrontal cortex, so D is not true.",
+     "evidence": "a region called the nidopallium caudolaterale, which is thought to play a role similar to that of the prefrontal cortex in primates",
+     "optWhy": [
+      "True. \"58 fired differently depending on which direction the crow would eventually choose\".",
+      "True. \"The activity rose gradually as evidence accumulated\".",
+      "True. The signal came \"roughly 170 milliseconds before the bird moved its head\".",
+      "Correct (NOT true). The region is \"similar to\" the prefrontal cortex \"in primates\"; paragraph 5 adds that birds have no layered cortex at all."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The team also recorded the activity of 248 individual neurons in a region called the nidopallium caudolaterale, which is thought to play a role similar to that of the prefrontal cortex in primates.",
+       "hl": "similar to that of the prefrontal cortex in primates"
+      },
+      {
+       "para": 5,
+       "text": "Yet the ancestors of birds and mammals went their separate ways more than 300 million years ago, and the two groups organize their brains very differently: mammals have a layered cortex, whereas birds pack their neurons into dense clusters.",
+       "hl": "birds pack their neurons into dense clusters"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read paragraph 4",
+       "x": "It describes where the neurons are and what they did."
+      },
+      {
+       "t": "Check A, B and C",
+       "x": "Each matches a phrase: \"58 fired differently\", \"rose gradually\", \"170 milliseconds before\"."
+      },
+      {
+       "t": "Spot the trap",
+       "x": "D turns \"similar to the prefrontal cortex\" into \"in the prefrontal cortex\"."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention that birds and mammals \"went their separate ways more than 300 million years ago\" in paragraph 5?",
+     "opts": [
+      "To explain why crows live longer than monkeys",
+      "To emphasize how surprising it is that both groups use the same computation",
+      "To argue that monkeys learned their decision method from birds",
+      "To show that the crow experiment was first done 300 million years ago"
+     ],
+     "a": 1,
+     "why": "The long separation shows how different the two groups are. This makes it striking that they \"solve the problem in the same way\", which the author calls convergent evolution.",
+     "evidence": "the ancestors of birds and mammals went their separate ways more than 300 million years ago",
+     "optWhy": [
+      "Not mentioned. Lifespan is never discussed in the passage.",
+      "Correct. The separation sets up the surprise: \"That two such different structures solve the problem in the same way is a striking example of convergent evolution.\"",
+      "Wrong cause. Convergent evolution means the groups developed the same solution independently, not that one learned from the other.",
+      "Misreads the number. 300 million years refers to when the ancestors split, not to the experiment."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Yet the ancestors of birds and mammals went their separate ways more than 300 million years ago, and the two groups organize their brains very differently: mammals have a layered cortex, whereas birds pack their neurons into dense clusters.",
+       "hl": "went their separate ways more than 300 million years ago"
+      },
+      {
+       "para": 5,
+       "text": "That two such different structures solve the problem in the same way is a striking example of convergent evolution.",
+       "hl": "a striking example of convergent evolution"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It follows \"Yet\" in paragraph 5, signalling a contrast."
+      },
+      {
+       "t": "Ask what it sets up",
+       "x": "Two sentences later the author calls the shared method \"striking\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "C reverses the idea of convergent evolution; A and D are not in the text."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the reasons for the crows' speed?",
+     "opts": [
+      "Body temperature has been proved to be the main cause.",
+      "Scientists still need further studies to confirm them.",
+      "Crows that fly less make decisions more quickly.",
+      "Large neurons with long fibres are the key advantage."
+     ],
+     "a": 1,
+     "why": "The author says each explanation \"is still a hypothesis that has not yet been tested directly\". So more research is needed to confirm them.",
+     "evidence": "has not yet been tested directly",
+     "optWhy": [
+      "Too extreme. Temperature \"could speed up\" signals; nothing has been proved.",
+      "Correct. \"still a hypothesis that has not yet been tested directly\" implies that further studies are needed to confirm the explanations.",
+      "Reverses the idea. The text says a life spent flying may have favoured fast reactions, not that less flying makes crows faster.",
+      "Detail reversed. The text describes \"many small neurons\" and fibres that are \"short\": \"Short lines speed everything up.\""
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The researchers have several ideas, but each one is still a hypothesis that has not yet been tested directly.",
+       "hl": "has not yet been tested directly"
+      },
+      {
+       "para": 6,
+       "text": "Bird brains contain many small neurons packed closely together, so the fibres connecting them are short.",
+       "hl": "many small neurons"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the signal",
+       "x": "Paragraph 6 opens with a question and calls each answer \"a hypothesis\"."
+      },
+      {
+       "t": "Infer",
+       "x": "\"not yet tested directly\" means the explanations are unconfirmed."
+      },
+      {
+       "t": "Rule out",
+       "x": "A overstates; C and D reverse details from the paragraph."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The crows, monkeys and humans were all tested together in one laboratory with the same equipment.",
+      "The crows' results were compared with earlier studies that used different methods, so the comparison is not exact.",
+      "Monkeys cannot peck, so the researchers decided not to compare them with crows at all.",
+      "The crows performed better because they pecked instead of moving their eyes."
+     ],
+     "a": 1,
+     "why": "The sentence says the crows were compared with published studies, not tested side by side, and those studies used different equipment and responses. Option B keeps this and the point that the comparison is not exact.",
+     "evidence": "their results were set against published studies that used different equipment and a different response",
+     "optWhy": [
+      "Contradicts the sentence. They were \"not compared ... in the same laboratory\".",
+      "Correct. \"set against published studies that used different equipment and a different response\" = \"compared with earlier studies that used different methods\"; the paragraph lists this as a limit.",
+      "Too extreme. The crows were compared with monkeys, through published studies.",
+      "Invented cause. The sentence explains a methodological difference; it does not say pecking made the crows perform better."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "The crows were not compared with monkeys or humans in the same laboratory; instead, their results were set against published studies that used different equipment and a different response, since monkeys move their eyes while crows peck.",
+       "hl": "set against published studies"
+      },
+      {
+       "para": 7,
+       "text": "Nevertheless, the findings come with important limits.",
+       "hl": "important limits"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break the sentence down",
+       "x": "Not the same lab → instead, published studies → different equipment and response."
+      },
+      {
+       "t": "Keep the purpose",
+       "x": "Paragraph 7 is about limits, so the answer should show the comparison is not exact."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses, C exaggerates, D adds a cause."
+      }
+     ],
+     "highlight": "The crows were not compared with monkeys or humans in the same laboratory; instead, their results were set against published studies that used different equipment and a different response, since monkeys move their eyes while crows peck."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261114-2-k1",
+     "tag": "Speed",
+     "fact": "Crows responded in about 235 ms; monkeys in similar tasks took about 410–600 ms.",
+     "q": "About how fast did the crows respond?",
+     "opts": [
+      "235 milliseconds",
+      "600 milliseconds",
+      "70 milliseconds"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-2-k2",
+     "tag": "Method",
+     "fact": "Crows judged the overall direction of moving dots and pecked a target, earning a mealworm.",
+     "q": "What did the crows have to judge?",
+     "opts": [
+      "The main direction of moving dots",
+      "The colour of the dots",
+      "The number of dots"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-2-k3",
+     "tag": "Neurons",
+     "fact": "Choice signals in the nidopallium caudolaterale appeared about 70 ms after the dots came on.",
+     "q": "When did the choice signal appear in the neurons?",
+     "opts": [
+      "About 70 ms after the dots appeared",
+      "After the crow pecked",
+      "About 600 ms after the dots appeared"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-2-k4",
+     "tag": "Evolution",
+     "fact": "Birds and mammals split over 300 million years ago but use the same decision computation: convergent evolution.",
+     "q": "What is this an example of?",
+     "opts": [
+      "Convergent evolution",
+      "Learning from humans",
+      "Faster body growth"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-2-k5",
+     "tag": "Limits",
+     "fact": "Only two crows were tested, and humans were not tested in the same study.",
+     "q": "How many crows were tested?",
+     "opts": [
+      "Two",
+      "Twenty",
+      "Two hundred"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Crows decide fast",
+    "question": "Does faster mean smarter?",
+    "distractors": [
+     "crows tested beside humans",
+     "crows slowed sharply on hard trials"
+    ],
+    "branches": [
+     {
+      "title": "The test",
+      "paras": "1–2",
+      "blanks": [
+       "moving-dot direction task",
+       "mealworm for correct answers"
+      ],
+      "kps": [
+       "n20261114-2-k2"
+      ]
+     },
+     {
+      "title": "Results",
+      "paras": "3",
+      "blanks": [
+       "about 235 milliseconds",
+       "barely slower on hard trials"
+      ],
+      "kps": [
+       "n20261114-2-k1"
+      ]
+     },
+     {
+      "title": "Inside the brain",
+      "paras": "4–5",
+      "blanks": [
+       "signal after about 70 ms",
+       "same computation as monkeys"
+      ],
+      "kps": [
+       "n20261114-2-k3",
+       "n20261114-2-k4"
+      ]
+     },
+     {
+      "title": "Why and limits",
+      "paras": "6–7",
+      "blanks": [
+       "small, densely packed neurons",
+       "only two birds tested"
+      ],
+      "kps": [
+       "n20261114-2-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A study in Science found that crows make simple visual decisions much faster than monkeys.",
+    "model": "Crows judged moving dots in about 235 milliseconds, and their neurons used the same evidence-gathering method as monkey brains. However, because only two birds were tested on one narrow task, the study shows that intelligence can evolve in different ways rather than that crows are smarter overall.",
+    "options": [
+     {
+      "t": "In a moving-dot task, crows decided in about 235 milliseconds, roughly twice as fast as monkeys in similar studies.",
+      "ok": true,
+      "why": "Correct. This is the main result. (paragraphs 1–3)",
+      "type": "main",
+      "para": 3,
+      "evidence": "monkeys needed roughly 410 to 600 milliseconds"
+     },
+     {
+      "t": "Neurons in the crow brain built up evidence to a threshold, the same computation found in monkeys despite very different brains.",
+      "ok": true,
+      "why": "Correct. This explains the brain findings and their meaning. (paragraphs 4–5)",
+      "type": "main",
+      "para": 5,
+      "evidence": "a striking example of convergent evolution"
+     },
+     {
+      "t": "The reasons for the speed are untested ideas, and the small, indirect comparison means the results have clear limits.",
+      "ok": true,
+      "why": "Correct. This covers the hypotheses and limits. (paragraphs 6–7)",
+      "type": "main",
+      "para": 7,
+      "evidence": "the findings come with important limits"
+     },
+     {
+      "t": "Each correct answer was rewarded with a mealworm.",
+      "ok": false,
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 2)",
+      "type": "detail",
+      "para": 2,
+      "evidence": "every correct answer earned a mealworm"
+     },
+     {
+      "t": "Pigeons were found to be even faster than crows.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The crows became much slower when the task was difficult.",
+      "ok": false,
+      "why": "Contradicts the passage: they barely slowed down.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "the birds barely slowed down when the task became harder"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people make decisions very quickly and trust their first idea. Others take their time and collect as much information as possible. Which approach do you think is better for students? Use specific reasons and examples.",
+    "hint": "Your choice → reason 1 (speed / accuracy) + example from school → reason 2 + example → conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A new study found that crows can make simple visual decisions about twice as fast as monkeys. Some people say results like this show that animals are much cleverer than we thought and deserve more protection. Others say one quick reaction on a single task tells us little about real intelligence. What do studies like this really tell us about animal intelligence? Explain your view. (Aisha says: I think it shows a lot. If a bird's brain can do the same calculation as a monkey's brain in half the time, we should stop treating birds as simple animals.) (Tom says: I'm not convinced. Being fast at one game in a lab is not the same as being intelligent. We need many different tests before we can compare animals fairly.)",
+    "steps": [
+     "Decide: the study shows a lot, or little, about intelligence.",
+     "Give one reason, such as the same brain computation or a single narrow task.",
+     "Add an example, such as crows using tools or the two-bird sample.",
+     "Respond to Aisha or Tom, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261114-3",
+   "topic": "Science",
+   "title": "Stuck on One Path: Why Some Children Struggle With Math",
+   "dek": "A Stanford brain study suggests that children with dyscalculia find it hard to switch strategies. But what does a link between brain activity and behaviour really prove?",
+   "sources": [
+    {
+     "name": "ScienceDaily (Society for Neuroscience), Nov 12, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm"
+    },
+    {
+     "name": "EurekAlert! / JNeurosci news release, Sep 21, 2026",
+     "url": "https://www.eurekalert.org/news-releases/1143526"
+    },
+    {
+     "name": "Neuroscience News, 2026",
+     "url": "https://neurosciencenews.com/math-blindness-neurodevelopment-31229/"
+    }
+   ],
+   "paras": [
+    "Most students find some maths problems difficult, but for a small group of children the difficulty never seems to go away. These children have developmental dyscalculia, a learning disorder that makes it persistently hard to understand numbers and carry out calculations. It is often estimated to affect around 5 to 7 percent of school-aged children, many of whom have normal intelligence and ordinary schooling. A new study from Stanford University, published in The Journal of Neuroscience, offers a fresh explanation for why these children struggle: the problem may lie less in knowing facts and more in choosing how to solve a problem.",
+    "When children solve an arithmetic question such as 8 + 7, they can use several strategies. They may simply retrieve the answer from memory. They may decompose the problem into easier steps, for example by turning it into 8 + 2 + 5. Or they may count, either on their fingers or in their heads. Skilled problem solvers switch between these methods flexibly, choosing a quick strategy for easy questions and a more careful one for difficult ones. Over time, they learn which approach works best and use it more often.",
+    "The research team, led by Oliver Lasnick and including the neuroscientist Vinod Menon, studied 68 children aged 8 to 10. Some had dyscalculia, while others were more proficient at maths. The children solved arithmetic problems of varying difficulty while the researchers recorded which strategies they used and measured their brain activity with neuroimaging. This combination allowed the scientists to look not only at whether a child got the right answer, but also at how the child reached it.",
+    "The behavioural differences were clear. Children with dyscalculia used the available strategies less efficiently and took longer to switch from one method to another. When the problems became harder, they were less likely to adjust their approach, often sticking to slow procedures such as counting. Perhaps most importantly, they did not become better at choosing the best strategy over the course of the experiment, whereas their peers gradually improved. In other words, the difficulty was not just a lack of knowledge but a reduced ability to adapt.",
+    "The brain scans pointed in the same direction. Activity in brain systems involved in cognitive control, which help people direct attention, hold information in mind and change course, distinguished the children with dyscalculia from their more skilled classmates. Moreover, patterns of activity across these circuits predicted how efficiently individual children counted and how well they switched strategies. Based on these results, the authors suggest that dyscalculia may be linked to difficulties with executive functions such as attention, working memory and cognitive flexibility, rather than to a single problem with numbers.",
+    "If this interpretation is correct, it could change how struggling students are supported. Instead of simply giving children more practice with sums, teachers might also train them to notice when a strategy is not working and to try another one, while exercises for working memory could be added alongside arithmetic. Lasnick also emphasized \"the individual variability observed in dyscalculia\", suggesting that no single programme is likely to suit every child. However, the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.",
+    "The study also has limits that readers should keep in mind. The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths. The sample was modest and covered only one age group, so the results may not apply to younger children or teenagers. Even so, the research encourages a valuable change of perspective. A child who keeps counting on their fingers may not be lazy or slow, but stuck on one path and in need of help finding another."
+   ],
+   "words": [
+    {
+     "w": "persistently",
+     "level": "Academic",
+     "pos": "adv.",
+     "ipa": "/pəˈsɪstəntli/",
+     "syl": [
+      "per",
+      "sis",
+      "tent",
+      "ly"
+     ],
+     "def": "in a way that continues for a long time or keeps happening",
+     "ex": "The river level stayed persistently high throughout the rainy month."
+    },
+    {
+     "w": "retrieve",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/rɪˈtriːv/",
+     "syl": [
+      "re",
+      "trieve"
+     ],
+     "def": "to bring information back from memory or from a place where it is stored",
+     "ex": "Good sleep helps students retrieve what they learned the day before."
+    },
+    {
+     "w": "decompose",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˌdiːkəmˈpəʊz/",
+     "syl": [
+      "de",
+      "com",
+      "pose"
+     ],
+     "def": "to break something, such as a problem or number, into smaller and simpler parts",
+     "ex": "To find 9 × 6, you can decompose it into 10 × 6 minus 6."
+    },
+    {
+     "w": "flexibly",
+     "level": "Academic",
+     "pos": "adv.",
+     "ipa": "/ˈfleksəbli/",
+     "syl": [
+      "flex",
+      "i",
+      "bly"
+     ],
+     "def": "in a way that can change easily to suit new situations",
+     "ex": "Our school timetable is planned flexibly, so classes can move when there is an exam."
+    },
+    {
+     "w": "proficient",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/prəˈfɪʃnt/",
+     "syl": [
+      "pro",
+      "fi",
+      "cient"
+     ],
+     "def": "able to do something well because of training and practice",
+     "ex": "After two years of practice, she became proficient at playing the violin."
+    },
+    {
+     "w": "neuroimaging",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌnjʊərəʊˈɪmɪdʒɪŋ/",
+     "syl": [
+      "neu",
+      "ro",
+      "im",
+      "ag",
+      "ing"
+     ],
+     "def": "the use of scanning technology to produce pictures of the brain's structure or activity",
+     "ex": "Neuroimaging allows scientists to see which parts of the brain are active during reading."
+    },
+    {
+     "w": "executive function",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ɪɡˈzekjətɪv ˈfʌŋkʃn/",
+     "syl": [
+      "ex",
+      "ec",
+      "u",
+      "tive",
+      "func",
+      "tion"
+     ],
+     "def": "the mental skills, such as planning, attention and self-control, that help people manage their thinking and behaviour",
+     "ex": "Planning your homework schedule is a good way to practise executive function."
+    },
+    {
+     "w": "interpretation",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɪnˌtɜːprəˈteɪʃn/",
+     "syl": [
+      "in",
+      "ter",
+      "pre",
+      "ta",
+      "tion"
+     ],
+     "def": "an explanation of the meaning of something, such as research results",
+     "ex": "Scientists may agree on the data but disagree about its interpretation."
+    },
+    {
+     "w": "variability",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌveəriəˈbɪləti/",
+     "syl": [
+      "var",
+      "i",
+      "a",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the fact of differing or changing, for example between people or over time",
+     "ex": "There is great variability in how long different students need to finish the test."
+    },
+    {
+     "w": "association",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əˌsəʊsiˈeɪʃn/",
+     "syl": [
+      "as",
+      "so",
+      "ci",
+      "a",
+      "tion"
+     ],
+     "def": "a connection between two things that happen together, which may or may not be cause and effect",
+     "ex": "The study found an association between reading for fun and better vocabulary."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new study from Stanford University, published in The Journal of Neuroscience, offers a fresh explanation for why these children struggle: the problem may lie less in knowing facts and more in choosing how to solve a problem.",
+     "kind": "Main idea",
+     "note": "The thesis of the passage; the colon introduces the explanation."
+    },
+    {
+     "para": 2,
+     "text": "Skilled problem solvers switch between these methods flexibly, choosing a quick strategy for easy questions and a more careful one for difficult ones.",
+     "kind": "Key details",
+     "note": "Describes the skill that the study later compares; useful for contrast questions."
+    },
+    {
+     "para": 4,
+     "text": "In other words, the difficulty was not just a lack of knowledge but a reduced ability to adapt.",
+     "kind": "Main idea",
+     "note": "\"In other words\" restates the paragraph's point; a perfect anchor for summaries."
+    },
+    {
+     "para": 5,
+     "text": "Based on these results, the authors suggest that dyscalculia may be linked to difficulties with executive functions such as attention, working memory and cognitive flexibility, rather than to a single problem with numbers.",
+     "kind": "Hedging",
+     "note": "\"suggest\" and \"may be linked\" show a careful claim, not a proven fact."
+    },
+    {
+     "para": 6,
+     "text": "However, the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.",
+     "kind": "Critical thinking",
+     "note": "Separates proposals from proven results, a frequent inference question."
+    },
+    {
+     "para": 7,
+     "text": "The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths.",
+     "kind": "Critical thinking",
+     "note": "Correlation vs causation, one of the most tested ideas in science passages."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, which of the following is true of children with developmental dyscalculia?",
+     "opts": [
+      "Most of them have lower intelligence than their classmates.",
+      "Their difficulties usually disappear by the age of ten.",
+      "Many of them have normal intelligence and ordinary schooling.",
+      "They make up about half of all school-aged children."
+     ],
+     "a": 2,
+     "why": "Paragraph 1 says dyscalculia affects children \"many of whom have normal intelligence and ordinary schooling\". Option C restates this.",
+     "evidence": "many of whom have normal intelligence and ordinary schooling",
+     "optWhy": [
+      "Contradicts the text. \"many of whom have normal intelligence\".",
+      "Contradicts the text. The difficulty is \"persistently hard\" and \"never seems to go away\".",
+      "Correct. \"many of whom have normal intelligence and ordinary schooling\" is restated almost directly.",
+      "Wrong number. It affects \"around 5 to 7 percent\", not half."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "It is often estimated to affect around 5 to 7 percent of school-aged children, many of whom have normal intelligence and ordinary schooling.",
+       "hl": "many of whom have normal intelligence and ordinary schooling"
+      },
+      {
+       "para": 1,
+       "text": "Most students find some maths problems difficult, but for a small group of children the difficulty never seems to go away.",
+       "hl": "never seems to go away"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the description",
+       "x": "Paragraph 1 defines dyscalculia and gives figures."
+      },
+      {
+       "t": "Match the phrase",
+       "x": "\"normal intelligence and ordinary schooling\" appears word for word."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and B reverse the text; D changes 5–7 percent to half."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author give the example of turning 8 + 7 into 8 + 2 + 5 in paragraph 2?",
+     "opts": [
+      "To illustrate what it means to decompose a problem into easier steps",
+      "To show that counting on fingers is the fastest strategy",
+      "To prove that children with dyscalculia cannot add numbers",
+      "To explain why retrieving answers from memory is unreliable"
+     ],
+     "a": 0,
+     "why": "The phrase \"for example\" shows that 8 + 2 + 5 is an illustration of the strategy just named: decomposing a problem into easier steps.",
+     "evidence": "They may decompose the problem into easier steps, for example by turning it into 8 + 2 + 5.",
+     "optWhy": [
+      "Correct. \"decompose the problem into easier steps, for example by turning it into 8 + 2 + 5\": the example illustrates the strategy.",
+      "Not mentioned. Counting is listed as another option; the paragraph never says it is fastest.",
+      "Too extreme and off-topic. Paragraph 2 describes strategies in general; it says nothing about children being unable to add.",
+      "Not mentioned. Retrieval is described simply as one strategy, with no claim that it is unreliable."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "They may decompose the problem into easier steps, for example by turning it into 8 + 2 + 5.",
+       "hl": "for example by turning it into 8 + 2 + 5"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "8 + 2 + 5 appears in the third sentence of paragraph 2."
+      },
+      {
+       "t": "Look for the signal",
+       "x": "\"for example\" links it to \"decompose the problem into easier steps\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "B, C and D add claims the paragraph never makes."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following describe children with dyscalculia in the study EXCEPT:",
+     "opts": [
+      "They took longer to change from one method to another.",
+      "They often kept using slow procedures on harder problems.",
+      "They did not get better at choosing strategies during the experiment.",
+      "They refused to solve problems that seemed too difficult."
+     ],
+     "a": 3,
+     "why": "Paragraph 4 describes slower switching, sticking to slow procedures and no improvement in strategy choice. It never says the children refused to solve problems.",
+     "evidence": "they did not become better at choosing the best strategy over the course of the experiment",
+     "optWhy": [
+      "Mentioned. \"took longer to switch from one method to another\".",
+      "Mentioned. \"often sticking to slow procedures such as counting\".",
+      "Mentioned. \"they did not become better at choosing the best strategy over the course of the experiment\".",
+      "Correct. This is NOT stated. The children kept working but adapted less well; nothing says they refused."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "When the problems became harder, they were less likely to adjust their approach, often sticking to slow procedures such as counting.",
+       "hl": "sticking to slow procedures"
+      },
+      {
+       "para": 4,
+       "text": "Perhaps most importantly, they did not become better at choosing the best strategy over the course of the experiment, whereas their peers gradually improved.",
+       "hl": "did not become better at choosing the best strategy"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read paragraph 4",
+       "x": "It lists the behavioural differences."
+      },
+      {
+       "t": "Tick off A, B and C",
+       "x": "Each matches a phrase in the paragraph."
+      },
+      {
+       "t": "Choose the one not there",
+       "x": "Refusing to solve problems is never mentioned, so D is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word \"course\" in paragraph 5 is closest in meaning to",
+     "opts": [
+      "a series of lessons",
+      "a direction or plan of action",
+      "a part of a meal",
+      "a track for racing"
+     ],
+     "a": 1,
+     "why": "\"change course\" describes what cognitive control helps people do: change direction or approach, just like switching strategies.",
+     "evidence": "hold information in mind and change course",
+     "optWhy": [
+      "Wrong meaning of the word. \"A course\" can be a series of lessons, but you cannot \"change\" one in the sense used here.",
+      "Correct. \"change course\" = change direction or plan, which matches switching strategies.",
+      "Wrong meaning of the word. A course can be part of a meal, but that has nothing to do with attention or memory.",
+      "Wrong meaning of the word. A race course is a track; the sentence is about mental control."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Activity in brain systems involved in cognitive control, which help people direct attention, hold information in mind and change course, distinguished the children with dyscalculia from their more skilled classmates.",
+       "hl": "change course"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"course\" appears in \"change course\" in paragraph 5."
+      },
+      {
+       "t": "Use the context",
+       "x": "It is one of three abilities of cognitive control, next to attention and memory."
+      },
+      {
+       "t": "Pick the meaning",
+       "x": "Only B fits a mental ability; A, C and D are other dictionary meanings."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the teaching ideas mentioned?",
+     "opts": [
+      "They have already been shown to cure dyscalculia.",
+      "Teachers should stop giving children practice with sums.",
+      "Their effectiveness has not yet been tested.",
+      "One programme will work equally well for all children."
+     ],
+     "a": 2,
+     "why": "The paragraph ends: \"the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.\"",
+     "evidence": "the researchers did not test any of these teaching methods",
+     "optWhy": [
+      "Contradicts the text. The ideas \"remain proposals rather than proven solutions\".",
+      "Too extreme. Teachers \"might also\" train strategy switching \"alongside arithmetic\"; practice is not stopped.",
+      "Correct. \"did not test any of these teaching methods\" = their effectiveness has not yet been tested.",
+      "Contradicts the text. Lasnick's point about variability suggests \"no single programme is likely to suit every child\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "However, the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.",
+       "hl": "did not test any of these teaching methods"
+      },
+      {
+       "para": 6,
+       "text": "Lasnick also emphasized \"the individual variability observed in dyscalculia\", suggesting that no single programme is likely to suit every child.",
+       "hl": "no single programme is likely to suit every child"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the hedge",
+       "x": "Paragraph 6 begins \"If this interpretation is correct\" and ends with \"However\"."
+      },
+      {
+       "t": "Infer",
+       "x": "\"did not test\" + \"remain proposals\" means effectiveness is unknown."
+      },
+      {
+       "t": "Rule out",
+       "x": "A overstates, B misreads \"also\", D contradicts the variability point."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because brain activity and behaviour are linked, the study cannot show cause and effect, and struggling with maths may itself change the brain.",
+      "The study proves that years of struggling with maths cause differences in the brain.",
+      "Brain differences clearly cause dyscalculia, as the link with behaviour shows.",
+      "The study found no connection between brain activity and maths behaviour."
+     ],
+     "a": 0,
+     "why": "The sentence makes three points: the study found associations, so it cannot prove cause, and the brain differences might partly come from struggling with maths. Option A keeps all three.",
+     "evidence": "they cannot prove that differences in the brain cause dyscalculia",
+     "optWhy": [
+      "Correct. \"show associations\" = \"are linked\"; \"cannot prove ... cause\" = \"cannot show cause and effect\"; \"could also partly result from years of struggling\" = \"struggling with maths may itself change the brain\".",
+      "Too extreme. The text says \"could also partly result\"; it proves nothing in either direction.",
+      "Contradicts the sentence. The findings \"cannot prove that differences in the brain cause dyscalculia\".",
+      "Contradicts the sentence. The study did find \"associations between brain activity and behaviour\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths.",
+       "hl": "cannot prove that differences in the brain cause dyscalculia"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break the sentence down",
+       "x": "Association found → cannot prove cause → the cause might even run the other way."
+      },
+      {
+       "t": "Look for the paraphrase",
+       "x": "Find the option that keeps all three ideas."
+      },
+      {
+       "t": "Rule out",
+       "x": "B and C turn a possibility into certainty; D denies the association."
+      }
+     ],
+     "highlight": "The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261114-3-k1",
+     "tag": "Dyscalculia",
+     "fact": "Developmental dyscalculia is a learning disorder that makes numbers persistently hard; it is often estimated to affect 5–7% of children.",
+     "q": "Roughly what share of children is often estimated to have dyscalculia?",
+     "opts": [
+      "5–7 percent",
+      "About half",
+      "Less than 1 percent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-3-k2",
+     "tag": "Study",
+     "fact": "Stanford researchers studied 68 children aged 8 to 10, recording strategies and brain activity.",
+     "q": "How old were the children?",
+     "opts": [
+      "8 to 10",
+      "5 to 6",
+      "13 to 15"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-3-k3",
+     "tag": "Finding",
+     "fact": "Children with dyscalculia switched strategies more slowly and did not improve at choosing strategies.",
+     "q": "What did children with dyscalculia NOT improve at?",
+     "opts": [
+      "Choosing the best strategy",
+      "Counting on their fingers",
+      "Remembering their names"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-3-k4",
+     "tag": "Brain",
+     "fact": "Activity in cognitive-control systems distinguished the two groups and predicted switching.",
+     "q": "Which brain systems differed?",
+     "opts": [
+      "Cognitive-control systems",
+      "Vision-only systems",
+      "Systems for movement"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261114-3-k5",
+     "tag": "Caution",
+     "fact": "The study shows associations, so it cannot prove that brain differences cause dyscalculia.",
+     "q": "Why can't the study prove cause?",
+     "opts": [
+      "It only shows associations",
+      "It tested only adults",
+      "It used no brain scans"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Dyscalculia study",
+    "question": "Facts or flexibility?",
+    "distractors": [
+     "children refused to do sums",
+     "brain scans proved the cause"
+    ],
+    "branches": [
+     {
+      "title": "The disorder",
+      "paras": "1",
+      "blanks": [
+       "persistent difficulty with numbers"
+      ],
+      "kps": [
+       "n20261114-3-k1"
+      ]
+     },
+     {
+      "title": "Strategies",
+      "paras": "2–3",
+      "blanks": [
+       "retrieve, decompose or count",
+       "68 children aged 8 to 10"
+      ],
+      "kps": [
+       "n20261114-3-k2"
+      ]
+     },
+     {
+      "title": "Findings",
+      "paras": "4–5",
+      "blanks": [
+       "slower switching between methods",
+       "cognitive-control activity differs"
+      ],
+      "kps": [
+       "n20261114-3-k3",
+       "n20261114-3-k4"
+      ]
+     },
+     {
+      "title": "Use and limits",
+      "paras": "6–7",
+      "blanks": [
+       "teaching ideas not yet tested",
+       "association, not proof of cause"
+      ],
+      "kps": [
+       "n20261114-3-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A Stanford study suggests that children with dyscalculia find it hard to choose and switch maths strategies.",
+    "model": "Children with dyscalculia switched between maths strategies more slowly and did not learn to choose better ones, while cognitive-control brain activity also differed. However, the study shows associations, not causes, so its teaching ideas still need testing.",
+    "options": [
+     {
+      "t": "Children with dyscalculia were slower to switch strategies and did not improve at choosing the best one.",
+      "ok": true,
+      "why": "Correct. This is the main behavioural finding. (paragraph 4)",
+      "type": "main",
+      "para": 4,
+      "evidence": "took longer to switch from one method to another"
+     },
+     {
+      "t": "Activity in cognitive-control brain systems differed and predicted how well children switched strategies.",
+      "ok": true,
+      "why": "Correct. This is the main brain finding. (paragraph 5)",
+      "type": "main",
+      "para": 5,
+      "evidence": "predicted how efficiently individual children counted and how well they switched strategies"
+     },
+     {
+      "t": "The ideas for teaching are untested, and the link between brain and behaviour does not prove cause.",
+      "ok": true,
+      "why": "Correct. This covers the implications and limits. (paragraphs 6–7)",
+      "type": "main",
+      "para": 7,
+      "evidence": "cannot prove that differences in the brain cause dyscalculia"
+     },
+     {
+      "t": "One strategy is to turn 8 + 7 into 8 + 2 + 5.",
+      "ok": false,
+      "why": "A minor detail: an example, too specific for a summary. (paragraph 2)",
+      "type": "detail",
+      "para": 2,
+      "evidence": "turning it into 8 + 2 + 5"
+     },
+     {
+      "t": "The children were given a new medicine during the study.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The study proved that brain differences cause dyscalculia.",
+      "ok": false,
+      "why": "Contradicts the passage: it shows associations only.",
+      "type": "contra",
+      "para": 7,
+      "evidence": "cannot prove that differences in the brain cause dyscalculia"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some students prefer to learn one method well and always use it. Others like to learn several different methods and choose between them. Which way of learning do you think is more effective, especially for subjects like maths? Use specific reasons and examples.",
+    "hint": "Your choice → reason 1 (confidence / flexibility) + example → reason 2 + example → conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A Stanford study suggests that children with dyscalculia struggle mainly to switch between maths strategies, not just to remember facts. Some educators say schools should therefore teach thinking skills such as flexibility and planning directly. Others say the best help is still more maths practice, because skills come from experience. What is the best way to help students who find maths very difficult? Explain your view. (Mei says: I think schools should teach students how to choose strategies. If you only practise the same method again and again, you just get faster at doing it the slow way.) (Daniel says: Practice is still the most important thing. Students who solve many problems naturally discover better methods, so extra thinking-skills lessons may waste time.)",
+    "steps": [
+     "Decide: teach strategy choice, or focus on more practice.",
+     "Give one reason, such as getting stuck on slow methods or learning from experience.",
+     "Add an example, such as 8 + 7 = 8 + 2 + 5 or a difficult exam question.",
+     "Respond to Mei or Daniel, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "On Thursday, November 12, four American nonprofit groups filed a lawsuit in San Francisco Superior Court that, if it succeeded, would be one of the most dramatic interventions in the history of technology. The groups, which are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI, are asking a judge to order five of the world's most powerful artificial intelligence developers to stop training and releasing their next generation of models. The defendants are OpenAI, Anthropic, Google, Meta and the AI division of SpaceX, whose products include ChatGPT, Claude and Gemini.": "audio/2026-11-14/a1-p1.mp3",
+  "Why take the issue to a court at all? In most countries, new technologies are governed by elected legislatures and specialist regulators rather than by judges. In the United States, however, Congress has debated artificial intelligence for years without passing a broad federal law. The plaintiffs argue that this silence has created a dangerous vacuum. Because no agency has clear power to stop the development of advanced AI, they say, the courts are the only institution left that can act quickly. Their complaint relies on California's unfair competition law, which allows judges to block business practices that harm the public, and on the old legal idea of a \"public nuisance\", an activity that endangers the health or property of a whole community.": "audio/2026-11-14/a1-p2.mp3",
+  "The heart of the case is a claim about control. According to the plaintiffs, the companies are racing to build systems that can learn and carry out tasks with less and less human supervision, yet none of them can guarantee that these systems will not cause catastrophic harm. As evidence, the complaint points to documented cyberattacks carried out with the help of AI. It also quotes public statements in which industry leaders themselves have admitted that the technology could go badly wrong. In the groups' view, no other industry would be allowed to decide for itself whether its own products are safe enough to sell, so AI developers should not be trusted to do so either.": "audio/2026-11-14/a1-p3.mp3",
+  "What exactly do the groups want? In the short term, they are seeking an emergency injunction that would pause work on new frontier models until the companies can demonstrate that the technology remains under human control. They also call for government inspections, monitoring of the huge computing centres where models are trained, and the authority to halt prohibited work. In the longer term, they want independent evaluators, a new regulatory agency, and \"strict liability\", a rule under which companies would have to pay for damage caused by their products even if they had not been careless.": "audio/2026-11-14/a1-p4.mp3",
+  "Critics are likely to raise several objections. The most familiar concerns competition with China. President Donald Trump has argued that slowing AI development would simply allow rival countries to take the lead. The plaintiffs reply that a slowdown could be negotiated through bilateral deals or an international treaty, so that no country would gain an advantage by continuing alone. A second objection concerns expertise: judges are trained in law, not computer science, and a single state court may seem a strange place to decide the future of a global industry. A third worry is that a sweeping freeze could also delay useful applications of AI in medicine, education and scientific research.": "audio/2026-11-14/a1-p5.mp3",
+  "The companies themselves have said little so far. Meta declined to comment, and the other four defendants did not immediately respond to reporters. Historically, courts have been reluctant to order entire industries to stop working, especially when much of the harm being described lies in the future rather than the present. For that reason, the request for an immediate freeze faces a difficult path. Even so, the lawsuit may matter whatever its final outcome, because it could force the companies to explain, in a formal legal setting, how they test their systems and what they would do if something went seriously wrong.": "audio/2026-11-14/a1-p6.mp3",
+  "In the end, the case raises a question that goes far beyond one courtroom: who should decide how fast a powerful new technology develops? Supporters see the lawsuit as a necessary emergency brake at a moment when lawmakers have failed to act. Opponents see it as an attempt to let judges make policy that ought to belong to democratically elected governments. Both sides agree on one point, however. The rules for advanced AI are still being written, and the choices made in the next few years are likely to shape how the technology affects everyone.": "audio/2026-11-14/a1-p7.mp3",
+  "intervention": "audio/2026-11-14/a1-w-intervention.mp3",
+  "The teacher's quick intervention stopped the argument before anyone got upset.": "audio/2026-11-14/a1-ex-intervention.mp3",
+  "plaintiff": "audio/2026-11-14/a1-w-plaintiff.mp3",
+  "The plaintiff claimed that the factory had polluted the river near her farm.": "audio/2026-11-14/a1-ex-plaintiff.mp3",
+  "vacuum": "audio/2026-11-14/a1-w-vacuum.mp3",
+  "When the club's captain left, there was a leadership vacuum for several weeks.": "audio/2026-11-14/a1-ex-vacuum.mp3",
+  "nuisance": "audio/2026-11-14/a1-w-nuisance.mp3",
+  "The court ruled that the loud factory was a public nuisance to nearby residents.": "audio/2026-11-14/a1-ex-nuisance.mp3",
+  "catastrophic": "audio/2026-11-14/a1-w-catastrophic.mp3",
+  "A catastrophic flood could destroy the entire harvest in a single night.": "audio/2026-11-14/a1-ex-catastrophic.mp3",
+  "injunction": "audio/2026-11-14/a1-w-injunction.mp3",
+  "The judge issued an injunction that stopped the company from cutting down the old trees.": "audio/2026-11-14/a1-ex-injunction.mp3",
+  "demonstrate": "audio/2026-11-14/a1-w-demonstrate.mp3",
+  "You must demonstrate that your experiment can be repeated before others accept the result.": "audio/2026-11-14/a1-ex-demonstrate.mp3",
+  "liability": "audio/2026-11-14/a1-w-liability.mp3",
+  "The bike-sharing firm accepted liability for the accident caused by its faulty brakes.": "audio/2026-11-14/a1-ex-liability.mp3",
+  "sweeping": "audio/2026-11-14/a1-w-sweeping.mp3",
+  "The new principal introduced sweeping changes to the school timetable.": "audio/2026-11-14/a1-ex-sweeping.mp3",
+  "reluctant": "audio/2026-11-14/a1-w-reluctant.mp3",
+  "Many students are reluctant to ask questions in front of a large class.": "audio/2026-11-14/a1-ex-reluctant.mp3",
+  "The groups, which are the Irreplaceable Education Fund, Public Citizen, Heat Initiative and the Alliance for Secure AI, are asking a judge to order five of the world's most powerful artificial intelligence developers to stop training and releasing their next generation of models.": "audio/2026-11-14/a1-ks1.mp3",
+  "The plaintiffs argue that this silence has created a dangerous vacuum.": "audio/2026-11-14/a1-ks2.mp3",
+  "The heart of the case is a claim about control.": "audio/2026-11-14/a1-ks3.mp3",
+  "Critics are likely to raise several objections.": "audio/2026-11-14/a1-ks4.mp3",
+  "Even so, the lawsuit may matter whatever its final outcome, because it could force the companies to explain, in a formal legal setting, how they test their systems and what they would do if something went seriously wrong.": "audio/2026-11-14/a1-ks5.mp3",
+  "In the end, the case raises a question that goes far beyond one courtroom: who should decide how fast a powerful new technology develops?": "audio/2026-11-14/a1-ks6.mp3",
+  "Making a decision often feels instant, but every choice requires the brain to collect evidence, weigh it and then commit to an action. A new study published in the journal Science suggests that crows complete this process remarkably quickly. Philipp Schmidbauer and Andreas Nieder, two neuroscientists at the University of Tübingen in Germany, found that carrion crows can make a simple visual decision in about 235 milliseconds, roughly twice as fast as monkeys tested on similar tasks and apparently faster than humans as well.": "audio/2026-11-14/a2-p1.mp3",
+  "To measure decision speed, the researchers adapted a classic experiment that has been used with monkeys for decades. Two hand-raised crows sat in front of a touchscreen showing white dots on a black background. Some of the dots moved together to the left or to the right, while the rest moved randomly. The bird had to judge the overall direction and peck one of two targets, and every correct answer earned a mealworm. The difficulty varied enormously. In the easiest trials, 81 percent of the dots moved in the same direction; in the hardest, only 3 percent did, which made the signal almost impossible to separate from the background noise.": "audio/2026-11-14/a2-p2.mp3",
+  "The crows began to respond, on average, about 235 milliseconds after the dots appeared, measured from the first movement of the head toward the screen. In three earlier studies with closely matched tasks, monkeys needed roughly 410 to 600 milliseconds. Strikingly, the birds barely slowed down when the task became harder: their reaction times ranged from about 220 milliseconds on the easiest trials to 254 milliseconds on the hardest. Their accuracy was nearly perfect when the motion was clear and still above chance when it was faint. Nieder stressed that the crows were never pushed to hurry. \"We just gave them a self-paced decision,\" he explained.": "audio/2026-11-14/a2-p3.mp3",
+  "The team also recorded the activity of 248 individual neurons in a region called the nidopallium caudolaterale, which is thought to play a role similar to that of the prefrontal cortex in primates. Of these cells, 58 fired differently depending on which direction the crow would eventually choose. Remarkably, this signal appeared only about 70 milliseconds after the dots came on, roughly 170 milliseconds before the bird moved its head. The activity rose gradually as evidence accumulated, grew faster when the motion was clearer, and reached a common level at the moment the bird committed to its choice.": "audio/2026-11-14/a2-p4.mp3",
+  "This pattern closely resembles what scientists call a \"decision variable\", a running total of evidence that climbs until it crosses a threshold. The same computation was first described in the brains of monkeys. Yet the ancestors of birds and mammals went their separate ways more than 300 million years ago, and the two groups organize their brains very differently: mammals have a layered cortex, whereas birds pack their neurons into dense clusters. That two such different structures solve the problem in the same way is a striking example of convergent evolution. As Nieder put it, \"a brain does not need a mammalian neocortex to perform sophisticated computations.\"": "audio/2026-11-14/a2-p5.mp3",
+  "Why are crows so fast? The researchers have several ideas, but each one is still a hypothesis that has not yet been tested directly. Bird brains contain many small neurons packed closely together, so the fibres connecting them are short. \"Long lines take time. Short lines speed everything up,\" Nieder said. Birds also have a higher body temperature, about 41 to 42 degrees Celsius compared with roughly 36.6 degrees in humans, which could speed up the chemical signals between cells. Finally, a life spent flying and searching for food may have favoured animals that could react to what they see in a fraction of a second.": "audio/2026-11-14/a2-p6.mp3",
+  "Nevertheless, the findings come with important limits. Only two birds were tested, although this is the usual number for studies that record single neurons in monkeys. The crows were not compared with monkeys or humans in the same laboratory; instead, their results were set against published studies that used different equipment and a different response, since monkeys move their eyes while crows peck. The comparison with humans is the weakest part of the claim. Most importantly, the experiment measured one narrow skill. Being quick at judging moving dots does not make crows smarter than people overall, but it does show that intelligence can be built in more than one way.": "audio/2026-11-14/a2-p7.mp3",
+  "commit": "audio/2026-11-14/a2-w-commit.mp3",
+  "Once you commit to an answer on the test, move on to the next question.": "audio/2026-11-14/a2-ex-commit.mp3",
+  "adapt": "audio/2026-11-14/a2-w-adapt.mp3",
+  "The teacher had to adapt the experiment so that younger students could do it safely.": "audio/2026-11-14/a2-ex-adapt.mp3",
+  "neuron": "audio/2026-11-14/a2-w-neuron.mp3",
+  "Each neuron can connect with thousands of other cells in the brain.": "audio/2026-11-14/a2-ex-neuron.mp3",
+  "accumulate": "audio/2026-11-14/a2-w-accumulate.mp3",
+  "Dust will accumulate on the shelves if nobody cleans the room.": "audio/2026-11-14/a2-ex-accumulate.mp3",
+  "threshold": "audio/2026-11-14/a2-w-threshold.mp3",
+  "The alarm sounds only when the noise rises above a certain threshold.": "audio/2026-11-14/a2-ex-threshold.mp3",
+  "cortex": "audio/2026-11-14/a2-w-cortex.mp3",
+  "Damage to the visual cortex can affect how a person sees shapes and colours.": "audio/2026-11-14/a2-ex-cortex.mp3",
+  "convergent evolution": "audio/2026-11-14/a2-w-convergent-evolution.mp3",
+  "The wings of bats and birds are a famous example of convergent evolution.": "audio/2026-11-14/a2-ex-convergent-evolution.mp3",
+  "hypothesis": "audio/2026-11-14/a2-w-hypothesis.mp3",
+  "Our hypothesis was that plants near the window would grow taller.": "audio/2026-11-14/a2-ex-hypothesis.mp3",
+  "sophisticated": "audio/2026-11-14/a2-w-sophisticated.mp3",
+  "Modern phones use sophisticated software to recognise faces.": "audio/2026-11-14/a2-ex-sophisticated.mp3",
+  "Making a decision often feels instant, but every choice requires the brain to collect evidence, weigh it and then commit to an action.": "audio/2026-11-14/a2-ks1.mp3",
+  "Strikingly, the birds barely slowed down when the task became harder: their reaction times ranged from about 220 milliseconds on the easiest trials to 254 milliseconds on the hardest.": "audio/2026-11-14/a2-ks2.mp3",
+  "The activity rose gradually as evidence accumulated, grew faster when the motion was clearer, and reached a common level at the moment the bird committed to its choice.": "audio/2026-11-14/a2-ks3.mp3",
+  "That two such different structures solve the problem in the same way is a striking example of convergent evolution.": "audio/2026-11-14/a2-ks4.mp3",
+  "The researchers have several ideas, but each one is still a hypothesis that has not yet been tested directly.": "audio/2026-11-14/a2-ks5.mp3",
+  "Being quick at judging moving dots does not make crows smarter than people overall, but it does show that intelligence can be built in more than one way.": "audio/2026-11-14/a2-ks6.mp3",
+  "Most students find some maths problems difficult, but for a small group of children the difficulty never seems to go away. These children have developmental dyscalculia, a learning disorder that makes it persistently hard to understand numbers and carry out calculations. It is often estimated to affect around 5 to 7 percent of school-aged children, many of whom have normal intelligence and ordinary schooling. A new study from Stanford University, published in The Journal of Neuroscience, offers a fresh explanation for why these children struggle: the problem may lie less in knowing facts and more in choosing how to solve a problem.": "audio/2026-11-14/a3-p1.mp3",
+  "When children solve an arithmetic question such as 8 + 7, they can use several strategies. They may simply retrieve the answer from memory. They may decompose the problem into easier steps, for example by turning it into 8 + 2 + 5. Or they may count, either on their fingers or in their heads. Skilled problem solvers switch between these methods flexibly, choosing a quick strategy for easy questions and a more careful one for difficult ones. Over time, they learn which approach works best and use it more often.": "audio/2026-11-14/a3-p2.mp3",
+  "The research team, led by Oliver Lasnick and including the neuroscientist Vinod Menon, studied 68 children aged 8 to 10. Some had dyscalculia, while others were more proficient at maths. The children solved arithmetic problems of varying difficulty while the researchers recorded which strategies they used and measured their brain activity with neuroimaging. This combination allowed the scientists to look not only at whether a child got the right answer, but also at how the child reached it.": "audio/2026-11-14/a3-p3.mp3",
+  "The behavioural differences were clear. Children with dyscalculia used the available strategies less efficiently and took longer to switch from one method to another. When the problems became harder, they were less likely to adjust their approach, often sticking to slow procedures such as counting. Perhaps most importantly, they did not become better at choosing the best strategy over the course of the experiment, whereas their peers gradually improved. In other words, the difficulty was not just a lack of knowledge but a reduced ability to adapt.": "audio/2026-11-14/a3-p4.mp3",
+  "The brain scans pointed in the same direction. Activity in brain systems involved in cognitive control, which help people direct attention, hold information in mind and change course, distinguished the children with dyscalculia from their more skilled classmates. Moreover, patterns of activity across these circuits predicted how efficiently individual children counted and how well they switched strategies. Based on these results, the authors suggest that dyscalculia may be linked to difficulties with executive functions such as attention, working memory and cognitive flexibility, rather than to a single problem with numbers.": "audio/2026-11-14/a3-p5.mp3",
+  "If this interpretation is correct, it could change how struggling students are supported. Instead of simply giving children more practice with sums, teachers might also train them to notice when a strategy is not working and to try another one, while exercises for working memory could be added alongside arithmetic. Lasnick also emphasized \"the individual variability observed in dyscalculia\", suggesting that no single programme is likely to suit every child. However, the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.": "audio/2026-11-14/a3-p6.mp3",
+  "The study also has limits that readers should keep in mind. The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths. The sample was modest and covered only one age group, so the results may not apply to younger children or teenagers. Even so, the research encourages a valuable change of perspective. A child who keeps counting on their fingers may not be lazy or slow, but stuck on one path and in need of help finding another.": "audio/2026-11-14/a3-p7.mp3",
+  "persistently": "audio/2026-11-14/a3-w-persistently.mp3",
+  "The river level stayed persistently high throughout the rainy month.": "audio/2026-11-14/a3-ex-persistently.mp3",
+  "retrieve": "audio/2026-11-14/a3-w-retrieve.mp3",
+  "Good sleep helps students retrieve what they learned the day before.": "audio/2026-11-14/a3-ex-retrieve.mp3",
+  "decompose": "audio/2026-11-14/a3-w-decompose.mp3",
+  "To find 9 × 6, you can decompose it into 10 × 6 minus 6.": "audio/2026-11-14/a3-ex-decompose.mp3",
+  "flexibly": "audio/2026-11-14/a3-w-flexibly.mp3",
+  "Our school timetable is planned flexibly, so classes can move when there is an exam.": "audio/2026-11-14/a3-ex-flexibly.mp3",
+  "proficient": "audio/2026-11-14/a3-w-proficient.mp3",
+  "After two years of practice, she became proficient at playing the violin.": "audio/2026-11-14/a3-ex-proficient.mp3",
+  "neuroimaging": "audio/2026-11-14/a3-w-neuroimaging.mp3",
+  "Neuroimaging allows scientists to see which parts of the brain are active during reading.": "audio/2026-11-14/a3-ex-neuroimaging.mp3",
+  "executive function": "audio/2026-11-14/a3-w-executive-function.mp3",
+  "Planning your homework schedule is a good way to practise executive function.": "audio/2026-11-14/a3-ex-executive-function.mp3",
+  "interpretation": "audio/2026-11-14/a3-w-interpretation.mp3",
+  "Scientists may agree on the data but disagree about its interpretation.": "audio/2026-11-14/a3-ex-interpretation.mp3",
+  "variability": "audio/2026-11-14/a3-w-variability.mp3",
+  "There is great variability in how long different students need to finish the test.": "audio/2026-11-14/a3-ex-variability.mp3",
+  "association": "audio/2026-11-14/a3-w-association.mp3",
+  "The study found an association between reading for fun and better vocabulary.": "audio/2026-11-14/a3-ex-association.mp3",
+  "A new study from Stanford University, published in The Journal of Neuroscience, offers a fresh explanation for why these children struggle: the problem may lie less in knowing facts and more in choosing how to solve a problem.": "audio/2026-11-14/a3-ks1.mp3",
+  "Skilled problem solvers switch between these methods flexibly, choosing a quick strategy for easy questions and a more careful one for difficult ones.": "audio/2026-11-14/a3-ks2.mp3",
+  "In other words, the difficulty was not just a lack of knowledge but a reduced ability to adapt.": "audio/2026-11-14/a3-ks3.mp3",
+  "Based on these results, the authors suggest that dyscalculia may be linked to difficulties with executive functions such as attention, working memory and cognitive flexibility, rather than to a single problem with numbers.": "audio/2026-11-14/a3-ks4.mp3",
+  "However, the researchers did not test any of these teaching methods, so such ideas remain proposals rather than proven solutions.": "audio/2026-11-14/a3-ks5.mp3",
+  "The findings show associations between brain activity and behaviour, which means they cannot prove that differences in the brain cause dyscalculia; the differences could also partly result from years of struggling with maths.": "audio/2026-11-14/a3-ks6.mp3"
+ }
+}
