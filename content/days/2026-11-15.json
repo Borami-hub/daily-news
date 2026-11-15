@@ -1,0 +1,2094 @@
+{
+ "date": "2026-11-15",
+ "headline": "A rocket caught in mid-air, a doomsday that never came, and a capybara café",
+ "teaser": "Can a rocket be reused like an airplane? Why did scientists once predict infinite people by 2026? And is petting a wild animal over coffee worth the risk?",
+ "articles": [
+  {
+   "id": "n20261115-1",
+   "topic": "Space",
+   "title": "Caught in Mid-Air: SpaceX Catches a Returning Starship for the First Time",
+   "dek": "A giant rocket stage came home from orbit and was grabbed by its launch tower. Is this the start of cheap, routine spaceflight, or just a spectacular demonstration?",
+   "sources": [
+    {
+     "name": "Spaceflight Now, Nov 13, 2026",
+     "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
+    },
+    {
+     "name": "Aviation Week, Nov 14, 2026",
+     "url": "https://aviationweek.com/space/operations-safety/starship-flight-15-ends-first-ship-tower-catch"
+    },
+    {
+     "name": "Space.com, Nov 13, 2026",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+    },
+    {
+     "name": "China Daily / Xinhua, Nov 15, 2026",
+     "url": "https://www.chinadaily.com.cn/a/202611/15/WS6af8db0ee4b03ebf8519c683.html"
+    }
+   ],
+   "paras": [
+    "On Saturday afternoon, November 14, a stainless-steel spacecraft roughly 50 meters tall dropped out of the sky over southern Texas, fired its engines and slowed almost to a stop beside its launch tower. Two enormous mechanical arms, nicknamed \"chopsticks,\" closed around it and held it in place. It was the first time SpaceX had caught the upper stage of its Starship rocket after a trip to orbit, and a company commentator called the moment \"the holy grail of spaceflight.\" The ship had lifted off about 22.5 hours earlier, circled the Earth repeatedly, and survived a fiery return through the atmosphere before the catch.",
+    "To understand why engineers were so excited, it helps to know how rockets have traditionally worked. For most of the space age, rockets were used only once: after launch, their stages fell into the ocean or burned up in the atmosphere, so every mission required building a new vehicle. Since the 2010s, SpaceX has reduced costs by landing and reusing the first stage of its smaller Falcon 9 rocket, but the upper stage, which travels much faster, has still been thrown away. Starship is designed to change that. If both of its stages can be recovered and flown again, launching a rocket could become more like operating an airliner than firing a firework, and the cost of reaching orbit could fall dramatically.",
+    "The test, Starship's fifteenth, did not go entirely to plan. The giant Super Heavy booster, powered by 33 Raptor engines, was supposed to fly back to the launch site a few minutes after liftoff and be caught by the tower as well, completing the first \"double catch.\" Instead, the catch was called off, and the booster was sent to a splashdown zone in the Gulf of Mexico, where it was lost. The company has not fully explained why. The ship, meanwhile, reached low Earth orbit, released 26 of SpaceX's newest Starlink internet satellites, and orbited the planet about 14 times before heading home.",
+    "Supporters argue that the catch is a turning point. Catching a ship on the tower, rather than recovering it from the sea, means it can be inspected, refueled and launched again quickly, without a long journey back from an ocean landing site. SpaceX wants reusable Starships to launch thousands of satellites and, eventually, to carry people to the Moon and Mars; NASA has already selected Starship as a lunar lander for its Artemis program. Some analysts go further and argue that cheap, frequent launches could open entirely new industries, from space-based manufacturing to orbital data centers, much as cheap air travel transformed tourism and trade.",
+    "Not everyone is so optimistic. Critics point out that one successful catch is not the same as routine reuse: the ship must be refurbished and flown again, many times, before engineers can claim that the system works reliably. Several earlier Starship test flights ended in explosions, and in 2025 debris from two failed flights fell near islands in the Caribbean, forcing airlines to delay or divert flights. Environmental groups have also raised concerns about noise, disturbance to wildlife and the sheer number of launches SpaceX is planning from its site on the Texas coast, which sits next to protected wildlife habitat.",
+    "There is also a wider question about who controls access to space. As SpaceX's rockets become cheaper and more capable, government agencies are relying on a single private company for more of their missions. Supporters say this competition has saved taxpayers billions of dollars and pushed the whole industry forward. Others worry that it gives one company, and its founder, unusual influence over national space programs, communications networks and even military planning. If a small number of firms own the only affordable route to orbit, they ask, who will set the rules?",
+    "For now, the catch is best seen as an important milestone rather than a finished achievement. It shows that a spacecraft returning from orbit can be guided back with remarkable precision, but it also leaves big questions unanswered: how quickly the same ship can fly again, how much reuse will really reduce costs, and whether the benefits of a busier sky will outweigh its risks. The next few flights, and particularly the first time a caught ship is launched again, will reveal whether this was the start of a new era or simply a spectacular demonstration."
+   ],
+   "words": [
+    {
+     "w": "milestone",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈmaɪlstoʊn/",
+     "syl": [
+      "mile",
+      "stone"
+     ],
+     "ex": "Passing her driving test was a big milestone for my older sister.",
+     "def": "an important event or stage in the development of something"
+    },
+    {
+     "w": "refurbish",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌriːˈfɜːrbɪʃ/",
+     "syl": [
+      "re",
+      "fur",
+      "bish"
+     ],
+     "ex": "The school plans to refurbish the old library over the summer holidays.",
+     "def": "to clean, repair and improve something so that it can be used again"
+    },
+    {
+     "w": "divert",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/daɪˈvɜːrt/",
+     "syl": [
+      "di",
+      "vert"
+     ],
+     "ex": "Police had to divert traffic away from the flooded bridge.",
+     "def": "to make something change its route or direction"
+    },
+    {
+     "w": "precision",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/prɪˈsɪʒn/",
+     "syl": [
+      "pre",
+      "ci",
+      "sion"
+     ],
+     "ex": "Surgeons need great precision when they operate on the eye.",
+     "def": "the quality of being very exact and accurate"
+    },
+    {
+     "w": "routine",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ruːˈtiːn/",
+     "syl": [
+      "rou",
+      "tine"
+     ],
+     "ex": "After years of practice, landing a plane in bad weather became routine for the pilot.",
+     "def": "done regularly as a normal part of a process, not special or unusual"
+    },
+    {
+     "w": "spectacular",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/spekˈtækjələr/",
+     "syl": [
+      "spec",
+      "tac",
+      "u",
+      "lar"
+     ],
+     "ex": "We watched a spectacular sunset from the top of the mountain.",
+     "def": "very impressive and exciting to look at"
+    },
+    {
+     "w": "orbit",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈɔːrbɪt/",
+     "syl": [
+      "or",
+      "bit"
+     ],
+     "ex": "The new weather satellite will stay in orbit for at least ten years.",
+     "def": "the curved path that an object in space follows around a planet, moon or star"
+    },
+    {
+     "w": "booster",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈbuːstər/",
+     "syl": [
+      "boost",
+      "er"
+     ],
+     "ex": "The booster separated from the rocket about two minutes after launch.",
+     "def": "the first, most powerful stage of a rocket that lifts it off the ground"
+    },
+    {
+     "w": "atmosphere",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈætməsfɪr/",
+     "syl": [
+      "at",
+      "mos",
+      "phere"
+     ],
+     "ex": "Most small meteors burn up completely in the atmosphere.",
+     "def": "the layer of gases that surrounds the Earth or another planet"
+    },
+    {
+     "w": "reusable",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/riːˈjuːzəbl/",
+     "syl": [
+      "re",
+      "us",
+      "a",
+      "ble"
+     ],
+     "ex": "Many students now bring reusable water bottles to school.",
+     "def": "able to be used again, usually many times"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "It was the first time SpaceX had caught the upper stage of its Starship rocket after a trip to orbit, and a company commentator called the moment \"the holy grail of spaceflight.\"",
+     "kind": "Main idea",
+     "note": "States the news event and why it is significant; summary and purpose questions start here."
+    },
+    {
+     "para": 2,
+     "text": "Starship is designed to change that.",
+     "kind": "Topic sentence",
+     "note": "A short pivot sentence: it links the history of one-use rockets to the goal of full reuse."
+    },
+    {
+     "para": 3,
+     "text": "The test, Starship's fifteenth, did not go entirely to plan.",
+     "kind": "Key details",
+     "note": "Signals that the paragraph will report problems, so watch for negative-fact questions."
+    },
+    {
+     "para": 4,
+     "text": "Supporters argue that the catch is a turning point.",
+     "kind": "Author's view",
+     "note": "Introduces the first viewpoint; TOEFL often asks you to tell supporters' and critics' claims apart."
+    },
+    {
+     "para": 5,
+     "text": "Critics point out that one successful catch is not the same as routine reuse: the ship must be refurbished and flown again, many times, before engineers can claim that the system works reliably.",
+     "kind": "Critical thinking",
+     "note": "Separates a single success from a proven system, a classic evidence-quality argument."
+    },
+    {
+     "para": 7,
+     "text": "For now, the catch is best seen as an important milestone rather than a finished achievement.",
+     "kind": "Hedging",
+     "note": "The author's balanced conclusion; \"rather than\" signals the contrast an inference question may test."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention \"operating an airliner than firing a firework\" in paragraph 2?",
+     "opts": [
+      "To contrast a vehicle that is used many times with one that is used once and destroyed",
+      "To suggest that rocket launches will soon be as safe as ordinary passenger flights",
+      "To explain why rocket launches have often been compared to colorful public celebrations",
+      "To show that airlines and rocket companies are now competing for the same customers"
+     ],
+     "a": 0,
+     "why": "The comparison follows the point that rockets were traditionally \"used only once\" while Starship is designed to be recovered and flown again. An airliner flies again and again; a firework is used once.",
+     "evidence": "more like operating an airliner than firing a firework",
+     "optWhy": [
+      "Correct. \"used only once\" + \"recovered and flown again\" = a vehicle used once vs. one used many times; the airliner and firework stand for these two ideas.",
+      "Too extreme / not the point. The paragraph is about cost and reuse (\"the cost of reaching orbit could fall\"), not about safety.",
+      "Wrong focus. The word \"firework\" is used as an image of one-time use; the paragraph says nothing about public celebrations.",
+      "Not mentioned. No competition between airlines and rocket companies appears in paragraph 2."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "For most of the space age, rockets were used only once: after launch, their stages fell into the ocean or burned up in the atmosphere, so every mission required building a new vehicle.",
+       "hl": "rockets were used only once"
+      },
+      {
+       "para": 2,
+       "text": "If both of its stages can be recovered and flown again, launching a rocket could become more like operating an airliner than firing a firework, and the cost of reaching orbit could fall dramatically.",
+       "hl": "recovered and flown again"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "Locate the comparison at the end of paragraph 2."
+      },
+      {
+       "t": "Read what comes before",
+       "x": "The paragraph contrasts rockets \"used only once\" with stages that are \"recovered and flown again\"."
+      },
+      {
+       "t": "Match the function",
+       "x": "Choose the option about used-once vs. used-many-times; B is about safety, which the paragraph never discusses."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following happened during the fifteenth test flight EXCEPT:",
+     "opts": [
+      "The ship released 26 new Starlink internet satellites.",
+      "The booster landed safely and was caught by the tower.",
+      "The ship went around the Earth about 14 times.",
+      "The planned catch of the booster was called off."
+     ],
+     "a": 1,
+     "why": "The paragraph says the booster's catch \"was called off\" and it \"was lost\" in the Gulf of Mexico, so it was not caught by the tower.",
+     "evidence": "the catch was called off, and the booster was sent to a splashdown zone in the Gulf of Mexico, where it was lost",
+     "optWhy": [
+      "Mentioned. \"released 26 of SpaceX's newest Starlink internet satellites\".",
+      "Correct. This contradicts the text: the booster's catch \"was called off\" and it \"was lost\" in the Gulf of Mexico.",
+      "Mentioned. \"orbited the planet about 14 times before heading home\".",
+      "Mentioned. \"Instead, the catch was called off\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Instead, the catch was called off, and the booster was sent to a splashdown zone in the Gulf of Mexico, where it was lost.",
+       "hl": "the catch was called off"
+      },
+      {
+       "para": 3,
+       "text": "The ship, meanwhile, reached low Earth orbit, released 26 of SpaceX's newest Starlink internet satellites, and orbited the planet about 14 times before heading home.",
+       "hl": "released 26 of SpaceX's newest Starlink internet satellites"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Note the EXCEPT",
+       "x": "Three options are in paragraph 3; you need the one that did not happen."
+      },
+      {
+       "t": "Check each option",
+       "x": "Find the satellites, the 14 orbits and the cancelled booster catch in the text."
+      },
+      {
+       "t": "Spot the contradiction",
+       "x": "The booster \"was lost\" at sea, so B did not happen."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 4,
+     "q": "According to paragraph 4, what is one advantage of catching the ship on the tower?",
+     "opts": [
+      "It allows the ship to carry more satellites on each flight.",
+      "It removes the need for any inspection after a flight.",
+      "It lets the ship be prepared for its next launch more quickly.",
+      "It makes the ship less likely to be damaged by the atmosphere."
+     ],
+     "a": 2,
+     "why": "The paragraph says a ship caught on the tower \"can be inspected, refueled and launched again quickly\".",
+     "evidence": "it can be inspected, refueled and launched again quickly",
+     "optWhy": [
+      "Not mentioned. Paragraph 4 mentions launching thousands of satellites, but not that a tower catch increases how many each flight can carry.",
+      "Detail reversed. The text says the ship \"can be inspected\" — inspection still happens.",
+      "Correct. \"inspected, refueled and launched again quickly\" = \"prepared for its next launch more quickly\".",
+      "Not mentioned. The atmosphere appears in paragraph 1 (\"a fiery return through the atmosphere\"), not as a benefit of the catch."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Catching a ship on the tower, rather than recovering it from the sea, means it can be inspected, refueled and launched again quickly, without a long journey back from an ocean landing site.",
+       "hl": "inspected, refueled and launched again quickly"
+      },
+      {
+       "para": 1,
+       "text": "The ship had lifted off about 22.5 hours earlier, circled the Earth repeatedly, and survived a fiery return through the atmosphere before the catch.",
+       "hl": "a fiery return through the atmosphere"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 4 begins with the supporters' view of the catch."
+      },
+      {
+       "t": "Use the key words",
+       "x": "Look for what \"catching a ship on the tower\" means: it can be inspected, refueled and launched again quickly."
+      },
+      {
+       "t": "Rule out",
+       "x": "B reverses \"inspected\"; A and D are not stated as benefits of the catch."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word \"sheer\" in paragraph 5 is closest in meaning to",
+     "opts": [
+      "very steep",
+      "thin and transparent",
+      "rapidly growing",
+      "very large"
+     ],
+     "a": 3,
+     "why": "\"the sheer number of launches\" emphasizes how many launches there are, so \"sheer\" means very great in amount.",
+     "evidence": "the sheer number of launches SpaceX is planning",
+     "optWhy": [
+      "Another meaning of the word. \"Sheer\" can describe a cliff (\"a sheer drop\"), but here it describes a number of launches.",
+      "Another meaning of the word. \"Sheer\" can describe thin fabric, which does not fit \"number of launches\".",
+      "Plausible but wrong. The launches are being planned, but \"sheer\" stresses size, not speed of growth.",
+      "Correct. \"the sheer number of launches\" = the very large number of launches that worries environmental groups."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Environmental groups have also raised concerns about noise, disturbance to wildlife and the sheer number of launches SpaceX is planning from its site on the Texas coast, which sits next to protected wildlife habitat.",
+       "hl": "the sheer number of launches"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"sheer\" in the last sentence of paragraph 5."
+      },
+      {
+       "t": "Use the context",
+       "x": "It describes a \"number of launches\" that worries environmental groups."
+      },
+      {
+       "t": "Check the options",
+       "x": "Steep and transparent are other meanings; only \"very large\" fits a number."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the people who \"worry\"?",
+     "opts": [
+      "They believe SpaceX's rockets are too expensive for government agencies.",
+      "They fear that depending on one firm could reduce public control over space decisions.",
+      "They think government agencies should stop all cooperation with private companies.",
+      "They argue that competition has done more harm than good to the space industry."
+     ],
+     "a": 1,
+     "why": "They worry about one company's \"unusual influence\" and ask \"who will set the rules?\", implying that public control could weaken.",
+     "evidence": "unusual influence over national space programs, communications networks and even military planning",
+     "optWhy": [
+      "Detail reversed. The paragraph says the rockets are becoming \"cheaper\", not too expensive.",
+      "Correct. \"unusual influence\" + \"who will set the rules?\" = fear that reliance on one firm reduces public control.",
+      "Too extreme. They worry about reliance on a single company, but nothing suggests stopping all cooperation.",
+      "Wrong person's view. It is the supporters who talk about competition, and they praise it: it \"saved taxpayers billions of dollars\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Others worry that it gives one company, and its founder, unusual influence over national space programs, communications networks and even military planning.",
+       "hl": "unusual influence"
+      },
+      {
+       "para": 6,
+       "text": "If a small number of firms own the only affordable route to orbit, they ask, who will set the rules?",
+       "hl": "who will set the rules?"
+      },
+      {
+       "para": 6,
+       "text": "Supporters say this competition has saved taxpayers billions of dollars and pushed the whole industry forward.",
+       "hl": "saved taxpayers billions of dollars"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the group",
+       "x": "\"Others worry\" in paragraph 6 introduces the critics."
+      },
+      {
+       "t": "Read their concern",
+       "x": "They mention \"unusual influence\" and ask who will set the rules."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses \"cheaper\"; C is too extreme; D gives the supporters' topic the wrong meaning."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The catch proves that Starship will soon be cheaper to fly than any other rocket, which answers most of the questions about its future.",
+      "Although the catch shows precise guidance is possible, most experts believe the risks of a busier sky are now greater than the benefits.",
+      "The catch shows that precise guidance from orbit is possible, but questions remain about reflying the ship, real cost savings and whether benefits will exceed risks.",
+      "Guiding a spacecraft back from orbit remains the biggest unanswered question, even though costs and risks are now well understood."
+     ],
+     "a": 2,
+     "why": "The sentence has two parts: what the catch shows (precise guidance) and what it leaves unanswered (reflight speed, costs, benefits vs. risks). Only C keeps both.",
+     "evidence": "It shows that a spacecraft returning from orbit can be guided back with remarkable precision, but it also leaves big questions unanswered",
+     "optWhy": [
+      "Meaning changed. The sentence says the cost question is \"unanswered\"; it does not prove Starship will be cheaper.",
+      "Meaning changed. The sentence only asks \"whether the benefits ... will outweigh its risks\"; it does not say experts think risks are greater.",
+      "Correct. \"guided back with remarkable precision\" = \"precise guidance is possible\"; the three questions = reflying, cost savings, benefits vs. risks.",
+      "Meaning reversed. Guidance is what the catch proved; costs and risks are the unanswered parts."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "It shows that a spacecraft returning from orbit can be guided back with remarkable precision, but it also leaves big questions unanswered: how quickly the same ship can fly again, how much reuse will really reduce costs, and whether the benefits of a busier sky will outweigh its risks.",
+       "hl": "guided back with remarkable precision"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: what the catch shows; part 2: three unanswered questions."
+      },
+      {
+       "t": "Paraphrase each part",
+       "x": "Precise guidance is proven; reflight speed, cost savings and benefits vs. risks are open."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and B turn open questions into conclusions; D swaps what is proven with what is unknown."
+      }
+     ],
+     "highlight": "It shows that a spacecraft returning from orbit can be guided back with remarkable precision, but it also leaves big questions unanswered: how quickly the same ship can fly again, how much reuse will really reduce costs, and whether the benefits of a busier sky will outweigh its risks."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261115-1-k1",
+     "tag": "Event",
+     "fact": "On November 14, 2026, SpaceX caught a returning Starship upper stage with its launch tower for the first time.",
+     "q": "What did the tower catch for the first time?",
+     "opts": [
+      "The Starship upper stage",
+      "The Super Heavy booster",
+      "A Falcon 9 first stage"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261115-1-k2",
+     "tag": "Background",
+     "fact": "Traditional rockets are used only once; SpaceX already reuses the Falcon 9 first stage, but upper stages were thrown away.",
+     "q": "Which part of the Falcon 9 does SpaceX reuse?",
+     "opts": [
+      "The upper stage",
+      "The first stage",
+      "Neither stage"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-1-k3",
+     "tag": "Problem",
+     "fact": "The planned booster catch was called off and the booster was lost in the Gulf of Mexico.",
+     "q": "What happened to the Super Heavy booster?",
+     "opts": [
+      "It was caught by the tower",
+      "It was lost in the Gulf of Mexico",
+      "It stayed in orbit"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-1-k4",
+     "tag": "Benefit",
+     "fact": "A ship caught on the tower can be inspected, refueled and launched again quickly.",
+     "q": "Why is a tower catch useful?",
+     "opts": [
+      "The ship can fly again quickly",
+      "The ship needs no fuel",
+      "The ship becomes lighter"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261115-1-k5",
+     "tag": "Concern",
+     "fact": "Critics worry about failed flights, debris, wildlife disturbance and one company's influence over space.",
+     "q": "Which is NOT a concern raised by critics?",
+     "opts": [
+      "Debris from failed flights",
+      "Disturbance to wildlife",
+      "Too few launches planned"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Starship tower catch",
+    "question": "Is a reusable rocket the start of a new era?",
+    "branches": [
+     {
+      "title": "The catch",
+      "paras": "1",
+      "blanks": [
+       "chopsticks grab returning ship",
+       "first upper-stage catch"
+      ],
+      "kps": [
+       "n20261115-1-k1"
+      ]
+     },
+     {
+      "title": "Why reuse",
+      "paras": "2–4",
+      "blanks": [
+       "one-use rockets were costly",
+       "inspect, refuel, relaunch quickly"
+      ],
+      "kps": [
+       "n20261115-1-k2",
+       "n20261115-1-k4"
+      ]
+     },
+     {
+      "title": "Problems",
+      "paras": "3, 5",
+      "blanks": [
+       "booster lost at sea",
+       "debris and wildlife concerns"
+      ],
+      "kps": [
+       "n20261115-1-k3",
+       "n20261115-1-k5"
+      ]
+     },
+     {
+      "title": "Who controls",
+      "paras": "6–7",
+      "blanks": [
+       "one company's unusual influence"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "NASA builds the Starship rocket",
+     "booster caught on the tower"
+    ]
+   },
+   "summary": {
+    "intro": "SpaceX caught a returning Starship upper stage with its launch tower for the first time.",
+    "model": "SpaceX's tower catch could make rockets reusable and launches far cheaper. However, critics point to failures, environmental harm and one company's power, so the catch is a milestone while the real test is whether the ship can fly again.",
+    "options": [
+     {
+      "t": "Recovering both stages could make rockets reusable like airliners and greatly cut the cost of reaching orbit.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "the cost of reaching orbit could fall dramatically",
+      "why": "Correct. This is why the catch matters. (paragraphs 2 and 4)"
+     },
+     {
+      "t": "Critics argue that one catch is not routine reuse and raise safety, environmental and power concerns.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "one successful catch is not the same as routine reuse",
+      "why": "Correct. This is the opposing view. (paragraphs 5–6)"
+     },
+     {
+      "t": "The catch is a milestone, but its true value depends on whether caught ships can fly again cheaply and safely.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "an important milestone rather than a finished achievement",
+      "why": "Correct. This is the author's conclusion. (paragraph 7)"
+     },
+     {
+      "t": "The ship released 26 Starlink satellites before returning.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "evidence": "released 26 of SpaceX's newest Starlink internet satellites",
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 3)"
+     },
+     {
+      "t": "NASA has announced that it will stop building its own rockets.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "Both the booster and the ship were caught by the tower on the same flight.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "the catch was called off",
+      "why": "Contradicts the passage: the booster catch was called off."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think money spent on space exploration is a good investment for the future. Others think it should be spent on problems here on Earth. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (new technology / jobs, or urgent problems) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, SpaceX caught a returning Starship with its launch tower for the first time. Supporters say fully reusable rockets will make space travel cheap and open new industries. Critics point to failed test flights, environmental damage and the power of a single company. Should governments encourage private companies to lead space exploration, or should space remain mainly a government responsibility? Why? (Mia says: I think private companies should lead. Competition has already cut launch costs dramatically, and companies move faster than government agencies. Governments can still set safety rules without building every rocket themselves.) (Daniel says: I disagree. Space affects everyone, from satellites to the military. If one company controls the only cheap route to orbit, it could put profit before public interests. Governments should stay in charge of the most important missions.)",
+    "steps": [
+     "Decide: private companies lead, or governments stay in charge.",
+     "Give one reason, such as cost and speed, or public control and safety.",
+     "Add an example, such as reusable rockets or satellite networks.",
+     "Respond to Mia or Daniel, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261115-2",
+   "topic": "Society",
+   "title": "Doomsday Postponed: The 1960 Prediction That Said Population Would Explode This Week",
+   "dek": "A famous scientific paper predicted that the number of humans would become infinite on Friday, November 13, 2026. Why was it wrong, and what does it teach us about trusting forecasts?",
+   "sources": [
+    {
+     "name": "ABC News (Australia), Nov 13, 2026",
+     "url": "https://abc.net.au/news/science/2026-11-13/world-has-avoided-a-predicted-population-doomsday/107320748"
+    },
+    {
+     "name": "Newsweek, Nov 2026",
+     "url": "https://www.newsweek.com/scientists-predicted-doomsday-for-november-13-2026-they-got-it-all-wrong-12704398"
+    },
+    {
+     "name": "Science, \"Demographic 'doomsday' misses the mark\"",
+     "url": "https://www.science.org/doi/10.1126/science.ael8752"
+    },
+    {
+     "name": "United Nations, World Population Prospects 2024",
+     "url": "https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/"
+    }
+   ],
+   "paras": [
+    "Friday, November 13, 2026, was supposed to be the end of the world, at least according to a famous scientific paper. In 1960, the Austrian-American physicist Heinz von Foerster and two colleagues published an article in the respected journal Science with a dramatic title: \"Doomsday: Friday, 13 November, A.D. 2026.\" Their calculations suggested that, if the human population kept growing the way it had for the previous two thousand years, the number of people on Earth would effectively become infinite on that date. The day has now come and gone, the planet has roughly eight billion inhabitants rather than an infinite number, and the anniversary has become an opportunity to ask what the prediction got wrong and what it can still teach us.",
+    "The researchers' model was based on a striking observation. In ordinary exponential growth, a population doubles over a fixed period, for example every fifty years. Von Foerster's data, however, suggested that the human population was doubling faster and faster: it had taken many centuries to double in ancient times, but only decades in the modern era. The researchers argued that this was because a larger population could cooperate more effectively, invent better technology and produce more food, which in turn allowed the population to grow even faster. Mathematically, this kind of pattern, called hyperbolic growth, does not just rise steeply; it shoots toward infinity at a specific point in time.",
+    "Surprisingly, the formula worked well for several decades. When the paper appeared, there were about three billion people on Earth, and the model tracked actual growth reasonably closely through the 1960s and 1970s and into the 1980s. Historians note that its projections only began to clearly fail in the early 1990s. Even the date itself was partly a joke: it reportedly fell on von Foerster's birthday, and one mathematician has pointed out that the model's uncertainty was about five and a half years in either direction. Many experts believe the authors were making a provocative point about the dangers of uncontrolled growth rather than seriously forecasting the end of humanity.",
+    "The prediction failed because human beings are not particles obeying physical laws. Global population growth peaked at more than 2 percent a year in the early 1960s, just after the paper was published, and has slowed ever since. As countries became richer and more urban, child mortality fell, education spread, especially among women, and families increasingly chose to have fewer children. As the mathematical biologist Joel Cohen has put it, von Foerster \"didn't allow for the possibility that people might choose to have fewer children.\" In other words, the model treated a social trend as if it were a law of nature.",
+    "Ironically, today's worries often point in the opposite direction. The United Nations projects that the world's population will peak at around 10.3 billion in the mid-2080s and then slowly decline. Many countries, including much of Europe and East Asia, now have fertility rates below the \"replacement level\" of about 2.1 children per woman, which raises concerns about aging societies, shrinking workforces and the cost of pensions and health care. Some commentators now warn of a population \"bust\" rather than a population bomb.",
+    "Yet experts caution against simply swapping one fear for another. Population is still growing quickly in some poorer countries; the Democratic Republic of the Congo, for example, is projected to double its population within about thirty years, which could put pressure on food and water supplies. Meanwhile, environmental scientists stress that the planet's problems depend not only on how many people there are but on how much each person consumes, and resource use is rising fastest in wealthier countries. Demographers also admit that fertility is extremely hard to forecast more than about a decade ahead.",
+    "Perhaps the most useful lesson of the doomsday paper is about the limits of prediction. A simple model can describe the past accurately and still fail badly in the future, because the people it describes can change their behavior, sometimes precisely because they have been warned. The same caution applies to today's forecasts about technology, economies and the environment. Good models are valuable tools for thinking, but they are not prophecies, and treating them as certain can be as misleading as ignoring them altogether."
+   ],
+   "words": [
+    {
+     "w": "projection",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/prəˈdʒekʃn/",
+     "syl": [
+      "pro",
+      "jec",
+      "tion"
+     ],
+     "ex": "The company's sales projection for next year looks very optimistic.",
+     "def": "an estimate of what will happen in the future, based on present information"
+    },
+    {
+     "w": "provocative",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/prəˈvɑːkətɪv/",
+     "syl": [
+      "pro",
+      "voc",
+      "a",
+      "tive"
+     ],
+     "ex": "The speaker asked a provocative question that started a long debate.",
+     "def": "intended to make people think, argue or react strongly"
+    },
+    {
+     "w": "forecast",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈfɔːrkæst/",
+     "syl": [
+      "fore",
+      "cast"
+     ],
+     "ex": "Experts forecast that electric cars will become cheaper within five years.",
+     "def": "to say what you expect to happen in the future, based on information you have now"
+    },
+    {
+     "w": "consume",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kənˈsuːm/",
+     "syl": [
+      "con",
+      "sume"
+     ],
+     "ex": "Large data centers consume huge amounts of electricity.",
+     "def": "to use up energy, food, materials or other resources"
+    },
+    {
+     "w": "uncertainty",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ʌnˈsɜːrtnti/",
+     "syl": [
+      "un",
+      "cer",
+      "tain",
+      "ty"
+     ],
+     "ex": "There is still some uncertainty about the date of the final exam.",
+     "def": "the state of not being sure, or the amount by which an estimate might be wrong"
+    },
+    {
+     "w": "prophecy",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈprɑːfəsi/",
+     "syl": [
+      "proph",
+      "e",
+      "cy"
+     ],
+     "ex": "The old prophecy said that a great storm would destroy the village.",
+     "def": "a statement that something will definitely happen in the future"
+    },
+    {
+     "w": "hyperbolic",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌhaɪpərˈbɑːlɪk/",
+     "syl": [
+      "hy",
+      "per",
+      "bol",
+      "ic"
+     ],
+     "ex": "The scientist showed that the data followed a hyperbolic curve, not a straight line.",
+     "def": "describing growth that speeds up so much that it heads toward infinity at a certain point"
+    },
+    {
+     "w": "fertility",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/fərˈtɪləti/",
+     "syl": [
+      "fer",
+      "til",
+      "i",
+      "ty"
+     ],
+     "ex": "Fertility has fallen in many countries as more women go to university.",
+     "def": "the average number of children born to women in a population"
+    },
+    {
+     "w": "demographer",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/dɪˈmɑːɡrəfər/",
+     "syl": [
+      "de",
+      "mog",
+      "ra",
+      "pher"
+     ],
+     "ex": "A demographer explained why the city's population is getting older.",
+     "def": "a scientist who studies the size, structure and changes of human populations"
+    },
+    {
+     "w": "mortality",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/mɔːrˈtæləti/",
+     "syl": [
+      "mor",
+      "tal",
+      "i",
+      "ty"
+     ],
+     "ex": "Clean drinking water helped to reduce infant mortality in the region.",
+     "def": "the number of deaths in a group of people over a period of time"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Their calculations suggested that, if the human population kept growing the way it had for the previous two thousand years, the number of people on Earth would effectively become infinite on that date.",
+     "kind": "Main idea",
+     "note": "States the prediction the whole passage examines; note the condition \"if ... kept growing\"."
+    },
+    {
+     "para": 2,
+     "text": "Mathematically, this kind of pattern, called hyperbolic growth, does not just rise steeply; it shoots toward infinity at a specific point in time.",
+     "kind": "Key details",
+     "note": "Defines the key term; TOEFL often tests definitions given inside a sentence."
+    },
+    {
+     "para": 3,
+     "text": "Surprisingly, the formula worked well for several decades.",
+     "kind": "Topic sentence",
+     "note": "\"Surprisingly\" signals a concession before the explanation of failure."
+    },
+    {
+     "para": 4,
+     "text": "In other words, the model treated a social trend as if it were a law of nature.",
+     "kind": "Cause → effect",
+     "note": "Sums up why the model failed; \"In other words\" introduces a restatement."
+    },
+    {
+     "para": 5,
+     "text": "Ironically, today's worries often point in the opposite direction.",
+     "kind": "Interpretation",
+     "note": "Signals a shift in viewpoint; useful for rhetorical-purpose questions."
+    },
+    {
+     "para": 7,
+     "text": "Good models are valuable tools for thinking, but they are not prophecies, and treating them as certain can be as misleading as ignoring them altogether.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion: neither blind trust nor complete rejection."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"striking\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "hitting something with force",
+      "refusing to work as a protest",
+      "attractive in appearance",
+      "noticeable and surprising"
+     ],
+     "a": 3,
+     "why": "The \"striking observation\" is that population doubled \"faster and faster\", which is unusual and surprising compared with ordinary exponential growth.",
+     "evidence": "The researchers' model was based on a striking observation.",
+     "optWhy": [
+      "Another meaning of the word. \"Strike\" can mean hit, but an observation cannot hit anything.",
+      "Another meaning of the word. Workers \"on strike\" refuse to work; this has nothing to do with an observation.",
+      "Another meaning of the word. \"Striking\" can describe a good-looking person, but the paragraph is about data, not appearance.",
+      "Correct. The observation is surprising because, unlike ordinary growth, the population was \"doubling faster and faster\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The researchers' model was based on a striking observation.",
+       "hl": "striking observation"
+      },
+      {
+       "para": 2,
+       "text": "Von Foerster's data, however, suggested that the human population was doubling faster and faster: it had taken many centuries to double in ancient times, but only decades in the modern era.",
+       "hl": "doubling faster and faster"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"striking\" describes an \"observation\" in the first sentence of paragraph 2."
+      },
+      {
+       "t": "Use the context",
+       "x": "The next sentences show the observation was unusual: doubling \"faster and faster\"."
+      },
+      {
+       "t": "Check the options",
+       "x": "A, B and C are other meanings of strike/striking that cannot describe an observation."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why did the researchers believe the population was doubling faster and faster?",
+     "opts": [
+      "A larger population could work together, create better technology and grow more food, which sped up growth further.",
+      "Wars and diseases had become less common, so the number of deaths fell steadily after ancient times.",
+      "Ordinary exponential growth always becomes faster once a population passes a fixed size.",
+      "Better mathematical methods allowed scientists to count people more accurately than before."
+     ],
+     "a": 0,
+     "why": "The paragraph says a larger population \"could cooperate more effectively, invent better technology and produce more food\", which \"allowed the population to grow even faster\".",
+     "evidence": "a larger population could cooperate more effectively, invent better technology and produce more food",
+     "optWhy": [
+      "Correct. \"cooperate ... invent better technology ... produce more food\" = \"work together, create better technology and grow more food\".",
+      "Not mentioned. Wars and diseases do not appear in paragraph 2.",
+      "Contradicts the text. In ordinary exponential growth a population doubles \"over a fixed period\"; it does not speed up.",
+      "Not mentioned. The paragraph is about why people increased, not about counting methods."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The researchers argued that this was because a larger population could cooperate more effectively, invent better technology and produce more food, which in turn allowed the population to grow even faster.",
+       "hl": "a larger population could cooperate more effectively, invent better technology and produce more food"
+      },
+      {
+       "para": 2,
+       "text": "In ordinary exponential growth, a population doubles over a fixed period, for example every fifty years.",
+       "hl": "doubles over a fixed period"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the reason",
+       "x": "Look for \"argued that this was because\" in paragraph 2."
+      },
+      {
+       "t": "Paraphrase it",
+       "x": "Cooperation, technology and food let a bigger population grow even faster."
+      },
+      {
+       "t": "Rule out",
+       "x": "C contradicts the definition of exponential growth; B and D are not in the paragraph."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true of the 1960 prediction EXCEPT:",
+     "opts": [
+      "It matched real population growth fairly well for about three decades.",
+      "Its authors later admitted publicly that their formula was wrong.",
+      "Its date was reportedly chosen partly as a joke about a birthday.",
+      "It had an uncertainty of about five and a half years either way."
+     ],
+     "a": 1,
+     "why": "Paragraph 3 says many experts believe the authors were making a point, but it never says the authors admitted their formula was wrong.",
+     "evidence": "Many experts believe the authors were making a provocative point",
+     "optWhy": [
+      "Mentioned. The model \"tracked actual growth reasonably closely through the 1960s and 1970s and into the 1980s\".",
+      "Correct. Not mentioned: it is \"many experts\", not the authors, who comment on the authors' purpose, and no admission is reported.",
+      "Mentioned. \"it reportedly fell on von Foerster's birthday\".",
+      "Mentioned. \"the model's uncertainty was about five and a half years in either direction\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "When the paper appeared, there were about three billion people on Earth, and the model tracked actual growth reasonably closely through the 1960s and 1970s and into the 1980s.",
+       "hl": "tracked actual growth reasonably closely"
+      },
+      {
+       "para": 3,
+       "text": "Many experts believe the authors were making a provocative point about the dangers of uncontrolled growth rather than seriously forecasting the end of humanity.",
+       "hl": "Many experts believe"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Note the EXCEPT",
+       "x": "Three options appear in paragraph 3; find the one that does not."
+      },
+      {
+       "t": "Check each option",
+       "x": "Find the decades of accuracy, the birthday and the 5.5-year uncertainty."
+      },
+      {
+       "t": "Watch who speaks",
+       "x": "Experts, not the authors, comment on the purpose; no admission is mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Families chose to have fewer children, which made countries richer, more urban and better educated.",
+      "Because women received more education, child mortality fell in rich and urban countries only.",
+      "As countries developed, fewer children died, more people were educated, and families had fewer children.",
+      "Richer, more urban countries had more children because better health care meant fewer of them died."
+     ],
+     "a": 2,
+     "why": "The sentence lists changes that came with development (richer, more urban): lower child mortality, more education and smaller families. Only C keeps all of these without changing the direction.",
+     "evidence": "As countries became richer and more urban, child mortality fell, education spread",
+     "optWhy": [
+      "Cause and effect reversed. In the sentence, development comes first; smaller families do not cause countries to get richer.",
+      "Meaning changed. The sentence does not say education caused lower child mortality, and \"only\" is too extreme.",
+      "Correct. \"became richer and more urban\" = \"developed\"; \"child mortality fell\" = \"fewer children died\"; \"chose to have fewer children\" = \"had fewer children\".",
+      "Contradicts the sentence. Families had fewer children, not more."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "As countries became richer and more urban, child mortality fell, education spread, especially among women, and families increasingly chose to have fewer children.",
+       "hl": "families increasingly chose to have fewer children"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Condition: countries got richer and more urban; results: lower child mortality, more education, fewer children."
+      },
+      {
+       "t": "Check the direction",
+       "x": "Development comes first; smaller families are a result, not a cause."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses cause and effect, B adds a cause and \"only\", D contradicts \"fewer children\"."
+      }
+     ],
+     "highlight": "As countries became richer and more urban, child mortality fell, education spread, especially among women, and families increasingly chose to have fewer children."
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention a population \"bust\" rather than a population bomb in paragraph 5?",
+     "opts": [
+      "To show that public concern has shifted from too many people to too few",
+      "To prove that the 1960 paper was correct about the dangers of growth",
+      "To argue that aging societies will soon cause a global disaster",
+      "To explain how the United Nations calculates its population projections"
+     ],
+     "a": 0,
+     "why": "The paragraph begins \"today's worries often point in the opposite direction\": the fear used to be explosive growth (a bomb) and is now decline (a bust).",
+     "evidence": "today's worries often point in the opposite direction",
+     "optWhy": [
+      "Correct. \"the opposite direction\" + \"bust rather than ... bomb\" = concern has shifted from too many to too few people.",
+      "Contradicts the passage. The paragraph shows worries reversing, which does not prove the 1960 paper right.",
+      "Too extreme. The paragraph reports \"concerns\" about aging; in paragraph 6 experts warn against swapping one fear for another.",
+      "Not the purpose. The paragraph reports a UN projection but never explains how it is calculated."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Ironically, today's worries often point in the opposite direction.",
+       "hl": "the opposite direction"
+      },
+      {
+       "para": 5,
+       "text": "Some commentators now warn of a population \"bust\" rather than a population bomb.",
+       "hl": "rather than a population bomb"
+      },
+      {
+       "para": 6,
+       "text": "Yet experts caution against simply swapping one fear for another.",
+       "hl": "swapping one fear for another"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It is the last sentence of paragraph 5."
+      },
+      {
+       "t": "Link it to the topic sentence",
+       "x": "The paragraph opens by saying worries now point \"in the opposite direction\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "B contradicts the passage; C is too extreme; D is not discussed."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 7,
+     "q": "What can be inferred from paragraph 7 about forecasts of human behavior?",
+     "opts": [
+      "They are useless and should not be used to make public decisions.",
+      "They are more reliable for the distant future than for the near future.",
+      "They become accurate once they are based on two thousand years of data.",
+      "They can help make themselves wrong if people respond to their warnings."
+     ],
+     "a": 3,
+     "why": "The author says people \"can change their behavior, sometimes precisely because they have been warned\", so a forecast can contribute to its own failure.",
+     "evidence": "sometimes precisely because they have been warned",
+     "optWhy": [
+      "Too extreme. The author calls good models \"valuable tools for thinking\" and says ignoring them is also misleading.",
+      "Contradicts the passage. Paragraph 6 says fertility is hard to forecast \"more than about a decade ahead\", so distant forecasts are less reliable.",
+      "Contradicts the passage. Von Foerster's model used about two thousand years of data and still failed.",
+      "Correct. \"change their behavior ... because they have been warned\" = a warning can make the forecast wrong."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "A simple model can describe the past accurately and still fail badly in the future, because the people it describes can change their behavior, sometimes precisely because they have been warned.",
+       "hl": "sometimes precisely because they have been warned"
+      },
+      {
+       "para": 7,
+       "text": "Good models are valuable tools for thinking, but they are not prophecies, and treating them as certain can be as misleading as ignoring them altogether.",
+       "hl": "valuable tools for thinking"
+      },
+      {
+       "para": 6,
+       "text": "Demographers also admit that fertility is extremely hard to forecast more than about a decade ahead.",
+       "hl": "more than about a decade ahead"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key sentence",
+       "x": "Paragraph 7 explains why a model that fits the past can fail."
+      },
+      {
+       "t": "Infer the idea",
+       "x": "People change behavior after a warning, so a forecast can undo itself."
+      },
+      {
+       "t": "Rule out",
+       "x": "A is too extreme; B and C contradict paragraphs 6 and 2–3."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261115-2-k1",
+     "tag": "Prediction",
+     "fact": "A 1960 paper in Science predicted the human population would become infinite on Friday, November 13, 2026.",
+     "q": "What did the 1960 paper predict for November 13, 2026?",
+     "opts": [
+      "Population would become infinite",
+      "Population would start to fall",
+      "Population would reach 10 billion"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261115-2-k2",
+     "tag": "Model",
+     "fact": "Hyperbolic growth speeds up so much that it heads toward infinity at a specific point in time.",
+     "q": "What makes hyperbolic growth different from exponential growth?",
+     "opts": [
+      "It doubles over a fixed period",
+      "It shoots toward infinity at a set time",
+      "It always slows down"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-2-k3",
+     "tag": "Accuracy",
+     "fact": "The model tracked real growth fairly well until the early 1990s.",
+     "q": "Until about when did the model work reasonably well?",
+     "opts": [
+      "The 1960s",
+      "The early 1990s",
+      "The 2020s"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-2-k4",
+     "tag": "Why it failed",
+     "fact": "Growth slowed because families chose to have fewer children as countries developed.",
+     "q": "Why did the prediction fail?",
+     "opts": [
+      "People chose to have fewer children",
+      "A global disaster reduced population",
+      "The data was fake"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261115-2-k5",
+     "tag": "Today",
+     "fact": "The UN projects world population will peak at about 10.3 billion in the mid-2080s and then decline.",
+     "q": "When does the UN expect world population to peak?",
+     "opts": [
+      "In the 2030s",
+      "In the mid-2080s",
+      "Never"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "1960 doomsday prediction",
+    "question": "Why do forecasts about people fail?",
+    "branches": [
+     {
+      "title": "The prediction",
+      "paras": "1–2",
+      "blanks": [
+       "population becomes infinite",
+       "hyperbolic growth model"
+      ],
+      "kps": [
+       "n20261115-2-k1",
+       "n20261115-2-k2"
+      ]
+     },
+     {
+      "title": "Early success",
+      "paras": "3",
+      "blanks": [
+       "fit data until 1990s",
+       "date was partly a joke"
+      ],
+      "kps": [
+       "n20261115-2-k3"
+      ]
+     },
+     {
+      "title": "Why it failed",
+      "paras": "4",
+      "blanks": [
+       "families chose fewer children"
+      ],
+      "kps": [
+       "n20261115-2-k4"
+      ]
+     },
+     {
+      "title": "Today's worries",
+      "paras": "5–7",
+      "blanks": [
+       "peak near 10.3 billion",
+       "models are not prophecies"
+      ],
+      "kps": [
+       "n20261115-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "a pandemic stopped population growth",
+     "growth kept speeding up after 1960"
+    ]
+   },
+   "summary": {
+    "intro": "A 1960 paper predicted that the world's population would become infinite on November 13, 2026.",
+    "model": "A 1960 model predicted infinite population by 2026 because growth was speeding up, and it worked for decades. However, families chose to have fewer children, so growth slowed, which shows that forecasts about people are useful tools rather than certain prophecies.",
+    "options": [
+     {
+      "t": "The model assumed that a bigger population would keep growing faster and faster, heading toward infinity.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "it shoots toward infinity at a specific point in time",
+      "why": "Correct. This is the core of the prediction. (paragraphs 1–2)"
+     },
+     {
+      "t": "The prediction failed because development led families to choose to have fewer children.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "the model treated a social trend as if it were a law of nature",
+      "why": "Correct. This explains the failure. (paragraph 4)"
+     },
+     {
+      "t": "Today's concerns include both falling birth rates and rapid growth in some poorer countries, which shows the limits of prediction.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "experts caution against simply swapping one fear for another",
+      "why": "Correct. This covers paragraphs 5–7."
+     },
+     {
+      "t": "The date of the prediction reportedly fell on von Foerster's birthday.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "evidence": "it reportedly fell on von Foerster's birthday",
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 3)"
+     },
+     {
+      "t": "Von Foerster later wrote a second paper with a new doomsday date.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The model was inaccurate from the very first year it was published.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "the formula worked well for several decades",
+      "why": "Contradicts the passage: it worked well for several decades."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think it is useful to plan carefully for the next ten or twenty years of their lives. Others think the future is too uncertain, so it is better to stay flexible. Which approach do you prefer, and why?",
+    "hint": "State your choice → reason 1 + personal example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Exactly 66 years ago, scientists predicted that the world's population would become infinite on November 13, 2026. The prediction failed because people chose to have fewer children. Today, governments and companies rely on forecasts about climate, technology and the economy. Should important public decisions be based mainly on long-term forecasts, even though forecasts can be wrong? Why or why not? (Sofia says: Yes. Even an imperfect forecast is better than guessing. If we wait until we are certain, it may be too late to act, for example on climate change or aging populations.) (Kevin says: I am not so sure. The doomsday paper shows that forecasts can be badly wrong. Decision-makers should stay flexible and update their plans as new data arrives, instead of trusting one long-term prediction.)",
+    "steps": [
+     "Decide: rely mainly on long-term forecasts, or stay flexible and update often.",
+     "Give one reason, such as acting early or the risk of a wrong model.",
+     "Add an example, such as the 1960 doomsday paper or weather forecasts.",
+     "Respond to Sofia or Kevin, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261115-3",
+   "topic": "Animals",
+   "title": "Cute but Risky? Animal Cafés Bring Wildlife Diseases Closer to Home",
+   "dek": "Petting a capybara over coffee is fun and makes a great photo. But when wild animals become entertainment, who pays the price: the visitors, the animals, or both?",
+   "sources": [
+    {
+     "name": "Mongabay, Nov 13, 2026",
+     "url": "https://news.mongabay.com/2026/11/animal-cafes-and-exotic-pet-trade-bring-wildlife-disease-risks-into-public-spaces/"
+    },
+    {
+     "name": "CIDRAP, on Gippet et al., Science (2026)",
+     "url": "https://www.cidrap.umn.edu/longer-wild-mammal-traded-greater-risk-public-health-analysis-finds"
+    },
+    {
+     "name": "Mongabay, May 2026",
+     "url": "https://news.mongabay.com/2026/05/as-wildlife-trade-expands-so-do-pathways-for-disease-spillover-to-humans/"
+    }
+   ],
+   "paras": [
+    "In a café in Bangkok, customers sip iced coffee while a capybara, the world's largest rodent, wanders between the tables waiting to be fed. Nearby, visitors can stroke meerkats and bamboo rats. Animal cafés, petting zoos and exotic pet shows like these have become popular across Asia and beyond, and many of them attract crowds of young people eager to take photos for social media. But a new in-depth report by the environmental news site Mongabay argues that these close encounters may carry a hidden cost: they bring wild animals, and the germs they carry, into crowded public spaces.",
+    "Diseases that pass from animals to humans are known as zoonotic diseases, and they are far more common than many people realize. One recent review estimated that about 75 percent of new or re-emerging infectious diseases come from animals. Some, like rabies, have been known for centuries; others appear suddenly, as the Nipah virus did in Malaysia in the late 1990s, when it spread from bats to pigs and then to farmworkers. Scientists call the moment a pathogen first passes from an animal to a person a \"spillover,\" and every close contact between people and wildlife is another chance for one to happen.",
+    "The evidence linking the wildlife trade to disease has been growing. A study published in the journal Science this year analyzed four decades of international trade records and found that wild mammal species sold in the trade were about 50 percent more likely to share pathogens with humans than species that were not traded. On average, each species gained one additional shared pathogen for every ten years it remained in trade. The lead author argued that buying and selling wild animals increases the risk of that first jump by bringing people into close and repeated contact with them, although another scientist noted that the study measured how long species were traded, not how many animals were sold.",
+    "Real outbreaks show how this can happen. In the United States, salmonella bacteria linked to pet geckos sickened 113 people in 36 states. In Belgium, fifteen customs officers caught psittacosis, a bacterial infection that can cause pneumonia, after handling infected parakeets. In 2025, authorities in Singapore seized 2,500 red-eared slider turtles carrying salmonella that were being smuggled to India; all of them had to be put down. None of these cases involved a dangerous new pandemic, but together they show that exotic animals often carry germs that can harm the people who handle them.",
+    "Experts say the main problem is not that every animal café is dangerous but that many operate with little oversight. Legally imported animals usually pass through quarantine and disease testing, whereas animals obtained through illegal trafficking often skip these checks entirely. One conservation researcher told Mongabay that well-run facilities with veterinary supervision may pose a relatively low immediate risk, but that new cafés and petting zoos \"are appearing everywhere, and many are unregulated.\" In India, a recent report found that the country lacks a system to monitor imported animals for disease after they arrive.",
+    "Supporters of animal encounters see the issue differently. Operators often argue that children need to see and touch animals in order to develop compassion for them, and that a café or an educational show may be the only way many city children will ever meet a reptile or a rodent up close. Others point out that millions of people keep exotic pets without problems, and that basic hygiene, such as washing hands after contact, greatly reduces the risk. Banning these businesses outright, they warn, could simply push the trade underground, where it would be even harder to monitor.",
+    "Critics respond that the debate is not only about human health. Wild animals kept in noisy cafés may suffer stress, and using them as props for entertainment or teaching sends a questionable message about how wildlife should be treated. One animal-welfare campaigner argued that if animals are being used simply as a tool to teach a lesson, it may be time to rethink how that lesson is taught. For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health."
+   ],
+   "words": [
+    {
+     "w": "encounter",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɪnˈkaʊntər/",
+     "syl": [
+      "en",
+      "coun",
+      "ter"
+     ],
+     "ex": "Our first encounter with a wild bear happened on a quiet mountain road.",
+     "def": "a meeting or experience, especially an unexpected or close one"
+    },
+    {
+     "w": "compassion",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kəmˈpæʃn/",
+     "syl": [
+      "com",
+      "pas",
+      "sion"
+     ],
+     "ex": "The nurse treated every patient with kindness and compassion.",
+     "def": "a strong feeling of sympathy for others and a wish to help them"
+    },
+    {
+     "w": "monitor",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈmɑːnɪtər/",
+     "syl": [
+      "mon",
+      "i",
+      "tor"
+     ],
+     "ex": "Doctors will monitor her heart rate throughout the night.",
+     "def": "to watch or check something carefully over a period of time"
+    },
+    {
+     "w": "seize",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/siːz/",
+     "syl": [
+      "seize"
+     ],
+     "ex": "Customs officers seize fake designer bags at the border every week.",
+     "def": "to take something away officially, often because it is illegal"
+    },
+    {
+     "w": "smuggle",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈsmʌɡl/",
+     "syl": [
+      "smug",
+      "gle"
+     ],
+     "ex": "The gang tried to smuggle rare birds across the border in suitcases.",
+     "def": "to move goods or animals secretly and illegally into or out of a country"
+    },
+    {
+     "w": "pathogen",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpæθədʒən/",
+     "syl": [
+      "path",
+      "o",
+      "gen"
+     ],
+     "ex": "Scientists found a dangerous pathogen in the river water.",
+     "def": "a bacterium, virus or other tiny living thing that can cause disease"
+    },
+    {
+     "w": "zoonotic",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌzoʊəˈnɑːtɪk/",
+     "syl": [
+      "zo",
+      "o",
+      "not",
+      "ic"
+     ],
+     "ex": "Rabies is a zoonotic disease that is usually spread by animal bites.",
+     "def": "describing a disease that can pass from animals to humans"
+    },
+    {
+     "w": "quarantine",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkwɔːrəntiːn/",
+     "syl": [
+      "quar",
+      "an",
+      "tine"
+     ],
+     "ex": "The new puppy had to stay in quarantine for two weeks after arriving.",
+     "def": "a period when people or animals are kept apart to stop a disease from spreading"
+    },
+    {
+     "w": "outbreak",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈaʊtbreɪk/",
+     "syl": [
+      "out",
+      "break"
+     ],
+     "ex": "The school closed for a week after an outbreak of flu.",
+     "def": "a sudden start or rise in the number of cases of a disease"
+    },
+    {
+     "w": "hygiene",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈhaɪdʒiːn/",
+     "syl": [
+      "hy",
+      "giene"
+     ],
+     "ex": "Good hygiene, like washing your hands, helps stop colds from spreading.",
+     "def": "the practice of keeping yourself and your surroundings clean to prevent illness"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "But a new in-depth report by the environmental news site Mongabay argues that these close encounters may carry a hidden cost: they bring wild animals, and the germs they carry, into crowded public spaces.",
+     "kind": "Main idea",
+     "note": "\"But\" turns from the popular trend to the passage's central concern."
+    },
+    {
+     "para": 2,
+     "text": "Diseases that pass from animals to humans are known as zoonotic diseases, and they are far more common than many people realize.",
+     "kind": "Topic sentence",
+     "note": "Defines the key term of the passage; definitions are often tested."
+    },
+    {
+     "para": 3,
+     "text": "On average, each species gained one additional shared pathogen for every ten years it remained in trade.",
+     "kind": "Cause → effect",
+     "note": "Links time in trade to disease risk; note the hedge in the next sentence about what the study measured."
+    },
+    {
+     "para": 5,
+     "text": "Experts say the main problem is not that every animal café is dangerous but that many operate with little oversight.",
+     "kind": "Critical thinking",
+     "note": "The \"not ... but\" structure narrows the claim; a good model of careful argument."
+    },
+    {
+     "para": 6,
+     "text": "Supporters of animal encounters see the issue differently.",
+     "kind": "Topic sentence",
+     "note": "Signals the opposing view; questions often ask what supporters believe."
+    },
+    {
+     "para": 7,
+     "text": "For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health.",
+     "kind": "Author's view",
+     "note": "The balanced conclusion; \"middle path\" is the key phrase for summary questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author describe the scene in the Bangkok café at the beginning of the passage?",
+     "opts": [
+      "To recommend the café as a good place to learn about rodents",
+      "To show that capybaras are dangerous animals to keep in cities",
+      "To give a concrete example of a popular trend before discussing its risks",
+      "To compare the prices of animal cafés in different Asian countries"
+     ],
+     "a": 2,
+     "why": "The scene illustrates the popularity of animal cafés; the paragraph then turns with \"But\" to the report's warning about \"a hidden cost\".",
+     "evidence": "these close encounters may carry a hidden cost",
+     "optWhy": [
+      "Wrong purpose. The author is not recommending the café; the paragraph turns to its \"hidden cost\".",
+      "Not stated. The passage never says capybaras themselves are dangerous; the concern is germs and disease in general.",
+      "Correct. The café scene = a concrete example; \"have become popular\" = a trend; \"may carry a hidden cost\" = its risks.",
+      "Not mentioned. Prices and comparisons between countries do not appear in the passage."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Animal cafés, petting zoos and exotic pet shows like these have become popular across Asia and beyond, and many of them attract crowds of young people eager to take photos for social media.",
+       "hl": "have become popular across Asia and beyond"
+      },
+      {
+       "para": 1,
+       "text": "But a new in-depth report by the environmental news site Mongabay argues that these close encounters may carry a hidden cost: they bring wild animals, and the germs they carry, into crowded public spaces.",
+       "hl": "may carry a hidden cost"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the whole paragraph",
+       "x": "The café scene comes first, then \"But\" introduces the report's warning."
+      },
+      {
+       "t": "Name the function",
+       "x": "The scene is an example that makes the trend concrete before the risks."
+      },
+      {
+       "t": "Rule out",
+       "x": "A misreads the tone; B and D are not in the passage."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what do scientists mean by a \"spillover\"?",
+     "opts": [
+      "Any disease that has been known to humans for centuries",
+      "The spread of a disease from one country to another",
+      "A disease that passes from bats to pigs on farms",
+      "The first moment a pathogen moves from an animal to a person"
+     ],
+     "a": 3,
+     "why": "The paragraph defines spillover as \"the moment a pathogen first passes from an animal to a person\".",
+     "evidence": "Scientists call the moment a pathogen first passes from an animal to a person a \"spillover,\"",
+     "optWhy": [
+      "Detail swapped. \"known for centuries\" describes rabies, not the meaning of spillover.",
+      "Not mentioned. The definition is about animal-to-human jumps, not spread between countries.",
+      "Too narrow. Bats to pigs is one step in the Nipah example; a spillover is specifically the jump to a person.",
+      "Correct. \"the moment a pathogen first passes from an animal to a person\" = \"the first moment a pathogen moves from an animal to a person\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Scientists call the moment a pathogen first passes from an animal to a person a \"spillover,\" and every close contact between people and wildlife is another chance for one to happen.",
+       "hl": "the moment a pathogen first passes from an animal to a person"
+      },
+      {
+       "para": 2,
+       "text": "Some, like rabies, have been known for centuries; others appear suddenly, as the Nipah virus did in Malaysia in the late 1990s, when it spread from bats to pigs and then to farmworkers.",
+       "hl": "spread from bats to pigs"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the term",
+       "x": "\"spillover\" is in quotation marks in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Read the definition",
+       "x": "It is the moment a pathogen first passes from an animal to a person."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and C borrow details from the examples; B is not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word \"handling\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "touching and holding with the hands",
+      "dealing successfully with a difficult situation",
+      "managing or controlling a business",
+      "buying and selling goods"
+     ],
+     "a": 0,
+     "why": "The officers caught an infection \"after handling infected parakeets\": they physically touched and held the birds, which is how the germs passed to them.",
+     "evidence": "after handling infected parakeets",
+     "optWhy": [
+      "Correct. The officers touched and held the birds, which is how they caught psittacosis.",
+      "Another meaning of the word. You can \"handle\" a problem, but the officers were handling birds, not a situation.",
+      "Another meaning of the word. \"Handle\" can mean manage an account or business, which does not fit infected parakeets.",
+      "Related idea but wrong. Customs officers check goods; they were not trading the birds."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "In Belgium, fifteen customs officers caught psittacosis, a bacterial infection that can cause pneumonia, after handling infected parakeets.",
+       "hl": "after handling infected parakeets"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"handling\" is in the Belgium example in paragraph 4."
+      },
+      {
+       "t": "Use the context",
+       "x": "The officers caught an infection from birds, so they must have touched them."
+      },
+      {
+       "t": "Check the options",
+       "x": "B and C are other meanings of handle; D does not fit customs officers."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are true EXCEPT:",
+     "opts": [
+      "Legally imported animals usually go through quarantine and disease testing.",
+      "Most animal cafés in Asia have recently been closed by the authorities.",
+      "Animals obtained through illegal trafficking often avoid health checks.",
+      "India does not have a system to check imported animals for disease after arrival."
+     ],
+     "a": 1,
+     "why": "Paragraph 5 says cafés \"are appearing everywhere\"; it never says most have been closed.",
+     "evidence": "are appearing everywhere, and many are unregulated",
+     "optWhy": [
+      "Mentioned. \"Legally imported animals usually pass through quarantine and disease testing\".",
+      "Correct. Not true according to the text: new cafés \"are appearing everywhere\", which is the opposite of being closed.",
+      "Mentioned. Trafficked animals \"often skip these checks entirely\".",
+      "Mentioned. India \"lacks a system to monitor imported animals for disease after they arrive\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Legally imported animals usually pass through quarantine and disease testing, whereas animals obtained through illegal trafficking often skip these checks entirely.",
+       "hl": "often skip these checks entirely"
+      },
+      {
+       "para": 5,
+       "text": "In India, a recent report found that the country lacks a system to monitor imported animals for disease after they arrive.",
+       "hl": "lacks a system to monitor imported animals"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Note the EXCEPT",
+       "x": "Three statements are in paragraph 5; find the one that is not."
+      },
+      {
+       "t": "Check each option",
+       "x": "Find quarantine, trafficking and India in the paragraph."
+      },
+      {
+       "t": "Spot the contradiction",
+       "x": "Cafés \"are appearing everywhere\", so B is not true."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the supporters of animal encounters?",
+     "opts": [
+      "They believe exotic animals carry no germs that can harm people.",
+      "They want the government to ban the trade in wild animals completely.",
+      "They think petting zoos are more educational than visiting the wild.",
+      "They would probably prefer rules and good hygiene to an outright ban."
+     ],
+     "a": 3,
+     "why": "They say hygiene \"greatly reduces the risk\" and warn that a ban could push the trade \"underground, where it would be even harder to monitor\", so they would favor managing the risk rather than banning.",
+     "evidence": "Banning these businesses outright, they warn, could simply push the trade underground",
+     "optWhy": [
+      "Too extreme. They say hygiene \"greatly reduces the risk\", which admits that some risk exists.",
+      "Opposite view. They warn against \"banning these businesses outright\".",
+      "Not stated. They say a café may be the only way city children meet animals, but they do not compare it with the wild.",
+      "Correct. Hygiene \"greatly reduces the risk\" + a ban could push the trade \"underground\" = they prefer rules and hygiene to a ban."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Others point out that millions of people keep exotic pets without problems, and that basic hygiene, such as washing hands after contact, greatly reduces the risk.",
+       "hl": "greatly reduces the risk"
+      },
+      {
+       "para": 6,
+       "text": "Banning these businesses outright, they warn, could simply push the trade underground, where it would be even harder to monitor.",
+       "hl": "push the trade underground"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the group",
+       "x": "Paragraph 6 presents the supporters of animal encounters."
+      },
+      {
+       "t": "Combine two clues",
+       "x": "Hygiene reduces risk, and a ban could make the trade harder to monitor."
+      },
+      {
+       "t": "Rule out",
+       "x": "A is too extreme; B is the opposite; C is not compared in the text."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Many experts prefer a compromise of better licensing, vet checks, import controls and awareness to protect both animals and visitors.",
+      "Many experts want animal cafés to be closed so that no one takes photos of wild animals anymore.",
+      "Experts agree that public awareness alone is enough to protect the health of visitors to animal cafés.",
+      "Experts believe that stricter import controls will make animal cafés more popular and profitable."
+     ],
+     "a": 0,
+     "why": "The sentence proposes a \"middle path\" of licensing, veterinary checks, import controls and awareness so that neither animals nor visitors are harmed. Only A keeps all of this.",
+     "evidence": "many experts favor a middle path",
+     "optWhy": [
+      "Correct. \"middle path\" = \"compromise\"; it keeps all the measures and both goals: \"an animal's well-being or a visitor's health\".",
+      "Meaning changed. A middle path is not closing cafés; the sentence does not ban photos.",
+      "Leaves out essential information. Awareness is only one of several measures, and \"alone is enough\" changes the meaning.",
+      "Not in the sentence. The goal is protecting animals and visitors, not making cafés more profitable."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health.",
+       "hl": "many experts favor a middle path"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Main idea: a middle path; details: four measures; goal: protect animals and visitors."
+      },
+      {
+       "t": "Paraphrase",
+       "x": "A middle path is a compromise, neither banning nor ignoring the risks."
+      },
+      {
+       "t": "Rule out",
+       "x": "B turns it into a ban; C leaves out measures; D adds a profit goal."
+      }
+     ],
+     "highlight": "For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261115-3-k1",
+     "tag": "Term",
+     "fact": "Zoonotic diseases pass from animals to humans; about 75 percent of new or re-emerging infectious diseases come from animals.",
+     "q": "About what share of new or re-emerging diseases come from animals?",
+     "opts": [
+      "About 25 percent",
+      "About 50 percent",
+      "About 75 percent"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261115-3-k2",
+     "tag": "Spillover",
+     "fact": "A spillover is the moment a pathogen first passes from an animal to a person.",
+     "q": "What is a spillover?",
+     "opts": [
+      "A pathogen's first jump from animal to human",
+      "A disease crossing a border",
+      "A virus changing shape"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261115-3-k3",
+     "tag": "Study",
+     "fact": "Traded wild mammals were about 50 percent more likely to share pathogens with humans than species that were not traded.",
+     "q": "How much more likely were traded mammals to share pathogens with humans?",
+     "opts": [
+      "About 10 percent",
+      "About 50 percent",
+      "About 200 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-3-k4",
+     "tag": "Gap",
+     "fact": "Legal imports usually go through quarantine, but trafficked animals often skip health checks.",
+     "q": "Which animals often skip health checks?",
+     "opts": [
+      "Legally imported animals",
+      "Trafficked animals",
+      "Zoo animals"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261115-3-k5",
+     "tag": "Solution",
+     "fact": "Many experts favor a middle path: licensing, vet checks, import controls and public awareness.",
+     "q": "Which is part of the experts' middle path?",
+     "opts": [
+      "Closing all cafés",
+      "Stronger licensing and vet checks",
+      "Selling more exotic pets"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Animal café disease risks",
+    "question": "Should wild animals be used as entertainment?",
+    "branches": [
+     {
+      "title": "The trend",
+      "paras": "1",
+      "blanks": [
+       "capybaras in Bangkok cafés",
+       "photos for social media"
+      ],
+      "kps": []
+     },
+     {
+      "title": "The science",
+      "paras": "2–3",
+      "blanks": [
+       "75 percent from animals",
+       "traded mammals share more pathogens"
+      ],
+      "kps": [
+       "n20261115-3-k1",
+       "n20261115-3-k2",
+       "n20261115-3-k3"
+      ]
+     },
+     {
+      "title": "Real cases",
+      "paras": "4–5",
+      "blanks": [
+       "gecko salmonella in 36 states",
+       "trafficked animals skip checks"
+      ],
+      "kps": [
+       "n20261115-3-k4"
+      ]
+     },
+     {
+      "title": "The debate",
+      "paras": "6–7",
+      "blanks": [
+       "ban could push trade underground",
+       "middle path of licensing"
+      ],
+      "kps": [
+       "n20261115-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "capybaras caused a new pandemic",
+     "all cafés have vet supervision"
+    ]
+   },
+   "summary": {
+    "intro": "A Mongabay report warns that animal cafés and the exotic pet trade bring wildlife diseases closer to people.",
+    "model": "Animal cafés are popular, but they bring people into close contact with wild animals that can carry disease, especially when animals skip health checks. However, supporters say they teach compassion, so many experts favor strict rules rather than a ban.",
+    "options": [
+     {
+      "t": "Close contact with wild animals creates chances for zoonotic diseases, and traded species share more pathogens with humans.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "increases the risk of that first jump",
+      "why": "Correct. This is the scientific core. (paragraphs 2–3)"
+     },
+     {
+      "t": "Outbreaks and weak oversight, especially of trafficked animals, show how the risk becomes real.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "many operate with little oversight",
+      "why": "Correct. This covers the evidence and the regulation gap. (paragraphs 4–5)"
+     },
+     {
+      "t": "Supporters value education and warn against bans, while critics stress welfare, so experts suggest a middle path.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "many experts favor a middle path",
+      "why": "Correct. This covers the debate and conclusion. (paragraphs 6–7)"
+     },
+     {
+      "t": "Fifteen customs officers in Belgium caught psittacosis from parakeets.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "fifteen customs officers caught psittacosis",
+      "why": "A minor detail: true, but too specific for a summary. (paragraph 4)"
+     },
+     {
+      "t": "Thailand has passed a law banning capybaras from cafés.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "Experts agree that every animal café is dangerous and should be closed.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "the main problem is not that every animal café is dangerous",
+      "why": "Contradicts the passage: experts say not every café is dangerous."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think keeping exotic animals, such as lizards or parrots, as pets is a good way to learn about nature. Others think wild animals should never be kept as pets. Which opinion do you agree with, and why?",
+    "hint": "State your view → reason 1 (learning / welfare / health) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Animal cafés where customers can pet capybaras, meerkats or reptiles are popular across Asia. A new report warns that they can spread diseases from animals to people and may harm the animals' welfare. Supporters say they teach children to care about animals. Should cities ban animal cafés, or allow them with strict rules? Explain your view. (Hana says: I think they should be banned. Wild animals are not toys, and the cafés are noisy and stressful for them. Children can learn about animals through documentaries, nature reserves and well-run zoos instead.) (Leo says: I disagree. A ban would only push the trade underground. It is better to allow cafés but require licenses, regular vet checks and hand-washing stations, so that both visitors and animals are protected.)",
+    "steps": [
+     "Decide: ban animal cafés, or allow them with strict rules.",
+     "Give one reason, such as animal welfare, disease risk or the danger of an underground trade.",
+     "Add an example, such as hygiene rules or a zoo you have visited.",
+     "Respond to Hana or Leo, then conclude in one sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "audio": {
+  "On Saturday afternoon, November 14, a stainless-steel spacecraft roughly 50 meters tall dropped out of the sky over southern Texas, fired its engines and slowed almost to a stop beside its launch tower. Two enormous mechanical arms, nicknamed \"chopsticks,\" closed around it and held it in place. It was the first time SpaceX had caught the upper stage of its Starship rocket after a trip to orbit, and a company commentator called the moment \"the holy grail of spaceflight.\" The ship had lifted off about 22.5 hours earlier, circled the Earth repeatedly, and survived a fiery return through the atmosphere before the catch.": "audio/2026-11-15/a1-p1.mp3",
+  "To understand why engineers were so excited, it helps to know how rockets have traditionally worked. For most of the space age, rockets were used only once: after launch, their stages fell into the ocean or burned up in the atmosphere, so every mission required building a new vehicle. Since the 2010s, SpaceX has reduced costs by landing and reusing the first stage of its smaller Falcon 9 rocket, but the upper stage, which travels much faster, has still been thrown away. Starship is designed to change that. If both of its stages can be recovered and flown again, launching a rocket could become more like operating an airliner than firing a firework, and the cost of reaching orbit could fall dramatically.": "audio/2026-11-15/a1-p2.mp3",
+  "The test, Starship's fifteenth, did not go entirely to plan. The giant Super Heavy booster, powered by 33 Raptor engines, was supposed to fly back to the launch site a few minutes after liftoff and be caught by the tower as well, completing the first \"double catch.\" Instead, the catch was called off, and the booster was sent to a splashdown zone in the Gulf of Mexico, where it was lost. The company has not fully explained why. The ship, meanwhile, reached low Earth orbit, released 26 of SpaceX's newest Starlink internet satellites, and orbited the planet about 14 times before heading home.": "audio/2026-11-15/a1-p3.mp3",
+  "Supporters argue that the catch is a turning point. Catching a ship on the tower, rather than recovering it from the sea, means it can be inspected, refueled and launched again quickly, without a long journey back from an ocean landing site. SpaceX wants reusable Starships to launch thousands of satellites and, eventually, to carry people to the Moon and Mars; NASA has already selected Starship as a lunar lander for its Artemis program. Some analysts go further and argue that cheap, frequent launches could open entirely new industries, from space-based manufacturing to orbital data centers, much as cheap air travel transformed tourism and trade.": "audio/2026-11-15/a1-p4.mp3",
+  "Not everyone is so optimistic. Critics point out that one successful catch is not the same as routine reuse: the ship must be refurbished and flown again, many times, before engineers can claim that the system works reliably. Several earlier Starship test flights ended in explosions, and in 2025 debris from two failed flights fell near islands in the Caribbean, forcing airlines to delay or divert flights. Environmental groups have also raised concerns about noise, disturbance to wildlife and the sheer number of launches SpaceX is planning from its site on the Texas coast, which sits next to protected wildlife habitat.": "audio/2026-11-15/a1-p5.mp3",
+  "There is also a wider question about who controls access to space. As SpaceX's rockets become cheaper and more capable, government agencies are relying on a single private company for more of their missions. Supporters say this competition has saved taxpayers billions of dollars and pushed the whole industry forward. Others worry that it gives one company, and its founder, unusual influence over national space programs, communications networks and even military planning. If a small number of firms own the only affordable route to orbit, they ask, who will set the rules?": "audio/2026-11-15/a1-p6.mp3",
+  "For now, the catch is best seen as an important milestone rather than a finished achievement. It shows that a spacecraft returning from orbit can be guided back with remarkable precision, but it also leaves big questions unanswered: how quickly the same ship can fly again, how much reuse will really reduce costs, and whether the benefits of a busier sky will outweigh its risks. The next few flights, and particularly the first time a caught ship is launched again, will reveal whether this was the start of a new era or simply a spectacular demonstration.": "audio/2026-11-15/a1-p7.mp3",
+  "milestone": "audio/2026-11-15/a1-w-milestone.mp3",
+  "Passing her driving test was a big milestone for my older sister.": "audio/2026-11-15/a1-ex-milestone.mp3",
+  "refurbish": "audio/2026-11-15/a1-w-refurbish.mp3",
+  "The school plans to refurbish the old library over the summer holidays.": "audio/2026-11-15/a1-ex-refurbish.mp3",
+  "divert": "audio/2026-11-15/a1-w-divert.mp3",
+  "Police had to divert traffic away from the flooded bridge.": "audio/2026-11-15/a1-ex-divert.mp3",
+  "precision": "audio/2026-11-15/a1-w-precision.mp3",
+  "Surgeons need great precision when they operate on the eye.": "audio/2026-11-15/a1-ex-precision.mp3",
+  "routine": "audio/2026-11-15/a1-w-routine.mp3",
+  "After years of practice, landing a plane in bad weather became routine for the pilot.": "audio/2026-11-15/a1-ex-routine.mp3",
+  "spectacular": "audio/2026-11-15/a1-w-spectacular.mp3",
+  "We watched a spectacular sunset from the top of the mountain.": "audio/2026-11-15/a1-ex-spectacular.mp3",
+  "orbit": "audio/2026-11-15/a1-w-orbit.mp3",
+  "The new weather satellite will stay in orbit for at least ten years.": "audio/2026-11-15/a1-ex-orbit.mp3",
+  "booster": "audio/2026-11-15/a1-w-booster.mp3",
+  "The booster separated from the rocket about two minutes after launch.": "audio/2026-11-15/a1-ex-booster.mp3",
+  "atmosphere": "audio/2026-11-15/a1-w-atmosphere.mp3",
+  "Most small meteors burn up completely in the atmosphere.": "audio/2026-11-15/a1-ex-atmosphere.mp3",
+  "reusable": "audio/2026-11-15/a1-w-reusable.mp3",
+  "Many students now bring reusable water bottles to school.": "audio/2026-11-15/a1-ex-reusable.mp3",
+  "It was the first time SpaceX had caught the upper stage of its Starship rocket after a trip to orbit, and a company commentator called the moment \"the holy grail of spaceflight.\"": "audio/2026-11-15/a1-ks1.mp3",
+  "Starship is designed to change that.": "audio/2026-11-15/a1-ks2.mp3",
+  "The test, Starship's fifteenth, did not go entirely to plan.": "audio/2026-11-15/a1-ks3.mp3",
+  "Supporters argue that the catch is a turning point.": "audio/2026-11-15/a1-ks4.mp3",
+  "Critics point out that one successful catch is not the same as routine reuse: the ship must be refurbished and flown again, many times, before engineers can claim that the system works reliably.": "audio/2026-11-15/a1-ks5.mp3",
+  "For now, the catch is best seen as an important milestone rather than a finished achievement.": "audio/2026-11-15/a1-ks6.mp3",
+  "Friday, November 13, 2026, was supposed to be the end of the world, at least according to a famous scientific paper. In 1960, the Austrian-American physicist Heinz von Foerster and two colleagues published an article in the respected journal Science with a dramatic title: \"Doomsday: Friday, 13 November, A.D. 2026.\" Their calculations suggested that, if the human population kept growing the way it had for the previous two thousand years, the number of people on Earth would effectively become infinite on that date. The day has now come and gone, the planet has roughly eight billion inhabitants rather than an infinite number, and the anniversary has become an opportunity to ask what the prediction got wrong and what it can still teach us.": "audio/2026-11-15/a2-p1.mp3",
+  "The researchers' model was based on a striking observation. In ordinary exponential growth, a population doubles over a fixed period, for example every fifty years. Von Foerster's data, however, suggested that the human population was doubling faster and faster: it had taken many centuries to double in ancient times, but only decades in the modern era. The researchers argued that this was because a larger population could cooperate more effectively, invent better technology and produce more food, which in turn allowed the population to grow even faster. Mathematically, this kind of pattern, called hyperbolic growth, does not just rise steeply; it shoots toward infinity at a specific point in time.": "audio/2026-11-15/a2-p2.mp3",
+  "Surprisingly, the formula worked well for several decades. When the paper appeared, there were about three billion people on Earth, and the model tracked actual growth reasonably closely through the 1960s and 1970s and into the 1980s. Historians note that its projections only began to clearly fail in the early 1990s. Even the date itself was partly a joke: it reportedly fell on von Foerster's birthday, and one mathematician has pointed out that the model's uncertainty was about five and a half years in either direction. Many experts believe the authors were making a provocative point about the dangers of uncontrolled growth rather than seriously forecasting the end of humanity.": "audio/2026-11-15/a2-p3.mp3",
+  "The prediction failed because human beings are not particles obeying physical laws. Global population growth peaked at more than 2 percent a year in the early 1960s, just after the paper was published, and has slowed ever since. As countries became richer and more urban, child mortality fell, education spread, especially among women, and families increasingly chose to have fewer children. As the mathematical biologist Joel Cohen has put it, von Foerster \"didn't allow for the possibility that people might choose to have fewer children.\" In other words, the model treated a social trend as if it were a law of nature.": "audio/2026-11-15/a2-p4.mp3",
+  "Ironically, today's worries often point in the opposite direction. The United Nations projects that the world's population will peak at around 10.3 billion in the mid-2080s and then slowly decline. Many countries, including much of Europe and East Asia, now have fertility rates below the \"replacement level\" of about 2.1 children per woman, which raises concerns about aging societies, shrinking workforces and the cost of pensions and health care. Some commentators now warn of a population \"bust\" rather than a population bomb.": "audio/2026-11-15/a2-p5.mp3",
+  "Yet experts caution against simply swapping one fear for another. Population is still growing quickly in some poorer countries; the Democratic Republic of the Congo, for example, is projected to double its population within about thirty years, which could put pressure on food and water supplies. Meanwhile, environmental scientists stress that the planet's problems depend not only on how many people there are but on how much each person consumes, and resource use is rising fastest in wealthier countries. Demographers also admit that fertility is extremely hard to forecast more than about a decade ahead.": "audio/2026-11-15/a2-p6.mp3",
+  "Perhaps the most useful lesson of the doomsday paper is about the limits of prediction. A simple model can describe the past accurately and still fail badly in the future, because the people it describes can change their behavior, sometimes precisely because they have been warned. The same caution applies to today's forecasts about technology, economies and the environment. Good models are valuable tools for thinking, but they are not prophecies, and treating them as certain can be as misleading as ignoring them altogether.": "audio/2026-11-15/a2-p7.mp3",
+  "projection": "audio/2026-11-15/a2-w-projection.mp3",
+  "The company's sales projection for next year looks very optimistic.": "audio/2026-11-15/a2-ex-projection.mp3",
+  "provocative": "audio/2026-11-15/a2-w-provocative.mp3",
+  "The speaker asked a provocative question that started a long debate.": "audio/2026-11-15/a2-ex-provocative.mp3",
+  "forecast": "audio/2026-11-15/a2-w-forecast.mp3",
+  "Experts forecast that electric cars will become cheaper within five years.": "audio/2026-11-15/a2-ex-forecast.mp3",
+  "consume": "audio/2026-11-15/a2-w-consume.mp3",
+  "Large data centers consume huge amounts of electricity.": "audio/2026-11-15/a2-ex-consume.mp3",
+  "uncertainty": "audio/2026-11-15/a2-w-uncertainty.mp3",
+  "There is still some uncertainty about the date of the final exam.": "audio/2026-11-15/a2-ex-uncertainty.mp3",
+  "prophecy": "audio/2026-11-15/a2-w-prophecy.mp3",
+  "The old prophecy said that a great storm would destroy the village.": "audio/2026-11-15/a2-ex-prophecy.mp3",
+  "hyperbolic": "audio/2026-11-15/a2-w-hyperbolic.mp3",
+  "The scientist showed that the data followed a hyperbolic curve, not a straight line.": "audio/2026-11-15/a2-ex-hyperbolic.mp3",
+  "fertility": "audio/2026-11-15/a2-w-fertility.mp3",
+  "Fertility has fallen in many countries as more women go to university.": "audio/2026-11-15/a2-ex-fertility.mp3",
+  "demographer": "audio/2026-11-15/a2-w-demographer.mp3",
+  "A demographer explained why the city's population is getting older.": "audio/2026-11-15/a2-ex-demographer.mp3",
+  "mortality": "audio/2026-11-15/a2-w-mortality.mp3",
+  "Clean drinking water helped to reduce infant mortality in the region.": "audio/2026-11-15/a2-ex-mortality.mp3",
+  "Their calculations suggested that, if the human population kept growing the way it had for the previous two thousand years, the number of people on Earth would effectively become infinite on that date.": "audio/2026-11-15/a2-ks1.mp3",
+  "Mathematically, this kind of pattern, called hyperbolic growth, does not just rise steeply; it shoots toward infinity at a specific point in time.": "audio/2026-11-15/a2-ks2.mp3",
+  "Surprisingly, the formula worked well for several decades.": "audio/2026-11-15/a2-ks3.mp3",
+  "In other words, the model treated a social trend as if it were a law of nature.": "audio/2026-11-15/a2-ks4.mp3",
+  "Ironically, today's worries often point in the opposite direction.": "audio/2026-11-15/a2-ks5.mp3",
+  "Good models are valuable tools for thinking, but they are not prophecies, and treating them as certain can be as misleading as ignoring them altogether.": "audio/2026-11-15/a2-ks6.mp3",
+  "In a café in Bangkok, customers sip iced coffee while a capybara, the world's largest rodent, wanders between the tables waiting to be fed. Nearby, visitors can stroke meerkats and bamboo rats. Animal cafés, petting zoos and exotic pet shows like these have become popular across Asia and beyond, and many of them attract crowds of young people eager to take photos for social media. But a new in-depth report by the environmental news site Mongabay argues that these close encounters may carry a hidden cost: they bring wild animals, and the germs they carry, into crowded public spaces.": "audio/2026-11-15/a3-p1.mp3",
+  "Diseases that pass from animals to humans are known as zoonotic diseases, and they are far more common than many people realize. One recent review estimated that about 75 percent of new or re-emerging infectious diseases come from animals. Some, like rabies, have been known for centuries; others appear suddenly, as the Nipah virus did in Malaysia in the late 1990s, when it spread from bats to pigs and then to farmworkers. Scientists call the moment a pathogen first passes from an animal to a person a \"spillover,\" and every close contact between people and wildlife is another chance for one to happen.": "audio/2026-11-15/a3-p2.mp3",
+  "The evidence linking the wildlife trade to disease has been growing. A study published in the journal Science this year analyzed four decades of international trade records and found that wild mammal species sold in the trade were about 50 percent more likely to share pathogens with humans than species that were not traded. On average, each species gained one additional shared pathogen for every ten years it remained in trade. The lead author argued that buying and selling wild animals increases the risk of that first jump by bringing people into close and repeated contact with them, although another scientist noted that the study measured how long species were traded, not how many animals were sold.": "audio/2026-11-15/a3-p3.mp3",
+  "Real outbreaks show how this can happen. In the United States, salmonella bacteria linked to pet geckos sickened 113 people in 36 states. In Belgium, fifteen customs officers caught psittacosis, a bacterial infection that can cause pneumonia, after handling infected parakeets. In 2025, authorities in Singapore seized 2,500 red-eared slider turtles carrying salmonella that were being smuggled to India; all of them had to be put down. None of these cases involved a dangerous new pandemic, but together they show that exotic animals often carry germs that can harm the people who handle them.": "audio/2026-11-15/a3-p4.mp3",
+  "Experts say the main problem is not that every animal café is dangerous but that many operate with little oversight. Legally imported animals usually pass through quarantine and disease testing, whereas animals obtained through illegal trafficking often skip these checks entirely. One conservation researcher told Mongabay that well-run facilities with veterinary supervision may pose a relatively low immediate risk, but that new cafés and petting zoos \"are appearing everywhere, and many are unregulated.\" In India, a recent report found that the country lacks a system to monitor imported animals for disease after they arrive.": "audio/2026-11-15/a3-p5.mp3",
+  "Supporters of animal encounters see the issue differently. Operators often argue that children need to see and touch animals in order to develop compassion for them, and that a café or an educational show may be the only way many city children will ever meet a reptile or a rodent up close. Others point out that millions of people keep exotic pets without problems, and that basic hygiene, such as washing hands after contact, greatly reduces the risk. Banning these businesses outright, they warn, could simply push the trade underground, where it would be even harder to monitor.": "audio/2026-11-15/a3-p6.mp3",
+  "Critics respond that the debate is not only about human health. Wild animals kept in noisy cafés may suffer stress, and using them as props for entertainment or teaching sends a questionable message about how wildlife should be treated. One animal-welfare campaigner argued that if animals are being used simply as a tool to teach a lesson, it may be time to rethink how that lesson is taught. For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health.": "audio/2026-11-15/a3-p7.mp3",
+  "encounter": "audio/2026-11-15/a3-w-encounter.mp3",
+  "Our first encounter with a wild bear happened on a quiet mountain road.": "audio/2026-11-15/a3-ex-encounter.mp3",
+  "compassion": "audio/2026-11-15/a3-w-compassion.mp3",
+  "The nurse treated every patient with kindness and compassion.": "audio/2026-11-15/a3-ex-compassion.mp3",
+  "monitor": "audio/2026-11-15/a3-w-monitor.mp3",
+  "Doctors will monitor her heart rate throughout the night.": "audio/2026-11-15/a3-ex-monitor.mp3",
+  "seize": "audio/2026-11-15/a3-w-seize.mp3",
+  "Customs officers seize fake designer bags at the border every week.": "audio/2026-11-15/a3-ex-seize.mp3",
+  "smuggle": "audio/2026-11-15/a3-w-smuggle.mp3",
+  "The gang tried to smuggle rare birds across the border in suitcases.": "audio/2026-11-15/a3-ex-smuggle.mp3",
+  "pathogen": "audio/2026-11-15/a3-w-pathogen.mp3",
+  "Scientists found a dangerous pathogen in the river water.": "audio/2026-11-15/a3-ex-pathogen.mp3",
+  "zoonotic": "audio/2026-11-15/a3-w-zoonotic.mp3",
+  "Rabies is a zoonotic disease that is usually spread by animal bites.": "audio/2026-11-15/a3-ex-zoonotic.mp3",
+  "quarantine": "audio/2026-11-15/a3-w-quarantine.mp3",
+  "The new puppy had to stay in quarantine for two weeks after arriving.": "audio/2026-11-15/a3-ex-quarantine.mp3",
+  "outbreak": "audio/2026-11-15/a3-w-outbreak.mp3",
+  "The school closed for a week after an outbreak of flu.": "audio/2026-11-15/a3-ex-outbreak.mp3",
+  "hygiene": "audio/2026-11-15/a3-w-hygiene.mp3",
+  "Good hygiene, like washing your hands, helps stop colds from spreading.": "audio/2026-11-15/a3-ex-hygiene.mp3",
+  "But a new in-depth report by the environmental news site Mongabay argues that these close encounters may carry a hidden cost: they bring wild animals, and the germs they carry, into crowded public spaces.": "audio/2026-11-15/a3-ks1.mp3",
+  "Diseases that pass from animals to humans are known as zoonotic diseases, and they are far more common than many people realize.": "audio/2026-11-15/a3-ks2.mp3",
+  "On average, each species gained one additional shared pathogen for every ten years it remained in trade.": "audio/2026-11-15/a3-ks3.mp3",
+  "Experts say the main problem is not that every animal café is dangerous but that many operate with little oversight.": "audio/2026-11-15/a3-ks4.mp3",
+  "Supporters of animal encounters see the issue differently.": "audio/2026-11-15/a3-ks5.mp3",
+  "For now, many experts favor a middle path: stronger licensing and veterinary checks, tighter controls on imports, and better public awareness, so that a cute photo does not come at the cost of an animal's well-being or a visitor's health.": "audio/2026-11-15/a3-ks6.mp3"
+ }
+}
