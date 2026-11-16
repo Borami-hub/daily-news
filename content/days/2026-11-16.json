@@ -1,0 +1,2093 @@
+{
+ "date": "2026-11-16",
+ "headline": "A virus, a brain scan and a penguin: what can one number hide?",
+ "teaser": "Is a lost label only a symbol? Would you want to know your future risk? Can an average hide a collapse?",
+ "articles": [
+  {
+   "id": "n20261116-1",
+   "topic": "Health",
+   "title": "A Symbolic Loss? The US Loses Its Measles Elimination Status",
+   "dek": "After 26 years, measles is again spreading continuously in the United States. Is a lost label only a symbol, or a warning about how communities protect one another?",
+   "sources": [
+    {
+     "name": "Al Jazeera, Nov 14, 2026",
+     "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+    },
+    {
+     "name": "Forbes, Nov 15, 2026",
+     "url": "https://www.forbes.com/sites/johndrake/2026/11/15/the-us-has-lost-its-measles-free-status-getting-it-back-will-take-years/"
+    },
+    {
+     "name": "NPR, Nov 14, 2026",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho"
+    }
+   ],
+   "paras": [
+    "For more than a quarter of a century, the United States could claim that measles no longer lived within its borders. In 2000, health authorities declared the disease \"eliminated,\" meaning that although travellers still occasionally brought the virus in from abroad, it no longer spread continuously inside the country. This month, that claim appears to have collapsed. According to multiple news reports, a regional commission of the Pan American Health Organization (PAHO), which met from November 10 to 13, concluded that measles has circulated in the US without interruption for more than a year. A formal announcement is expected shortly, but the verdict is already being described as a turning point for American public health.",
+    "The rule behind the decision is simple. A country loses its elimination status when a single chain of measles transmission continues for 12 months or longer. In this case, scientists did not have to rely on guesswork. By sequencing 1,760 virus samples collected across North America, researchers showed that they belonged to one expanding lineage, which indicates that the infections were connected rather than the result of separate imports. An outbreak in Utah, which passed the one-year mark in June, proved decisive.",
+    "The numbers explain why experts are alarmed. The Centers for Disease Control and Prevention (CDC) has confirmed 5,412 cases in 2026 as of November 12, more than double the 2,289 recorded in 2025 and the highest annual total since 1991. State health departments have reported 10 measles-related deaths this year, although the CDC's own count is six, partly because officials classify some deaths differently. Measles is one of the most contagious diseases known: a single infected person can pass it to most of the unprotected people around them, and the virus can linger in the air of a room for up to two hours after that person has left.",
+    "Because the virus spreads so easily, controlling it depends on what scientists call herd immunity. When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading. Below that level, outbreaks can grow and persist. In the United States, the share of kindergarten children who have received both recommended doses of the measles, mumps and rubella (MMR) vaccine has fallen from 95.2 percent in the 2019–2020 school year to 92.4 percent in 2025–2026. A drop of fewer than three percentage points may sound minor, yet nationwide it represents many thousands of additional unprotected children every year, and they are often concentrated in particular communities, where coverage can be far lower.",
+    "Why has coverage slipped? Researchers point to several overlapping causes. The COVID-19 pandemic interrupted routine medical check-ups, misleading claims about vaccine safety have spread widely online, and more families have used exemptions that allow children to attend school without the usual vaccines. Some public-health experts also argue that mixed messages from political leaders, including Health Secretary Robert F. Kennedy Jr., who has publicly questioned the safety of some vaccines, have weakened trust. His supporters counter that parents deserve more information and greater freedom to make medical decisions for their own children.",
+    "Not everyone agrees that the lost status itself matters very much. PAHO imposes no sanctions or travel restrictions on countries that lose it, and some commentators describe the change as largely symbolic: the virus does not care about labels, and the outbreaks were already happening. Others insist that the symbol carries real weight. Elimination status, they argue, works like a report card, and losing it signals that the country's defences, from vaccination rates to disease surveillance, are no longer strong enough. A recent letter in the medical journal The Lancet found that the US failed four of seven CDC indicators used to monitor elimination.",
+    "Regaining the title will not be quick. The country would need to go at least 12 months without sustained transmission, and simply ending today's outbreaks would not be enough if coverage keeps falling, since every new imported case would carry a higher risk of igniting another long chain. Other countries offer both hope and warning. Venezuela lost its status in 2018 and recovered it in 2023, and Brazil, which lost it in 2019, regained it in November 2024. Canada, however, which lost its status about a year ago, is still classified as having endemic measles.",
+    "In the end, the episode raises a question that reaches beyond one disease: how should a society balance individual choice against collective protection? Vaccination is a personal medical decision, but its benefits are shared, because immune people also shield infants too young to be vaccinated and patients whose immune systems are weak. Whether the US restores its status may depend less on new science than on whether that shared logic can persuade enough families."
+   ],
+   "words": [
+    {
+     "w": "elimination",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɪˌlɪmɪˈneɪʃn/",
+     "syl": [
+      "e",
+      "lim",
+      "i",
+      "na",
+      "tion"
+     ],
+     "def": "the complete removal of something, so that it no longer exists in a place",
+     "ex": "The elimination of plastic bags from the supermarket surprised many shoppers."
+    },
+    {
+     "w": "transmission",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/trænzˈmɪʃn/",
+     "syl": [
+      "trans",
+      "mis",
+      "sion"
+     ],
+     "def": "the process of passing something, such as a disease, from one person or place to another",
+     "ex": "Washing your hands often can reduce the transmission of colds in a classroom."
+    },
+    {
+     "w": "lineage",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈlɪniɪdʒ/",
+     "syl": [
+      "lin",
+      "e",
+      "age"
+     ],
+     "def": "a line of descent; in biology, a group of organisms or viruses that share a common ancestor",
+     "ex": "Scientists traced the lineage of the virus back to a single sample collected last spring."
+    },
+    {
+     "w": "contagious",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/kənˈteɪdʒəs/",
+     "syl": [
+      "con",
+      "ta",
+      "gious"
+     ],
+     "def": "able to spread easily from one person to another by contact or through the air",
+     "ex": "Her laugh was so contagious that soon the whole class was laughing too."
+    },
+    {
+     "w": "herd immunity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌhɜːrd ɪˈmjuːnəti/",
+     "syl": [
+      "herd",
+      "im",
+      "mu",
+      "ni",
+      "ty"
+     ],
+     "def": "protection of a whole population from a disease that happens when a large share of people are immune",
+     "ex": "Doctors explained that herd immunity also protects babies who are too young for the vaccine."
+    },
+    {
+     "w": "susceptible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/səˈseptəbl/",
+     "syl": [
+      "sus",
+      "cep",
+      "ti",
+      "ble"
+     ],
+     "def": "easily affected or harmed by something, such as a disease",
+     "ex": "Young trees are especially susceptible to damage from strong winds."
+    },
+    {
+     "w": "exemption",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ɪɡˈzempʃn/",
+     "syl": [
+      "ex",
+      "emp",
+      "tion"
+     ],
+     "def": "official permission not to do something that others are required to do",
+     "ex": "Students with a medical note can get an exemption from the swimming test."
+    },
+    {
+     "w": "sanction",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈsæŋkʃn/",
+     "syl": [
+      "sanc",
+      "tion"
+     ],
+     "def": "an official penalty used to make a country or person obey a rule",
+     "ex": "The league threatened a sanction against any club that broke the new spending rules."
+    },
+    {
+     "w": "endemic",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/enˈdemɪk/",
+     "syl": [
+      "en",
+      "dem",
+      "ic"
+     ],
+     "def": "regularly found in a particular area or population, rather than brought in from outside",
+     "ex": "Malaria is still endemic in some tropical regions of the world."
+    },
+    {
+     "w": "collective",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/kəˈlektɪv/",
+     "syl": [
+      "col",
+      "lec",
+      "tive"
+     ],
+     "def": "shared or done by all the members of a group together",
+     "ex": "Cleaning up the park after the festival was a collective effort by the whole village."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "According to multiple news reports, a regional commission of the Pan American Health Organization (PAHO), which met from November 10 to 13, concluded that measles has circulated in the US without interruption for more than a year.",
+     "kind": "Main idea",
+     "note": "This sentence states the news itself; notice the hedging phrase \"According to multiple news reports\", since the decision was not yet formally announced."
+    },
+    {
+     "para": 2,
+     "text": "A country loses its elimination status when a single chain of measles transmission continues for 12 months or longer.",
+     "kind": "Key details",
+     "note": "A definition sentence. TOEFL questions often test whether you can apply a rule like this to the case in the passage."
+    },
+    {
+     "para": 4,
+     "text": "When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading.",
+     "kind": "Cause → effect",
+     "note": "The word \"because\" links immunity to the end of an outbreak; cause-effect sentences are common sources of factual and inference questions."
+    },
+    {
+     "para": 5,
+     "text": "His supporters counter that parents deserve more information and greater freedom to make medical decisions for their own children.",
+     "kind": "Critical thinking",
+     "note": "The verb \"counter\" signals an opposing view; recognising two sides helps with summary and rhetorical-purpose questions."
+    },
+    {
+     "para": 6,
+     "text": "Not everyone agrees that the lost status itself matters very much.",
+     "kind": "Topic sentence",
+     "note": "This topic sentence introduces the debate about whether the label is only symbolic."
+    },
+    {
+     "para": 8,
+     "text": "In the end, the episode raises a question that reaches beyond one disease: how should a society balance individual choice against collective protection?",
+     "kind": "Author's view",
+     "note": "The conclusion widens the topic to a general question, a typical way authors end academic passages."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The phrase \"fizzles out\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "spreads rapidly to nearby communities",
+      "ends without spreading any further",
+      "makes a soft hissing or bubbling sound",
+      "is reported to local health officials"
+     ],
+     "a": 1,
+     "why": "The same sentence gives the reason: the virus \"cannot find enough susceptible people to keep spreading\", so an imported case simply ends.",
+     "evidence": "an imported case usually fizzles out",
+     "optWhy": [
+      "Opposite meaning. The text says the virus \"cannot find enough susceptible people to keep spreading\", so it does not spread quickly.",
+      "Correct. \"fizzles out\" because the virus \"cannot find enough susceptible people to keep spreading\" = \"ends without spreading any further\".",
+      "Another meaning of the word. A drink can fizz with a hissing sound, but here the phrase is used figuratively about a disease outbreak.",
+      "Not mentioned. Paragraph 4 says nothing about reporting cases; it explains why outbreaks stop when about 95 percent of people are immune."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading.",
+       "hl": "cannot find enough susceptible people to keep spreading"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "Locate \"fizzles out\" in the second sentence of paragraph 4."
+      },
+      {
+       "t": "Read the reason",
+       "x": "The word \"because\" introduces the explanation: the virus cannot keep spreading."
+      },
+      {
+       "t": "Match and rule out",
+       "x": "Only B means the outbreak ends; C is the literal sound meaning of \"fizz\"."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, how did scientists show that the infections were connected?",
+     "opts": [
+      "They found that the Utah outbreak lasted longer than any outbreak in history.",
+      "They traced the travel history of every patient in North America.",
+      "They proved that most patients had caught the virus while abroad.",
+      "They analysed virus samples and found they came from one growing lineage."
+     ],
+     "a": 3,
+     "why": "By sequencing 1,760 virus samples, researchers showed they \"belonged to one expanding lineage\", which means the infections were linked.",
+     "evidence": "researchers showed that they belonged to one expanding lineage",
+     "optWhy": [
+      "Too extreme. The text only says the Utah outbreak \"passed the one-year mark in June\"; it never calls it the longest in history.",
+      "Not mentioned. The method was \"sequencing 1,760 virus samples\", not tracing patients' travel.",
+      "Contradicts the text. The analysis showed the infections were connected \"rather than the result of separate imports\".",
+      "Correct. \"sequencing 1,760 virus samples\" = \"analysed virus samples\", and \"one expanding lineage\" = \"one growing lineage\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "By sequencing 1,760 virus samples collected across North America, researchers showed that they belonged to one expanding lineage, which indicates that the infections were connected rather than the result of separate imports.",
+       "hl": "they belonged to one expanding lineage"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the method",
+       "x": "Look for how the scientists got their evidence: \"By sequencing 1,760 virus samples\"."
+      },
+      {
+       "t": "Find the result",
+       "x": "The samples \"belonged to one expanding lineage\", so the infections were connected."
+      },
+      {
+       "t": "Rule out",
+       "x": "B is not mentioned, C reverses \"rather than separate imports\", A exaggerates the Utah detail."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true EXCEPT:",
+     "opts": [
+      "The CDC's death count is higher than the states' count.",
+      "The number of confirmed cases in 2026 is more than twice the number in 2025.",
+      "The measles virus can remain in the air of a room for up to two hours.",
+      "The 2026 case total is the highest annual figure since 1991."
+     ],
+     "a": 0,
+     "why": "States reported 10 deaths, while \"the CDC's own count is six\", so the CDC's number is lower, not higher. B, C and D are all stated.",
+     "evidence": "although the CDC's own count is six",
+     "optWhy": [
+      "Correct (this is the false statement). States reported 10 deaths, \"although the CDC's own count is six\", so the CDC's count is lower. The option reverses the comparison.",
+      "True, so not the answer: 5,412 cases is \"more than double the 2,289 recorded in 2025\".",
+      "True, so not the answer: the virus \"can linger in the air of a room for up to two hours\".",
+      "True, so not the answer: it is \"the highest annual total since 1991\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "State health departments have reported 10 measles-related deaths this year, although the CDC's own count is six, partly because officials classify some deaths differently.",
+       "hl": "the CDC's own count is six"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check each option",
+       "x": "For a NOT question, find each option in paragraph 3 and tick the ones that are stated."
+      },
+      {
+       "t": "Compare numbers",
+       "x": "States: 10 deaths; CDC: six. Which is higher?"
+      },
+      {
+       "t": "Pick the false one",
+       "x": "A reverses the comparison, so it is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the national vaccination figure of 92.4 percent?",
+     "opts": [
+      "It shows that herd immunity has been reached in most of the country.",
+      "It represents a fall of more than three percentage points since 2019.",
+      "It may hide areas where protection is far below 95 percent.",
+      "It counts children who have received only one dose of the MMR vaccine."
+     ],
+     "a": 2,
+     "why": "Unprotected children \"are often concentrated in particular communities, where coverage can be far lower\", so the national average can hide places well below 95 percent.",
+     "evidence": "they are often concentrated in particular communities, where coverage can be far lower",
+     "optWhy": [
+      "Contradicts the text. Herd immunity needs \"roughly 95 percent\", and 92.4 percent is below that level.",
+      "Detail changed. The text says \"A drop of fewer than three percentage points\" (95.2 to 92.4).",
+      "Correct. Unprotected children are \"concentrated in particular communities, where coverage can be far lower\", so the average may hide local gaps.",
+      "Detail changed. The figure is for children who received \"both recommended doses\" of the vaccine."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "A drop of fewer than three percentage points may sound minor, yet nationwide it represents many thousands of additional unprotected children every year, and they are often concentrated in particular communities, where coverage can be far lower.",
+       "hl": "concentrated in particular communities, where coverage can be far lower"
+      },
+      {
+       "para": 4,
+       "text": "When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading.",
+       "hl": "roughly 95 percent"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the figure",
+       "x": "Locate 92.4 percent and read the sentences around it."
+      },
+      {
+       "t": "Think beyond the text",
+       "x": "If unprotected children cluster in some places, the national average is not the same everywhere."
+      },
+      {
+       "t": "Check details",
+       "x": "B and D change numbers or doses; A contradicts the 95 percent threshold."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author compare elimination status to \"a report card\" in paragraph 6?",
+     "opts": [
+      "To explain why some see the loss as a sign of weak defences",
+      "To argue that schools should check students' vaccination records more carefully",
+      "To show that PAHO punishes countries that receive poor grades",
+      "To compare the United States with countries that achieved better results"
+     ],
+     "a": 0,
+     "why": "The comparison explains the second view: like a report card, the status shows performance, and losing it \"signals that the country's defences ... are no longer strong enough\".",
+     "evidence": "Elimination status, they argue, works like a report card",
+     "optWhy": [
+      "Correct. The comparison supports the claim that losing the status \"signals that the country's defences, from vaccination rates to disease surveillance, are no longer strong enough\".",
+      "Literal misreading. \"Report card\" is a metaphor for national performance; the paragraph is not about schools checking records.",
+      "Contradicts the text. The paragraph says \"PAHO imposes no sanctions or travel restrictions\".",
+      "Not in this paragraph. Other countries (Venezuela, Brazil, Canada) appear in paragraph 7, and not as part of this comparison."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Elimination status, they argue, works like a report card, and losing it signals that the country's defences, from vaccination rates to disease surveillance, are no longer strong enough.",
+       "hl": "losing it signals that the country's defences"
+      },
+      {
+       "para": 6,
+       "text": "PAHO imposes no sanctions or travel restrictions on countries that lose it, and some commentators describe the change as largely symbolic: the virus does not care about labels, and the outbreaks were already happening.",
+       "hl": "PAHO imposes no sanctions"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find whose view it is",
+       "x": "\"they argue\" shows the comparison belongs to the people who think the symbol matters."
+      },
+      {
+       "t": "Read what follows",
+       "x": "The rest of the sentence says what losing the status signals."
+      },
+      {
+       "t": "Rule out",
+       "x": "C contradicts \"no sanctions\"; B takes the metaphor literally; D is from paragraph 7."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Ending today's outbreaks is enough to regain the status quickly, as long as this happens within the next 12 months.",
+      "Because imported cases keep rising, vaccination coverage will keep falling unless the country closes its borders.",
+      "The country must block every imported case for 12 months, since each one now causes a long chain of infections.",
+      "Regaining status needs a year without continuous spread, so coverage must recover, not only outbreaks end."
+     ],
+     "a": 3,
+     "why": "The sentence says: (1) the country needs 12 months without sustained transmission; (2) ending current outbreaks is not enough if coverage keeps falling; (3) because each import could start a new chain. D keeps all of this.",
+     "evidence": "simply ending today's outbreaks would not be enough if coverage keeps falling",
+     "optWhy": [
+      "Contradicts the sentence, which says ending today's outbreaks \"would not be enough if coverage keeps falling\".",
+      "Cause and effect reversed, and closing borders is never mentioned. The sentence says falling coverage raises the risk from imported cases, not the other way round.",
+      "Too extreme. The sentence says each import would \"carry a higher risk\" of a long chain, not that each one certainly causes one, and it does not require blocking every import.",
+      "Correct. \"12 months without sustained transmission\" = \"a year without continuous spread\"; \"not be enough if coverage keeps falling\" = \"coverage must recover, not only outbreaks end\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "The country would need to go at least 12 months without sustained transmission, and simply ending today's outbreaks would not be enough if coverage keeps falling, since every new imported case would carry a higher risk of igniting another long chain.",
+       "hl": "simply ending today's outbreaks would not be enough if coverage keeps falling"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break it into parts",
+       "x": "Condition (12 months), warning (ending outbreaks is not enough), reason (higher risk from imports)."
+      },
+      {
+       "t": "Check each option",
+       "x": "Keep the option that has all three ideas in the right logical order."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses \"not enough\"; B reverses the cause; C turns \"higher risk\" into certainty."
+      }
+     ],
+     "highlight": "The country would need to go at least 12 months without sustained transmission, and simply ending today's outbreaks would not be enough if coverage keeps falling, since every new imported case would carry a higher risk of igniting another long chain."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261116-1-k1",
+     "tag": "Rule",
+     "fact": "A country loses measles elimination status when one chain of transmission lasts 12 months or longer.",
+     "q": "How long must one chain of measles transmission last for a country to lose its status?",
+     "opts": [
+      "6 months",
+      "12 months or longer",
+      "5 years"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-1-k2",
+     "tag": "Evidence",
+     "fact": "Sequencing 1,760 virus samples showed one expanding lineage, so the infections were connected.",
+     "q": "What did genetic sequencing of the samples show?",
+     "opts": [
+      "The infections came from many separate imports",
+      "The infections belonged to one expanding lineage",
+      "The virus had disappeared from Utah"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-1-k3",
+     "tag": "Numbers",
+     "fact": "The CDC confirmed 5,412 cases in 2026, more than double the 2,289 in 2025 and the most since 1991.",
+     "q": "How did 2026 measles cases compare with 2025?",
+     "opts": [
+      "About the same",
+      "Slightly lower",
+      "More than double"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261116-1-k4",
+     "tag": "Herd immunity",
+     "fact": "About 95 percent immunity is needed; kindergarten MMR coverage fell from 95.2 to 92.4 percent.",
+     "q": "About what level of immunity stops measles from spreading?",
+     "opts": [
+      "50 percent",
+      "75 percent",
+      "95 percent"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261116-1-k5",
+     "tag": "Debate",
+     "fact": "PAHO imposes no sanctions, so some call the loss symbolic; others see it as a report card on the country's defences.",
+     "q": "What penalty does PAHO impose on countries that lose the status?",
+     "opts": [
+      "Travel restrictions",
+      "No sanctions at all",
+      "Fines"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-1-k6",
+     "tag": "Recovery",
+     "fact": "Venezuela and Brazil regained their status, but Canada is still classified as having endemic measles.",
+     "q": "Which country is still classified as having endemic measles?",
+     "opts": [
+      "Canada",
+      "Brazil",
+      "Venezuela"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "US measles status",
+    "question": "Is losing the label only a symbol?",
+    "distractors": [
+     "PAHO bans travel to the US",
+     "vaccination rates rose since 2019"
+    ],
+    "branches": [
+     {
+      "title": "The decision",
+      "paras": "1–2",
+      "blanks": [
+       "spread without interruption for a year",
+       "one expanding lineage"
+      ],
+      "kps": [
+       "n20261116-1-k1",
+       "n20261116-1-k2"
+      ]
+     },
+     {
+      "title": "Why worrying",
+      "paras": "3–4",
+      "blanks": [
+       "most cases since 1991",
+       "coverage below 95 percent"
+      ],
+      "kps": [
+       "n20261116-1-k3",
+       "n20261116-1-k4"
+      ]
+     },
+     {
+      "title": "Causes",
+      "paras": "5",
+      "blanks": [
+       "missed check-ups and online myths",
+       "more school exemptions"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Symbol or signal",
+      "paras": "6–7",
+      "blanks": [
+       "no sanctions from PAHO",
+       "Canada still endemic"
+      ],
+      "kps": [
+       "n20261116-1-k5",
+       "n20261116-1-k6"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "The United States appears to have lost the measles elimination status it had held since 2000.",
+    "model": "Because one chain of measles has spread for over a year, the US has reportedly lost its elimination status, while vaccination coverage has fallen below the 95 percent needed for herd immunity. However, people disagree about whether the label matters, so recovery may depend on persuading families.",
+    "options": [
+     {
+      "t": "Genetic evidence showed that measles had spread continuously inside the country for over a year, which breaks the elimination rule.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "they belonged to one expanding lineage",
+      "why": "Correct. This is the reason for the decision. (paragraphs 1–2)"
+     },
+     {
+      "t": "Cases have surged because vaccination coverage has slipped below the level needed for herd immunity, for several overlapping reasons.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "has fallen from 95.2 percent",
+      "why": "Correct. This covers the numbers, herd immunity and causes. (paragraphs 3–5)"
+     },
+     {
+      "t": "People disagree about whether the lost status matters, and regaining it will take time and higher coverage.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Not everyone agrees that the lost status itself matters very much.",
+      "why": "Correct. This summarizes the debate and the path to recovery. (paragraphs 6–7)"
+     },
+     {
+      "t": "The Utah outbreak passed the one-year mark in June.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "An outbreak in Utah, which passed the one-year mark in June, proved decisive.",
+      "why": "A minor detail: true, but too specific for a summary."
+     },
+     {
+      "t": "Several US states have made the MMR vaccine compulsory for adults.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "PAHO has announced travel restrictions on the United States.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "PAHO imposes no sanctions or travel restrictions",
+      "why": "Contradicts the passage: PAHO imposes no sanctions or travel restrictions."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think that the government should make important health decisions for the public, such as requiring vaccines. Others think individuals should make these decisions for themselves. Which view do you agree with, and why? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (protecting others / personal freedom) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, health authorities reportedly concluded that measles has been spreading continuously in the United States for more than a year, ending the country's \"elimination\" status after 26 years. Vaccination coverage among young children has slipped from about 95 to 92 percent. Some people argue that schools should require vaccines for all students unless there is a medical reason. Others believe parents should be free to decide. What do you think: should schools be allowed to require vaccinations for students? Why or why not? (Mia says: Yes. Measles is extremely contagious, and some children cannot be vaccinated because they are ill. When schools require vaccines, they protect the most vulnerable students. A school is a shared space, so the rules should protect everyone.) (Daniel says: I am not sure that strict rules are the best answer. If parents feel forced, they may trust doctors even less. I think schools should focus on education and make vaccines easy to get, while still respecting families' choices.)",
+    "steps": [
+     "Decide your position: require vaccines, or encourage them without forcing.",
+     "Give one reason, such as protecting classmates who cannot be vaccinated.",
+     "Respond to Mia or Daniel: agree with one point and challenge another.",
+     "End with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261116-2",
+   "topic": "Science",
+   "title": "Is It Better to Know? A Brain Scan That Predicts Alzheimer's Years Early",
+   "dek": "A simple resting brain scan may reveal Alzheimer's risk long before symptoms appear. But if there is no cure, is early knowledge a gift or a burden?",
+   "sources": [
+    {
+     "name": "ScienceDaily / Stanford Medicine, Nov 14, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+    },
+    {
+     "name": "Science Advances, Nov 4, 2026 (DOI 10.1126/sciadv.aed9351)",
+     "url": "https://doi.org/10.1126/sciadv.aed9351"
+    }
+   ],
+   "paras": [
+    "Alzheimer's disease usually announces itself slowly: a forgotten appointment, a repeated question, a familiar route that suddenly feels confusing. By the time such symptoms appear, however, the brain has often been changing for a decade or more. A new study from Stanford Medicine, published in the journal Science Advances, suggests that some of those hidden changes can be detected years earlier, using nothing more than a brain scan taken while a person lies quietly and rests.",
+    "The researchers used a technique called resting-state functional MRI, which tracks how different regions of the brain become active together even when a person is not performing any task. These patterns of coordination form a kind of map of the brain's communication network, often called the connectome. The team, led by senior author Yu Zhang, compared the connectomes of 180 so-called \"super agers,\" older adults whose memory remains unusually sharp, with those of 110 people who had already been diagnosed with Alzheimer's disease. From the differences, they built a single number: the Alzheimer's resilience-vulnerability connectome score, or ARC.",
+    "The score separated the two groups with about 85 percent accuracy. More importantly, the researchers then tested it on more than 1,300 adults aged 55 to 70 who showed no signs of memory problems at all, drawing on data from several long-running research projects. Over follow-up periods of up to 12 years, people whose brains looked more \"Alzheimer's-like\" were more likely to experience faster cognitive decline, to accumulate amyloid-beta, a sticky protein strongly associated with the disease, and eventually to receive a diagnosis. According to the authors, ARC performed as well as, or better than, established biomarkers, and its predictions improved further when it was combined with them.",
+    "Supporters of early detection see obvious benefits. Scientists designing prevention trials struggle to find volunteers who will actually develop the disease, and a reliable score could help them select the right participants and measure whether an intervention works. Individuals, too, might gain time to plan their finances, discuss future care with their families, or adopt habits linked to healthier ageing, such as regular exercise. Furthermore, recently approved drugs that clear amyloid from the brain appear to work best, modestly slowing decline, when they are given at an early stage.",
+    "Yet a prediction is not a diagnosis, and the authors themselves stress that ARC is not intended to diagnose Alzheimer's. An accuracy of 85 percent sounds impressive, but it also means that a meaningful number of people could be misclassified. Some might be told they face a high risk and spend years worrying about an illness that never arrives, while others might be falsely reassured. Because there is still no cure, critics ask what a person should actually do with the knowledge that their brain resembles that of someone with dementia.",
+    "There are also concerns that reach beyond the clinic. Brain-scan data are deeply personal, and ethicists warn that predictive scores could one day be misused, for example by insurers or employers, if laws do not protect them. Access raises another issue: MRI scans are expensive, so such tests might be available mainly to wealthier patients, and the people studied so far may not represent every population. Finally, a single number risks making the future seem fixed, even though the researchers note that scores can change over time.",
+    "That possibility of change is precisely what the team plans to explore next. They intend to run a trial testing whether cognitive training can shift a person's ARC score toward the healthier pattern seen in super agers. If it can, the scan could become more than a warning; it could become a way to track whether prevention efforts are working. If it cannot, doubts about the value of early knowledge are likely to grow stronger.",
+    "For now, the study is best understood as a promising research tool rather than a test that anyone can request from their doctor. It nonetheless raises a difficult question that medicine will face more and more often as prediction improves: is it always better to know?"
+   ],
+   "words": [
+    {
+     "w": "detect",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/dɪˈtekt/",
+     "syl": [
+      "de",
+      "tect"
+     ],
+     "def": "to notice or discover something that is difficult to see, hear or find",
+     "ex": "The new sensor can detect even a tiny amount of smoke in the kitchen."
+    },
+    {
+     "w": "coordination",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/koʊˌɔːrdɪˈneɪʃn/",
+     "syl": [
+      "co",
+      "or",
+      "di",
+      "na",
+      "tion"
+     ],
+     "def": "the way different parts work together smoothly as a whole",
+     "ex": "Good coordination between the players helped the team score in the final minute."
+    },
+    {
+     "w": "connectome",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kəˈnektoʊm/",
+     "syl": [
+      "con",
+      "nec",
+      "tome"
+     ],
+     "def": "a complete map of the connections between the different parts of a brain",
+     "ex": "Mapping the connectome of even a small insect took scientists many years."
+    },
+    {
+     "w": "cognitive",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈkɑːɡnətɪv/",
+     "syl": [
+      "cog",
+      "ni",
+      "tive"
+     ],
+     "def": "connected with thinking, learning, memory and understanding",
+     "ex": "Puzzles and new languages may help keep older people's cognitive skills strong."
+    },
+    {
+     "w": "accumulate",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/əˈkjuːmjəleɪt/",
+     "syl": [
+      "ac",
+      "cu",
+      "mu",
+      "late"
+     ],
+     "def": "to gradually increase in amount over a period of time",
+     "ex": "Dust began to accumulate on the books that nobody had opened for months."
+    },
+    {
+     "w": "biomarker",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈbaɪoʊˌmɑːrkər/",
+     "syl": [
+      "bi",
+      "o",
+      "mark",
+      "er"
+     ],
+     "def": "a measurable sign in the body, such as a protein level, that shows a disease or a risk of disease",
+     "ex": "Doctors hope that a simple blood biomarker will one day replace expensive scans."
+    },
+    {
+     "w": "misclassify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌmɪsˈklæsɪfaɪ/",
+     "syl": [
+      "mis",
+      "clas",
+      "si",
+      "fy"
+     ],
+     "def": "to put someone or something into the wrong group or category",
+     "ex": "The software tends to misclassify photos of wolves as photos of dogs."
+    },
+    {
+     "w": "reassure",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌriːəˈʃʊr/",
+     "syl": [
+      "re",
+      "as",
+      "sure"
+     ],
+     "def": "to make someone feel less worried by telling them that things are fine",
+     "ex": "The pilot tried to reassure the passengers that the bumps were completely normal."
+    },
+    {
+     "w": "dementia",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/dɪˈmenʃə/",
+     "syl": [
+      "de",
+      "men",
+      "tia"
+     ],
+     "def": "a serious illness of the brain that affects memory, thinking and behaviour",
+     "ex": "Her grandfather's dementia meant that he sometimes forgot her name."
+    },
+    {
+     "w": "ethicist",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈeθɪsɪst/",
+     "syl": [
+      "eth",
+      "i",
+      "cist"
+     ],
+     "def": "an expert who studies what is morally right and wrong, especially in medicine or science",
+     "ex": "An ethicist was invited to advise the hospital on how to share genetic test results."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "By the time such symptoms appear, however, the brain has often been changing for a decade or more.",
+     "kind": "Key details",
+     "note": "This sentence explains why early detection matters; \"however\" contrasts visible symptoms with hidden changes."
+    },
+    {
+     "para": 2,
+     "text": "From the differences, they built a single number: the Alzheimer's resilience-vulnerability connectome score, or ARC.",
+     "kind": "Main idea",
+     "note": "It names the key tool of the study, which later questions refer back to."
+    },
+    {
+     "para": 3,
+     "text": "Over follow-up periods of up to 12 years, people whose brains looked more \"Alzheimer's-like\" were more likely to experience faster cognitive decline, to accumulate amyloid-beta, a sticky protein strongly associated with the disease, and eventually to receive a diagnosis.",
+     "kind": "Key details",
+     "note": "A long sentence with a list of three results; TOEFL factual questions often test items in such lists."
+    },
+    {
+     "para": 4,
+     "text": "Supporters of early detection see obvious benefits.",
+     "kind": "Topic sentence",
+     "note": "A clear topic sentence that tells you the whole paragraph lists advantages."
+    },
+    {
+     "para": 5,
+     "text": "Yet a prediction is not a diagnosis, and the authors themselves stress that ARC is not intended to diagnose Alzheimer's.",
+     "kind": "Critical thinking",
+     "note": "\"Yet\" turns to the opposing side; the distinction between prediction and diagnosis is central to the passage."
+    },
+    {
+     "para": 8,
+     "text": "It nonetheless raises a difficult question that medicine will face more and more often as prediction improves: is it always better to know?",
+     "kind": "Author's view",
+     "note": "The author ends with an open question instead of a firm answer, inviting the reader to evaluate both sides."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"established\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "newly created or founded",
+      "officially proven to be harmless",
+      "accepted and already in use",
+      "located in a particular place"
+     ],
+     "a": 2,
+     "why": "ARC, the new score, is compared with \"established biomarkers\", meaning the existing, widely accepted measures it is being tested against.",
+     "evidence": "established biomarkers",
+     "optWhy": [
+      "Another meaning of the word, and the opposite here. \"Establish\" can mean \"set up\", but in this sentence the new tool is ARC; the \"established biomarkers\" are the older ones it is compared with.",
+      "Not mentioned. The sentence compares prediction performance, not safety.",
+      "Correct. ARC \"performed as well as, or better than, established biomarkers\" = measures that are \"accepted and already in use\".",
+      "Another meaning of the word. A company can be \"established in\" a city, but biomarkers are not located anywhere."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "According to the authors, ARC performed as well as, or better than, established biomarkers, and its predictions improved further when it was combined with them.",
+       "hl": "established biomarkers"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"established\" in the last sentence of paragraph 3."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "The new ARC score is compared with older tools, so \"established\" describes the existing ones."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and D are other dictionary meanings; B is not discussed."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what did the researchers compare in order to build the ARC score?",
+     "opts": [
+      "Brain networks of super agers and of people with Alzheimer's",
+      "MRI scans taken while volunteers completed a series of memory tasks",
+      "The brain size of 180 patients before and after their diagnosis",
+      "The genes of super agers and those of their children and grandchildren"
+     ],
+     "a": 0,
+     "why": "The team \"compared the connectomes of 180 so-called super agers\" (older adults whose memory stays sharp) with 110 people with Alzheimer's.",
+     "evidence": "compared the connectomes of 180 so-called \"super agers,\"",
+     "optWhy": [
+      "Correct. \"connectomes\" = \"brain networks\"; \"super agers, older adults whose memory remains unusually sharp\" = the older adults compared with Alzheimer's patients.",
+      "Contradicts the text. Resting-state MRI works \"even when a person is not performing any task\".",
+      "Detail swapped. 180 is the number of super agers, and the study compared connection patterns, not brain size.",
+      "Not mentioned. The passage does not discuss genes or family members."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The team, led by senior author Yu Zhang, compared the connectomes of 180 so-called \"super agers,\" older adults whose memory remains unusually sharp, with those of 110 people who had already been diagnosed with Alzheimer's disease.",
+       "hl": "compared the connectomes"
+      },
+      {
+       "para": 2,
+       "text": "The researchers used a technique called resting-state functional MRI, which tracks how different regions of the brain become active together even when a person is not performing any task.",
+       "hl": "not performing any task"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan for the key word",
+       "x": "Look for \"compared\" in paragraph 2."
+      },
+      {
+       "t": "Paraphrase",
+       "x": "Connectomes = brain networks; super agers = older adults with sharp memory."
+      },
+      {
+       "t": "Rule out",
+       "x": "B contradicts \"not performing any task\"; C misuses the number 180; D is not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, which of the following is NOT mentioned as a possible benefit of early detection?",
+     "opts": [
+      "Helping researchers choose suitable volunteers for prevention trials",
+      "Giving individuals time to plan their finances and future care",
+      "Allowing amyloid-clearing drugs to be given when they work best",
+      "Guaranteeing that healthy habits will completely prevent the disease"
+     ],
+     "a": 3,
+     "why": "The text only says people might \"adopt habits linked to healthier ageing\"; it never promises that habits will completely prevent Alzheimer's. A, B and C are all stated.",
+     "evidence": "adopt habits linked to healthier ageing",
+     "optWhy": [
+      "Mentioned, so not the answer: a score \"could help them select the right participants\" for prevention trials.",
+      "Mentioned, so not the answer: individuals \"might gain time to plan their finances, discuss future care\".",
+      "Mentioned, so not the answer: amyloid drugs \"appear to work best ... when they are given at an early stage\".",
+      "Correct (not mentioned). The passage says habits are \"linked to healthier ageing\"; \"guaranteeing\" and \"completely prevent\" are far too extreme."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Individuals, too, might gain time to plan their finances, discuss future care with their families, or adopt habits linked to healthier ageing, such as regular exercise.",
+       "hl": "adopt habits linked to healthier ageing"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the benefits",
+       "x": "Paragraph 4 gives benefits for researchers, individuals and drug treatment."
+      },
+      {
+       "t": "Match options",
+       "x": "Tick A, B and C against the text."
+      },
+      {
+       "t": "Watch extreme words",
+       "x": "\"Guaranteeing\" and \"completely\" in D are not supported."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred about people who are \"falsely reassured\" in paragraph 5?",
+     "opts": [
+      "They have already been diagnosed with Alzheimer's by a doctor.",
+      "They receive a low-risk result but may still develop the disease.",
+      "They decided not to take the brain scan at all.",
+      "They spend years worrying about an illness that never arrives at all."
+     ],
+     "a": 1,
+     "why": "The sentence contrasts two kinds of misclassification. The first group is wrongly told they are at high risk; \"others\" are told they are fine when they may not be.",
+     "evidence": "while others might be falsely reassured",
+     "optWhy": [
+      "Contradicts the context. ARC is about predicting risk, and the authors stress it is \"not intended to diagnose Alzheimer's\".",
+      "Correct. \"falsely reassured\" = told they are low risk although they \"could be misclassified\", so the disease may still develop.",
+      "Not mentioned. Everyone discussed here has received a score.",
+      "Wrong group. Worrying about \"an illness that never arrives\" describes the people wrongly told they face a high risk."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Some might be told they face a high risk and spend years worrying about an illness that never arrives, while others might be falsely reassured.",
+       "hl": "others might be falsely reassured"
+      },
+      {
+       "para": 5,
+       "text": "An accuracy of 85 percent sounds impressive, but it also means that a meaningful number of people could be misclassified.",
+       "hl": "could be misclassified"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "\"Some ... while others ...\" describes two kinds of errors."
+      },
+      {
+       "t": "Infer the meaning",
+       "x": "If the first error is a false alarm, the second must be a false \"all clear\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "D describes the first group; A and C are not supported."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention \"insurers or employers\" in paragraph 6?",
+     "opts": [
+      "To identify the organisations that paid for the Stanford study",
+      "To argue that MRI scans are too expensive for most patients",
+      "To give examples of possible unfair uses of brain data",
+      "To explain why the researchers used data from long-running projects"
+     ],
+     "a": 2,
+     "why": "\"for example\" shows the author is giving examples of who might misuse predictive scores if laws do not protect them.",
+     "evidence": "for example by insurers or employers",
+     "optWhy": [
+      "Not mentioned. The passage never says who funded the research.",
+      "True but not the point. Cost is a separate issue introduced by \"Access raises another issue\" in the next sentence.",
+      "Correct. Ethicists warn that scores \"could one day be misused, for example by insurers or employers\" = examples of unfair use.",
+      "Wrong paragraph. Data from \"long-running research projects\" is mentioned in paragraph 3 and has nothing to do with insurers."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Brain-scan data are deeply personal, and ethicists warn that predictive scores could one day be misused, for example by insurers or employers, if laws do not protect them.",
+       "hl": "could one day be misused"
+      },
+      {
+       "para": 6,
+       "text": "Access raises another issue: MRI scans are expensive, so such tests might be available mainly to wealthier patients, and the people studied so far may not represent every population.",
+       "hl": "Access raises another issue"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the signal",
+       "x": "\"for example\" introduces an illustration."
+      },
+      {
+       "t": "Ask: example of what?",
+       "x": "Of how predictive scores \"could one day be misused\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "B is the next idea (access), D comes from paragraph 3, A is not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "If cognitive training works, the scan will no longer be needed as an early warning sign.",
+      "Success would make the scan both a warning and a way to measure prevention.",
+      "The scan has already shown that prevention efforts are effective for most patients.",
+      "Without a warning from the scan, no prevention effort could ever be tracked."
+     ],
+     "a": 1,
+     "why": "The sentence is conditional (\"If it can\") and adds a second role: besides warning, the scan could track whether prevention works. B keeps both the condition and the two roles.",
+     "evidence": "it could become a way to track whether prevention efforts are working",
+     "optWhy": [
+      "Distorts the meaning. \"more than a warning\" means the warning role is kept and another role is added, not that it is no longer needed.",
+      "Correct. \"If it can\" = \"Success would\"; \"more than a warning ... a way to track whether prevention efforts are working\" = \"both a warning and a way to measure prevention\".",
+      "Wrong tense and too strong. The trial has not happened yet; the sentence is a possibility (\"could\").",
+      "Too extreme. The sentence does not say prevention could never be tracked by other means."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "If it can, the scan could become more than a warning; it could become a way to track whether prevention efforts are working.",
+       "hl": "more than a warning"
+      },
+      {
+       "para": 7,
+       "text": "They intend to run a trial testing whether cognitive training can shift a person's ARC score toward the healthier pattern seen in super agers.",
+       "hl": "They intend to run a trial"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the condition",
+       "x": "\"If it can\" refers to cognitive training shifting the ARC score."
+      },
+      {
+       "t": "Find the main idea",
+       "x": "The scan would gain a second job: tracking prevention."
+      },
+      {
+       "t": "Rule out",
+       "x": "A misreads \"more than\"; C ignores \"could\"; D adds an extreme claim."
+      }
+     ],
+     "highlight": "If it can, the scan could become more than a warning; it could become a way to track whether prevention efforts are working."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261116-2-k1",
+     "tag": "Method",
+     "fact": "Resting-state fMRI maps how brain regions work together while a person simply rests.",
+     "q": "What is the person doing during a resting-state MRI scan?",
+     "opts": [
+      "Solving memory puzzles",
+      "Resting without performing a task",
+      "Running on a treadmill"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-2-k2",
+     "tag": "Groups",
+     "fact": "The ARC score came from comparing 180 super agers with 110 people with Alzheimer's.",
+     "q": "Who were the \"super agers\" in the study?",
+     "opts": [
+      "Older adults with unusually sharp memory",
+      "Young athletes",
+      "Patients with advanced dementia"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261116-2-k3",
+     "tag": "Accuracy",
+     "fact": "ARC separated the two groups with about 85 percent accuracy.",
+     "q": "About how accurately did ARC separate the two groups?",
+     "opts": [
+      "50 percent",
+      "85 percent",
+      "100 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-2-k4",
+     "tag": "Prediction",
+     "fact": "In over 1,300 healthy adults followed up to 12 years, higher scores predicted faster decline and diagnosis.",
+     "q": "What did higher ARC scores predict in healthy adults?",
+     "opts": [
+      "Better memory",
+      "Faster cognitive decline",
+      "Lower amyloid levels"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-2-k5",
+     "tag": "Concerns",
+     "fact": "Critics worry about misclassification, anxiety without a cure, privacy and unequal access.",
+     "q": "Which is a concern raised about the score?",
+     "opts": [
+      "It is too cheap",
+      "People could be misclassified",
+      "It cures the disease too slowly"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-2-k6",
+     "tag": "Next step",
+     "fact": "The team plans a trial to see whether cognitive training can shift ARC scores.",
+     "q": "What will the next trial test?",
+     "opts": [
+      "A new vaccine",
+      "Whether cognitive training changes ARC scores",
+      "A cheaper MRI machine"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Alzheimer's brain score",
+    "question": "Is it always better to know?",
+    "distractors": [
+     "a new cure for Alzheimer's",
+     "scores can never change"
+    ],
+    "branches": [
+     {
+      "title": "The method",
+      "paras": "1–2",
+      "blanks": [
+       "resting-state MRI maps networks",
+       "super agers vs patients"
+      ],
+      "kps": [
+       "n20261116-2-k1",
+       "n20261116-2-k2"
+      ]
+     },
+     {
+      "title": "Results",
+      "paras": "3",
+      "blanks": [
+       "about 85 percent accuracy",
+       "predicted decline up to 12 years"
+      ],
+      "kps": [
+       "n20261116-2-k3",
+       "n20261116-2-k4"
+      ]
+     },
+     {
+      "title": "Benefits",
+      "paras": "4",
+      "blanks": [
+       "choosing trial volunteers",
+       "early drug treatment"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Concerns",
+      "paras": "5–7",
+      "blanks": [
+       "false alarms and false comfort",
+       "misuse by insurers or employers"
+      ],
+      "kps": [
+       "n20261116-2-k5",
+       "n20261116-2-k6"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "Stanford researchers have developed a brain-scan score that may predict Alzheimer's disease years before symptoms appear.",
+    "model": "By comparing brain networks of super agers and Alzheimer's patients, researchers created a score that predicted decline in healthy adults. However, while early knowledge could help research and planning, critics warn about errors, privacy and the lack of a cure, so the scan remains a research tool.",
+    "options": [
+     {
+      "t": "The researchers built a score from differences in brain networks between people with sharp memories and people with Alzheimer's.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "From the differences, they built a single number",
+      "why": "Correct. This describes how the tool was made. (paragraph 2)"
+     },
+     {
+      "t": "In healthy adults, higher scores predicted faster decline, which could help prevention research and personal planning.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "were more likely to experience faster cognitive decline",
+      "why": "Correct. This covers the results and benefits. (paragraphs 3–4)"
+     },
+     {
+      "t": "Critics point to misclassification, privacy and access problems, and ask what people can do without a cure.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "a meaningful number of people could be misclassified",
+      "why": "Correct. This summarizes the concerns. (paragraphs 5–6)"
+     },
+     {
+      "t": "The senior author of the study is Yu Zhang.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "led by senior author Yu Zhang",
+      "why": "A minor detail: true, but not a main idea."
+     },
+     {
+      "t": "The ARC test will be offered in hospitals starting next year.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned; the passage calls it a research tool."
+     },
+     {
+      "t": "The authors say ARC can be used to diagnose Alzheimer's disease.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "ARC is not intended to diagnose Alzheimer's",
+      "why": "Contradicts the passage: the authors say it is not intended to diagnose."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people prefer to know as much as possible about their future health, even if the news might be bad. Others prefer not to know about risks they cannot change. Which do you prefer, and why? Use specific reasons and examples.",
+    "hint": "State your preference → reason 1 (planning / peace of mind) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Scientists at Stanford have built a brain-scan score that may predict Alzheimer's disease many years before symptoms appear. The test is still a research tool, and there is no cure for the disease. In the future, tests like this may predict many illnesses. Should people be told about their risk of a serious disease that cannot yet be cured? Why or why not? (Sophie says: Yes, I think people have a right to know about their own health. If I knew my risk, I could plan my life, talk to my family and join research studies. Hiding the information treats adults like children.) (Kevin says: I disagree. If there is no cure, the result might only create fear. The test can also be wrong, so some people would worry for years for no reason. I would rather wait until doctors have a real treatment.)",
+    "steps": [
+     "Decide: should people be told, or should doctors wait?",
+     "Give one clear reason with an example from the article.",
+     "Respond to Sophie or Kevin directly.",
+     "Finish with a balanced one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261116-3",
+   "topic": "Animals",
+   "title": "Schrödinger's Penguin: One Species, Two Opposite Fates",
+   "dek": "One population of erect-crested penguins is stable while the other is collapsing. Should conservation rules judge a species by its average or by its weakest part?",
+   "sources": [
+    {
+     "name": "ScienceDaily, Nov 14, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm"
+    },
+    {
+     "name": "PLOS ONE, Oct 21, 2026 (Mattern et al.)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686514"
+    }
+   ],
+   "paras": [
+    "In a famous thought experiment, the physicist Erwin Schrödinger imagined a cat that is, in a sense, both alive and dead until someone opens the box. A team of penguin researchers has borrowed the idea to describe a strange conservation puzzle. Their study, published in the journal PLOS ONE, concerns the erect-crested penguin, a striking bird with a spiky golden crest, and it suggests that the species is simultaneously doing quite well and heading for trouble, depending on where you look.",
+    "Erect-crested penguins breed in only two places on Earth, both remote island groups in the Southern Ocean south-east of New Zealand. The Bounty Islands are tiny, covering roughly 50 hectares of bare rock, while the Antipodes Islands are about 40 times larger. Because the islands are so hard to reach, the birds have rarely been surveyed, and the species' official \"Endangered\" listing still relies heavily on estimates from 1978, which suggested about 115,000 breeding pairs on each island group and which scientists now consider unreliable.",
+    "To produce better numbers, the team, led by Thomas Mattern of the Global Penguin Society and the University of Otago, used drones to photograph the colonies between 2022 and 2024. They counted roughly 27,800 breeding pairs on the Bounty Islands and about 29,800 on the Antipodes, giving a total of around 57,600 pairs. On the surface, the two populations look almost identical in size. Their histories, however, are completely different. The Bounty population appears to have been stable for at least 25 years, whereas the Antipodes population has fallen by more than 40 percent since the mid-1990s, an average decline of about 1.5 percent per year.",
+    "What explains such different fates for birds of the same species? One answer lies with a predator. The Antipodes are home to resident subantarctic skuas, large seabirds that hunt penguin chicks. As colonies there shrink and break into smaller, scattered groups, the adults become less able to defend their young collectively, so more chicks are lost and the colonies shrink further. Ecologists call this self-reinforcing pattern an Allee effect. The Bounty Islands, by contrast, have no resident skuas. The researchers also note differences at sea: after breeding, Antipodes birds travel south and east, while Bounty birds tend to stay closer to home, so the two groups may experience different ocean conditions and food supplies.",
+    "The real paradox emerges when conservation officials try to assign the species a single threat category. If the two populations are simply combined, the overall picture could support moving the species down from \"Endangered\" to the less serious category of \"Vulnerable.\" On paper, that would look like good news. The authors argue that it would actually be misleading, because an average would conceal the collapse taking place on the Antipodes. Assessed separately, they suggest, the Antipodes population would still deserve to be listed as Endangered, and even the stable Bounty population might qualify as Vulnerable, simply because its entire range is confined to one very small archipelago where a single disaster could be devastating.",
+    "The debate is not merely academic. Threat categories influence how governments spend money and write regulations. The researchers worry that a global downlisting could be used to justify weakening protections around the Bounty Islands, where fishing restrictions are already limited: more than 40 percent of the surrounding territorial sea is excluded from protection to allow a longline fishery for a fish called ling. In their view, the Bounty colonies may be the species' last stable stronghold, which makes protecting them more urgent, not less.",
+    "Some might reasonably reply that classification systems need simple, consistent rules, and that assessing every population separately would demand data that do not exist for most species. Fishing communities, too, depend on access to productive waters, and their livelihoods also deserve consideration. Still, the erect-crested penguin shows how a single number can hide important differences. The lesson applies far beyond penguins: before trusting an average, it is worth asking what it might be averaging away."
+   ],
+   "words": [
+    {
+     "w": "simultaneously",
+     "level": "Academic",
+     "pos": "adv.",
+     "ipa": "/ˌsaɪmlˈteɪniəsli/",
+     "syl": [
+      "si",
+      "mul",
+      "ta",
+      "ne",
+      "ous",
+      "ly"
+     ],
+     "def": "at exactly the same time",
+     "ex": "The two runners crossed the finish line simultaneously, so the judges watched the video."
+    },
+    {
+     "w": "survey",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/sərˈveɪ/",
+     "syl": [
+      "sur",
+      "vey"
+     ],
+     "def": "to count, measure or examine an area or a group carefully in order to collect information",
+     "ex": "Volunteers survey the river every spring to count the young salmon."
+    },
+    {
+     "w": "colony",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈkɑːləni/",
+     "syl": [
+      "col",
+      "o",
+      "ny"
+     ],
+     "def": "a group of animals of the same type that live and breed together in one place",
+     "ex": "A colony of bats lives in the old church tower near our school."
+    },
+    {
+     "w": "predator",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈpredətər/",
+     "syl": [
+      "pred",
+      "a",
+      "tor"
+     ],
+     "def": "an animal that kills and eats other animals",
+     "ex": "Without a single natural predator, the rabbits spread quickly across the island."
+    },
+    {
+     "w": "self-reinforcing",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˌself riːɪnˈfɔːrsɪŋ/",
+     "syl": [
+      "self",
+      "re",
+      "in",
+      "forc",
+      "ing"
+     ],
+     "def": "describing a process whose results make the same process continue or grow stronger",
+     "ex": "Poor sleep and stress can form a self-reinforcing cycle that is hard to break."
+    },
+    {
+     "w": "conceal",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/kənˈsiːl/",
+     "syl": [
+      "con",
+      "ceal"
+     ],
+     "def": "to hide something or keep it from being noticed",
+     "ex": "Good marks in one subject can conceal serious problems in another."
+    },
+    {
+     "w": "archipelago",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌɑːrkɪˈpeləɡoʊ/",
+     "syl": [
+      "ar",
+      "chi",
+      "pel",
+      "a",
+      "go"
+     ],
+     "def": "a group of islands close to each other",
+     "ex": "The ferry visits every island in the archipelago once a week."
+    },
+    {
+     "w": "downlist",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˈdaʊnlɪst/",
+     "syl": [
+      "down",
+      "list"
+     ],
+     "def": "to move a species to a less serious category of risk of extinction",
+     "ex": "Experts decided to downlist the panda after its numbers slowly recovered."
+    },
+    {
+     "w": "livelihood",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈlaɪvlihʊd/",
+     "syl": [
+      "live",
+      "li",
+      "hood"
+     ],
+     "def": "the way a person earns the money they need to live",
+     "ex": "Tourism is the main livelihood for many families on the island."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Their study, published in the journal PLOS ONE, concerns the erect-crested penguin, a striking bird with a spiky golden crest, and it suggests that the species is simultaneously doing quite well and heading for trouble, depending on where you look.",
+     "kind": "Main idea",
+     "note": "This sentence states the central paradox of the whole passage."
+    },
+    {
+     "para": 3,
+     "text": "The Bounty population appears to have been stable for at least 25 years, whereas the Antipodes population has fallen by more than 40 percent since the mid-1990s, an average decline of about 1.5 percent per year.",
+     "kind": "Key details",
+     "note": "\"whereas\" signals a contrast between the two populations; this contrast is the key fact for many questions."
+    },
+    {
+     "para": 4,
+     "text": "As colonies there shrink and break into smaller, scattered groups, the adults become less able to defend their young collectively, so more chicks are lost and the colonies shrink further.",
+     "kind": "Cause → effect",
+     "note": "A cause-and-effect chain that loops back on itself; recognising cycles helps with inference questions."
+    },
+    {
+     "para": 5,
+     "text": "The authors argue that it would actually be misleading, because an average would conceal the collapse taking place on the Antipodes.",
+     "kind": "Author's view",
+     "note": "This gives the researchers' main argument and the reason for it."
+    },
+    {
+     "para": 6,
+     "text": "The debate is not merely academic.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence telling you the paragraph will show real-world consequences."
+    },
+    {
+     "para": 7,
+     "text": "Some might reasonably reply that classification systems need simple, consistent rules, and that assessing every population separately would demand data that do not exist for most species.",
+     "kind": "Critical thinking",
+     "note": "The author presents a fair counter-argument before giving a final judgement."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word \"confined\" in paragraph 5 is closest in meaning to",
+     "opts": [
+      "locked up as a punishment",
+      "moved there by force",
+      "kept secret from officials",
+      "restricted"
+     ],
+     "a": 3,
+     "why": "The Bounty population's \"entire range is confined to one very small archipelago\", meaning its range is limited to that small area.",
+     "evidence": "its entire range is confined to one very small archipelago",
+     "optWhy": [
+      "Another meaning of the word. People can be \"confined\" in prison, but here the word describes where the birds' range is limited to.",
+      "Not mentioned. Nothing in the text says the penguins were moved anywhere.",
+      "Confuses it with another word. \"conceal\" (to hide) appears earlier in the paragraph, but \"confined\" is about limits, not secrecy.",
+      "Correct. \"its entire range is confined to one very small archipelago\" = its range is \"restricted\" to that small area."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Assessed separately, they suggest, the Antipodes population would still deserve to be listed as Endangered, and even the stable Bounty population might qualify as Vulnerable, simply because its entire range is confined to one very small archipelago where a single disaster could be devastating.",
+       "hl": "confined to one very small archipelago"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"confined\" at the end of paragraph 5."
+      },
+      {
+       "t": "Use the context",
+       "x": "\"one very small archipelago where a single disaster could be devastating\" shows a limited area."
+      },
+      {
+       "t": "Rule out",
+       "x": "A is the prison meaning; C confuses it with \"conceal\"."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why is the species' official \"Endangered\" listing questionable?",
+     "opts": [
+      "Drones were not allowed on the islands until recently.",
+      "It depends mostly on old estimates now seen as unreliable.",
+      "The Bounty Islands are about 40 times larger than the Antipodes.",
+      "The penguins have recently moved to new islands near New Zealand."
+     ],
+     "a": 1,
+     "why": "The listing \"still relies heavily on estimates from 1978\", which \"scientists now consider unreliable\".",
+     "evidence": "still relies heavily on estimates from 1978",
+     "optWhy": [
+      "Not mentioned. The text says the islands are \"so hard to reach\", not that drones were banned.",
+      "Correct. \"relies heavily on estimates from 1978 ... which scientists now consider unreliable\" = \"depends mostly on old estimates now seen as unreliable\".",
+      "Detail reversed. The Bounty Islands are \"tiny\"; the Antipodes \"are about 40 times larger\".",
+      "Not mentioned. The birds \"breed in only two places on Earth\"; nothing is said about moving."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Because the islands are so hard to reach, the birds have rarely been surveyed, and the species' official \"Endangered\" listing still relies heavily on estimates from 1978, which suggested about 115,000 breeding pairs on each island group and which scientists now consider unreliable.",
+       "hl": "relies heavily on estimates from 1978"
+      },
+      {
+       "para": 2,
+       "text": "The Bounty Islands are tiny, covering roughly 50 hectares of bare rock, while the Antipodes Islands are about 40 times larger.",
+       "hl": "the Antipodes Islands are about 40 times larger"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the listing",
+       "x": "Search paragraph 2 for \"Endangered\"."
+      },
+      {
+       "t": "Read the reason",
+       "x": "The listing relies on 1978 estimates that scientists \"now consider unreliable\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "C reverses the island sizes; A and D are not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following may help explain the different fates of the two populations EXCEPT:",
+     "opts": [
+      "Bounty birds face more competition from fishing boats at sea.",
+      "Skuas that live on the Antipodes hunt penguin chicks.",
+      "Smaller, scattered colonies are less able to protect their young.",
+      "The two groups travel to different areas after breeding."
+     ],
+     "a": 0,
+     "why": "Paragraph 4 gives three explanations: skuas, weaker collective defence in small colonies, and different areas at sea. Fishing boats are not given as a cause.",
+     "evidence": "The Antipodes are home to resident subantarctic skuas",
+     "optWhy": [
+      "Correct (not mentioned as a cause). Fishing appears only in paragraph 6, as a protection issue near the Bounty Islands, not as a reason for the different population trends.",
+      "Mentioned: \"The Antipodes are home to resident subantarctic skuas, large seabirds that hunt penguin chicks.\"",
+      "Mentioned: in smaller groups, \"the adults become less able to defend their young collectively\".",
+      "Mentioned: \"Antipodes birds travel south and east, while Bounty birds tend to stay closer to home\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The Antipodes are home to resident subantarctic skuas, large seabirds that hunt penguin chicks.",
+       "hl": "hunt penguin chicks"
+      },
+      {
+       "para": 6,
+       "text": "The researchers worry that a global downlisting could be used to justify weakening protections around the Bounty Islands, where fishing restrictions are already limited: more than 40 percent of the surrounding territorial sea is excluded from protection to allow a longline fishery for a fish called ling.",
+       "hl": "fishing restrictions are already limited"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the causes",
+       "x": "Paragraph 4 names skuas, weaker defence and different areas at sea."
+      },
+      {
+       "t": "Check each option",
+       "x": "Find B, C and D in paragraph 4."
+      },
+      {
+       "t": "Spot the borrowed idea",
+       "x": "A borrows \"fishing\" from paragraph 6, where it is not a cause."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3?",
+     "opts": [
+      "The Bounty population is likely to fall by about 40 percent in the near future.",
+      "The drone counts were less reliable than the estimates made in 1978.",
+      "A single count could wrongly suggest both populations are in the same state.",
+      "The Antipodes population is larger today than it was in the mid-1990s."
+     ],
+     "a": 2,
+     "why": "The populations \"look almost identical in size\", but \"their histories ... are completely different\", so a single snapshot would hide the opposite trends.",
+     "evidence": "On the surface, the two populations look almost identical in size.",
+     "optWhy": [
+      "Not supported. The Bounty population \"appears to have been stable for at least 25 years\"; the 40 percent fall happened on the Antipodes.",
+      "Contradicts the passage. Paragraph 2 says scientists \"now consider\" the 1978 estimates \"unreliable\"; the drone counts were made \"To produce better numbers\".",
+      "Correct. \"On the surface, the two populations look almost identical in size. Their histories, however, are completely different\" → one count alone would be misleading.",
+      "Contradicts the text. The Antipodes population \"has fallen by more than 40 percent since the mid-1990s\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "On the surface, the two populations look almost identical in size.",
+       "hl": "look almost identical in size"
+      },
+      {
+       "para": 3,
+       "text": "Their histories, however, are completely different.",
+       "hl": "completely different"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "\"On the surface\" and \"however\" set up a difference between size and history."
+      },
+      {
+       "t": "Draw the inference",
+       "x": "If sizes match but trends differ, a single count hides the difference."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and D reverse the trends; B contradicts paragraph 2."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author mention Erwin Schrödinger's thought experiment in paragraph 1?",
+     "opts": [
+      "To show that the penguin researchers were also trained as physicists",
+      "To describe an experiment that was carried out on penguin colonies",
+      "To suggest that penguins cannot be counted without disturbing them",
+      "To introduce the idea of one species in two opposite states"
+     ],
+     "a": 3,
+     "why": "The cat is \"both alive and dead\"; similarly the species is \"simultaneously doing quite well and heading for trouble, depending on where you look\".",
+     "evidence": "A team of penguin researchers has borrowed the idea",
+     "optWhy": [
+      "Not mentioned. The researchers \"borrowed the idea\"; nothing suggests they are physicists.",
+      "Literal misreading. It was a \"thought experiment\" about a cat, not a real experiment on penguins.",
+      "Distorted. The passage never says counting disturbs the birds; the comparison is about two opposite states.",
+      "Correct. Like the cat that is \"both alive and dead\", the species is \"simultaneously doing quite well and heading for trouble\"."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "In a famous thought experiment, the physicist Erwin Schrödinger imagined a cat that is, in a sense, both alive and dead until someone opens the box.",
+       "hl": "both alive and dead"
+      },
+      {
+       "para": 1,
+       "text": "Their study, published in the journal PLOS ONE, concerns the erect-crested penguin, a striking bird with a spiky golden crest, and it suggests that the species is simultaneously doing quite well and heading for trouble, depending on where you look.",
+       "hl": "simultaneously doing quite well and heading for trouble"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the comparison",
+       "x": "The cat is \"both alive and dead\"."
+      },
+      {
+       "t": "Find the link",
+       "x": "The species is \"simultaneously doing quite well and heading for trouble\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "B takes the thought experiment literally; A and C are not stated."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "A global downlisting might be used to weaken protection near the Bounty Islands, where much sea is already open to fishing.",
+      "The researchers want fishing for ling to be banned across more than 40 percent of the sea around the Bounty Islands.",
+      "Because fishing has already harmed the Bounty colonies, the researchers believe the species should be moved to a lower category.",
+      "Protection around the Bounty Islands was weakened after the species was recently downlisted around the world."
+     ],
+     "a": 0,
+     "why": "The sentence states a worry (downlisting could justify weaker protection) and a reason it matters (fishing restrictions are already limited). A keeps both.",
+     "evidence": "a global downlisting could be used to justify weakening protections around the Bounty Islands",
+     "optWhy": [
+      "Correct. \"a global downlisting could be used to justify weakening protections\" = \"A global downlisting might be used to weaken protection\"; \"more than 40 percent ... excluded from protection\" = \"much of the sea is already open to fishing\".",
+      "Distorts the number. More than 40 percent of the sea is already \"excluded from protection\"; the sentence does not say the researchers demand a ban there.",
+      "Reverses the logic. The researchers fear downlisting; they do not argue for it, and the text does not say fishing has harmed the Bounty colonies.",
+      "Wrong tense. The downlisting is only a possibility (\"could be used\"); it has not happened."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The researchers worry that a global downlisting could be used to justify weakening protections around the Bounty Islands, where fishing restrictions are already limited: more than 40 percent of the surrounding territorial sea is excluded from protection to allow a longline fishery for a fish called ling.",
+       "hl": "could be used to justify weakening protections"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the main clause",
+       "x": "\"The researchers worry that ...\" — the core idea is a possible risk."
+      },
+      {
+       "t": "Keep the key detail",
+       "x": "Fishing restrictions are already limited (over 40 percent unprotected)."
+      },
+      {
+       "t": "Rule out",
+       "x": "D changes \"could\" into a past event; B and C change who wants what."
+      }
+     ],
+     "highlight": "The researchers worry that a global downlisting could be used to justify weakening protections around the Bounty Islands, where fishing restrictions are already limited: more than 40 percent of the surrounding territorial sea is excluded from protection to allow a longline fishery for a fish called ling."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261116-3-k1",
+     "tag": "Where",
+     "fact": "Erect-crested penguins breed only on the Bounty and Antipodes Islands, south-east of New Zealand.",
+     "q": "Where do erect-crested penguins breed?",
+     "opts": [
+      "Only on two island groups near New Zealand",
+      "All around Antarctica",
+      "On the coast of South America"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261116-3-k2",
+     "tag": "Old data",
+     "fact": "The Endangered listing relies on 1978 estimates that scientists now consider unreliable.",
+     "q": "Why is the current listing questioned?",
+     "opts": [
+      "It is based on unreliable 1978 estimates",
+      "It was made by drones",
+      "It ignores the Bounty Islands"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261116-3-k3",
+     "tag": "Counts",
+     "fact": "Drone surveys found about 27,800 pairs on the Bounties and 29,800 on the Antipodes.",
+     "q": "How do the two population sizes compare today?",
+     "opts": [
+      "Almost the same",
+      "The Bounties have ten times more",
+      "The Antipodes have none"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261116-3-k4",
+     "tag": "Trends",
+     "fact": "The Bounty population is stable, but the Antipodes population has fallen over 40 percent since the mid-1990s.",
+     "q": "Which population has declined sharply?",
+     "opts": [
+      "Bounty Islands",
+      "Antipodes Islands",
+      "Neither"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-3-k5",
+     "tag": "Cause",
+     "fact": "Skuas hunt chicks on the Antipodes, and shrinking colonies defend less well: an Allee effect.",
+     "q": "What is the name of the self-reinforcing pattern in small colonies?",
+     "opts": [
+      "Greenhouse effect",
+      "Allee effect",
+      "Domino theory"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261116-3-k6",
+     "tag": "Risk",
+     "fact": "A global downlisting could be used to weaken protection around the Bounty Islands.",
+     "q": "What do the researchers fear a downlisting could lead to?",
+     "opts": [
+      "More tourism",
+      "Weaker protection near the Bounty Islands",
+      "A ban on drones"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Erect-crested penguin paradox",
+    "question": "Average or separate assessment?",
+    "distractors": [
+     "penguins moved to a third island",
+     "both populations are growing fast"
+    ],
+    "branches": [
+     {
+      "title": "Background",
+      "paras": "1–2",
+      "blanks": [
+       "two remote island groups",
+       "listing based on 1978 estimates"
+      ],
+      "kps": [
+       "n20261116-3-k1",
+       "n20261116-3-k2"
+      ]
+     },
+     {
+      "title": "New counts",
+      "paras": "3",
+      "blanks": [
+       "drone surveys 2022–2024",
+       "Antipodes down over 40 percent"
+      ],
+      "kps": [
+       "n20261116-3-k3",
+       "n20261116-3-k4"
+      ]
+     },
+     {
+      "title": "Causes",
+      "paras": "4",
+      "blanks": [
+       "skuas hunt chicks",
+       "different ocean conditions"
+      ],
+      "kps": [
+       "n20261116-3-k5"
+      ]
+     },
+     {
+      "title": "The paradox",
+      "paras": "5–7",
+      "blanks": [
+       "an average hides the collapse",
+       "weaker fishing protection"
+      ],
+      "kps": [
+       "n20261116-3-k6"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A new study shows that the two populations of erect-crested penguins are following opposite paths.",
+    "model": "Drone surveys show that one erect-crested penguin population is stable while the other has fallen sharply, partly because of predators. However, combining them into one threat category could hide this collapse, so the researchers warn that averages may weaken protection.",
+    "options": [
+     {
+      "t": "New drone counts show two similar-sized populations with very different histories: one stable, one in steep decline.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "Their histories, however, are completely different.",
+      "why": "Correct. This is the core finding. (paragraph 3)"
+     },
+     {
+      "t": "Predators and weaker group defence on the Antipodes, along with differences at sea, may explain the different fates.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "One answer lies with a predator.",
+      "why": "Correct. This summarizes the causes. (paragraph 4)"
+     },
+     {
+      "t": "Combining the populations could lead to a misleading downlisting that might weaken protection, although simple rules also have value.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "because an average would conceal the collapse taking place on the Antipodes",
+      "why": "Correct. This covers the paradox and the debate. (paragraphs 5–7)"
+     },
+     {
+      "t": "The Bounty Islands cover roughly 50 hectares of bare rock.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "covering roughly 50 hectares of bare rock",
+      "why": "A minor detail: true, but too specific for a summary."
+     },
+     {
+      "t": "Scientists plan to move some Antipodes chicks to zoos for protection.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "Both populations have declined by about the same amount since the 1990s.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "The Bounty population appears to have been stable for at least 25 years",
+      "why": "Contradicts the passage: the Bounty population has been stable."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think that protecting endangered animals should be more important than local jobs, such as fishing. Others believe people's jobs should come first. Which view do you agree with, and why? Use specific reasons and examples.",
+    "hint": "State your view → reason 1 (biodiversity / livelihoods) + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A new study shows that one population of erect-crested penguins is stable while the other has fallen by more than 40 percent. If the two are combined, the species might be moved to a less serious threat category, which could weaken protection. When conservation officials decide how endangered a species is, should they look at the whole species or at each population separately? Why? (Aisha says: They should look at each population separately. An average can hide a disaster, like the collapse on the Antipodes. If we only see the total, we may act too late to save the part that is in trouble.) (Leo says: I understand that, but we need simple and consistent rules. Most species have not been studied well enough to assess every population. It is better to use the whole species and apply the same method everywhere.)",
+    "steps": [
+     "Choose: assess populations separately, or use one rule for the whole species.",
+     "Give a reason supported by the penguin example.",
+     "Respond to Aisha or Leo, agreeing or disagreeing with one point.",
+     "Conclude with a practical suggestion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "audio": {
+  "For more than a quarter of a century, the United States could claim that measles no longer lived within its borders. In 2000, health authorities declared the disease \"eliminated,\" meaning that although travellers still occasionally brought the virus in from abroad, it no longer spread continuously inside the country. This month, that claim appears to have collapsed. According to multiple news reports, a regional commission of the Pan American Health Organization (PAHO), which met from November 10 to 13, concluded that measles has circulated in the US without interruption for more than a year. A formal announcement is expected shortly, but the verdict is already being described as a turning point for American public health.": "audio/2026-11-16/a1-p1.mp3",
+  "The rule behind the decision is simple. A country loses its elimination status when a single chain of measles transmission continues for 12 months or longer. In this case, scientists did not have to rely on guesswork. By sequencing 1,760 virus samples collected across North America, researchers showed that they belonged to one expanding lineage, which indicates that the infections were connected rather than the result of separate imports. An outbreak in Utah, which passed the one-year mark in June, proved decisive.": "audio/2026-11-16/a1-p2.mp3",
+  "The numbers explain why experts are alarmed. The Centers for Disease Control and Prevention (CDC) has confirmed 5,412 cases in 2026 as of November 12, more than double the 2,289 recorded in 2025 and the highest annual total since 1991. State health departments have reported 10 measles-related deaths this year, although the CDC's own count is six, partly because officials classify some deaths differently. Measles is one of the most contagious diseases known: a single infected person can pass it to most of the unprotected people around them, and the virus can linger in the air of a room for up to two hours after that person has left.": "audio/2026-11-16/a1-p3.mp3",
+  "Because the virus spreads so easily, controlling it depends on what scientists call herd immunity. When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading. Below that level, outbreaks can grow and persist. In the United States, the share of kindergarten children who have received both recommended doses of the measles, mumps and rubella (MMR) vaccine has fallen from 95.2 percent in the 2019–2020 school year to 92.4 percent in 2025–2026. A drop of fewer than three percentage points may sound minor, yet nationwide it represents many thousands of additional unprotected children every year, and they are often concentrated in particular communities, where coverage can be far lower.": "audio/2026-11-16/a1-p4.mp3",
+  "Why has coverage slipped? Researchers point to several overlapping causes. The COVID-19 pandemic interrupted routine medical check-ups, misleading claims about vaccine safety have spread widely online, and more families have used exemptions that allow children to attend school without the usual vaccines. Some public-health experts also argue that mixed messages from political leaders, including Health Secretary Robert F. Kennedy Jr., who has publicly questioned the safety of some vaccines, have weakened trust. His supporters counter that parents deserve more information and greater freedom to make medical decisions for their own children.": "audio/2026-11-16/a1-p5.mp3",
+  "Not everyone agrees that the lost status itself matters very much. PAHO imposes no sanctions or travel restrictions on countries that lose it, and some commentators describe the change as largely symbolic: the virus does not care about labels, and the outbreaks were already happening. Others insist that the symbol carries real weight. Elimination status, they argue, works like a report card, and losing it signals that the country's defences, from vaccination rates to disease surveillance, are no longer strong enough. A recent letter in the medical journal The Lancet found that the US failed four of seven CDC indicators used to monitor elimination.": "audio/2026-11-16/a1-p6.mp3",
+  "Regaining the title will not be quick. The country would need to go at least 12 months without sustained transmission, and simply ending today's outbreaks would not be enough if coverage keeps falling, since every new imported case would carry a higher risk of igniting another long chain. Other countries offer both hope and warning. Venezuela lost its status in 2018 and recovered it in 2023, and Brazil, which lost it in 2019, regained it in November 2024. Canada, however, which lost its status about a year ago, is still classified as having endemic measles.": "audio/2026-11-16/a1-p7.mp3",
+  "In the end, the episode raises a question that reaches beyond one disease: how should a society balance individual choice against collective protection? Vaccination is a personal medical decision, but its benefits are shared, because immune people also shield infants too young to be vaccinated and patients whose immune systems are weak. Whether the US restores its status may depend less on new science than on whether that shared logic can persuade enough families.": "audio/2026-11-16/a1-p8.mp3",
+  "elimination": "audio/2026-11-16/a1-w-elimination.mp3",
+  "The elimination of plastic bags from the supermarket surprised many shoppers.": "audio/2026-11-16/a1-ex-elimination.mp3",
+  "transmission": "audio/2026-11-16/a1-w-transmission.mp3",
+  "Washing your hands often can reduce the transmission of colds in a classroom.": "audio/2026-11-16/a1-ex-transmission.mp3",
+  "lineage": "audio/2026-11-16/a1-w-lineage.mp3",
+  "Scientists traced the lineage of the virus back to a single sample collected last spring.": "audio/2026-11-16/a1-ex-lineage.mp3",
+  "contagious": "audio/2026-11-16/a1-w-contagious.mp3",
+  "Her laugh was so contagious that soon the whole class was laughing too.": "audio/2026-11-16/a1-ex-contagious.mp3",
+  "herd immunity": "audio/2026-11-16/a1-w-herd-immunity.mp3",
+  "Doctors explained that herd immunity also protects babies who are too young for the vaccine.": "audio/2026-11-16/a1-ex-herd-immunity.mp3",
+  "susceptible": "audio/2026-11-16/a1-w-susceptible.mp3",
+  "Young trees are especially susceptible to damage from strong winds.": "audio/2026-11-16/a1-ex-susceptible.mp3",
+  "exemption": "audio/2026-11-16/a1-w-exemption.mp3",
+  "Students with a medical note can get an exemption from the swimming test.": "audio/2026-11-16/a1-ex-exemption.mp3",
+  "sanction": "audio/2026-11-16/a1-w-sanction.mp3",
+  "The league threatened a sanction against any club that broke the new spending rules.": "audio/2026-11-16/a1-ex-sanction.mp3",
+  "endemic": "audio/2026-11-16/a1-w-endemic.mp3",
+  "Malaria is still endemic in some tropical regions of the world.": "audio/2026-11-16/a1-ex-endemic.mp3",
+  "collective": "audio/2026-11-16/a1-w-collective.mp3",
+  "Cleaning up the park after the festival was a collective effort by the whole village.": "audio/2026-11-16/a1-ex-collective.mp3",
+  "According to multiple news reports, a regional commission of the Pan American Health Organization (PAHO), which met from November 10 to 13, concluded that measles has circulated in the US without interruption for more than a year.": "audio/2026-11-16/a1-ks1.mp3",
+  "A country loses its elimination status when a single chain of measles transmission continues for 12 months or longer.": "audio/2026-11-16/a1-ks2.mp3",
+  "When roughly 95 percent of a population is immune, an imported case usually fizzles out, because the virus cannot find enough susceptible people to keep spreading.": "audio/2026-11-16/a1-ks3.mp3",
+  "His supporters counter that parents deserve more information and greater freedom to make medical decisions for their own children.": "audio/2026-11-16/a1-ks4.mp3",
+  "Not everyone agrees that the lost status itself matters very much.": "audio/2026-11-16/a1-ks5.mp3",
+  "In the end, the episode raises a question that reaches beyond one disease: how should a society balance individual choice against collective protection?": "audio/2026-11-16/a1-ks6.mp3",
+  "Alzheimer's disease usually announces itself slowly: a forgotten appointment, a repeated question, a familiar route that suddenly feels confusing. By the time such symptoms appear, however, the brain has often been changing for a decade or more. A new study from Stanford Medicine, published in the journal Science Advances, suggests that some of those hidden changes can be detected years earlier, using nothing more than a brain scan taken while a person lies quietly and rests.": "audio/2026-11-16/a2-p1.mp3",
+  "The researchers used a technique called resting-state functional MRI, which tracks how different regions of the brain become active together even when a person is not performing any task. These patterns of coordination form a kind of map of the brain's communication network, often called the connectome. The team, led by senior author Yu Zhang, compared the connectomes of 180 so-called \"super agers,\" older adults whose memory remains unusually sharp, with those of 110 people who had already been diagnosed with Alzheimer's disease. From the differences, they built a single number: the Alzheimer's resilience-vulnerability connectome score, or ARC.": "audio/2026-11-16/a2-p2.mp3",
+  "The score separated the two groups with about 85 percent accuracy. More importantly, the researchers then tested it on more than 1,300 adults aged 55 to 70 who showed no signs of memory problems at all, drawing on data from several long-running research projects. Over follow-up periods of up to 12 years, people whose brains looked more \"Alzheimer's-like\" were more likely to experience faster cognitive decline, to accumulate amyloid-beta, a sticky protein strongly associated with the disease, and eventually to receive a diagnosis. According to the authors, ARC performed as well as, or better than, established biomarkers, and its predictions improved further when it was combined with them.": "audio/2026-11-16/a2-p3.mp3",
+  "Supporters of early detection see obvious benefits. Scientists designing prevention trials struggle to find volunteers who will actually develop the disease, and a reliable score could help them select the right participants and measure whether an intervention works. Individuals, too, might gain time to plan their finances, discuss future care with their families, or adopt habits linked to healthier ageing, such as regular exercise. Furthermore, recently approved drugs that clear amyloid from the brain appear to work best, modestly slowing decline, when they are given at an early stage.": "audio/2026-11-16/a2-p4.mp3",
+  "Yet a prediction is not a diagnosis, and the authors themselves stress that ARC is not intended to diagnose Alzheimer's. An accuracy of 85 percent sounds impressive, but it also means that a meaningful number of people could be misclassified. Some might be told they face a high risk and spend years worrying about an illness that never arrives, while others might be falsely reassured. Because there is still no cure, critics ask what a person should actually do with the knowledge that their brain resembles that of someone with dementia.": "audio/2026-11-16/a2-p5.mp3",
+  "There are also concerns that reach beyond the clinic. Brain-scan data are deeply personal, and ethicists warn that predictive scores could one day be misused, for example by insurers or employers, if laws do not protect them. Access raises another issue: MRI scans are expensive, so such tests might be available mainly to wealthier patients, and the people studied so far may not represent every population. Finally, a single number risks making the future seem fixed, even though the researchers note that scores can change over time.": "audio/2026-11-16/a2-p6.mp3",
+  "That possibility of change is precisely what the team plans to explore next. They intend to run a trial testing whether cognitive training can shift a person's ARC score toward the healthier pattern seen in super agers. If it can, the scan could become more than a warning; it could become a way to track whether prevention efforts are working. If it cannot, doubts about the value of early knowledge are likely to grow stronger.": "audio/2026-11-16/a2-p7.mp3",
+  "For now, the study is best understood as a promising research tool rather than a test that anyone can request from their doctor. It nonetheless raises a difficult question that medicine will face more and more often as prediction improves: is it always better to know?": "audio/2026-11-16/a2-p8.mp3",
+  "detect": "audio/2026-11-16/a2-w-detect.mp3",
+  "The new sensor can detect even a tiny amount of smoke in the kitchen.": "audio/2026-11-16/a2-ex-detect.mp3",
+  "coordination": "audio/2026-11-16/a2-w-coordination.mp3",
+  "Good coordination between the players helped the team score in the final minute.": "audio/2026-11-16/a2-ex-coordination.mp3",
+  "connectome": "audio/2026-11-16/a2-w-connectome.mp3",
+  "Mapping the connectome of even a small insect took scientists many years.": "audio/2026-11-16/a2-ex-connectome.mp3",
+  "cognitive": "audio/2026-11-16/a2-w-cognitive.mp3",
+  "Puzzles and new languages may help keep older people's cognitive skills strong.": "audio/2026-11-16/a2-ex-cognitive.mp3",
+  "accumulate": "audio/2026-11-16/a2-w-accumulate.mp3",
+  "Dust began to accumulate on the books that nobody had opened for months.": "audio/2026-11-16/a2-ex-accumulate.mp3",
+  "biomarker": "audio/2026-11-16/a2-w-biomarker.mp3",
+  "Doctors hope that a simple blood biomarker will one day replace expensive scans.": "audio/2026-11-16/a2-ex-biomarker.mp3",
+  "misclassify": "audio/2026-11-16/a2-w-misclassify.mp3",
+  "The software tends to misclassify photos of wolves as photos of dogs.": "audio/2026-11-16/a2-ex-misclassify.mp3",
+  "reassure": "audio/2026-11-16/a2-w-reassure.mp3",
+  "The pilot tried to reassure the passengers that the bumps were completely normal.": "audio/2026-11-16/a2-ex-reassure.mp3",
+  "dementia": "audio/2026-11-16/a2-w-dementia.mp3",
+  "Her grandfather's dementia meant that he sometimes forgot her name.": "audio/2026-11-16/a2-ex-dementia.mp3",
+  "ethicist": "audio/2026-11-16/a2-w-ethicist.mp3",
+  "An ethicist was invited to advise the hospital on how to share genetic test results.": "audio/2026-11-16/a2-ex-ethicist.mp3",
+  "By the time such symptoms appear, however, the brain has often been changing for a decade or more.": "audio/2026-11-16/a2-ks1.mp3",
+  "From the differences, they built a single number: the Alzheimer's resilience-vulnerability connectome score, or ARC.": "audio/2026-11-16/a2-ks2.mp3",
+  "Over follow-up periods of up to 12 years, people whose brains looked more \"Alzheimer's-like\" were more likely to experience faster cognitive decline, to accumulate amyloid-beta, a sticky protein strongly associated with the disease, and eventually to receive a diagnosis.": "audio/2026-11-16/a2-ks3.mp3",
+  "Supporters of early detection see obvious benefits.": "audio/2026-11-16/a2-ks4.mp3",
+  "Yet a prediction is not a diagnosis, and the authors themselves stress that ARC is not intended to diagnose Alzheimer's.": "audio/2026-11-16/a2-ks5.mp3",
+  "It nonetheless raises a difficult question that medicine will face more and more often as prediction improves: is it always better to know?": "audio/2026-11-16/a2-ks6.mp3",
+  "In a famous thought experiment, the physicist Erwin Schrödinger imagined a cat that is, in a sense, both alive and dead until someone opens the box. A team of penguin researchers has borrowed the idea to describe a strange conservation puzzle. Their study, published in the journal PLOS ONE, concerns the erect-crested penguin, a striking bird with a spiky golden crest, and it suggests that the species is simultaneously doing quite well and heading for trouble, depending on where you look.": "audio/2026-11-16/a3-p1.mp3",
+  "Erect-crested penguins breed in only two places on Earth, both remote island groups in the Southern Ocean south-east of New Zealand. The Bounty Islands are tiny, covering roughly 50 hectares of bare rock, while the Antipodes Islands are about 40 times larger. Because the islands are so hard to reach, the birds have rarely been surveyed, and the species' official \"Endangered\" listing still relies heavily on estimates from 1978, which suggested about 115,000 breeding pairs on each island group and which scientists now consider unreliable.": "audio/2026-11-16/a3-p2.mp3",
+  "To produce better numbers, the team, led by Thomas Mattern of the Global Penguin Society and the University of Otago, used drones to photograph the colonies between 2022 and 2024. They counted roughly 27,800 breeding pairs on the Bounty Islands and about 29,800 on the Antipodes, giving a total of around 57,600 pairs. On the surface, the two populations look almost identical in size. Their histories, however, are completely different. The Bounty population appears to have been stable for at least 25 years, whereas the Antipodes population has fallen by more than 40 percent since the mid-1990s, an average decline of about 1.5 percent per year.": "audio/2026-11-16/a3-p3.mp3",
+  "What explains such different fates for birds of the same species? One answer lies with a predator. The Antipodes are home to resident subantarctic skuas, large seabirds that hunt penguin chicks. As colonies there shrink and break into smaller, scattered groups, the adults become less able to defend their young collectively, so more chicks are lost and the colonies shrink further. Ecologists call this self-reinforcing pattern an Allee effect. The Bounty Islands, by contrast, have no resident skuas. The researchers also note differences at sea: after breeding, Antipodes birds travel south and east, while Bounty birds tend to stay closer to home, so the two groups may experience different ocean conditions and food supplies.": "audio/2026-11-16/a3-p4.mp3",
+  "The real paradox emerges when conservation officials try to assign the species a single threat category. If the two populations are simply combined, the overall picture could support moving the species down from \"Endangered\" to the less serious category of \"Vulnerable.\" On paper, that would look like good news. The authors argue that it would actually be misleading, because an average would conceal the collapse taking place on the Antipodes. Assessed separately, they suggest, the Antipodes population would still deserve to be listed as Endangered, and even the stable Bounty population might qualify as Vulnerable, simply because its entire range is confined to one very small archipelago where a single disaster could be devastating.": "audio/2026-11-16/a3-p5.mp3",
+  "The debate is not merely academic. Threat categories influence how governments spend money and write regulations. The researchers worry that a global downlisting could be used to justify weakening protections around the Bounty Islands, where fishing restrictions are already limited: more than 40 percent of the surrounding territorial sea is excluded from protection to allow a longline fishery for a fish called ling. In their view, the Bounty colonies may be the species' last stable stronghold, which makes protecting them more urgent, not less.": "audio/2026-11-16/a3-p6.mp3",
+  "Some might reasonably reply that classification systems need simple, consistent rules, and that assessing every population separately would demand data that do not exist for most species. Fishing communities, too, depend on access to productive waters, and their livelihoods also deserve consideration. Still, the erect-crested penguin shows how a single number can hide important differences. The lesson applies far beyond penguins: before trusting an average, it is worth asking what it might be averaging away.": "audio/2026-11-16/a3-p7.mp3",
+  "simultaneously": "audio/2026-11-16/a3-w-simultaneously.mp3",
+  "The two runners crossed the finish line simultaneously, so the judges watched the video.": "audio/2026-11-16/a3-ex-simultaneously.mp3",
+  "survey": "audio/2026-11-16/a3-w-survey.mp3",
+  "Volunteers survey the river every spring to count the young salmon.": "audio/2026-11-16/a3-ex-survey.mp3",
+  "colony": "audio/2026-11-16/a3-w-colony.mp3",
+  "A colony of bats lives in the old church tower near our school.": "audio/2026-11-16/a3-ex-colony.mp3",
+  "predator": "audio/2026-11-16/a3-w-predator.mp3",
+  "Without a single natural predator, the rabbits spread quickly across the island.": "audio/2026-11-16/a3-ex-predator.mp3",
+  "self-reinforcing": "audio/2026-11-16/a3-w-self-reinforcing.mp3",
+  "Poor sleep and stress can form a self-reinforcing cycle that is hard to break.": "audio/2026-11-16/a3-ex-self-reinforcing.mp3",
+  "conceal": "audio/2026-11-16/a3-w-conceal.mp3",
+  "Good marks in one subject can conceal serious problems in another.": "audio/2026-11-16/a3-ex-conceal.mp3",
+  "archipelago": "audio/2026-11-16/a3-w-archipelago.mp3",
+  "The ferry visits every island in the archipelago once a week.": "audio/2026-11-16/a3-ex-archipelago.mp3",
+  "downlist": "audio/2026-11-16/a3-w-downlist.mp3",
+  "Experts decided to downlist the panda after its numbers slowly recovered.": "audio/2026-11-16/a3-ex-downlist.mp3",
+  "livelihood": "audio/2026-11-16/a3-w-livelihood.mp3",
+  "Tourism is the main livelihood for many families on the island.": "audio/2026-11-16/a3-ex-livelihood.mp3",
+  "Their study, published in the journal PLOS ONE, concerns the erect-crested penguin, a striking bird with a spiky golden crest, and it suggests that the species is simultaneously doing quite well and heading for trouble, depending on where you look.": "audio/2026-11-16/a3-ks1.mp3",
+  "The Bounty population appears to have been stable for at least 25 years, whereas the Antipodes population has fallen by more than 40 percent since the mid-1990s, an average decline of about 1.5 percent per year.": "audio/2026-11-16/a3-ks2.mp3",
+  "As colonies there shrink and break into smaller, scattered groups, the adults become less able to defend their young collectively, so more chicks are lost and the colonies shrink further.": "audio/2026-11-16/a3-ks3.mp3",
+  "The authors argue that it would actually be misleading, because an average would conceal the collapse taking place on the Antipodes.": "audio/2026-11-16/a3-ks4.mp3",
+  "The debate is not merely academic.": "audio/2026-11-16/a3-ks5.mp3",
+  "Some might reasonably reply that classification systems need simple, consistent rules, and that assessing every population separately would demand data that do not exist for most species.": "audio/2026-11-16/a3-ks6.mp3"
+ }
+}
