@@ -1,0 +1,2044 @@
+{
+ "date": "2026-11-17",
+ "headline": "Robot weapons, cautious shoppers and restless planets: deciding before we know",
+ "teaser": "Should a machine ever decide to kill? Can exports hide weak spending at home? How far can we trust a model built on old data?",
+ "articles": [
+  {
+   "id": "n20261117-1",
+   "topic": "Technology",
+   "title": "Should Machines Decide Who Lives? The UN Debates \"Killer Robots\"",
+   "dek": "Governments meeting in Geneva are arguing over whether weapons that can choose and attack targets on their own need a new treaty. Can a principle survive when one country can block any deal?",
+   "sources": [
+    {
+     "name": "UN News, Nov 16, 2026",
+     "url": "https://news.un.org/en/story/2026/11/1168810"
+    },
+    {
+     "name": "AP via CP24, Nov 16, 2026",
+     "url": "https://www.cp24.com/news/world/2026/11/16/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/"
+    }
+   ],
+   "paras": [
+    "In a conference room in Geneva this week, diplomats began to tackle a question that once belonged to science fiction: should a machine ever be allowed to decide, on its own, to kill a human being? On Monday, November 16, talks on lethal autonomous weapons systems, often called \"killer robots,\" opened at the Seventh Review Conference of the Convention on Certain Conventional Weapons (CCW), a treaty that has limited cruel or indiscriminate weapons for more than 40 years. The central issue is simple to state but hard to settle: whether governments should finally begin negotiating binding rules for these weapons.",
+    "An autonomous weapon is different from the remote-controlled drones that have become common in recent wars. When a soldier flies a drone, a person still chooses the target and decides when to fire. An autonomous system, by contrast, can select and attack a target by itself once it has been activated, relying on sensors and software rather than a human operator. Because artificial intelligence and drone parts are becoming cheaper every year, many experts fear that such weapons could soon spread far beyond the world's largest militaries, a process known as proliferation.",
+    "United Nations Secretary-General António Guterres used a video message to urge delegates from more than 120 countries to start negotiating a legally binding instrument with \"clear prohibitions and restrictions.\" The nature of warfare is changing, he argued, and new technologies raise humanitarian, legal, ethical and security challenges all at once. A few days earlier, the UN human rights chief, Volker Türk, had put the moral case even more bluntly: \"A machine must never have the power to decide whether a human being survives or dies.\"",
+    "Supporters of new rules make several arguments. The first concerns judgment: a machine does not understand the value of human life and cannot read a complicated situation the way a trained soldier can, for example by recognizing that a person is trying to surrender. The second concerns accountability. If an autonomous weapon kills civilians by mistake, it is unclear who should be held responsible — the commander, the programmer, or the company that built it. Last month, seven countries, including Austria, Brazil, Mexico and New Zealand, proposed a new legally binding agreement, and the campaign group Stop Killer Robots says about 130 countries now support new international rules.",
+    "Not every government agrees. According to the Associated Press, both the United States and Russia want to limit any restrictions on their ability to develop and deploy these systems, and Russia has described negotiations as \"premature.\" Skeptics also make arguments of their own. Existing international humanitarian law, they point out, already applies to every weapon, so a new treaty may be unnecessary. Some go further, suggesting that well-designed machines, which do not panic or seek revenge, might one day identify targets more precisely than exhausted human soldiers and therefore reduce civilian deaths. Others note that defining \"autonomy\" is difficult, since many existing defense systems already react faster than any person could.",
+    "The structure of the CCW itself makes agreement harder. The treaty has 128 member states, and its decisions require consensus, which means that a single country can block any proposal. Supporters of a ban argue that this rule gives the most powerful militaries a veto over the rest of the world. Defenders of consensus reply that a treaty ignored by the countries that actually build these weapons would achieve little. History offers examples on both sides: when talks on landmines stalled in the 1990s, a group of countries moved outside the CCW and created the 1997 Ottawa Treaty, yet several major military powers never joined it.",
+    "There is, however, a hopeful precedent. In 1995, CCW members agreed to ban blinding laser weapons before they were ever widely used on the battlefield, showing that governments can act ahead of a new technology rather than after a disaster. More recently, in December 2023, the UN General Assembly passed a resolution confirming that autonomous weapons must respect the laws of war, with 152 countries in favor, four against and 11 abstaining.",
+    "Whatever happens in Geneva this week, the debate reaches beyond military strategy. It asks whether some decisions are so serious that they must always remain in human hands, even when a machine might be faster or, in some cases, more accurate. As the president of the International Committee of the Red Cross, Mirjana Spoljaric, put it, states must act \"to ensure the future of warfare is not handed over to machines.\" The difficult part is turning that principle into rules that every major power is willing to accept."
+   ],
+   "words": [
+    {
+     "w": "autonomous",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ɔːˈtɑːnəməs/",
+     "syl": [
+      "au",
+      "ton",
+      "o",
+      "mous"
+     ],
+     "def": "able to act or make decisions independently, without being controlled by a person",
+     "ex": "The company is testing an autonomous delivery robot that can find its own way around the campus."
+    },
+    {
+     "w": "proliferation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/prəˌlɪfəˈreɪʃn/",
+     "syl": [
+      "pro",
+      "lif",
+      "er",
+      "a",
+      "tion"
+     ],
+     "def": "a rapid increase in the number or spread of something, especially weapons",
+     "ex": "Experts warn that the proliferation of cheap drones makes it harder to protect airports."
+    },
+    {
+     "w": "binding",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˈbaɪndɪŋ/",
+     "syl": [
+      "bind",
+      "ing"
+     ],
+     "def": "(of an agreement or decision) that must legally be obeyed",
+     "ex": "Once both sides sign the contract, it becomes binding."
+    },
+    {
+     "w": "prohibition",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌproʊəˈbɪʃn/",
+     "syl": [
+      "pro",
+      "hi",
+      "bi",
+      "tion"
+     ],
+     "def": "an official rule that forbids something",
+     "ex": "The new prohibition on phones in class took effect on Monday."
+    },
+    {
+     "w": "accountability",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əˌkaʊntəˈbɪləti/",
+     "syl": [
+      "ac",
+      "count",
+      "a",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the fact of being responsible for your decisions or actions and being expected to explain them",
+     "ex": "Citizens demanded greater accountability from the officials who managed the budget."
+    },
+    {
+     "w": "deploy",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/dɪˈplɔɪ/",
+     "syl": [
+      "de",
+      "ploy"
+     ],
+     "def": "to move soldiers or weapons into position so they are ready for use; to use something for a purpose",
+     "ex": "The city plans to deploy more buses during the holiday rush."
+    },
+    {
+     "w": "premature",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˌpriːməˈtʃʊr/",
+     "syl": [
+      "pre",
+      "ma",
+      "ture"
+     ],
+     "def": "happening or done too early, before the right time",
+     "ex": "It is premature to celebrate before all the votes have been counted."
+    },
+    {
+     "w": "consensus",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/kənˈsensəs/",
+     "syl": [
+      "con",
+      "sen",
+      "sus"
+     ],
+     "def": "general agreement among all the members of a group",
+     "ex": "After a long discussion, the club reached a consensus on where to hold the trip."
+    },
+    {
+     "w": "precedent",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈpresɪdənt/",
+     "syl": [
+      "prec",
+      "e",
+      "dent"
+     ],
+     "def": "an earlier action or decision that is used as an example or guide for later ones",
+     "ex": "The court's decision set a precedent for similar cases in the future."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The central issue is simple to state but hard to settle: whether governments should finally begin negotiating binding rules for these weapons.",
+     "kind": "Main idea",
+     "note": "This sentence states the question the whole passage explores; the colon introduces the exact issue."
+    },
+    {
+     "para": 2,
+     "text": "An autonomous system, by contrast, can select and attack a target by itself once it has been activated, relying on sensors and software rather than a human operator.",
+     "kind": "Key details",
+     "note": "\"By contrast\" marks a definition question; TOEFL often tests the difference between two similar things."
+    },
+    {
+     "para": 4,
+     "text": "If an autonomous weapon kills civilians by mistake, it is unclear who should be held responsible — the commander, the programmer, or the company that built it.",
+     "kind": "Cause → effect",
+     "note": "This explains the \"accountability gap\"; the dash lists the three possible answers."
+    },
+    {
+     "para": 5,
+     "text": "Existing international humanitarian law, they point out, already applies to every weapon, so a new treaty may be unnecessary.",
+     "kind": "Critical thinking",
+     "note": "The opposing view: \"so\" links the reason to the conclusion, and \"may\" keeps the claim cautious."
+    },
+    {
+     "para": 6,
+     "text": "The treaty has 128 member states, and its decisions require consensus, which means that a single country can block any proposal.",
+     "kind": "Cause → effect",
+     "note": "\"Which means that\" signals a consequence: the consensus rule explains why agreement is hard."
+    },
+    {
+     "para": 8,
+     "text": "It asks whether some decisions are so serious that they must always remain in human hands, even when a machine might be faster or, in some cases, more accurate.",
+     "kind": "Author's view",
+     "note": "The conclusion turns a military issue into a moral question; note the concession \"even when\"."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word \"read\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "recite aloud",
+      "interpret",
+      "predict",
+      "record"
+     ],
+     "a": 1,
+     "why": "\"Read a complicated situation\" means to understand or interpret it, as the example \"recognizing that a person is trying to surrender\" shows.",
+     "evidence": "cannot read a complicated situation the way a trained soldier can",
+     "optWhy": [
+      "Another meaning of the word. \"Read\" can mean to say written words aloud, but a situation is not a text; the sentence is about understanding what is happening.",
+      "Correct. To \"read a complicated situation\" = to interpret it, for example \"recognizing that a person is trying to surrender\".",
+      "Meaning shifted. The example \"recognizing that a person is trying to surrender\" is about understanding the present moment, not predicting the future.",
+      "Another meaning of the word. Instruments \"read\" (record) a value, but here the sentence compares a machine's understanding with that of \"a trained soldier\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The first concerns judgment: a machine does not understand the value of human life and cannot read a complicated situation the way a trained soldier can, for example by recognizing that a person is trying to surrender.",
+       "hl": "cannot read a complicated situation"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "Find \"read\" in paragraph 4 and look at its object: \"a complicated situation\"."
+      },
+      {
+       "t": "Use the example",
+       "x": "\"For example by recognizing that a person is trying to surrender\" shows the meaning is understanding."
+      },
+      {
+       "t": "Test each option",
+       "x": "Put \"interpret\" into the sentence; it fits, while \"recite aloud\" and \"record\" do not."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what makes an autonomous weapon different from a remote-controlled drone?",
+     "opts": [
+      "It is built from cheaper parts and is therefore easier for small armies to buy.",
+      "It is used mainly by the world's largest militaries in recent wars.",
+      "It needs a trained operator to fly it and to decide when it should fire.",
+      "After it is switched on, it can pick and strike a target without a person deciding."
+     ],
+     "a": 3,
+     "why": "The key contrast (\"by contrast\") is that an autonomous system \"can select and attack a target by itself once it has been activated\".",
+     "evidence": "can select and attack a target by itself once it has been activated",
+     "optWhy": [
+      "True but not the question. Cheaper parts explain why such weapons may spread (\"becoming cheaper every year\"), not how they differ from drones.",
+      "Detail twisted. The text fears these weapons could spread \"far beyond the world's largest militaries\"; it does not say mainly large militaries use them.",
+      "Reversed. This describes the drone: \"When a soldier flies a drone, a person still chooses the target and decides when to fire.\"",
+      "Correct. \"Select and attack a target by itself once it has been activated\" = \"after it is switched on, it can pick and strike a target without a person deciding\"."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "When a soldier flies a drone, a person still chooses the target and decides when to fire.",
+       "hl": "a person still chooses the target"
+      },
+      {
+       "para": 2,
+       "text": "An autonomous system, by contrast, can select and attack a target by itself once it has been activated, relying on sensors and software rather than a human operator.",
+       "hl": "can select and attack a target by itself"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "\"By contrast\" in paragraph 2 signals the key difference between the two weapons."
+      },
+      {
+       "t": "Match the paraphrase",
+       "x": "\"Select and attack ... by itself\" matches \"pick and strike ... without a person deciding\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "C describes drones, A is a reason for spread, and B twists \"far beyond\"."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are arguments made by supporters of new rules EXCEPT:",
+     "opts": [
+      "Autonomous weapons would cost too much for most countries to afford.",
+      "A machine may fail to notice that someone is trying to surrender.",
+      "It may be unclear who should be blamed when civilians are killed.",
+      "Machines have no understanding of how valuable a human life is."
+     ],
+     "a": 0,
+     "why": "Paragraph 4 gives two arguments, judgment and accountability. Cost is never mentioned, and paragraph 2 says parts are getting cheaper.",
+     "evidence": "it is unclear who should be held responsible",
+     "optWhy": [
+      "Correct. Cost is never given as an argument in paragraph 4, and paragraph 2 says the opposite: parts are \"becoming cheaper every year\".",
+      "Mentioned. \"Recognizing that a person is trying to surrender\" is the example of what a machine cannot do.",
+      "Mentioned. \"It is unclear who should be held responsible\" is the accountability argument.",
+      "Mentioned. \"A machine does not understand the value of human life\" is part of the judgment argument."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The first concerns judgment: a machine does not understand the value of human life and cannot read a complicated situation the way a trained soldier can, for example by recognizing that a person is trying to surrender.",
+       "hl": "does not understand the value of human life"
+      },
+      {
+       "para": 4,
+       "text": "If an autonomous weapon kills civilians by mistake, it is unclear who should be held responsible — the commander, the programmer, or the company that built it.",
+       "hl": "it is unclear who should be held responsible"
+      },
+      {
+       "para": 2,
+       "text": "Because artificial intelligence and drone parts are becoming cheaper every year, many experts fear that such weapons could soon spread far beyond the world's largest militaries, a process known as proliferation.",
+       "hl": "becoming cheaper every year"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the arguments",
+       "x": "Paragraph 4 gives two: judgment (\"The first\") and accountability (\"The second\")."
+      },
+      {
+       "t": "Tick off options",
+       "x": "B and D match the judgment argument; C matches accountability."
+      },
+      {
+       "t": "Find the odd one",
+       "x": "A (cost) is not in paragraph 4 and even conflicts with paragraph 2."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the 1997 Ottawa Treaty?",
+     "opts": [
+      "It replaced the CCW as the main treaty on all conventional weapons.",
+      "It was supported by every major military power after the 1990s talks.",
+      "It shows that a treaty made outside the CCW may lack some key countries.",
+      "It banned autonomous weapons together with landmines in the 1990s."
+     ],
+     "a": 2,
+     "why": "The treaty was created \"outside the CCW\", \"yet several major military powers never joined it\", so going outside can mean losing important countries.",
+     "evidence": "yet several major military powers never joined it",
+     "optWhy": [
+      "Too extreme. Countries only \"moved outside the CCW\" for landmines; the CCW still exists and is meeting this week.",
+      "Contradicts the text: \"several major military powers never joined it\".",
+      "Correct. The treaty was created \"outside the CCW\", \"yet several major military powers never joined it\", so a treaty made outside the CCW can lack key countries.",
+      "Not mentioned. The Ottawa Treaty is described only in connection with \"talks on landmines\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "History offers examples on both sides: when talks on landmines stalled in the 1990s, a group of countries moved outside the CCW and created the 1997 Ottawa Treaty, yet several major military powers never joined it.",
+       "hl": "yet several major military powers never joined it"
+      },
+      {
+       "para": 6,
+       "text": "Defenders of consensus reply that a treaty ignored by the countries that actually build these weapons would achieve little.",
+       "hl": "a treaty ignored by the countries that actually build these weapons"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "The Ottawa Treaty appears in the last sentence of paragraph 6."
+      },
+      {
+       "t": "Read \"both sides\"",
+       "x": "It shows a success (a treaty was created) and a weakness (major powers stayed out)."
+      },
+      {
+       "t": "Rule out",
+       "x": "A and D add ideas the text never states; B contradicts \"never joined it\"."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention the 1995 ban on blinding laser weapons in paragraph 7?",
+     "opts": [
+      "To show that the CCW has usually failed to control new technologies",
+      "To show that states have banned a weapon before it was widely used",
+      "To argue that lasers are crueler than any autonomous weapon could be",
+      "To explain how lasers are used to guide some autonomous weapons"
+     ],
+     "a": 1,
+     "why": "The author introduces it as \"a hopeful precedent\" and says it shows \"governments can act ahead of a new technology\".",
+     "evidence": "agreed to ban blinding laser weapons before they were ever widely used on the battlefield",
+     "optWhy": [
+      "Opposite. The author calls it \"a hopeful precedent\", an example of success, not failure.",
+      "Correct. The ban came \"before they were ever widely used on the battlefield\", \"showing that governments can act ahead of a new technology\".",
+      "Not mentioned. The text never compares how cruel lasers and autonomous weapons are.",
+      "Not mentioned. Lasers are an example of an earlier ban, not part of how autonomous weapons work."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "There is, however, a hopeful precedent.",
+       "hl": "a hopeful precedent"
+      },
+      {
+       "para": 7,
+       "text": "In 1995, CCW members agreed to ban blinding laser weapons before they were ever widely used on the battlefield, showing that governments can act ahead of a new technology rather than after a disaster.",
+       "hl": "governments can act ahead of a new technology"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the lead-in",
+       "x": "\"A hopeful precedent\" tells you the example is positive."
+      },
+      {
+       "t": "Find the function",
+       "x": "\"Showing that\" states the purpose directly: acting before a technology spreads."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the tone; C and D are never mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Some skeptics think machines, which feel no fear or anger, could one day aim better than tired soldiers and so cause fewer civilian deaths.",
+      "Some skeptics say machines already aim better than tired soldiers, which explains why fewer civilians have died in many recent wars.",
+      "Some skeptics argue that because tired soldiers panic and seek revenge, they should be replaced by well-designed machines right away.",
+      "Some skeptics suggest that soldiers who use well-designed machines will feel less tired and will therefore kill fewer civilians."
+     ],
+     "a": 0,
+     "why": "The sentence has three parts: machines do not panic or seek revenge; they might one day be more precise than tired soldiers; this could reduce civilian deaths. Only A keeps all three.",
+     "evidence": "might one day identify targets more precisely than exhausted human soldiers",
+     "optWhy": [
+      "Correct. \"Do not panic or seek revenge\" = \"feel no fear or anger\"; \"might one day identify targets more precisely than exhausted human soldiers\" = \"could one day aim better than tired soldiers\"; \"reduce civilian deaths\" = \"cause fewer civilian deaths\".",
+      "Too certain. The sentence says machines \"might one day\" be more precise, not that they already are, and fewer deaths in recent wars is never mentioned.",
+      "Too extreme and missing the key idea. The sentence does not call for replacing soldiers \"right away\", and it leaves out precision and civilian deaths.",
+      "Detail swapped. In the sentence the machines identify targets; it never says soldiers using machines would feel less tired."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Some go further, suggesting that well-designed machines, which do not panic or seek revenge, might one day identify targets more precisely than exhausted human soldiers and therefore reduce civilian deaths.",
+       "hl": "might one day identify targets more precisely"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break it into parts",
+       "x": "Reason (no panic or revenge), claim (might one day be more precise), result (fewer civilian deaths)."
+      },
+      {
+       "t": "Check the certainty",
+       "x": "Keep the option that preserves \"might one day\", not \"already\" or \"right away\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "B is too certain, C adds \"right away\", and D changes who becomes more precise."
+      }
+     ],
+     "highlight": "Some go further, suggesting that well-designed machines, which do not panic or seek revenge, might one day identify targets more precisely than exhausted human soldiers and therefore reduce civilian deaths."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261117-1-k1",
+     "tag": "Event",
+     "fact": "Talks on lethal autonomous weapons opened in Geneva on November 16 at a review conference of the CCW.",
+     "q": "Where did this week's talks on \"killer robots\" open?",
+     "opts": [
+      "Geneva",
+      "New York",
+      "Ottawa"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261117-1-k2",
+     "tag": "Definition",
+     "fact": "An autonomous weapon can select and attack a target by itself once activated, unlike a remote-controlled drone.",
+     "q": "What can an autonomous weapon do that a remote-controlled drone cannot?",
+     "opts": [
+      "Fly at night",
+      "Choose and attack a target without a human decision",
+      "Carry a camera"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-1-k3",
+     "tag": "Support",
+     "fact": "About 130 countries support new international rules, according to Stop Killer Robots.",
+     "q": "How many countries support new rules, according to Stop Killer Robots?",
+     "opts": [
+      "About 30",
+      "About 130",
+      "All 193"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-1-k4",
+     "tag": "Obstacle",
+     "fact": "CCW decisions require consensus, so a single country can block any proposal.",
+     "q": "Why is agreement hard under the CCW?",
+     "opts": [
+      "Decisions require consensus",
+      "Only seven countries can vote",
+      "The treaty has expired"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261117-1-k5",
+     "tag": "Precedent",
+     "fact": "In 1995 CCW members banned blinding laser weapons before they were widely used.",
+     "q": "Which weapon did CCW members ban in 1995 before it was widely used?",
+     "opts": [
+      "Landmines",
+      "Blinding lasers",
+      "Drones"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-1-k6",
+     "tag": "Vote",
+     "fact": "In December 2023 the UN General Assembly confirmed, 152 to 4, that autonomous weapons must respect the laws of war.",
+     "q": "What did the 2023 UN resolution confirm?",
+     "opts": [
+      "All autonomous weapons are banned",
+      "Autonomous weapons must respect the laws of war",
+      "Drones are illegal"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Killer robot talks",
+    "question": "Should machines ever decide to kill?",
+    "distractors": [
+     "the UN has already banned all drones",
+     "Russia proposed the new treaty"
+    ],
+    "branches": [
+     {
+      "title": "What they are",
+      "paras": "1–2",
+      "blanks": [
+       "select and attack targets alone",
+       "parts getting cheaper every year"
+      ],
+      "kps": [
+       "n20261117-1-k1",
+       "n20261117-1-k2"
+      ]
+     },
+     {
+      "title": "Case for rules",
+      "paras": "3–4",
+      "blanks": [
+       "machines cannot read situations",
+       "unclear who is responsible"
+      ],
+      "kps": [
+       "n20261117-1-k3"
+      ]
+     },
+     {
+      "title": "Case against",
+      "paras": "5",
+      "blanks": [
+       "existing law already applies",
+       "machines may be more precise"
+      ],
+      "kps": []
+     },
+     {
+      "title": "The road ahead",
+      "paras": "6–8",
+      "blanks": [
+       "one country can block consensus",
+       "blinding lasers banned in 1995"
+      ],
+      "kps": [
+       "n20261117-1-k4",
+       "n20261117-1-k5",
+       "n20261117-1-k6"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "At UN talks in Geneva, governments are debating whether to negotiate binding rules for lethal autonomous weapons.",
+    "model": "Because autonomous weapons can choose and attack targets without a person, UN leaders and many countries want binding rules. However, the US and Russia resist limits, and since CCW decisions need consensus, a deal is hard, while past bans show it is possible.",
+    "options": [
+     {
+      "t": "Supporters say machines lack human judgment and create an accountability gap, so they want a legally binding agreement.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "The second concerns accountability.",
+      "why": "Correct. This is the case for new rules. (paragraphs 3–4)"
+     },
+     {
+      "t": "Some powerful states and skeptics resist new limits, arguing that existing law is enough or that machines may be more precise.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Not every government agrees.",
+      "why": "Correct. This is the opposing side. (paragraph 5)"
+     },
+     {
+      "t": "The CCW's consensus rule makes a deal difficult, though earlier bans show governments can act ahead of a new technology.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "its decisions require consensus",
+      "why": "Correct. This covers the obstacle and the precedent. (paragraphs 6–7)"
+     },
+     {
+      "t": "Seven countries, including Austria and Mexico, made a treaty proposal last month.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "Last month, seven countries, including Austria, Brazil, Mexico and New Zealand, proposed a new legally binding agreement",
+      "why": "True, but a minor detail that supports a main idea."
+     },
+     {
+      "t": "Several countries have already tested autonomous weapons in secret.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The 2023 UN resolution said that autonomous weapons do not need to follow the laws of war.",
+      "ok": false,
+      "type": "contra",
+      "para": 7,
+      "evidence": "confirming that autonomous weapons must respect the laws of war",
+      "why": "Contradicts paragraph 7: the resolution said they must respect the laws of war."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe that decisions about life and death should always be made by humans, even if machines could make them faster or more accurately. Others believe we should use machines whenever they make fewer mistakes than people. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (responsibility / judgment) + example → reason 2 (accuracy or speed) + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week, governments met in Geneva to discuss \"killer robots\", weapons that can select and attack targets without a human decision. The UN Secretary-General wants a legally binding treaty, but some major military powers say existing laws of war are enough. Should the world create a new treaty that bans or strictly limits these weapons? Why or why not? (Lena says: Yes. A machine cannot understand the value of a human life or tell when someone is trying to surrender. And if it kills the wrong person, nobody can be clearly blamed. We banned blinding lasers before they were used, so we should act now, before these weapons spread.) (Omar says: I'm not convinced a ban would work. The countries that build these weapons may simply refuse to sign, as some did with the landmine treaty. It might be more realistic to agree on rules that keep a human responsible for every attack, rather than an outright ban.)",
+    "steps": [
+     "Decide your position: a ban, strict limits, or existing law.",
+     "Give one main reason, such as accountability or the risk of proliferation.",
+     "Respond to Lena or Omar: agree with one point and challenge another.",
+     "Finish with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261117-2",
+   "topic": "Economy",
+   "title": "Strong Exports, Cautious Shoppers: China's Economy Loses Momentum",
+   "dek": "October's figures show high-tech factories booming while households hold back. Should the government push people to spend, or is patience the wiser policy?",
+   "sources": [
+    {
+     "name": "Reuters via WTVB, Nov 16, 2026",
+     "url": "https://wtvbam.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
+    }
+   ],
+   "paras": [
+    "China's economy lost more momentum in October, according to official figures released on Monday, November 16, by the National Bureau of Statistics. Retail sales, the main measure of how much households spend in shops and online, rose just 0.4 percent from a year earlier, half the 0.8 percent that economists polled by Reuters had expected and down from 1.1 percent in September. Industrial output grew 4.8 percent, also below forecasts of 5.3 percent and slower than September's 5.5 percent.",
+    "Investment looked even weaker. Fixed-asset investment, which counts spending on things such as factories, roads and buildings, fell 8.1 percent in the first ten months of the year compared with the same period in 2025, a worse result than analysts had predicted. Within that figure, property investment plunged 21.6 percent. There was one small piece of good news: the urban unemployment rate edged down to 5.1 percent from 5.2 percent. Economic growth for the third quarter had already slowed to 4.5 percent year on year.",
+    "Taken together, the numbers describe what some economists call a two-speed economy. On one side, factories making advanced products are booming. Officials said that high-end and intelligent manufacturing produced more than half of the growth in industrial output during the first ten months of the year, and exports linked to artificial intelligence, such as electronic components and equipment, remain strong. On the other side, traditional industries that depend on Chinese consumers and the construction sector are struggling. Strong exports, Reuters noted, are masking weakness in the domestic economy.",
+    "Why are households so cautious? The biggest reason is housing. For decades, buying an apartment was seen as the safest way for Chinese families to build wealth, so a large share of household savings is tied up in property. After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less. A soft job market adds to the worry, especially for young graduates. As a result, many households prefer to save rather than buy cars, appliances or holidays.",
+    "This situation has produced a lively debate about what the government should do. One group of economists argues for stronger stimulus aimed directly at consumers. Lynn Song of the Dutch bank ING called the October figures \"a worrying start\" to the final quarter and said weak consumer confidence remained the main obstacle to recovery. In this view, measures such as larger pensions, better health insurance or cash support for families would give people the security they need to spend, which would in turn help the businesses that sell to them.",
+    "Others expect, and in some cases prefer, a more cautious approach. Analysts at the Australian bank ANZ said they did not expect new stimulus before the end of the year, and they forecast that annual growth would still stay above 4.5 percent. Economists at Macquarie predicted that policymakers would do \"just enough\" to meet their growth target, adjusting the size of any support according to how much exports slow. Supporters of restraint point out that earlier rounds of spending on infrastructure left many local governments with heavy debts, and that pushing money into the economy too quickly can be wasteful.",
+    "For their part, officials sounded confident. A statistics bureau spokesperson said exports would continue to support growth and that stronger policy support was coming. Beijing has recently introduced measures to channel cheaper credit into infrastructure and technology and to expand help for home buyers. These steps reflect a long-term goal: to move the economy away from construction and toward advanced industry. The open question is whether a strategy built on high-tech exports can succeed while consumers at home remain reluctant to spend.",
+    "The answer matters far beyond China. As the world's second-largest economy and its biggest exporter of manufactured goods, China affects prices, jobs and trade from Germany to Brazil. If Chinese households spend more, other countries can sell more to them; if China instead relies on exports, its trading partners may face more competition, and possibly more trade disputes. In that sense, the reluctance of shoppers in Chinese cities is not only a domestic issue but a global one."
+   ],
+   "words": [
+    {
+     "w": "momentum",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/moʊˈmentəm/",
+     "syl": [
+      "mo",
+      "men",
+      "tum"
+     ],
+     "def": "the force or speed that keeps something developing or moving forward",
+     "ex": "The campaign gained momentum after several famous athletes joined it."
+    },
+    {
+     "w": "year on year",
+     "level": "Topic term",
+     "pos": "phr.",
+     "ipa": "/ˌjɪr ɑːn ˈjɪr/",
+     "syl": [
+      "year",
+      "on",
+      "year"
+     ],
+     "def": "compared with the same period one year earlier",
+     "ex": "Ticket sales rose 12 percent year on year in the first quarter."
+    },
+    {
+     "w": "fixed-asset investment",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌfɪkst ˈæset ɪnˈvestmənt/",
+     "syl": [
+      "fixed",
+      "as",
+      "set",
+      "in",
+      "vest",
+      "ment"
+     ],
+     "def": "spending on long-lasting things such as buildings, machinery, roads and factories",
+     "ex": "Fixed-asset investment in the region rose after the new railway was approved."
+    },
+    {
+     "w": "mask",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/mæsk/",
+     "syl": [
+      "mask"
+     ],
+     "def": "to hide something so that it cannot easily be seen or noticed",
+     "ex": "His cheerful smile could not mask how tired he felt."
+    },
+    {
+     "w": "slump",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/slʌmp/",
+     "syl": [
+      "slump"
+     ],
+     "def": "a period when prices, sales or economic activity fall suddenly and stay low",
+     "ex": "The car industry is slowly recovering from last year's slump in sales."
+    },
+    {
+     "w": "stimulus",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈstɪmjələs/",
+     "syl": [
+      "stim",
+      "u",
+      "lus"
+     ],
+     "def": "government action, such as extra spending or tax cuts, intended to make the economy grow faster",
+     "ex": "Many economists believe a stimulus package could help small businesses survive the downturn."
+    },
+    {
+     "w": "obstacle",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈɑːbstəkl/",
+     "syl": [
+      "ob",
+      "sta",
+      "cle"
+     ],
+     "def": "something that blocks your way or makes progress difficult",
+     "ex": "Lack of money was the biggest obstacle to finishing the project."
+    },
+    {
+     "w": "restraint",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/rɪˈstreɪnt/",
+     "syl": [
+      "re",
+      "straint"
+     ],
+     "def": "the quality of controlling or limiting something, such as spending, instead of acting freely",
+     "ex": "The central bank showed restraint and left interest rates unchanged."
+    },
+    {
+     "w": "channel",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈtʃænl/",
+     "syl": [
+      "chan",
+      "nel"
+     ],
+     "def": "to direct money, energy or effort toward a particular purpose",
+     "ex": "The charity will channel all donations into building new schools."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "China's economy lost more momentum in October, according to official figures released on Monday, November 16, by the National Bureau of Statistics.",
+     "kind": "Main idea",
+     "note": "The first sentence gives the news and its source; \"lost more momentum\" tells you the trend is negative and continuing."
+    },
+    {
+     "para": 2,
+     "text": "Within that figure, property investment plunged 21.6 percent.",
+     "kind": "Key details",
+     "note": "A strong verb (\"plunged\") plus a number: TOEFL factual questions often target the most dramatic figure."
+    },
+    {
+     "para": 3,
+     "text": "Strong exports, Reuters noted, are masking weakness in the domestic economy.",
+     "kind": "Interpretation",
+     "note": "This sentence interprets the data rather than reporting it; inference questions often build on such lines."
+    },
+    {
+     "para": 4,
+     "text": "After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less.",
+     "kind": "Cause → effect",
+     "note": "A chain of cause and effect with a concession (\"even if\"); a classic sentence-simplification target."
+    },
+    {
+     "para": 6,
+     "text": "Supporters of restraint point out that earlier rounds of spending on infrastructure left many local governments with heavy debts, and that pushing money into the economy too quickly can be wasteful.",
+     "kind": "Critical thinking",
+     "note": "The opposing view with two reasons joined by \"and that\"; recognize whose opinion it is."
+    },
+    {
+     "para": 8,
+     "text": "In that sense, the reluctance of shoppers in Chinese cities is not only a domestic issue but a global one.",
+     "kind": "Author's view",
+     "note": "\"Not only ... but\" widens the topic in the conclusion; useful structure for your own writing."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 7,
+     "q": "The word \"channel\" in paragraph 7 is closest in meaning to",
+     "opts": [
+      "broadcast",
+      "limit",
+      "direct",
+      "dig"
+     ],
+     "a": 2,
+     "why": "\"Channel cheaper credit into infrastructure and technology\" means to direct money toward those sectors.",
+     "evidence": "measures to channel cheaper credit into infrastructure and technology",
+     "optWhy": [
+      "Another meaning of the word. A TV \"channel\" broadcasts programs, but here the object is \"cheaper credit\", which is sent toward a purpose.",
+      "Opposite direction. The measures push credit \"into infrastructure and technology\"; they do not limit it.",
+      "Correct. To \"channel cheaper credit into infrastructure and technology\" = to direct money toward those sectors.",
+      "Too literal. A channel can be a dug waterway, but money is not dug; the word is used figuratively."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Beijing has recently introduced measures to channel cheaper credit into infrastructure and technology and to expand help for home buyers.",
+       "hl": "channel cheaper credit into infrastructure and technology"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "\"Channel\" in paragraph 7 is a verb; its object is \"cheaper credit\"."
+      },
+      {
+       "t": "Use the preposition",
+       "x": "\"Into infrastructure and technology\" shows movement toward a target."
+      },
+      {
+       "t": "Test each option",
+       "x": "\"Direct cheaper credit into technology\" fits; \"broadcast\" and \"dig\" belong to other meanings."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, how did October's retail sales compare with expectations?",
+     "opts": [
+      "They grew by only half as much as economists had predicted.",
+      "They grew faster than in September but more slowly than predicted.",
+      "They fell by 0.4 percent compared with the same month last year.",
+      "They matched forecasts but grew more slowly than industrial output."
+     ],
+     "a": 0,
+     "why": "Sales \"rose just 0.4 percent\", which was \"half the 0.8 percent\" economists expected.",
+     "evidence": "rose just 0.4 percent from a year earlier, half the 0.8 percent that economists polled by Reuters had expected",
+     "optWhy": [
+      "Correct. \"0.4 percent ... half the 0.8 percent that economists ... had expected\" = \"only half as much as economists had predicted\".",
+      "Detail wrong. September's growth was 1.1 percent, so October's 0.4 percent was slower, not faster.",
+      "Direction reversed. Retail sales \"rose just 0.4 percent\"; they did not fall.",
+      "Half true, half false. Sales did grow more slowly than output (0.4 vs 4.8 percent), but they did not match forecasts."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Retail sales, the main measure of how much households spend in shops and online, rose just 0.4 percent from a year earlier, half the 0.8 percent that economists polled by Reuters had expected and down from 1.1 percent in September.",
+       "hl": "half the 0.8 percent that economists polled by Reuters had expected"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the numbers",
+       "x": "Paragraph 1 gives three figures for retail sales: 0.4%, 0.8% expected, 1.1% in September."
+      },
+      {
+       "t": "Compare carefully",
+       "x": "0.4 is half of 0.8, and lower than 1.1."
+      },
+      {
+       "t": "Rule out",
+       "x": "B gets September wrong, C turns \"rose\" into \"fell\", D claims it matched forecasts."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following help explain why households are cautious EXCEPT:",
+     "opts": [
+      "Much of their wealth is tied up in homes that have lost value.",
+      "A weak job market makes people worry about their future.",
+      "People who feel less wealthy usually cut back on spending.",
+      "Prices of cars and household appliances have risen sharply."
+     ],
+     "a": 3,
+     "why": "Paragraph 4 names housing, the wealth effect and a soft job market. Rising prices of cars and appliances are never mentioned.",
+     "evidence": "A soft job market adds to the worry",
+     "optWhy": [
+      "Mentioned. \"A large share of household savings is tied up in property\", which has gone through \"a years-long slump\".",
+      "Mentioned. \"A soft job market adds to the worry, especially for young graduates.\"",
+      "Mentioned. \"People who feel poorer tend to spend less.\"",
+      "Correct. Rising prices are never mentioned. Cars and appliances appear only as things people choose not to buy: \"prefer to save rather than buy cars, appliances or holidays\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "For decades, buying an apartment was seen as the safest way for Chinese families to build wealth, so a large share of household savings is tied up in property.",
+       "hl": "a large share of household savings is tied up in property"
+      },
+      {
+       "para": 4,
+       "text": "A soft job market adds to the worry, especially for young graduates.",
+       "hl": "A soft job market adds to the worry"
+      },
+      {
+       "para": 4,
+       "text": "As a result, many households prefer to save rather than buy cars, appliances or holidays.",
+       "hl": "prefer to save rather than buy cars, appliances or holidays"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the reasons",
+       "x": "Paragraph 4: housing wealth, feeling poorer, a soft job market."
+      },
+      {
+       "t": "Tick off options",
+       "x": "A, B and C each match one of these reasons."
+      },
+      {
+       "t": "Spot the borrowed words",
+       "x": "D reuses \"cars\" and \"appliances\" from the text but adds an idea (rising prices) that is not there."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about China's overall industrial output figure?",
+     "opts": [
+      "It shows that every part of the economy is growing at a similar pace.",
+      "It probably makes the economy look stronger than consumer-facing sectors are.",
+      "It is driven mainly by the construction sector and by building new homes.",
+      "It will most likely fall sharply as soon as AI-related exports begin to slow."
+     ],
+     "a": 1,
+     "why": "High-end manufacturing produced \"more than half of the growth\", and exports are \"masking weakness in the domestic economy\", so the total figure hides the weak side.",
+     "evidence": "Strong exports, Reuters noted, are masking weakness in the domestic economy.",
+     "optWhy": [
+      "Contradicts the idea of \"a two-speed economy\", in which one side is \"booming\" and the other is \"struggling\".",
+      "Correct. High-end manufacturing produced \"more than half of the growth\" and strong exports are \"masking weakness in the domestic economy\", so the total looks better than the consumer side.",
+      "Opposite. The construction sector is described as \"struggling\", not as the driver of growth.",
+      "Too extreme. The paragraph predicts nothing; paragraph 6 only says support may depend on \"how much exports slow\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Officials said that high-end and intelligent manufacturing produced more than half of the growth in industrial output during the first ten months of the year, and exports linked to artificial intelligence, such as electronic components and equipment, remain strong.",
+       "hl": "more than half of the growth in industrial output"
+      },
+      {
+       "para": 3,
+       "text": "Strong exports, Reuters noted, are masking weakness in the domestic economy.",
+       "hl": "masking weakness in the domestic economy"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key idea",
+       "x": "Paragraph 3 describes \"a two-speed economy\": booming high-tech, struggling consumer sectors."
+      },
+      {
+       "t": "Connect the clues",
+       "x": "If one side produces \"more than half of the growth\", the average hides the weak side (\"masking\")."
+      },
+      {
+       "t": "Rule out",
+       "x": "A ignores \"two-speed\", C reverses construction, D adds a prediction."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention \"earlier rounds of spending on infrastructure\" in paragraph 6?",
+     "opts": [
+      "To show that infrastructure is the most effective form of stimulus",
+      "To explain why China's exports have stayed so strong this year",
+      "To question the accuracy of the forecast made by ING's economist",
+      "To give one reason why some economists favor a cautious approach"
+     ],
+     "a": 3,
+     "why": "The sentence begins \"Supporters of restraint point out that...\", so the debts are a reason for caution.",
+     "evidence": "earlier rounds of spending on infrastructure left many local governments with heavy debts",
+     "optWhy": [
+      "Opposite. The earlier spending \"left many local governments with heavy debts\", a negative example.",
+      "Unrelated. Exports are discussed in paragraph 3; this sentence is about debt from past spending.",
+      "Wrong paragraph. ING's view is in paragraph 5, and this sentence does not question it.",
+      "Correct. \"Supporters of restraint point out\" the heavy debts and waste, which is a reason to prefer \"a more cautious approach\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Others expect, and in some cases prefer, a more cautious approach.",
+       "hl": "a more cautious approach"
+      },
+      {
+       "para": 6,
+       "text": "Supporters of restraint point out that earlier rounds of spending on infrastructure left many local governments with heavy debts, and that pushing money into the economy too quickly can be wasteful.",
+       "hl": "Supporters of restraint point out"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the signal phrase",
+       "x": "\"Supporters of restraint point out\" introduces their reason."
+      },
+      {
+       "t": "Link to the topic sentence",
+       "x": "Paragraph 6 opens with \"a more cautious approach\"; the debts support it."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the tone, B and C come from other paragraphs."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Because their incomes fell during the long housing slump, many families can no longer afford to spend money.",
+      "Families who spent less on housing during the slump now have extra money, yet they still feel poor.",
+      "The long housing slump has left many families feeling less wealthy, even without lower incomes, so they spend less.",
+      "Although the housing market has now recovered, many families still feel poor and continue to avoid spending."
+     ],
+     "a": 2,
+     "why": "The sentence: a long housing slump → families feel poorer (even with the same income) → they spend less. Only C keeps all three parts.",
+     "evidence": "many families feel poorer even if their incomes have not fallen",
+     "optWhy": [
+      "Contradicts the sentence, which says families feel poorer \"even if their incomes have not fallen\".",
+      "Cause and effect changed. The sentence never says families spent less on housing or have extra money.",
+      "Correct. \"Years-long slump\" = \"long housing slump\"; \"feel poorer even if their incomes have not fallen\" = \"feeling less wealthy, even without lower incomes\"; \"tend to spend less\" = \"so they spend less\".",
+      "Contradiction. The sentence describes an ongoing \"years-long slump\"; it never says the market has recovered."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less.",
+       "hl": "feel poorer even if their incomes have not fallen"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break it into parts",
+       "x": "Cause (housing slump), feeling (poorer, same income), result (spend less)."
+      },
+      {
+       "t": "Watch the concession",
+       "x": "\"Even if their incomes have not fallen\" must not become \"incomes fell\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses incomes, B invents extra money, D invents a recovery."
+      }
+     ],
+     "highlight": "After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261117-2-k1",
+     "tag": "Data",
+     "fact": "In October, China's retail sales rose only 0.4% year on year, below the 0.8% that was expected.",
+     "q": "How much did China's retail sales grow in October?",
+     "opts": [
+      "0.4%",
+      "4.8%",
+      "8.1%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261117-2-k2",
+     "tag": "Investment",
+     "fact": "Property investment fell 21.6% in the first ten months of 2026.",
+     "q": "By how much did property investment fall in January–October?",
+     "opts": [
+      "2.16%",
+      "21.6%",
+      "5.1%"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-2-k3",
+     "tag": "Two speeds",
+     "fact": "High-end and intelligent manufacturing produced more than half of industrial output growth.",
+     "q": "What produced more than half of the growth in industrial output?",
+     "opts": [
+      "Construction",
+      "High-end and intelligent manufacturing",
+      "Retail shops"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-2-k4",
+     "tag": "Cause",
+     "fact": "Falling home values make families feel poorer, so many save instead of spending.",
+     "q": "Why are many Chinese households spending less?",
+     "opts": [
+      "Home values have fallen",
+      "Taxes have doubled",
+      "Shops have closed"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261117-2-k5",
+     "tag": "Debate",
+     "fact": "Some economists want stimulus for consumers; others prefer caution because past infrastructure spending left heavy debts.",
+     "q": "Why do some economists prefer a cautious approach?",
+     "opts": [
+      "Past infrastructure spending left heavy debts",
+      "Exports are collapsing",
+      "Consumers are spending too much"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "China's slowing economy",
+    "question": "Exports or shoppers: what should drive growth?",
+    "distractors": [
+     "retail sales hit a record high",
+     "China stopped exports to Europe"
+    ],
+    "branches": [
+     {
+      "title": "October data",
+      "paras": "1–2",
+      "blanks": [
+       "retail sales up only 0.4%",
+       "property investment down 21.6%"
+      ],
+      "kps": [
+       "n20261117-2-k1",
+       "n20261117-2-k2"
+      ]
+     },
+     {
+      "title": "Two speeds",
+      "paras": "3",
+      "blanks": [
+       "AI-related exports booming",
+       "exports masking domestic weakness"
+      ],
+      "kps": [
+       "n20261117-2-k3"
+      ]
+     },
+     {
+      "title": "Cautious households",
+      "paras": "4",
+      "blanks": [
+       "savings tied up in property",
+       "a soft job market"
+      ],
+      "kps": [
+       "n20261117-2-k4"
+      ]
+     },
+     {
+      "title": "Policy debate",
+      "paras": "5–8",
+      "blanks": [
+       "stimulus aimed at consumers",
+       "restraint because of local debts"
+      ],
+      "kps": [
+       "n20261117-2-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "Official data show that China's economy slowed in October, with weak spending at home but strong high-tech exports.",
+    "model": "China's October data show weak retail sales and falling investment because households, hurt by the housing slump, prefer to save. While AI-related exports remain strong, economists disagree about whether Beijing should boost consumer spending or act with restraint.",
+    "options": [
+     {
+      "t": "Retail sales, factory output and investment were all weaker than expected, with property investment falling sharply.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "property investment plunged 21.6 percent",
+      "why": "Correct. This sums up the data. (paragraphs 1–2)"
+     },
+     {
+      "t": "Strong high-tech exports hide weak domestic demand, as households hurt by the housing slump choose to save.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "Strong exports, Reuters noted, are masking weakness in the domestic economy.",
+      "why": "Correct. This explains the two-speed economy and its cause. (paragraphs 3–4)"
+     },
+     {
+      "t": "Economists disagree about whether the government should give consumers more support or act with restraint.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "This situation has produced a lively debate about what the government should do.",
+      "why": "Correct. This is the policy debate. (paragraphs 5–7)"
+     },
+     {
+      "t": "The urban unemployment rate edged down to 5.1 percent.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "the urban unemployment rate edged down to 5.1 percent from 5.2 percent",
+      "why": "True, but a minor detail."
+     },
+     {
+      "t": "China plans to raise taxes on luxury goods next year.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "Analysts at ANZ expect a large new stimulus package before the end of the year.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "they did not expect new stimulus before the end of the year",
+      "why": "Contradicts paragraph 6: ANZ did not expect new stimulus this year."
+     }
+    ]
+   },
+   "speak": {
+    "p": "During an economic slowdown, some people think the government should give money directly to families to encourage spending. Others think it should invest in industries and infrastructure instead. Which approach do you prefer, and why?",
+    "hint": "Choose one approach → reason 1 + example → reason 2 + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: China's latest data show that high-tech exports are strong, but households are spending very little because the housing slump has made many families feel poorer. Some economists say the government should give money and security directly to families so they spend more. Others say it is better to keep investing in advanced industries and technology. If you were advising the government, which would you focus on, and why? (Wei says: I would focus on households. If people feel secure, for example with better pensions and health insurance, they will spend more, and shops and factories will benefit. An economy that depends only on exports is risky because other countries can buy less at any time.) (Sofia says: I think investing in advanced industries is wiser. Cash for families is spent once and then disappears, but new technology creates good jobs for many years. If young graduates find better jobs, they will start spending on their own.)",
+    "steps": [
+     "Choose a focus: households, advanced industries, or a balance.",
+     "Give one main reason with an example.",
+     "Respond to Wei or Sofia: agree with one point and challenge another.",
+     "End with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261117-3",
+   "topic": "Space",
+   "title": "Tilted and Restless: Solving the Puzzle of the Ice Giants' Magnetic Fields",
+   "dek": "A new computer model may explain why Uranus and Neptune have the strangest magnetic fields in the solar system. But how far can we trust a model built on two brief visits in the 1980s?",
+   "sources": [
+    {
+     "name": "ScienceDaily / University of Texas at Austin, Nov 15, 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+    },
+    {
+     "name": "Space.com, Nov 10, 2026",
+     "url": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune"
+    }
+   ],
+   "paras": [
+    "On Earth, a compass needle points roughly north because our planet's magnetic field is lined up fairly closely with the axis on which it spins, tilted by only about 11 degrees. When NASA's Voyager 2 spacecraft flew past Uranus in January 1986 and Neptune in August 1989, scientists expected to find something similar. Instead, they discovered two of the strangest magnetic fields in the solar system. Nearly four decades later, a new study published in the journal Communications Physics offers a possible explanation, along with a surprising prediction: these fields may change much faster than anyone thought.",
+    "To understand the puzzle, it helps to know how planets make magnetic fields. Deep inside Earth, a layer of molten iron flows and churns around the solid inner core. Because the moving metal conducts electricity, its motion generates electric currents, and those currents in turn produce a magnetic field. Scientists call this process a dynamo. Uranus and Neptune, known as ice giants, have no comparable iron ocean. Instead, much of their interior is thought to consist of water, ammonia and methane squeezed under enormous pressure and heat.",
+    "The fields that Voyager 2 measured looked nothing like Earth's. Uranus's magnetic field is tilted 59 degrees from its spin axis, and Neptune's is tilted 47 degrees. Even more oddly, neither field is centered on the middle of its planet; Uranus's appears shifted far toward the surface. One older idea linked Uranus's strange behavior to an ancient collision with an Earth-sized object, which may also explain why the planet spins on its side. That theory, however, cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field.",
+    "The new research, led by Chi Yan of the University of Texas at Austin with colleagues at UCLA, Imperial College London and Northumbria University, focuses on what happens to the planets' interiors with depth. Uranus is about 14.5 times as massive as Earth and Neptune about 17 times, so pressures inside them are crushing. \"Under these conditions, which can cause water molecules to break apart into ions, the material may become increasingly electrically conductive with depth,\" Yan explained. The team built computer simulations in which conductivity rises toward the center and found that these models could reproduce the unusual fields Voyager 2 recorded.",
+    "The simulations also produced a prediction. On Earth, the magnetic tilt drifts by only about a degree over 50 years. In the ice giant models, the behavior was far less steady: \"In some stretches the tilt swings by tens of degrees within decades,\" Yan said, while in other periods it hardly changes. If this is correct, the fields measured by Voyager 2 in the 1980s may look quite different today, and an observer returning to Uranus might find its magnetic poles in new places.",
+    "Not everyone would treat the model as settled, and the authors themselves are careful. Simulations depend on assumptions, and nobody knows exactly what the inside of Uranus or Neptune is made of. The model was also tuned to match data gathered during two brief flybys, each offering only a snapshot of a planet's field at one moment. A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.",
+    "Fortunately, there may be a way to test it without leaving Earth's neighborhood. Auroras — glowing lights produced when charged particles follow magnetic field lines into a planet's atmosphere — reveal where the magnetic poles lie. A team led by Tom Stallard of Northumbria University is analyzing James Webb Space Telescope images of auroras on both planets to check whether the poles have moved since the Voyager era. In the longer term, the researchers say, only a new spacecraft can fully verify the model. NASA has made a Uranus mission a priority for the early 2040s, and China's Tianwen-4 mission, due to launch toward Jupiter in 2029, is planned to release a small probe that will travel on to Uranus.",
+    "The puzzle matters beyond our own solar system. Planets roughly the size of Uranus and Neptune are among the most common types that astronomers have found orbiting other stars. Magnetic fields can shield a planet's atmosphere from streams of particles flowing out of its star, so understanding how ice giants generate theirs may help scientists judge which distant worlds could keep their atmospheres over billions of years. Two odd compass readings from the 1980s, in other words, may help explain planets we will never visit."
+   ],
+   "words": [
+    {
+     "w": "tilt",
+     "level": "Academic",
+     "pos": "n./v.",
+     "ipa": "/tɪlt/",
+     "syl": [
+      "tilt"
+     ],
+     "def": "an angle away from straight or upright; to lean or move at an angle",
+     "ex": "The slight tilt of the table made the pencil roll onto the floor."
+    },
+    {
+     "w": "dynamo",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈdaɪnəmoʊ/",
+     "syl": [
+      "dy",
+      "na",
+      "mo"
+     ],
+     "def": "a machine that produces electricity; in planets, the process by which moving, electrically conducting fluid creates a magnetic field",
+     "ex": "Scientists study the Moon's ancient rocks to learn whether it once had a dynamo."
+    },
+    {
+     "w": "ion",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈaɪən/",
+     "syl": [
+      "i",
+      "on"
+     ],
+     "def": "an atom or molecule that carries an electric charge because it has gained or lost electrons",
+     "ex": "When salt dissolves in water, each sodium ion carries a positive charge."
+    },
+    {
+     "w": "conductive",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/kənˈdʌktɪv/",
+     "syl": [
+      "con",
+      "duc",
+      "tive"
+     ],
+     "def": "able to carry electricity or heat",
+     "ex": "Copper is widely used in wires because it is highly conductive."
+    },
+    {
+     "w": "simulation",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌsɪmjuˈleɪʃn/",
+     "syl": [
+      "sim",
+      "u",
+      "la",
+      "tion"
+     ],
+     "def": "a computer model that imitates how a real system behaves",
+     "ex": "Pilots practice emergency landings in a flight simulation before flying real planes."
+    },
+    {
+     "w": "flyby",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈflaɪbaɪ/",
+     "syl": [
+      "fly",
+      "by"
+     ],
+     "def": "a flight in which a spacecraft passes close to a planet or moon without landing or orbiting it",
+     "ex": "The probe sent back sharp photos during its flyby of the icy moon."
+    },
+    {
+     "w": "plausible",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈplɔːzəbl/",
+     "syl": [
+      "plau",
+      "si",
+      "ble"
+     ],
+     "def": "seeming reasonable or likely to be true",
+     "ex": "Her excuse for being late sounded plausible, so the teacher accepted it."
+    },
+    {
+     "w": "aurora",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/əˈrɔːrə/",
+     "syl": [
+      "au",
+      "ro",
+      "ra"
+     ],
+     "def": "bright natural lights in a planet's sky, caused by charged particles hitting the atmosphere near the magnetic poles",
+     "ex": "Travelers visit northern Norway in winter hoping to see an aurora."
+    },
+    {
+     "w": "verify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈverɪfaɪ/",
+     "syl": [
+      "ver",
+      "i",
+      "fy"
+     ],
+     "def": "to check or prove that something is true or correct",
+     "ex": "Reporters must verify a story with two sources before publishing it."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Nearly four decades later, a new study published in the journal Communications Physics offers a possible explanation, along with a surprising prediction: these fields may change much faster than anyone thought.",
+     "kind": "Main idea",
+     "note": "The thesis of the passage: an explanation plus a prediction; \"possible\" and \"may\" signal caution."
+    },
+    {
+     "para": 2,
+     "text": "Because the moving metal conducts electricity, its motion generates electric currents, and those currents in turn produce a magnetic field.",
+     "kind": "Cause → effect",
+     "note": "A three-step chain (moving metal → currents → field); \"in turn\" marks the next step."
+    },
+    {
+     "para": 3,
+     "text": "Uranus's magnetic field is tilted 59 degrees from its spin axis, and Neptune's is tilted 47 degrees.",
+     "kind": "Key details",
+     "note": "Numbers that support the main idea; compare them with Earth's 11 degrees from paragraph 1."
+    },
+    {
+     "para": 4,
+     "text": "The team built computer simulations in which conductivity rises toward the center and found that these models could reproduce the unusual fields Voyager 2 recorded.",
+     "kind": "Topic sentence",
+     "note": "Method and result in one sentence; \"could reproduce\" is the key evidence for the new idea."
+    },
+    {
+     "para": 6,
+     "text": "A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.",
+     "kind": "Critical thinking",
+     "note": "The difference between \"plausible\" and \"confirmed\" is a core idea in scientific reasoning."
+    },
+    {
+     "para": 8,
+     "text": "Two odd compass readings from the 1980s, in other words, may help explain planets we will never visit.",
+     "kind": "Author's view",
+     "note": "\"In other words\" restates the significance; a memorable closing sentence."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word \"settled\" in paragraph 6 is closest in meaning to",
+     "opts": [
+      "accepted as certain",
+      "moved to a new home",
+      "calm and peaceful",
+      "paid in full"
+     ],
+     "a": 0,
+     "why": "To treat a model as \"settled\" is to accept it as certain; the paragraph goes on to contrast \"plausible\" with \"confirmed\".",
+     "evidence": "Not everyone would treat the model as settled",
+     "optWhy": [
+      "Correct. \"Treat the model as settled\" = accept it as certain; the paragraph contrasts a \"plausible\" model with one that \"has been confirmed\".",
+      "Another meaning of the word. People \"settle\" in a new place, but a model cannot move home.",
+      "Another meaning of the word. Weather or a mood can be \"settled\" (calm), but the paragraph is about certainty and evidence.",
+      "Another meaning of the word. A bill can be \"settled\" (paid), which has nothing to do with a scientific model."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Not everyone would treat the model as settled, and the authors themselves are careful.",
+       "hl": "treat the model as settled"
+      },
+      {
+       "para": 6,
+       "text": "A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.",
+       "hl": "confirmed by new ones"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "\"Settled\" describes \"the model\" in paragraph 6."
+      },
+      {
+       "t": "Use the context",
+       "x": "The paragraph is about doubt: \"careful\", \"assumptions\", \"plausible\" vs \"confirmed\"."
+      },
+      {
+       "t": "Test each option",
+       "x": "\"Accepted as certain\" fits; the others are meanings used with homes, moods and bills."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, why is the ancient collision idea not a complete explanation?",
+     "opts": [
+      "Voyager 2 found no evidence that Uranus actually spins on its side.",
+      "A collision of that size would have destroyed Uranus's magnetic field.",
+      "Neptune has a similarly odd field but shows no sign of a collision.",
+      "The collision happened too recently to change Uranus's deep interior."
+     ],
+     "a": 2,
+     "why": "The theory \"cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field\".",
+     "evidence": "cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field",
+     "optWhy": [
+      "Contradicts the text. The collision \"may also explain why the planet spins on its side\", so the sideways spin is accepted as real.",
+      "Not mentioned. The text never says a collision would destroy a magnetic field.",
+      "Correct. \"Cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field\" = \"Neptune has a similarly odd field but shows no sign of a collision\".",
+      "Not mentioned. The text calls it \"an ancient collision\"; nothing says it was too recent."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "One older idea linked Uranus's strange behavior to an ancient collision with an Earth-sized object, which may also explain why the planet spins on its side.",
+       "hl": "an ancient collision with an Earth-sized object"
+      },
+      {
+       "para": 3,
+       "text": "That theory, however, cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field.",
+       "hl": "cannot account for Neptune"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the signal word",
+       "x": "\"However\" in paragraph 3 introduces the problem with the collision theory."
+      },
+      {
+       "t": "Match the paraphrase",
+       "x": "\"Cannot account for Neptune ... similarly odd field\" matches option C."
+      },
+      {
+       "t": "Rule out",
+       "x": "A contradicts the sideways spin; B and D are never mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 7,
+     "q": "According to paragraph 7, all of the following could help test or confirm the new model EXCEPT:",
+     "opts": [
+      "Images of auroras taken by the James Webb Space Telescope",
+      "A lander that drills into Uranus to sample its deep interior",
+      "A NASA mission to Uranus planned for the early 2040s",
+      "A small probe released by China's Tianwen-4 mission"
+     ],
+     "a": 1,
+     "why": "Paragraph 7 mentions JWST aurora images, a NASA Uranus mission and a probe from Tianwen-4. A drilling lander is never mentioned.",
+     "evidence": "only a new spacecraft can fully verify the model",
+     "optWhy": [
+      "Mentioned. Stallard's team \"is analyzing James Webb Space Telescope images of auroras on both planets\".",
+      "Correct. The text says \"only a new spacecraft can fully verify the model\" but never mentions a lander drilling into the planet.",
+      "Mentioned. \"NASA has made a Uranus mission a priority for the early 2040s.\"",
+      "Mentioned. Tianwen-4 \"is planned to release a small probe that will travel on to Uranus\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "A team led by Tom Stallard of Northumbria University is analyzing James Webb Space Telescope images of auroras on both planets to check whether the poles have moved since the Voyager era.",
+       "hl": "James Webb Space Telescope images of auroras"
+      },
+      {
+       "para": 7,
+       "text": "In the longer term, the researchers say, only a new spacecraft can fully verify the model.",
+       "hl": "only a new spacecraft can fully verify the model"
+      },
+      {
+       "para": 7,
+       "text": "NASA has made a Uranus mission a priority for the early 2040s, and China's Tianwen-4 mission, due to launch toward Jupiter in 2029, is planned to release a small probe that will travel on to Uranus.",
+       "hl": "release a small probe that will travel on to Uranus"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the tests",
+       "x": "Paragraph 7: JWST aurora images, a NASA mission, a Tianwen-4 probe."
+      },
+      {
+       "t": "Tick off options",
+       "x": "A, C and D each match one item."
+      },
+      {
+       "t": "Find the odd one",
+       "x": "B turns \"a new spacecraft\" into a drilling lander, which the text never mentions."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5?",
+     "opts": [
+      "Earth's magnetic tilt changes faster than the tilts of the ice giants.",
+      "Voyager 2 must have measured the fields of both planets incorrectly.",
+      "Uranus's magnetic poles have definitely moved since the 1980s flyby.",
+      "Scientists should not assume Voyager 2's readings still describe the planets."
+     ],
+     "a": 3,
+     "why": "If the fields \"may look quite different today\", the 1980s readings cannot simply be assumed to describe the planets now.",
+     "evidence": "the fields measured by Voyager 2 in the 1980s may look quite different today",
+     "optWhy": [
+      "Comparison reversed. Earth's tilt \"drifts by only about a degree over 50 years\", while the ice giants' can swing \"by tens of degrees within decades\".",
+      "Unsupported. A field that changes later does not mean the original measurement was wrong.",
+      "Too certain. The text says \"If this is correct\" and \"may look quite different\"; nothing is definite.",
+      "Correct. Because the fields \"may look quite different today\", the Voyager 2 data might be out of date, so scientists cannot assume they still apply."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "On Earth, the magnetic tilt drifts by only about a degree over 50 years.",
+       "hl": "only about a degree over 50 years"
+      },
+      {
+       "para": 5,
+       "text": "If this is correct, the fields measured by Voyager 2 in the 1980s may look quite different today, and an observer returning to Uranus might find its magnetic poles in new places.",
+       "hl": "may look quite different today"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the prediction",
+       "x": "Paragraph 5: the tilt may swing \"by tens of degrees within decades\"."
+      },
+      {
+       "t": "Draw the logical step",
+       "x": "If the fields change quickly, 1980s data may no longer describe them today."
+      },
+      {
+       "t": "Rule out",
+       "x": "A reverses the comparison, B is unsupported, C ignores \"If\" and \"may\"."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author describe the molten iron inside Earth in paragraph 2?",
+     "opts": [
+      "To give a familiar example of a dynamo before contrasting it with the ice giants",
+      "To suggest that Uranus and Neptune also contain large oceans of molten iron",
+      "To prove that Earth's magnetic field is stronger than those of the ice giants",
+      "To explain why a compass needle on Earth points roughly toward the north"
+     ],
+     "a": 0,
+     "why": "The paragraph opens \"To understand the puzzle, it helps to know how planets make magnetic fields\", explains Earth's dynamo, then says the ice giants \"have no comparable iron ocean\".",
+     "evidence": "Uranus and Neptune, known as ice giants, have no comparable iron ocean.",
+     "optWhy": [
+      "Correct. \"To understand the puzzle, it helps to know how planets make magnetic fields\": Earth's dynamo is the familiar example, and \"Instead\" introduces the contrast with the ice giants.",
+      "Contradicts the text: the ice giants \"have no comparable iron ocean\".",
+      "Not mentioned. The paragraph never compares how strong the fields are.",
+      "True but not the purpose. The compass is mentioned in paragraph 1; paragraph 2 explains how fields are produced."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "To understand the puzzle, it helps to know how planets make magnetic fields.",
+       "hl": "it helps to know how planets make magnetic fields"
+      },
+      {
+       "para": 2,
+       "text": "Uranus and Neptune, known as ice giants, have no comparable iron ocean.",
+       "hl": "have no comparable iron ocean"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the first sentence",
+       "x": "\"To understand the puzzle, it helps to know...\" announces background information."
+      },
+      {
+       "t": "Follow the contrast",
+       "x": "\"Instead\" shows the Earth example is there to be compared with the ice giants."
+      },
+      {
+       "t": "Rule out",
+       "x": "B contradicts the text, C is not mentioned, D belongs to paragraph 1."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Critics might argue that the model is wrong because it was built using only old observations.",
+      "Matching old data makes the model believable, but it still needs to be confirmed by new observations.",
+      "Critics might argue that new observations will soon show the model to be completely implausible.",
+      "A model confirmed by new observations is less believable than one that matches old observations."
+     ],
+     "a": 1,
+     "why": "The sentence contrasts \"plausible\" (matches old data) with \"confirmed\" (tested by new data). B keeps both halves.",
+     "evidence": "it is not the same as a model that has been confirmed by new ones",
+     "optWhy": [
+      "Too extreme. The sentence calls the model \"plausible\", not wrong.",
+      "Correct. \"Reproduces old observations is plausible\" = \"matching old data makes the model believable\"; \"not the same as a model that has been confirmed by new ones\" = \"still needs to be confirmed by new observations\".",
+      "Not stated. The sentence makes no prediction about what new observations will show.",
+      "Comparison reversed. A model \"confirmed by new ones\" is the stronger kind, not the weaker one."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.",
+       "hl": "not the same as a model that has been confirmed by new ones"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break it into parts",
+       "x": "Part 1: matching old data = \"plausible\". Part 2: \"but\" = not yet confirmed by new data."
+      },
+      {
+       "t": "Keep the contrast",
+       "x": "The right answer must keep both \"believable\" and \"needs confirmation\"."
+      },
+      {
+       "t": "Rule out",
+       "x": "A turns plausible into wrong, C invents a prediction, D reverses the comparison."
+      }
+     ],
+     "highlight": "A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261117-3-k1",
+     "tag": "History",
+     "fact": "Voyager 2 flew past Uranus in 1986 and Neptune in 1989.",
+     "q": "When did Voyager 2 fly past Uranus?",
+     "opts": [
+      "1977",
+      "1986",
+      "2026"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-3-k2",
+     "tag": "Numbers",
+     "fact": "Uranus's field is tilted 59 degrees and Neptune's 47, compared with about 11 for Earth.",
+     "q": "How much is Uranus's magnetic field tilted?",
+     "opts": [
+      "11 degrees",
+      "47 degrees",
+      "59 degrees"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261117-3-k3",
+     "tag": "Explanation",
+     "fact": "The new model says conductivity rises with depth as water molecules break apart into ions.",
+     "q": "What does the new model say happens deeper inside the ice giants?",
+     "opts": [
+      "Material becomes more conductive",
+      "The planets become hollow",
+      "Iron oceans form"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261117-3-k4",
+     "tag": "Prediction",
+     "fact": "The models suggest the tilt can swing by tens of degrees within decades.",
+     "q": "What do the models predict about the ice giants' magnetic tilt?",
+     "opts": [
+      "It never changes",
+      "It can swing by tens of degrees within decades",
+      "It drifts one degree every 50 years"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261117-3-k5",
+     "tag": "Test",
+     "fact": "JWST images of auroras may show whether the magnetic poles have moved since Voyager 2.",
+     "q": "How might scientists test the model without leaving Earth's neighborhood?",
+     "opts": [
+      "Study auroras with JWST",
+      "Drill into Uranus",
+      "Use compasses on Earth"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Ice giant magnetism",
+    "question": "Can a model built on old data be trusted?",
+    "distractors": [
+     "Uranus has a molten iron ocean",
+     "astronauts will land on Neptune"
+    ],
+    "branches": [
+     {
+      "title": "The puzzle",
+      "paras": "1–3",
+      "blanks": [
+       "tilted 59 and 47 degrees",
+       "fields not centered"
+      ],
+      "kps": [
+       "n20261117-3-k1",
+       "n20261117-3-k2"
+      ]
+     },
+     {
+      "title": "New explanation",
+      "paras": "4",
+      "blanks": [
+       "water breaks apart into ions",
+       "conductivity rises with depth"
+      ],
+      "kps": [
+       "n20261117-3-k3"
+      ]
+     },
+     {
+      "title": "Prediction & doubts",
+      "paras": "5–6",
+      "blanks": [
+       "tilt swings within decades",
+       "tuned to two brief flybys"
+      ],
+      "kps": [
+       "n20261117-3-k4"
+      ]
+     },
+     {
+      "title": "Testing it",
+      "paras": "7–8",
+      "blanks": [
+       "JWST images of auroras",
+       "a Uranus mission in the 2040s"
+      ],
+      "kps": [
+       "n20261117-3-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A new study offers an explanation for the strange, tilted magnetic fields of Uranus and Neptune.",
+    "model": "Because conductivity may rise with depth inside Uranus and Neptune, simulations can reproduce their strange tilted fields. However, the model rests on old flyby data, so scientists hope JWST aurora images and future missions will test its prediction that the fields change quickly.",
+    "options": [
+     {
+      "t": "Voyager 2 found that both ice giants have strongly tilted, off-center fields that older theories could not fully explain.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "The fields that Voyager 2 measured looked nothing like Earth's.",
+      "why": "Correct. This is the puzzle. (paragraphs 1–3)"
+     },
+     {
+      "t": "Simulations in which conductivity rises with depth reproduce the fields and suggest they may change within decades.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "found that these models could reproduce the unusual fields Voyager 2 recorded",
+      "why": "Correct. This is the new explanation and prediction. (paragraphs 4–5)"
+     },
+     {
+      "t": "Because the model rests on limited data, scientists plan to test it with telescope images and future missions.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "only a new spacecraft can fully verify the model",
+      "why": "Correct. This covers the doubts and the tests. (paragraphs 6–7)"
+     },
+     {
+      "t": "Neptune is about 17 times as massive as Earth.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "Neptune about 17 times",
+      "why": "True, but a minor detail."
+     },
+     {
+      "t": "NASA plans to send astronauts to Uranus in the 2040s.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned: the text describes a robotic mission, not astronauts."
+     },
+     {
+      "t": "Earth's magnetic tilt swings by tens of degrees every few decades.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "On Earth, the magnetic tilt drifts by only about a degree over 50 years.",
+      "why": "Contradicts paragraph 5: Earth's tilt drifts only about a degree in 50 years."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think governments should spend large amounts of money exploring distant planets. Others think this money should be used to solve problems on Earth first. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (knowledge / technology) + example → reason 2 (cost / priorities) + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: Our reading today showed that our best data on Uranus and Neptune come from a single spacecraft that flew past them in the 1980s. NASA hopes to send a new mission to Uranus in the 2040s. Such a mission would cost billions of dollars and take more than ten years to arrive. Is it worth spending this much money to study a distant planet? Why or why not? (Aiden says: Yes. We still don't understand how one of the most common types of planet works, and a single flyby is not enough. Space missions also push engineers to invent new technology that later helps people on Earth.) (Priya says: I'm not sure. There are urgent problems here on Earth, like climate change and poverty, that need money now. Telescopes such as JWST can already study Uranus from far away for much less money.)",
+    "steps": [
+     "Decide your position: worth it, not worth it, or worth it with conditions.",
+     "Give one main reason with a specific example.",
+     "Respond to Aiden or Priya: agree with one point and challenge another.",
+     "End with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "In a conference room in Geneva this week, diplomats began to tackle a question that once belonged to science fiction: should a machine ever be allowed to decide, on its own, to kill a human being? On Monday, November 16, talks on lethal autonomous weapons systems, often called \"killer robots,\" opened at the Seventh Review Conference of the Convention on Certain Conventional Weapons (CCW), a treaty that has limited cruel or indiscriminate weapons for more than 40 years. The central issue is simple to state but hard to settle: whether governments should finally begin negotiating binding rules for these weapons.": "audio/2026-11-17/a1-p1.mp3",
+  "An autonomous weapon is different from the remote-controlled drones that have become common in recent wars. When a soldier flies a drone, a person still chooses the target and decides when to fire. An autonomous system, by contrast, can select and attack a target by itself once it has been activated, relying on sensors and software rather than a human operator. Because artificial intelligence and drone parts are becoming cheaper every year, many experts fear that such weapons could soon spread far beyond the world's largest militaries, a process known as proliferation.": "audio/2026-11-17/a1-p2.mp3",
+  "United Nations Secretary-General António Guterres used a video message to urge delegates from more than 120 countries to start negotiating a legally binding instrument with \"clear prohibitions and restrictions.\" The nature of warfare is changing, he argued, and new technologies raise humanitarian, legal, ethical and security challenges all at once. A few days earlier, the UN human rights chief, Volker Türk, had put the moral case even more bluntly: \"A machine must never have the power to decide whether a human being survives or dies.\"": "audio/2026-11-17/a1-p3.mp3",
+  "Supporters of new rules make several arguments. The first concerns judgment: a machine does not understand the value of human life and cannot read a complicated situation the way a trained soldier can, for example by recognizing that a person is trying to surrender. The second concerns accountability. If an autonomous weapon kills civilians by mistake, it is unclear who should be held responsible — the commander, the programmer, or the company that built it. Last month, seven countries, including Austria, Brazil, Mexico and New Zealand, proposed a new legally binding agreement, and the campaign group Stop Killer Robots says about 130 countries now support new international rules.": "audio/2026-11-17/a1-p4.mp3",
+  "Not every government agrees. According to the Associated Press, both the United States and Russia want to limit any restrictions on their ability to develop and deploy these systems, and Russia has described negotiations as \"premature.\" Skeptics also make arguments of their own. Existing international humanitarian law, they point out, already applies to every weapon, so a new treaty may be unnecessary. Some go further, suggesting that well-designed machines, which do not panic or seek revenge, might one day identify targets more precisely than exhausted human soldiers and therefore reduce civilian deaths. Others note that defining \"autonomy\" is difficult, since many existing defense systems already react faster than any person could.": "audio/2026-11-17/a1-p5.mp3",
+  "The structure of the CCW itself makes agreement harder. The treaty has 128 member states, and its decisions require consensus, which means that a single country can block any proposal. Supporters of a ban argue that this rule gives the most powerful militaries a veto over the rest of the world. Defenders of consensus reply that a treaty ignored by the countries that actually build these weapons would achieve little. History offers examples on both sides: when talks on landmines stalled in the 1990s, a group of countries moved outside the CCW and created the 1997 Ottawa Treaty, yet several major military powers never joined it.": "audio/2026-11-17/a1-p6.mp3",
+  "There is, however, a hopeful precedent. In 1995, CCW members agreed to ban blinding laser weapons before they were ever widely used on the battlefield, showing that governments can act ahead of a new technology rather than after a disaster. More recently, in December 2023, the UN General Assembly passed a resolution confirming that autonomous weapons must respect the laws of war, with 152 countries in favor, four against and 11 abstaining.": "audio/2026-11-17/a1-p7.mp3",
+  "Whatever happens in Geneva this week, the debate reaches beyond military strategy. It asks whether some decisions are so serious that they must always remain in human hands, even when a machine might be faster or, in some cases, more accurate. As the president of the International Committee of the Red Cross, Mirjana Spoljaric, put it, states must act \"to ensure the future of warfare is not handed over to machines.\" The difficult part is turning that principle into rules that every major power is willing to accept.": "audio/2026-11-17/a1-p8.mp3",
+  "autonomous": "audio/2026-11-17/a1-w-autonomous.mp3",
+  "The company is testing an autonomous delivery robot that can find its own way around the campus.": "audio/2026-11-17/a1-ex-autonomous.mp3",
+  "proliferation": "audio/2026-11-17/a1-w-proliferation.mp3",
+  "Experts warn that the proliferation of cheap drones makes it harder to protect airports.": "audio/2026-11-17/a1-ex-proliferation.mp3",
+  "binding": "audio/2026-11-17/a1-w-binding.mp3",
+  "Once both sides sign the contract, it becomes binding.": "audio/2026-11-17/a1-ex-binding.mp3",
+  "prohibition": "audio/2026-11-17/a1-w-prohibition.mp3",
+  "The new prohibition on phones in class took effect on Monday.": "audio/2026-11-17/a1-ex-prohibition.mp3",
+  "accountability": "audio/2026-11-17/a1-w-accountability.mp3",
+  "Citizens demanded greater accountability from the officials who managed the budget.": "audio/2026-11-17/a1-ex-accountability.mp3",
+  "deploy": "audio/2026-11-17/a1-w-deploy.mp3",
+  "The city plans to deploy more buses during the holiday rush.": "audio/2026-11-17/a1-ex-deploy.mp3",
+  "premature": "audio/2026-11-17/a1-w-premature.mp3",
+  "It is premature to celebrate before all the votes have been counted.": "audio/2026-11-17/a1-ex-premature.mp3",
+  "consensus": "audio/2026-11-17/a1-w-consensus.mp3",
+  "After a long discussion, the club reached a consensus on where to hold the trip.": "audio/2026-11-17/a1-ex-consensus.mp3",
+  "precedent": "audio/2026-11-17/a1-w-precedent.mp3",
+  "The court's decision set a precedent for similar cases in the future.": "audio/2026-11-17/a1-ex-precedent.mp3",
+  "The central issue is simple to state but hard to settle: whether governments should finally begin negotiating binding rules for these weapons.": "audio/2026-11-17/a1-ks1.mp3",
+  "An autonomous system, by contrast, can select and attack a target by itself once it has been activated, relying on sensors and software rather than a human operator.": "audio/2026-11-17/a1-ks2.mp3",
+  "If an autonomous weapon kills civilians by mistake, it is unclear who should be held responsible — the commander, the programmer, or the company that built it.": "audio/2026-11-17/a1-ks3.mp3",
+  "Existing international humanitarian law, they point out, already applies to every weapon, so a new treaty may be unnecessary.": "audio/2026-11-17/a1-ks4.mp3",
+  "The treaty has 128 member states, and its decisions require consensus, which means that a single country can block any proposal.": "audio/2026-11-17/a1-ks5.mp3",
+  "It asks whether some decisions are so serious that they must always remain in human hands, even when a machine might be faster or, in some cases, more accurate.": "audio/2026-11-17/a1-ks6.mp3",
+  "China's economy lost more momentum in October, according to official figures released on Monday, November 16, by the National Bureau of Statistics. Retail sales, the main measure of how much households spend in shops and online, rose just 0.4 percent from a year earlier, half the 0.8 percent that economists polled by Reuters had expected and down from 1.1 percent in September. Industrial output grew 4.8 percent, also below forecasts of 5.3 percent and slower than September's 5.5 percent.": "audio/2026-11-17/a2-p1.mp3",
+  "Investment looked even weaker. Fixed-asset investment, which counts spending on things such as factories, roads and buildings, fell 8.1 percent in the first ten months of the year compared with the same period in 2025, a worse result than analysts had predicted. Within that figure, property investment plunged 21.6 percent. There was one small piece of good news: the urban unemployment rate edged down to 5.1 percent from 5.2 percent. Economic growth for the third quarter had already slowed to 4.5 percent year on year.": "audio/2026-11-17/a2-p2.mp3",
+  "Taken together, the numbers describe what some economists call a two-speed economy. On one side, factories making advanced products are booming. Officials said that high-end and intelligent manufacturing produced more than half of the growth in industrial output during the first ten months of the year, and exports linked to artificial intelligence, such as electronic components and equipment, remain strong. On the other side, traditional industries that depend on Chinese consumers and the construction sector are struggling. Strong exports, Reuters noted, are masking weakness in the domestic economy.": "audio/2026-11-17/a2-p3.mp3",
+  "Why are households so cautious? The biggest reason is housing. For decades, buying an apartment was seen as the safest way for Chinese families to build wealth, so a large share of household savings is tied up in property. After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less. A soft job market adds to the worry, especially for young graduates. As a result, many households prefer to save rather than buy cars, appliances or holidays.": "audio/2026-11-17/a2-p4.mp3",
+  "This situation has produced a lively debate about what the government should do. One group of economists argues for stronger stimulus aimed directly at consumers. Lynn Song of the Dutch bank ING called the October figures \"a worrying start\" to the final quarter and said weak consumer confidence remained the main obstacle to recovery. In this view, measures such as larger pensions, better health insurance or cash support for families would give people the security they need to spend, which would in turn help the businesses that sell to them.": "audio/2026-11-17/a2-p5.mp3",
+  "Others expect, and in some cases prefer, a more cautious approach. Analysts at the Australian bank ANZ said they did not expect new stimulus before the end of the year, and they forecast that annual growth would still stay above 4.5 percent. Economists at Macquarie predicted that policymakers would do \"just enough\" to meet their growth target, adjusting the size of any support according to how much exports slow. Supporters of restraint point out that earlier rounds of spending on infrastructure left many local governments with heavy debts, and that pushing money into the economy too quickly can be wasteful.": "audio/2026-11-17/a2-p6.mp3",
+  "For their part, officials sounded confident. A statistics bureau spokesperson said exports would continue to support growth and that stronger policy support was coming. Beijing has recently introduced measures to channel cheaper credit into infrastructure and technology and to expand help for home buyers. These steps reflect a long-term goal: to move the economy away from construction and toward advanced industry. The open question is whether a strategy built on high-tech exports can succeed while consumers at home remain reluctant to spend.": "audio/2026-11-17/a2-p7.mp3",
+  "The answer matters far beyond China. As the world's second-largest economy and its biggest exporter of manufactured goods, China affects prices, jobs and trade from Germany to Brazil. If Chinese households spend more, other countries can sell more to them; if China instead relies on exports, its trading partners may face more competition, and possibly more trade disputes. In that sense, the reluctance of shoppers in Chinese cities is not only a domestic issue but a global one.": "audio/2026-11-17/a2-p8.mp3",
+  "momentum": "audio/2026-11-17/a2-w-momentum.mp3",
+  "The campaign gained momentum after several famous athletes joined it.": "audio/2026-11-17/a2-ex-momentum.mp3",
+  "year on year": "audio/2026-11-17/a2-w-year-on-year.mp3",
+  "Ticket sales rose 12 percent year on year in the first quarter.": "audio/2026-11-17/a2-ex-year-on-year.mp3",
+  "fixed-asset investment": "audio/2026-11-17/a2-w-fixed-asset-investment.mp3",
+  "Fixed-asset investment in the region rose after the new railway was approved.": "audio/2026-11-17/a2-ex-fixed-asset-investment.mp3",
+  "mask": "audio/2026-11-17/a2-w-mask.mp3",
+  "His cheerful smile could not mask how tired he felt.": "audio/2026-11-17/a2-ex-mask.mp3",
+  "slump": "audio/2026-11-17/a2-w-slump.mp3",
+  "The car industry is slowly recovering from last year's slump in sales.": "audio/2026-11-17/a2-ex-slump.mp3",
+  "stimulus": "audio/2026-11-17/a2-w-stimulus.mp3",
+  "Many economists believe a stimulus package could help small businesses survive the downturn.": "audio/2026-11-17/a2-ex-stimulus.mp3",
+  "obstacle": "audio/2026-11-17/a2-w-obstacle.mp3",
+  "Lack of money was the biggest obstacle to finishing the project.": "audio/2026-11-17/a2-ex-obstacle.mp3",
+  "restraint": "audio/2026-11-17/a2-w-restraint.mp3",
+  "The central bank showed restraint and left interest rates unchanged.": "audio/2026-11-17/a2-ex-restraint.mp3",
+  "channel": "audio/2026-11-17/a2-w-channel.mp3",
+  "The charity will channel all donations into building new schools.": "audio/2026-11-17/a2-ex-channel.mp3",
+  "China's economy lost more momentum in October, according to official figures released on Monday, November 16, by the National Bureau of Statistics.": "audio/2026-11-17/a2-ks1.mp3",
+  "Within that figure, property investment plunged 21.6 percent.": "audio/2026-11-17/a2-ks2.mp3",
+  "Strong exports, Reuters noted, are masking weakness in the domestic economy.": "audio/2026-11-17/a2-ks3.mp3",
+  "After a years-long slump in the housing market, many families feel poorer even if their incomes have not fallen, and people who feel poorer tend to spend less.": "audio/2026-11-17/a2-ks4.mp3",
+  "Supporters of restraint point out that earlier rounds of spending on infrastructure left many local governments with heavy debts, and that pushing money into the economy too quickly can be wasteful.": "audio/2026-11-17/a2-ks5.mp3",
+  "In that sense, the reluctance of shoppers in Chinese cities is not only a domestic issue but a global one.": "audio/2026-11-17/a2-ks6.mp3",
+  "On Earth, a compass needle points roughly north because our planet's magnetic field is lined up fairly closely with the axis on which it spins, tilted by only about 11 degrees. When NASA's Voyager 2 spacecraft flew past Uranus in January 1986 and Neptune in August 1989, scientists expected to find something similar. Instead, they discovered two of the strangest magnetic fields in the solar system. Nearly four decades later, a new study published in the journal Communications Physics offers a possible explanation, along with a surprising prediction: these fields may change much faster than anyone thought.": "audio/2026-11-17/a3-p1.mp3",
+  "To understand the puzzle, it helps to know how planets make magnetic fields. Deep inside Earth, a layer of molten iron flows and churns around the solid inner core. Because the moving metal conducts electricity, its motion generates electric currents, and those currents in turn produce a magnetic field. Scientists call this process a dynamo. Uranus and Neptune, known as ice giants, have no comparable iron ocean. Instead, much of their interior is thought to consist of water, ammonia and methane squeezed under enormous pressure and heat.": "audio/2026-11-17/a3-p2.mp3",
+  "The fields that Voyager 2 measured looked nothing like Earth's. Uranus's magnetic field is tilted 59 degrees from its spin axis, and Neptune's is tilted 47 degrees. Even more oddly, neither field is centered on the middle of its planet; Uranus's appears shifted far toward the surface. One older idea linked Uranus's strange behavior to an ancient collision with an Earth-sized object, which may also explain why the planet spins on its side. That theory, however, cannot account for Neptune, which shows no sign of such a collision yet has a similarly odd field.": "audio/2026-11-17/a3-p3.mp3",
+  "The new research, led by Chi Yan of the University of Texas at Austin with colleagues at UCLA, Imperial College London and Northumbria University, focuses on what happens to the planets' interiors with depth. Uranus is about 14.5 times as massive as Earth and Neptune about 17 times, so pressures inside them are crushing. \"Under these conditions, which can cause water molecules to break apart into ions, the material may become increasingly electrically conductive with depth,\" Yan explained. The team built computer simulations in which conductivity rises toward the center and found that these models could reproduce the unusual fields Voyager 2 recorded.": "audio/2026-11-17/a3-p4.mp3",
+  "The simulations also produced a prediction. On Earth, the magnetic tilt drifts by only about a degree over 50 years. In the ice giant models, the behavior was far less steady: \"In some stretches the tilt swings by tens of degrees within decades,\" Yan said, while in other periods it hardly changes. If this is correct, the fields measured by Voyager 2 in the 1980s may look quite different today, and an observer returning to Uranus might find its magnetic poles in new places.": "audio/2026-11-17/a3-p5.mp3",
+  "Not everyone would treat the model as settled, and the authors themselves are careful. Simulations depend on assumptions, and nobody knows exactly what the inside of Uranus or Neptune is made of. The model was also tuned to match data gathered during two brief flybys, each offering only a snapshot of a planet's field at one moment. A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.": "audio/2026-11-17/a3-p6.mp3",
+  "Fortunately, there may be a way to test it without leaving Earth's neighborhood. Auroras — glowing lights produced when charged particles follow magnetic field lines into a planet's atmosphere — reveal where the magnetic poles lie. A team led by Tom Stallard of Northumbria University is analyzing James Webb Space Telescope images of auroras on both planets to check whether the poles have moved since the Voyager era. In the longer term, the researchers say, only a new spacecraft can fully verify the model. NASA has made a Uranus mission a priority for the early 2040s, and China's Tianwen-4 mission, due to launch toward Jupiter in 2029, is planned to release a small probe that will travel on to Uranus.": "audio/2026-11-17/a3-p7.mp3",
+  "The puzzle matters beyond our own solar system. Planets roughly the size of Uranus and Neptune are among the most common types that astronomers have found orbiting other stars. Magnetic fields can shield a planet's atmosphere from streams of particles flowing out of its star, so understanding how ice giants generate theirs may help scientists judge which distant worlds could keep their atmospheres over billions of years. Two odd compass readings from the 1980s, in other words, may help explain planets we will never visit.": "audio/2026-11-17/a3-p8.mp3",
+  "tilt": "audio/2026-11-17/a3-w-tilt.mp3",
+  "The slight tilt of the table made the pencil roll onto the floor.": "audio/2026-11-17/a3-ex-tilt.mp3",
+  "dynamo": "audio/2026-11-17/a3-w-dynamo.mp3",
+  "Scientists study the Moon's ancient rocks to learn whether it once had a dynamo.": "audio/2026-11-17/a3-ex-dynamo.mp3",
+  "ion": "audio/2026-11-17/a3-w-ion.mp3",
+  "When salt dissolves in water, each sodium ion carries a positive charge.": "audio/2026-11-17/a3-ex-ion.mp3",
+  "conductive": "audio/2026-11-17/a3-w-conductive.mp3",
+  "Copper is widely used in wires because it is highly conductive.": "audio/2026-11-17/a3-ex-conductive.mp3",
+  "simulation": "audio/2026-11-17/a3-w-simulation.mp3",
+  "Pilots practice emergency landings in a flight simulation before flying real planes.": "audio/2026-11-17/a3-ex-simulation.mp3",
+  "flyby": "audio/2026-11-17/a3-w-flyby.mp3",
+  "The probe sent back sharp photos during its flyby of the icy moon.": "audio/2026-11-17/a3-ex-flyby.mp3",
+  "plausible": "audio/2026-11-17/a3-w-plausible.mp3",
+  "Her excuse for being late sounded plausible, so the teacher accepted it.": "audio/2026-11-17/a3-ex-plausible.mp3",
+  "aurora": "audio/2026-11-17/a3-w-aurora.mp3",
+  "Travelers visit northern Norway in winter hoping to see an aurora.": "audio/2026-11-17/a3-ex-aurora.mp3",
+  "verify": "audio/2026-11-17/a3-w-verify.mp3",
+  "Reporters must verify a story with two sources before publishing it.": "audio/2026-11-17/a3-ex-verify.mp3",
+  "Nearly four decades later, a new study published in the journal Communications Physics offers a possible explanation, along with a surprising prediction: these fields may change much faster than anyone thought.": "audio/2026-11-17/a3-ks1.mp3",
+  "Because the moving metal conducts electricity, its motion generates electric currents, and those currents in turn produce a magnetic field.": "audio/2026-11-17/a3-ks2.mp3",
+  "Uranus's magnetic field is tilted 59 degrees from its spin axis, and Neptune's is tilted 47 degrees.": "audio/2026-11-17/a3-ks3.mp3",
+  "The team built computer simulations in which conductivity rises toward the center and found that these models could reproduce the unusual fields Voyager 2 recorded.": "audio/2026-11-17/a3-ks4.mp3",
+  "A model that reproduces old observations is plausible, critics might argue, but it is not the same as a model that has been confirmed by new ones.": "audio/2026-11-17/a3-ks5.mp3",
+  "Two odd compass readings from the 1980s, in other words, may help explain planets we will never visit.": "audio/2026-11-17/a3-ks6.mp3"
+ }
+}
