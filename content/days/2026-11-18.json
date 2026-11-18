@@ -1,0 +1,2073 @@
+{
+ "date": "2026-11-18",
+ "headline": "Hidden cameras, glove-trained robots and a flickering headset: what to trust?",
+ "teaser": "Can an exam stay fair when AI fits in a button? Who should profit when workers teach robots? When is a promising result really proof?",
+ "articles": [
+  {
+   "id": "n20261118-1",
+   "topic": "Society",
+   "title": "Can an Exam Stay Fair When AI Fits in a Button?",
+   "dek": "Before the Suneung, South Korea is inspecting students' glasses and shirt buttons for AI cheating devices. Can tighter security protect fairness, or does the scandal show that exams themselves must change?",
+   "sources": [
+    {
+     "name": "The Korea Herald, Nov 17, 2026",
+     "url": "https://www.koreaherald.com/article/10940033"
+    },
+    {
+     "name": "The Korea Herald, Nov 16, 2026",
+     "url": "https://www.koreaherald.com/article/10938628"
+    },
+    {
+     "name": "The Telegraph via Yahoo News, Nov 16, 2026",
+     "url": "https://www.yahoo.com/news/world/articles/students-glasses-inspected-ai-cheating-132743263.html"
+    }
+   ],
+   "paras": [
+    "On Thursday, more than half a million South Korean students will sit the Suneung, the national college entrance exam that can shape their university choices, careers and, many believe, the rest of their lives. The exam is so important that flights are rescheduled during the listening test and police help late students reach their test centres. This year, however, the most talked-about preparation is not happening in classrooms. It is happening at the doors of exam rooms, where staff will examine students' glasses, watches, collars and even shirt buttons, looking for hidden cameras linked to AI.",
+    "The sudden alarm was triggered by a scandal in a different test. Han Won-seok, a 34-year-old who had come first in this year's national exam for tax accountants, admitted in a YouTube video that his score was not entirely his own. In both rounds of the exam, he said, he used a miniature camera to photograph the questions, sent the images to a generative AI system, and read the answers on a small screen. In the first round he answered 159 of 160 multiple-choice questions correctly. He apologised and was questioned by police on Tuesday. His confession raised an uncomfortable question: if one person could defeat a professional exam so easily, how many others had tried, and had anyone done it in the Suneung?",
+    "Online, some claimed that the answer was yes. An anonymous user on a popular Korean forum wrote that they had cheated on the 2024 Suneung with a camera disguised as a shirt button and later entered medical school. The claim could not be verified, and it may be false, but it spread quickly. A YouTuber with more than two million subscribers even urged the Education Ministry to postpone the exam, noting that it had been delayed before, after a 2017 earthquake and during the COVID-19 pandemic.",
+    "The government chose not to delay. Instead, at a Cabinet meeting two days before the exam, it announced a package of emergency measures. All smartphones and other smart devices will be switched off and collected, and simply possessing one during the test can be treated as cheating. Bags must stay outside exam rooms, and each of the country's 1,312 test centres will have staff assigned to spot smart glasses. The science ministry has been asked to study switching off public Wi-Fi at test sites, and officials are considering metal and radio-frequency detectors for future exams. Prime Minister Han Seong-sook described AI-assisted cheating as a \"social evil\", and lawmakers have proposed extending the exam ban for cheaters from one year to ten.",
+    "Supporters argue that strict rules are the only reasonable response. The Suneung matters precisely because it is seen as fair: every student answers the same questions under the same conditions, regardless of family wealth or connections. As one Hanyang University professor put it, if AI devices can compromise this exam, \"the issue goes far beyond a single act of cheating.\" From this perspective, inspecting glasses is a small inconvenience compared with the damage that a single proven case could do to public trust.",
+    "Critics, however, doubt that the measures will work. A teachers' union official said he did not think the plan was \"really an effective response\", and an education commentator warned that staff cannot reliably spot new smart glasses just by looking. Even Deputy Education Minister Choi Eun-ok acknowledged that it is \"not easy to detect 100 per cent of cheating without completely blocking communications.\" Each new rule, critics say, simply encourages cheaters to find smaller and better-hidden devices, creating an arms race that schools are unlikely to win.",
+    "A third group of educators believes the scandal points to a deeper problem. If an AI system can answer a test almost perfectly within seconds, they argue, the test may be measuring the kind of knowledge that machines already handle well, such as recalling facts and applying familiar procedures. Some suggest giving more weight to tasks that are harder to outsource, such as supervised essays, oral examinations or projects completed over time. Others reply that such assessments are expensive, harder to score consistently and more open to the advantages of wealthy families, which is exactly what a standardized exam was designed to prevent.",
+    "For now, the goal is simply to get through Thursday without a scandal, but the debate will not end when the exam does. Many countries, including China with its gaokao, rely on high-stakes exams to distribute limited university places in a way the public accepts as fair. South Korea's experience suggests that protecting that fairness may require more than better detectors; it may also require rethinking what an exam is meant to measure in an age when any student could, in theory, carry a genius in a button."
+   ],
+   "words": [
+    {
+     "w": "compromise",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈkɑːmprəmaɪz/",
+     "syl": [
+      "com",
+      "pro",
+      "mise"
+     ],
+     "def": "to weaken or damage something, such as its safety, quality or trustworthiness",
+     "ex": "Leaving passwords on sticky notes can compromise the security of the whole office."
+    },
+    {
+     "w": "verify",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˈverɪfaɪ/",
+     "syl": [
+      "ver",
+      "i",
+      "fy"
+     ],
+     "def": "to check or prove that something is true or correct",
+     "ex": "Before sharing the video, she tried to verify where and when it had been filmed."
+    },
+    {
+     "w": "postpone",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/poʊstˈpoʊn/",
+     "syl": [
+      "post",
+      "pone"
+     ],
+     "def": "to move an event to a later time",
+     "ex": "The school decided to postpone the sports day because heavy rain was forecast."
+    },
+    {
+     "w": "acknowledge",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/əkˈnɑːlɪdʒ/",
+     "syl": [
+      "ac",
+      "knowl",
+      "edge"
+     ],
+     "def": "to accept or admit that something is true or exists",
+     "ex": "The coach was willing to acknowledge that his tactics had not worked."
+    },
+    {
+     "w": "assessment",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/əˈsesmənt/",
+     "syl": [
+      "as",
+      "sess",
+      "ment"
+     ],
+     "def": "a test or other method used to judge someone's ability or knowledge",
+     "ex": "Our final assessment includes a group project as well as a written exam."
+    },
+    {
+     "w": "high-stakes",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌhaɪ ˈsteɪks/",
+     "syl": [
+      "high",
+      "stakes"
+     ],
+     "def": "having very important results, so that success or failure matters a great deal",
+     "ex": "A driving test can feel like a high-stakes moment for a nervous teenager."
+    },
+    {
+     "w": "standardized",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˈstændərdaɪzd/",
+     "syl": [
+      "stan",
+      "dard",
+      "ized"
+     ],
+     "def": "made the same for everyone, so that results can be compared fairly",
+     "ex": "Many universities ask applicants for a standardized test score."
+    },
+    {
+     "w": "miniature",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˈmɪniətʃər/",
+     "syl": [
+      "min",
+      "i",
+      "a",
+      "ture"
+     ],
+     "def": "very small; a much smaller version of something",
+     "ex": "The museum displays a miniature model of the ancient city."
+    },
+    {
+     "w": "outsource",
+     "level": "Topic term",
+     "pos": "v.",
+     "ipa": "/ˈaʊtsɔːrs/",
+     "syl": [
+      "out",
+      "source"
+     ],
+     "def": "to have a task done by someone or something else instead of doing it yourself",
+     "ex": "Students should not outsource their thinking to a chatbot."
+    },
+    {
+     "w": "confession",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/kənˈfeʃn/",
+     "syl": [
+      "con",
+      "fes",
+      "sion"
+     ],
+     "def": "a statement in which someone admits that they have done something wrong",
+     "ex": "His confession surprised the teachers, who had trusted him completely."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "This year, however, the most talked-about preparation is not happening in classrooms.",
+     "kind": "Topic sentence",
+     "note": "\"However\" turns from the usual exam story to the new issue: security at the exam room door."
+    },
+    {
+     "para": 2,
+     "text": "His confession raised an uncomfortable question: if one person could defeat a professional exam so easily, how many others had tried, and had anyone done it in the Suneung?",
+     "kind": "Cause → effect",
+     "note": "It links the tax-exam scandal (cause) to fear about the Suneung (effect), the bridge for the whole passage."
+    },
+    {
+     "para": 4,
+     "text": "Instead, at a Cabinet meeting two days before the exam, it announced a package of emergency measures.",
+     "kind": "Key details",
+     "note": "\"Instead\" contrasts the measures with postponement; TOEFL often tests such contrast words."
+    },
+    {
+     "para": 5,
+     "text": "The Suneung matters precisely because it is seen as fair: every student answers the same questions under the same conditions, regardless of family wealth or connections.",
+     "kind": "Main idea",
+     "note": "This is the supporters' core reason; the colon introduces the explanation of \"fair\"."
+    },
+    {
+     "para": 6,
+     "text": "Each new rule, critics say, simply encourages cheaters to find smaller and better-hidden devices, creating an arms race that schools are unlikely to win.",
+     "kind": "Critical thinking",
+     "note": "The \"arms race\" metaphor sums up the critics' view that security alone cannot win."
+    },
+    {
+     "para": 7,
+     "text": "A third group of educators believes the scandal points to a deeper problem.",
+     "kind": "Topic sentence",
+     "note": "It introduces a third viewpoint, a common TOEFL structure: problem, two sides, deeper perspective."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word \"compromise\" in paragraph 5 is closest in meaning to",
+     "opts": [
+      "reach an agreement on",
+      "undermine",
+      "expose",
+      "postpone"
+     ],
+     "a": 1,
+     "why": "To \"compromise this exam\" = to undermine it; the paragraph links this to \"the damage that a single proven case could do to public trust\".",
+     "evidence": "if AI devices can compromise this exam, \"the issue goes far beyond a single act of cheating.\"",
+     "optWhy": [
+      "Another meaning of the word. \"Compromise\" can mean to reach an agreement, but the subject is \"AI devices\" and the object is \"this exam\"; devices cannot negotiate, they can only damage the exam.",
+      "Correct. To \"compromise this exam\" = to undermine it; the paragraph links this to \"the damage that a single proven case could do to public trust\".",
+      "Meaning shifted. \"Expose\" means to reveal something hidden, but the sentence is about AI devices weakening the exam's fairness, not revealing it.",
+      "Borrowed from another paragraph. \"Postpone\" appears in paragraph 3 (\"urged the Education Ministry to postpone the exam\"), but it has nothing to do with what devices could do to the exam."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "As one Hanyang University professor put it, if AI devices can compromise this exam, \"the issue goes far beyond a single act of cheating.\"",
+       "hl": "compromise this exam"
+      },
+      {
+       "para": 5,
+       "text": "From this perspective, inspecting glasses is a small inconvenience compared with the damage that a single proven case could do to public trust.",
+       "hl": "the damage"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "Find \"compromise\" in paragraph 5; its subject is \"AI devices\" and its object is \"this exam\"."
+      },
+      {
+       "t": "Use the context",
+       "x": "The next sentence talks about \"damage\" to \"public trust\", so the word must mean harm or weaken."
+      },
+      {
+       "t": "Test each option",
+       "x": "\"Undermine this exam\" fits; \"reach an agreement on this exam\" makes no sense with devices as the subject."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, how did Han Won-seok cheat on the tax accountant exam?",
+     "opts": [
+      "He obtained the questions in advance from one of the people who wrote them.",
+      "He wore AI-powered glasses that read each question aloud to him.",
+      "He photographed the questions and sent them to a friend who solved them.",
+      "He sent photos of the questions to an AI system and read its answers on a screen."
+     ],
+     "a": 3,
+     "why": "\"Photograph the questions, sent the images to a generative AI system, and read the answers on a small screen\" = sent photos to an AI system and read its answers on a screen.",
+     "evidence": "he used a miniature camera to photograph the questions, sent the images to a generative AI system, and read the answers on a small screen",
+     "optWhy": [
+      "Not mentioned. The paragraph never says he got the questions early; it says he photographed them during the exam with \"a miniature camera\".",
+      "Detail swapped. Smart glasses are what staff will check in paragraphs 1 and 4; Han used \"a miniature camera\" and \"a small screen\".",
+      "Detail swapped. He \"sent the images to a generative AI system\", not to another person.",
+      "Correct. \"Photograph the questions, sent the images to a generative AI system, and read the answers on a small screen\" = sent photos to an AI system and read its answers on a screen."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "In both rounds of the exam, he said, he used a miniature camera to photograph the questions, sent the images to a generative AI system, and read the answers on a small screen.",
+       "hl": "sent the images to a generative AI system"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Go to paragraph 2 and look for the sentence that describes what Han did \"in both rounds\"."
+      },
+      {
+       "t": "Match the three steps",
+       "x": "The method has three parts: camera, AI system, small screen; the answer must include all of them."
+      },
+      {
+       "t": "Rule out swaps",
+       "x": "Reject options that replace the AI with a friend or the camera with glasses."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "All of the following are measures described in paragraph 4 EXCEPT",
+     "opts": [
+      "postponing the exam until new detectors can be installed",
+      "collecting smart devices after they have been switched off",
+      "keeping students' bags outside the exam rooms",
+      "assigning staff at each test centre to spot smart glasses"
+     ],
+     "a": 0,
+     "why": "This is NOT a measure: the paragraph begins \"The government chose not to delay\", and detectors are only being considered \"for future exams\".",
+     "evidence": "The government chose not to delay.",
+     "optWhy": [
+      "Correct. This is NOT a measure: the paragraph begins \"The government chose not to delay\", and detectors are only being considered \"for future exams\".",
+      "Mentioned: \"All smartphones and other smart devices will be switched off and collected\".",
+      "Mentioned: \"Bags must stay outside exam rooms\".",
+      "Mentioned: \"each of the country's 1,312 test centres will have staff assigned to spot smart glasses\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The government chose not to delay.",
+       "hl": "chose not to delay"
+      },
+      {
+       "para": 4,
+       "text": "The science ministry has been asked to study switching off public Wi-Fi at test sites, and officials are considering metal and radio-frequency detectors for future exams.",
+       "hl": "for future exams"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the measures",
+       "x": "Read paragraph 4 and note each measure: collect devices, bags outside, staff for glasses, Wi-Fi study, future detectors."
+      },
+      {
+       "t": "Check each option",
+       "x": "Tick the three options that match the list."
+      },
+      {
+       "t": "Find the contradiction",
+       "x": "\"Postponing the exam\" contradicts \"The government chose not to delay\", so it is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the anonymous user's claim?",
+     "opts": [
+      "It proved that cheating had been common in the 2024 Suneung.",
+      "It persuaded the Education Ministry to postpone this year's exam.",
+      "It increased public concern even though it might not be true.",
+      "It was posted by the same person who cheated on the tax exam."
+     ],
+     "a": 2,
+     "why": "\"Could not be verified, and it may be false, but it spread quickly\" = it raised concern although it might not be true.",
+     "evidence": "The claim could not be verified, and it may be false, but it spread quickly.",
+     "optWhy": [
+      "Too extreme. The claim \"could not be verified\", so it proved nothing, and it describes only one person, not common cheating.",
+      "Contradicts the passage. Paragraph 4 says \"The government chose not to delay.\"",
+      "Correct. \"Could not be verified, and it may be false, but it spread quickly\" = it raised concern although it might not be true.",
+      "Not supported. Han is the tax-exam cheater from paragraph 2; the forum user is \"anonymous\" and is never linked to him."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "The claim could not be verified, and it may be false, but it spread quickly.",
+       "hl": "may be false, but it spread quickly"
+      },
+      {
+       "para": 4,
+       "text": "The government chose not to delay.",
+       "hl": "chose not to delay"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the claim",
+       "x": "In paragraph 3, the anonymous user says they cheated on the 2024 Suneung with a button camera."
+      },
+      {
+       "t": "Read the writer's comment",
+       "x": "\"Could not be verified\" + \"spread quickly\" shows doubt about truth but growing worry."
+      },
+      {
+       "t": "Check the other options",
+       "x": "Paragraph 4 rules out postponement, and nothing links the user to Han."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention Deputy Education Minister Choi Eun-ok in paragraph 6?",
+     "opts": [
+      "To show that the government has fully rejected the critics' arguments",
+      "To show that even an official admits the limits of the new measures",
+      "To explain why the government decided to switch off public Wi-Fi",
+      "To give an example of an official who wanted to postpone the exam"
+     ],
+     "a": 1,
+     "why": "\"Even ... acknowledged\" signals that an official admits the measures cannot catch all cheating, which strengthens the critics' point.",
+     "evidence": "Even Deputy Education Minister Choi Eun-ok acknowledged that it is \"not easy to detect 100 per cent of cheating without completely blocking communications.\"",
+     "optWhy": [
+      "Opposite of the purpose. Her words support the critics: she admits cheating is \"not easy to detect 100 per cent\".",
+      "Correct. \"Even ... acknowledged\" signals that an official admits the measures cannot catch all cheating, which strengthens the critics' point.",
+      "Detail distorted. Paragraph 4 says only that the ministry was asked to \"study\" switching off Wi-Fi; no decision was made, and Choi's quote is not about it.",
+      "Not mentioned. The only call to postpone came from a YouTuber in paragraph 3, not an official."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Critics, however, doubt that the measures will work.",
+       "hl": "doubt that the measures will work"
+      },
+      {
+       "para": 6,
+       "text": "Even Deputy Education Minister Choi Eun-ok acknowledged that it is \"not easy to detect 100 per cent of cheating without completely blocking communications.\"",
+       "hl": "Even Deputy Education Minister Choi Eun-ok acknowledged"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Identify the paragraph's point",
+       "x": "Paragraph 6 opens with \"Critics, however, doubt that the measures will work.\""
+      },
+      {
+       "t": "Notice the signal word",
+       "x": "\"Even\" shows that an unexpected person, a government official, agrees with part of the criticism."
+      },
+      {
+       "t": "Choose the function",
+       "x": "The mention supports the critics by showing an official admits the limits."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "They argue that a test an AI can ace quickly may be assessing skills machines already have.",
+      "They argue that AI should be used to mark students' tests because it works within seconds.",
+      "They argue that students who recall facts quickly are probably using AI during their tests.",
+      "They argue that machines cannot recall facts or follow procedures as well as students can."
+     ],
+     "a": 0,
+     "why": "\"Answer a test almost perfectly within seconds\" = ace it quickly, and \"knowledge that machines already handle well\" = skills machines already have.",
+     "evidence": "the test may be measuring the kind of knowledge that machines already handle well",
+     "optWhy": [
+      "Correct. \"Answer a test almost perfectly within seconds\" = ace it quickly, and \"knowledge that machines already handle well\" = skills machines already have.",
+      "Meaning changed. The sentence is about what a test measures, not about using AI to mark tests.",
+      "Wrong logic. The sentence criticizes the test's content; it does not accuse fast students of cheating.",
+      "Contradiction. The sentence says machines \"already handle well\" recalling facts and procedures."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "If an AI system can answer a test almost perfectly within seconds, they argue, the test may be measuring the kind of knowledge that machines already handle well, such as recalling facts and applying familiar procedures.",
+       "hl": "knowledge that machines already handle well"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Condition: AI can answer the test perfectly and quickly; result: the test may measure what machines already do well."
+      },
+      {
+       "t": "Keep the core, drop examples",
+       "x": "\"Such as recalling facts...\" is only an example, so the answer need not include it."
+      },
+      {
+       "t": "Reject changed meanings",
+       "x": "Options about marking, accusing students or machines being weaker change the meaning."
+      }
+     ],
+     "highlight": "If an AI system can answer a test almost perfectly within seconds, they argue, the test may be measuring the kind of knowledge that machines already handle well, such as recalling facts and applying familiar procedures."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261118-1-k1",
+     "tag": "Event",
+     "fact": "More than half a million students sit South Korea's Suneung college entrance exam on Thursday, November 19.",
+     "q": "About how many students take this year's Suneung?",
+     "opts": [
+      "About 50,000",
+      "More than 500,000",
+      "About 5 million"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-1-k2",
+     "tag": "Cause",
+     "fact": "The alarm began when the top scorer of the tax accountant exam admitted using a hidden camera and generative AI.",
+     "q": "What triggered the new security measures?",
+     "opts": [
+      "A cheating scandal in a tax accountant exam",
+      "A leak of Suneung questions",
+      "An earthquake in Pohang"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261118-1-k3",
+     "tag": "Measures",
+     "fact": "Smart devices will be collected, bags kept outside, and staff at all 1,312 test centres will check for smart glasses.",
+     "q": "How many test centres will have staff checking for smart glasses?",
+     "opts": [
+      "16",
+      "1,312",
+      "500,000"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-1-k4",
+     "tag": "Debate",
+     "fact": "Critics fear an \"arms race\": each rule pushes cheaters toward smaller, better-hidden devices.",
+     "q": "What do critics mean by an \"arms race\"?",
+     "opts": [
+      "Cheaters keep finding smaller devices as rules tighten",
+      "Schools are buying weapons",
+      "Countries compete for top exam scores"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261118-1-k5",
+     "tag": "Deeper issue",
+     "fact": "Some educators say if AI can ace a test in seconds, the test may measure what machines already do well.",
+     "q": "What deeper problem do some educators see?",
+     "opts": [
+      "Exams are too long",
+      "Tests may measure skills machines already have",
+      "Students sleep too little"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AI and exam fairness",
+    "question": "Can security alone keep a high-stakes exam fair?",
+    "distractors": [
+     "the exam was postponed by a week",
+     "teachers support every new measure"
+    ],
+    "branches": [
+     {
+      "title": "The trigger",
+      "paras": "1–3",
+      "blanks": [
+       "tax exam top scorer confessed",
+       "unverified claim spread online"
+      ],
+      "kps": [
+       "n20261118-1-k1",
+       "n20261118-1-k2"
+      ]
+     },
+     {
+      "title": "New measures",
+      "paras": "4",
+      "blanks": [
+       "devices switched off and collected",
+       "staff check for smart glasses"
+      ],
+      "kps": [
+       "n20261118-1-k3"
+      ]
+     },
+     {
+      "title": "For and against",
+      "paras": "5–6",
+      "blanks": [
+       "fairness protects public trust",
+       "an arms race schools can't win"
+      ],
+      "kps": [
+       "n20261118-1-k4"
+      ]
+     },
+     {
+      "title": "Deeper question",
+      "paras": "7–8",
+      "blanks": [
+       "tasks harder to outsource",
+       "what should exams measure"
+      ],
+      "kps": [
+       "n20261118-1-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "Ahead of the Suneung, South Korea has introduced strict measures against AI-assisted cheating after a scandal in another national exam.",
+    "model": "Because a tax-exam winner admitted cheating with AI, South Korea is collecting devices and checking glasses before the Suneung. However, critics doubt such rules can win an arms race, while some educators argue exams should measure what AI cannot easily do.",
+    "options": [
+     {
+      "t": "A confession of AI-assisted cheating in a professional exam caused fear that the Suneung could also be cheated.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "His confession raised an uncomfortable question",
+      "why": "Correct. This is the cause of the whole story. (paragraphs 2–3)"
+     },
+     {
+      "t": "The government responded with strict security measures, which supporters say protect the exam's fairness but critics doubt will work.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "it announced a package of emergency measures",
+      "why": "Correct. This covers the measures and both reactions. (paragraphs 4–6)"
+     },
+     {
+      "t": "Some educators argue that exams may need to change what they measure, although alternatives have their own drawbacks.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "A third group of educators believes the scandal points to a deeper problem.",
+      "why": "Correct. This is the deeper perspective. (paragraphs 7–8)"
+     },
+     {
+      "t": "The tax accountant answered 159 of 160 first-round questions correctly.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "In the first round he answered 159 of 160 multiple-choice questions correctly.",
+      "why": "True, but a minor detail."
+     },
+     {
+      "t": "Several Suneung test-takers were caught with smart glasses last year.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The government decided to postpone the exam until detectors were ready.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "The government chose not to delay.",
+      "why": "Contradicts the passage: the government chose not to delay."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think a single national exam is the fairest way to decide university admission. Others think universities should also use essays, interviews and long-term projects. Which approach do you prefer, and why?",
+    "hint": "State your view → reason 1 (fairness / equal conditions) + example → reason 2 (what the method really measures) + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week South Korea introduced strict security measures, including checking students' glasses and shirt buttons, to stop AI-assisted cheating in its national college entrance exam. Some people say these measures are necessary to protect fairness; others say they treat every student as a suspect and will not stop determined cheaters. In your opinion, what is the best way for schools to deal with the risk of AI cheating in important exams? (Mina says: Strict security is the only realistic answer. A national exam is fair only if everyone follows the same rules, so checking devices and punishing cheaters severely protects honest students. A few minutes of inspection is a small price to pay.) (Daniel says: I think security alone will fail, because the devices keep getting smaller. Schools should change the exams themselves, for example by adding supervised essays or oral tests that an AI hidden in a button cannot easily answer.)",
+    "steps": [
+     "Decide your position: stricter security, new types of exams, or a mix.",
+     "Give one main reason, such as fairness or the limits of detection.",
+     "Respond to Mina or Daniel: agree with one point and challenge another.",
+     "Finish with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261118-2",
+   "topic": "Technology",
+   "title": "Workers in Sensor Gloves Are Teaching Robots to Use Their Hands",
+   "dek": "A robotics start-up has raised $500 million to give machines human-like hands, using data recorded from workers' gloves. Is this the breakthrough robots need, and who benefits from the skills it captures?",
+   "sources": [
+    {
+     "name": "TechCrunch, Nov 17, 2026",
+     "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+    },
+    {
+     "name": "Forbes, Nov 17, 2026",
+     "url": "https://www.forbes.com/sites/johnkoetsier/2026/11/17/genesis-ai-raised-500-million-to-create-human-level-robot-hands/"
+    },
+    {
+     "name": "Genesis AI press release (PR Newswire), Nov 17, 2026",
+     "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
+    }
+   ],
+   "paras": [
+    "Ask a computer to play chess and it will probably beat you. Ask a robot to fold a T-shirt, peel a sticker off a roll or tie a knot, and it will probably fail. Scientists call this puzzle Moravec's paradox: tasks that feel difficult to humans, such as calculation, are often easy for computers, while tasks that feel effortless, such as using our hands, are extremely hard for them. This week, a young American company called Genesis AI announced that investors had given it $500 million to solve this problem, valuing the company at $3.5 billion. Its strategy depends on an unusual source of knowledge: ordinary workers wearing special gloves.",
+    "The reason dexterity is so difficult for machines is partly mechanical and partly a matter of data. A human hand combines dozens of joints with thousands of touch sensors, constantly adjusting its grip without conscious thought. AI chatbots became powerful by learning from enormous amounts of text on the internet, but there is no comparable library of touch. Almost nobody has recorded, in precise numbers, how hard a person presses when lifting an egg or how their fingers move when threading a cable. As Genesis puts it, most human physical skills have simply never been written down.",
+    "To fill that gap, the company has given sensor-equipped gloves and head-mounted cameras to more than 100 workers around the world. As they do their normal jobs, the gloves record the movement of each finger and the force it applies, while the cameras capture what the workers see. The robots then wear the same kind of glove, and their mechanical hands are built to match human proportions, so that a movement recorded on a person can be transferred directly to a machine. Genesis also uses computer simulation, based on a physics method co-developed by one of its advisers, to generate millions of additional practice examples.",
+    "In a demonstration for journalists, robotic arms running the company's software packed items into a box, sealed it with tape and attached a label. On a second attempt, however, a robot dropped a box and struggled to peel a small label from its backing. Rather than hiding these errors, the company described them as \"hiccup data\", mistakes that can be fed back into the model so it learns to recover. Its chief executive, Zhou Xian, believes that the quality of data matters far more than clever design: he estimates that the model's architecture contributes \"maybe 10%\" of the final result. \"We have all the recipes,\" he said. \"It's just about execution.\"",
+    "Supporters see enormous potential. Many countries face shortages of workers for repetitive, tiring or dangerous jobs, from sorting parcels in warehouses to handling samples in laboratories. Genesis plans to start with factories, logistics and labs, and later move into hotels, healthcare and eventually homes. Its main robot, called Eno, has a wheeled base and two arms, and each of its hands can move in 20 independent, motor-driven ways. Investors including the chipmakers Nvidia and AMD clearly believe that whoever teaches robots to use their hands will unlock a huge market.",
+    "Skeptics urge caution. Robotics has what one technology writer calls a \"demo problem\": impressive videos can be sped up, carefully selected or secretly controlled by a human operator. The company itself admits that its robotic hands currently last only a few weeks of regular work before they need replacing, and it has built only 30 to 40 Eno robots so far. One rival founder claimed that there are \"literally zero robot hands deployed right now doing routine work.\" Until robots perform reliably for months in real workplaces, he and others argue, the technology remains a promise rather than a product.",
+    "There is also an ethical question that the funding announcement did not address. The workers wearing the gloves are, in effect, teaching machines to do jobs like their own. Reports on the deal did not explain how these workers are paid for their data or what control they have over recordings of their movements. Some economists argue that such technology will free people from exhausting physical labour and create new kinds of work; others worry that the benefits will flow mainly to companies and investors, while the people whose skills made the robots possible receive little in return.",
+    "The story of Genesis therefore raises a question that reaches beyond one company. As AI moves from screens into the physical world, human skill itself becomes valuable training material. Whether that leads to safer, easier work for everyone or simply to cheaper machines may depend less on how clever the robots become and more on the rules societies set for who owns, and profits from, the knowledge in our hands."
+   ],
+   "words": [
+    {
+     "w": "paradox",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˈpærədɑːks/",
+     "syl": [
+      "par",
+      "a",
+      "dox"
+     ],
+     "def": "a situation or statement that seems impossible because it contains two opposite facts, but may still be true",
+     "ex": "It is a paradox that the more choices we have, the harder it can be to feel satisfied."
+    },
+    {
+     "w": "comparable",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈkɑːmpərəbl/",
+     "syl": [
+      "com",
+      "pa",
+      "ra",
+      "ble"
+     ],
+     "def": "similar in size, amount or quality, so that two things can reasonably be compared",
+     "ex": "Electric cars now have a range comparable to that of petrol cars."
+    },
+    {
+     "w": "proportion",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/prəˈpɔːrʃn/",
+     "syl": [
+      "pro",
+      "por",
+      "tion"
+     ],
+     "def": "the correct relationship in size between the different parts of something",
+     "ex": "The artist studied the proportion of the head to the body before drawing the figure."
+    },
+    {
+     "w": "deploy",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/dɪˈplɔɪ/",
+     "syl": [
+      "de",
+      "ploy"
+     ],
+     "def": "to put people or equipment into use for a particular purpose",
+     "ex": "The city plans to deploy more buses on the busiest routes next year."
+    },
+    {
+     "w": "ethical",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ˈeθɪkl/",
+     "syl": [
+      "eth",
+      "i",
+      "cal"
+     ],
+     "def": "connected with beliefs about what is morally right and wrong",
+     "ex": "Is it ethical to use people's online photos to train an AI system without asking them?"
+    },
+    {
+     "w": "dexterity",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/dekˈsterəti/",
+     "syl": [
+      "dex",
+      "ter",
+      "i",
+      "ty"
+     ],
+     "def": "skill in using the hands to do things quickly and precisely",
+     "ex": "Playing the violin well requires great dexterity in both hands."
+    },
+    {
+     "w": "simulation",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌsɪmjuˈleɪʃn/",
+     "syl": [
+      "sim",
+      "u",
+      "la",
+      "tion"
+     ],
+     "def": "a computer model that imitates a real situation so it can be studied or practised safely",
+     "ex": "Pilots train in a flight simulation before they fly a real plane."
+    },
+    {
+     "w": "architecture",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈɑːrkɪtektʃər/",
+     "syl": [
+      "ar",
+      "chi",
+      "tec",
+      "ture"
+     ],
+     "def": "(in computing) the overall design and structure of a system or AI model",
+     "ex": "The engineers changed the architecture of the app so that it could handle more users."
+    },
+    {
+     "w": "skeptic",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈskeptɪk/",
+     "syl": [
+      "skep",
+      "tic"
+     ],
+     "def": "a person who doubts that a claim is true until they see strong evidence",
+     "ex": "Even a skeptic had to admit that the new battery performed well in the test."
+    },
+    {
+     "w": "execution",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˌeksɪˈkjuːʃn/",
+     "syl": [
+      "ex",
+      "e",
+      "cu",
+      "tion"
+     ],
+     "def": "the process of carrying out a plan or idea in practice",
+     "ex": "The plan was clever, but its execution was poor."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Its strategy depends on an unusual source of knowledge: ordinary workers wearing special gloves.",
+     "kind": "Main idea",
+     "note": "It states the passage's focus; the colon reveals the surprising \"source of knowledge\"."
+    },
+    {
+     "para": 2,
+     "text": "AI chatbots became powerful by learning from enormous amounts of text on the internet, but there is no comparable library of touch.",
+     "kind": "Cause → effect",
+     "note": "The contrast with chatbots explains why robot hands lack training data."
+    },
+    {
+     "para": 4,
+     "text": "Rather than hiding these errors, the company described them as \"hiccup data\", mistakes that can be fed back into the model so it learns to recover.",
+     "kind": "Interpretation",
+     "note": "It shows how the company reframes failure, useful for inference questions about attitude."
+    },
+    {
+     "para": 5,
+     "text": "Supporters see enormous potential.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence signals the first side of the debate."
+    },
+    {
+     "para": 6,
+     "text": "Until robots perform reliably for months in real workplaces, he and others argue, the technology remains a promise rather than a product.",
+     "kind": "Critical thinking",
+     "note": "\"A promise rather than a product\" sums up the skeptics' standard of evidence."
+    },
+    {
+     "para": 8,
+     "text": "As AI moves from screens into the physical world, human skill itself becomes valuable training material.",
+     "kind": "Author's view",
+     "note": "The conclusion widens the story into a general point about who owns human skill."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word \"execution\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "punishment by death",
+      "a detailed plan",
+      "putting a plan into action",
+      "an original invention"
+     ],
+     "a": 2,
+     "why": "\"We have all the recipes\" (we know what to do) + \"just about execution\" = the remaining task is putting the plan into action.",
+     "evidence": "\"We have all the recipes,\" he said. \"It's just about execution.\"",
+     "optWhy": [
+      "Another meaning of the word. \"Execution\" can mean killing someone as punishment, but here a CEO is talking about how his company will succeed.",
+      "Opposite. The \"recipes\" are the plan; \"execution\" is what comes after the plan.",
+      "Correct. \"We have all the recipes\" (we know what to do) + \"just about execution\" = the remaining task is putting the plan into action.",
+      "Meaning shifted. He says the company already has \"all the recipes\", so it does not need a new invention."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "\"We have all the recipes,\" he said. \"It's just about execution.\"",
+       "hl": "It's just about execution."
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "Find \"execution\" in the last sentence of paragraph 4."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "\"We have all the recipes\" means they know how; \"just about execution\" means doing it."
+      },
+      {
+       "t": "Watch the trap",
+       "x": "Ignore the death-penalty meaning; a business context needs \"carrying out\"."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, how does Genesis collect data about human hand movements?",
+     "opts": [
+      "Workers wear gloves that record finger movement and force during their usual jobs.",
+      "Workers are filmed in a laboratory doing tasks that engineers have chosen for them.",
+      "Workers control the robots from a distance so the machines can copy their decisions.",
+      "Workers write descriptions of their hand movements so that a chatbot can learn them."
+     ],
+     "a": 0,
+     "why": "\"As they do their normal jobs, the gloves record the movement of each finger and the force it applies\" = gloves record finger movement and force during usual jobs.",
+     "evidence": "As they do their normal jobs, the gloves record the movement of each finger and the force it applies",
+     "optWhy": [
+      "Correct. \"As they do their normal jobs, the gloves record the movement of each finger and the force it applies\" = gloves record finger movement and force during usual jobs.",
+      "Detail swapped. The data are collected \"as they do their normal jobs\", not from tasks chosen in a lab.",
+      "Borrowed from paragraph 6, where \"secretly controlled by a human operator\" is a skeptics' warning about demos, not the data method.",
+      "Borrowed from paragraph 2. Chatbots learn from text, but the passage says \"there is no comparable library of touch\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "As they do their normal jobs, the gloves record the movement of each finger and the force it applies, while the cameras capture what the workers see.",
+       "hl": "the gloves record the movement of each finger and the force it applies"
+      },
+      {
+       "para": 6,
+       "text": "Robotics has what one technology writer calls a \"demo problem\": impressive videos can be sped up, carefully selected or secretly controlled by a human operator.",
+       "hl": "secretly controlled by a human operator"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 3 explains how Genesis \"fill[s] that gap\" in data."
+      },
+      {
+       "t": "Find the key words",
+       "x": "\"normal jobs\", \"gloves record\", \"movement\" and \"force\" are the facts to match."
+      },
+      {
+       "t": "Rule out borrowed details",
+       "x": "Remote control comes from paragraph 6 and text-learning from paragraph 2."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, which of the following is NOT a reason skeptics give for caution?",
+     "opts": [
+      "Demonstration videos can be sped up or carefully selected.",
+      "The company's robotic hands wear out after a few weeks.",
+      "Only a small number of Eno robots have been built so far.",
+      "The robots have already caused accidents in workplaces."
+     ],
+     "a": 3,
+     "why": "Accidents are never mentioned; in fact, a rival says there are \"literally zero robot hands deployed right now doing routine work\", so they could not have caused workplace accidents.",
+     "evidence": "Skeptics urge caution.",
+     "optWhy": [
+      "Mentioned: \"impressive videos can be sped up, carefully selected\".",
+      "Mentioned: the hands \"last only a few weeks of regular work before they need replacing\".",
+      "Mentioned: \"it has built only 30 to 40 Eno robots so far\".",
+      "Correct. Accidents are never mentioned; in fact, a rival says there are \"literally zero robot hands deployed right now doing routine work\", so they could not have caused workplace accidents."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Skeptics urge caution.",
+       "hl": "Skeptics urge caution."
+      },
+      {
+       "para": 6,
+       "text": "One rival founder claimed that there are \"literally zero robot hands deployed right now doing routine work.\"",
+       "hl": "literally zero robot hands deployed"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the reasons",
+       "x": "Paragraph 6 gives: demo problem, hands last weeks, only 30–40 robots, zero hands deployed."
+      },
+      {
+       "t": "Match options",
+       "x": "Tick options A, B and C against that list."
+      },
+      {
+       "t": "Find the outsider",
+       "x": "Accidents are not mentioned anywhere, so D is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about Zhou Xian's views?",
+     "opts": [
+      "He believes the design of the robot's AI model matters most for success.",
+      "He thinks better data will matter more than inventing new kinds of models.",
+      "He was embarrassed by the mistakes the robot made on the second attempt.",
+      "He expects the robots to stop making errors once they leave the laboratory."
+     ],
+     "a": 1,
+     "why": "\"The quality of data matters far more than clever design\" and architecture is \"maybe 10%\" imply that better data matters more than new model designs.",
+     "evidence": "he estimates that the model's architecture contributes \"maybe 10%\" of the final result",
+     "optWhy": [
+      "Contradiction. He says the architecture contributes only \"maybe 10%\" of the result.",
+      "Correct. \"The quality of data matters far more than clever design\" and architecture is \"maybe 10%\" imply that better data matters more than new model designs.",
+      "Contradiction. \"Rather than hiding these errors\", the company called them useful \"hiccup data\".",
+      "Not supported. The errors help the model \"learn to recover\"; nothing says errors will stop."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Its chief executive, Zhou Xian, believes that the quality of data matters far more than clever design: he estimates that the model's architecture contributes \"maybe 10%\" of the final result.",
+       "hl": "the quality of data matters far more than clever design"
+      },
+      {
+       "para": 4,
+       "text": "Rather than hiding these errors, the company described them as \"hiccup data\", mistakes that can be fed back into the model so it learns to recover.",
+       "hl": "Rather than hiding these errors"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find his opinion",
+       "x": "In paragraph 4, look for what Zhou \"believes\" and \"estimates\"."
+      },
+      {
+       "t": "Infer carefully",
+       "x": "If design is only 10%, the rest (mainly data) must matter more."
+      },
+      {
+       "t": "Check the attitude",
+       "x": "\"Rather than hiding these errors\" rules out embarrassment."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author mention chess and folding a T-shirt in paragraph 1?",
+     "opts": [
+      "To argue that robots will soon do every task better than humans",
+      "To show that chess is a harder skill to learn than folding clothes",
+      "To illustrate that tasks easy for humans can be very hard for robots",
+      "To explain why Genesis AI first built robots that could play games"
+     ],
+     "a": 2,
+     "why": "The two examples lead to Moravec's paradox: tasks \"that feel effortless, such as using our hands, are extremely hard\" for machines.",
+     "evidence": "tasks that feel difficult to humans, such as calculation, are often easy for computers, while tasks that feel effortless, such as using our hands, are extremely hard for them",
+     "optWhy": [
+      "Too extreme. The examples show robots \"will probably fail\" at simple hand tasks.",
+      "Misreading. The point is not which skill is harder for people, but that difficulty is reversed for machines.",
+      "Correct. The two examples lead to Moravec's paradox: tasks \"that feel effortless, such as using our hands, are extremely hard\" for machines.",
+      "Not mentioned. Genesis works on robot hands; it never built game-playing robots."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Scientists call this puzzle Moravec's paradox: tasks that feel difficult to humans, such as calculation, are often easy for computers, while tasks that feel effortless, such as using our hands, are extremely hard for them.",
+       "hl": "tasks that feel effortless, such as using our hands, are extremely hard for them"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the examples",
+       "x": "Chess: computer wins; folding a T-shirt: robot fails."
+      },
+      {
+       "t": "Find what they lead to",
+       "x": "The next sentence names the idea: Moravec's paradox."
+      },
+      {
+       "t": "Choose the function",
+       "x": "The examples illustrate the paradox; they do not predict or compare skills."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "Economists agree the technology will create new jobs for the workers who train robots.",
+      "Economists argue that companies should pay workers more because physical work is tiring.",
+      "Some economists worry that robots will become more skilled than the workers who trained them.",
+      "Economists disagree about whether the technology will mainly help workers or mainly enrich companies."
+     ],
+     "a": 3,
+     "why": "\"Some ... free people from exhausting physical labour\" vs \"others worry that the benefits will flow mainly to companies\" = a disagreement over who gains.",
+     "evidence": "others worry that the benefits will flow mainly to companies and investors",
+     "optWhy": [
+      "Leaves out the other side. The sentence contrasts \"Some economists\" with \"others\", so they do not agree.",
+      "Meaning changed. The sentence does not recommend higher pay.",
+      "Wrong detail. The worry is about who gets \"the benefits\", not about robots becoming more skilled.",
+      "Correct. \"Some ... free people from exhausting physical labour\" vs \"others worry that the benefits will flow mainly to companies\" = a disagreement over who gains."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Some economists argue that such technology will free people from exhausting physical labour and create new kinds of work; others worry that the benefits will flow mainly to companies and investors, while the people whose skills made the robots possible receive little in return.",
+       "hl": "others worry that the benefits will flow mainly to companies and investors"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the two halves",
+       "x": "The semicolon splits the sentence: \"Some economists argue...\" and \"others worry...\"."
+      },
+      {
+       "t": "Keep both sides",
+       "x": "A correct answer must show the disagreement between helping workers and enriching companies."
+      },
+      {
+       "t": "Reject one-sided options",
+       "x": "Options that show agreement, advice or a new worry change the meaning."
+      }
+     ],
+     "highlight": "Some economists argue that such technology will free people from exhausting physical labour and create new kinds of work; others worry that the benefits will flow mainly to companies and investors, while the people whose skills made the robots possible receive little in return."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261118-2-k1",
+     "tag": "Funding",
+     "fact": "Genesis AI raised $500 million, valuing the company at $3.5 billion.",
+     "q": "How much money did Genesis AI raise?",
+     "opts": [
+      "$105 million",
+      "$500 million",
+      "$3.5 billion"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-2-k2",
+     "tag": "Concept",
+     "fact": "Moravec's paradox: tasks easy for humans, like using hands, are hard for machines.",
+     "q": "According to Moravec's paradox, which is hardest for a robot?",
+     "opts": [
+      "Calculating",
+      "Playing chess",
+      "Folding a T-shirt"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261118-2-k3",
+     "tag": "Method",
+     "fact": "More than 100 workers wear sensor gloves and head cameras that record finger movement and force.",
+     "q": "What do the gloves record?",
+     "opts": [
+      "Finger movement and force",
+      "Workers' voices",
+      "Heart rate"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261118-2-k4",
+     "tag": "Limits",
+     "fact": "The robot hands last only a few weeks of regular work, and only 30–40 Eno robots exist.",
+     "q": "How long do the robotic hands currently last?",
+     "opts": [
+      "A few days",
+      "A few weeks",
+      "Several years"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-2-k5",
+     "tag": "Ethics",
+     "fact": "Reports did not explain how glove-wearing workers are paid for their data or control their recordings.",
+     "q": "What ethical question did the reports leave open?",
+     "opts": [
+      "How workers are paid for their data",
+      "Whether robots can play chess",
+      "Where the company is based"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Teaching robot hands",
+    "question": "Can recorded human skill give robots useful hands?",
+    "distractors": [
+     "robots already fold clothes perfectly",
+     "workers are paid a share of profits"
+    ],
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1–2",
+      "blanks": [
+       "Moravec's paradox",
+       "no library of touch"
+      ],
+      "kps": [
+       "n20261118-2-k1",
+       "n20261118-2-k2"
+      ]
+     },
+     {
+      "title": "The method",
+      "paras": "3–4",
+      "blanks": [
+       "gloves record movement and force",
+       "mistakes used as hiccup data"
+      ],
+      "kps": [
+       "n20261118-2-k3"
+      ]
+     },
+     {
+      "title": "Hopes and doubts",
+      "paras": "5–6",
+      "blanks": [
+       "labour shortages in tiring jobs",
+       "hands last only weeks"
+      ],
+      "kps": [
+       "n20261118-2-k4"
+      ]
+     },
+     {
+      "title": "Who benefits",
+      "paras": "7–8",
+      "blanks": [
+       "workers teach their replacements",
+       "rules on owning skill"
+      ],
+      "kps": [
+       "n20261118-2-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A start-up called Genesis AI has raised $500 million to give robots human-like hands by learning from workers wearing sensor gloves.",
+    "model": "Because robots lack data about touch, Genesis AI records workers' hand movements with sensor gloves to train its machines. However, skeptics say the robots are not yet reliable, while the method raises questions about who benefits from workers' skills.",
+    "options": [
+     {
+      "t": "Robots struggle with hand skills partly because there has been no large collection of data about touch and movement.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "there is no comparable library of touch",
+      "why": "Correct. This is the core problem. (paragraphs 1–2)"
+     },
+     {
+      "t": "Genesis AI trains robots using data from workers' sensor gloves, though skeptics doubt the robots are ready for real work.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "the gloves record the movement of each finger and the force it applies",
+      "why": "Correct. This covers the method and the doubts. (paragraphs 3–6)"
+     },
+     {
+      "t": "The approach raises questions about whether workers or companies will gain most from recorded human skills.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "There is also an ethical question that the funding announcement did not address.",
+      "why": "Correct. This is the ethical dimension. (paragraphs 7–8)"
+     },
+     {
+      "t": "Eno has a wheeled base and two arms.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "Its main robot, called Eno, has a wheeled base and two arms",
+      "why": "True, but a minor detail."
+     },
+     {
+      "t": "Genesis AI already sells robots to families for household chores.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "later move into hotels, healthcare and eventually homes",
+      "why": "Contradicts the passage: homes come only \"eventually\"."
+     },
+     {
+      "t": "Governments have passed laws to protect workers' movement data.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe robots that can do physical jobs will mostly improve workers' lives by taking over tiring and dangerous tasks. Others believe they will mostly take jobs away from people. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (safety / tiring work) + example → reason 2 (jobs / who benefits) + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: A robotics company has raised $500 million to build robots with human-like hands. It trains them using data from workers who wear sensor gloves while doing their normal jobs. In other words, workers are helping to teach machines that may one day do work like theirs. Should workers whose movements are used to train robots receive a share of the profits from those robots? Why or why not? (Leo says: Yes. The robots would be useless without the workers' skills, which took years to develop. If the company becomes rich from that knowledge, it is only fair that the workers who provided it share in the rewards, not just a one-time wage.) (Hana says: I'm not sure that is practical. The company also invests huge sums in engineering, and thousands of people may contribute small amounts of data. Clear consent, fair pay at the time and strong privacy rules might be more realistic than profit sharing.)",
+    "steps": [
+     "Decide your position: profit sharing, fair pay with consent, or another solution.",
+     "Give one main reason, such as fairness or practicality.",
+     "Respond to Leo or Hana: agree with one point and challenge another.",
+     "Finish with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261118-3",
+   "topic": "Health",
+   "title": "Did the \"Light and Sound\" Alzheimer's Headset Fail? It Depends How You Read the Data",
+   "dek": "A year-long trial of a flickering headset for Alzheimer's missed its main goal, yet one group of patients seemed to benefit. How should we judge a result that is both disappointing and promising?",
+   "sources": [
+    {
+     "name": "Nature, Nov 17, 2026",
+     "url": "https://www.nature.com/articles/d41586-026-03770-0"
+    },
+    {
+     "name": "IEEE Spectrum, Nov 17, 2026",
+     "url": "https://spectrum.ieee.org/40-hz-therapy-alzheimers"
+    },
+    {
+     "name": "Medical Daily, Nov 17, 2026",
+     "url": "https://www.medicaldaily.com/spectris-40hz-alzheimers-trial-missed-primary-goal-481325"
+    },
+    {
+     "name": "The Boston Globe, Nov 16, 2026",
+     "url": "https://www.bostonglobe.com/2026/11/16/metro/alzheimers-treatment-brain-gamma-waves-cognito/"
+    }
+   ],
+   "paras": [
+    "For nearly a decade, an unusual idea has attracted both excitement and doubt in Alzheimer's research: that flickering lights and buzzing sounds might slow the disease. This week, the idea faced its biggest test so far. Cognito Therapeutics, a company based in Cambridge, Massachusetts, presented the results of a year-long trial of its headset, called Spectris, at a major Alzheimer's conference in Boston. Within hours, the news coverage split in two. One leading science journal reported that the therapy had \"flopped\"; a local newspaper said it \"may slow Alzheimer's symptoms in some patients.\" Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.",
+    "The science behind the device begins with brain rhythms. Groups of neurons fire together in regular waves, and one fast pattern, known as gamma oscillations, at around 40 cycles per second, is linked to attention and memory. In Alzheimer's disease, these rhythms weaken early. In 2016, researchers at the Massachusetts Institute of Technology reported that exposing mice to light flickering 40 times a second reduced the sticky amyloid plaques associated with the disease. Two of the scientists involved went on to found Cognito, and the company built a device that looks like a pair of glasses attached to headphones and is used at home for about an hour a day.",
+    "The new trial, called HOPE, was designed to answer a clear question. It enrolled 673 people with mild to moderate Alzheimer's and randomly assigned them to use either the real device or a \"sham\" version that looked similar but did not deliver the 40-hertz stimulation. Neither the patients nor the researchers knew who received which, a design known as double-blind. Before the trial began, the company chose a single primary endpoint, a combined score of thinking and everyday abilities, to decide whether the device worked.",
+    "On that main measure, the device failed. Across all participants, there was no meaningful difference between the real and the sham groups. The company's chief executive, Christian Howell, admitted that the team had hoped to see an effect in the full population and did not. However, when the researchers looked only at the 395 people with mild disease, the picture changed. In this group, daily functioning declined 56% more slowly than in the sham group, and a standard clinical rating declined 47% more slowly. Patients who used the device on at least 70% of days appeared to benefit even more, while those with more advanced disease showed little improvement.",
+    "For the company, these numbers are a reason for optimism. Howell argues that medical devices should be judged on whether their benefits outweigh their risks, not on a single statistical target, and the headset appears to be relatively safe: its most common side effects were headaches and ringing in the ears. By comparison, the antibody drugs recently approved for Alzheimer's slow decline by roughly 20 to 30% but can cause swelling or bleeding in the brain. Cognito plans to ask the US Food and Drug Administration for authorization to treat mild Alzheimer's, with a filing expected in 2027.",
+    "Many independent experts, however, remain unconvinced. Paul Aisen of the University of Southern California called the overall result \"simply negative\" and described the subgroup findings as exploratory. The problem is statistical: when researchers divide a trial into many smaller groups after seeing the data, some groups will show impressive results purely by chance. Daniel Gillen of the University of California, Irvine, made a related point about adherence. People who faithfully use a treatment every day may differ from those who do not, for example by being healthier or having more family support, so their better outcomes do not prove that the device caused the improvement. The results have also not yet been published in a peer-reviewed journal.",
+    "There are practical questions, too. Fewer than half of the patients with mild disease used the device on at least 70% of days, and a researcher at Mount Sinai doubted that an hour of daily flickering is realistic for many older people. Meanwhile, several companies already sell unproven 40-hertz products directly to consumers, and experts worry that mixed headlines could encourage desperate families to spend money on devices with no reliable evidence behind them.",
+    "The HOPE trial will not settle the debate. What it offers instead is a lesson in reading scientific news. A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion. For the millions of families affected by Alzheimer's, hope is understandable, and the device may yet prove useful for some patients. But as this case shows, the gap between \"it might work for some people\" and \"it works\" is exactly where good science has to do its most careful thinking."
+   ],
+   "words": [
+    {
+     "w": "exploratory",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/ɪkˈsplɔːrətɔːri/",
+     "syl": [
+      "ex",
+      "plor",
+      "a",
+      "to",
+      "ry"
+     ],
+     "def": "done to find out more about something or to suggest ideas, not to prove a conclusion",
+     "ex": "The team ran a small exploratory study before planning a larger experiment."
+    },
+    {
+     "w": "adherence",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ədˈhɪrəns/",
+     "syl": [
+      "ad",
+      "her",
+      "ence"
+     ],
+     "def": "the act of following a plan, rule or treatment closely and regularly",
+     "ex": "Good adherence to the training plan helped her finish the marathon."
+    },
+    {
+     "w": "outweigh",
+     "level": "Academic",
+     "pos": "v.",
+     "ipa": "/ˌaʊtˈweɪ/",
+     "syl": [
+      "out",
+      "weigh"
+     ],
+     "def": "to be greater or more important than something else",
+     "ex": "For most people, the benefits of regular exercise outweigh the effort it takes."
+    },
+    {
+     "w": "statistical",
+     "level": "Academic",
+     "pos": "adj.",
+     "ipa": "/stəˈtɪstɪkl/",
+     "syl": [
+      "sta",
+      "tis",
+      "ti",
+      "cal"
+     ],
+     "def": "based on or relating to the collection and analysis of numerical data",
+     "ex": "There was no statistical difference between the scores of the two classes."
+    },
+    {
+     "w": "authorization",
+     "level": "Academic",
+     "pos": "n.",
+     "ipa": "/ˌɔːθərəˈzeɪʃn/",
+     "syl": [
+      "au",
+      "thor",
+      "i",
+      "za",
+      "tion"
+     ],
+     "def": "official permission to do or sell something",
+     "ex": "The new drone cannot be flown near the airport without authorization."
+    },
+    {
+     "w": "endpoint",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/ˈendpɔɪnt/",
+     "syl": [
+      "end",
+      "point"
+     ],
+     "def": "(in medical research) the main result that a trial measures to decide whether a treatment works",
+     "ex": "The researchers chose blood pressure as the main endpoint of the study."
+    },
+    {
+     "w": "sham",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ʃæm/",
+     "syl": [
+      "sham"
+     ],
+     "def": "fake but made to look real, used in trials so that patients cannot tell which treatment they get",
+     "ex": "Patients in the control group received a sham treatment that looked identical."
+    },
+    {
+     "w": "double-blind",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌdʌbl ˈblaɪnd/",
+     "syl": [
+      "dou",
+      "ble",
+      "blind"
+     ],
+     "def": "describing a study in which neither the participants nor the researchers know who receives the real treatment",
+     "ex": "A double-blind design stops researchers' hopes from influencing the results."
+    },
+    {
+     "w": "peer-reviewed",
+     "level": "Topic term",
+     "pos": "adj.",
+     "ipa": "/ˌpɪr rɪˈvjuːd/",
+     "syl": [
+      "peer",
+      "re",
+      "viewed"
+     ],
+     "def": "checked by other experts in the same field before being published",
+     "ex": "Students should cite peer-reviewed articles rather than random websites."
+    },
+    {
+     "w": "plaque",
+     "level": "Topic term",
+     "pos": "n.",
+     "ipa": "/plæk/",
+     "syl": [
+      "plaque"
+     ],
+     "def": "a harmful deposit that builds up on a surface in the body, such as protein clumps in the brain",
+     "ex": "Scientists measured the amount of plaque in each patient's brain scan."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.",
+     "kind": "Main idea",
+     "note": "It sets up the passage's real topic: how to interpret medical evidence, not just the device."
+    },
+    {
+     "para": 2,
+     "text": "In Alzheimer's disease, these rhythms weaken early.",
+     "kind": "Cause → effect",
+     "note": "This is the scientific reason for trying 40-hertz stimulation."
+    },
+    {
+     "para": 4,
+     "text": "However, when the researchers looked only at the 395 people with mild disease, the picture changed.",
+     "kind": "Key details",
+     "note": "\"However\" marks the turn from failure to the subgroup result, a common TOEFL contrast."
+    },
+    {
+     "para": 5,
+     "text": "For the company, these numbers are a reason for optimism.",
+     "kind": "Topic sentence",
+     "note": "It introduces the company's side of the debate."
+    },
+    {
+     "para": 6,
+     "text": "The problem is statistical: when researchers divide a trial into many smaller groups after seeing the data, some groups will show impressive results purely by chance.",
+     "kind": "Critical thinking",
+     "note": "It explains why subgroup results are risky, the key to the experts' doubts."
+    },
+    {
+     "para": 8,
+     "text": "A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion.",
+     "kind": "Author's view",
+     "note": "The author's main lesson; it is also the sentence-simplification question."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word \"exploratory\" in paragraph 6 is closest in meaning to",
+     "opts": [
+      "meant to suggest ideas, not prove them",
+      "related to travelling to new places",
+      "proven beyond any reasonable doubt",
+      "carried out in secret by the company"
+     ],
+     "a": 0,
+     "why": "Aisen calls the main result \"simply negative\" and the subgroup findings \"exploratory\", meaning they only suggest ideas; paragraph 8 adds that a subgroup is \"a clue ... not a conclusion\".",
+     "evidence": "called the overall result \"simply negative\" and described the subgroup findings as exploratory",
+     "optWhy": [
+      "Correct. Aisen calls the main result \"simply negative\" and the subgroup findings \"exploratory\", meaning they only suggest ideas; paragraph 8 adds that a subgroup is \"a clue ... not a conclusion\".",
+      "Another meaning of the word. \"Explore\" can mean to travel to new places, but here it describes research findings.",
+      "Opposite. Aisen is doubting the subgroup findings, not saying they are proven.",
+      "Not mentioned. The results were presented openly \"at a major Alzheimer's conference\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Paul Aisen of the University of Southern California called the overall result \"simply negative\" and described the subgroup findings as exploratory.",
+       "hl": "described the subgroup findings as exploratory"
+      },
+      {
+       "para": 8,
+       "text": "A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion.",
+       "hl": "a clue that deserves a new, carefully designed study, not a conclusion"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the word",
+       "x": "Find \"exploratory\" in paragraph 6; it describes \"the subgroup findings\"."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "Aisen calls the main result \"simply negative\", so he is not treating subgroup results as proof."
+      },
+      {
+       "t": "Confirm with paragraph 8",
+       "x": "\"A clue ... not a conclusion\" matches \"meant to suggest ideas, not prove them\"."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what was true of the HOPE trial's design?",
+     "opts": [
+      "Patients chose for themselves whether to use the real device or the sham.",
+      "Only patients with mild Alzheimer's disease were allowed to take part.",
+      "The main measure of success was selected after the results were known.",
+      "Neither patients nor researchers knew who was using the real device."
+     ],
+     "a": 3,
+     "why": "\"Neither the patients nor the researchers knew who received which\" = neither group knew who used the real device.",
+     "evidence": "Neither the patients nor the researchers knew who received which, a design known as double-blind.",
+     "optWhy": [
+      "Contradiction. Patients were \"randomly assigned\"; they did not choose.",
+      "Contradiction. The trial enrolled people \"with mild to moderate Alzheimer's\".",
+      "Contradiction. The endpoint was chosen \"Before the trial began\".",
+      "Correct. \"Neither the patients nor the researchers knew who received which\" = neither group knew who used the real device."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "It enrolled 673 people with mild to moderate Alzheimer's and randomly assigned them to use either the real device or a \"sham\" version that looked similar but did not deliver the 40-hertz stimulation.",
+       "hl": "randomly assigned"
+      },
+      {
+       "para": 3,
+       "text": "Neither the patients nor the researchers knew who received which, a design known as double-blind.",
+       "hl": "Neither the patients nor the researchers knew who received which"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the design details",
+       "x": "Paragraph 3 lists: 673 people, mild to moderate, random assignment, double-blind, endpoint chosen before."
+      },
+      {
+       "t": "Compare each option",
+       "x": "Options A, B and C each change one of those details."
+      },
+      {
+       "t": "Confirm the match",
+       "x": "D paraphrases the definition of double-blind."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are true EXCEPT:",
+     "opts": [
+      "Cognito thinks devices should be judged by weighing benefits against risks.",
+      "Headaches were among the headset's most common side effects.",
+      "The headset has already been authorized for use in mild Alzheimer's.",
+      "Approved antibody drugs slow decline by roughly 20 to 30 percent."
+     ],
+     "a": 2,
+     "why": "This is NOT true: Cognito only \"plans to ask\" the FDA for authorization, \"with a filing expected in 2027\".",
+     "evidence": "Cognito plans to ask the US Food and Drug Administration for authorization to treat mild Alzheimer's, with a filing expected in 2027.",
+     "optWhy": [
+      "True: Howell says devices \"should be judged on whether their benefits outweigh their risks\".",
+      "True: \"its most common side effects were headaches and ringing in the ears\".",
+      "Correct. This is NOT true: Cognito only \"plans to ask\" the FDA for authorization, \"with a filing expected in 2027\".",
+      "True: the antibody drugs \"slow decline by roughly 20 to 30%\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Cognito plans to ask the US Food and Drug Administration for authorization to treat mild Alzheimer's, with a filing expected in 2027.",
+       "hl": "plans to ask"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan paragraph 5",
+       "x": "Note four facts: benefit–risk view, side effects, antibody comparison, FDA plan."
+      },
+      {
+       "t": "Check tense carefully",
+       "x": "\"Plans to ask\" and \"expected in 2027\" mean no authorization yet."
+      },
+      {
+       "t": "Pick the false one",
+       "x": "\"Has already been authorized\" contradicts the plan, so C is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the patients who used the device most faithfully?",
+     "opts": [
+      "Their results prove that the device works whenever it is used correctly.",
+      "Their better results may partly reflect other differences between them and others.",
+      "Most of them were patients whose Alzheimer's disease was already moderate.",
+      "They suffered more side effects than patients who used the device less often."
+     ],
+     "a": 1,
+     "why": "They \"may differ from those who do not, for example by being healthier or having more family support\", so other differences could explain part of their results.",
+     "evidence": "so their better outcomes do not prove that the device caused the improvement",
+     "optWhy": [
+      "Too extreme and contradicted: their outcomes \"do not prove that the device caused the improvement\".",
+      "Correct. They \"may differ from those who do not, for example by being healthier or having more family support\", so other differences could explain part of their results.",
+      "Contradiction. Paragraph 4 says patients \"with more advanced disease showed little improvement\"; the adherence figures come from the mild group.",
+      "Not mentioned. The passage never links side effects to how often the device was used."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "People who faithfully use a treatment every day may differ from those who do not, for example by being healthier or having more family support, so their better outcomes do not prove that the device caused the improvement.",
+       "hl": "may differ from those who do not"
+      },
+      {
+       "para": 4,
+       "text": "Patients who used the device on at least 70% of days appeared to benefit even more, while those with more advanced disease showed little improvement.",
+       "hl": "those with more advanced disease showed little improvement"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Gillen's point",
+       "x": "Paragraph 6 explains the adherence problem raised by Daniel Gillen."
+      },
+      {
+       "t": "Follow the reasoning",
+       "x": "Faithful users may be healthier or better supported, so their results may not come only from the device."
+      },
+      {
+       "t": "Rule out extremes",
+       "x": "\"Prove\" is contradicted by \"do not prove\"; side effects are never discussed."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author mention two different headlines in paragraph 1?",
+     "opts": [
+      "To introduce the idea that the same results can be presented very differently",
+      "To criticize the science journal for reporting the trial results inaccurately",
+      "To suggest that the local newspaper had access to more complete trial data",
+      "To show that few journalists actually attended the conference in Boston"
+     ],
+     "a": 0,
+     "why": "One headline says \"flopped\" and the other \"may slow ... symptoms\", yet \"Both headlines were, in a sense, accurate\"; this introduces how the same data can be framed differently.",
+     "evidence": "Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.",
+     "optWhy": [
+      "Correct. One headline says \"flopped\" and the other \"may slow ... symptoms\", yet \"Both headlines were, in a sense, accurate\"; this introduces how the same data can be framed differently.",
+      "Contradiction. The author says both headlines were \"in a sense, accurate\".",
+      "Not mentioned. Nothing suggests the newspaper had different or better data.",
+      "Not mentioned. The passage says nothing about who attended the conference."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.",
+       "hl": "Both headlines were, in a sense, accurate"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Compare the headlines",
+       "x": "\"Flopped\" vs \"may slow ... symptoms in some patients\": opposite tones."
+      },
+      {
+       "t": "Read the author's comment",
+       "x": "\"Both headlines were, in a sense, accurate\" shows no criticism of either."
+      },
+      {
+       "t": "Choose the function",
+       "x": "The contrast introduces the passage's theme: interpreting evidence."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8?",
+     "opts": [
+      "A promising subgroup matters more than the main result because it shows who benefits.",
+      "Researchers should stop analysing subgroups because their results carry little weight.",
+      "The planned main result matters most, and a good subgroup result calls for further testing.",
+      "New studies should be designed before any trial results are announced to the public."
+     ],
+     "a": 2,
+     "why": "\"Pre-planned main result carries the most weight\" = the planned main result matters most, and \"deserves a new, carefully designed study\" = calls for further testing.",
+     "evidence": "a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion",
+     "optWhy": [
+      "Reversed. The sentence says the \"pre-planned main result carries the most weight\", not the subgroup.",
+      "Too extreme. A subgroup is \"a clue that deserves a new ... study\"; the sentence does not say to stop analysing it.",
+      "Correct. \"Pre-planned main result carries the most weight\" = the planned main result matters most, and \"deserves a new, carefully designed study\" = calls for further testing.",
+      "Meaning changed. The sentence is about how to weigh results, not when to announce them."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion.",
+       "hl": "carries the most weight"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: the main result matters most. Part 2: a subgroup is only a clue for a new study."
+      },
+      {
+       "t": "Keep both parts",
+       "x": "The correct answer must include the ranking and the call for more research."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "Options that reverse the ranking, ban subgroups or talk about announcements change the meaning."
+      }
+     ],
+     "highlight": "A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261118-3-k1",
+     "tag": "Trial",
+     "fact": "The HOPE trial tested Cognito's 40-hertz light-and-sound headset in 673 people for a year.",
+     "q": "How many people took part in the HOPE trial?",
+     "opts": [
+      "395",
+      "673",
+      "2016"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-3-k2",
+     "tag": "Science",
+     "fact": "Gamma brain rhythms around 40 cycles per second are linked to attention and memory and weaken early in Alzheimer's.",
+     "q": "What frequency does the headset use?",
+     "opts": [
+      "4 hertz",
+      "40 hertz",
+      "400 hertz"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-3-k3",
+     "tag": "Result",
+     "fact": "The device missed its primary endpoint: no meaningful difference across all participants.",
+     "q": "What happened on the trial's main measure?",
+     "opts": [
+      "A clear success",
+      "No meaningful difference",
+      "The trial was stopped"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261118-3-k4",
+     "tag": "Subgroup",
+     "fact": "In 395 mild patients, daily functioning declined 56% more slowly than with the sham.",
+     "q": "In which group did the device seem to help?",
+     "opts": [
+      "Mild disease",
+      "Moderate disease",
+      "Healthy volunteers"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261118-3-k5",
+     "tag": "Evidence",
+     "fact": "Subgroup and adherence findings can arise by chance or from other differences, so they are clues, not proof.",
+     "q": "Why are subgroup results treated with caution?",
+     "opts": [
+      "They may appear by chance",
+      "They are always negative",
+      "They are secret"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Light-and-sound therapy",
+    "question": "Did the Alzheimer's headset work?",
+    "distractors": [
+     "the FDA has already approved it",
+     "it clears plaques in human brains"
+    ],
+    "branches": [
+     {
+      "title": "The idea",
+      "paras": "1–2",
+      "blanks": [
+       "gamma rhythms weaken early",
+       "2016 mouse study at MIT"
+      ],
+      "kps": [
+       "n20261118-3-k2"
+      ]
+     },
+     {
+      "title": "The trial",
+      "paras": "3–4",
+      "blanks": [
+       "673 patients, double-blind",
+       "primary endpoint missed"
+      ],
+      "kps": [
+       "n20261118-3-k1",
+       "n20261118-3-k3"
+      ]
+     },
+     {
+      "title": "Company's view",
+      "paras": "4–5",
+      "blanks": [
+       "mild patients declined more slowly",
+       "benefits outweigh risks"
+      ],
+      "kps": [
+       "n20261118-3-k4"
+      ]
+     },
+     {
+      "title": "Experts' doubts",
+      "paras": "6–8",
+      "blanks": [
+       "subgroups can mislead by chance",
+       "not yet peer-reviewed"
+      ],
+      "kps": [
+       "n20261118-3-k5"
+      ]
+     }
+    ]
+   },
+   "summary": {
+    "intro": "A year-long trial of Cognito's 40-hertz light-and-sound headset for Alzheimer's produced results that were read in very different ways.",
+    "model": "The HOPE trial missed its main goal, although patients with mild Alzheimer's seemed to decline more slowly. While the company sees reason for optimism, independent experts warn that subgroup results may be due to chance, so a new study is needed.",
+    "options": [
+     {
+      "t": "The device, based on research into 40-hertz brain rhythms, failed its pre-planned main test across all patients.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "On that main measure, the device failed.",
+      "why": "Correct. This is the main result. (paragraphs 2–4)"
+     },
+     {
+      "t": "The company points to slower decline in patients with mild disease and the device's relative safety.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "For the company, these numbers are a reason for optimism.",
+      "why": "Correct. This is the company's case. (paragraphs 4–5)"
+     },
+     {
+      "t": "Independent experts warn that subgroup and adherence results may not be reliable and that further study is needed.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Many independent experts, however, remain unconvinced.",
+      "why": "Correct. This is the opposing view and the lesson. (paragraphs 6–8)"
+     },
+     {
+      "t": "The device looks like glasses attached to headphones.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "a device that looks like a pair of glasses attached to headphones",
+      "why": "True, but a minor detail."
+     },
+     {
+      "t": "The headset worked best for patients with advanced Alzheimer's.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "those with more advanced disease showed little improvement",
+      "why": "Contradicts the passage."
+     },
+     {
+      "t": "The headset is cheaper than the approved antibody drugs.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     }
+    ]
+   },
+   "speak": {
+    "p": "When a new treatment shows only mixed results, some people think patients should be allowed to try it if it seems safe. Others think it should not be sold until stronger evidence proves it works. Which view do you agree with, and why?",
+    "hint": "State your view → reason 1 (patients' hope / safety) + example → reason 2 (evidence / wasted money) + example → short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Professor: This week a company reported that its light-and-sound headset for Alzheimer's disease failed its main test, but seemed to slow decline in patients with mild disease. The device appears fairly safe, and the company wants regulators to approve it. Should a treatment like this be approved if it is safe but the evidence that it works is mixed? Why or why not? (Ava says: Yes, if it is safe. Patients with Alzheimer's have very few options, and they should be allowed to decide for themselves. Waiting several more years for a new trial means that many patients will lose the chance to benefit.) (Ken says: I disagree. A subgroup result can easily appear by chance. If we approve devices without clear proof, families will spend money and time on something that may not work, and companies will have less reason to run careful trials.)",
+    "steps": [
+     "Decide your position: approve now, approve with conditions, or wait for proof.",
+     "Give one main reason, such as patient choice or the risk of weak evidence.",
+     "Respond to Ava or Ken: agree with one point and challenge another.",
+     "Finish with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "audio": {
+  "On Thursday, more than half a million South Korean students will sit the Suneung, the national college entrance exam that can shape their university choices, careers and, many believe, the rest of their lives. The exam is so important that flights are rescheduled during the listening test and police help late students reach their test centres. This year, however, the most talked-about preparation is not happening in classrooms. It is happening at the doors of exam rooms, where staff will examine students' glasses, watches, collars and even shirt buttons, looking for hidden cameras linked to AI.": "audio/2026-11-18/a1-p1.mp3",
+  "The sudden alarm was triggered by a scandal in a different test. Han Won-seok, a 34-year-old who had come first in this year's national exam for tax accountants, admitted in a YouTube video that his score was not entirely his own. In both rounds of the exam, he said, he used a miniature camera to photograph the questions, sent the images to a generative AI system, and read the answers on a small screen. In the first round he answered 159 of 160 multiple-choice questions correctly. He apologised and was questioned by police on Tuesday. His confession raised an uncomfortable question: if one person could defeat a professional exam so easily, how many others had tried, and had anyone done it in the Suneung?": "audio/2026-11-18/a1-p2.mp3",
+  "Online, some claimed that the answer was yes. An anonymous user on a popular Korean forum wrote that they had cheated on the 2024 Suneung with a camera disguised as a shirt button and later entered medical school. The claim could not be verified, and it may be false, but it spread quickly. A YouTuber with more than two million subscribers even urged the Education Ministry to postpone the exam, noting that it had been delayed before, after a 2017 earthquake and during the COVID-19 pandemic.": "audio/2026-11-18/a1-p3.mp3",
+  "The government chose not to delay. Instead, at a Cabinet meeting two days before the exam, it announced a package of emergency measures. All smartphones and other smart devices will be switched off and collected, and simply possessing one during the test can be treated as cheating. Bags must stay outside exam rooms, and each of the country's 1,312 test centres will have staff assigned to spot smart glasses. The science ministry has been asked to study switching off public Wi-Fi at test sites, and officials are considering metal and radio-frequency detectors for future exams. Prime Minister Han Seong-sook described AI-assisted cheating as a \"social evil\", and lawmakers have proposed extending the exam ban for cheaters from one year to ten.": "audio/2026-11-18/a1-p4.mp3",
+  "Supporters argue that strict rules are the only reasonable response. The Suneung matters precisely because it is seen as fair: every student answers the same questions under the same conditions, regardless of family wealth or connections. As one Hanyang University professor put it, if AI devices can compromise this exam, \"the issue goes far beyond a single act of cheating.\" From this perspective, inspecting glasses is a small inconvenience compared with the damage that a single proven case could do to public trust.": "audio/2026-11-18/a1-p5.mp3",
+  "Critics, however, doubt that the measures will work. A teachers' union official said he did not think the plan was \"really an effective response\", and an education commentator warned that staff cannot reliably spot new smart glasses just by looking. Even Deputy Education Minister Choi Eun-ok acknowledged that it is \"not easy to detect 100 per cent of cheating without completely blocking communications.\" Each new rule, critics say, simply encourages cheaters to find smaller and better-hidden devices, creating an arms race that schools are unlikely to win.": "audio/2026-11-18/a1-p6.mp3",
+  "A third group of educators believes the scandal points to a deeper problem. If an AI system can answer a test almost perfectly within seconds, they argue, the test may be measuring the kind of knowledge that machines already handle well, such as recalling facts and applying familiar procedures. Some suggest giving more weight to tasks that are harder to outsource, such as supervised essays, oral examinations or projects completed over time. Others reply that such assessments are expensive, harder to score consistently and more open to the advantages of wealthy families, which is exactly what a standardized exam was designed to prevent.": "audio/2026-11-18/a1-p7.mp3",
+  "For now, the goal is simply to get through Thursday without a scandal, but the debate will not end when the exam does. Many countries, including China with its gaokao, rely on high-stakes exams to distribute limited university places in a way the public accepts as fair. South Korea's experience suggests that protecting that fairness may require more than better detectors; it may also require rethinking what an exam is meant to measure in an age when any student could, in theory, carry a genius in a button.": "audio/2026-11-18/a1-p8.mp3",
+  "compromise": "audio/2026-11-18/a1-w-compromise.mp3",
+  "Leaving passwords on sticky notes can compromise the security of the whole office.": "audio/2026-11-18/a1-ex-compromise.mp3",
+  "verify": "audio/2026-11-18/a1-w-verify.mp3",
+  "Before sharing the video, she tried to verify where and when it had been filmed.": "audio/2026-11-18/a1-ex-verify.mp3",
+  "postpone": "audio/2026-11-18/a1-w-postpone.mp3",
+  "The school decided to postpone the sports day because heavy rain was forecast.": "audio/2026-11-18/a1-ex-postpone.mp3",
+  "acknowledge": "audio/2026-11-18/a1-w-acknowledge.mp3",
+  "The coach was willing to acknowledge that his tactics had not worked.": "audio/2026-11-18/a1-ex-acknowledge.mp3",
+  "assessment": "audio/2026-11-18/a1-w-assessment.mp3",
+  "Our final assessment includes a group project as well as a written exam.": "audio/2026-11-18/a1-ex-assessment.mp3",
+  "high-stakes": "audio/2026-11-18/a1-w-high-stakes.mp3",
+  "A driving test can feel like a high-stakes moment for a nervous teenager.": "audio/2026-11-18/a1-ex-high-stakes.mp3",
+  "standardized": "audio/2026-11-18/a1-w-standardized.mp3",
+  "Many universities ask applicants for a standardized test score.": "audio/2026-11-18/a1-ex-standardized.mp3",
+  "miniature": "audio/2026-11-18/a1-w-miniature.mp3",
+  "The museum displays a miniature model of the ancient city.": "audio/2026-11-18/a1-ex-miniature.mp3",
+  "outsource": "audio/2026-11-18/a1-w-outsource.mp3",
+  "Students should not outsource their thinking to a chatbot.": "audio/2026-11-18/a1-ex-outsource.mp3",
+  "confession": "audio/2026-11-18/a1-w-confession.mp3",
+  "His confession surprised the teachers, who had trusted him completely.": "audio/2026-11-18/a1-ex-confession.mp3",
+  "This year, however, the most talked-about preparation is not happening in classrooms.": "audio/2026-11-18/a1-ks1.mp3",
+  "His confession raised an uncomfortable question: if one person could defeat a professional exam so easily, how many others had tried, and had anyone done it in the Suneung?": "audio/2026-11-18/a1-ks2.mp3",
+  "Instead, at a Cabinet meeting two days before the exam, it announced a package of emergency measures.": "audio/2026-11-18/a1-ks3.mp3",
+  "The Suneung matters precisely because it is seen as fair: every student answers the same questions under the same conditions, regardless of family wealth or connections.": "audio/2026-11-18/a1-ks4.mp3",
+  "Each new rule, critics say, simply encourages cheaters to find smaller and better-hidden devices, creating an arms race that schools are unlikely to win.": "audio/2026-11-18/a1-ks5.mp3",
+  "A third group of educators believes the scandal points to a deeper problem.": "audio/2026-11-18/a1-ks6.mp3",
+  "Ask a computer to play chess and it will probably beat you. Ask a robot to fold a T-shirt, peel a sticker off a roll or tie a knot, and it will probably fail. Scientists call this puzzle Moravec's paradox: tasks that feel difficult to humans, such as calculation, are often easy for computers, while tasks that feel effortless, such as using our hands, are extremely hard for them. This week, a young American company called Genesis AI announced that investors had given it $500 million to solve this problem, valuing the company at $3.5 billion. Its strategy depends on an unusual source of knowledge: ordinary workers wearing special gloves.": "audio/2026-11-18/a2-p1.mp3",
+  "The reason dexterity is so difficult for machines is partly mechanical and partly a matter of data. A human hand combines dozens of joints with thousands of touch sensors, constantly adjusting its grip without conscious thought. AI chatbots became powerful by learning from enormous amounts of text on the internet, but there is no comparable library of touch. Almost nobody has recorded, in precise numbers, how hard a person presses when lifting an egg or how their fingers move when threading a cable. As Genesis puts it, most human physical skills have simply never been written down.": "audio/2026-11-18/a2-p2.mp3",
+  "To fill that gap, the company has given sensor-equipped gloves and head-mounted cameras to more than 100 workers around the world. As they do their normal jobs, the gloves record the movement of each finger and the force it applies, while the cameras capture what the workers see. The robots then wear the same kind of glove, and their mechanical hands are built to match human proportions, so that a movement recorded on a person can be transferred directly to a machine. Genesis also uses computer simulation, based on a physics method co-developed by one of its advisers, to generate millions of additional practice examples.": "audio/2026-11-18/a2-p3.mp3",
+  "In a demonstration for journalists, robotic arms running the company's software packed items into a box, sealed it with tape and attached a label. On a second attempt, however, a robot dropped a box and struggled to peel a small label from its backing. Rather than hiding these errors, the company described them as \"hiccup data\", mistakes that can be fed back into the model so it learns to recover. Its chief executive, Zhou Xian, believes that the quality of data matters far more than clever design: he estimates that the model's architecture contributes \"maybe 10%\" of the final result. \"We have all the recipes,\" he said. \"It's just about execution.\"": "audio/2026-11-18/a2-p4.mp3",
+  "Supporters see enormous potential. Many countries face shortages of workers for repetitive, tiring or dangerous jobs, from sorting parcels in warehouses to handling samples in laboratories. Genesis plans to start with factories, logistics and labs, and later move into hotels, healthcare and eventually homes. Its main robot, called Eno, has a wheeled base and two arms, and each of its hands can move in 20 independent, motor-driven ways. Investors including the chipmakers Nvidia and AMD clearly believe that whoever teaches robots to use their hands will unlock a huge market.": "audio/2026-11-18/a2-p5.mp3",
+  "Skeptics urge caution. Robotics has what one technology writer calls a \"demo problem\": impressive videos can be sped up, carefully selected or secretly controlled by a human operator. The company itself admits that its robotic hands currently last only a few weeks of regular work before they need replacing, and it has built only 30 to 40 Eno robots so far. One rival founder claimed that there are \"literally zero robot hands deployed right now doing routine work.\" Until robots perform reliably for months in real workplaces, he and others argue, the technology remains a promise rather than a product.": "audio/2026-11-18/a2-p6.mp3",
+  "There is also an ethical question that the funding announcement did not address. The workers wearing the gloves are, in effect, teaching machines to do jobs like their own. Reports on the deal did not explain how these workers are paid for their data or what control they have over recordings of their movements. Some economists argue that such technology will free people from exhausting physical labour and create new kinds of work; others worry that the benefits will flow mainly to companies and investors, while the people whose skills made the robots possible receive little in return.": "audio/2026-11-18/a2-p7.mp3",
+  "The story of Genesis therefore raises a question that reaches beyond one company. As AI moves from screens into the physical world, human skill itself becomes valuable training material. Whether that leads to safer, easier work for everyone or simply to cheaper machines may depend less on how clever the robots become and more on the rules societies set for who owns, and profits from, the knowledge in our hands.": "audio/2026-11-18/a2-p8.mp3",
+  "paradox": "audio/2026-11-18/a2-w-paradox.mp3",
+  "It is a paradox that the more choices we have, the harder it can be to feel satisfied.": "audio/2026-11-18/a2-ex-paradox.mp3",
+  "comparable": "audio/2026-11-18/a2-w-comparable.mp3",
+  "Electric cars now have a range comparable to that of petrol cars.": "audio/2026-11-18/a2-ex-comparable.mp3",
+  "proportion": "audio/2026-11-18/a2-w-proportion.mp3",
+  "The artist studied the proportion of the head to the body before drawing the figure.": "audio/2026-11-18/a2-ex-proportion.mp3",
+  "deploy": "audio/2026-11-18/a2-w-deploy.mp3",
+  "The city plans to deploy more buses on the busiest routes next year.": "audio/2026-11-18/a2-ex-deploy.mp3",
+  "ethical": "audio/2026-11-18/a2-w-ethical.mp3",
+  "Is it ethical to use people's online photos to train an AI system without asking them?": "audio/2026-11-18/a2-ex-ethical.mp3",
+  "dexterity": "audio/2026-11-18/a2-w-dexterity.mp3",
+  "Playing the violin well requires great dexterity in both hands.": "audio/2026-11-18/a2-ex-dexterity.mp3",
+  "simulation": "audio/2026-11-18/a2-w-simulation.mp3",
+  "Pilots train in a flight simulation before they fly a real plane.": "audio/2026-11-18/a2-ex-simulation.mp3",
+  "architecture": "audio/2026-11-18/a2-w-architecture.mp3",
+  "The engineers changed the architecture of the app so that it could handle more users.": "audio/2026-11-18/a2-ex-architecture.mp3",
+  "skeptic": "audio/2026-11-18/a2-w-skeptic.mp3",
+  "Even a skeptic had to admit that the new battery performed well in the test.": "audio/2026-11-18/a2-ex-skeptic.mp3",
+  "execution": "audio/2026-11-18/a2-w-execution.mp3",
+  "The plan was clever, but its execution was poor.": "audio/2026-11-18/a2-ex-execution.mp3",
+  "Its strategy depends on an unusual source of knowledge: ordinary workers wearing special gloves.": "audio/2026-11-18/a2-ks1.mp3",
+  "AI chatbots became powerful by learning from enormous amounts of text on the internet, but there is no comparable library of touch.": "audio/2026-11-18/a2-ks2.mp3",
+  "Rather than hiding these errors, the company described them as \"hiccup data\", mistakes that can be fed back into the model so it learns to recover.": "audio/2026-11-18/a2-ks3.mp3",
+  "Supporters see enormous potential.": "audio/2026-11-18/a2-ks4.mp3",
+  "Until robots perform reliably for months in real workplaces, he and others argue, the technology remains a promise rather than a product.": "audio/2026-11-18/a2-ks5.mp3",
+  "As AI moves from screens into the physical world, human skill itself becomes valuable training material.": "audio/2026-11-18/a2-ks6.mp3",
+  "For nearly a decade, an unusual idea has attracted both excitement and doubt in Alzheimer's research: that flickering lights and buzzing sounds might slow the disease. This week, the idea faced its biggest test so far. Cognito Therapeutics, a company based in Cambridge, Massachusetts, presented the results of a year-long trial of its headset, called Spectris, at a major Alzheimer's conference in Boston. Within hours, the news coverage split in two. One leading science journal reported that the therapy had \"flopped\"; a local newspaper said it \"may slow Alzheimer's symptoms in some patients.\" Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.": "audio/2026-11-18/a3-p1.mp3",
+  "The science behind the device begins with brain rhythms. Groups of neurons fire together in regular waves, and one fast pattern, known as gamma oscillations, at around 40 cycles per second, is linked to attention and memory. In Alzheimer's disease, these rhythms weaken early. In 2016, researchers at the Massachusetts Institute of Technology reported that exposing mice to light flickering 40 times a second reduced the sticky amyloid plaques associated with the disease. Two of the scientists involved went on to found Cognito, and the company built a device that looks like a pair of glasses attached to headphones and is used at home for about an hour a day.": "audio/2026-11-18/a3-p2.mp3",
+  "The new trial, called HOPE, was designed to answer a clear question. It enrolled 673 people with mild to moderate Alzheimer's and randomly assigned them to use either the real device or a \"sham\" version that looked similar but did not deliver the 40-hertz stimulation. Neither the patients nor the researchers knew who received which, a design known as double-blind. Before the trial began, the company chose a single primary endpoint, a combined score of thinking and everyday abilities, to decide whether the device worked.": "audio/2026-11-18/a3-p3.mp3",
+  "On that main measure, the device failed. Across all participants, there was no meaningful difference between the real and the sham groups. The company's chief executive, Christian Howell, admitted that the team had hoped to see an effect in the full population and did not. However, when the researchers looked only at the 395 people with mild disease, the picture changed. In this group, daily functioning declined 56% more slowly than in the sham group, and a standard clinical rating declined 47% more slowly. Patients who used the device on at least 70% of days appeared to benefit even more, while those with more advanced disease showed little improvement.": "audio/2026-11-18/a3-p4.mp3",
+  "For the company, these numbers are a reason for optimism. Howell argues that medical devices should be judged on whether their benefits outweigh their risks, not on a single statistical target, and the headset appears to be relatively safe: its most common side effects were headaches and ringing in the ears. By comparison, the antibody drugs recently approved for Alzheimer's slow decline by roughly 20 to 30% but can cause swelling or bleeding in the brain. Cognito plans to ask the US Food and Drug Administration for authorization to treat mild Alzheimer's, with a filing expected in 2027.": "audio/2026-11-18/a3-p5.mp3",
+  "Many independent experts, however, remain unconvinced. Paul Aisen of the University of Southern California called the overall result \"simply negative\" and described the subgroup findings as exploratory. The problem is statistical: when researchers divide a trial into many smaller groups after seeing the data, some groups will show impressive results purely by chance. Daniel Gillen of the University of California, Irvine, made a related point about adherence. People who faithfully use a treatment every day may differ from those who do not, for example by being healthier or having more family support, so their better outcomes do not prove that the device caused the improvement. The results have also not yet been published in a peer-reviewed journal.": "audio/2026-11-18/a3-p6.mp3",
+  "There are practical questions, too. Fewer than half of the patients with mild disease used the device on at least 70% of days, and a researcher at Mount Sinai doubted that an hour of daily flickering is realistic for many older people. Meanwhile, several companies already sell unproven 40-hertz products directly to consumers, and experts worry that mixed headlines could encourage desperate families to spend money on devices with no reliable evidence behind them.": "audio/2026-11-18/a3-p7.mp3",
+  "The HOPE trial will not settle the debate. What it offers instead is a lesson in reading scientific news. A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion. For the millions of families affected by Alzheimer's, hope is understandable, and the device may yet prove useful for some patients. But as this case shows, the gap between \"it might work for some people\" and \"it works\" is exactly where good science has to do its most careful thinking.": "audio/2026-11-18/a3-p8.mp3",
+  "exploratory": "audio/2026-11-18/a3-w-exploratory.mp3",
+  "The team ran a small exploratory study before planning a larger experiment.": "audio/2026-11-18/a3-ex-exploratory.mp3",
+  "adherence": "audio/2026-11-18/a3-w-adherence.mp3",
+  "Good adherence to the training plan helped her finish the marathon.": "audio/2026-11-18/a3-ex-adherence.mp3",
+  "outweigh": "audio/2026-11-18/a3-w-outweigh.mp3",
+  "For most people, the benefits of regular exercise outweigh the effort it takes.": "audio/2026-11-18/a3-ex-outweigh.mp3",
+  "statistical": "audio/2026-11-18/a3-w-statistical.mp3",
+  "There was no statistical difference between the scores of the two classes.": "audio/2026-11-18/a3-ex-statistical.mp3",
+  "authorization": "audio/2026-11-18/a3-w-authorization.mp3",
+  "The new drone cannot be flown near the airport without authorization.": "audio/2026-11-18/a3-ex-authorization.mp3",
+  "endpoint": "audio/2026-11-18/a3-w-endpoint.mp3",
+  "The researchers chose blood pressure as the main endpoint of the study.": "audio/2026-11-18/a3-ex-endpoint.mp3",
+  "sham": "audio/2026-11-18/a3-w-sham.mp3",
+  "Patients in the control group received a sham treatment that looked identical.": "audio/2026-11-18/a3-ex-sham.mp3",
+  "double-blind": "audio/2026-11-18/a3-w-double-blind.mp3",
+  "A double-blind design stops researchers' hopes from influencing the results.": "audio/2026-11-18/a3-ex-double-blind.mp3",
+  "peer-reviewed": "audio/2026-11-18/a3-w-peer-reviewed.mp3",
+  "Students should cite peer-reviewed articles rather than random websites.": "audio/2026-11-18/a3-ex-peer-reviewed.mp3",
+  "plaque": "audio/2026-11-18/a3-w-plaque.mp3",
+  "Scientists measured the amount of plaque in each patient's brain scan.": "audio/2026-11-18/a3-ex-plaque.mp3",
+  "Both headlines were, in a sense, accurate, and understanding why reveals a great deal about how medical evidence works.": "audio/2026-11-18/a3-ks1.mp3",
+  "In Alzheimer's disease, these rhythms weaken early.": "audio/2026-11-18/a3-ks2.mp3",
+  "However, when the researchers looked only at the 395 people with mild disease, the picture changed.": "audio/2026-11-18/a3-ks3.mp3",
+  "For the company, these numbers are a reason for optimism.": "audio/2026-11-18/a3-ks4.mp3",
+  "The problem is statistical: when researchers divide a trial into many smaller groups after seeing the data, some groups will show impressive results purely by chance.": "audio/2026-11-18/a3-ks5.mp3",
+  "A trial's pre-planned main result carries the most weight; a promising subgroup is a clue that deserves a new, carefully designed study, not a conclusion.": "audio/2026-11-18/a3-ks6.mp3"
+ }
+}
