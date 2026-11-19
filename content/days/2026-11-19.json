@@ -1,0 +1,2127 @@
+{
+ "date": "2026-11-19",
+ "headline": "AI's Trillion-Dollar Bet, a Rainforest Ancestor and Baboon-Hunting Eagles",
+ "teaser": "Is a $1.5 trillion price tag a forecast or a bubble? Could an ancient human thrive in a rainforest? And were our ancestors ever on an eagle's menu?",
+ "articles": [
+  {
+   "id": "n20261119-1",
+   "topic": "Economy",
+   "title": "Anthropic's Giant IPO Puts the AI Boom to the Test",
+   "dek": "A $1.5 trillion stock-market debut shows huge faith in artificial intelligence, but is the price a sound forecast or a sign that excitement is racing ahead of evidence?",
+   "sources": [
+    {
+     "name": "CBS News, 18 Nov 2026",
+     "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+    },
+    {
+     "name": "Fortune, 18 Nov 2026",
+     "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+    },
+    {
+     "name": "Yahoo Finance, 18 Nov 2026",
+     "url": "https://www.yahoo.com/news/articles/anthropic-prices-ipo-83-share-232308928.html"
+    }
+   ],
+   "paras": [
+    "On Thursday, 19 November, shares of Anthropic, the San Francisco company behind the Claude family of AI models, are due to begin trading on the Nasdaq stock exchange under the ticker \"ANT\". The night before, the firm priced its stock at $83 a share, above the $70–$78 range it had suggested only days earlier, giving it a market value of roughly $1.5 trillion. According to reports, orders from investors were nearly seven times larger than the number of shares on offer. For a company founded only in 2021, it is an extraordinary debut, and many observers see it as a referendum on the entire artificial-intelligence boom.",
+    "An initial public offering (IPO) is the moment a private company first sells its shares to the general public. Until now, Anthropic has been owned by its founders, its employees and a relatively small circle of large investors, including technology giants such as Google and Amazon. By listing on a stock exchange, the company gains access to an enormous pool of capital, while ordinary savers gain the chance to own a slice of it. In return, Anthropic must publish detailed financial accounts every quarter and answer to thousands of shareholders who will judge its performance day by day.",
+    "The figures in the company's filings help to explain the excitement. Anthropic reported revenue of $33.2 billion for the first nine months of 2026, more than twelve times the figure for the same period a year earlier, including nearly $17 billion in the third quarter alone. The number of business customers paying it at least $100,000 a year climbed from about 950 to more than 11,900. Arun Sundararajan, a professor at New York University's Stern School of Business, has argued that there is \"no real historical analogy\" for a company growing at this pace. To supporters, such numbers suggest that AI has moved beyond hype and is becoming a genuine engine of economic activity.",
+    "Yet rapid growth is not the same as profit. The same filings show an operating loss of about $1.26 billion over those nine months, driven largely by the cost of computing power. Training and running advanced AI models requires vast data centres packed with expensive chips, and Anthropic has made commitments to spend close to $1 trillion on chips and infrastructure through 2045. In other words, the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance. If that demand slows, those commitments could become a heavy burden.",
+    "Sceptics also point to forces beyond the company's control. Rivals such as OpenAI, Google and Meta are racing to build similar systems, while cheaper open-source models could tempt customers to switch. Some politicians have begun calling for tighter rules on AI and even pauses on new data-centre construction. History offers a further warning: according to Yahoo Finance, every one of the twelve biggest US stock-market debuts since 2008 was trading below its first-day price within a year. The investor Bradley Tusk has warned that the pressure of quarterly targets could push the company to release products faster than it might otherwise choose.",
+    "That pressure matters because Anthropic has built its reputation on caution. Its founders left OpenAI partly because of concerns about AI safety, and the company has long argued that powerful systems should be developed carefully and tested thoroughly before they are released. Public markets, however, tend to reward speed and short-term results. Whether a firm can satisfy impatient shareholders while still taking its time on safety is one of the most interesting questions raised by the listing, and it is a question that may not be answered for years.",
+    "The outcome will not affect only professional traders. Up to 20 per cent of the shares have been set aside for individual investors through popular brokerage apps, and millions of people already have indirect exposure to AI through pension funds and retirement accounts that hold large technology stocks. A strong debut could lift confidence across the sector and encourage businesses to adopt AI more quickly. A weak one could suggest that investors are becoming more selective about paying premium prices for AI companies, with ripple effects far beyond a single firm.",
+    "Ultimately, an IPO price is a collective forecast rather than a final verdict. It reflects what buyers believe the company will earn many years from now, not what it earns today. Optimists see Anthropic as an early leader in a technology that could transform how people work; pessimists see a familiar pattern in which excitement races ahead of evidence, as it did during the dot-com bubble of the late 1990s. Thursday's trading will reveal the market's first opinion, but the real test of the AI boom will arrive slowly, quarter by quarter."
+   ],
+   "words": [
+    {
+     "w": "initial public offering",
+     "level": "Topic term",
+     "pos": "noun phrase",
+     "ipa": "/ɪˌnɪʃl ˌpʌblɪk ˈɒfərɪŋ/",
+     "syl": [
+      "in",
+      "i",
+      "tial",
+      "pub",
+      "lic",
+      "of",
+      "fer",
+      "ing"
+     ],
+     "def": "the first time a company sells its shares to the general public",
+     "ex": "The electric-bike maker is planning an initial public offering next spring to pay for new factories."
+    },
+    {
+     "w": "referendum",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌrefəˈrendəm/",
+     "syl": [
+      "ref",
+      "er",
+      "en",
+      "dum"
+     ],
+     "def": "an event treated as a public judgement on a wider issue (literally, a direct vote on one question)",
+     "ex": "Many people saw the local election as a referendum on the mayor's housing policy."
+    },
+    {
+     "w": "commitment",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kəˈmɪtmənt/",
+     "syl": [
+      "com",
+      "mit",
+      "ment"
+     ],
+     "def": "a promise or agreement to do or pay for something in the future",
+     "ex": "The school made a commitment to buy a new laptop for every classroom by 2028."
+    },
+    {
+     "w": "wager",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈweɪdʒə(r)/",
+     "syl": [
+      "wa",
+      "ger"
+     ],
+     "def": "to risk money or effort on the belief that something will happen",
+     "ex": "Farmers who wager on a wet summer may plant crops that need a lot of water."
+    },
+    {
+     "w": "burden",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈbɜːdn/",
+     "syl": [
+      "bur",
+      "den"
+     ],
+     "def": "a heavy duty, cost or responsibility that is difficult to carry",
+     "ex": "Rising rent has become a serious burden for many young families."
+    },
+    {
+     "w": "sceptic",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈskeptɪk/",
+     "syl": [
+      "scep",
+      "tic"
+     ],
+     "def": "a person who doubts that a claim or plan is true or will work",
+     "ex": "Even the strongest sceptic admitted that the new results were impressive."
+    },
+    {
+     "w": "exposure",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪkˈspəʊʒə(r)/",
+     "syl": [
+      "ex",
+      "po",
+      "sure"
+     ],
+     "def": "(finance) the degree to which your money is affected by changes in a market or company",
+     "ex": "A fund with heavy exposure to oil companies can lose value quickly when fuel prices fall."
+    },
+    {
+     "w": "premium",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈpriːmiəm/",
+     "syl": [
+      "pre",
+      "mi",
+      "um"
+     ],
+     "def": "higher than usual; describing a price paid above normal value",
+     "ex": "Fans paid a premium price for seats close to the stage."
+    },
+    {
+     "w": "ripple effect",
+     "level": "Topic term",
+     "pos": "noun phrase",
+     "ipa": "/ˈrɪpl ɪˌfekt/",
+     "syl": [
+      "rip",
+      "ple",
+      "ef",
+      "fect"
+     ],
+     "def": "a series of consequences that spread outwards from one event",
+     "ex": "The factory closure had a ripple effect on local shops and restaurants."
+    },
+    {
+     "w": "forecast",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈfɔːkɑːst/",
+     "syl": [
+      "fore",
+      "cast"
+     ],
+     "def": "a statement about what is expected to happen in the future",
+     "ex": "The bank's latest forecast predicts slower economic growth next year."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "For a company founded only in 2021, it is an extraordinary debut, and many observers see it as a referendum on the entire artificial-intelligence boom.",
+     "kind": "Main idea",
+     "note": "States why the IPO matters beyond one company; main-idea questions often target this framing sentence."
+    },
+    {
+     "para": 3,
+     "text": "To supporters, such numbers suggest that AI has moved beyond hype and is becoming a genuine engine of economic activity.",
+     "kind": "Interpretation",
+     "note": "Shows how the author links data to one side's opinion; useful for inference questions about who believes what."
+    },
+    {
+     "para": 4,
+     "text": "Yet rapid growth is not the same as profit.",
+     "kind": "Topic sentence",
+     "note": "\"Yet\" signals a contrast with paragraph 3; topic sentences like this predict the whole paragraph."
+    },
+    {
+     "para": 4,
+     "text": "In other words, the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance.",
+     "kind": "Cause → effect",
+     "note": "\"In other words\" restates the risk in simpler terms, a common source of inference questions."
+    },
+    {
+     "para": 6,
+     "text": "Public markets, however, tend to reward speed and short-term results.",
+     "kind": "Critical thinking",
+     "note": "Sets up the tension between safety and shareholder pressure, the passage's key debate."
+    },
+    {
+     "para": 8,
+     "text": "Ultimately, an IPO price is a collective forecast rather than a final verdict.",
+     "kind": "Author's view",
+     "note": "The author's own conclusion; summary questions reward recognising this balanced position."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"referendum\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "an official vote held to settle a political question",
+      "an event seen as a judgement on something larger",
+      "a celebration marking a remarkable achievement",
+      "a formal inquiry into possible wrongdoing"
+     ],
+     "a": 1,
+     "why": "In context, the IPO is treated as a test of opinion on the whole AI boom, not as an actual vote.",
+     "evidence": "many observers see it as a referendum on the entire artificial-intelligence boom",
+     "optWhy": [
+      "Wrong: another meaning of the word. This is the literal dictionary meaning, but nobody votes on anything in paragraph 1; the word is used figuratively.",
+      "Correct. \"a referendum on the entire artificial-intelligence boom\" = an event seen as a judgement on something larger (the whole AI boom, not just one company).",
+      "Wrong: misreads the context. The debut is called \"extraordinary\", but \"referendum\" describes a judgement, not a celebration.",
+      "Wrong: not mentioned. Paragraph 1 says nothing about an investigation or wrongdoing."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "For a company founded only in 2021, it is an extraordinary debut, and many observers see it as a referendum on the entire artificial-intelligence boom.",
+       "hl": "a referendum on the entire artificial-intelligence boom"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"referendum\" at the end of paragraph 1."
+      },
+      {
+       "t": "Use the context",
+       "x": "It is \"on the entire artificial-intelligence boom\", so it is a judgement about something bigger than the company."
+      },
+      {
+       "t": "Reject the literal meaning",
+       "x": "No vote takes place, so the dictionary meaning in A does not fit."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, which of the following is true about Anthropic's business customers?",
+     "opts": [
+      "Most of them now pay the company more than $100,000 every quarter.",
+      "Their number roughly doubled during the third quarter of 2026.",
+      "Together they produced exactly $17 billion of the company's revenue.",
+      "The number paying at least $100,000 a year has risen more than tenfold."
+     ],
+     "a": 3,
+     "why": "The number of customers paying at least $100,000 a year rose from about 950 to more than 11,900, an increase of more than ten times.",
+     "evidence": "climbed from about 950 to more than 11,900",
+     "optWhy": [
+      "Wrong: distorted detail. The text counts customers paying \"at least $100,000 a year\"; it never says most customers pay this, and it says \"a year\", not \"every quarter\".",
+      "Wrong: number changed. The rise was from \"about 950 to more than 11,900\", far more than double, and the text does not place it in the third quarter.",
+      "Wrong: details mixed up. \"nearly $17 billion in the third quarter\" is total revenue for that quarter, not money from these customers.",
+      "Correct. \"climbed from about 950 to more than 11,900\" = risen more than tenfold (about twelve times)."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "The number of business customers paying it at least $100,000 a year climbed from about 950 to more than 11,900.",
+       "hl": "climbed from about 950 to more than 11,900"
+      },
+      {
+       "para": 3,
+       "text": "Anthropic reported revenue of $33.2 billion for the first nine months of 2026, more than twelve times the figure for the same period a year earlier, including nearly $17 billion in the third quarter alone.",
+       "hl": "nearly $17 billion in the third quarter alone"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan for \"customers\"",
+       "x": "The sentence about customers is in the middle of paragraph 3."
+      },
+      {
+       "t": "Do the maths",
+       "x": "950 to 11,900 is about twelve times, so \"more than tenfold\" fits."
+      },
+      {
+       "t": "Check the numbers",
+       "x": "$17 billion belongs to the revenue sentence, so C mixes two details."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are presented as risks for Anthropic EXCEPT",
+     "opts": [
+      "a shortage of the chips needed to run its models",
+      "competition from rivals building similar systems",
+      "customers switching to cheaper open-source models",
+      "political calls for tighter rules on AI"
+     ],
+     "a": 0,
+     "why": "Paragraph 5 lists rivals, cheaper open-source models and political calls for regulation; a chip shortage is never mentioned (chips appear only as a cost in paragraph 4).",
+     "evidence": "Rivals such as OpenAI, Google and Meta are racing to build similar systems",
+     "optWhy": [
+      "Correct. Not mentioned in paragraph 5. Chips appear only in paragraph 4, as an expensive cost (\"packed with expensive chips\"), not as something in short supply.",
+      "Wrong: this IS mentioned: \"Rivals such as OpenAI, Google and Meta are racing to build similar systems.\"",
+      "Wrong: this IS mentioned: \"cheaper open-source models could tempt customers to switch.\"",
+      "Wrong: this IS mentioned: \"Some politicians have begun calling for tighter rules on AI.\""
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Rivals such as OpenAI, Google and Meta are racing to build similar systems, while cheaper open-source models could tempt customers to switch.",
+       "hl": "cheaper open-source models could tempt customers to switch"
+      },
+      {
+       "para": 5,
+       "text": "Some politicians have begun calling for tighter rules on AI and even pauses on new data-centre construction.",
+       "hl": "calling for tighter rules on AI"
+      },
+      {
+       "para": 4,
+       "text": "Training and running advanced AI models requires vast data centres packed with expensive chips, and Anthropic has made commitments to spend close to $1 trillion on chips and infrastructure through 2045.",
+       "hl": "packed with expensive chips"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the risks",
+       "x": "Paragraph 5 names rivals, open-source models, politicians and IPO history."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "B, C and D each match a phrase in paragraph 5."
+      },
+      {
+       "t": "Spot the borrowed detail",
+       "x": "Chips come from paragraph 4 and are a cost, not a shortage, so A is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about Anthropic's spending commitments?",
+     "opts": [
+      "They have already been fully paid for out of the company's revenue.",
+      "They will be cancelled automatically if demand for AI begins to slow.",
+      "They depend on expectations about future demand rather than on current sales.",
+      "They are the main reason the company's revenue grew more than twelvefold."
+     ],
+     "a": 2,
+     "why": "The company is \"wagering\" that future demand will pay for capacity bought \"years in advance\", so the commitments rest on expectations about the future.",
+     "evidence": "the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance",
+     "optWhy": [
+      "Wrong: contradicts the text. The firm still made \"an operating loss of about $1.26 billion\", and the commitments run \"through 2045\", so they cannot already be paid for.",
+      "Wrong: too extreme. The text only says that if demand slows, \"those commitments could become a heavy burden\"; nothing is cancelled.",
+      "Correct. \"wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance\" = the spending depends on expected future demand, not today's sales.",
+      "Wrong: cause and effect reversed. The spending is a cost that drives the loss (\"driven largely by the cost of computing power\"); it is not given as the reason revenue grew."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "In other words, the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance.",
+       "hl": "wagering that demand will keep rising"
+      },
+      {
+       "para": 4,
+       "text": "If that demand slows, those commitments could become a heavy burden.",
+       "hl": "could become a heavy burden"
+      },
+      {
+       "para": 4,
+       "text": "The same filings show an operating loss of about $1.26 billion over those nine months, driven largely by the cost of computing power.",
+       "hl": "operating loss of about $1.26 billion"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the commitments",
+       "x": "Paragraph 4 mentions close to $1 trillion of spending through 2045."
+      },
+      {
+       "t": "Read the signal phrase",
+       "x": "\"In other words\" introduces the author's explanation: the firm is wagering on future demand."
+      },
+      {
+       "t": "Check for extremes",
+       "x": "\"could become a heavy burden\" is not \"cancelled automatically\", so B goes too far."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 8,
+     "q": "Why does the author mention \"the dot-com bubble of the late 1990s\" in paragraph 8?",
+     "opts": [
+      "To argue that Anthropic will collapse in the same way as earlier internet firms",
+      "To illustrate the kind of pattern that pessimists fear may be repeating",
+      "To explain how stock-market prices for new companies were set in the past",
+      "To show that investors have since learned to avoid paying high prices"
+     ],
+     "a": 1,
+     "why": "The dot-com bubble is the example of a familiar pattern (excitement racing ahead of evidence) that pessimists worry is happening again.",
+     "evidence": "pessimists see a familiar pattern in which excitement races ahead of evidence, as it did during the dot-com bubble of the late 1990s",
+     "optWhy": [
+      "Wrong: too extreme. The author reports what \"pessimists see\"; the passage never claims the company will collapse.",
+      "Correct. \"pessimists see a familiar pattern … as it did during the dot-com bubble\" = the bubble illustrates the pattern pessimists fear is repeating.",
+      "Wrong: not the purpose. Paragraph 8 does not explain how prices were set in the 1990s.",
+      "Wrong: opposite idea. The comparison suggests history may repeat; nothing says investors have learned to avoid high prices."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "Optimists see Anthropic as an early leader in a technology that could transform how people work; pessimists see a familiar pattern in which excitement races ahead of evidence, as it did during the dot-com bubble of the late 1990s.",
+       "hl": "as it did during the dot-com bubble of the late 1990s"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the reference",
+       "x": "The dot-com bubble appears in the optimists-versus-pessimists sentence of paragraph 8."
+      },
+      {
+       "t": "Ask whose view it is",
+       "x": "It belongs to the pessimists' side, as an example of \"a familiar pattern\"."
+      },
+      {
+       "t": "Choose the function",
+       "x": "An example used to illustrate a fear, not a prediction or a history lesson."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The listing raises a key question that may stay open for years: can the firm please impatient investors and still be careful about safety?",
+      "Impatient shareholders will force the firm to spend less time on safety soon after the listing, as many people expect.",
+      "Shareholders have asked the firm many interesting questions about safety, and it plans to answer them over the next few years.",
+      "The firm will need several years to satisfy its shareholders, because careful safety testing slows down the listing process."
+     ],
+     "a": 0,
+     "why": "The sentence says the listing raises an open question (can the firm satisfy impatient shareholders and still be careful about safety?) that may take years to answer.",
+     "evidence": "Whether a firm can satisfy impatient shareholders while still taking its time on safety is one of the most interesting questions raised by the listing",
+     "optWhy": [
+      "Correct. It keeps both essential parts: the question (\"satisfy impatient shareholders while still taking its time on safety\") and the time frame (\"may not be answered for years\").",
+      "Wrong: meaning changed. The original is an open question (\"Whether …\"); this option turns it into a certain prediction (\"will force\").",
+      "Wrong: wrong subject. The question is \"raised by the listing\", not asked by shareholders, and the firm has no plan to answer it.",
+      "Wrong: invented cause. The sentence never says safety testing slows the listing; the listing has already happened."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Whether a firm can satisfy impatient shareholders while still taking its time on safety is one of the most interesting questions raised by the listing, and it is a question that may not be answered for years.",
+       "hl": "may not be answered for years"
+      },
+      {
+       "para": 6,
+       "text": "Public markets, however, tend to reward speed and short-term results.",
+       "hl": "reward speed and short-term results"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: the question (shareholders vs safety). Part 2: it may not be answered for years."
+      },
+      {
+       "t": "Check each option for both parts",
+       "x": "Only A keeps the question as a question and keeps \"for years\"."
+      },
+      {
+       "t": "Watch for certainty",
+       "x": "B turns \"whether\" into \"will\", which changes the meaning."
+      }
+     ],
+     "highlight": "Whether a firm can satisfy impatient shareholders while still taking its time on safety is one of the most interesting questions raised by the listing, and it is a question that may not be answered for years."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261119-1-k1",
+     "tag": "Facts",
+     "fact": "Anthropic priced its shares at $83, above its $70–$78 range, valuing it at about $1.5 trillion.",
+     "q": "At what price did Anthropic sell its shares?",
+     "opts": [
+      "$70",
+      "$78",
+      "$83",
+      "$1.5 trillion"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261119-1-k2",
+     "tag": "Growth",
+     "fact": "Revenue reached $33.2 billion in the first nine months of 2026, more than twelve times a year earlier.",
+     "q": "How did revenue change compared with a year earlier?",
+     "opts": [
+      "It doubled",
+      "It grew more than twelvefold",
+      "It fell slightly"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-1-k3",
+     "tag": "Risk",
+     "fact": "The company still made an operating loss of about $1.26 billion, mainly because computing power is so expensive.",
+     "q": "What mainly caused Anthropic's operating loss?",
+     "opts": [
+      "Legal fees",
+      "The cost of computing power",
+      "Advertising"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-1-k4",
+     "tag": "Debate",
+     "fact": "Sceptics point to rivals, cheaper open-source models, political pressure and the poor record of big IPOs.",
+     "q": "Which is NOT a risk named by sceptics?",
+     "opts": [
+      "Cheaper open-source models",
+      "Political calls for rules",
+      "A shortage of engineers"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261119-1-k5",
+     "tag": "Tension",
+     "fact": "Public markets reward speed, which may clash with the company's reputation for caution on safety.",
+     "q": "Why might the listing create tension for Anthropic?",
+     "opts": [
+      "Markets reward speed, but the firm values caution",
+      "Markets ban AI companies",
+      "Investors dislike profits"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261119-1-k6",
+     "tag": "Big picture",
+     "fact": "An IPO price is a forecast of future earnings, not a verdict on today's business.",
+     "q": "According to the author, an IPO price is mainly…",
+     "opts": [
+      "a final verdict",
+      "a collective forecast",
+      "a government estimate"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Anthropic's IPO",
+    "question": "Is the $1.5 trillion price a sound forecast or a bubble?",
+    "branches": [
+     {
+      "title": "The debut",
+      "paras": "1–2",
+      "blanks": [
+       "priced at $83 a share",
+       "orders nearly seven times larger"
+      ],
+      "kps": [
+       "n20261119-1-k1"
+      ]
+     },
+     {
+      "title": "Case for",
+      "paras": "3",
+      "blanks": [
+       "revenue up more than twelvefold",
+       "customers paying $100,000 rose sharply"
+      ],
+      "kps": [
+       "n20261119-1-k2"
+      ]
+     },
+     {
+      "title": "Case against",
+      "paras": "4–5",
+      "blanks": [
+       "$1.26 billion operating loss",
+       "big IPOs fell within a year"
+      ],
+      "kps": [
+       "n20261119-1-k3",
+       "n20261119-1-k4"
+      ]
+     },
+     {
+      "title": "Wider stakes",
+      "paras": "6–8",
+      "blanks": [
+       "safety versus shareholder pressure",
+       "pension funds feel ripple effects"
+      ],
+      "kps": [
+       "n20261119-1-k5",
+       "n20261119-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "government owns most shares",
+     "company already highly profitable"
+    ]
+   },
+   "summary": {
+    "intro": "Anthropic's record-sized stock-market debut is widely seen as a test of the AI boom.",
+    "model": "Anthropic's IPO reflects remarkable growth, so supporters see AI as a real economic engine. However, heavy losses, huge spending commitments and market pressure that may clash with its focus on safety mean the price is a forecast whose real test will come slowly.",
+    "options": [
+     {
+      "t": "The company's rapid revenue growth convinces supporters that AI is becoming a genuine economic engine.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "AI has moved beyond hype and is becoming a genuine engine of economic activity"
+     },
+     {
+      "t": "Large losses and long-term spending commitments mean the company is betting heavily on future demand.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "the company is wagering that demand will keep rising"
+     },
+     {
+      "t": "Pressure from shareholders may conflict with the company's careful approach to safety, and the outcome will matter well beyond one firm.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Public markets, however, tend to reward speed and short-term results"
+     },
+     {
+      "t": "Orders from investors were nearly seven times larger than the number of shares on offer.",
+      "ok": false,
+      "type": "detail",
+      "para": 1,
+      "evidence": "orders from investors were nearly seven times larger than the number of shares on offer"
+     },
+     {
+      "t": "The government has promised to buy back the shares if their price falls.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Because the company is already very profitable, sceptics have no serious concerns about its price.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "Yet rapid growth is not the same as profit"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think teenagers should learn how the stock market works and even practise investing small amounts of money. Others think this is too risky and should wait until adulthood. Which view do you agree with, and why? Use specific reasons and examples.",
+    "hint": "Choose one side; give two reasons (e.g., learning about risk early, understanding news like today's IPO) and one example; finish with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Lee: This week a major artificial-intelligence company listed on the stock market at a value of about $1.5 trillion, even though it is not yet profitable. Some economists say such high prices reflect a real technological revolution; others warn of a bubble that could hurt ordinary savers. In your opinion, is the huge amount of money flowing into AI companies mostly a positive or a negative development for society? Why? Mia: \"I think it is mostly positive. Investment pays for the expensive research and data centres that new technologies need. Without big investors willing to take risks, useful tools like AI tutors or medical assistants would arrive much more slowly.\" Ethan: \"I'm more worried. When prices rise this fast, many people buy because they fear missing out, not because they understand the business. If the bubble bursts, pension funds and small investors could lose a lot, and that money could have supported other industries.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Mia or Ethan and add a new idea of your own.",
+     "Support it with one specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261119-2",
+   "topic": "Science",
+   "title": "Homo erectus Survived Longer Than Thought in China's Rainforests",
+   "dek": "Fossil teeth from Guangxi suggest an ancient human species lasted far longer than believed, and in a habitat many thought it could not handle. What, then, finally wiped it out?",
+   "sources": [
+    {
+     "name": "EurekAlert! (Macquarie University), 18 Nov 2026",
+     "url": "https://www.eurekalert.org/news-releases/1151969"
+    },
+    {
+     "name": "National Geographic, 18 Nov 2026",
+     "url": "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest"
+    },
+    {
+     "name": "ABC News (Australia), 19 Nov 2026",
+     "url": "https://www.abc.net.au/news/science/2026-11-19/other-ancient-humans-may-have-adapted-to-rainforests/107394402"
+    }
+   ],
+   "paras": [
+    "For decades, the story of Homo erectus seemed to have a clear ending. This long-legged human relative, which left Africa almost two million years ago and spread as far as Java and northern China, was thought by many researchers to have vanished from mainland Asia around 400,000 years ago. Two papers published in Nature on 18 November challenge that view. Eight fossil teeth from two caves in Guangxi, in southern China, suggest that the species survived there until somewhere between 324,000 and 184,000 years ago, up to 200,000 years longer than previously believed.",
+    "Homo erectus was the first human species with body proportions similar to our own, and it was remarkably successful, surviving for well over a million years. Scientists have usually linked it with open grasslands and woodlands, where large animals could be hunted or scavenged. Tropical rainforests, by contrast, were regarded as a hostile home: food is scattered, and prey animals hide high in the canopy or move quickly through dense vegetation. This led to a widespread assumption that only Homo sapiens possessed the skills needed to live in such places.",
+    "The new teeth came from Baxian and Naxian caves, near the city of Chongzuo. Curiously, the researchers believe that porcupines collected many of the bones, since these rodents gnaw on bones to keep their teeth sharp. To identify the human teeth, the team, which included scientists from Australia, Germany and the Chinese Academy of Sciences, examined their internal shape and also extracted ancient proteins, which can survive far longer than DNA in very old fossils. Both lines of evidence pointed to Homo erectus. A ninth tooth could not be identified and may belong to a Denisovan or another archaic group.",
+    "Establishing the age of the fossils was just as important. The researchers applied five independent dating techniques to the teeth, to mineral deposits that had formed on them and to the surrounding layers of cave sediment. By combining these methods, the authors are able to describe the teeth as the youngest securely dated evidence of Homo erectus in mainland China. Using several methods matters in this field, since a single technique can be thrown off by water seeping through the rock or by material shifting between layers over thousands of years.",
+    "The second paper reconstructed the world these hominins inhabited. Chemical signals locked inside tooth enamel record what an animal ate and drank as it grew. The signals from the human teeth closely matched those of animals found in the same caves, including orangutans and an extinct forest elephant, and they pointed to diets based on dense rainforest. Strontium, an element that reflects the local rock, revealed that some individuals had moved over large areas during childhood, possibly travelling from as far away as present-day northern Vietnam.",
+    "If these interpretations are correct, a popular explanation for the species' disappearance needs rethinking. Researchers had argued that Homo erectus died out as its preferred open habitats turned into forest, because it lacked the flexibility to adapt. \"They're very flexible, they're adaptable, and they're mobile,\" said Renaud Joannes-Boyau of Southern Cross University, one of the study's leaders. Ben Marwick of the University of Washington, who was not involved, suggested that the belief that only our species could cope with rainforests may reflect a kind of \"Homo sapiens exceptionalism\".",
+    "Not everyone is ready to rewrite the textbooks, however. Julien Louys of Griffith University noted that the conclusion rests on a small sample of teeth, even though he agreed that, if confirmed, the findings would show unusual ecological flexibility. Jesse Martin of La Trobe University argued that the result is less surprising than it seems, because Homo erectus persisted on the Indonesian island of Java until little more than 100,000 years ago, in a region that was itself becoming increasingly forested.",
+    "The discovery therefore raises as many questions as it answers. If Homo erectus could thrive in a rainforest refuge for so long, then a lack of adaptability may not explain why it eventually disappeared, and scientists must look harder at other factors, such as climate swings, competition or disease. Southern China, once seen as a remote corner of human prehistory, is now at the centre of that debate. As one researcher put it, the teeth \"give evidence of Homo erectus surviving in rainforests\", and that alone makes our ancestors' story more complicated, and more interesting, than it once appeared."
+   ],
+   "words": [
+    {
+     "w": "vanish",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈvænɪʃ/",
+     "syl": [
+      "van",
+      "ish"
+     ],
+     "def": "to disappear suddenly or completely",
+     "ex": "Many small shops vanish when a large shopping centre opens nearby."
+    },
+    {
+     "w": "assumption",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/əˈsʌmpʃn/",
+     "syl": [
+      "as",
+      "sump",
+      "tion"
+     ],
+     "def": "something that people accept as true without proof",
+     "ex": "The plan was based on the assumption that prices would stay low."
+    },
+    {
+     "w": "hostile",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈhɒstaɪl/",
+     "syl": [
+      "hos",
+      "tile"
+     ],
+     "def": "(of a place or conditions) very difficult to live in; also unfriendly or aggressive",
+     "ex": "The deep ocean is a hostile place for almost every kind of life."
+    },
+    {
+     "w": "canopy",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkænəpi/",
+     "syl": [
+      "can",
+      "o",
+      "py"
+     ],
+     "def": "the top layer of branches and leaves in a forest",
+     "ex": "Many birds in the Amazon spend their whole lives in the canopy."
+    },
+    {
+     "w": "sediment",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈsedɪmənt/",
+     "syl": [
+      "sed",
+      "i",
+      "ment"
+     ],
+     "def": "sand, mud and small stones that settle in layers, for example on a lake or cave floor",
+     "ex": "Each layer of sediment at the bottom of the lake records a different period of time."
+    },
+    {
+     "w": "enamel",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪˈnæml/",
+     "syl": [
+      "e",
+      "nam",
+      "el"
+     ],
+     "def": "the hard, shiny outer layer of a tooth",
+     "ex": "Sugary drinks can slowly damage the enamel on your teeth."
+    },
+    {
+     "w": "adaptable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/əˈdæptəbl/",
+     "syl": [
+      "a",
+      "dapt",
+      "a",
+      "ble"
+     ],
+     "def": "able to change in order to suit new conditions",
+     "ex": "Crows are highly adaptable birds that thrive even in busy cities."
+    },
+    {
+     "w": "persist",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/pəˈsɪst/",
+     "syl": [
+      "per",
+      "sist"
+     ],
+     "def": "to continue to exist for a long time",
+     "ex": "Some old customs persist long after people forget why they began."
+    },
+    {
+     "w": "refuge",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈrefjuːdʒ/",
+     "syl": [
+      "ref",
+      "uge"
+     ],
+     "def": "a place where a species or person can survive safely when conditions elsewhere are bad",
+     "ex": "Mountain valleys served as a refuge for many plants during the last ice age."
+    },
+    {
+     "w": "exceptionalism",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪkˈsepʃənəlɪzəm/",
+     "syl": [
+      "ex",
+      "cep",
+      "tion",
+      "al",
+      "ism"
+     ],
+     "def": "the belief that one group is unique and does not follow the same rules as others",
+     "ex": "Some historians criticise exceptionalism because it ignores what different peoples have in common."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Two papers published in Nature on 18 November challenge that view.",
+     "kind": "Main idea",
+     "note": "A short sentence that turns the passage from the old story to the new evidence; main-idea questions often hinge on it."
+    },
+    {
+     "para": 2,
+     "text": "This led to a widespread assumption that only Homo sapiens possessed the skills needed to live in such places.",
+     "kind": "Cause → effect",
+     "note": "Explains the old belief that the new finding challenges; inference questions often ask what researchers used to think."
+    },
+    {
+     "para": 3,
+     "text": "Both lines of evidence pointed to Homo erectus.",
+     "kind": "Key details",
+     "note": "Summarises two methods (shape and proteins); factual questions reward knowing that both were used."
+    },
+    {
+     "para": 5,
+     "text": "The second paper reconstructed the world these hominins inhabited.",
+     "kind": "Topic sentence",
+     "note": "Tells you the whole paragraph is about the ancient environment, not the teeth themselves."
+    },
+    {
+     "para": 6,
+     "text": "If these interpretations are correct, a popular explanation for the species' disappearance needs rethinking.",
+     "kind": "Hedging",
+     "note": "\"If … correct\" signals caution; TOEFL often tests whether a claim is certain or only possible."
+    },
+    {
+     "para": 7,
+     "text": "Not everyone is ready to rewrite the textbooks, however.",
+     "kind": "Critical thinking",
+     "note": "Introduces counter-arguments; useful for questions about different viewpoints."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"hostile\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "unfriendly in attitude towards other people",
+      "belonging to an enemy during a war",
+      "very difficult to survive in",
+      "unfamiliar and seldom explored"
+     ],
+     "a": 2,
+     "why": "The colon after \"hostile home\" explains why: food is scattered and prey is hard to catch, so the forest is difficult to survive in.",
+     "evidence": "Tropical rainforests, by contrast, were regarded as a hostile home",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Hostile\" can describe unfriendly people, but here it describes a \"home\" (a habitat).",
+      "Wrong: another meaning of the word. The military sense (\"hostile forces\") has nothing to do with rainforests.",
+      "Correct. The text explains: \"food is scattered, and prey animals hide high in the canopy\" = the forest is very difficult to survive in.",
+      "Wrong: not supported. The problem described is getting food, not that the forest is unknown or unexplored."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Tropical rainforests, by contrast, were regarded as a hostile home: food is scattered, and prey animals hide high in the canopy or move quickly through dense vegetation.",
+       "hl": "food is scattered, and prey animals hide high in the canopy"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"hostile\" describes rainforests as a \"home\" in paragraph 2."
+      },
+      {
+       "t": "Read past the colon",
+       "x": "The colon introduces the reasons: scattered food and hidden prey."
+      },
+      {
+       "t": "Match the meaning",
+       "x": "Those reasons describe a place that is hard to survive in, so C fits; A and B are other meanings."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, why did the researchers extract ancient proteins from the teeth?",
+     "opts": [
+      "Proteins can survive much longer than DNA in very old fossils.",
+      "Porcupines had destroyed the outer shape of the teeth.",
+      "The ninth tooth was already known to be a Denisovan's.",
+      "DNA would have shown the exact age of the fossils."
+     ],
+     "a": 0,
+     "why": "The text says proteins were used because they \"can survive far longer than DNA in very old fossils\".",
+     "evidence": "ancient proteins, which can survive far longer than DNA in very old fossils",
+     "optWhy": [
+      "Correct. \"which can survive far longer than DNA in very old fossils\" = proteins can last much longer than DNA.",
+      "Wrong: invented cause. Porcupines \"collected many of the bones\"; nothing says they destroyed the teeth's shape. The team still \"examined their internal shape\".",
+      "Wrong: contradicts the text. The ninth tooth \"could not be identified and may belong to a Denisovan\"; it was not known.",
+      "Wrong: not stated. Dating is discussed in paragraph 4 and uses other methods; DNA is not said to give ages."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "To identify the human teeth, the team, which included scientists from Australia, Germany and the Chinese Academy of Sciences, examined their internal shape and also extracted ancient proteins, which can survive far longer than DNA in very old fossils.",
+       "hl": "which can survive far longer than DNA in very old fossils"
+      },
+      {
+       "para": 3,
+       "text": "A ninth tooth could not be identified and may belong to a Denisovan or another archaic group.",
+       "hl": "could not be identified"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find \"proteins\"",
+       "x": "The long sentence in the middle of paragraph 3 mentions ancient proteins."
+      },
+      {
+       "t": "Look for the reason",
+       "x": "The \"which\" clause right after \"proteins\" gives the reason."
+      },
+      {
+       "t": "Rule out borrowed details",
+       "x": "Porcupines and the ninth tooth appear nearby but answer different questions."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, the researchers applied dating techniques to all of the following EXCEPT",
+     "opts": [
+      "the human teeth themselves",
+      "mineral deposits that had formed on the teeth",
+      "the layers of sediment around the fossils",
+      "the animal bones collected by porcupines"
+     ],
+     "a": 3,
+     "why": "Paragraph 4 lists three things that were dated: the teeth, mineral deposits on them and the surrounding cave sediment. Porcupine-collected bones come from paragraph 3 and are not listed.",
+     "evidence": "applied five independent dating techniques to the teeth, to mineral deposits that had formed on them and to the surrounding layers of cave sediment",
+     "optWhy": [
+      "Wrong: this WAS dated: \"applied five independent dating techniques to the teeth\".",
+      "Wrong: this WAS dated: \"to mineral deposits that had formed on them\".",
+      "Wrong: this WAS dated: \"to the surrounding layers of cave sediment\".",
+      "Correct. Not mentioned in paragraph 4. The porcupines appear in paragraph 3 (\"porcupines collected many of the bones\"), not in the list of dated materials."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The researchers applied five independent dating techniques to the teeth, to mineral deposits that had formed on them and to the surrounding layers of cave sediment.",
+       "hl": "to the teeth, to mineral deposits that had formed on them and to the surrounding layers of cave sediment"
+      },
+      {
+       "para": 3,
+       "text": "Curiously, the researchers believe that porcupines collected many of the bones, since these rodents gnaw on bones to keep their teeth sharp.",
+       "hl": "porcupines collected many of the bones"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 4, sentence 2 lists what was dated, joined by \"to … to … and to …\"."
+      },
+      {
+       "t": "Match three options",
+       "x": "Teeth, mineral deposits and sediment all appear in the list."
+      },
+      {
+       "t": "Spot the outsider",
+       "x": "Porcupine bones are borrowed from paragraph 3, so D is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the strontium evidence?",
+     "opts": [
+      "It proves that Homo erectus first evolved in present-day northern Vietnam.",
+      "Some individuals did not spend their whole lives close to the caves.",
+      "The hominins ate mainly orangutans and extinct forest elephants.",
+      "The rock around the Guangxi caves contains no strontium at all."
+     ],
+     "a": 1,
+     "why": "If some individuals \"had moved over large areas during childhood\", they cannot have lived their whole lives near the caves.",
+     "evidence": "some individuals had moved over large areas during childhood",
+     "optWhy": [
+      "Wrong: too extreme. The text says only \"possibly travelling from as far away as present-day northern Vietnam\"; it says nothing about where the species first evolved.",
+      "Correct. \"some individuals had moved over large areas during childhood\" implies they did not stay near the caves all their lives.",
+      "Wrong: detail swapped. Orangutans and the forest elephant are animals whose chemical signals \"closely matched\" the humans'; they are not described as food.",
+      "Wrong: contradicts the logic of the text. Strontium is \"an element that reflects the local rock\", so the local rock must contain it."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Strontium, an element that reflects the local rock, revealed that some individuals had moved over large areas during childhood, possibly travelling from as far away as present-day northern Vietnam.",
+       "hl": "some individuals had moved over large areas during childhood"
+      },
+      {
+       "para": 5,
+       "text": "The signals from the human teeth closely matched those of animals found in the same caves, including orangutans and an extinct forest elephant, and they pointed to diets based on dense rainforest.",
+       "hl": "closely matched those of animals found in the same caves"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find \"strontium\"",
+       "x": "It is the last sentence of paragraph 5."
+      },
+      {
+       "t": "Infer from \"moved over large areas\"",
+       "x": "Moving in childhood means they did not stay near the caves the whole time."
+      },
+      {
+       "t": "Reject over-statements",
+       "x": "\"possibly\" cannot support \"proves\", so A is too strong."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention the island of Java in paragraph 7?",
+     "opts": [
+      "To show where the oldest fossils of Homo erectus were first discovered",
+      "To suggest that the Guangxi teeth had been dated incorrectly",
+      "To explain why Julien Louys thinks the sample of teeth is too small",
+      "To support the view that rainforest survival by Homo erectus is not entirely new"
+     ],
+     "a": 3,
+     "why": "Jesse Martin uses Java, where Homo erectus persisted in an increasingly forested region, as evidence that the Guangxi result is less surprising than it seems.",
+     "evidence": "the result is less surprising than it seems, because Homo erectus persisted on the Indonesian island of Java until little more than 100,000 years ago",
+     "optWhy": [
+      "Wrong: not stated. Java is mentioned for how late the species survived there, not for the oldest fossils.",
+      "Wrong: not stated. Neither expert in paragraph 7 questions the dating.",
+      "Wrong: wrong person. The small sample is Louys's point; Java is part of Jesse Martin's separate argument.",
+      "Correct. Java supports Martin's claim that \"the result is less surprising than it seems\" because the species persisted there \"in a region that was itself becoming increasingly forested\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Jesse Martin of La Trobe University argued that the result is less surprising than it seems, because Homo erectus persisted on the Indonesian island of Java until little more than 100,000 years ago, in a region that was itself becoming increasingly forested.",
+       "hl": "less surprising than it seems"
+      },
+      {
+       "para": 7,
+       "text": "Julien Louys of Griffith University noted that the conclusion rests on a small sample of teeth, even though he agreed that, if confirmed, the findings would show unusual ecological flexibility.",
+       "hl": "rests on a small sample of teeth"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Java",
+       "x": "Java is in Jesse Martin's sentence at the end of paragraph 7."
+      },
+      {
+       "t": "Find the claim it supports",
+       "x": "\"because\" links Java to the claim that the result is \"less surprising than it seems\"."
+      },
+      {
+       "t": "Separate the two experts",
+       "x": "Louys talks about sample size; Martin talks about Java, so C mixes them up."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Climate swings, competition and disease destroyed the rainforest refuge, which is why Homo erectus finally disappeared.",
+      "Scientists now agree that Homo erectus was not adaptable enough to survive for long in rainforest refuges.",
+      "Its long survival in rainforest suggests poor adaptability may not explain its extinction, so other possible causes need closer study.",
+      "Because Homo erectus lived in rainforests for so long, it probably did not die out because of disease or competition."
+     ],
+     "a": 2,
+     "why": "The sentence says that if Homo erectus survived so long in rainforest, poor adaptability probably did not cause its extinction, so other factors must be investigated.",
+     "evidence": "then a lack of adaptability may not explain why it eventually disappeared",
+     "optWhy": [
+      "Wrong: invented cause. The sentence lists other factors to investigate (\"must look harder at\"); it does not say they destroyed the refuge.",
+      "Wrong: opposite meaning. The sentence suggests \"a lack of adaptability may not explain\" the extinction.",
+      "Correct. It keeps the condition (long survival in rainforest), the conclusion (adaptability \"may not explain why it eventually disappeared\") and the consequence (look harder at other factors).",
+      "Wrong: logic reversed. Disease and competition are factors scientists \"must look harder at\", not ones that are ruled out."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "If Homo erectus could thrive in a rainforest refuge for so long, then a lack of adaptability may not explain why it eventually disappeared, and scientists must look harder at other factors, such as climate swings, competition or disease.",
+       "hl": "a lack of adaptability may not explain why it eventually disappeared"
+      },
+      {
+       "para": 6,
+       "text": "Researchers had argued that Homo erectus died out as its preferred open habitats turned into forest, because it lacked the flexibility to adapt.",
+       "hl": "because it lacked the flexibility to adapt"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Break it into three parts",
+       "x": "If (long rainforest survival) → then (adaptability may not explain extinction) → so (study other factors)."
+      },
+      {
+       "t": "Check the logic words",
+       "x": "\"may not explain\" is a doubt, and \"look harder at\" means investigate, not confirm or rule out."
+      },
+      {
+       "t": "Pick the full match",
+       "x": "Only C keeps all three parts without adding a cause."
+      }
+     ],
+     "highlight": "If Homo erectus could thrive in a rainforest refuge for so long, then a lack of adaptability may not explain why it eventually disappeared, and scientists must look harder at other factors, such as climate swings, competition or disease."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261119-2-k1",
+     "tag": "Finding",
+     "fact": "Eight teeth from two caves in Guangxi show Homo erectus lived there 324,000–184,000 years ago.",
+     "q": "Where were the teeth found?",
+     "opts": [
+      "Java, Indonesia",
+      "Guangxi, southern China",
+      "Northern Vietnam"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-2-k2",
+     "tag": "Old view",
+     "fact": "Many researchers thought Homo erectus vanished from mainland Asia about 400,000 years ago.",
+     "q": "When did many think the species vanished from mainland Asia?",
+     "opts": [
+      "About 100,000 years ago",
+      "About 400,000 years ago",
+      "About 2 million years ago"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-2-k3",
+     "tag": "Method",
+     "fact": "The team used tooth shape and ancient proteins to identify the species, and five methods to date the fossils.",
+     "q": "Why were ancient proteins useful?",
+     "opts": [
+      "They survive longer than DNA",
+      "They show exact ages",
+      "They are easy to see"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261119-2-k4",
+     "tag": "Habitat",
+     "fact": "Chemical signals in tooth enamel point to diets based on dense rainforest.",
+     "q": "What did the enamel signals reveal?",
+     "opts": [
+      "A grassland diet",
+      "A rainforest-based diet",
+      "A seafood diet"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-2-k5",
+     "tag": "Debate",
+     "fact": "Critics note the sample is small and that Homo erectus also persisted in forested Java.",
+     "q": "Which is a criticism of the study?",
+     "opts": [
+      "The sample is small",
+      "The caves are too old",
+      "No dating was done"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261119-2-k6",
+     "tag": "Big question",
+     "fact": "If adaptability was not the problem, climate swings, competition or disease may explain the extinction.",
+     "q": "Which factor is NOT suggested for further study?",
+     "opts": [
+      "Disease",
+      "Competition",
+      "Volcanic eruptions"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Late Homo erectus",
+    "question": "Why did an adaptable human species still disappear?",
+    "branches": [
+     {
+      "title": "The discovery",
+      "paras": "1",
+      "blanks": [
+       "eight teeth from Guangxi caves",
+       "up to 200,000 years longer"
+      ],
+      "kps": [
+       "n20261119-2-k1",
+       "n20261119-2-k2"
+      ]
+     },
+     {
+      "title": "The methods",
+      "paras": "3–4",
+      "blanks": [
+       "ancient proteins outlast DNA",
+       "five independent dating techniques"
+      ],
+      "kps": [
+       "n20261119-2-k3"
+      ]
+     },
+     {
+      "title": "Rainforest life",
+      "paras": "5",
+      "blanks": [
+       "diets based on dense rainforest",
+       "strontium shows childhood travel"
+      ],
+      "kps": [
+       "n20261119-2-k4"
+      ]
+     },
+     {
+      "title": "The debate",
+      "paras": "6–8",
+      "blanks": [
+       "small sample of teeth",
+       "look harder at other factors"
+      ],
+      "kps": [
+       "n20261119-2-k5",
+       "n20261119-2-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "DNA proved the exact age",
+     "species avoided forests completely"
+    ]
+   },
+   "summary": {
+    "intro": "New fossil teeth from southern China change the story of Homo erectus.",
+    "model": "Fossil teeth from Guangxi show that Homo erectus survived much longer than believed, and in dense rainforest. However, because the sample is small, experts debate the result, while its success in forests means scientists must seek other reasons for its extinction.",
+    "options": [
+     {
+      "t": "Carefully identified and dated teeth show that Homo erectus survived in southern China far later than previously thought.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "the youngest securely dated evidence of Homo erectus in mainland China"
+     },
+     {
+      "t": "Chemical evidence suggests these hominins lived on rainforest resources, challenging the idea that only our species could do so.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "they pointed to diets based on dense rainforest"
+     },
+     {
+      "t": "Some experts urge caution, and the finding raises new questions about why the species finally died out.",
+      "ok": true,
+      "type": "main",
+      "para": 8,
+      "evidence": "scientists must look harder at other factors"
+     },
+     {
+      "t": "Porcupines probably collected many of the bones because they gnaw on them to keep their teeth sharp.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "evidence": "porcupines collected many of the bones"
+     },
+     {
+      "t": "The teeth show that Homo erectus made stone tools to hunt monkeys in the canopy.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "All experts now agree that Homo erectus died out because it could not adapt to forests.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "a popular explanation for the species' disappearance needs rethinking"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people prefer to read about scientific discoveries that have been confirmed for many years, while others enjoy learning about brand-new findings that may later turn out to be wrong. Which do you prefer, and why? Include details and examples.",
+    "hint": "State your preference; give two reasons (e.g., new findings show science in action / reliable facts help exams); use today's Homo erectus teeth as an example.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Chen: New fossil teeth from southern China suggest that Homo erectus survived in rainforests much longer than scientists believed. Discoveries like this often overturn what students learn in school. Some people say textbooks should only include ideas that are firmly established; others argue that students should learn about new, still-debated findings too. Which approach do you prefer, and why? Lucas: \"I think textbooks should stick to established facts. Students have limited time, and if they learn ideas that are later rejected, they will be confused. New findings can be added once scientists agree on them.\" Sofia: \"I disagree. Science is always changing, and this discovery shows that even \"facts\" can be wrong. Learning about current debates teaches students how scientists use evidence, which is more valuable than memorising conclusions.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Lucas or Sofia and add a new idea of your own.",
+     "Support it with one specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261119-3",
+   "topic": "Animals",
+   "title": "Eagles Can Kill Baboons as Heavy as Early Humans",
+   "dek": "Skulls in the Sahara suggest eagles can kill primates far bigger than scientists believed. Were our early ancestors also on the menu, and how strong is the evidence?",
+   "sources": [
+    {
+     "name": "EurekAlert! (University of St Andrews), 18 Nov 2026",
+     "url": "https://www.eurekalert.org/news-releases/1151693"
+    },
+    {
+     "name": "Live Science, 18 Nov 2026",
+     "url": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans"
+    }
+   ],
+   "paras": [
+    "In 1924, workers at a quarry in South Africa uncovered the skull of a young child who had lived about 2.8 million years ago. The Taung Child, an early human relative known as Australopithecus, became one of the most famous fossils in the world. Decades later, scientists noticed small holes and scratches in its eye sockets and concluded that it had probably been killed by a large eagle. However, the child weighed only about ten kilograms. Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle.",
+    "That assumption rested partly on a single number. Before now, no primate heavier than about 13 kilograms had ever been confirmed as the victim of a raptor. Since many early hominins weighed more than twice that much, researchers concluded that our ancestors had been largely safe from eagles for around 2.5 million years. A study published on 18 November in the American Journal of Biological Anthropology suggests that this threshold may be far too low.",
+    "The evidence comes from the Ennedi plateau in northern Chad, a rugged sandstone landscape in the Sahara that is home to an isolated population of baboons. While searching for the animals, a team led by Catherine Hobaiter of the University of St Andrews found skulls and bones lying at the foot of steep cliffs. \"We saw the eagles while we were searching for the baboons, but we never imagined that they might be a threat to them,\" Hobaiter said. The remains told a different story.",
+    "The team examined nine baboons, eight of them adult males with an estimated average weight of about 22 kilograms; a later find weighed roughly 26 kilograms. Several skulls had deep punctures around the eye sockets, and some shoulder blades were raked with long scrapes. According to the authors, this pattern matches the lethal grip of a large eagle striking from above. The most likely culprit is the Verreaux's eagle, a bird weighing up to about seven kilograms that normally hunts much smaller prey such as rock hyraxes.",
+    "Behaviour supported the bones. When a pair of Verreaux's eagles swept overhead, the baboons gave alarm calls and dropped to safety, yet they stayed relaxed around other large raptors. Hobaiter noted that \"primates are very specific about only responding to eagles that are a genuine threat.\" Nathaniel Dominy of Dartmouth College, the study's senior author, admitted that the team had begun as sceptics before concluding that \"the evidence was convincing.\"",
+    "Other experts are more cautious. No one actually saw an eagle kill a baboon, and the authors describe their findings only as \"consistent with\" eagle predation. Jesús Bautista-Rodríguez, who studies eagles in desert environments, has questioned whether the birds attacked healthy adults at all, arguing that the baboons may already have been weak or dead and that the marks could have been made while eagles fed on carcasses. Robert Simmons of the University of Cape Town considers such attacks rare, suggesting that a shortage of prey in the desert could push eagles towards unusually large and risky targets.",
+    "Even so, the study reopens an important question about human evolution. Adult baboons of 22 to 26 kilograms are similar in size to some early hominins, and the famous skeleton Lucy is usually estimated at about 29 kilograms. If eagles can kill primates of that size today, our ancestors may have been more vulnerable than textbooks suggest. W. Scott McGraw of Ohio State University stresses that this remains a hypothesis, since no hominin fossils were examined, but it could help explain behaviours that humans share with other primates, such as warning calls and mobbing, in which adults charge together to drive an attacker away.",
+    "The authors even speculate that early hominins may have benefited from travelling in mixed groups with other primates, much as some monkeys do today in forests where eagles hunt. Such ideas are provisional, and the sample is small and comes from a single population. Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof. A threshold that stood for decades turned out to depend largely on where researchers had, and had not, looked."
+   ],
+   "words": [
+    {
+     "w": "raptor",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈræptə(r)/",
+     "syl": [
+      "rap",
+      "tor"
+     ],
+     "def": "a bird of prey, such as an eagle, hawk or falcon",
+     "ex": "A hungry raptor can spot a mouse from high in the sky."
+    },
+    {
+     "w": "threshold",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈθreʃhəʊld/",
+     "syl": [
+      "thresh",
+      "old"
+     ],
+     "def": "a level or limit at which something starts to happen or stops being possible",
+     "ex": "The city issues a health warning when air pollution passes a certain threshold."
+    },
+    {
+     "w": "isolated",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈaɪsəleɪtɪd/",
+     "syl": [
+      "i",
+      "so",
+      "lat",
+      "ed"
+     ],
+     "def": "far away from others and cut off from them",
+     "ex": "The isolated village can only be reached by boat."
+    },
+    {
+     "w": "puncture",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpʌŋktʃə(r)/",
+     "syl": [
+      "punc",
+      "ture"
+     ],
+     "def": "a small hole made by something sharp",
+     "ex": "The vet found a small puncture in the dog's paw."
+    },
+    {
+     "w": "carcass",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkɑːkəs/",
+     "syl": [
+      "car",
+      "cass"
+     ],
+     "def": "the dead body of an animal",
+     "ex": "Vultures gathered around the carcass of a zebra."
+    },
+    {
+     "w": "predation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/prɪˈdeɪʃn/",
+     "syl": [
+      "pre",
+      "da",
+      "tion"
+     ],
+     "def": "the hunting, killing and eating of animals by other animals",
+     "ex": "Predation by foxes has reduced the number of birds that nest on the ground."
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈvʌlnərəbl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or attacked",
+     "ex": "Young turtles are most vulnerable when they first crawl towards the sea."
+    },
+    {
+     "w": "hypothesis",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/haɪˈpɒθəsɪs/",
+     "syl": [
+      "hy",
+      "poth",
+      "e",
+      "sis"
+     ],
+     "def": "an idea suggested as a possible explanation that has not yet been proved",
+     "ex": "The students designed an experiment to test their hypothesis about plant growth."
+    },
+    {
+     "w": "provisional",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/prəˈvɪʒənl/",
+     "syl": [
+      "pro",
+      "vi",
+      "sion",
+      "al"
+     ],
+     "def": "temporary and likely to change when more is known",
+     "ex": "The results are provisional until other laboratories repeat the study."
+    },
+    {
+     "w": "mob",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/mɒb/",
+     "syl": [
+      "mob"
+     ],
+     "def": "(of animals) to gather around a predator in a group and harass it until it leaves",
+     "ex": "Small birds often mob an owl until it flies away."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle.",
+     "kind": "Main idea",
+     "note": "States the old belief the whole passage tests; many questions ask what scientists used to assume."
+    },
+    {
+     "para": 2,
+     "text": "That assumption rested partly on a single number.",
+     "kind": "Topic sentence",
+     "note": "Connects paragraphs 1 and 2 and focuses on the 13 kg limit; watch for \"partly\" as a hedge."
+    },
+    {
+     "para": 4,
+     "text": "According to the authors, this pattern matches the lethal grip of a large eagle striking from above.",
+     "kind": "Interpretation",
+     "note": "The key link between marks and predator; note it is the authors' interpretation, not an observed fact."
+    },
+    {
+     "para": 6,
+     "text": "Other experts are more cautious.",
+     "kind": "Critical thinking",
+     "note": "Signals counter-arguments; negative factual questions often draw on the list that follows."
+    },
+    {
+     "para": 7,
+     "text": "Even so, the study reopens an important question about human evolution.",
+     "kind": "Author's view",
+     "note": "\"Even so\" shows the author weighing the doubts against the study's importance."
+    },
+    {
+     "para": 8,
+     "text": "Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof.",
+     "kind": "Critical thinking",
+     "note": "The passage's wider lesson; summary and purpose questions reward recognising it."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"threshold\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "the entrance or doorway of a building",
+      "the point at which something new begins",
+      "a measurement known to be completely exact",
+      "a limit beyond which something was not thought to happen"
+     ],
+     "a": 3,
+     "why": "\"This threshold\" refers back to the 13-kilogram figure: the weight above which raptors were not thought to kill primates.",
+     "evidence": "suggests that this threshold may be far too low",
+     "optWhy": [
+      "Wrong: another meaning of the word. A threshold can be a doorway, but no building is discussed.",
+      "Wrong: another meaning of the word. \"On the threshold of\" can mean \"about to begin\", but here it refers to a weight limit.",
+      "Wrong: contradicts the text. The study suggests the threshold \"may be far too low\", so it is not exact.",
+      "Correct. \"this threshold\" points back to \"no primate heavier than about 13 kilograms\" = a limit beyond which raptor kills were not thought to happen."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Before now, no primate heavier than about 13 kilograms had ever been confirmed as the victim of a raptor.",
+       "hl": "no primate heavier than about 13 kilograms"
+      },
+      {
+       "para": 2,
+       "text": "A study published on 18 November in the American Journal of Biological Anthropology suggests that this threshold may be far too low.",
+       "hl": "this threshold may be far too low"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"threshold\" is in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Follow \"this\"",
+       "x": "\"this threshold\" points back to the 13-kilogram limit earlier in the paragraph."
+      },
+      {
+       "t": "Choose the matching sense",
+       "x": "A weight limit = a point beyond which something was not thought to happen (D)."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 4,
+     "q": "According to paragraph 4, which of the following is true of the Verreaux's eagle?",
+     "opts": [
+      "It weighs about as much as an adult male baboon.",
+      "It normally hunts animals much smaller than baboons.",
+      "It was seen killing several baboons near the cliffs.",
+      "It attacks mainly by scraping its prey's shoulder blades."
+     ],
+     "a": 1,
+     "why": "The text says the eagle \"normally hunts much smaller prey such as rock hyraxes\".",
+     "evidence": "normally hunts much smaller prey such as rock hyraxes",
+     "optWhy": [
+      "Wrong: numbers confused. The eagle weighs \"up to about seven kilograms\", while the baboons averaged \"about 22 kilograms\".",
+      "Correct. \"normally hunts much smaller prey such as rock hyraxes\" = usually hunts animals much smaller than baboons.",
+      "Wrong: contradicts paragraph 6: \"No one actually saw an eagle kill a baboon.\"",
+      "Wrong: distorted detail. Raked shoulder blades are part of the damage pattern; the text never calls scraping its main way of attacking."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The most likely culprit is the Verreaux's eagle, a bird weighing up to about seven kilograms that normally hunts much smaller prey such as rock hyraxes.",
+       "hl": "normally hunts much smaller prey such as rock hyraxes"
+      },
+      {
+       "para": 6,
+       "text": "No one actually saw an eagle kill a baboon, and the authors describe their findings only as \"consistent with\" eagle predation.",
+       "hl": "No one actually saw an eagle kill a baboon"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the eagle",
+       "x": "The Verreaux's eagle is described in the last sentence of paragraph 4."
+      },
+      {
+       "t": "Compare numbers carefully",
+       "x": "7 kg (eagle) is not the same as 22 kg (baboon), so A is wrong."
+      },
+      {
+       "t": "Check other paragraphs",
+       "x": "Paragraph 6 says no kill was witnessed, which rules out C."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following are reasons for caution about the study EXCEPT",
+     "opts": [
+      "Nobody actually witnessed an eagle killing a baboon.",
+      "The baboons may already have been weak or dead.",
+      "The bones were too damaged to estimate the baboons' weight.",
+      "The marks may have been made while eagles fed on carcasses."
+     ],
+     "a": 2,
+     "why": "Paragraph 6 mentions that no kill was seen, that the baboons may have been weak or dead, and that marks may come from feeding on carcasses. Nothing says the bones were too damaged to estimate weight; paragraph 4 gives weight estimates.",
+     "evidence": "No one actually saw an eagle kill a baboon",
+     "optWhy": [
+      "Wrong: this IS mentioned: \"No one actually saw an eagle kill a baboon.\"",
+      "Wrong: this IS mentioned: \"the baboons may already have been weak or dead\".",
+      "Correct. Not mentioned. In fact paragraph 4 gives weights (\"about 22 kilograms\", \"roughly 26 kilograms\"), so the bones could be used to estimate weight.",
+      "Wrong: this IS mentioned: \"the marks could have been made while eagles fed on carcasses\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "No one actually saw an eagle kill a baboon, and the authors describe their findings only as \"consistent with\" eagle predation.",
+       "hl": "No one actually saw an eagle kill a baboon"
+      },
+      {
+       "para": 6,
+       "text": "Jesús Bautista-Rodríguez, who studies eagles in desert environments, has questioned whether the birds attacked healthy adults at all, arguing that the baboons may already have been weak or dead and that the marks could have been made while eagles fed on carcasses.",
+       "hl": "the marks could have been made while eagles fed on carcasses"
+      },
+      {
+       "para": 4,
+       "text": "The team examined nine baboons, eight of them adult males with an estimated average weight of about 22 kilograms; a later find weighed roughly 26 kilograms.",
+       "hl": "estimated average weight of about 22 kilograms"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Collect the cautions",
+       "x": "Paragraph 6 gives three: no witnesses, weak or dead baboons, feeding marks."
+      },
+      {
+       "t": "Match options A, B and D",
+       "x": "Each matches a phrase in paragraph 6."
+      },
+      {
+       "t": "Confirm the exception",
+       "x": "Paragraph 4 actually gives weights, so C contradicts the text and is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the baboons' reactions to birds?",
+     "opts": [
+      "They recognise Verreaux's eagles as a particular danger.",
+      "They are frightened by every large bird that flies over them.",
+      "They prove that eagles killed every baboon found at the cliffs.",
+      "They cannot tell one kind of raptor from another."
+     ],
+     "a": 0,
+     "why": "The baboons reacted to Verreaux's eagles but stayed relaxed around other large raptors, which implies they treat this eagle as a specific threat.",
+     "evidence": "yet they stayed relaxed around other large raptors",
+     "optWhy": [
+      "Correct. Alarm calls for Verreaux's eagles \"yet they stayed relaxed around other large raptors\" implies the baboons see this eagle as a particular danger.",
+      "Wrong: contradicts the text: \"they stayed relaxed around other large raptors\".",
+      "Wrong: too extreme. Behaviour only \"supported the bones\"; it cannot prove that every baboon was killed by eagles.",
+      "Wrong: contradicts the text. Hobaiter says primates are \"very specific about only responding to eagles that are a genuine threat\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "When a pair of Verreaux's eagles swept overhead, the baboons gave alarm calls and dropped to safety, yet they stayed relaxed around other large raptors.",
+       "hl": "yet they stayed relaxed around other large raptors"
+      },
+      {
+       "para": 5,
+       "text": "Hobaiter noted that \"primates are very specific about only responding to eagles that are a genuine threat.\"",
+       "hl": "very specific"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Compare two reactions",
+       "x": "Alarm for Verreaux's eagles, calm for other raptors."
+      },
+      {
+       "t": "Ask what this implies",
+       "x": "A different reaction means the baboons can tell this eagle is dangerous."
+      },
+      {
+       "t": "Avoid \"prove\"",
+       "x": "Behaviour supports the idea but cannot prove every death, so C is too strong."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author begin the passage by describing the Taung Child?",
+     "opts": [
+      "To introduce an earlier case that shaped beliefs about eagles and hominins",
+      "To show that eagles were the main cause of death among early hominins",
+      "To explain how fossils are usually discovered in South African quarries",
+      "To prove that adult hominins weighed only about ten kilograms"
+     ],
+     "a": 0,
+     "why": "The Taung Child is the earlier case showing eagles could kill a small hominin, which led to the belief that adults were too heavy, the belief the new study challenges.",
+     "evidence": "Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle",
+     "optWhy": [
+      "Correct. The Taung Child (killed by an eagle but weighing \"only about ten kilograms\") sets up the old belief: \"Adult hominins … were simply too heavy for birds of prey to tackle.\"",
+      "Wrong: too extreme. The text says only that this one child had \"probably been killed by a large eagle\".",
+      "Wrong: not the purpose. The quarry is a background detail about where the skull was found.",
+      "Wrong: detail misapplied. Ten kilograms was the child's weight; the paragraph says adults were assumed to be \"too heavy\"."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "However, the child weighed only about ten kilograms.",
+       "hl": "the child weighed only about ten kilograms"
+      },
+      {
+       "para": 1,
+       "text": "Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle.",
+       "hl": "too heavy for birds of prey to tackle"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Look at where it ends",
+       "x": "Paragraph 1 ends with the assumption that adult hominins were too heavy for eagles."
+      },
+      {
+       "t": "Link to the main point",
+       "x": "Paragraph 2 says the new study challenges that limit."
+      },
+      {
+       "t": "Choose the function",
+       "x": "The Taung Child introduces the background belief (A), not a general claim or a detail."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The Ennedi bones show that most scientific limits are based on firm and reliable proof.",
+      "The Ennedi bones remind us that some scientific limits rest on a lack of evidence, not on solid proof.",
+      "Scientists have used the Ennedi bones to replace missing evidence with firm proof about eagles.",
+      "Because evidence from Ennedi is missing, scientists cannot prove any limits about eagles."
+     ],
+     "a": 1,
+     "why": "The sentence means that the bones remind us some scientific limits are based on an absence of evidence rather than on solid proof.",
+     "evidence": "scientific limits are sometimes built on missing evidence rather than firm proof",
+     "optWhy": [
+      "Wrong: opposite meaning. The sentence says limits are \"sometimes built on missing evidence\", not on firm proof.",
+      "Correct. \"sometimes built on missing evidence rather than firm proof\" = some limits rest on a lack of evidence, not on solid proof.",
+      "Wrong: meaning changed. The previous sentence calls the ideas \"provisional\"; the bones are a reminder, not firm proof.",
+      "Wrong: distorted logic. The Ennedi evidence is not missing, and the sentence says \"sometimes\", not that no limits can be proved."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof.",
+       "hl": "sometimes built on missing evidence rather than firm proof"
+      },
+      {
+       "para": 8,
+       "text": "Such ideas are provisional, and the sample is small and comes from a single population.",
+       "hl": "Such ideas are provisional"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the core claim",
+       "x": "Limits are sometimes built on missing evidence rather than firm proof."
+      },
+      {
+       "t": "Keep the qualifier",
+       "x": "\"sometimes\" matters: options claiming \"most\" or \"any\" change the meaning."
+      },
+      {
+       "t": "Pick the faithful paraphrase",
+       "x": "Only B keeps both the contrast and the qualifier."
+      }
+     ],
+     "highlight": "Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261119-3-k1",
+     "tag": "Old limit",
+     "fact": "Before this study, no primate heavier than about 13 kg had been confirmed as killed by a raptor.",
+     "q": "What was the previous confirmed weight limit?",
+     "opts": [
+      "About 13 kg",
+      "About 26 kg",
+      "About 7 kg"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261119-3-k2",
+     "tag": "Evidence",
+     "fact": "Baboon skulls in Chad's Ennedi plateau had deep punctures around the eye sockets and raked shoulder blades.",
+     "q": "Where were the baboon remains found?",
+     "opts": [
+      "South Africa",
+      "Northern Chad",
+      "Kenya"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-3-k3",
+     "tag": "Size",
+     "fact": "The baboons averaged about 22 kg, and one weighed about 26 kg.",
+     "q": "What was the heaviest baboon's estimated weight?",
+     "opts": [
+      "About 13 kg",
+      "About 22 kg",
+      "About 26 kg"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261119-3-k4",
+     "tag": "Behaviour",
+     "fact": "Baboons gave alarm calls for Verreaux's eagles but stayed relaxed around other raptors.",
+     "q": "How did baboons react to other large raptors?",
+     "opts": [
+      "They stayed relaxed",
+      "They gave alarm calls",
+      "They ran away"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261119-3-k5",
+     "tag": "Doubts",
+     "fact": "Critics note no kill was seen and the baboons might have been weak or dead already.",
+     "q": "Which is a doubt raised by critics?",
+     "opts": [
+      "The eagles were too small to fly",
+      "The baboons may already have been dead",
+      "The cliffs were too low"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261119-3-k6",
+     "tag": "Big idea",
+     "fact": "Some scientific limits rest on missing evidence rather than firm proof.",
+     "q": "What wider lesson does the author draw?",
+     "opts": [
+      "Limits can rest on missing evidence",
+      "All limits are proven",
+      "Eagles hunted all hominins"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Eagles and baboons",
+    "question": "Could eagles have hunted our early ancestors?",
+    "branches": [
+     {
+      "title": "Old belief",
+      "paras": "1–2",
+      "blanks": [
+       "Taung Child killed by eagle",
+       "no primate over 13 kilograms"
+      ],
+      "kps": [
+       "n20261119-3-k1"
+      ]
+     },
+     {
+      "title": "New evidence",
+      "paras": "3–4",
+      "blanks": [
+       "punctures around eye sockets",
+       "baboons averaged about 22 kilograms"
+      ],
+      "kps": [
+       "n20261119-3-k2",
+       "n20261119-3-k3"
+      ]
+     },
+     {
+      "title": "Behaviour and doubts",
+      "paras": "5–6",
+      "blanks": [
+       "alarm calls for Verreaux's eagles",
+       "no one saw a kill"
+      ],
+      "kps": [
+       "n20261119-3-k4",
+       "n20261119-3-k5"
+      ]
+     },
+     {
+      "title": "Human evolution",
+      "paras": "7–8",
+      "blanks": [
+       "early hominins more vulnerable",
+       "limits built on missing evidence"
+      ],
+      "kps": [
+       "n20261119-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "eagles filmed carrying baboons",
+     "baboons ignore all eagles"
+    ]
+   },
+   "summary": {
+    "intro": "A study from the Sahara challenges the idea that eagles cannot kill large primates.",
+    "model": "Bones from Chad suggest eagles can kill baboons as heavy as some early hominins, so a long-standing size limit may be wrong. However, no kill was seen and critics urge caution, while the idea that our ancestors faced eagles remains a hypothesis.",
+    "options": [
+     {
+      "t": "Marks on baboon bones in Chad suggest that eagles can kill primates far heavier than the long-accepted limit.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "this threshold may be far too low"
+     },
+     {
+      "t": "Because no attack was observed, several experts question whether the eagles really killed healthy adults.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Other experts are more cautious"
+     },
+     {
+      "t": "If confirmed, the findings suggest early hominins may have been more vulnerable to eagles than believed, though this remains a hypothesis.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "our ancestors may have been more vulnerable than textbooks suggest"
+     },
+     {
+      "t": "The Verreaux's eagle normally hunts rock hyraxes.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "normally hunts much smaller prey such as rock hyraxes"
+     },
+     {
+      "t": "Researchers attached cameras to eagles to record their hunting flights.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The baboons reacted with alarm to every large bird that flew overhead.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "yet they stayed relaxed around other large raptors"
+     }
+    ]
+   },
+   "speak": {
+    "p": "The eagle study shows that a long-accepted scientific \"rule\" may be wrong. Describe a time when you discovered that something you strongly believed was not true. What changed your mind, and what did you learn from the experience?",
+    "hint": "Briefly describe the belief; explain the evidence that changed your mind; say what you learned about checking assumptions; link back to the 13-kilogram limit.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: A new study suggests that eagles can kill baboons weighing up to 26 kilograms, which challenges a long-held limit in biology. However, no attack was actually observed, and the evidence comes from a small number of bones in one place. Should scientists publish surprising findings like this as soon as possible, or wait until they have much stronger evidence? Explain your view. Aisha: \"I think they should publish early. Sharing findings lets other scientists check them, collect more data in other places, and either confirm or reject the idea much faster than one team could alone.\" Daniel: \"I'd prefer more caution. When a dramatic claim like \"eagles hunted early humans\" reaches the media, people remember the headline, not the uncertainty. If it turns out to be wrong, it can damage public trust in science.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Aisha or Daniel and add a new idea of your own.",
+     "Support it with one specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "audio": {
+  "On Thursday, 19 November, shares of Anthropic, the San Francisco company behind the Claude family of AI models, are due to begin trading on the Nasdaq stock exchange under the ticker \"ANT\". The night before, the firm priced its stock at $83 a share, above the $70–$78 range it had suggested only days earlier, giving it a market value of roughly $1.5 trillion. According to reports, orders from investors were nearly seven times larger than the number of shares on offer. For a company founded only in 2021, it is an extraordinary debut, and many observers see it as a referendum on the entire artificial-intelligence boom.": "audio/2026-11-19/a1-p1.mp3",
+  "An initial public offering (IPO) is the moment a private company first sells its shares to the general public. Until now, Anthropic has been owned by its founders, its employees and a relatively small circle of large investors, including technology giants such as Google and Amazon. By listing on a stock exchange, the company gains access to an enormous pool of capital, while ordinary savers gain the chance to own a slice of it. In return, Anthropic must publish detailed financial accounts every quarter and answer to thousands of shareholders who will judge its performance day by day.": "audio/2026-11-19/a1-p2.mp3",
+  "The figures in the company's filings help to explain the excitement. Anthropic reported revenue of $33.2 billion for the first nine months of 2026, more than twelve times the figure for the same period a year earlier, including nearly $17 billion in the third quarter alone. The number of business customers paying it at least $100,000 a year climbed from about 950 to more than 11,900. Arun Sundararajan, a professor at New York University's Stern School of Business, has argued that there is \"no real historical analogy\" for a company growing at this pace. To supporters, such numbers suggest that AI has moved beyond hype and is becoming a genuine engine of economic activity.": "audio/2026-11-19/a1-p3.mp3",
+  "Yet rapid growth is not the same as profit. The same filings show an operating loss of about $1.26 billion over those nine months, driven largely by the cost of computing power. Training and running advanced AI models requires vast data centres packed with expensive chips, and Anthropic has made commitments to spend close to $1 trillion on chips and infrastructure through 2045. In other words, the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance. If that demand slows, those commitments could become a heavy burden.": "audio/2026-11-19/a1-p4.mp3",
+  "Sceptics also point to forces beyond the company's control. Rivals such as OpenAI, Google and Meta are racing to build similar systems, while cheaper open-source models could tempt customers to switch. Some politicians have begun calling for tighter rules on AI and even pauses on new data-centre construction. History offers a further warning: according to Yahoo Finance, every one of the twelve biggest US stock-market debuts since 2008 was trading below its first-day price within a year. The investor Bradley Tusk has warned that the pressure of quarterly targets could push the company to release products faster than it might otherwise choose.": "audio/2026-11-19/a1-p5.mp3",
+  "That pressure matters because Anthropic has built its reputation on caution. Its founders left OpenAI partly because of concerns about AI safety, and the company has long argued that powerful systems should be developed carefully and tested thoroughly before they are released. Public markets, however, tend to reward speed and short-term results. Whether a firm can satisfy impatient shareholders while still taking its time on safety is one of the most interesting questions raised by the listing, and it is a question that may not be answered for years.": "audio/2026-11-19/a1-p6.mp3",
+  "The outcome will not affect only professional traders. Up to 20 per cent of the shares have been set aside for individual investors through popular brokerage apps, and millions of people already have indirect exposure to AI through pension funds and retirement accounts that hold large technology stocks. A strong debut could lift confidence across the sector and encourage businesses to adopt AI more quickly. A weak one could suggest that investors are becoming more selective about paying premium prices for AI companies, with ripple effects far beyond a single firm.": "audio/2026-11-19/a1-p7.mp3",
+  "Ultimately, an IPO price is a collective forecast rather than a final verdict. It reflects what buyers believe the company will earn many years from now, not what it earns today. Optimists see Anthropic as an early leader in a technology that could transform how people work; pessimists see a familiar pattern in which excitement races ahead of evidence, as it did during the dot-com bubble of the late 1990s. Thursday's trading will reveal the market's first opinion, but the real test of the AI boom will arrive slowly, quarter by quarter.": "audio/2026-11-19/a1-p8.mp3",
+  "initial public offering": "audio/2026-11-19/a1-w-initial-public-offering.mp3",
+  "The electric-bike maker is planning an initial public offering next spring to pay for new factories.": "audio/2026-11-19/a1-ex-initial-public-offering.mp3",
+  "referendum": "audio/2026-11-19/a1-w-referendum.mp3",
+  "Many people saw the local election as a referendum on the mayor's housing policy.": "audio/2026-11-19/a1-ex-referendum.mp3",
+  "commitment": "audio/2026-11-19/a1-w-commitment.mp3",
+  "The school made a commitment to buy a new laptop for every classroom by 2028.": "audio/2026-11-19/a1-ex-commitment.mp3",
+  "wager": "audio/2026-11-19/a1-w-wager.mp3",
+  "Farmers who wager on a wet summer may plant crops that need a lot of water.": "audio/2026-11-19/a1-ex-wager.mp3",
+  "burden": "audio/2026-11-19/a1-w-burden.mp3",
+  "Rising rent has become a serious burden for many young families.": "audio/2026-11-19/a1-ex-burden.mp3",
+  "sceptic": "audio/2026-11-19/a1-w-sceptic.mp3",
+  "Even the strongest sceptic admitted that the new results were impressive.": "audio/2026-11-19/a1-ex-sceptic.mp3",
+  "exposure": "audio/2026-11-19/a1-w-exposure.mp3",
+  "A fund with heavy exposure to oil companies can lose value quickly when fuel prices fall.": "audio/2026-11-19/a1-ex-exposure.mp3",
+  "premium": "audio/2026-11-19/a1-w-premium.mp3",
+  "Fans paid a premium price for seats close to the stage.": "audio/2026-11-19/a1-ex-premium.mp3",
+  "ripple effect": "audio/2026-11-19/a1-w-ripple-effect.mp3",
+  "The factory closure had a ripple effect on local shops and restaurants.": "audio/2026-11-19/a1-ex-ripple-effect.mp3",
+  "forecast": "audio/2026-11-19/a1-w-forecast.mp3",
+  "The bank's latest forecast predicts slower economic growth next year.": "audio/2026-11-19/a1-ex-forecast.mp3",
+  "For a company founded only in 2021, it is an extraordinary debut, and many observers see it as a referendum on the entire artificial-intelligence boom.": "audio/2026-11-19/a1-ks1.mp3",
+  "To supporters, such numbers suggest that AI has moved beyond hype and is becoming a genuine engine of economic activity.": "audio/2026-11-19/a1-ks2.mp3",
+  "Yet rapid growth is not the same as profit.": "audio/2026-11-19/a1-ks3.mp3",
+  "In other words, the company is wagering that demand will keep rising fast enough to pay for capacity it is buying years in advance.": "audio/2026-11-19/a1-ks4.mp3",
+  "Public markets, however, tend to reward speed and short-term results.": "audio/2026-11-19/a1-ks5.mp3",
+  "Ultimately, an IPO price is a collective forecast rather than a final verdict.": "audio/2026-11-19/a1-ks6.mp3",
+  "For decades, the story of Homo erectus seemed to have a clear ending. This long-legged human relative, which left Africa almost two million years ago and spread as far as Java and northern China, was thought by many researchers to have vanished from mainland Asia around 400,000 years ago. Two papers published in Nature on 18 November challenge that view. Eight fossil teeth from two caves in Guangxi, in southern China, suggest that the species survived there until somewhere between 324,000 and 184,000 years ago, up to 200,000 years longer than previously believed.": "audio/2026-11-19/a2-p1.mp3",
+  "Homo erectus was the first human species with body proportions similar to our own, and it was remarkably successful, surviving for well over a million years. Scientists have usually linked it with open grasslands and woodlands, where large animals could be hunted or scavenged. Tropical rainforests, by contrast, were regarded as a hostile home: food is scattered, and prey animals hide high in the canopy or move quickly through dense vegetation. This led to a widespread assumption that only Homo sapiens possessed the skills needed to live in such places.": "audio/2026-11-19/a2-p2.mp3",
+  "The new teeth came from Baxian and Naxian caves, near the city of Chongzuo. Curiously, the researchers believe that porcupines collected many of the bones, since these rodents gnaw on bones to keep their teeth sharp. To identify the human teeth, the team, which included scientists from Australia, Germany and the Chinese Academy of Sciences, examined their internal shape and also extracted ancient proteins, which can survive far longer than DNA in very old fossils. Both lines of evidence pointed to Homo erectus. A ninth tooth could not be identified and may belong to a Denisovan or another archaic group.": "audio/2026-11-19/a2-p3.mp3",
+  "Establishing the age of the fossils was just as important. The researchers applied five independent dating techniques to the teeth, to mineral deposits that had formed on them and to the surrounding layers of cave sediment. By combining these methods, the authors are able to describe the teeth as the youngest securely dated evidence of Homo erectus in mainland China. Using several methods matters in this field, since a single technique can be thrown off by water seeping through the rock or by material shifting between layers over thousands of years.": "audio/2026-11-19/a2-p4.mp3",
+  "The second paper reconstructed the world these hominins inhabited. Chemical signals locked inside tooth enamel record what an animal ate and drank as it grew. The signals from the human teeth closely matched those of animals found in the same caves, including orangutans and an extinct forest elephant, and they pointed to diets based on dense rainforest. Strontium, an element that reflects the local rock, revealed that some individuals had moved over large areas during childhood, possibly travelling from as far away as present-day northern Vietnam.": "audio/2026-11-19/a2-p5.mp3",
+  "If these interpretations are correct, a popular explanation for the species' disappearance needs rethinking. Researchers had argued that Homo erectus died out as its preferred open habitats turned into forest, because it lacked the flexibility to adapt. \"They're very flexible, they're adaptable, and they're mobile,\" said Renaud Joannes-Boyau of Southern Cross University, one of the study's leaders. Ben Marwick of the University of Washington, who was not involved, suggested that the belief that only our species could cope with rainforests may reflect a kind of \"Homo sapiens exceptionalism\".": "audio/2026-11-19/a2-p6.mp3",
+  "Not everyone is ready to rewrite the textbooks, however. Julien Louys of Griffith University noted that the conclusion rests on a small sample of teeth, even though he agreed that, if confirmed, the findings would show unusual ecological flexibility. Jesse Martin of La Trobe University argued that the result is less surprising than it seems, because Homo erectus persisted on the Indonesian island of Java until little more than 100,000 years ago, in a region that was itself becoming increasingly forested.": "audio/2026-11-19/a2-p7.mp3",
+  "The discovery therefore raises as many questions as it answers. If Homo erectus could thrive in a rainforest refuge for so long, then a lack of adaptability may not explain why it eventually disappeared, and scientists must look harder at other factors, such as climate swings, competition or disease. Southern China, once seen as a remote corner of human prehistory, is now at the centre of that debate. As one researcher put it, the teeth \"give evidence of Homo erectus surviving in rainforests\", and that alone makes our ancestors' story more complicated, and more interesting, than it once appeared.": "audio/2026-11-19/a2-p8.mp3",
+  "vanish": "audio/2026-11-19/a2-w-vanish.mp3",
+  "Many small shops vanish when a large shopping centre opens nearby.": "audio/2026-11-19/a2-ex-vanish.mp3",
+  "assumption": "audio/2026-11-19/a2-w-assumption.mp3",
+  "The plan was based on the assumption that prices would stay low.": "audio/2026-11-19/a2-ex-assumption.mp3",
+  "hostile": "audio/2026-11-19/a2-w-hostile.mp3",
+  "The deep ocean is a hostile place for almost every kind of life.": "audio/2026-11-19/a2-ex-hostile.mp3",
+  "canopy": "audio/2026-11-19/a2-w-canopy.mp3",
+  "Many birds in the Amazon spend their whole lives in the canopy.": "audio/2026-11-19/a2-ex-canopy.mp3",
+  "sediment": "audio/2026-11-19/a2-w-sediment.mp3",
+  "Each layer of sediment at the bottom of the lake records a different period of time.": "audio/2026-11-19/a2-ex-sediment.mp3",
+  "enamel": "audio/2026-11-19/a2-w-enamel.mp3",
+  "Sugary drinks can slowly damage the enamel on your teeth.": "audio/2026-11-19/a2-ex-enamel.mp3",
+  "adaptable": "audio/2026-11-19/a2-w-adaptable.mp3",
+  "Crows are highly adaptable birds that thrive even in busy cities.": "audio/2026-11-19/a2-ex-adaptable.mp3",
+  "persist": "audio/2026-11-19/a2-w-persist.mp3",
+  "Some old customs persist long after people forget why they began.": "audio/2026-11-19/a2-ex-persist.mp3",
+  "refuge": "audio/2026-11-19/a2-w-refuge.mp3",
+  "Mountain valleys served as a refuge for many plants during the last ice age.": "audio/2026-11-19/a2-ex-refuge.mp3",
+  "exceptionalism": "audio/2026-11-19/a2-w-exceptionalism.mp3",
+  "Some historians criticise exceptionalism because it ignores what different peoples have in common.": "audio/2026-11-19/a2-ex-exceptionalism.mp3",
+  "Two papers published in Nature on 18 November challenge that view.": "audio/2026-11-19/a2-ks1.mp3",
+  "This led to a widespread assumption that only Homo sapiens possessed the skills needed to live in such places.": "audio/2026-11-19/a2-ks2.mp3",
+  "Both lines of evidence pointed to Homo erectus.": "audio/2026-11-19/a2-ks3.mp3",
+  "The second paper reconstructed the world these hominins inhabited.": "audio/2026-11-19/a2-ks4.mp3",
+  "If these interpretations are correct, a popular explanation for the species' disappearance needs rethinking.": "audio/2026-11-19/a2-ks5.mp3",
+  "Not everyone is ready to rewrite the textbooks, however.": "audio/2026-11-19/a2-ks6.mp3",
+  "In 1924, workers at a quarry in South Africa uncovered the skull of a young child who had lived about 2.8 million years ago. The Taung Child, an early human relative known as Australopithecus, became one of the most famous fossils in the world. Decades later, scientists noticed small holes and scratches in its eye sockets and concluded that it had probably been killed by a large eagle. However, the child weighed only about ten kilograms. Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle.": "audio/2026-11-19/a3-p1.mp3",
+  "That assumption rested partly on a single number. Before now, no primate heavier than about 13 kilograms had ever been confirmed as the victim of a raptor. Since many early hominins weighed more than twice that much, researchers concluded that our ancestors had been largely safe from eagles for around 2.5 million years. A study published on 18 November in the American Journal of Biological Anthropology suggests that this threshold may be far too low.": "audio/2026-11-19/a3-p2.mp3",
+  "The evidence comes from the Ennedi plateau in northern Chad, a rugged sandstone landscape in the Sahara that is home to an isolated population of baboons. While searching for the animals, a team led by Catherine Hobaiter of the University of St Andrews found skulls and bones lying at the foot of steep cliffs. \"We saw the eagles while we were searching for the baboons, but we never imagined that they might be a threat to them,\" Hobaiter said. The remains told a different story.": "audio/2026-11-19/a3-p3.mp3",
+  "The team examined nine baboons, eight of them adult males with an estimated average weight of about 22 kilograms; a later find weighed roughly 26 kilograms. Several skulls had deep punctures around the eye sockets, and some shoulder blades were raked with long scrapes. According to the authors, this pattern matches the lethal grip of a large eagle striking from above. The most likely culprit is the Verreaux's eagle, a bird weighing up to about seven kilograms that normally hunts much smaller prey such as rock hyraxes.": "audio/2026-11-19/a3-p4.mp3",
+  "Behaviour supported the bones. When a pair of Verreaux's eagles swept overhead, the baboons gave alarm calls and dropped to safety, yet they stayed relaxed around other large raptors. Hobaiter noted that \"primates are very specific about only responding to eagles that are a genuine threat.\" Nathaniel Dominy of Dartmouth College, the study's senior author, admitted that the team had begun as sceptics before concluding that \"the evidence was convincing.\"": "audio/2026-11-19/a3-p5.mp3",
+  "Other experts are more cautious. No one actually saw an eagle kill a baboon, and the authors describe their findings only as \"consistent with\" eagle predation. Jesús Bautista-Rodríguez, who studies eagles in desert environments, has questioned whether the birds attacked healthy adults at all, arguing that the baboons may already have been weak or dead and that the marks could have been made while eagles fed on carcasses. Robert Simmons of the University of Cape Town considers such attacks rare, suggesting that a shortage of prey in the desert could push eagles towards unusually large and risky targets.": "audio/2026-11-19/a3-p6.mp3",
+  "Even so, the study reopens an important question about human evolution. Adult baboons of 22 to 26 kilograms are similar in size to some early hominins, and the famous skeleton Lucy is usually estimated at about 29 kilograms. If eagles can kill primates of that size today, our ancestors may have been more vulnerable than textbooks suggest. W. Scott McGraw of Ohio State University stresses that this remains a hypothesis, since no hominin fossils were examined, but it could help explain behaviours that humans share with other primates, such as warning calls and mobbing, in which adults charge together to drive an attacker away.": "audio/2026-11-19/a3-p7.mp3",
+  "The authors even speculate that early hominins may have benefited from travelling in mixed groups with other primates, much as some monkeys do today in forests where eagles hunt. Such ideas are provisional, and the sample is small and comes from a single population. Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof. A threshold that stood for decades turned out to depend largely on where researchers had, and had not, looked.": "audio/2026-11-19/a3-p8.mp3",
+  "raptor": "audio/2026-11-19/a3-w-raptor.mp3",
+  "A hungry raptor can spot a mouse from high in the sky.": "audio/2026-11-19/a3-ex-raptor.mp3",
+  "threshold": "audio/2026-11-19/a3-w-threshold.mp3",
+  "The city issues a health warning when air pollution passes a certain threshold.": "audio/2026-11-19/a3-ex-threshold.mp3",
+  "isolated": "audio/2026-11-19/a3-w-isolated.mp3",
+  "The isolated village can only be reached by boat.": "audio/2026-11-19/a3-ex-isolated.mp3",
+  "puncture": "audio/2026-11-19/a3-w-puncture.mp3",
+  "The vet found a small puncture in the dog's paw.": "audio/2026-11-19/a3-ex-puncture.mp3",
+  "carcass": "audio/2026-11-19/a3-w-carcass.mp3",
+  "Vultures gathered around the carcass of a zebra.": "audio/2026-11-19/a3-ex-carcass.mp3",
+  "predation": "audio/2026-11-19/a3-w-predation.mp3",
+  "Predation by foxes has reduced the number of birds that nest on the ground.": "audio/2026-11-19/a3-ex-predation.mp3",
+  "vulnerable": "audio/2026-11-19/a3-w-vulnerable.mp3",
+  "Young turtles are most vulnerable when they first crawl towards the sea.": "audio/2026-11-19/a3-ex-vulnerable.mp3",
+  "hypothesis": "audio/2026-11-19/a3-w-hypothesis.mp3",
+  "The students designed an experiment to test their hypothesis about plant growth.": "audio/2026-11-19/a3-ex-hypothesis.mp3",
+  "provisional": "audio/2026-11-19/a3-w-provisional.mp3",
+  "The results are provisional until other laboratories repeat the study.": "audio/2026-11-19/a3-ex-provisional.mp3",
+  "mob": "audio/2026-11-19/a3-w-mob.mp3",
+  "Small birds often mob an owl until it flies away.": "audio/2026-11-19/a3-ex-mob.mp3",
+  "Adult hominins, it was widely assumed, were simply too heavy for birds of prey to tackle.": "audio/2026-11-19/a3-ks1.mp3",
+  "That assumption rested partly on a single number.": "audio/2026-11-19/a3-ks2.mp3",
+  "According to the authors, this pattern matches the lethal grip of a large eagle striking from above.": "audio/2026-11-19/a3-ks3.mp3",
+  "Other experts are more cautious.": "audio/2026-11-19/a3-ks4.mp3",
+  "Even so, the study reopens an important question about human evolution.": "audio/2026-11-19/a3-ks5.mp3",
+  "Yet the Ennedi bones are a useful reminder that scientific limits are sometimes built on missing evidence rather than firm proof.": "audio/2026-11-19/a3-ks6.mp3"
+ }
+}
