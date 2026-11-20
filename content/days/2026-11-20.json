@@ -1,0 +1,2159 @@
+{
+ "date": "2026-11-20",
+ "headline": "Costly Money, Simplified Forests and a Methane Pause",
+ "teaser": "Should central banks shock people to tame prices? Can a landscape look diverse while it quietly empties? And is a two-year delay on methane rules wise or reckless?",
+ "articles": [
+  {
+   "id": "n20261120-1",
+   "topic": "Economy",
+   "title": "Wall Street Tumbles as the Fed Weighs Raising Rates Again",
+   "dek": "An AI investment boom is helping to keep inflation high, so should the central bank shock the economy now or move slowly and risk letting prices run?",
+   "sources": [
+    {
+     "name": "Xinhua, 20 Nov 2026",
+     "url": "https://english.news.cn/20261120/bca1aa07cd234aedab24316eec58dc1e/c.html"
+    },
+    {
+     "name": "investingLive, 19 Nov 2026",
+     "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-19-nov-inflation-worries-sink-stocks/"
+    },
+    {
+     "name": "TheStreet, 19 Nov 2026",
+     "url": "https://www.thestreet.com/fed/fed-rate-cuts-2027-inflation-rate-hikes"
+    },
+    {
+     "name": "24/7 Wall St., 19 Nov 2026",
+     "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/"
+    }
+   ],
+   "paras": [
+    "On Thursday, 19 November, the main US stock indexes suffered one of their worst days of the year. The Dow Jones Industrial Average plunged 1,101 points, or 2.2 percent, closing below 50,000 for the first time since early June. The broader S&P 500 fell 2 percent, its sixth losing session in a row and its longest losing streak since April 2024. Even the record-breaking stock-market debut of the AI company Anthropic, whose shares rose 17 percent on their first day of trading, could not lift the mood. Investors were preoccupied by a single, old-fashioned worry: inflation.",
+    "To understand the anxiety, it helps to recall what a central bank does. The Federal Reserve, usually called the Fed, sets a short-term interest rate that influences the cost of borrowing across the economy. When prices rise too quickly, the Fed can raise this rate. Loans for homes, cars and business expansion become more expensive, so people and companies spend less, and demand gradually cools. The Fed's official goal is inflation of about 2 percent a year. According to Fed staff estimates, however, a key price measure was running at roughly 3.6 percent in September, and Chicago Fed President Austan Goolsbee said this week that inflation remains \"way higher\" than the target.",
+    "The Fed has already changed course once this year. After cutting rates in late 2025, it raised its benchmark rate in September to a range of 3.75 to 4 percent, its first increase since 2023. In October it held rates steady, but the minutes of that meeting, published on 18 November, revealed that nearly all policymakers expected further increases to be appropriate over time. Two officials had wanted to raise rates immediately. Financial markets now treat a rate rise at the Fed's next meeting, on 8 and 9 December, as almost certain. Long-term borrowing costs have climbed too: the yield on ten-year government bonds has risen above 5 percent.",
+    "What makes this episode unusual is the role of artificial intelligence. Technology companies are spending hundreds of billions of dollars on data centres, chips and the electricity to run them. Several Fed officials, including Goolsbee and Vice Chair Philip Jefferson, have suggested that this construction boom is itself adding to inflation, because it competes with the rest of the economy for workers, equipment and power. In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.",
+    "Within the Fed, the debate is no longer about whether to tighten policy but about how fast. Governor Christopher Waller has argued for a half-point increase in December, twice the usual step, saying that the Fed \"might need to, like, shock people\" to convince them that it is serious about inflation. His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling. A bold move, in this view, resets expectations before they harden.",
+    "Others urge patience. New York Fed President John Williams has said there is no need for \"dramatic action\", and San Francisco Fed President Mary Daly favours \"deliberate steps\" rather than abrupt jumps. Their concern is that interest rates affect the economy only after a long delay. Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed. There are already signs of strain: weekly claims for unemployment benefits rose more than expected this week, and a manufacturing survey from the Philadelphia Fed showed activity slowing even as the prices factories pay climbed to their highest level since April.",
+    "For ordinary people, the stakes are concrete. Higher rates reward savers but punish borrowers, from young families taking out mortgages to small firms that rely on credit. Falling share prices also affect the retirement savings of millions of workers. Meanwhile, persistent inflation quietly erodes the value of wages, and it tends to hurt low-income households most, since they spend a larger share of their income on essentials such as food and energy.",
+    "No one can be sure which path is wiser. Acting too timidly risks letting inflation become entrenched, as happened in the 1970s; acting too aggressively risks an unnecessary recession. Thursday's sell-off suggests that investors have realised the era of cheap money is not returning soon, and that even a technological revolution cannot escape the basic arithmetic of interest rates. The Fed's decision in December will show which risk its leaders fear more."
+   ],
+   "words": [
+    {
+     "w": "plunge",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/plʌndʒ/",
+     "syl": [
+      "plunge"
+     ],
+     "def": "to fall suddenly and by a large amount",
+     "ex": "Ticket sales plunge every winter when the tourists go home."
+    },
+    {
+     "w": "benchmark",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbentʃmɑːk/",
+     "syl": [
+      "bench",
+      "mark"
+     ],
+     "def": "a standard or reference point against which other things are measured or set",
+     "ex": "Many banks use the central bank's rate as a benchmark when they price their own loans."
+    },
+    {
+     "w": "yield",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/jiːld/",
+     "syl": [
+      "yield"
+     ],
+     "def": "the income an investment earns, shown as a percentage of its price",
+     "ex": "When investors sell government bonds, the yield on those bonds goes up."
+    },
+    {
+     "w": "tighten",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈtaɪtn/",
+     "syl": [
+      "tight",
+      "en"
+     ],
+     "def": "to make money harder or more expensive to borrow, usually by raising interest rates",
+     "ex": "The central bank decided to tighten credit after prices rose for six months in a row."
+    },
+    {
+     "w": "self-fulfilling",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˌself fʊlˈfɪlɪŋ/",
+     "syl": [
+      "self",
+      "ful",
+      "fil",
+      "ling"
+     ],
+     "def": "happening because people expect it to happen and act in ways that make it come true",
+     "ex": "Fear of a bank run can be self-fulfilling if everyone rushes to withdraw their money."
+    },
+    {
+     "w": "recession",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/rɪˈseʃn/",
+     "syl": [
+      "re",
+      "ces",
+      "sion"
+     ],
+     "def": "a period when a country's economy shrinks and unemployment usually rises",
+     "ex": "Many graduates struggled to find jobs during the recession."
+    },
+    {
+     "w": "erode",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪˈrəʊd/",
+     "syl": [
+      "e",
+      "rode"
+     ],
+     "def": "to reduce or weaken something slowly over time",
+     "ex": "Repeated broken promises can erode trust between a government and its citizens."
+    },
+    {
+     "w": "entrench",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪnˈtrentʃ/",
+     "syl": [
+      "en",
+      "trench"
+     ],
+     "def": "to establish something so firmly that it is very difficult to change",
+     "ex": "Bad habits that are allowed to entrench early are hard to break later."
+    },
+    {
+     "w": "timid",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈtɪmɪd/",
+     "syl": [
+      "tim",
+      "id"
+     ],
+     "def": "lacking courage or confidence; too cautious",
+     "ex": "The committee's timid response did little to solve the housing shortage."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Investors were preoccupied by a single, old-fashioned worry: inflation.",
+     "kind": "Main idea",
+     "note": "Names the real topic (inflation) behind the sell-off; main-idea questions often target such framing sentences."
+    },
+    {
+     "para": 2,
+     "text": "When prices rise too quickly, the Fed can raise this rate.",
+     "kind": "Cause → effect",
+     "note": "Sets up the chain of causes that the whole passage depends on."
+    },
+    {
+     "para": 4,
+     "text": "In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.",
+     "kind": "Interpretation",
+     "note": "Links AI, inflation and share prices; inference questions often test this kind of chain."
+    },
+    {
+     "para": 5,
+     "text": "His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling.",
+     "kind": "Cause → effect",
+     "note": "Explains why expectations matter, the logic behind the hawkish view."
+    },
+    {
+     "para": 6,
+     "text": "Their concern is that interest rates affect the economy only after a long delay.",
+     "kind": "Author's view",
+     "note": "Gives the opposing view's core reason; TOEFL often asks why a group holds a view."
+    },
+    {
+     "para": 8,
+     "text": "Acting too timidly risks letting inflation become entrenched, as happened in the 1970s; acting too aggressively risks an unnecessary recession.",
+     "kind": "Critical thinking",
+     "note": "Balances both risks in one sentence, a typical concluding trade-off."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"preoccupied\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "already taken or used by someone else",
+      "mainly focused on",
+      "pleasantly distracted from",
+      "officially informed about"
+     ],
+     "a": 1,
+     "why": "Investors were so focused on inflation that even good news could not lift their mood.",
+     "evidence": "Investors were preoccupied by a single, old-fashioned worry: inflation",
+     "optWhy": [
+      "Wrong: another meaning built from word parts. \"Pre-occupied\" can describe a seat already taken, but investors are not seats; the sentence is about what fills their minds.",
+      "Correct. \"preoccupied by a single, old-fashioned worry\" = mainly focused on one worry (inflation), which explains why the Anthropic debut \"could not lift the mood\".",
+      "Wrong: wrong tone. Inflation is called a \"worry\", so nothing about it is pleasant, and investors are not distracted from it but absorbed in it.",
+      "Wrong: not supported. The paragraph says nothing about investors receiving official information; it describes their state of mind."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Investors were preoccupied by a single, old-fashioned worry: inflation.",
+       "hl": "Investors were preoccupied by a single, old-fashioned worry: inflation"
+      },
+      {
+       "para": 1,
+       "text": "Even the record-breaking stock-market debut of the AI company Anthropic, whose shares rose 17 percent on their first day of trading, could not lift the mood.",
+       "hl": "could not lift the mood"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"preoccupied\" in the last sentence of paragraph 1."
+      },
+      {
+       "t": "Use the context",
+       "x": "The previous sentence says good news \"could not lift the mood\", so investors' minds were full of one worry."
+      },
+      {
+       "t": "Test each option",
+       "x": "Only \"mainly focused on\" fits \"preoccupied by a single ... worry\"."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what did the minutes of the Fed's October meeting reveal?",
+     "opts": [
+      "The Fed had raised rates in October for the first time since 2023.",
+      "Every policymaker wanted an immediate increase in rates.",
+      "Markets expected the Fed to lower rates at its December meeting.",
+      "Almost all officials thought more rate rises would probably be needed later."
+     ],
+     "a": 3,
+     "why": "The minutes showed that nearly all policymakers expected further increases to be appropriate over time.",
+     "evidence": "nearly all policymakers expected further increases to be appropriate over time",
+     "optWhy": [
+      "Wrong: detail swapped. The first increase since 2023 happened \"in September\"; \"In October it held rates steady\".",
+      "Wrong: too extreme. Only \"Two officials had wanted to raise rates immediately\", not every policymaker.",
+      "Wrong: reversed. Markets treat \"a rate rise\" in December \"as almost certain\", not a cut.",
+      "Correct. \"nearly all policymakers expected further increases to be appropriate over time\" = almost all officials thought more rate rises would probably be needed later."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "In October it held rates steady, but the minutes of that meeting, published on 18 November, revealed that nearly all policymakers expected further increases to be appropriate over time.",
+       "hl": "nearly all policymakers expected further increases to be appropriate over time"
+      },
+      {
+       "para": 3,
+       "text": "Two officials had wanted to raise rates immediately.",
+       "hl": "Two officials had wanted to raise rates immediately"
+      },
+      {
+       "para": 3,
+       "text": "After cutting rates in late 2025, it raised its benchmark rate in September to a range of 3.75 to 4 percent, its first increase since 2023.",
+       "hl": "it raised its benchmark rate in September"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Go to paragraph 3 and find the word \"minutes\"."
+      },
+      {
+       "t": "Read the key clause",
+       "x": "The minutes \"revealed that nearly all policymakers expected further increases\"."
+      },
+      {
+       "t": "Rule out the traps",
+       "x": "Check dates (September vs October), numbers (two officials) and direction (rise, not cut)."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 2,
+     "q": "According to paragraph 2, all of the following are results of raising interest rates EXCEPT:",
+     "opts": [
+      "Wages rise to keep pace with higher prices.",
+      "Borrowing money for homes and cars costs more.",
+      "People and companies reduce their spending.",
+      "Overall demand in the economy slowly weakens."
+     ],
+     "a": 0,
+     "why": "Paragraph 2 lists more expensive loans, less spending and cooling demand; rising wages are not mentioned there.",
+     "evidence": "Loans for homes, cars and business expansion become more expensive, so people and companies spend less, and demand gradually cools",
+     "optWhy": [
+      "Correct. Paragraph 2 never says that higher rates make wages rise. The idea of people demanding \"higher wages\" appears in paragraph 5, and there it is a cause of inflation, not a result of rate rises.",
+      "Wrong: stated. \"Loans for homes, cars and business expansion become more expensive\".",
+      "Wrong: stated. \"so people and companies spend less\".",
+      "Wrong: stated. \"and demand gradually cools\" = demand slowly weakens."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Loans for homes, cars and business expansion become more expensive, so people and companies spend less, and demand gradually cools.",
+       "hl": "Loans for homes, cars and business expansion become more expensive"
+      },
+      {
+       "para": 5,
+       "text": "His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling.",
+       "hl": "they demand higher wages and raise their own prices"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 2 explains step by step what happens after the Fed raises its rate."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "Loans cost more, spending falls, demand cools: three options are in the text."
+      },
+      {
+       "t": "Spot the borrowed idea",
+       "x": "\"Higher wages\" comes from paragraph 5 and is not a result of rate rises."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the AI investment boom?",
+     "opts": [
+      "It is the main reason Anthropic's shares rose on their first day.",
+      "Fed officials want technology firms to stop building data centres.",
+      "It may indirectly hurt the share prices of the firms that drive it.",
+      "It has reduced the demand for workers in other industries."
+     ],
+     "a": 2,
+     "why": "The boom may push the Fed to raise rates, and higher rates lower share values, especially those of fast-growing technology firms.",
+     "evidence": "expensive money tends to lower the value of shares, especially those of fast-growing technology firms",
+     "optWhy": [
+      "Wrong: not supported. Paragraph 4 does not explain Anthropic's share price; the debut is only mentioned in paragraph 1.",
+      "Wrong: too extreme. Officials only \"suggested\" that the boom adds to inflation; nobody asks firms to stop building.",
+      "Correct. The boom \"may be forcing the central bank to make money more expensive\", and \"expensive money tends to lower the value of shares, especially those of fast-growing technology firms\", so it may hurt the firms behind it.",
+      "Wrong: reversed. The boom \"competes with the rest of the economy for workers\", which increases, not reduces, demand for workers."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.",
+       "hl": "may be forcing the central bank to make money more expensive"
+      },
+      {
+       "para": 4,
+       "text": "In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.",
+       "hl": "expensive money tends to lower the value of shares, especially those of fast-growing technology firms"
+      },
+      {
+       "para": 4,
+       "text": "Several Fed officials, including Goolsbee and Vice Chair Philip Jefferson, have suggested that this construction boom is itself adding to inflation, because it competes with the rest of the economy for workers, equipment and power.",
+       "hl": "because it competes with the rest of the economy for workers, equipment and power"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Follow the chain",
+       "x": "AI spending → more inflation → higher rates → lower share prices."
+      },
+      {
+       "t": "Connect the ends",
+       "x": "The firms that excite investors are the same fast-growing technology firms that suffer."
+      },
+      {
+       "t": "Rule out",
+       "x": "Check that nothing in paragraph 4 mentions Anthropic or orders to stop building."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention \"a central idea in economics\" in paragraph 5?",
+     "opts": [
+      "To explain the logic behind Waller's call for a larger rate rise",
+      "To show that most economists reject Waller's proposal",
+      "To describe how the Fed sets its 2 percent inflation target",
+      "To argue that wage demands are the main cause of inflation today"
+     ],
+     "a": 0,
+     "why": "The idea about self-fulfilling expectations explains why Waller thinks a bold half-point move is needed.",
+     "evidence": "His reasoning reflects a central idea in economics",
+     "optWhy": [
+      "Correct. \"His reasoning reflects a central idea in economics\": the idea that expectations can make inflation \"self-fulfilling\" explains why Waller wants a bold move that \"resets expectations\".",
+      "Wrong: not mentioned. Opponents appear in paragraph 6, and they are Fed officials, not \"most economists\"; the idea in paragraph 5 supports Waller.",
+      "Wrong: irrelevant detail. The 2 percent goal is in paragraph 2 and is not explained by this idea.",
+      "Wrong: too extreme. The author describes a possible chain of expectations; he does not claim wages are the main cause of current inflation."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling.",
+       "hl": "His reasoning reflects a central idea in economics"
+      },
+      {
+       "para": 5,
+       "text": "A bold move, in this view, resets expectations before they harden.",
+       "hl": "A bold move, in this view, resets expectations before they harden"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the phrase",
+       "x": "Find \"a central idea in economics\" in paragraph 5."
+      },
+      {
+       "t": "Ask whose reasoning",
+       "x": "The sentence begins \"His reasoning\", meaning Waller's."
+      },
+      {
+       "t": "Match the function",
+       "x": "The idea explains why a bold half-point move might work."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 6?",
+     "opts": [
+      "If rates are raised slowly, unemployment will fall within a few months.",
+      "A recession could force the Fed to reverse its recent rate increases.",
+      "Past rate rises have already caused job losses that cannot be undone.",
+      "Sharp rate rises might cause job losses and a downturn later, when the harm cannot be undone."
+     ],
+     "a": 3,
+     "why": "The sentence warns that sharp rate rises could lead to unemployment and recession later, too late to fix.",
+     "evidence": "Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed.",
+     "optWhy": [
+      "Wrong: changes the meaning. The sentence warns about raising rates sharply; it makes no promise about unemployment falling.",
+      "Wrong: cause and effect reversed. The sentence says rate rises could cause a recession, not that a recession reverses rate rises.",
+      "Wrong: wrong time. The sentence is about a possible future (\"could\", \"months later\"), not damage that has already happened.",
+      "Correct. \"push up unemployment and trigger a recession months later\" = cause job losses and a downturn later; \"can no longer be reversed\" = cannot be undone."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed.",
+       "hl": "Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed."
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the core",
+       "x": "Who/what: raising rates too sharply. Effect: unemployment and recession. When: months later, too late to fix."
+      },
+      {
+       "t": "Check each option",
+       "x": "The answer must keep the cause, the effect and the timing."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that change the tense, reverse the cause or add a promise."
+      }
+     ],
+     "highlight": "Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261120-1-k1",
+     "tag": "Facts",
+     "fact": "On 19 November the Dow fell about 1,100 points and closed below 50,000 for the first time since early June.",
+     "q": "What happened to the Dow on 19 November?",
+     "opts": [
+      "It rose 17 percent",
+      "It fell about 1,100 points",
+      "It closed at a record high",
+      "It stayed unchanged"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261120-1-k2",
+     "tag": "Background",
+     "fact": "Raising interest rates makes borrowing more expensive, so spending falls and demand cools.",
+     "q": "How does raising interest rates fight inflation?",
+     "opts": [
+      "It makes borrowing cheaper",
+      "It raises wages",
+      "It reduces spending and cools demand",
+      "It increases government spending"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-1-k3",
+     "tag": "Facts",
+     "fact": "The Fed raised its benchmark rate to 3.75–4 percent in September, its first increase since 2023.",
+     "q": "When did the Fed last raise rates?",
+     "opts": [
+      "September 2026",
+      "October 2026",
+      "December 2025",
+      "June 2026"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261120-1-k4",
+     "tag": "AI link",
+     "fact": "Some Fed officials think the AI building boom adds to inflation by competing for workers, equipment and power.",
+     "q": "Why might the AI boom add to inflation?",
+     "opts": [
+      "It lowers electricity prices",
+      "It competes for workers, equipment and power",
+      "It reduces investment",
+      "It cuts wages"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261120-1-k5",
+     "tag": "Two views",
+     "fact": "Waller wants a half-point rise to reset expectations; Williams and Daly prefer slower, deliberate steps.",
+     "q": "Who argued for a half-point increase?",
+     "opts": [
+      "John Williams",
+      "Mary Daly",
+      "Christopher Waller",
+      "Austan Goolsbee"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-1-k6",
+     "tag": "Stakes",
+     "fact": "Inflation hurts low-income households most because they spend more of their income on essentials.",
+     "q": "Who tends to be hurt most by inflation?",
+     "opts": [
+      "Savers",
+      "Low-income households",
+      "Bond investors",
+      "Large technology firms"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Fed vs inflation",
+    "question": "Should the Fed move boldly or slowly?",
+    "branches": [
+     {
+      "title": "The sell-off",
+      "paras": "1",
+      "blanks": [
+       "Dow fell 1,101 points"
+      ],
+      "kps": [
+       "n20261120-1-k1"
+      ]
+     },
+     {
+      "title": "How rates work",
+      "paras": "2–3",
+      "blanks": [
+       "borrowing costs rise, demand cools",
+       "first increase since 2023"
+      ],
+      "kps": [
+       "n20261120-1-k2",
+       "n20261120-1-k3"
+      ]
+     },
+     {
+      "title": "The AI twist",
+      "paras": "4",
+      "blanks": [
+       "data centres compete for power"
+      ],
+      "kps": [
+       "n20261120-1-k4"
+      ]
+     },
+     {
+      "title": "Bold or slow?",
+      "paras": "5–8",
+      "blanks": [
+       "half-point rise to reset expectations",
+       "long delay before effects"
+      ],
+      "kps": [
+       "n20261120-1-k5",
+       "n20261120-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "Fed cut rates in October",
+     "AI boom lowered prices"
+    ]
+   },
+   "summary": {
+    "intro": "A sharp fall in US share prices reflects fears that the Fed will keep raising interest rates to fight inflation.",
+    "model": "Stocks fell because inflation remains well above target, so the Fed is likely to raise rates again, partly because AI spending adds to price pressures. However, officials disagree on speed, since bold moves may reset expectations while sharp rises risk a recession.",
+    "options": [
+     {
+      "t": "Inflation well above the Fed's target means further rate increases are widely expected.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "nearly all policymakers expected further increases to be appropriate over time"
+     },
+     {
+      "t": "Heavy spending on AI infrastructure may be adding to inflation, which could in turn hurt share prices.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "this construction boom is itself adding to inflation"
+     },
+     {
+      "t": "Officials disagree about whether a bold increase or gradual steps carry less risk.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "Others urge patience."
+     },
+     {
+      "t": "Anthropic's shares rose 17 percent on their first day of trading.",
+      "ok": false,
+      "why": "True, but only a minor detail. See paragraph 1.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "whose shares rose 17 percent on their first day of trading"
+     },
+     {
+      "t": "The Fed plans to replace its 2 percent goal with a higher target.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Most Fed officials now believe interest rates should be cut in December.",
+      "ok": false,
+      "why": "Contradicts the passage. See paragraph 3.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "Financial markets now treat a rate rise at the Fed's next meeting"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe a central bank should act boldly and quickly when inflation rises, even if it causes short-term pain. Others think it should move slowly and carefully. Which approach do you prefer, and why? Use specific reasons and examples.",
+    "hint": "Pick one side; give two reasons (e.g., expectations, risk of recession) and one example (from the article or your own life); end with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Morgan: This week US share prices fell sharply as investors worried that the Federal Reserve will keep raising interest rates to fight inflation. Some officials want a large, sudden increase to show they are serious; others prefer small, careful steps. In your opinion, which approach is better for ordinary families? Why?\nSophie: \"I support the bold approach. If inflation stays high for years, families lose money every time they buy food or pay rent. A strong move now would bring prices under control faster, even if it is painful for a while.\"\nDaniel: \"I prefer careful steps. Interest rates take a long time to work, so a big jump could cause a recession months later. Losing a job hurts a family far more than paying a little more for groceries.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Sophie or Daniel and add a new idea of your own.",
+     "Support it with a specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261120-2",
+   "topic": "Animals",
+   "title": "Turning Rainforest into Plantations Reshapes Life in Unexpected Ways",
+   "dek": "A survey of 40,000 species in Sumatra shows that farmland can look varied while it is quietly simplified, so is counting species enough to judge the health of nature?",
+   "sources": [
+    {
+     "name": "Nature (Research Briefing), 18 Nov 2026",
+     "url": "https://www.nature.com/articles/d41586-026-03602-1"
+    },
+    {
+     "name": "University of Göttingen via EurekAlert!, 18 Nov 2026",
+     "url": "https://www.eurekalert.org/news-releases/1152455"
+    }
+   ],
+   "paras": [
+    "From the air, large parts of lowland Sumatra now look strikingly uniform: neat rows of oil palms and rubber trees stretch across land where dense rainforest once stood. Indonesia is the world's largest producer of palm oil, an ingredient found in everything from biscuits to shampoo, and rubber remains an important crop for millions of small farmers. A major study published in the journal Nature on 18 November offers one of the most detailed pictures yet of what this transformation means for the living world, and some of its findings surprised even the researchers.",
+    "The team, led by Nathaly Guerrero-Ramírez and Holger Kreft of the University of Göttingen in Germany and working with Indonesian partners, studied 32 plots arranged along a gradient of land use. At one end lay lowland rainforest. In the middle came traditional rubber agroforestry, sometimes called \"jungle rubber\", in which rubber trees grow among other forest plants. At the far end were smallholder monocultures of rubber or oil palm, where a single crop covers the land. Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms, ranging from plants, birds and bats to insects, spiders, soil animals and microbes.",
+    "The first result confirmed what conservationists had long feared. In monoculture plantations, the average number of species found in a single plot was roughly 50 percent lower than in rainforest. When the researchers looked at whole landscapes, combining several plots, the loss was even steeper: about 78 percent. The gap between these two figures matters. It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch.",
+    "The surprise came when the team compared plantations with each other. A common assumption is that intensive agriculture causes biotic homogenisation, the replacement of varied local communities by the same few hardy, widespread species everywhere. If that were true, plantations should look alike. Instead, monoculture communities differed considerably from one another. At first glance, this might seem like good news. A closer look revealed a less comforting explanation: the poorer plantation sites mostly held subsets of the species found at richer sites. In other words, each plantation had lost a somewhat different selection of species, so the sites still looked dissimilar even though all of them were being steadily stripped down.",
+    "The authors argue that this pattern can mask a progressive simplification of ecosystems. Measures that count only how many species live in a place, or how different places are from each other, may therefore give misleading signals. A landscape could appear diverse while losing the very species that perform important roles, such as pollinating crops, controlling pests or recycling nutrients in the soil. The researchers also found that different groups of organisms responded in different ways, which means that tracking a single indicator group, such as birds, cannot reveal the whole story.",
+    "These conclusions arrive in the middle of a long-running debate. For many rural families, oil palm and rubber are the foundation of their livelihoods, providing a far higher income than traditional farming and paying for schooling, housing and healthcare. Supporters of the industry point out that oil palm produces more oil per hectare than alternatives such as soybeans, so replacing it could require even more land. Environmental groups respond that the expansion of plantations has already cost Indonesia vast areas of forest, threatening animals such as orangutans and releasing large amounts of carbon.",
+    "The Göttingen team argues that conservation must operate at the scale of whole landscapes rather than individual protected areas or single plantations. Mixed systems such as rubber agroforestry may offer a middle path, although they often earn farmers less money than monocultures. Keeping patches of forest between plantations, and planting a variety of native trees within them, could help preserve the differences between communities that make a landscape rich.",
+    "The study's broader lesson extends well beyond Sumatra. As the world debates how to feed a growing population while protecting nature, it is tempting to judge success by a single number, such as the count of species in a reserve. The Sumatran data suggest that biodiversity is more like a library than a pile of books: what matters is not only how many volumes remain, but which ones, and whether the collection still holds together."
+   ],
+   "words": [
+    {
+     "w": "uniform",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈjuːnɪfɔːm/",
+     "syl": [
+      "u",
+      "ni",
+      "form"
+     ],
+     "def": "the same everywhere, without differences or variety",
+     "ex": "The new suburb was so uniform that every street looked exactly alike."
+    },
+    {
+     "w": "gradient",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈɡreɪdiənt/",
+     "syl": [
+      "gra",
+      "di",
+      "ent"
+     ],
+     "def": "a gradual change from one condition to another across a range",
+     "ex": "Researchers measured plant life along a gradient from the coast to the mountains."
+    },
+    {
+     "w": "agroforestry",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌæɡrəʊˈfɒrɪstri/",
+     "syl": [
+      "ag",
+      "ro",
+      "for",
+      "est",
+      "ry"
+     ],
+     "def": "farming that grows crops together with trees and other woody plants",
+     "ex": "Coffee grown through agroforestry often shares the land with tall shade trees."
+    },
+    {
+     "w": "monoculture",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈmɒnəʊkʌltʃə(r)/",
+     "syl": [
+      "mon",
+      "o",
+      "cul",
+      "ture"
+     ],
+     "def": "the growing of only one type of crop over a large area",
+     "ex": "Large fields of a single crop, known as monoculture, can be badly hit by one disease."
+    },
+    {
+     "w": "smallholder",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈsmɔːlhəʊldə(r)/",
+     "syl": [
+      "small",
+      "hold",
+      "er"
+     ],
+     "def": "a farmer who owns or rents a small piece of land",
+     "ex": "A smallholder in the hills may grow tea, vegetables and fruit on just two hectares."
+    },
+    {
+     "w": "homogenisation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/həˌmɒdʒənaɪˈzeɪʃn/",
+     "syl": [
+      "ho",
+      "mo",
+      "gen",
+      "i",
+      "sa",
+      "tion"
+     ],
+     "def": "the process of making different things become similar",
+     "ex": "Some critics blame global chain stores for the homogenisation of city centres."
+    },
+    {
+     "w": "subset",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈsʌbset/",
+     "syl": [
+      "sub",
+      "set"
+     ],
+     "def": "a smaller group of things taken from a larger group",
+     "ex": "Only a small subset of the students chose to study a third language."
+    },
+    {
+     "w": "mask",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/mɑːsk/",
+     "syl": [
+      "mask"
+     ],
+     "def": "to hide something so that it cannot easily be seen or noticed",
+     "ex": "A cheerful smile can mask how tired someone really feels."
+    },
+    {
+     "w": "indicator",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈɪndɪkeɪtə(r)/",
+     "syl": [
+      "in",
+      "di",
+      "ca",
+      "tor"
+     ],
+     "def": "a sign or measurement that shows the state of something",
+     "ex": "Clean rivers are often an indicator of a healthy local environment."
+    },
+    {
+     "w": "livelihood",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈlaɪvlihʊd/",
+     "syl": [
+      "live",
+      "li",
+      "hood"
+     ],
+     "def": "the way a person earns the money needed to live",
+     "ex": "Fishing has been the family's livelihood for four generations."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A major study published in the journal Nature on 18 November offers one of the most detailed pictures yet of what this transformation means for the living world, and some of its findings surprised even the researchers.",
+     "kind": "Main idea",
+     "note": "Introduces the study and hints that its findings were surprising."
+    },
+    {
+     "para": 3,
+     "text": "In monoculture plantations, the average number of species found in a single plot was roughly 50 percent lower than in rainforest.",
+     "kind": "Key details",
+     "note": "Gives the two loss figures (50 and 78 percent) that factual questions often test."
+    },
+    {
+     "para": 4,
+     "text": "A closer look revealed a less comforting explanation: the poorer plantation sites mostly held subsets of the species found at richer sites.",
+     "kind": "Topic sentence",
+     "note": "Signals a turn from first impression to real meaning, a frequent inference target."
+    },
+    {
+     "para": 5,
+     "text": "The authors argue that this pattern can mask a progressive simplification of ecosystems.",
+     "kind": "Author's view",
+     "note": "States the researchers' main warning in one sentence."
+    },
+    {
+     "para": 6,
+     "text": "Supporters of the industry point out that oil palm produces more oil per hectare than alternatives such as soybeans, so replacing it could require even more land.",
+     "kind": "Critical thinking",
+     "note": "Presents the other side of the debate, useful for negative-factual questions."
+    },
+    {
+     "para": 8,
+     "text": "The Sumatran data suggest that biodiversity is more like a library than a pile of books: what matters is not only how many volumes remain, but which ones, and whether the collection still holds together.",
+     "kind": "Interpretation",
+     "note": "An analogy that rhetorical-purpose questions often ask about."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"uniform\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "a set of clothes worn by members of a group",
+      "carefully planned in advance",
+      "similar everywhere, with little variety",
+      "extremely large in size"
+     ],
+     "a": 2,
+     "why": "Seen from the air, the land looks the same everywhere because rows of a single crop have replaced varied forest.",
+     "evidence": "large parts of lowland Sumatra now look strikingly uniform",
+     "optWhy": [
+      "Wrong: another meaning of the word. As a noun, \"uniform\" means special clothing, but here it is an adjective describing the land.",
+      "Wrong: possible but not the meaning. \"Neat rows\" suggest planning, but \"uniform\" describes how alike the land looks.",
+      "Correct. \"strikingly uniform\" = similar everywhere; the next words, \"neat rows of oil palms and rubber trees\" replacing \"dense rainforest\", show the variety has gone.",
+      "Wrong: not the meaning. The plantations may be large, but \"uniform\" refers to sameness, not size."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "From the air, large parts of lowland Sumatra now look strikingly uniform: neat rows of oil palms and rubber trees stretch across land where dense rainforest once stood.",
+       "hl": "large parts of lowland Sumatra now look strikingly uniform"
+      },
+      {
+       "para": 1,
+       "text": "From the air, large parts of lowland Sumatra now look strikingly uniform: neat rows of oil palms and rubber trees stretch across land where dense rainforest once stood.",
+       "hl": "neat rows of oil palms and rubber trees stretch across land where dense rainforest once stood"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"uniform\" in the first sentence of paragraph 1."
+      },
+      {
+       "t": "Use the colon",
+       "x": "After the colon, \"neat rows\" of one or two crops explain what \"uniform\" means."
+      },
+      {
+       "t": "Check the part of speech",
+       "x": "Here it is an adjective, so the clothing meaning does not fit."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what was distinctive about the way the study was carried out?",
+     "opts": [
+      "It examined many groups of organisms rather than just one.",
+      "It compared plantations in Indonesia with farms in Germany.",
+      "It focused mainly on birds because they are easy to count.",
+      "It followed the same plots over several decades of change."
+     ],
+     "a": 0,
+     "why": "Instead of studying one group such as birds, the team sampled about 40,000 species from 24 groups.",
+     "evidence": "Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms",
+     "optWhy": [
+      "Correct. \"Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms\" = many groups rather than just one.",
+      "Wrong: detail swapped. Germany is where the University of Göttingen is; all 32 plots were in Sumatra.",
+      "Wrong: reversed. Birds are mentioned as the kind of single group the study did NOT focus on.",
+      "Wrong: not mentioned. The plots form a gradient of land use; nothing says they were followed for decades."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms, ranging from plants, birds and bats to insects, spiders, soil animals and microbes.",
+       "hl": "Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms"
+      },
+      {
+       "para": 2,
+       "text": "The team, led by Nathaly Guerrero-Ramírez and Holger Kreft of the University of Göttingen in Germany and working with Indonesian partners, studied 32 plots arranged along a gradient of land use.",
+       "hl": "of the University of Göttingen in Germany"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 2 describes the study's method."
+      },
+      {
+       "t": "Spot the contrast",
+       "x": "\"Rather than ... one group\" signals what made the study different."
+      },
+      {
+       "t": "Rule out",
+       "x": "Check where Germany and birds appear and what role they play."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following are points made in support of oil palm or rubber EXCEPT:",
+     "opts": [
+      "They provide more income than traditional farming.",
+      "They help families pay for schooling and housing.",
+      "Oil palm yields more oil per hectare than soybeans.",
+      "Plantations store more carbon than the forests they replace."
+     ],
+     "a": 3,
+     "why": "Paragraph 6 says plantation expansion has released large amounts of carbon, the opposite of storing more.",
+     "evidence": "releasing large amounts of carbon",
+     "optWhy": [
+      "Wrong: stated. Oil palm and rubber provide \"a far higher income than traditional farming\".",
+      "Wrong: stated. They help by \"paying for schooling, housing and healthcare\".",
+      "Wrong: stated. \"oil palm produces more oil per hectare than alternatives such as soybeans\".",
+      "Correct. The paragraph says the opposite: environmental groups note that plantation expansion has been \"releasing large amounts of carbon\"."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "For many rural families, oil palm and rubber are the foundation of their livelihoods, providing a far higher income than traditional farming and paying for schooling, housing and healthcare.",
+       "hl": "providing a far higher income than traditional farming and paying for schooling, housing and healthcare"
+      },
+      {
+       "para": 6,
+       "text": "Supporters of the industry point out that oil palm produces more oil per hectare than alternatives such as soybeans, so replacing it could require even more land.",
+       "hl": "oil palm produces more oil per hectare than alternatives such as soybeans"
+      },
+      {
+       "para": 6,
+       "text": "Environmental groups respond that the expansion of plantations has already cost Indonesia vast areas of forest, threatening animals such as orangutans and releasing large amounts of carbon.",
+       "hl": "releasing large amounts of carbon"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Separate the sides",
+       "x": "Paragraph 6 gives supporters' points first, then environmental groups' reply."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "Income, schooling and housing, and oil per hectare are supporters' points."
+      },
+      {
+       "t": "Find the contradiction",
+       "x": "The carbon point appears on the other side and says the opposite."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the differences between plantation communities?",
+     "opts": [
+      "They show that plantations hold more species than expected.",
+      "They do not necessarily mean that plantations are healthy.",
+      "They are caused by the different crops grown on each site.",
+      "They prove that homogenisation never happens on farmland."
+     ],
+     "a": 1,
+     "why": "The plantations differ only because each has lost a different set of species, so difference does not mean health.",
+     "evidence": "the poorer plantation sites mostly held subsets of the species found at richer sites",
+     "optWhy": [
+      "Wrong: misreads \"good news\". The author says it only \"might seem like good news\"; plantations still lost about half their species (paragraph 3).",
+      "Correct. The differences exist because \"each plantation had lost a somewhat different selection of species\", so the sites look dissimilar \"even though all of them were being steadily stripped down\".",
+      "Wrong: not mentioned. The text explains the differences by species loss, not by which crop is grown.",
+      "Wrong: too extreme. The study found a different pattern in these plantations; it does not prove homogenisation never happens anywhere."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "At first glance, this might seem like good news.",
+       "hl": "At first glance, this might seem like good news."
+      },
+      {
+       "para": 4,
+       "text": "A closer look revealed a less comforting explanation: the poorer plantation sites mostly held subsets of the species found at richer sites.",
+       "hl": "the poorer plantation sites mostly held subsets of the species found at richer sites"
+      },
+      {
+       "para": 4,
+       "text": "In other words, each plantation had lost a somewhat different selection of species, so the sites still looked dissimilar even though all of them were being steadily stripped down.",
+       "hl": "even though all of them were being steadily stripped down"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Notice the turn",
+       "x": "\"At first glance ... good news. A closer look revealed a less comforting explanation\"."
+      },
+      {
+       "t": "Read the explanation",
+       "x": "Poorer sites hold subsets of richer sites' species: they have lost different species."
+      },
+      {
+       "t": "Draw the inference",
+       "x": "Being different is not proof of being healthy."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 8,
+     "q": "Why does the author compare biodiversity to \"a library\" in paragraph 8?",
+     "opts": [
+      "To suggest that scientists should list every species like books",
+      "To argue that counting species is the best way to measure nature",
+      "To show that which species remain and how they connect also matter",
+      "To point out that many species have already been lost for ever"
+     ],
+     "a": 2,
+     "why": "The library image shows that the identity of species and how they fit together matter, not just the total number.",
+     "evidence": "biodiversity is more like a library than a pile of books",
+     "optWhy": [
+      "Wrong: too literal. The comparison is an image about what matters in biodiversity, not advice to make a catalogue.",
+      "Wrong: contradicts the passage. The author warns against judging success \"by a single number\".",
+      "Correct. \"what matters is not only how many volumes remain, but which ones, and whether the collection still holds together\" = the identity of species and their connections matter too.",
+      "Wrong: true but not the purpose. Species loss is discussed, but the library image explains how to judge biodiversity."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "The Sumatran data suggest that biodiversity is more like a library than a pile of books: what matters is not only how many volumes remain, but which ones, and whether the collection still holds together.",
+       "hl": "biodiversity is more like a library than a pile of books"
+      },
+      {
+       "para": 8,
+       "text": "As the world debates how to feed a growing population while protecting nature, it is tempting to judge success by a single number, such as the count of species in a reserve.",
+       "hl": "it is tempting to judge success by a single number"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the comparison",
+       "x": "Find \"a library\" in the last sentence of paragraph 8."
+      },
+      {
+       "t": "Read what follows the colon",
+       "x": "It explains what the image means: how many, which ones, whether it holds together."
+      },
+      {
+       "t": "Link to the previous sentence",
+       "x": "It answers the warning about judging by \"a single number\"."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 3?",
+     "opts": [
+      "Each forest plot contains more species than a whole landscape of plantations.",
+      "Because forest plots hold different species, a whole forest is far more varied than one plot.",
+      "Forest plots contain many species, but they are mostly the same from plot to plot.",
+      "A forested landscape is varied mainly because each patch of forest is very large."
+     ],
+     "a": 1,
+     "why": "Forest plots differ from one another, so a whole forested landscape is much more varied than any one plot.",
+     "evidence": "It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch.",
+     "optWhy": [
+      "Wrong: distorts the comparison. The sentence compares a forest landscape with a single forest patch, not forest plots with plantations.",
+      "Correct. \"contain different species from one another\" = hold different species; \"so that a forested landscape holds far more variety than any single patch\" = a whole forest is far more varied than one plot.",
+      "Wrong: contradicts the sentence. The plots \"contain different species from one another\", not the same species.",
+      "Wrong: wrong cause. The variety comes from differences between plots, not from the size of each patch."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch.",
+       "hl": "It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch."
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: plots differ from one another. Part 2 (result): the landscape is richer than one patch."
+      },
+      {
+       "t": "Keep the cause and result",
+       "x": "The right answer must keep the word \"because\" or \"so\" logic."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that compare with plantations or invent a new cause."
+      }
+     ],
+     "highlight": "It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261120-2-k1",
+     "tag": "Facts",
+     "fact": "The study sampled about 40,000 species from 24 groups of organisms in 32 plots in Sumatra.",
+     "q": "How many species did the study sample?",
+     "opts": [
+      "About 400",
+      "About 4,000",
+      "About 40,000",
+      "About 400,000"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-2-k2",
+     "tag": "Gradient",
+     "fact": "The plots ranged from rainforest to rubber agroforestry to monocultures of rubber or oil palm.",
+     "q": "What lay in the middle of the land-use gradient?",
+     "opts": [
+      "Rainforest",
+      "Rubber agroforestry",
+      "Oil palm monoculture",
+      "Soybean fields"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261120-2-k3",
+     "tag": "Facts",
+     "fact": "Monocultures had about 50 percent fewer species per plot and about 78 percent fewer across landscapes.",
+     "q": "How much lower was species richness across whole plantation landscapes?",
+     "opts": [
+      "About 25 percent",
+      "About 50 percent",
+      "About 78 percent",
+      "About 95 percent"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-2-k4",
+     "tag": "Surprise",
+     "fact": "Plantations differed from each other because each lost a different subset of the forest's species.",
+     "q": "Why did plantation communities differ from each other?",
+     "opts": [
+      "They grew different crops",
+      "Each lost a different subset of species",
+      "They were in different countries",
+      "New species arrived"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261120-2-k5",
+     "tag": "Lesson",
+     "fact": "Counting species alone can mask the simplification of ecosystems.",
+     "q": "What can counting species alone hide?",
+     "opts": [
+      "The simplification of ecosystems",
+      "The price of palm oil",
+      "The age of the forest",
+      "The size of plots"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261120-2-k6",
+     "tag": "Debate",
+     "fact": "Oil palm gives rural families higher income and more oil per hectare than soybeans, but its expansion has cost forests and released carbon.",
+     "q": "Which is an argument FOR oil palm?",
+     "opts": [
+      "It releases carbon",
+      "It threatens orangutans",
+      "It produces more oil per hectare than soybeans",
+      "It needs no land"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Sumatra's changing land",
+    "question": "Is counting species enough to judge nature?",
+    "branches": [
+     {
+      "title": "The study",
+      "paras": "1–2",
+      "blanks": [
+       "40,000 species from 24 groups"
+      ],
+      "kps": [
+       "n20261120-2-k1",
+       "n20261120-2-k2"
+      ]
+     },
+     {
+      "title": "Expected loss",
+      "paras": "3",
+      "blanks": [
+       "about 78 percent fewer species"
+      ],
+      "kps": [
+       "n20261120-2-k3"
+      ]
+     },
+     {
+      "title": "The surprise",
+      "paras": "4–5",
+      "blanks": [
+       "each site lost different species",
+       "richness alone misleads"
+      ],
+      "kps": [
+       "n20261120-2-k4",
+       "n20261120-2-k5"
+      ]
+     },
+     {
+      "title": "People and policy",
+      "paras": "6–8",
+      "blanks": [
+       "higher income for rural families",
+       "think at landscape scale"
+      ],
+      "kps": [
+       "n20261120-2-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "plantations became more diverse",
+     "study took place in Brazil"
+    ]
+   },
+   "summary": {
+    "intro": "A large study in Sumatra shows how replacing rainforest with plantations changes biodiversity.",
+    "model": "Converting rainforest to monocultures sharply cuts species numbers, while the remaining communities differ only because each has lost different species. So the authors argue that counting species can hide ecosystem simplification, and conservation should consider whole landscapes and farmers' needs.",
+    "options": [
+     {
+      "t": "Monoculture plantations hold far fewer species than rainforest, especially across whole landscapes.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 3.",
+      "type": "main",
+      "para": 3,
+      "evidence": "the loss was even steeper: about 78 percent"
+     },
+     {
+      "t": "Plantations differ from one another only because each has lost a different set of species, which can hide simplification.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "this pattern can mask a progressive simplification of ecosystems"
+     },
+     {
+      "t": "Balancing farmers' incomes with conservation may require planning at the scale of whole landscapes.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "conservation must operate at the scale of whole landscapes"
+     },
+     {
+      "t": "Palm oil is an ingredient in products ranging from biscuits to shampoo.",
+      "ok": false,
+      "why": "True, but only a minor detail. See paragraph 1.",
+      "type": "detail",
+      "para": 1,
+      "evidence": "an ingredient found in everything from biscuits to shampoo"
+     },
+     {
+      "t": "The Indonesian government has banned new oil palm plantations in Sumatra.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The study found that plantations had become more alike, just as experts had predicted.",
+      "ok": false,
+      "why": "Contradicts the passage. See paragraph 4.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "Instead, monoculture communities differed considerably from one another."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think that protecting rainforests is more important than the income farmers earn from plantations. Others think that local families' needs should come first. Which view do you agree with, and why?",
+    "hint": "Choose a side; give two reasons (e.g., long-term environmental value, families' right to a decent income) and one example; end with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Rahman: A new study in Sumatra found that replacing rainforest with oil palm and rubber plantations removes about half of the species in each plot, yet these crops give many rural families a much better income. Should consumers in richer countries pay more for products such as palm oil if the extra money helps protect forests? Why or why not?\nLucas: \"Yes. If we enjoy cheap products while forests disappear, we share the responsibility. Paying a little more for certified palm oil could reward farmers who keep patches of forest on their land.\"\nAmina: \"I'm not sure. Higher prices hit poorer shoppers hardest, and certification schemes are not always reliable. Governments and companies should solve this problem rather than individual consumers.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Lucas or Amina and add a new idea of your own.",
+     "Support it with a specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261120-3",
+   "topic": "Environment",
+   "title": "EU Gives Fossil-Fuel Importers Two More Years on Methane Rules",
+   "dek": "Europe has delayed checks on leaks of a powerful greenhouse gas to protect its energy supply, so is the pause a sensible adjustment or a costly retreat?",
+   "sources": [
+    {
+     "name": "EUobserver, 19 Nov 2026",
+     "url": "https://euobserver.com/250022/eu-gives-oil-and-gas-importers-until-2029-on-methane-checks-rules-out-more-delay/"
+    },
+    {
+     "name": "Bloomberg via Rigzone, 19 Nov 2026",
+     "url": "https://www.rigzone.com/news/eu_agrees_further_delay_on_methane_rules_for_energy_imports-19-nov-2026-185119-article"
+    }
+   ],
+   "paras": [
+    "In the early hours of Thursday, 19 November, negotiators from the European Union's governments and the European Parliament reached a provisional agreement to delay a key part of the bloc's methane regulation. Companies that import oil, gas and coal into the EU will now have until 1 January 2029, rather than 1 January 2027, to begin monitoring, reporting and verifying the methane emissions linked to their supplies. A further requirement, to report the \"methane intensity\" of imported fuel, has been pushed back to 5 August 2030.",
+    "Methane is the main component of natural gas, and it is also a potent greenhouse gas. Although it remains in the atmosphere for only about a decade, far less time than carbon dioxide, it traps much more heat while it lasts: over a 20-year period, a tonne of methane warms the planet roughly 80 times as much as a tonne of carbon dioxide. Scientists estimate that methane is responsible for about 30 percent of the rise in global temperatures since the Industrial Revolution. Much of the methane released by the energy industry escapes through leaking pipelines and faulty equipment, or is deliberately vented into the air. Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term.",
+    "The EU adopted its methane regulation in 2024. The rules for importers were designed to tackle a problem that domestic rules alone cannot solve. Europe imports most of the oil and gas it uses, so a large share of the emissions connected with its energy occurs outside its borders, at wells and pipelines in other countries. By requiring importers to show that their suppliers measure and control leaks, the EU hoped to use its purchasing power as leverage to raise standards around the world.",
+    "Governments argued that the original timetable had become unrealistic. Since the regulation was agreed, conflict in the Middle East has pushed up energy prices and raised fears about supply. Several member states worried that strict reporting requirements might discourage some exporters from selling to Europe at a time when it needs every cargo it can get. The United States, now a leading supplier of liquefied natural gas to the EU, warned that its producers could send their gas elsewhere, and energy companies lobbied hard for relief. Ireland's climate minister, Darragh O'Brien, described the deal as a \"pragmatic balance\", while the Polish member of the European Parliament Borys Budka put it more bluntly: \"security of supply comes first\".",
+    "Environmental campaigners see the decision very differently. Léa Pilsner of the Environmental Defense Fund Europe estimates that about 24 billion cubic metres of methane will leak during the extra two years, gas that is lost both as a fuel that could have been sold and as a pollutant that heats the planet. Modelling by the consultancy Rystad Energy, cited in coverage of the deal, suggests that complying with the rules would add only about 0.3 percent to the price of gas. If the cost is so small, critics ask, why wait?",
+    "The final deal is itself a compromise. The European Parliament had asked for a three-year delay, while member states had proposed just twelve months. Campaigners were relieved that negotiators dropped an option that would have allowed the deadline to be extended again; any further delay will now require a new law. The European Commission will review how the rules are working, and whether they threaten energy security, at the start of 2028. The agreement still needs formal approval from both the Parliament and the member states before it can take effect.",
+    "The episode illustrates a dilemma that governments face again and again. Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters. Supporters of the delay argue that a policy which provoked a supply crisis could undermine public support for climate action altogether. Opponents reply that every postponement teaches industry that deadlines are negotiable, weakening the credibility of future rules.",
+    "Whether the two-year pause proves to be a sensible adjustment or a costly retreat will depend on what happens next. Exporters could use the extra time to install monitoring equipment and repair leaks, demonstrating that the rules are workable. Or they could simply wait to see whether Europe blinks again."
+   ],
+   "words": [
+    {
+     "w": "provisional",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/prəˈvɪʒənl/",
+     "syl": [
+      "pro",
+      "vi",
+      "sion",
+      "al"
+     ],
+     "def": "arranged for now but likely to be confirmed or changed later",
+     "ex": "The team released a provisional schedule and promised a final version next week."
+    },
+    {
+     "w": "potent",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈpəʊtnt/",
+     "syl": [
+      "po",
+      "tent"
+     ],
+     "def": "having a very strong effect",
+     "ex": "Even a small dose of the medicine is surprisingly potent."
+    },
+    {
+     "w": "vent",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/vent/",
+     "syl": [
+      "vent"
+     ],
+     "def": "to let gas or air escape into the atmosphere",
+     "ex": "Workers had to vent the gas from the tank before repairing it."
+    },
+    {
+     "w": "leverage",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈliːvərɪdʒ/",
+     "syl": [
+      "lev",
+      "er",
+      "age"
+     ],
+     "def": "power or influence used to make others act in a certain way",
+     "ex": "As the biggest customer, the city had leverage to demand cleaner buses."
+    },
+    {
+     "w": "liquefied natural gas",
+     "level": "Topic term",
+     "pos": "noun phrase",
+     "ipa": "/ˌlɪkwɪfaɪd ˌnætʃrəl ˈɡæs/",
+     "syl": [
+      "liq",
+      "ue",
+      "fied",
+      "nat",
+      "u",
+      "ral",
+      "gas"
+     ],
+     "def": "natural gas cooled until it becomes liquid so that it can be shipped by sea",
+     "ex": "Japan imports liquefied natural gas on huge tankers from Australia and Qatar."
+    },
+    {
+     "w": "lobby",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈlɒbi/",
+     "syl": [
+      "lob",
+      "by"
+     ],
+     "def": "to try to persuade politicians to support a particular policy",
+     "ex": "Teachers' unions continue to lobby for smaller class sizes."
+    },
+    {
+     "w": "pragmatic",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/præɡˈmætɪk/",
+     "syl": [
+      "prag",
+      "mat",
+      "ic"
+     ],
+     "def": "dealing with problems in a practical way rather than following fixed ideas",
+     "ex": "Taking the bus while her bike was repaired was a pragmatic solution."
+    },
+    {
+     "w": "comply",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/kəmˈplaɪ/",
+     "syl": [
+      "com",
+      "ply"
+     ],
+     "def": "to act according to a rule, law or request",
+     "ex": "All new buildings must comply with strict fire-safety standards."
+    },
+    {
+     "w": "undermine",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌʌndəˈmaɪn/",
+     "syl": [
+      "un",
+      "der",
+      "mine"
+     ],
+     "def": "to make something gradually weaker or less effective",
+     "ex": "Constant criticism can undermine a young player's confidence."
+    },
+    {
+     "w": "credibility",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌkredəˈbɪləti/",
+     "syl": [
+      "cred",
+      "i",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the quality of being trusted and believed",
+     "ex": "The newspaper lost credibility after publishing several false stories."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "In the early hours of Thursday, 19 November, negotiators from the European Union's governments and the European Parliament reached a provisional agreement to delay a key part of the bloc's methane regulation.",
+     "kind": "Main idea",
+     "note": "States the news itself: what was agreed, by whom and when."
+    },
+    {
+     "para": 2,
+     "text": "Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term.",
+     "kind": "Cause → effect",
+     "note": "Explains why methane matters so much for near-term climate action."
+    },
+    {
+     "para": 3,
+     "text": "By requiring importers to show that their suppliers measure and control leaks, the EU hoped to use its purchasing power as leverage to raise standards around the world.",
+     "kind": "Key details",
+     "note": "Shows the purpose of the importer rules; inference questions often target it."
+    },
+    {
+     "para": 4,
+     "text": "Governments argued that the original timetable had become unrealistic.",
+     "kind": "Topic sentence",
+     "note": "Introduces the case for delay; the rest of the paragraph supports it."
+    },
+    {
+     "para": 5,
+     "text": "If the cost is so small, critics ask, why wait?",
+     "kind": "Critical thinking",
+     "note": "A rhetorical question that sums up the critics' case."
+    },
+    {
+     "para": 7,
+     "text": "Opponents reply that every postponement teaches industry that deadlines are negotiable, weakening the credibility of future rules.",
+     "kind": "Author's view",
+     "note": "Captures the credibility argument against delays."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"provisional\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "related to supplying food and goods",
+      "permanent and legally binding",
+      "reached by a very narrow vote",
+      "agreed for now but still needing final approval"
+     ],
+     "a": 3,
+     "why": "The agreement has been reached but, as paragraph 6 explains, it still needs formal approval.",
+     "evidence": "reached a provisional agreement to delay a key part of the bloc's methane regulation",
+     "optWhy": [
+      "Wrong: related-word trap. \"Provisions\" can mean food and supplies, but \"provisional\" describes the status of the agreement.",
+      "Wrong: opposite meaning. Paragraph 6 says the deal \"still needs formal approval\", so it is not yet binding.",
+      "Wrong: not mentioned. Nothing is said about how close any vote was.",
+      "Correct. \"a provisional agreement\" = agreed for now; paragraph 6 confirms it \"still needs formal approval from both the Parliament and the member states\"."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "In the early hours of Thursday, 19 November, negotiators from the European Union's governments and the European Parliament reached a provisional agreement to delay a key part of the bloc's methane regulation.",
+       "hl": "reached a provisional agreement to delay a key part of the bloc's methane regulation"
+      },
+      {
+       "para": 6,
+       "text": "The agreement still needs formal approval from both the Parliament and the member states before it can take effect.",
+       "hl": "The agreement still needs formal approval from both the Parliament and the member states before it can take effect."
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"provisional\" in the first sentence of paragraph 1."
+      },
+      {
+       "t": "Look for support elsewhere",
+       "x": "Paragraph 6 says the agreement still needs formal approval."
+      },
+      {
+       "t": "Beware of look-alikes",
+       "x": "Do not confuse \"provisional\" with \"provisions\" (supplies)."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why is cutting methane often seen as a fast way to slow warming?",
+     "opts": [
+      "Methane stays in the air much longer than carbon dioxide.",
+      "Many leaks are cheap to fix, and methane traps a lot of heat.",
+      "Natural gas no longer contains much methane.",
+      "The energy industry has already stopped venting gas."
+     ],
+     "a": 1,
+     "why": "Methane traps much more heat than carbon dioxide while it lasts, and many leaks can be fixed cheaply.",
+     "evidence": "Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term",
+     "optWhy": [
+      "Wrong: reversed. Methane remains \"for only about a decade, far less time than carbon dioxide\".",
+      "Correct. \"many of these leaks can be fixed cheaply\" = cheap to fix; \"it traps much more heat while it lasts\" = traps a lot of heat.",
+      "Wrong: contradicts the text. \"Methane is the main component of natural gas\".",
+      "Wrong: not supported. The paragraph says methane \"is deliberately vented into the air\"; it does not say venting has stopped."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term.",
+       "hl": "Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term"
+      },
+      {
+       "para": 2,
+       "text": "Although it remains in the atmosphere for only about a decade, far less time than carbon dioxide, it traps much more heat while it lasts: over a 20-year period, a tonne of methane warms the planet roughly 80 times as much as a tonne of carbon dioxide.",
+       "hl": "it traps much more heat while it lasts"
+      },
+      {
+       "para": 2,
+       "text": "Although it remains in the atmosphere for only about a decade, far less time than carbon dioxide, it traps much more heat while it lasts: over a 20-year period, a tonne of methane warms the planet roughly 80 times as much as a tonne of carbon dioxide.",
+       "hl": "far less time than carbon dioxide"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key words",
+       "x": "Look for \"fastest ways to slow warming\" at the end of paragraph 2."
+      },
+      {
+       "t": "Collect both reasons",
+       "x": "The same paragraph says methane is potent and many leaks are cheap to fix."
+      },
+      {
+       "t": "Rule out",
+       "x": "Check the lifetime comparison: methane lasts less time, not more."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the EU's methane rules for importers?",
+     "opts": [
+      "They aim to change how energy is produced outside the EU.",
+      "They were mainly meant to reduce how much gas Europe buys.",
+      "They apply only to fuel produced inside the EU.",
+      "They exist because EU producers leak more than foreign ones."
+     ],
+     "a": 0,
+     "why": "Because much of the pollution from Europe's energy occurs abroad, the EU wants to use its buying power to raise standards in other countries.",
+     "evidence": "the EU hoped to use its purchasing power as leverage to raise standards around the world",
+     "optWhy": [
+      "Correct. Emissions occur \"outside its borders\", and the EU hoped to use \"its purchasing power as leverage to raise standards around the world\", so the rules aim to change production abroad.",
+      "Wrong: not supported. The goal is cleaner supplies, not buying less gas.",
+      "Wrong: contradicts the text. The rules target \"importers\" because emissions occur \"outside its borders\".",
+      "Wrong: not mentioned. The paragraph never compares leaks from EU and foreign producers."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Europe imports most of the oil and gas it uses, so a large share of the emissions connected with its energy occurs outside its borders, at wells and pipelines in other countries.",
+       "hl": "a large share of the emissions connected with its energy occurs outside its borders"
+      },
+      {
+       "para": 3,
+       "text": "By requiring importers to show that their suppliers measure and control leaks, the EU hoped to use its purchasing power as leverage to raise standards around the world.",
+       "hl": "the EU hoped to use its purchasing power as leverage to raise standards around the world"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the problem",
+       "x": "Paragraph 3: much of the pollution linked to Europe's energy happens abroad."
+      },
+      {
+       "t": "Find the solution",
+       "x": "Importers must show that suppliers control leaks: buying power as leverage."
+      },
+      {
+       "t": "Infer the aim",
+       "x": "The rules try to change production in other countries."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following were reasons given for delaying the rules EXCEPT:",
+     "opts": [
+      "higher energy prices linked to conflict in the Middle East",
+      "fear that some exporters might stop selling to Europe",
+      "evidence that the rules would sharply raise gas prices",
+      "warnings from the United States about its gas producers"
+     ],
+     "a": 2,
+     "why": "No evidence of sharply higher gas prices is given; paragraph 5 even cites modelling showing only a 0.3 percent increase.",
+     "evidence": "conflict in the Middle East has pushed up energy prices and raised fears about supply",
+     "optWhy": [
+      "Wrong: stated. \"conflict in the Middle East has pushed up energy prices and raised fears about supply\".",
+      "Wrong: stated. Requirements \"might discourage some exporters from selling to Europe\".",
+      "Correct. Paragraph 4 gives no such evidence, and paragraph 5 says the opposite: complying \"would add only about 0.3 percent to the price of gas\".",
+      "Wrong: stated. The United States \"warned that its producers could send their gas elsewhere\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Since the regulation was agreed, conflict in the Middle East has pushed up energy prices and raised fears about supply.",
+       "hl": "conflict in the Middle East has pushed up energy prices and raised fears about supply"
+      },
+      {
+       "para": 4,
+       "text": "Several member states worried that strict reporting requirements might discourage some exporters from selling to Europe at a time when it needs every cargo it can get.",
+       "hl": "might discourage some exporters from selling to Europe"
+      },
+      {
+       "para": 5,
+       "text": "Modelling by the consultancy Rystad Energy, cited in coverage of the deal, suggests that complying with the rules would add only about 0.3 percent to the price of gas.",
+       "hl": "complying with the rules would add only about 0.3 percent to the price of gas"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 4 explains why governments wanted the delay."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "Prices and supply fears, exporters, and the US warning are all there."
+      },
+      {
+       "t": "Check the leftover",
+       "x": "The price claim is contradicted by the 0.3 percent figure in paragraph 5."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention the modelling by Rystad Energy in paragraph 5?",
+     "opts": [
+      "To support critics' view that the rules are cheap enough to adopt now",
+      "To show that the rules would make gas unaffordable for households",
+      "To explain how much methane will leak during the delay",
+      "To prove that Rystad Energy itself opposed the delay"
+     ],
+     "a": 0,
+     "why": "The small cost estimate supports the critics' question: if compliance is so cheap, why wait?",
+     "evidence": "complying with the rules would add only about 0.3 percent to the price of gas",
+     "optWhy": [
+      "Correct. The modelling says complying \"would add only about 0.3 percent to the price of gas\", which leads directly to the critics' question: \"If the cost is so small, critics ask, why wait?\"",
+      "Wrong: contradicts the text. A 0.3 percent increase is described as \"so small\".",
+      "Wrong: detail swapped. The leak estimate of 24 billion cubic metres comes from Léa Pilsner of the Environmental Defense Fund Europe, not from Rystad.",
+      "Wrong: not mentioned. The text reports the modelling but says nothing about Rystad's own position."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Modelling by the consultancy Rystad Energy, cited in coverage of the deal, suggests that complying with the rules would add only about 0.3 percent to the price of gas.",
+       "hl": "complying with the rules would add only about 0.3 percent to the price of gas"
+      },
+      {
+       "para": 5,
+       "text": "If the cost is so small, critics ask, why wait?",
+       "hl": "If the cost is so small, critics ask, why wait?"
+      },
+      {
+       "para": 5,
+       "text": "Léa Pilsner of the Environmental Defense Fund Europe estimates that about 24 billion cubic metres of methane will leak during the extra two years, gas that is lost both as a fuel that could have been sold and as a pollutant that heats the planet.",
+       "hl": "estimates that about 24 billion cubic metres of methane will leak during the extra two years"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the reference",
+       "x": "Find \"Rystad Energy\" in paragraph 5."
+      },
+      {
+       "t": "Read the next sentence",
+       "x": "\"If the cost is so small, critics ask, why wait?\""
+      },
+      {
+       "t": "Name the function",
+       "x": "The figure is evidence for the critics' argument."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7?",
+     "opts": [
+      "Voters usually support climate policies because the benefits reach the whole planet.",
+      "Energy shortages last for decades, while climate policies lower prices quickly.",
+      "Climate policies cost money now but pay off slowly, while energy problems hit voters at once.",
+      "Climate policies are costly because governments must pay for shortages for decades."
+     ],
+     "a": 2,
+     "why": "Climate costs come now and benefits come slowly and widely; energy shortages and price spikes are felt immediately.",
+     "evidence": "Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters.",
+     "optWhy": [
+      "Wrong: not stated. The sentence says nothing about voters supporting climate policies.",
+      "Wrong: details swapped. It is the climate benefits that are spread across decades; energy problems are felt \"immediately\".",
+      "Correct. \"impose costs today\" = cost money now; \"benefits ... spread across decades\" = pay off slowly; \"felt immediately by voters\" = hit voters at once.",
+      "Wrong: wrong cause. The sentence does not say climate policies are costly because of energy shortages."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters.",
+       "hl": "Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters."
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split at \"whereas\"",
+       "x": "Side 1: climate policy (cost now, benefit later). Side 2: energy problems (felt now)."
+      },
+      {
+       "t": "Keep the contrast",
+       "x": "The correct answer must keep both sides and the timing."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that swap the timing or invent a cause."
+      }
+     ],
+     "highlight": "Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261120-3-k1",
+     "tag": "Facts",
+     "fact": "EU importers now have until 1 January 2029, instead of 2027, to start monitoring and reporting methane.",
+     "q": "When must importers now start methane monitoring?",
+     "opts": [
+      "1 January 2027",
+      "1 January 2028",
+      "1 January 2029",
+      "5 August 2030"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-3-k2",
+     "tag": "Science",
+     "fact": "Over 20 years, methane warms the planet about 80 times as much as carbon dioxide.",
+     "q": "Over 20 years, about how much more warming does methane cause than CO2?",
+     "opts": [
+      "2 times",
+      "8 times",
+      "80 times",
+      "800 times"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261120-3-k3",
+     "tag": "Purpose",
+     "fact": "The importer rules aim to use Europe's buying power to raise standards abroad.",
+     "q": "What was the main aim of the importer rules?",
+     "opts": [
+      "To ban gas imports",
+      "To raise standards abroad",
+      "To lower gas prices",
+      "To tax drivers"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261120-3-k4",
+     "tag": "Case for delay",
+     "fact": "Governments cited high energy prices and supply fears after conflict in the Middle East.",
+     "q": "Which reason was given FOR the delay?",
+     "opts": [
+      "Supply fears",
+      "Leaks had stopped",
+      "Methane is harmless",
+      "Prices had fallen"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261120-3-k5",
+     "tag": "Case against",
+     "fact": "Critics say 24 billion cubic metres of methane will leak and compliance would add only about 0.3 percent to gas prices.",
+     "q": "According to modelling, how much would compliance add to gas prices?",
+     "opts": [
+      "About 0.3 percent",
+      "About 3 percent",
+      "About 30 percent",
+      "Nothing at all"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261120-3-k6",
+     "tag": "Compromise",
+     "fact": "Parliament wanted three years, member states one year; the deal gives two and requires a new law for any further delay.",
+     "q": "What would any further delay now require?",
+     "opts": [
+      "A court ruling",
+      "A new law",
+      "A referendum",
+      "Nothing"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "EU methane delay",
+    "question": "Sensible adjustment or costly retreat?",
+    "branches": [
+     {
+      "title": "The decision",
+      "paras": "1",
+      "blanks": [
+       "deadline moved to 2029"
+      ],
+      "kps": [
+       "n20261120-3-k1"
+      ]
+     },
+     {
+      "title": "Why methane matters",
+      "paras": "2–3",
+      "blanks": [
+       "80 times CO2 over 20 years",
+       "buying power as leverage"
+      ],
+      "kps": [
+       "n20261120-3-k2",
+       "n20261120-3-k3"
+      ]
+     },
+     {
+      "title": "For the delay",
+      "paras": "4",
+      "blanks": [
+       "high prices and supply fears"
+      ],
+      "kps": [
+       "n20261120-3-k4"
+      ]
+     },
+     {
+      "title": "Against the delay",
+      "paras": "5–7",
+      "blanks": [
+       "24 billion cubic metres leak",
+       "deadlines seem negotiable"
+      ],
+      "kps": [
+       "n20261120-3-k5",
+       "n20261120-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "EU bans all gas imports",
+     "methane lasts for centuries"
+    ]
+   },
+   "summary": {
+    "intro": "The EU has agreed to delay its methane rules for fossil-fuel importers by two years.",
+    "model": "The EU delayed methane checks on imported fuel because governments feared higher prices and supply shortages. However, critics argue that leaks will continue while compliance is cheap, so the delay reflects a wider clash between long-term climate goals and immediate energy needs.",
+    "options": [
+     {
+      "t": "Governments delayed the rules because they feared high prices and shortages of energy supplies.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "Governments argued that the original timetable had become unrealistic."
+     },
+     {
+      "t": "Critics argue that the delay will allow large methane leaks even though complying would cost little.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "If the cost is so small, critics ask, why wait?"
+     },
+     {
+      "t": "The decision reflects a wider tension between long-term climate goals and immediate energy needs.",
+      "ok": true,
+      "why": "A main idea that runs through the passage. See paragraph 7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "The episode illustrates a dilemma that governments face again and again."
+     },
+     {
+      "t": "The European Parliament had originally asked for a three-year delay.",
+      "ok": false,
+      "why": "True, but only a minor detail. See paragraph 6.",
+      "type": "detail",
+      "para": 6,
+      "evidence": "The European Parliament had asked for a three-year delay"
+     },
+     {
+      "t": "The EU will give importers money to buy new leak-detection equipment.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Methane remains in the atmosphere much longer than carbon dioxide does.",
+      "ok": false,
+      "why": "Contradicts the passage. See paragraph 2.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "far less time than carbon dioxide"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people say governments should delay environmental rules when energy prices are high. Others say rules should never be delayed, because delays make future rules less credible. Which view do you agree with, and why?",
+    "hint": "Choose a side; give two reasons (e.g., protecting families from high bills, credibility of deadlines) and one example; end with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Fischer: This week the European Union agreed to give fossil-fuel importers two more years before they must check their supplies for methane leaks. Governments said the delay protects energy supplies; critics said it lets a powerful greenhouse gas keep leaking. When energy security and climate goals clash, which should governments put first? Why?\nOliver: \"Energy security should come first. If heating bills soar or there are shortages in winter, people will turn against climate policies altogether. A short delay is a price worth paying to keep public support.\"\nChen: \"I disagree. Methane leaks can be fixed cheaply, so there is no real conflict here. Every delay tells companies they can ignore deadlines, and the climate does not wait for politicians.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Oliver or Chen and add a new idea of your own.",
+     "Support it with a specific example, ideally from the article.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "On Thursday, 19 November, the main US stock indexes suffered one of their worst days of the year. The Dow Jones Industrial Average plunged 1,101 points, or 2.2 percent, closing below 50,000 for the first time since early June. The broader S&P 500 fell 2 percent, its sixth losing session in a row and its longest losing streak since April 2024. Even the record-breaking stock-market debut of the AI company Anthropic, whose shares rose 17 percent on their first day of trading, could not lift the mood. Investors were preoccupied by a single, old-fashioned worry: inflation.": "audio/2026-11-20/a1-p1.mp3",
+  "To understand the anxiety, it helps to recall what a central bank does. The Federal Reserve, usually called the Fed, sets a short-term interest rate that influences the cost of borrowing across the economy. When prices rise too quickly, the Fed can raise this rate. Loans for homes, cars and business expansion become more expensive, so people and companies spend less, and demand gradually cools. The Fed's official goal is inflation of about 2 percent a year. According to Fed staff estimates, however, a key price measure was running at roughly 3.6 percent in September, and Chicago Fed President Austan Goolsbee said this week that inflation remains \"way higher\" than the target.": "audio/2026-11-20/a1-p2.mp3",
+  "The Fed has already changed course once this year. After cutting rates in late 2025, it raised its benchmark rate in September to a range of 3.75 to 4 percent, its first increase since 2023. In October it held rates steady, but the minutes of that meeting, published on 18 November, revealed that nearly all policymakers expected further increases to be appropriate over time. Two officials had wanted to raise rates immediately. Financial markets now treat a rate rise at the Fed's next meeting, on 8 and 9 December, as almost certain. Long-term borrowing costs have climbed too: the yield on ten-year government bonds has risen above 5 percent.": "audio/2026-11-20/a1-p3.mp3",
+  "What makes this episode unusual is the role of artificial intelligence. Technology companies are spending hundreds of billions of dollars on data centres, chips and the electricity to run them. Several Fed officials, including Goolsbee and Vice Chair Philip Jefferson, have suggested that this construction boom is itself adding to inflation, because it competes with the rest of the economy for workers, equipment and power. In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.": "audio/2026-11-20/a1-p4.mp3",
+  "Within the Fed, the debate is no longer about whether to tighten policy but about how fast. Governor Christopher Waller has argued for a half-point increase in December, twice the usual step, saying that the Fed \"might need to, like, shock people\" to convince them that it is serious about inflation. His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling. A bold move, in this view, resets expectations before they harden.": "audio/2026-11-20/a1-p5.mp3",
+  "Others urge patience. New York Fed President John Williams has said there is no need for \"dramatic action\", and San Francisco Fed President Mary Daly favours \"deliberate steps\" rather than abrupt jumps. Their concern is that interest rates affect the economy only after a long delay. Raising them too sharply could push up unemployment and trigger a recession months later, when the damage can no longer be reversed. There are already signs of strain: weekly claims for unemployment benefits rose more than expected this week, and a manufacturing survey from the Philadelphia Fed showed activity slowing even as the prices factories pay climbed to their highest level since April.": "audio/2026-11-20/a1-p6.mp3",
+  "For ordinary people, the stakes are concrete. Higher rates reward savers but punish borrowers, from young families taking out mortgages to small firms that rely on credit. Falling share prices also affect the retirement savings of millions of workers. Meanwhile, persistent inflation quietly erodes the value of wages, and it tends to hurt low-income households most, since they spend a larger share of their income on essentials such as food and energy.": "audio/2026-11-20/a1-p7.mp3",
+  "No one can be sure which path is wiser. Acting too timidly risks letting inflation become entrenched, as happened in the 1970s; acting too aggressively risks an unnecessary recession. Thursday's sell-off suggests that investors have realised the era of cheap money is not returning soon, and that even a technological revolution cannot escape the basic arithmetic of interest rates. The Fed's decision in December will show which risk its leaders fear more.": "audio/2026-11-20/a1-p8.mp3",
+  "plunge": "audio/2026-11-20/a1-w-plunge.mp3",
+  "Ticket sales plunge every winter when the tourists go home.": "audio/2026-11-20/a1-ex-plunge.mp3",
+  "benchmark": "audio/2026-11-20/a1-w-benchmark.mp3",
+  "Many banks use the central bank's rate as a benchmark when they price their own loans.": "audio/2026-11-20/a1-ex-benchmark.mp3",
+  "yield": "audio/2026-11-20/a1-w-yield.mp3",
+  "When investors sell government bonds, the yield on those bonds goes up.": "audio/2026-11-20/a1-ex-yield.mp3",
+  "tighten": "audio/2026-11-20/a1-w-tighten.mp3",
+  "The central bank decided to tighten credit after prices rose for six months in a row.": "audio/2026-11-20/a1-ex-tighten.mp3",
+  "self-fulfilling": "audio/2026-11-20/a1-w-self-fulfilling.mp3",
+  "Fear of a bank run can be self-fulfilling if everyone rushes to withdraw their money.": "audio/2026-11-20/a1-ex-self-fulfilling.mp3",
+  "recession": "audio/2026-11-20/a1-w-recession.mp3",
+  "Many graduates struggled to find jobs during the recession.": "audio/2026-11-20/a1-ex-recession.mp3",
+  "erode": "audio/2026-11-20/a1-w-erode.mp3",
+  "Repeated broken promises can erode trust between a government and its citizens.": "audio/2026-11-20/a1-ex-erode.mp3",
+  "entrench": "audio/2026-11-20/a1-w-entrench.mp3",
+  "Bad habits that are allowed to entrench early are hard to break later.": "audio/2026-11-20/a1-ex-entrench.mp3",
+  "timid": "audio/2026-11-20/a1-w-timid.mp3",
+  "The committee's timid response did little to solve the housing shortage.": "audio/2026-11-20/a1-ex-timid.mp3",
+  "Investors were preoccupied by a single, old-fashioned worry: inflation.": "audio/2026-11-20/a1-ks1.mp3",
+  "When prices rise too quickly, the Fed can raise this rate.": "audio/2026-11-20/a1-ks2.mp3",
+  "In other words, the same investment wave that excites stock-market investors may be forcing the central bank to make money more expensive, and expensive money tends to lower the value of shares, especially those of fast-growing technology firms.": "audio/2026-11-20/a1-ks3.mp3",
+  "His reasoning reflects a central idea in economics: if households and businesses expect prices to keep rising, they demand higher wages and raise their own prices, so inflation can become self-fulfilling.": "audio/2026-11-20/a1-ks4.mp3",
+  "Their concern is that interest rates affect the economy only after a long delay.": "audio/2026-11-20/a1-ks5.mp3",
+  "Acting too timidly risks letting inflation become entrenched, as happened in the 1970s; acting too aggressively risks an unnecessary recession.": "audio/2026-11-20/a1-ks6.mp3",
+  "From the air, large parts of lowland Sumatra now look strikingly uniform: neat rows of oil palms and rubber trees stretch across land where dense rainforest once stood. Indonesia is the world's largest producer of palm oil, an ingredient found in everything from biscuits to shampoo, and rubber remains an important crop for millions of small farmers. A major study published in the journal Nature on 18 November offers one of the most detailed pictures yet of what this transformation means for the living world, and some of its findings surprised even the researchers.": "audio/2026-11-20/a2-p1.mp3",
+  "The team, led by Nathaly Guerrero-Ramírez and Holger Kreft of the University of Göttingen in Germany and working with Indonesian partners, studied 32 plots arranged along a gradient of land use. At one end lay lowland rainforest. In the middle came traditional rubber agroforestry, sometimes called \"jungle rubber\", in which rubber trees grow among other forest plants. At the far end were smallholder monocultures of rubber or oil palm, where a single crop covers the land. Rather than focusing on one group such as birds, the scientists sampled about 40,000 species from 24 groups of organisms, ranging from plants, birds and bats to insects, spiders, soil animals and microbes.": "audio/2026-11-20/a2-p2.mp3",
+  "The first result confirmed what conservationists had long feared. In monoculture plantations, the average number of species found in a single plot was roughly 50 percent lower than in rainforest. When the researchers looked at whole landscapes, combining several plots, the loss was even steeper: about 78 percent. The gap between these two figures matters. It suggests that rainforest plots do not simply contain many species each; they also contain different species from one another, so that a forested landscape holds far more variety than any single patch.": "audio/2026-11-20/a2-p3.mp3",
+  "The surprise came when the team compared plantations with each other. A common assumption is that intensive agriculture causes biotic homogenisation, the replacement of varied local communities by the same few hardy, widespread species everywhere. If that were true, plantations should look alike. Instead, monoculture communities differed considerably from one another. At first glance, this might seem like good news. A closer look revealed a less comforting explanation: the poorer plantation sites mostly held subsets of the species found at richer sites. In other words, each plantation had lost a somewhat different selection of species, so the sites still looked dissimilar even though all of them were being steadily stripped down.": "audio/2026-11-20/a2-p4.mp3",
+  "The authors argue that this pattern can mask a progressive simplification of ecosystems. Measures that count only how many species live in a place, or how different places are from each other, may therefore give misleading signals. A landscape could appear diverse while losing the very species that perform important roles, such as pollinating crops, controlling pests or recycling nutrients in the soil. The researchers also found that different groups of organisms responded in different ways, which means that tracking a single indicator group, such as birds, cannot reveal the whole story.": "audio/2026-11-20/a2-p5.mp3",
+  "These conclusions arrive in the middle of a long-running debate. For many rural families, oil palm and rubber are the foundation of their livelihoods, providing a far higher income than traditional farming and paying for schooling, housing and healthcare. Supporters of the industry point out that oil palm produces more oil per hectare than alternatives such as soybeans, so replacing it could require even more land. Environmental groups respond that the expansion of plantations has already cost Indonesia vast areas of forest, threatening animals such as orangutans and releasing large amounts of carbon.": "audio/2026-11-20/a2-p6.mp3",
+  "The Göttingen team argues that conservation must operate at the scale of whole landscapes rather than individual protected areas or single plantations. Mixed systems such as rubber agroforestry may offer a middle path, although they often earn farmers less money than monocultures. Keeping patches of forest between plantations, and planting a variety of native trees within them, could help preserve the differences between communities that make a landscape rich.": "audio/2026-11-20/a2-p7.mp3",
+  "The study's broader lesson extends well beyond Sumatra. As the world debates how to feed a growing population while protecting nature, it is tempting to judge success by a single number, such as the count of species in a reserve. The Sumatran data suggest that biodiversity is more like a library than a pile of books: what matters is not only how many volumes remain, but which ones, and whether the collection still holds together.": "audio/2026-11-20/a2-p8.mp3",
+  "uniform": "audio/2026-11-20/a2-w-uniform.mp3",
+  "The new suburb was so uniform that every street looked exactly alike.": "audio/2026-11-20/a2-ex-uniform.mp3",
+  "gradient": "audio/2026-11-20/a2-w-gradient.mp3",
+  "Researchers measured plant life along a gradient from the coast to the mountains.": "audio/2026-11-20/a2-ex-gradient.mp3",
+  "agroforestry": "audio/2026-11-20/a2-w-agroforestry.mp3",
+  "Coffee grown through agroforestry often shares the land with tall shade trees.": "audio/2026-11-20/a2-ex-agroforestry.mp3",
+  "monoculture": "audio/2026-11-20/a2-w-monoculture.mp3",
+  "Large fields of a single crop, known as monoculture, can be badly hit by one disease.": "audio/2026-11-20/a2-ex-monoculture.mp3",
+  "smallholder": "audio/2026-11-20/a2-w-smallholder.mp3",
+  "A smallholder in the hills may grow tea, vegetables and fruit on just two hectares.": "audio/2026-11-20/a2-ex-smallholder.mp3",
+  "homogenisation": "audio/2026-11-20/a2-w-homogenisation.mp3",
+  "Some critics blame global chain stores for the homogenisation of city centres.": "audio/2026-11-20/a2-ex-homogenisation.mp3",
+  "subset": "audio/2026-11-20/a2-w-subset.mp3",
+  "Only a small subset of the students chose to study a third language.": "audio/2026-11-20/a2-ex-subset.mp3",
+  "mask": "audio/2026-11-20/a2-w-mask.mp3",
+  "A cheerful smile can mask how tired someone really feels.": "audio/2026-11-20/a2-ex-mask.mp3",
+  "indicator": "audio/2026-11-20/a2-w-indicator.mp3",
+  "Clean rivers are often an indicator of a healthy local environment.": "audio/2026-11-20/a2-ex-indicator.mp3",
+  "livelihood": "audio/2026-11-20/a2-w-livelihood.mp3",
+  "Fishing has been the family's livelihood for four generations.": "audio/2026-11-20/a2-ex-livelihood.mp3",
+  "A major study published in the journal Nature on 18 November offers one of the most detailed pictures yet of what this transformation means for the living world, and some of its findings surprised even the researchers.": "audio/2026-11-20/a2-ks1.mp3",
+  "In monoculture plantations, the average number of species found in a single plot was roughly 50 percent lower than in rainforest.": "audio/2026-11-20/a2-ks2.mp3",
+  "A closer look revealed a less comforting explanation: the poorer plantation sites mostly held subsets of the species found at richer sites.": "audio/2026-11-20/a2-ks3.mp3",
+  "The authors argue that this pattern can mask a progressive simplification of ecosystems.": "audio/2026-11-20/a2-ks4.mp3",
+  "Supporters of the industry point out that oil palm produces more oil per hectare than alternatives such as soybeans, so replacing it could require even more land.": "audio/2026-11-20/a2-ks5.mp3",
+  "The Sumatran data suggest that biodiversity is more like a library than a pile of books: what matters is not only how many volumes remain, but which ones, and whether the collection still holds together.": "audio/2026-11-20/a2-ks6.mp3",
+  "In the early hours of Thursday, 19 November, negotiators from the European Union's governments and the European Parliament reached a provisional agreement to delay a key part of the bloc's methane regulation. Companies that import oil, gas and coal into the EU will now have until 1 January 2029, rather than 1 January 2027, to begin monitoring, reporting and verifying the methane emissions linked to their supplies. A further requirement, to report the \"methane intensity\" of imported fuel, has been pushed back to 5 August 2030.": "audio/2026-11-20/a3-p1.mp3",
+  "Methane is the main component of natural gas, and it is also a potent greenhouse gas. Although it remains in the atmosphere for only about a decade, far less time than carbon dioxide, it traps much more heat while it lasts: over a 20-year period, a tonne of methane warms the planet roughly 80 times as much as a tonne of carbon dioxide. Scientists estimate that methane is responsible for about 30 percent of the rise in global temperatures since the Industrial Revolution. Much of the methane released by the energy industry escapes through leaking pipelines and faulty equipment, or is deliberately vented into the air. Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term.": "audio/2026-11-20/a3-p2.mp3",
+  "The EU adopted its methane regulation in 2024. The rules for importers were designed to tackle a problem that domestic rules alone cannot solve. Europe imports most of the oil and gas it uses, so a large share of the emissions connected with its energy occurs outside its borders, at wells and pipelines in other countries. By requiring importers to show that their suppliers measure and control leaks, the EU hoped to use its purchasing power as leverage to raise standards around the world.": "audio/2026-11-20/a3-p3.mp3",
+  "Governments argued that the original timetable had become unrealistic. Since the regulation was agreed, conflict in the Middle East has pushed up energy prices and raised fears about supply. Several member states worried that strict reporting requirements might discourage some exporters from selling to Europe at a time when it needs every cargo it can get. The United States, now a leading supplier of liquefied natural gas to the EU, warned that its producers could send their gas elsewhere, and energy companies lobbied hard for relief. Ireland's climate minister, Darragh O'Brien, described the deal as a \"pragmatic balance\", while the Polish member of the European Parliament Borys Budka put it more bluntly: \"security of supply comes first\".": "audio/2026-11-20/a3-p4.mp3",
+  "Environmental campaigners see the decision very differently. Léa Pilsner of the Environmental Defense Fund Europe estimates that about 24 billion cubic metres of methane will leak during the extra two years, gas that is lost both as a fuel that could have been sold and as a pollutant that heats the planet. Modelling by the consultancy Rystad Energy, cited in coverage of the deal, suggests that complying with the rules would add only about 0.3 percent to the price of gas. If the cost is so small, critics ask, why wait?": "audio/2026-11-20/a3-p5.mp3",
+  "The final deal is itself a compromise. The European Parliament had asked for a three-year delay, while member states had proposed just twelve months. Campaigners were relieved that negotiators dropped an option that would have allowed the deadline to be extended again; any further delay will now require a new law. The European Commission will review how the rules are working, and whether they threaten energy security, at the start of 2028. The agreement still needs formal approval from both the Parliament and the member states before it can take effect.": "audio/2026-11-20/a3-p6.mp3",
+  "The episode illustrates a dilemma that governments face again and again. Climate policies often impose costs today in exchange for benefits that are spread across decades and across the whole planet, whereas energy shortages and price spikes are felt immediately by voters. Supporters of the delay argue that a policy which provoked a supply crisis could undermine public support for climate action altogether. Opponents reply that every postponement teaches industry that deadlines are negotiable, weakening the credibility of future rules.": "audio/2026-11-20/a3-p7.mp3",
+  "Whether the two-year pause proves to be a sensible adjustment or a costly retreat will depend on what happens next. Exporters could use the extra time to install monitoring equipment and repair leaks, demonstrating that the rules are workable. Or they could simply wait to see whether Europe blinks again.": "audio/2026-11-20/a3-p8.mp3",
+  "provisional": "audio/2026-11-20/a3-w-provisional.mp3",
+  "The team released a provisional schedule and promised a final version next week.": "audio/2026-11-20/a3-ex-provisional.mp3",
+  "potent": "audio/2026-11-20/a3-w-potent.mp3",
+  "Even a small dose of the medicine is surprisingly potent.": "audio/2026-11-20/a3-ex-potent.mp3",
+  "vent": "audio/2026-11-20/a3-w-vent.mp3",
+  "Workers had to vent the gas from the tank before repairing it.": "audio/2026-11-20/a3-ex-vent.mp3",
+  "leverage": "audio/2026-11-20/a3-w-leverage.mp3",
+  "As the biggest customer, the city had leverage to demand cleaner buses.": "audio/2026-11-20/a3-ex-leverage.mp3",
+  "liquefied natural gas": "audio/2026-11-20/a3-w-liquefied-natural-gas.mp3",
+  "Japan imports liquefied natural gas on huge tankers from Australia and Qatar.": "audio/2026-11-20/a3-ex-liquefied-natural-gas.mp3",
+  "lobby": "audio/2026-11-20/a3-w-lobby.mp3",
+  "Teachers' unions continue to lobby for smaller class sizes.": "audio/2026-11-20/a3-ex-lobby.mp3",
+  "pragmatic": "audio/2026-11-20/a3-w-pragmatic.mp3",
+  "Taking the bus while her bike was repaired was a pragmatic solution.": "audio/2026-11-20/a3-ex-pragmatic.mp3",
+  "comply": "audio/2026-11-20/a3-w-comply.mp3",
+  "All new buildings must comply with strict fire-safety standards.": "audio/2026-11-20/a3-ex-comply.mp3",
+  "undermine": "audio/2026-11-20/a3-w-undermine.mp3",
+  "Constant criticism can undermine a young player's confidence.": "audio/2026-11-20/a3-ex-undermine.mp3",
+  "credibility": "audio/2026-11-20/a3-w-credibility.mp3",
+  "The newspaper lost credibility after publishing several false stories.": "audio/2026-11-20/a3-ex-credibility.mp3",
+  "In the early hours of Thursday, 19 November, negotiators from the European Union's governments and the European Parliament reached a provisional agreement to delay a key part of the bloc's methane regulation.": "audio/2026-11-20/a3-ks1.mp3",
+  "Because many of these leaks can be fixed cheaply, cutting methane is often described as one of the fastest ways to slow warming in the near term.": "audio/2026-11-20/a3-ks2.mp3",
+  "By requiring importers to show that their suppliers measure and control leaks, the EU hoped to use its purchasing power as leverage to raise standards around the world.": "audio/2026-11-20/a3-ks3.mp3",
+  "Governments argued that the original timetable had become unrealistic.": "audio/2026-11-20/a3-ks4.mp3",
+  "If the cost is so small, critics ask, why wait?": "audio/2026-11-20/a3-ks5.mp3",
+  "Opponents reply that every postponement teaches industry that deadlines are negotiable, weakening the credibility of future rules.": "audio/2026-11-20/a3-ks6.mp3"
+ }
+}
