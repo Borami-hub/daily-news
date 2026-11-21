@@ -1,0 +1,2126 @@
+{
+ "date": "2026-11-21",
+ "headline": "A Planet Too Hot to Reach, Ice That Holds Firm and a Black Hole's Hidden Diet",
+ "teaser": "Why is the closest planet to the Sun so hard to reach? Will Antarctica's tallest ice cliffs really collapse? And what is quietly feeding the black hole at the heart of our galaxy?",
+ "articles": [
+  {
+   "id": "n20261121-1",
+   "topic": "Space",
+   "title": "After an Eight-Year Journey, BepiColombo Reaches Mercury",
+   "dek": "A joint European-Japanese probe has arrived at the solar system's innermost planet, but is a slow, costly mission to Mercury the best use of space science money?",
+   "sources": [
+    {
+     "name": "ESA, latest updates on BepiColombo's arrival (Oct-Nov 2026)",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    },
+    {
+     "name": "Space.com, 3 Sep 2026",
+     "url": "https://space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+    },
+    {
+     "name": "BBC Sky at Night Magazine, 19 Oct 2026",
+     "url": "https://www.skyatnightmagazine.com/news/bepicolombo-mercury"
+    },
+    {
+     "name": "EarthSky, 19 Nov 2026",
+     "url": "https://earthsky.org/space/bepicolombo-mission-mercury/"
+    }
+   ],
+   "paras": [
+    "On 21 November 2026, a spacecraft that left Earth in October 2018 was scheduled to perform the most delicate maneuver of its long life: allowing the gravity of Mercury, the smallest planet in the solar system, to capture it into orbit. The mission, called BepiColombo, is a partnership between the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA). If all goes to plan, it will become only the second mission ever to orbit Mercury, and the first to place two separate orbiters around the planet at the same time.",
+    "Mercury may look like an easy target, since it is much closer to Earth than Jupiter or Saturn. In reality, it is one of the hardest places in the solar system to reach. Anything that falls toward the Sun speeds up, just as a ball gains speed rolling downhill. A spacecraft heading for Mercury therefore arrives far too fast, and the planet's weak gravity cannot hold on to it. As ESA flight dynamics expert Frank Budnik explained, BepiColombo \"has to move at almost the same velocity as Mercury\" before it can enter orbit. In other words, the real challenge is not going fast but slowing down.",
+    "To shed that excess speed without carrying an enormous load of fuel, engineers combined two techniques. The first was solar electric propulsion: a separate Mercury Transfer Module used electricity from large solar panels to power thrusters that gave gentle but continuous pushes for years. The second was a series of nine gravity-assist flybys, one past Earth, two past Venus and six past Mercury itself, each of which used a planet's gravity to bend the spacecraft's path and drain away some of its energy. The approach was elegant but slow, which is why the journey took eight years rather than a few months.",
+    "The journey did not always go smoothly. In April 2024, a problem with the solar panels reduced the power available to the electric thrusters. Engineers designed a new, lower-thrust route that saved the mission but pushed its arrival back from December 2025 to November 2026. Then, on 3 September 2026, the transfer module was released, leaving the two science orbiters still joined together, more than 200 million kilometers from Earth. Over the following weeks, the team switched on instruments for the first time; a laser altimeter, for example, fired more than 700,000 pulses in less than a day.",
+    "After capture, the work divides between the two partners. In early December, JAXA's Mio orbiter is due to separate and settle into a wide, elliptical orbit that takes about 9.3 hours to complete, from which it will study Mercury's magnetic field and how it interacts with the solar wind, the stream of charged particles flowing from the Sun. ESA's Mercury Planetary Orbiter, carrying 11 science instruments, will gradually lower itself into a tight polar orbit of about 2.3 hours, reaching its final path in March 2027. Full science operations are planned to begin in April 2027 and to last at least a year.",
+    "Scientists hope the mission will help solve several puzzles. Mercury's iron core is enormous, filling more than half of the planet's volume, and nobody knows why. The planet also has a magnetic field, roughly 100 times weaker than Earth's, which is surprising for such a small world. NASA's MESSENGER probe, which orbited Mercury from 2011 to 2015, found ice hidden in permanently shadowed craters near the poles and strange shallow pits called hollows, and it added to evidence that the whole planet has shrunk by a few kilometers as its interior cooled. BepiColombo's sharper instruments should reveal far more.",
+    "Not everyone sees such missions as a priority. Critics point out that robotic exploration of distant planets is expensive and slow, and that a project which takes eight years merely to arrive may deliver results long after the questions that inspired it have changed. Some argue that the same money could do more good if spent on satellites that monitor Earth's climate, crops and oceans. International partnerships, they add, can multiply delays, because two agencies must coordinate budgets, designs and decisions.",
+    "Supporters reply that understanding Mercury is not a luxury. Astronomers have found thousands of planets orbiting other stars, and many of them circle extremely close to their suns, so Mercury is the nearest example of a world shaped by intense heat and radiation. Learning how it formed tests our theories of how planetary systems, including our own, came to be. Moreover, sharing a mission spreads the costs and risks, and building hardware that survives temperatures from about minus 170 to 430 degrees Celsius pushes engineering forward. In that sense, the long, patient trip to Mercury may be justified as much by what it teaches on the way as by what it finds."
+   ],
+   "words": [
+    {
+     "w": "maneuver",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/məˈnuːvər/",
+     "syl": [
+      "ma",
+      "neu",
+      "ver"
+     ],
+     "ex": "The pilot made a sharp maneuver to avoid the flock of birds.",
+     "def": "a carefully planned movement, especially of a vehicle, that needs skill"
+    },
+    {
+     "w": "shed",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ʃed/",
+     "syl": [
+      "shed"
+     ],
+     "ex": "The company plans to shed about two hundred jobs next year.",
+     "def": "to get rid of something that is no longer wanted or needed"
+    },
+    {
+     "w": "excess",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈekses/",
+     "syl": [
+      "ex",
+      "cess"
+     ],
+     "ex": "Cut away any excess paper before you glue the photo into the album.",
+     "def": "more than is needed, allowed or usual"
+    },
+    {
+     "w": "propulsion",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/prəˈpʌlʃn/",
+     "syl": [
+      "pro",
+      "pul",
+      "sion"
+     ],
+     "ex": "Many new ships use electric propulsion to cut fuel costs.",
+     "def": "the force or system that pushes a vehicle forward"
+    },
+    {
+     "w": "flyby",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈflaɪbaɪ/",
+     "syl": [
+      "fly",
+      "by"
+     ],
+     "ex": "The probe sent back sharp images during its flyby of Saturn's largest moon.",
+     "def": "a flight past a planet or moon, close enough to study it or use its gravity"
+    },
+    {
+     "w": "elliptical",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ɪˈlɪptɪkl/",
+     "syl": [
+      "el",
+      "lip",
+      "ti",
+      "cal"
+     ],
+     "ex": "Comets often travel on long, elliptical paths around the Sun.",
+     "def": "shaped like a stretched circle (an oval)"
+    },
+    {
+     "w": "inspire",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪnˈspaɪər/",
+     "syl": [
+      "in",
+      "spire"
+     ],
+     "ex": "A visit to the science museum can inspire children to become engineers.",
+     "def": "to give someone the idea or motivation to do or create something"
+    },
+    {
+     "w": "coordinate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/koʊˈɔːrdɪneɪt/",
+     "syl": [
+      "co",
+      "or",
+      "di",
+      "nate"
+     ],
+     "ex": "Two hospitals had to coordinate their staff during the flu outbreak.",
+     "def": "to organize different people or groups so that they work together effectively"
+    },
+    {
+     "w": "luxury",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈlʌkʃəri/",
+     "syl": [
+      "lux",
+      "u",
+      "ry"
+     ],
+     "ex": "For many families, a long holiday abroad is a luxury they cannot afford.",
+     "def": "something pleasant but not necessary"
+    },
+    {
+     "w": "justify",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈdʒʌstɪfaɪ/",
+     "syl": [
+      "jus",
+      "ti",
+      "fy"
+     ],
+     "ex": "The mayor tried to justify the high cost of the new bridge.",
+     "def": "to show that a decision or action is reasonable or necessary"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "If all goes to plan, it will become only the second mission ever to orbit Mercury, and the first to place two separate orbiters around the planet at the same time.",
+     "kind": "Main idea",
+     "note": "States why the mission is special; main-idea and detail questions often start from this sentence."
+    },
+    {
+     "para": 2,
+     "text": "In other words, the real challenge is not going fast but slowing down.",
+     "kind": "Topic sentence",
+     "note": "\"In other words\" signals a restatement of the paragraph's key point, a frequent TOEFL target."
+    },
+    {
+     "para": 3,
+     "text": "The approach was elegant but slow, which is why the journey took eight years rather than a few months.",
+     "kind": "Cause → effect",
+     "note": "Links the method to the long journey; cause-and-effect questions often test \"which is why\"."
+    },
+    {
+     "para": 6,
+     "text": "Mercury's iron core is enormous, filling more than half of the planet's volume, and nobody knows why.",
+     "kind": "Key details",
+     "note": "A puzzle the mission hopes to solve; factual questions like specific numbers such as \"more than half\"."
+    },
+    {
+     "para": 7,
+     "text": "Not everyone sees such missions as a priority.",
+     "kind": "Critical thinking",
+     "note": "Marks the turn to the opposing view; rhetorical-structure questions test such signposts."
+    },
+    {
+     "para": 8,
+     "text": "In that sense, the long, patient trip to Mercury may be justified as much by what it teaches on the way as by what it finds.",
+     "kind": "Author's view",
+     "note": "The author's balanced judgment; note the hedging word \"may\"."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"shed\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "get rid of",
+      "keep safely in storage",
+      "spread out, as light does",
+      "build up gradually"
+     ],
+     "a": 0,
+     "evidence": "To shed that excess speed without carrying an enormous load of fuel",
+     "why": "The spacecraft must lose (get rid of) its extra speed so that Mercury's weak gravity can capture it.",
+     "optWhy": [
+      "Correct. \"shed that excess speed\" = get rid of extra speed; paragraph 2 says the challenge is \"slowing down\".",
+      "Wrong: another meaning of the word. A \"shed\" (noun) is a small storage building, but here shed is a verb acting on \"speed\".",
+      "Wrong: another meaning of the word. A lamp can \"shed light\", but speed is not spread out; it is removed.",
+      "Wrong: opposite meaning. The spacecraft already has too much speed (\"excess\"); it needs less, not more."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "To shed that excess speed without carrying an enormous load of fuel, engineers combined two techniques.",
+       "hl": "shed that excess speed"
+      },
+      {
+       "para": 2,
+       "text": "In other words, the real challenge is not going fast but slowing down.",
+       "hl": "slowing down"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"shed\" in the first sentence of paragraph 3; its object is \"that excess speed\"."
+      },
+      {
+       "t": "Use the context",
+       "x": "Paragraph 2 ends by saying the challenge is \"slowing down\", so the spacecraft must lose speed."
+      },
+      {
+       "t": "Test each option",
+       "x": "Only \"get rid of\" fits \"___ that excess speed\"; storage and light are other meanings of shed."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why is Mercury difficult to reach?",
+     "opts": [
+      "Mercury is farther from Earth than most people assume.",
+      "Mercury's strong gravity pulls spacecraft down onto its surface.",
+      "A spacecraft speeds up on its way toward the Sun and arrives too fast to be captured.",
+      "A spacecraft cannot carry enough fuel to travel so close to the Sun."
+     ],
+     "a": 2,
+     "evidence": "A spacecraft heading for Mercury therefore arrives far too fast, and the planet's weak gravity cannot hold on to it.",
+     "why": "Paragraph 2 explains that falling toward the Sun makes a spacecraft speed up, so it reaches Mercury too fast for the planet's weak gravity to hold it.",
+     "optWhy": [
+      "Wrong: contradicts the text. The paragraph says Mercury \"is much closer to Earth than Jupiter or Saturn\".",
+      "Wrong: detail reversed. The text says \"the planet's weak gravity cannot hold on to it\", not that the gravity is strong.",
+      "Correct. \"Anything that falls toward the Sun speeds up\" + \"arrives far too fast\" = speeds up and arrives too fast to be captured.",
+      "Wrong: borrowed from another paragraph. Fuel is mentioned in paragraph 3 as something engineers avoided carrying, not as the reason given in paragraph 2."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Anything that falls toward the Sun speeds up, just as a ball gains speed rolling downhill.",
+       "hl": "Anything that falls toward the Sun speeds up"
+      },
+      {
+       "para": 2,
+       "text": "A spacecraft heading for Mercury therefore arrives far too fast, and the planet's weak gravity cannot hold on to it.",
+       "hl": "arrives far too fast"
+      },
+      {
+       "para": 3,
+       "text": "To shed that excess speed without carrying an enormous load of fuel, engineers combined two techniques.",
+       "hl": "without carrying an enormous load of fuel"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Go to paragraph 2",
+       "x": "Look for the sentence that gives the reason after \"In reality\"."
+      },
+      {
+       "t": "Follow the cause",
+       "x": "Falling toward the Sun → speeding up → arriving too fast → weak gravity cannot hold it."
+      },
+      {
+       "t": "Rule out traps",
+       "x": "Distance is the opposite of the text, gravity is weak not strong, and fuel belongs to paragraph 3."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "All of the following are mentioned in paragraph 4 EXCEPT",
+     "opts": [
+      "a power problem that forced engineers to change the spacecraft's route",
+      "a collision with space debris that damaged one of the orbiters",
+      "the release of the transfer module in September 2026",
+      "a test in which an instrument fired hundreds of thousands of pulses"
+     ],
+     "a": 1,
+     "evidence": "a problem with the solar panels reduced the power available to the electric thrusters",
+     "why": "Paragraph 4 mentions the 2024 power problem, the September 2026 release and the instrument test, but no collision with debris.",
+     "optWhy": [
+      "Wrong: this is mentioned. \"a problem with the solar panels reduced the power\" led to \"a new, lower-thrust route\".",
+      "Correct. Nothing in paragraph 4 (or the passage) describes a collision or damage to an orbiter.",
+      "Wrong: this is mentioned. \"on 3 September 2026, the transfer module was released\".",
+      "Wrong: this is mentioned. \"a laser altimeter ... fired more than 700,000 pulses\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "In April 2024, a problem with the solar panels reduced the power available to the electric thrusters.",
+       "hl": "a problem with the solar panels"
+      },
+      {
+       "para": 4,
+       "text": "Then, on 3 September 2026, the transfer module was released, leaving the two science orbiters still joined together, more than 200 million kilometers from Earth.",
+       "hl": "the transfer module was released"
+      },
+      {
+       "para": 4,
+       "text": "Over the following weeks, the team switched on instruments for the first time; a laser altimeter, for example, fired more than 700,000 pulses in less than a day.",
+       "hl": "fired more than 700,000 pulses"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the events",
+       "x": "Paragraph 4 describes a power problem, a new route, the module's release and instrument tests."
+      },
+      {
+       "t": "Match each option",
+       "x": "Tick A, C and D against those sentences."
+      },
+      {
+       "t": "Find the missing one",
+       "x": "No collision or damage appears anywhere, so B is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about Mio and the Mercury Planetary Orbiter?",
+     "opts": [
+      "Mio will reach its final orbit later than the Mercury Planetary Orbiter.",
+      "The Mercury Planetary Orbiter will focus mainly on the solar wind.",
+      "Both orbiters will begin full science operations in December 2026.",
+      "The two orbiters will study Mercury from different distances and with different main aims."
+     ],
+     "a": 3,
+     "evidence": "will gradually lower itself into a tight polar orbit of about 2.3 hours",
+     "why": "Mio has a wide 9.3-hour orbit and studies the magnetic field, while the MPO moves to a tight 2.3-hour orbit with 11 instruments, so their distances and aims differ.",
+     "optWhy": [
+      "Wrong: order reversed. Mio separates \"in early December\", while the MPO reaches its final path \"in March 2027\".",
+      "Wrong: details swapped. The solar wind is Mio's task: Mio \"will study Mercury's magnetic field and how it interacts with the solar wind\".",
+      "Wrong: date changed. \"Full science operations are planned to begin in April 2027\"; December is only when Mio separates.",
+      "Correct. \"wide, elliptical orbit ... 9.3 hours\" vs \"tight polar orbit of about 2.3 hours\" = different distances; the work \"divides between the two partners\" = different aims."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "After capture, the work divides between the two partners.",
+       "hl": "the work divides between the two partners"
+      },
+      {
+       "para": 5,
+       "text": "ESA's Mercury Planetary Orbiter, carrying 11 science instruments, will gradually lower itself into a tight polar orbit of about 2.3 hours, reaching its final path in March 2027.",
+       "hl": "tight polar orbit of about 2.3 hours"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Compare the two orbiters",
+       "x": "Note each one's orbit (wide 9.3 h vs tight 2.3 h) and task."
+      },
+      {
+       "t": "Infer, don't copy",
+       "x": "Different orbit sizes mean different distances; dividing the work means different aims."
+      },
+      {
+       "t": "Check dates and roles",
+       "x": "A, B and C each change a date or swap a role stated in the paragraph."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention \"a ball gains speed rolling downhill\" in paragraph 2?",
+     "opts": [
+      "To illustrate, with a familiar example, why a spacecraft speeds up as it falls toward the Sun",
+      "To suggest that the surface of Mercury is covered with steep slopes",
+      "To argue that engineers had underestimated the speed of the spacecraft",
+      "To compare the size of Mercury with that of an everyday object"
+     ],
+     "a": 0,
+     "evidence": "just as a ball gains speed rolling downhill",
+     "why": "The ball is an everyday comparison that makes the idea of speeding up toward the Sun easy to picture.",
+     "optWhy": [
+      "Correct. \"just as\" signals a comparison: the ball rolling downhill illustrates how \"Anything that falls toward the Sun speeds up\".",
+      "Wrong: not mentioned. The passage never describes Mercury's slopes; the hill is only a comparison.",
+      "Wrong: not supported. Nothing says engineers made a mistake; they planned to \"shed that excess speed\" from the start.",
+      "Wrong: wrong purpose. The comparison is about gaining speed, not about size."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Anything that falls toward the Sun speeds up, just as a ball gains speed rolling downhill.",
+       "hl": "just as a ball gains speed rolling downhill"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It follows \"Anything that falls toward the Sun speeds up\"."
+      },
+      {
+       "t": "Notice the signal",
+       "x": "\"just as\" introduces a comparison to explain an idea."
+      },
+      {
+       "t": "Choose the purpose",
+       "x": "The author illustrates a hard idea with an easy one; the other options add claims not in the text."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Critics point out that robotic exploration of distant planets is expensive and slow, and that a project which takes eight years merely to arrive may deliver results long after the questions that inspired it have changed.",
+     "opts": [
+      "Critics argue that eight years is too short a time to answer the questions that inspired the mission.",
+      "Critics believe that robotic missions are cheaper than human ones but take longer to arrive.",
+      "Critics say such missions are costly and slow, so their findings may come too late for the questions that first motivated them.",
+      "Critics claim that earlier missions have already answered the main questions about distant planets."
+     ],
+     "a": 2,
+     "evidence": "Critics point out that robotic exploration of distant planets is expensive and slow, and that a project which takes eight years merely to arrive may deliver results long after the questions that inspired it have changed.",
+     "why": "The sentence makes two points: such missions cost a lot and are slow, and their results may arrive after the original questions have changed.",
+     "optWhy": [
+      "Wrong: meaning reversed. The sentence says eight years is long (\"merely to arrive\"), not too short.",
+      "Wrong: not mentioned. The sentence does not compare robotic and human missions or call robots cheaper; it says they are \"expensive\".",
+      "Correct. \"expensive and slow\" = costly and slow; \"deliver results long after the questions that inspired it have changed\" = findings may come too late for the original questions.",
+      "Wrong: new idea added. The sentence says questions may have \"changed\", not that earlier missions answered them."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Critics point out that robotic exploration of distant planets is expensive and slow, and that a project which takes eight years merely to arrive may deliver results long after the questions that inspired it have changed.",
+       "hl": "expensive and slow"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Point 1: expensive and slow. Point 2: results may come after the questions have changed."
+      },
+      {
+       "t": "Look for both points",
+       "x": "The right answer keeps both ideas in new words."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "A reverses the time idea, B and D add ideas the sentence never states."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Facts",
+     "fact": "BepiColombo, a joint ESA-JAXA mission launched in October 2018, was due to be captured into Mercury orbit on 21 November 2026.",
+     "q": "Which agencies run BepiColombo?",
+     "opts": [
+      "NASA and ESA",
+      "ESA and JAXA",
+      "JAXA and NASA",
+      "ESA alone"
+     ],
+     "a": 1,
+     "id": "n20261121-1-k1"
+    },
+    {
+     "tag": "Physics",
+     "fact": "Mercury is hard to reach because spacecraft speed up as they fall toward the Sun and must slow down to be captured.",
+     "q": "What is the main challenge of reaching Mercury?",
+     "opts": [
+      "Slowing down enough",
+      "Finding the planet",
+      "Escaping Earth's gravity",
+      "Surviving the cold"
+     ],
+     "a": 0,
+     "id": "n20261121-1-k2"
+    },
+    {
+     "tag": "Method",
+     "fact": "Solar electric propulsion plus nine gravity-assist flybys removed the spacecraft's extra speed.",
+     "q": "How many gravity-assist flybys did BepiColombo use?",
+     "opts": [
+      "Three",
+      "Six",
+      "Nine",
+      "Twelve"
+     ],
+     "a": 2,
+     "id": "n20261121-1-k3"
+    },
+    {
+     "tag": "Two orbiters",
+     "fact": "JAXA's Mio studies the magnetic field and solar wind; ESA's MPO maps the planet from a tight polar orbit.",
+     "q": "Which orbiter studies Mercury's magnetic field and the solar wind?",
+     "opts": [
+      "MPO",
+      "Mio",
+      "MESSENGER",
+      "The transfer module"
+     ],
+     "a": 1,
+     "id": "n20261121-1-k4"
+    },
+    {
+     "tag": "Puzzles",
+     "fact": "Mercury has a huge iron core, a weak magnetic field, polar ice and has shrunk as it cooled.",
+     "q": "Which is NOT one of Mercury's puzzles in the article?",
+     "opts": [
+      "A huge iron core",
+      "Polar ice",
+      "A thick ocean",
+      "A weak magnetic field"
+     ],
+     "a": 2,
+     "id": "n20261121-1-k5"
+    },
+    {
+     "tag": "Two views",
+     "fact": "Critics call such missions slow and costly; supporters say Mercury helps explain planets that orbit close to their stars.",
+     "q": "What is a supporters' argument for the mission?",
+     "opts": [
+      "It is cheaper than Earth satellites",
+      "It helps explain close-in exoplanets",
+      "It will take only months",
+      "It needs no partners"
+     ],
+     "a": 1,
+     "id": "n20261121-1-k6"
+    }
+   ],
+   "mindmap": {
+    "center": "BepiColombo at Mercury",
+    "question": "Is a slow mission to Mercury worth it?",
+    "branches": [
+     {
+      "title": "Hard to reach",
+      "paras": "1-2",
+      "blanks": [
+       "speeds up falling toward the Sun",
+       "must slow down to be captured"
+      ],
+      "kps": [
+       "n20261121-1-k1",
+       "n20261121-1-k2"
+      ]
+     },
+     {
+      "title": "Long journey",
+      "paras": "3-4",
+      "blanks": [
+       "nine gravity-assist flybys"
+      ],
+      "kps": [
+       "n20261121-1-k3"
+      ]
+     },
+     {
+      "title": "Two orbiters",
+      "paras": "5-6",
+      "blanks": [
+       "Mio studies the magnetic field",
+       "huge iron core puzzle"
+      ],
+      "kps": [
+       "n20261121-1-k4",
+       "n20261121-1-k5"
+      ]
+     },
+     {
+      "title": "Worth it?",
+      "paras": "7-8",
+      "blanks": [
+       "critics: slow and costly",
+       "clues to close-in exoplanets"
+      ],
+      "kps": [
+       "n20261121-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "first spacecraft ever to visit Mercury",
+     "journey took only a few months"
+    ]
+   },
+   "summary": {
+    "intro": "After an eight-year journey, the European-Japanese BepiColombo mission is arriving at Mercury, one of the hardest planets to reach.",
+    "model": "Because spacecraft speed up as they fall toward the Sun, BepiColombo needed years of gentle thrust and nine flybys to slow down, so it took eight years. While critics call such missions slow and costly, supporters argue Mercury explains how close-in planets form.",
+    "options": [
+     {
+      "t": "Reaching Mercury is difficult because a spacecraft must lose a great deal of speed before the planet can capture it.",
+      "ok": true,
+      "why": "A main idea; see paragraph 2.",
+      "type": "main",
+      "para": 2,
+      "evidence": "the real challenge is not going fast but slowing down"
+     },
+     {
+      "t": "The mission uses two orbiters with different tasks to investigate several of Mercury's unsolved puzzles.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 5-6.",
+      "type": "main",
+      "para": 5,
+      "evidence": "the work divides between the two partners"
+     },
+     {
+      "t": "People disagree about whether such slow, expensive missions are the best use of resources.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 7-8.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Not everyone sees such missions as a priority."
+     },
+     {
+      "t": "A laser altimeter fired more than 700,000 pulses during early tests.",
+      "ok": false,
+      "why": "True, but only a minor detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "fired more than 700,000 pulses"
+     },
+     {
+      "t": "BepiColombo will eventually land a rover on Mercury's surface.",
+      "ok": false,
+      "why": "Not mentioned: the mission uses orbiters only.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Because Mercury is close to Earth, the journey took only a few months.",
+      "ok": false,
+      "why": "Contradicts the passage: the trip took eight years.",
+      "type": "contra",
+      "para": 3,
+      "evidence": "the journey took eight years rather than a few months"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think space agencies should spend their money on missions to distant planets such as Mercury. Others think the money should go to satellites that study Earth's climate and environment. Which do you think is more important, and why?",
+    "hint": "Choose one side; give two reasons (e.g., scientific knowledge vs urgent problems on Earth) and one example from the article; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Lin: This week a European-Japanese spacecraft arrived at Mercury after an eight-year trip. Missions like this are slow and expensive, and they often depend on several countries working together. Do you think international partnerships are the best way to explore space, or should countries run their own missions? Why?\nEmma: \"Partnerships make sense. Space missions cost so much that sharing the bill lets countries do projects none of them could afford alone. Working together also builds trust between nations.\"\nKevin: \"I'm less sure. When two agencies have to agree on every decision, projects get delayed. A country running its own mission can move faster and keep full control of the technology.\"",
+    "steps": [
+     "State whether you favor partnerships or national missions.",
+     "Respond to Emma or Kevin and add a new reason of your own.",
+     "Support your view with an example, such as BepiColombo.",
+     "End with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261121-2",
+   "topic": "Environment",
+   "title": "Antarctica's Ice Cliffs May Be Less Likely to Collapse Than Feared",
+   "dek": "Satellite data suggest Antarctica's tallest ice cliffs stabilize after collapsing, but does good news about one risk mean we can relax about sea-level rise?",
+   "sources": [
+    {
+     "name": "ScienceDaily / MIT, 19 Nov 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm"
+    },
+    {
+     "name": "Science (Needell, Walker & Bassis), Nov 2026",
+     "url": "https://doi.org/10.1126/science.aee0658"
+    }
+   ],
+   "paras": [
+    "Along the edges of Antarctica, glaciers end in towering walls of ice that rise straight out of the sea. For roughly a decade, some climate scientists have worried that these ice cliffs could become the weak point of the entire continent. A new study published in the journal Science in November 2026 suggests that the danger, while real, may be less dramatic than some computer models predicted. Using satellite measurements of more than 15,000 cliffs, researchers found that collapsing cliffs retreat quickly at first but then tend to stabilize, rather than crumbling in an unstoppable chain reaction.",
+    "The concern rests on an idea known as marine ice cliff instability, or MICI. According to this theory, a very tall wall of ice may be unable to support its own weight. If it breaks off, it can expose an even taller wall behind it, which may then collapse in turn, and the process can repeat itself again and again. Earlier studies, based mainly on computer models and a limited number of observations, suggested that cliffs taller than about 100 meters, roughly the height of a 30-story building, were especially vulnerable. Because Antarctica holds enough ice to raise global sea levels by dozens of meters, even a partial runaway collapse would threaten coastal cities around the world.",
+    "To test the theory against reality, Caroline Needell, a graduate student in a joint program of the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution, worked with Catherine Walker of Woods Hole and Jeremy Bassis of the University of Michigan. They used data from NASA's ICESat-2 satellite, which fires laser pulses at the ground to measure surface height with great precision. By analyzing measurements from 2019 to 2023, the team tracked thousands of cliffs every three months. The average cliff was about 30 meters tall, and only a small number exceeded the 100-meter threshold.",
+    "The researchers then examined four sites where cliffs reached about 100 meters, with the tallest measuring 127 meters. Here, the results contained surprises in both directions. When these cliffs collapsed, they retreated even faster than MICI models had predicted. Yet the retreat was short-lived: every glacier eventually stabilized, and some even advanced back toward the sea. \"It's this rapid retreat, punctuated by periods of stabilization,\" Needell said. \"We don't see this runaway effect.\"",
+    "Several natural brakes appear to explain why. In front of many cliffs floats mélange, a slushy mixture of sea ice and broken icebergs, and the team found that taller cliffs tended to have thicker mélange, which may help hold them up. Deeper water in front of a cliff can also push back against the ice. The shape of the ground beneath the glacier matters too: where the bed rises, the ice becomes thinner, and cliffs often stopped retreating at these ridges, which the researchers described as natural speed bumps. Finally, taller cliffs tended to thin quickly as they collapsed, turning into shorter, more stable walls.",
+    "On the optimistic side, the findings suggest that the most extreme projections of sea-level rise, which depend on MICI, may need to be revised downward. That matters for governments deciding how high to build sea walls or whether to relocate whole communities, since planning for an extreme outcome that is unlikely can waste enormous sums of money. The study also shows the value of testing dramatic predictions against careful observation rather than relying on models alone.",
+    "The authors themselves, however, urge caution. Their results do not mean that Antarctica's ice sheet is safe; glaciers can still lose large amounts of ice in other ways, such as melting caused by warm ocean water, which was not the focus of this study. Moreover, four years of satellite data is a short record compared with the centuries over which ice sheets change, and conditions in a warmer future may differ from those observed so far. Needell stressed that scientists \"really need to know the bed topography\" and the rate at which ice is thinning in order to get ice cliff instability right.",
+    "In the end, the research replaces a simple rule with a more complicated picture. Cliff height alone does not decide a glacier's fate; the mélange, the water and the hidden landscape below all play a part. For policymakers, the message is neither panic nor complacency. Sea levels are still rising, and Antarctica will keep losing ice as the planet warms. What the new study offers is a sharper tool for estimating how fast that loss may happen, and better estimates are exactly what coastal communities need in order to prepare."
+   ],
+   "words": [
+    {
+     "w": "stabilize",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈsteɪbəlaɪz/",
+     "syl": [
+      "sta",
+      "bi",
+      "lize"
+     ],
+     "ex": "Doctors worked through the night to stabilize the injured climber.",
+     "def": "to become or make something steady and unlikely to change"
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈvʌlnərəbl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "ex": "Low-lying islands are especially vulnerable to rising seas.",
+     "def": "easily harmed, damaged or attacked"
+    },
+    {
+     "w": "threshold",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈθreʃhoʊld/",
+     "syl": [
+      "thresh",
+      "old"
+     ],
+     "ex": "Water reaches its boiling threshold at 100 degrees Celsius at sea level.",
+     "def": "the level or point at which something starts to happen or change"
+    },
+    {
+     "w": "retreat",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/rɪˈtriːt/",
+     "syl": [
+      "re",
+      "treat"
+     ],
+     "ex": "Many mountain glaciers retreat a few meters every summer.",
+     "def": "to move back, for example when a glacier's front edge shrinks toward land"
+    },
+    {
+     "w": "mélange",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/meɪˈlɑːnʒ/",
+     "syl": [
+      "mé",
+      "lange"
+     ],
+     "ex": "A thick mélange can act like a wall that props up the ice behind it.",
+     "def": "a floating mix of sea ice and broken icebergs in front of a glacier"
+    },
+    {
+     "w": "punctuate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈpʌŋktʃueɪt/",
+     "syl": [
+      "punc",
+      "tu",
+      "ate"
+     ],
+     "ex": "Long periods of silence punctuate the conversation between the two old friends.",
+     "def": "to interrupt something at intervals"
+    },
+    {
+     "w": "projection",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/prəˈdʒekʃn/",
+     "syl": [
+      "pro",
+      "jec",
+      "tion"
+     ],
+     "ex": "The government's population projection shows the city doubling in size by 2050.",
+     "def": "an estimate of a future amount or situation based on present information"
+    },
+    {
+     "w": "relocate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌriːloʊˈkeɪt/",
+     "syl": [
+      "re",
+      "lo",
+      "cate"
+     ],
+     "ex": "The factory plans to relocate to a town with cheaper land.",
+     "def": "to move people or a business to a new place"
+    },
+    {
+     "w": "topography",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/təˈpɑːɡrəfi/",
+     "syl": [
+      "to",
+      "pog",
+      "ra",
+      "phy"
+     ],
+     "ex": "Hikers should study the topography of the valley before they set off.",
+     "def": "the shape and features of the surface of an area of land"
+    },
+    {
+     "w": "complacency",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kəmˈpleɪsnsi/",
+     "syl": [
+      "com",
+      "pla",
+      "cen",
+      "cy"
+     ],
+     "ex": "After winning three games, the team's complacency cost them the final.",
+     "def": "a feeling of being so satisfied that you stop trying or ignore possible danger"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new study published in the journal Science in November 2026 suggests that the danger, while real, may be less dramatic than some computer models predicted.",
+     "kind": "Main idea",
+     "note": "The thesis of the passage; note the hedging (\"suggests\", \"may\") that TOEFL inference questions reward."
+    },
+    {
+     "para": 2,
+     "text": "According to this theory, a very tall wall of ice may be unable to support its own weight.",
+     "kind": "Topic sentence",
+     "note": "Defines MICI, the theory the whole passage tests."
+    },
+    {
+     "para": 4,
+     "text": "When these cliffs collapsed, they retreated even faster than MICI models had predicted.",
+     "kind": "Key details",
+     "note": "A surprise in the 'bad' direction; detail questions often target such contrasts."
+    },
+    {
+     "para": 5,
+     "text": "Several natural brakes appear to explain why.",
+     "kind": "Topic sentence",
+     "note": "Introduces a list; negative-factual questions are often built on lists like this."
+    },
+    {
+     "para": 7,
+     "text": "Their results do not mean that Antarctica's ice sheet is safe; glaciers can still lose large amounts of ice in other ways, such as melting caused by warm ocean water, which was not the focus of this study.",
+     "kind": "Hedging",
+     "note": "Limits the claim; questions often test what a study does NOT show."
+    },
+    {
+     "para": 8,
+     "text": "For policymakers, the message is neither panic nor complacency.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word \"punctuated\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "marked with commas and periods",
+      "made sharper at the end",
+      "followed permanently by",
+      "interrupted at intervals by"
+     ],
+     "a": 3,
+     "evidence": "It's this rapid retreat, punctuated by periods of stabilization",
+     "why": "The retreat was broken up from time to time by periods when the cliffs stayed still.",
+     "optWhy": [
+      "Wrong: another meaning of the word. Punctuation marks belong to writing; here the word describes how retreat and stability alternate.",
+      "Wrong: confused with a similar-looking word (puncture/point). Nothing about sharpness is meant.",
+      "Wrong: too extreme. The text says the retreat was \"short-lived\" and stopped \"periods\" at a time, not permanently.",
+      "Correct. \"rapid retreat, punctuated by periods of stabilization\" = retreat interrupted at intervals by pauses; this fits \"the retreat was short-lived\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "\"It's this rapid retreat, punctuated by periods of stabilization,\" Needell said.",
+       "hl": "punctuated by periods of stabilization"
+      },
+      {
+       "para": 4,
+       "text": "Yet the retreat was short-lived: every glacier eventually stabilized, and some even advanced back toward the sea.",
+       "hl": "the retreat was short-lived"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "It sits in Needell's quote in paragraph 4."
+      },
+      {
+       "t": "Read around it",
+       "x": "The previous sentence says the retreat was \"short-lived\" and glaciers stabilized: fast movement, then pauses."
+      },
+      {
+       "t": "Pick the context meaning",
+       "x": "\"Interrupted at intervals\" fits; the punctuation meaning does not."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what did the ICESat-2 measurements show?",
+     "opts": [
+      "The tallest cliffs were found mostly along the Pacific coast of Antarctica.",
+      "Most cliffs were far shorter than the height thought to be dangerous.",
+      "The cliffs were measured only once a year between 2019 and 2023.",
+      "More than half of the cliffs were taller than 100 meters."
+     ],
+     "a": 1,
+     "evidence": "The average cliff was about 30 meters tall, and only a small number exceeded the 100-meter threshold.",
+     "why": "The average cliff was only about 30 meters, and few were over the 100-meter danger level.",
+     "optWhy": [
+      "Wrong: not mentioned. The passage never says where the tallest cliffs are located.",
+      "Correct. \"average cliff was about 30 meters\" + \"only a small number exceeded the 100-meter threshold\" = most were far below the dangerous height.",
+      "Wrong: detail changed. The team tracked cliffs \"every three months\", not once a year.",
+      "Wrong: contradicts the text. \"only a small number exceeded\" 100 meters."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "By analyzing measurements from 2019 to 2023, the team tracked thousands of cliffs every three months.",
+       "hl": "every three months"
+      },
+      {
+       "para": 3,
+       "text": "The average cliff was about 30 meters tall, and only a small number exceeded the 100-meter threshold.",
+       "hl": "only a small number exceeded the 100-meter threshold"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Go to paragraph 3",
+       "x": "Find the results sentence after the description of ICESat-2."
+      },
+      {
+       "t": "Compare numbers",
+       "x": "Average 30 m vs a 100 m danger level: most cliffs were much shorter."
+      },
+      {
+       "t": "Check the traps",
+       "x": "Location is never given, the timing is every three months, and \"more than half\" contradicts \"a small number\"."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following may help keep ice cliffs stable EXCEPT",
+     "opts": [
+      "colder air that refreezes the face of the cliff",
+      "a thick layer of floating sea ice and broken icebergs",
+      "ground that rises beneath the glacier",
+      "rapid thinning of a tall cliff as it collapses"
+     ],
+     "a": 0,
+     "evidence": "taller cliffs tended to have thicker mélange, which may help hold them up",
+     "why": "Paragraph 5 lists mélange, deeper water, rising ground and fast thinning; cold air is not mentioned.",
+     "optWhy": [
+      "Correct. Paragraph 5 never mentions air temperature or refreezing.",
+      "Wrong: this is mentioned. Mélange is \"a slushy mixture of sea ice and broken icebergs\" that \"may help hold them up\".",
+      "Wrong: this is mentioned. \"where the bed rises, the ice becomes thinner, and cliffs often stopped retreating at these ridges\".",
+      "Wrong: this is mentioned. \"taller cliffs tended to thin quickly as they collapsed, turning into shorter, more stable walls\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "In front of many cliffs floats mélange, a slushy mixture of sea ice and broken icebergs, and the team found that taller cliffs tended to have thicker mélange, which may help hold them up.",
+       "hl": "may help hold them up"
+      },
+      {
+       "para": 5,
+       "text": "Finally, taller cliffs tended to thin quickly as they collapsed, turning into shorter, more stable walls.",
+       "hl": "turning into shorter, more stable walls"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the brakes",
+       "x": "Paragraph 5: mélange, deeper water, rising ground, fast thinning."
+      },
+      {
+       "t": "Match the options",
+       "x": "B, C and D each paraphrase one of these brakes."
+      },
+      {
+       "t": "Find the outsider",
+       "x": "Air temperature never appears, so A is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6?",
+     "opts": [
+      "Governments have already stopped building sea walls because of the new study.",
+      "Computer models are no longer useful for studying ice sheets.",
+      "Overestimating future sea-level rise could have real costs rather than being a harmless precaution.",
+      "Projections that did not include MICI now need to be raised."
+     ],
+     "a": 2,
+     "evidence": "planning for an extreme outcome that is unlikely can waste enormous sums of money",
+     "why": "If planning for an unlikely extreme outcome wastes money, then overestimating the risk is not free; it has costs.",
+     "optWhy": [
+      "Wrong: too extreme. The paragraph only says governments are \"deciding\" how high to build; nothing says they stopped.",
+      "Wrong: too extreme. The text warns against \"relying on models alone\", not against using models at all.",
+      "Correct. \"planning for an extreme outcome that is unlikely can waste enormous sums of money\" implies that overestimating risk has real costs.",
+      "Wrong: direction reversed. The text says MICI-based projections \"may need to be revised downward\"; it says nothing about raising others."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "That matters for governments deciding how high to build sea walls or whether to relocate whole communities, since planning for an extreme outcome that is unlikely can waste enormous sums of money.",
+       "hl": "can waste enormous sums of money"
+      },
+      {
+       "para": 6,
+       "text": "The study also shows the value of testing dramatic predictions against careful observation rather than relying on models alone.",
+       "hl": "rather than relying on models alone"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the reasoning",
+       "x": "Paragraph 6 links lower projections to decisions about sea walls and money."
+      },
+      {
+       "t": "Infer the hidden point",
+       "x": "If planning for an unlikely extreme wastes money, overestimating is costly."
+      },
+      {
+       "t": "Watch extreme words",
+       "x": "\"already stopped\" and \"no longer useful\" go further than the text."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention \"roughly the height of a 30-story building\" in paragraph 2?",
+     "opts": [
+      "To argue that tall buildings near the coast are in danger of collapsing",
+      "To show that ice is stronger than the materials used in buildings",
+      "To suggest that the 100-meter figure was chosen without good reason",
+      "To help readers picture the size of the cliffs thought to be most at risk"
+     ],
+     "a": 3,
+     "evidence": "roughly the height of a 30-story building",
+     "why": "The comparison turns an abstract number (100 meters) into a familiar image.",
+     "optWhy": [
+      "Wrong: misreads the comparison. The building is only a size reference; the threat to cities comes from sea-level rise.",
+      "Wrong: not mentioned. The passage never compares the strength of ice and building materials.",
+      "Wrong: not supported. The figure comes from \"earlier studies\"; the phrase does not question it.",
+      "Correct. The phrase follows \"cliffs taller than about 100 meters\" and gives a familiar image of that height."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Earlier studies, based mainly on computer models and a limited number of observations, suggested that cliffs taller than about 100 meters, roughly the height of a 30-story building, were especially vulnerable.",
+       "hl": "roughly the height of a 30-story building"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It sits between commas right after \"about 100 meters\"."
+      },
+      {
+       "t": "Ask what it adds",
+       "x": "It restates the number as a familiar image."
+      },
+      {
+       "t": "Choose the function",
+       "x": "Illustration of size; the other options invent arguments."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Moreover, four years of satellite data is a short record compared with the centuries over which ice sheets change, and conditions in a warmer future may differ from those observed so far.",
+     "opts": [
+      "Satellites have been collecting ice data for centuries, but the future will be warmer.",
+      "Because ice sheets change over centuries, a few years of data may not show how they will behave in a warmer future.",
+      "Ice sheets changed faster in the past four years than in any earlier century.",
+      "Scientists expect future conditions to be the same as those they have already observed."
+     ],
+     "a": 1,
+     "evidence": "Moreover, four years of satellite data is a short record compared with the centuries over which ice sheets change, and conditions in a warmer future may differ from those observed so far.",
+     "why": "Both ideas are kept: the record is short compared with ice-sheet timescales, and the future may be different.",
+     "optWhy": [
+      "Wrong: detail distorted. The data cover four years, not centuries; centuries describe how slowly ice sheets change.",
+      "Correct. \"a short record compared with the centuries\" + \"may differ from those observed so far\" = a few years of data may not show future behavior.",
+      "Wrong: not stated. The sentence compares time spans; it says nothing about recent change being faster.",
+      "Wrong: contradicts the sentence, which says future conditions \"may differ\"."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Moreover, four years of satellite data is a short record compared with the centuries over which ice sheets change, and conditions in a warmer future may differ from those observed so far.",
+       "hl": "a short record"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Point 1: four years is short compared with centuries. Point 2: the future may differ."
+      },
+      {
+       "t": "Find both ideas",
+       "x": "Only B keeps both points in new words."
+      },
+      {
+       "t": "Reject changes",
+       "x": "A confuses the time spans, C adds a claim, D reverses \"may differ\"."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Theory",
+     "fact": "MICI says a very tall ice cliff can collapse under its own weight, exposing taller cliffs in a chain reaction.",
+     "q": "What does MICI predict?",
+     "opts": [
+      "Cliffs grow taller each year",
+      "A runaway chain of cliff collapses",
+      "Glaciers advance in warm years",
+      "Sea ice protects all cliffs"
+     ],
+     "a": 1,
+     "id": "n20261121-2-k1"
+    },
+    {
+     "tag": "Method",
+     "fact": "The team used NASA's ICESat-2 laser satellite to track more than 15,000 cliffs from 2019 to 2023.",
+     "q": "Which tool did the researchers use?",
+     "opts": [
+      "Ocean buoys",
+      "A laser satellite (ICESat-2)",
+      "Weather balloons",
+      "Ice cores"
+     ],
+     "a": 1,
+     "id": "n20261121-2-k2"
+    },
+    {
+     "tag": "Finding",
+     "fact": "The tallest cliffs retreated faster than predicted, but the retreat was short-lived and every glacier stabilized.",
+     "q": "What happened after the tall cliffs collapsed?",
+     "opts": [
+      "They kept collapsing without end",
+      "They stabilized after a short, fast retreat",
+      "They grew taller",
+      "They melted completely"
+     ],
+     "a": 1,
+     "id": "n20261121-2-k3"
+    },
+    {
+     "tag": "Brakes",
+     "fact": "Thick mélange, deep water, rising bed ridges and rapid thinning help stop cliff retreat.",
+     "q": "Which is one of the natural brakes?",
+     "opts": [
+      "Warm ocean water",
+      "Thick mélange",
+      "Strong winds",
+      "Heavy snowfall"
+     ],
+     "a": 1,
+     "id": "n20261121-2-k4"
+    },
+    {
+     "tag": "Caution",
+     "fact": "The authors stress the ice sheet is not safe: four years of data is short and ocean melting still matters.",
+     "q": "Why do the authors urge caution?",
+     "opts": [
+      "The data record is short",
+      "The satellite failed",
+      "No cliffs collapsed",
+      "Sea levels are falling"
+     ],
+     "a": 0,
+     "id": "n20261121-2-k5"
+    }
+   ],
+   "mindmap": {
+    "center": "Antarctic ice cliffs",
+    "question": "Are tall ice cliffs a runaway threat?",
+    "branches": [
+     {
+      "title": "The fear",
+      "paras": "1-2",
+      "blanks": [
+       "cliffs over 100 meters vulnerable"
+      ],
+      "kps": [
+       "n20261121-2-k1"
+      ]
+     },
+     {
+      "title": "The evidence",
+      "paras": "3-4",
+      "blanks": [
+       "15,000 cliffs tracked by satellite",
+       "fast retreat, then stabilization"
+      ],
+      "kps": [
+       "n20261121-2-k2",
+       "n20261121-2-k3"
+      ]
+     },
+     {
+      "title": "Natural brakes",
+      "paras": "5",
+      "blanks": [
+       "thicker mélange holds cliffs up",
+       "ridges act as speed bumps"
+      ],
+      "kps": [
+       "n20261121-2-k4"
+      ]
+     },
+     {
+      "title": "What it means",
+      "paras": "6-8",
+      "blanks": [
+       "extreme projections revised downward",
+       "four years is a short record"
+      ],
+      "kps": [
+       "n20261121-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "cliffs refreeze in cold winters",
+     "ice sheet now proven safe"
+    ]
+   },
+   "summary": {
+    "intro": "A satellite study suggests that Antarctica's tall ice cliffs may be less likely to collapse in a runaway chain reaction than some models predicted.",
+    "model": "Satellite data on over 15,000 cliffs show that tall cliffs retreat quickly but then stabilize, because mélange, water and ridges act as brakes. However, the authors warn the ice sheet is not safe, so better estimates, not relief, are the key result.",
+    "options": [
+     {
+      "t": "Satellite data showed that collapsing cliffs retreat rapidly but then stabilize instead of failing in a chain reaction.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 1 and 4.",
+      "type": "main",
+      "para": 4,
+      "evidence": "every glacier eventually stabilized"
+     },
+     {
+      "t": "Features such as mélange, deep water and rising ground help stop cliffs from retreating.",
+      "ok": true,
+      "why": "A main idea; see paragraph 5.",
+      "type": "main",
+      "para": 5,
+      "evidence": "Several natural brakes appear to explain why."
+     },
+     {
+      "t": "The findings may lower extreme projections, but the authors warn that Antarctica's ice is still at risk.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 6-7.",
+      "type": "main",
+      "para": 7,
+      "evidence": "Their results do not mean that Antarctica's ice sheet is safe"
+     },
+     {
+      "t": "The tallest cliff studied measured 127 meters.",
+      "ok": false,
+      "why": "True, but a minor detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "the tallest measuring 127 meters"
+     },
+     {
+      "t": "The researchers drilled ice cores to measure the age of each cliff.",
+      "ok": false,
+      "why": "Not mentioned: the study used satellite data.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The study proved that cliffs taller than 100 meters keep collapsing without stopping.",
+      "ok": false,
+      "why": "Contradicts the passage: no runaway effect was seen.",
+      "type": "contra",
+      "para": 4,
+      "evidence": "We don't see this runaway effect."
+     }
+    ]
+   },
+   "speak": {
+    "p": "When scientists publish good news, such as a study suggesting a climate risk is smaller than feared, some people worry the public will stop taking the problem seriously. Should scientists and the media share such good news loudly, or present it carefully? Explain your view.",
+    "hint": "Take a side; give two reasons (e.g., honesty and trust vs the risk of complacency); use the ice-cliff study as an example; end with a clear conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Rivera: A new satellite study suggests Antarctica's tall ice cliffs may not collapse in a runaway chain reaction, as some models predicted. Some say this means coastal cities can spend less on extreme flood defenses. Others say we should still prepare for the worst. What do you think coastal governments should do, and why?\nAisha: \"I think governments should update their plans. Building giant sea walls for a disaster that probably won't happen wastes money that could pay for schools or hospitals.\"\nTom: \"I disagree. The study only covers four years, and the authors themselves say the ice sheet isn't safe. If we underprepare and they're wrong, the damage would be far worse than the cost of extra walls.\"",
+    "steps": [
+     "State your position on how cities should plan.",
+     "Respond to Aisha or Tom and add your own reason.",
+     "Use a detail from the study (e.g., four years of data, natural brakes).",
+     "Finish with a short conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261121-3",
+   "topic": "Science",
+   "title": "Two Massive Stars May Be Feeding the Milky Way's Black Hole",
+   "dek": "Astronomers think a pair of stars may be supplying gas to the black hole at our galaxy's center, but how much should we trust an elegant explanation that nobody has watched happen?",
+   "sources": [
+    {
+     "name": "ScienceDaily / Max Planck Institute for Extraterrestrial Physics, 20 Nov 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    },
+    {
+     "name": "Astronomy & Astrophysics (Gillessen et al.), 2026",
+     "url": "https://doi.org/10.1051/0004-6361/202555808"
+    }
+   ],
+   "paras": [
+    "At the very center of our galaxy, about 26,000 light-years from Earth, lies Sagittarius A*, a supermassive black hole roughly four million times as massive as the Sun. Compared with the giant black holes that power distant quasars, it is remarkably quiet, but it is not completely asleep: it flickers and glows faintly as small amounts of gas fall toward it. Where that fuel comes from has long been a mystery. In November 2026, a team led by Stefan Gillessen of the Max Planck Institute for Extraterrestrial Physics in Germany proposed an intriguing answer: a pair of massive stars locked in a tight embrace.",
+    "The story begins in 2012, when astronomers identified a compact cloud of glowing gas, later named G2, racing toward the black hole on a highly stretched orbit. The cloud contained several times the mass of Earth, and it trailed a faint tail. Some researchers predicted that the black hole would flare dramatically as G2 swept past it in 2014, but no spectacular outburst occurred. That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon. Later, a search through older data revealed a similar object, G1, following almost the same path.",
+    "The new study argues that these objects are not separate clouds at all but parts of a single, continuous stream of gas. Such a stream can appear broken into clumps because the light it gives off depends very strongly on density: brightness rises with the square of the density, so the thickest parts shine while the thinner gas between them almost vanishes. The team also detected newer gas in G2's tail gathering into another clump. Together, the pieces make up what the researchers call the G1-2-3 streamer.",
+    "To reach this conclusion, the astronomers used two infrared instruments, SINFONI and ERIS, at the European Southern Observatory's Very Large Telescope in Chile. Both rely on adaptive optics, a technology that corrects the blurring caused by Earth's atmosphere. By measuring light emitted by hydrogen gas, the team tracked both the positions of the clumps and the speeds at which they move toward or away from us, and then reconstructed their orbits. The orbits of G1, G2 and G2's tail turned out to have nearly the same shape and orientation, a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated.",
+    "If the gas shares a common origin, what produced it? The researchers considered several possibilities, including powerful winds from individual massive stars, stellar explosions known as novae, and material torn from passing objects by the black hole's gravity. The best match, they concluded, is IRS 16SW, a contact binary in which two massive stars orbit so closely that they almost touch. This pair belongs to a disk of young stars that circles the black hole in a clockwise direction, and the way the two stars orbit each other could explain the slight differences between the clouds' paths.",
+    "Computer simulations suggest how the system might work. Each star blows out a fierce wind of gas. Where the two winds meet, they collide and create a shock between the stars, squeezing the gas into dense clumps. Some of these clumps can break away and fall inward toward the black hole. The amount needed is surprisingly small: according to the team's calculations, if roughly one Earth mass of gas reaches Sagittarius A* every ten years, that could supply enough fuel to maintain the black hole's current level of activity.",
+    "Supporters see the explanation as an elegant way to tie several puzzling observations to a single cause. Instead of treating each cloud as an isolated accident, it links them to a known star system and offers a steady, ongoing source of fuel. If correct, it would also show that the behavior of an object millions of times heavier than the Sun can depend on the activity of just two nearby stars, a striking reminder that small causes can shape large systems.",
+    "Yet the researchers themselves describe their idea as plausible rather than proven, and caution is justified. The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole. Other sources of gas may also contribute, and the long debate over G2's true nature shows how easily the galactic center can surprise astronomers. Future observations, especially of how the streamer changes over the coming decades, will be needed to test whether these two stars really are the black hole's main supplier."
+   ],
+   "words": [
+    {
+     "w": "intriguing",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɪnˈtriːɡɪŋ/",
+     "syl": [
+      "in",
+      "tri",
+      "guing"
+     ],
+     "ex": "The detective found an intriguing note hidden inside the old book.",
+     "def": "very interesting because it is unusual or mysterious"
+    },
+    {
+     "w": "anticlimax",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌæntiˈklaɪmæks/",
+     "syl": [
+      "an",
+      "ti",
+      "cli",
+      "max"
+     ],
+     "ex": "After weeks of advertising, the tiny fireworks show was a real anticlimax.",
+     "def": "a disappointing ending after you expected something exciting"
+    },
+    {
+     "w": "density",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈdensəti/",
+     "syl": [
+      "den",
+      "si",
+      "ty"
+     ],
+     "ex": "Hong Kong has one of the highest population densities in the world, and its density keeps rising.",
+     "def": "how much matter is packed into a given space"
+    },
+    {
+     "w": "adaptive optics",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/əˈdæptɪv ˈɑːptɪks/",
+     "syl": [
+      "a",
+      "dap",
+      "tive",
+      "op",
+      "tics"
+     ],
+     "ex": "Thanks to adaptive optics, ground telescopes can now take images almost as sharp as those from space.",
+     "def": "a telescope technology that bends a flexible mirror to remove blurring caused by the atmosphere"
+    },
+    {
+     "w": "reconstruct",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌriːkənˈstrʌkt/",
+     "syl": [
+      "re",
+      "con",
+      "struct"
+     ],
+     "ex": "Police tried to reconstruct the events of the night from camera footage.",
+     "def": "to work out how something happened or what it looked like from the evidence available"
+    },
+    {
+     "w": "orientation",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɔːriənˈteɪʃn/",
+     "syl": [
+      "o",
+      "ri",
+      "en",
+      "ta",
+      "tion"
+     ],
+     "ex": "The orientation of the solar panels affects how much power they produce.",
+     "def": "the direction in which something faces or points"
+    },
+    {
+     "w": "coincidence",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/koʊˈɪnsɪdəns/",
+     "syl": [
+      "co",
+      "in",
+      "ci",
+      "dence"
+     ],
+     "ex": "By coincidence, my new classmate was born on exactly the same day as me.",
+     "def": "a surprising situation in which two things happen together by chance"
+    },
+    {
+     "w": "binary",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbaɪnəri/",
+     "syl": [
+      "bi",
+      "na",
+      "ry"
+     ],
+     "ex": "Astronomers believe that about half of all Sun-like stars live in a binary.",
+     "def": "a system of two stars that orbit around each other"
+    },
+    {
+     "w": "light-year",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈlaɪt jɪr/",
+     "syl": [
+      "light",
+      "year"
+     ],
+     "ex": "The nearest star to the Sun is just over four light-years away, so one light-year is a useful unit.",
+     "def": "the distance light travels in one year, about 9.5 trillion kilometers"
+    },
+    {
+     "w": "plausible",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈplɔːzəbl/",
+     "syl": [
+      "plau",
+      "si",
+      "ble"
+     ],
+     "ex": "Her excuse for being late sounded plausible, so the teacher accepted it.",
+     "def": "reasonable and likely to be true, though not proven"
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Where that fuel comes from has long been a mystery.",
+     "kind": "Main idea",
+     "note": "States the question the passage answers; main-idea questions often start here."
+    },
+    {
+     "para": 2,
+     "text": "That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon.",
+     "kind": "Cause → effect",
+     "note": "The failed prediction caused a scientific debate; useful for rhetorical-purpose questions."
+    },
+    {
+     "para": 3,
+     "text": "The new study argues that these objects are not separate clouds at all but parts of a single, continuous stream of gas.",
+     "kind": "Topic sentence",
+     "note": "The study's central claim; note the \"not ... but\" contrast."
+    },
+    {
+     "para": 4,
+     "text": "The orbits of G1, G2 and G2's tail turned out to have nearly the same shape and orientation, a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated.",
+     "kind": "Interpretation",
+     "note": "The key evidence; inference questions test what this implies."
+    },
+    {
+     "para": 6,
+     "text": "Where the two winds meet, they collide and create a shock between the stars, squeezing the gas into dense clumps.",
+     "kind": "Cause → effect",
+     "note": "Explains the mechanism step by step."
+    },
+    {
+     "para": 8,
+     "text": "Yet the researchers themselves describe their idea as plausible rather than proven, and caution is justified.",
+     "kind": "Hedging",
+     "note": "Signals the limits of the claim; TOEFL often asks about the strength of evidence."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"fueled\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "supplied with gasoline",
+      "intensified",
+      "brought to an end",
+      "postponed"
+     ],
+     "a": 1,
+     "evidence": "That anticlimax fueled a debate over whether G2 was really a cloud of gas",
+     "why": "The missing flare made the argument about G2's nature stronger and more active.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Fuel\" can mean supplying gasoline (and the passage talks about the black hole's fuel), but a debate cannot be filled with gasoline.",
+      "Correct. \"fueled a debate\" = made the debate stronger; the surprise result encouraged more argument about G2.",
+      "Wrong: opposite meaning. The debate started or grew; the passage says it was a \"long debate\" in paragraph 8.",
+      "Wrong: not supported. Nothing suggests the debate was delayed."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon.",
+       "hl": "fueled a debate"
+      },
+      {
+       "para": 8,
+       "text": "Other sources of gas may also contribute, and the long debate over G2's true nature shows how easily the galactic center can surprise astronomers.",
+       "hl": "the long debate over G2's true nature"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"fueled\" in paragraph 2 takes the object \"a debate\"."
+      },
+      {
+       "t": "Think about the cause",
+       "x": "An unexpected non-event (no flare) makes people argue more, not less."
+      },
+      {
+       "t": "Avoid the literal trap",
+       "x": "Gasoline is the literal meaning of fuel; the context is figurative."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, why can a single stream of gas look like separate clouds?",
+     "opts": [
+      "The black hole's gravity tears the stream into separate pieces.",
+      "Clouds of dust block parts of the stream from view.",
+      "The stream is made of gas released at different times by different stars.",
+      "Denser parts shine much more brightly than the thin gas between them."
+     ],
+     "a": 3,
+     "evidence": "brightness rises with the square of the density, so the thickest parts shine while the thinner gas between them almost vanishes",
+     "why": "Because brightness grows with the square of density, the dense parts look bright and the thin parts nearly disappear, so the stream looks clumpy.",
+     "optWhy": [
+      "Wrong: borrowed from another paragraph. \"torn from passing objects by the black hole's gravity\" appears in paragraph 5 as a possible source, not as the reason for the clumpy look.",
+      "Wrong: not mentioned. Dust appears only in the \"dusty cocoon\" idea in paragraph 2, not as a reason in paragraph 3.",
+      "Wrong: contradicts the main claim. The study argues the clouds come from \"a single, continuous stream\" with a common origin.",
+      "Correct. \"the thickest parts shine while the thinner gas between them almost vanishes\" = denser parts are much brighter than the thin gas between."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Such a stream can appear broken into clumps because the light it gives off depends very strongly on density: brightness rises with the square of the density, so the thickest parts shine while the thinner gas between them almost vanishes.",
+       "hl": "the thickest parts shine while the thinner gas between them almost vanishes"
+      },
+      {
+       "para": 5,
+       "text": "The researchers considered several possibilities, including powerful winds from individual massive stars, stellar explosions known as novae, and material torn from passing objects by the black hole's gravity.",
+       "hl": "material torn from passing objects by the black hole's gravity"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the reason word",
+       "x": "In paragraph 3, \"because\" introduces the explanation."
+      },
+      {
+       "t": "Paraphrase it",
+       "x": "Brightness depends on density squared → dense parts bright, thin parts nearly invisible."
+      },
+      {
+       "t": "Check the traps",
+       "x": "A borrows from paragraph 5, B invents dust, C contradicts the single-stream idea."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, the researchers considered all of the following as possible sources of the gas EXCEPT",
+     "opts": [
+      "winds from individual massive stars",
+      "stellar explosions called novae",
+      "a collision between two black holes",
+      "material pulled from passing objects by gravity"
+     ],
+     "a": 2,
+     "evidence": "including powerful winds from individual massive stars, stellar explosions known as novae, and material torn from passing objects by the black hole's gravity",
+     "why": "Paragraph 5 lists star winds, novae and material torn by gravity; a black-hole collision is never mentioned.",
+     "optWhy": [
+      "Wrong: this is mentioned: \"powerful winds from individual massive stars\".",
+      "Wrong: this is mentioned: \"stellar explosions known as novae\".",
+      "Correct. No collision between black holes appears anywhere in the passage.",
+      "Wrong: this is mentioned: \"material torn from passing objects by the black hole's gravity\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "The researchers considered several possibilities, including powerful winds from individual massive stars, stellar explosions known as novae, and material torn from passing objects by the black hole's gravity.",
+       "hl": "considered several possibilities"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 5 lists the possibilities after \"including\"."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "A, B and D each match one item in the list."
+      },
+      {
+       "t": "Choose the missing one",
+       "x": "A black-hole collision is not in the list."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the orbits of G1, G2 and G2's tail?",
+     "opts": [
+      "The researchers believe their similarity is too close to be explained by chance.",
+      "The clumps were seen directly leaving IRS 16SW.",
+      "Earth's atmosphere made it impossible to measure the clumps' speeds.",
+      "G1 and G2 move around the black hole in opposite directions."
+     ],
+     "a": 0,
+     "evidence": "a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated",
+     "why": "If such matching orbits would be extraordinarily unlikely for unrelated clouds, the researchers must think the clouds are related, not matched by chance.",
+     "optWhy": [
+      "Correct. \"extraordinarily unlikely if the clouds were unrelated\" implies the match is too close to be chance, so the clouds share an origin.",
+      "Wrong: contradicts paragraph 8, which says the case does not rest on \"directly watching gas leave IRS 16SW\".",
+      "Wrong: contradicts the text. Adaptive optics \"corrects the blurring\", and the team did track \"the speeds\".",
+      "Wrong: contradicts the text. The orbits have \"nearly the same shape and orientation\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The orbits of G1, G2 and G2's tail turned out to have nearly the same shape and orientation, a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated.",
+       "hl": "extraordinarily unlikely if the clouds were unrelated"
+      },
+      {
+       "para": 8,
+       "text": "The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole.",
+       "hl": "not on directly watching gas leave IRS 16SW"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the evidence",
+       "x": "The last sentence of paragraph 4 compares the three orbits."
+      },
+      {
+       "t": "Reason it through",
+       "x": "\"Extraordinarily unlikely if unrelated\" → they are probably related."
+      },
+      {
+       "t": "Rule out contradictions",
+       "x": "B clashes with paragraph 8; C and D contradict paragraph 4."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention that \"no spectacular outburst occurred\" in paragraph 2?",
+     "opts": [
+      "To show that the black hole has stopped absorbing gas altogether",
+      "To explain why scientists began to question what G2 really was",
+      "To prove that the predictions made in 2014 used false data",
+      "To suggest that G2 was destroyed before it reached the black hole"
+     ],
+     "a": 1,
+     "evidence": "but no spectacular outburst occurred",
+     "why": "The missing flare is the 'anticlimax' that started the debate over G2's nature.",
+     "optWhy": [
+      "Wrong: too extreme. Paragraph 1 says the black hole still \"flickers and glows faintly as small amounts of gas fall toward it\".",
+      "Correct. The next sentence says \"That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star\".",
+      "Wrong: not supported. The passage never says the data were false, only that the prediction did not come true.",
+      "Wrong: not mentioned. Nothing says G2 was destroyed; the study treats it as part of a continuing stream."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Some researchers predicted that the black hole would flare dramatically as G2 swept past it in 2014, but no spectacular outburst occurred.",
+       "hl": "no spectacular outburst occurred"
+      },
+      {
+       "para": 2,
+       "text": "That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon.",
+       "hl": "fueled a debate over whether G2 was really a cloud of gas or a star"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It ends the sentence about the 2014 prediction."
+      },
+      {
+       "t": "Read the next sentence",
+       "x": "\"That anticlimax fueled a debate\" shows what the non-event led to."
+      },
+      {
+       "t": "Choose the function",
+       "x": "It sets up the debate; the other options overstate or invent."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole.",
+     "opts": [
+      "Simulations have shown gas leaving IRS 16SW and falling into the black hole.",
+      "Astronomers observed the orbits directly but chose not to use simulations.",
+      "The argument is weak because the orbits do not match the simulations.",
+      "The evidence is mostly indirect, based on orbits and models rather than on observing the gas's journey."
+     ],
+     "a": 3,
+     "evidence": "The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole.",
+     "why": "The sentence says the evidence comes from orbits and simulations, not from direct observation.",
+     "optWhy": [
+      "Wrong: changes the meaning. Simulations suggest how it might work; the sentence stresses that nobody has directly watched the gas.",
+      "Wrong: contradicts the sentence, which says the case rests on simulations too.",
+      "Wrong: not stated. The sentence does not say the orbits and simulations disagree.",
+      "Correct. \"matching orbits and ... simulations\" = orbits and models; \"not on directly watching gas leave\" = rather than observing the gas's journey."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole.",
+       "hl": "not on directly watching"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the two parts",
+       "x": "What the case rests on (orbits + simulations) vs what it does not (direct observation)."
+      },
+      {
+       "t": "Find both ideas",
+       "x": "Only D keeps both the evidence and the missing observation."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "A turns models into observations, B and C contradict or add ideas."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Facts",
+     "fact": "Sagittarius A* is a supermassive black hole about four million times the Sun's mass, 26,000 light-years away.",
+     "q": "How massive is Sagittarius A*?",
+     "opts": [
+      "About as massive as the Sun",
+      "About four million Suns",
+      "About one Earth mass",
+      "About four billion Suns"
+     ],
+     "a": 1,
+     "id": "n20261121-3-k1"
+    },
+    {
+     "tag": "History",
+     "fact": "G2 was found in 2012; the big flare predicted for 2014 never came, sparking a debate about its nature.",
+     "q": "What happened when G2 passed the black hole in 2014?",
+     "opts": [
+      "A huge flare",
+      "No spectacular outburst",
+      "The black hole vanished",
+      "G2 exploded"
+     ],
+     "a": 1,
+     "id": "n20261121-3-k2"
+    },
+    {
+     "tag": "Claim",
+     "fact": "G1, G2 and G2's tail may be clumps in one continuous gas stream, the G1-2-3 streamer.",
+     "q": "What does the study say G1 and G2 are?",
+     "opts": [
+      "Two separate stars",
+      "Parts of one gas stream",
+      "Two small black holes",
+      "Planets"
+     ],
+     "a": 1,
+     "id": "n20261121-3-k3"
+    },
+    {
+     "tag": "Evidence",
+     "fact": "Their nearly identical orbits would be extraordinarily unlikely if the clouds were unrelated.",
+     "q": "What is the key evidence for a common origin?",
+     "opts": [
+      "Matching orbits",
+      "Their colors",
+      "Radio signals",
+      "Their temperature"
+     ],
+     "a": 0,
+     "id": "n20261121-3-k4"
+    },
+    {
+     "tag": "Source",
+     "fact": "The likely source is IRS 16SW, a contact binary whose colliding winds squeeze gas into clumps.",
+     "q": "What is IRS 16SW?",
+     "opts": [
+      "A black hole",
+      "A pair of touching massive stars",
+      "A telescope",
+      "A nova"
+     ],
+     "a": 1,
+     "id": "n20261121-3-k5"
+    },
+    {
+     "tag": "Caution",
+     "fact": "About one Earth mass of gas per decade could feed the black hole, but the idea is plausible, not proven.",
+     "q": "How do the researchers describe their idea?",
+     "opts": [
+      "Proven",
+      "Plausible but not proven",
+      "Impossible",
+      "Already confirmed by direct observation"
+     ],
+     "a": 1,
+     "id": "n20261121-3-k6"
+    }
+   ],
+   "mindmap": {
+    "center": "Feeding Sagittarius A*",
+    "question": "Where does the black hole's fuel come from?",
+    "branches": [
+     {
+      "title": "The mystery",
+      "paras": "1-2",
+      "blanks": [
+       "quiet but not asleep",
+       "no flare in 2014"
+      ],
+      "kps": [
+       "n20261121-3-k1",
+       "n20261121-3-k2"
+      ]
+     },
+     {
+      "title": "One stream",
+      "paras": "3-4",
+      "blanks": [
+       "brightness rises with density squared",
+       "nearly identical orbits"
+      ],
+      "kps": [
+       "n20261121-3-k3",
+       "n20261121-3-k4"
+      ]
+     },
+     {
+      "title": "Star source",
+      "paras": "5-6",
+      "blanks": [
+       "colliding winds make dense clumps"
+      ],
+      "kps": [
+       "n20261121-3-k5"
+      ]
+     },
+     {
+      "title": "How sure?",
+      "paras": "7-8",
+      "blanks": [
+       "plausible rather than proven"
+      ],
+      "kps": [
+       "n20261121-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "two black holes collided",
+     "gas seen leaving the stars directly"
+    ]
+   },
+   "summary": {
+    "intro": "Astronomers propose that a pair of massive stars near the Milky Way's center may be supplying the gas that feeds its supermassive black hole.",
+    "model": "Matching orbits suggest that clouds such as G2 are clumps in one stream, while simulations show how a nearby binary's colliding winds could create them. However, because nobody has watched the gas travel, the idea remains plausible rather than proven.",
+    "options": [
+     {
+      "t": "Clouds once thought to be separate may be clumps in a single gas stream with a shared origin.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 3-4.",
+      "type": "main",
+      "para": 3,
+      "evidence": "parts of a single, continuous stream of gas"
+     },
+     {
+      "t": "Colliding winds from a nearby pair of massive stars may produce the clumps that fall toward the black hole.",
+      "ok": true,
+      "why": "A main idea; see paragraphs 5-6.",
+      "type": "main",
+      "para": 6,
+      "evidence": "squeezing the gas into dense clumps"
+     },
+     {
+      "t": "The explanation is attractive but rests on indirect evidence, so further observations are needed.",
+      "ok": true,
+      "why": "A main idea; see paragraph 8.",
+      "type": "main",
+      "para": 8,
+      "evidence": "plausible rather than proven"
+     },
+     {
+      "t": "The team used instruments called SINFONI and ERIS at a telescope in Chile.",
+      "ok": false,
+      "why": "True, but a minor detail.",
+      "type": "detail",
+      "para": 4,
+      "evidence": "SINFONI and ERIS"
+     },
+     {
+      "t": "The black hole is expected to swallow the binary star IRS 16SW within a few years.",
+      "ok": false,
+      "why": "Not mentioned in the passage.",
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "G2 caused a spectacular flare when it passed the black hole in 2014.",
+      "ok": false,
+      "why": "Contradicts the passage: no outburst occurred.",
+      "type": "contra",
+      "para": 2,
+      "evidence": "no spectacular outburst occurred"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Scientists often propose explanations that are plausible but not yet proven, like the idea that two stars are feeding our galaxy's black hole. Should news reports share such ideas with the public before they are confirmed, or wait until there is stronger evidence? Explain your opinion.",
+    "hint": "Choose a side; give two reasons (e.g., curiosity and openness vs risk of confusion); refer to the black-hole study; end with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: Astronomers have suggested that two stars near the center of our galaxy may be feeding its black hole, but they call the idea plausible rather than proven. Some people argue that research on distant black holes is fascinating but has little practical value. Do you think governments should fund this kind of pure science? Why or why not?\nLucy: \"Yes. Many useful technologies started as pure research. The adaptive optics used to study the galactic center are now being applied in other fields, like eye imaging.\"\nRyan: \"I'm not convinced. With climate change and disease to deal with, public money should go to research that solves problems people face today. Black holes can wait.\"",
+    "steps": [
+     "State your position on funding pure science.",
+     "Respond to Lucy or Ryan and add a new point.",
+     "Give a specific example (from the article or your own knowledge).",
+     "Finish with a short conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "audio": {
+  "On 21 November 2026, a spacecraft that left Earth in October 2018 was scheduled to perform the most delicate maneuver of its long life: allowing the gravity of Mercury, the smallest planet in the solar system, to capture it into orbit. The mission, called BepiColombo, is a partnership between the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA). If all goes to plan, it will become only the second mission ever to orbit Mercury, and the first to place two separate orbiters around the planet at the same time.": "audio/2026-11-21/a1-p1.mp3",
+  "Mercury may look like an easy target, since it is much closer to Earth than Jupiter or Saturn. In reality, it is one of the hardest places in the solar system to reach. Anything that falls toward the Sun speeds up, just as a ball gains speed rolling downhill. A spacecraft heading for Mercury therefore arrives far too fast, and the planet's weak gravity cannot hold on to it. As ESA flight dynamics expert Frank Budnik explained, BepiColombo \"has to move at almost the same velocity as Mercury\" before it can enter orbit. In other words, the real challenge is not going fast but slowing down.": "audio/2026-11-21/a1-p2.mp3",
+  "To shed that excess speed without carrying an enormous load of fuel, engineers combined two techniques. The first was solar electric propulsion: a separate Mercury Transfer Module used electricity from large solar panels to power thrusters that gave gentle but continuous pushes for years. The second was a series of nine gravity-assist flybys, one past Earth, two past Venus and six past Mercury itself, each of which used a planet's gravity to bend the spacecraft's path and drain away some of its energy. The approach was elegant but slow, which is why the journey took eight years rather than a few months.": "audio/2026-11-21/a1-p3.mp3",
+  "The journey did not always go smoothly. In April 2024, a problem with the solar panels reduced the power available to the electric thrusters. Engineers designed a new, lower-thrust route that saved the mission but pushed its arrival back from December 2025 to November 2026. Then, on 3 September 2026, the transfer module was released, leaving the two science orbiters still joined together, more than 200 million kilometers from Earth. Over the following weeks, the team switched on instruments for the first time; a laser altimeter, for example, fired more than 700,000 pulses in less than a day.": "audio/2026-11-21/a1-p4.mp3",
+  "After capture, the work divides between the two partners. In early December, JAXA's Mio orbiter is due to separate and settle into a wide, elliptical orbit that takes about 9.3 hours to complete, from which it will study Mercury's magnetic field and how it interacts with the solar wind, the stream of charged particles flowing from the Sun. ESA's Mercury Planetary Orbiter, carrying 11 science instruments, will gradually lower itself into a tight polar orbit of about 2.3 hours, reaching its final path in March 2027. Full science operations are planned to begin in April 2027 and to last at least a year.": "audio/2026-11-21/a1-p5.mp3",
+  "Scientists hope the mission will help solve several puzzles. Mercury's iron core is enormous, filling more than half of the planet's volume, and nobody knows why. The planet also has a magnetic field, roughly 100 times weaker than Earth's, which is surprising for such a small world. NASA's MESSENGER probe, which orbited Mercury from 2011 to 2015, found ice hidden in permanently shadowed craters near the poles and strange shallow pits called hollows, and it added to evidence that the whole planet has shrunk by a few kilometers as its interior cooled. BepiColombo's sharper instruments should reveal far more.": "audio/2026-11-21/a1-p6.mp3",
+  "Not everyone sees such missions as a priority. Critics point out that robotic exploration of distant planets is expensive and slow, and that a project which takes eight years merely to arrive may deliver results long after the questions that inspired it have changed. Some argue that the same money could do more good if spent on satellites that monitor Earth's climate, crops and oceans. International partnerships, they add, can multiply delays, because two agencies must coordinate budgets, designs and decisions.": "audio/2026-11-21/a1-p7.mp3",
+  "Supporters reply that understanding Mercury is not a luxury. Astronomers have found thousands of planets orbiting other stars, and many of them circle extremely close to their suns, so Mercury is the nearest example of a world shaped by intense heat and radiation. Learning how it formed tests our theories of how planetary systems, including our own, came to be. Moreover, sharing a mission spreads the costs and risks, and building hardware that survives temperatures from about minus 170 to 430 degrees Celsius pushes engineering forward. In that sense, the long, patient trip to Mercury may be justified as much by what it teaches on the way as by what it finds.": "audio/2026-11-21/a1-p8.mp3",
+  "maneuver": "audio/2026-11-21/a1-w-maneuver.mp3",
+  "The pilot made a sharp maneuver to avoid the flock of birds.": "audio/2026-11-21/a1-ex-maneuver.mp3",
+  "shed": "audio/2026-11-21/a1-w-shed.mp3",
+  "The company plans to shed about two hundred jobs next year.": "audio/2026-11-21/a1-ex-shed.mp3",
+  "excess": "audio/2026-11-21/a1-w-excess.mp3",
+  "Cut away any excess paper before you glue the photo into the album.": "audio/2026-11-21/a1-ex-excess.mp3",
+  "propulsion": "audio/2026-11-21/a1-w-propulsion.mp3",
+  "Many new ships use electric propulsion to cut fuel costs.": "audio/2026-11-21/a1-ex-propulsion.mp3",
+  "flyby": "audio/2026-11-21/a1-w-flyby.mp3",
+  "The probe sent back sharp images during its flyby of Saturn's largest moon.": "audio/2026-11-21/a1-ex-flyby.mp3",
+  "elliptical": "audio/2026-11-21/a1-w-elliptical.mp3",
+  "Comets often travel on long, elliptical paths around the Sun.": "audio/2026-11-21/a1-ex-elliptical.mp3",
+  "inspire": "audio/2026-11-21/a1-w-inspire.mp3",
+  "A visit to the science museum can inspire children to become engineers.": "audio/2026-11-21/a1-ex-inspire.mp3",
+  "coordinate": "audio/2026-11-21/a1-w-coordinate.mp3",
+  "Two hospitals had to coordinate their staff during the flu outbreak.": "audio/2026-11-21/a1-ex-coordinate.mp3",
+  "luxury": "audio/2026-11-21/a1-w-luxury.mp3",
+  "For many families, a long holiday abroad is a luxury they cannot afford.": "audio/2026-11-21/a1-ex-luxury.mp3",
+  "justify": "audio/2026-11-21/a1-w-justify.mp3",
+  "The mayor tried to justify the high cost of the new bridge.": "audio/2026-11-21/a1-ex-justify.mp3",
+  "If all goes to plan, it will become only the second mission ever to orbit Mercury, and the first to place two separate orbiters around the planet at the same time.": "audio/2026-11-21/a1-ks1.mp3",
+  "In other words, the real challenge is not going fast but slowing down.": "audio/2026-11-21/a1-ks2.mp3",
+  "The approach was elegant but slow, which is why the journey took eight years rather than a few months.": "audio/2026-11-21/a1-ks3.mp3",
+  "Mercury's iron core is enormous, filling more than half of the planet's volume, and nobody knows why.": "audio/2026-11-21/a1-ks4.mp3",
+  "Not everyone sees such missions as a priority.": "audio/2026-11-21/a1-ks5.mp3",
+  "In that sense, the long, patient trip to Mercury may be justified as much by what it teaches on the way as by what it finds.": "audio/2026-11-21/a1-ks6.mp3",
+  "Along the edges of Antarctica, glaciers end in towering walls of ice that rise straight out of the sea. For roughly a decade, some climate scientists have worried that these ice cliffs could become the weak point of the entire continent. A new study published in the journal Science in November 2026 suggests that the danger, while real, may be less dramatic than some computer models predicted. Using satellite measurements of more than 15,000 cliffs, researchers found that collapsing cliffs retreat quickly at first but then tend to stabilize, rather than crumbling in an unstoppable chain reaction.": "audio/2026-11-21/a2-p1.mp3",
+  "The concern rests on an idea known as marine ice cliff instability, or MICI. According to this theory, a very tall wall of ice may be unable to support its own weight. If it breaks off, it can expose an even taller wall behind it, which may then collapse in turn, and the process can repeat itself again and again. Earlier studies, based mainly on computer models and a limited number of observations, suggested that cliffs taller than about 100 meters, roughly the height of a 30-story building, were especially vulnerable. Because Antarctica holds enough ice to raise global sea levels by dozens of meters, even a partial runaway collapse would threaten coastal cities around the world.": "audio/2026-11-21/a2-p2.mp3",
+  "To test the theory against reality, Caroline Needell, a graduate student in a joint program of the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution, worked with Catherine Walker of Woods Hole and Jeremy Bassis of the University of Michigan. They used data from NASA's ICESat-2 satellite, which fires laser pulses at the ground to measure surface height with great precision. By analyzing measurements from 2019 to 2023, the team tracked thousands of cliffs every three months. The average cliff was about 30 meters tall, and only a small number exceeded the 100-meter threshold.": "audio/2026-11-21/a2-p3.mp3",
+  "The researchers then examined four sites where cliffs reached about 100 meters, with the tallest measuring 127 meters. Here, the results contained surprises in both directions. When these cliffs collapsed, they retreated even faster than MICI models had predicted. Yet the retreat was short-lived: every glacier eventually stabilized, and some even advanced back toward the sea. \"It's this rapid retreat, punctuated by periods of stabilization,\" Needell said. \"We don't see this runaway effect.\"": "audio/2026-11-21/a2-p4.mp3",
+  "Several natural brakes appear to explain why. In front of many cliffs floats mélange, a slushy mixture of sea ice and broken icebergs, and the team found that taller cliffs tended to have thicker mélange, which may help hold them up. Deeper water in front of a cliff can also push back against the ice. The shape of the ground beneath the glacier matters too: where the bed rises, the ice becomes thinner, and cliffs often stopped retreating at these ridges, which the researchers described as natural speed bumps. Finally, taller cliffs tended to thin quickly as they collapsed, turning into shorter, more stable walls.": "audio/2026-11-21/a2-p5.mp3",
+  "On the optimistic side, the findings suggest that the most extreme projections of sea-level rise, which depend on MICI, may need to be revised downward. That matters for governments deciding how high to build sea walls or whether to relocate whole communities, since planning for an extreme outcome that is unlikely can waste enormous sums of money. The study also shows the value of testing dramatic predictions against careful observation rather than relying on models alone.": "audio/2026-11-21/a2-p6.mp3",
+  "The authors themselves, however, urge caution. Their results do not mean that Antarctica's ice sheet is safe; glaciers can still lose large amounts of ice in other ways, such as melting caused by warm ocean water, which was not the focus of this study. Moreover, four years of satellite data is a short record compared with the centuries over which ice sheets change, and conditions in a warmer future may differ from those observed so far. Needell stressed that scientists \"really need to know the bed topography\" and the rate at which ice is thinning in order to get ice cliff instability right.": "audio/2026-11-21/a2-p7.mp3",
+  "In the end, the research replaces a simple rule with a more complicated picture. Cliff height alone does not decide a glacier's fate; the mélange, the water and the hidden landscape below all play a part. For policymakers, the message is neither panic nor complacency. Sea levels are still rising, and Antarctica will keep losing ice as the planet warms. What the new study offers is a sharper tool for estimating how fast that loss may happen, and better estimates are exactly what coastal communities need in order to prepare.": "audio/2026-11-21/a2-p8.mp3",
+  "stabilize": "audio/2026-11-21/a2-w-stabilize.mp3",
+  "Doctors worked through the night to stabilize the injured climber.": "audio/2026-11-21/a2-ex-stabilize.mp3",
+  "vulnerable": "audio/2026-11-21/a2-w-vulnerable.mp3",
+  "Low-lying islands are especially vulnerable to rising seas.": "audio/2026-11-21/a2-ex-vulnerable.mp3",
+  "threshold": "audio/2026-11-21/a2-w-threshold.mp3",
+  "Water reaches its boiling threshold at 100 degrees Celsius at sea level.": "audio/2026-11-21/a2-ex-threshold.mp3",
+  "retreat": "audio/2026-11-21/a2-w-retreat.mp3",
+  "Many mountain glaciers retreat a few meters every summer.": "audio/2026-11-21/a2-ex-retreat.mp3",
+  "mélange": "audio/2026-11-21/a2-w-m-lange.mp3",
+  "A thick mélange can act like a wall that props up the ice behind it.": "audio/2026-11-21/a2-ex-m-lange.mp3",
+  "punctuate": "audio/2026-11-21/a2-w-punctuate.mp3",
+  "Long periods of silence punctuate the conversation between the two old friends.": "audio/2026-11-21/a2-ex-punctuate.mp3",
+  "projection": "audio/2026-11-21/a2-w-projection.mp3",
+  "The government's population projection shows the city doubling in size by 2050.": "audio/2026-11-21/a2-ex-projection.mp3",
+  "relocate": "audio/2026-11-21/a2-w-relocate.mp3",
+  "The factory plans to relocate to a town with cheaper land.": "audio/2026-11-21/a2-ex-relocate.mp3",
+  "topography": "audio/2026-11-21/a2-w-topography.mp3",
+  "Hikers should study the topography of the valley before they set off.": "audio/2026-11-21/a2-ex-topography.mp3",
+  "complacency": "audio/2026-11-21/a2-w-complacency.mp3",
+  "After winning three games, the team's complacency cost them the final.": "audio/2026-11-21/a2-ex-complacency.mp3",
+  "A new study published in the journal Science in November 2026 suggests that the danger, while real, may be less dramatic than some computer models predicted.": "audio/2026-11-21/a2-ks1.mp3",
+  "According to this theory, a very tall wall of ice may be unable to support its own weight.": "audio/2026-11-21/a2-ks2.mp3",
+  "When these cliffs collapsed, they retreated even faster than MICI models had predicted.": "audio/2026-11-21/a2-ks3.mp3",
+  "Several natural brakes appear to explain why.": "audio/2026-11-21/a2-ks4.mp3",
+  "Their results do not mean that Antarctica's ice sheet is safe; glaciers can still lose large amounts of ice in other ways, such as melting caused by warm ocean water, which was not the focus of this study.": "audio/2026-11-21/a2-ks5.mp3",
+  "For policymakers, the message is neither panic nor complacency.": "audio/2026-11-21/a2-ks6.mp3",
+  "At the very center of our galaxy, about 26,000 light-years from Earth, lies Sagittarius A*, a supermassive black hole roughly four million times as massive as the Sun. Compared with the giant black holes that power distant quasars, it is remarkably quiet, but it is not completely asleep: it flickers and glows faintly as small amounts of gas fall toward it. Where that fuel comes from has long been a mystery. In November 2026, a team led by Stefan Gillessen of the Max Planck Institute for Extraterrestrial Physics in Germany proposed an intriguing answer: a pair of massive stars locked in a tight embrace.": "audio/2026-11-21/a3-p1.mp3",
+  "The story begins in 2012, when astronomers identified a compact cloud of glowing gas, later named G2, racing toward the black hole on a highly stretched orbit. The cloud contained several times the mass of Earth, and it trailed a faint tail. Some researchers predicted that the black hole would flare dramatically as G2 swept past it in 2014, but no spectacular outburst occurred. That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon. Later, a search through older data revealed a similar object, G1, following almost the same path.": "audio/2026-11-21/a3-p2.mp3",
+  "The new study argues that these objects are not separate clouds at all but parts of a single, continuous stream of gas. Such a stream can appear broken into clumps because the light it gives off depends very strongly on density: brightness rises with the square of the density, so the thickest parts shine while the thinner gas between them almost vanishes. The team also detected newer gas in G2's tail gathering into another clump. Together, the pieces make up what the researchers call the G1-2-3 streamer.": "audio/2026-11-21/a3-p3.mp3",
+  "To reach this conclusion, the astronomers used two infrared instruments, SINFONI and ERIS, at the European Southern Observatory's Very Large Telescope in Chile. Both rely on adaptive optics, a technology that corrects the blurring caused by Earth's atmosphere. By measuring light emitted by hydrogen gas, the team tracked both the positions of the clumps and the speeds at which they move toward or away from us, and then reconstructed their orbits. The orbits of G1, G2 and G2's tail turned out to have nearly the same shape and orientation, a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated.": "audio/2026-11-21/a3-p4.mp3",
+  "If the gas shares a common origin, what produced it? The researchers considered several possibilities, including powerful winds from individual massive stars, stellar explosions known as novae, and material torn from passing objects by the black hole's gravity. The best match, they concluded, is IRS 16SW, a contact binary in which two massive stars orbit so closely that they almost touch. This pair belongs to a disk of young stars that circles the black hole in a clockwise direction, and the way the two stars orbit each other could explain the slight differences between the clouds' paths.": "audio/2026-11-21/a3-p5.mp3",
+  "Computer simulations suggest how the system might work. Each star blows out a fierce wind of gas. Where the two winds meet, they collide and create a shock between the stars, squeezing the gas into dense clumps. Some of these clumps can break away and fall inward toward the black hole. The amount needed is surprisingly small: according to the team's calculations, if roughly one Earth mass of gas reaches Sagittarius A* every ten years, that could supply enough fuel to maintain the black hole's current level of activity.": "audio/2026-11-21/a3-p6.mp3",
+  "Supporters see the explanation as an elegant way to tie several puzzling observations to a single cause. Instead of treating each cloud as an isolated accident, it links them to a known star system and offers a steady, ongoing source of fuel. If correct, it would also show that the behavior of an object millions of times heavier than the Sun can depend on the activity of just two nearby stars, a striking reminder that small causes can shape large systems.": "audio/2026-11-21/a3-p7.mp3",
+  "Yet the researchers themselves describe their idea as plausible rather than proven, and caution is justified. The case rests largely on matching orbits and on simulations, not on directly watching gas leave IRS 16SW and fall toward the black hole. Other sources of gas may also contribute, and the long debate over G2's true nature shows how easily the galactic center can surprise astronomers. Future observations, especially of how the streamer changes over the coming decades, will be needed to test whether these two stars really are the black hole's main supplier.": "audio/2026-11-21/a3-p8.mp3",
+  "intriguing": "audio/2026-11-21/a3-w-intriguing.mp3",
+  "The detective found an intriguing note hidden inside the old book.": "audio/2026-11-21/a3-ex-intriguing.mp3",
+  "anticlimax": "audio/2026-11-21/a3-w-anticlimax.mp3",
+  "After weeks of advertising, the tiny fireworks show was a real anticlimax.": "audio/2026-11-21/a3-ex-anticlimax.mp3",
+  "density": "audio/2026-11-21/a3-w-density.mp3",
+  "Hong Kong has one of the highest population densities in the world, and its density keeps rising.": "audio/2026-11-21/a3-ex-density.mp3",
+  "adaptive optics": "audio/2026-11-21/a3-w-adaptive-optics.mp3",
+  "Thanks to adaptive optics, ground telescopes can now take images almost as sharp as those from space.": "audio/2026-11-21/a3-ex-adaptive-optics.mp3",
+  "reconstruct": "audio/2026-11-21/a3-w-reconstruct.mp3",
+  "Police tried to reconstruct the events of the night from camera footage.": "audio/2026-11-21/a3-ex-reconstruct.mp3",
+  "orientation": "audio/2026-11-21/a3-w-orientation.mp3",
+  "The orientation of the solar panels affects how much power they produce.": "audio/2026-11-21/a3-ex-orientation.mp3",
+  "coincidence": "audio/2026-11-21/a3-w-coincidence.mp3",
+  "By coincidence, my new classmate was born on exactly the same day as me.": "audio/2026-11-21/a3-ex-coincidence.mp3",
+  "binary": "audio/2026-11-21/a3-w-binary.mp3",
+  "Astronomers believe that about half of all Sun-like stars live in a binary.": "audio/2026-11-21/a3-ex-binary.mp3",
+  "light-year": "audio/2026-11-21/a3-w-light-year.mp3",
+  "The nearest star to the Sun is just over four light-years away, so one light-year is a useful unit.": "audio/2026-11-21/a3-ex-light-year.mp3",
+  "plausible": "audio/2026-11-21/a3-w-plausible.mp3",
+  "Her excuse for being late sounded plausible, so the teacher accepted it.": "audio/2026-11-21/a3-ex-plausible.mp3",
+  "Where that fuel comes from has long been a mystery.": "audio/2026-11-21/a3-ks1.mp3",
+  "That anticlimax fueled a debate over whether G2 was really a cloud of gas or a star hidden inside a dusty cocoon.": "audio/2026-11-21/a3-ks2.mp3",
+  "The new study argues that these objects are not separate clouds at all but parts of a single, continuous stream of gas.": "audio/2026-11-21/a3-ks3.mp3",
+  "The orbits of G1, G2 and G2's tail turned out to have nearly the same shape and orientation, a coincidence the researchers called extraordinarily unlikely if the clouds were unrelated.": "audio/2026-11-21/a3-ks4.mp3",
+  "Where the two winds meet, they collide and create a shock between the stars, squeezing the gas into dense clumps.": "audio/2026-11-21/a3-ks5.mp3",
+  "Yet the researchers themselves describe their idea as plausible rather than proven, and caution is justified.": "audio/2026-11-21/a3-ks6.mp3"
+ }
+}
