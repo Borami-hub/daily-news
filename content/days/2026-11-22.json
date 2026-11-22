@@ -1,0 +1,2082 @@
+{
+ "date": "2026-11-22",
+ "headline": "Robots That Choose, Bricks from Moon Dust and a Trade Bigger Than We Knew",
+ "teaser": "Should machines ever decide who lives or dies? Can Moon dust become a home? And how many wild species are we really buying and selling?",
+ "articles": [
+  {
+   "id": "n20261122-1",
+   "topic": "Society",
+   "title": "Nations Agree to Start Drafting Rules for \"Killer Robots\"",
+   "dek": "Governments have agreed to work toward rules for weapons that can pick their own targets, but is a slow deal that includes everyone better than a fast one that leaves out the biggest powers?",
+   "sources": [
+    {
+     "name": "Al Jazeera / AFP, 21 Nov 2026",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    }
+   ],
+   "paras": [
+    "After more than a decade of slow and often frustrating discussion, governments meeting in Geneva have taken what supporters call a significant step toward controlling weapons that can choose and attack targets without a human pulling the trigger. On 21 November 2026, the 128 countries at a United Nations arms-control conference agreed to spend the next two years working out a possible international instrument on lethal autonomous weapons systems, often nicknamed \"killer robots.\" The decision, however, was a compromise, and many campaigners left the talks disappointed rather than relieved.",
+    "The meeting took place under the Convention on Certain Conventional Weapons (CCW), a treaty adopted in 1980 to restrict weapons considered excessively injurious or indiscriminate. Over the years, the convention has produced protocols on landmines and incendiary weapons, and in 1995 it banned blinding laser weapons before they were ever widely deployed. Many diplomats hoped autonomous weapons could follow the same path and be regulated early, before they spread. Informal talks on the subject began in 2014, but progress has been held back by one feature of the convention: its decisions require the agreement of every member state.",
+    "That rule shaped the final text. Nearly 100 countries had pushed for the swift adoption of legally binding rules, but key arms-producing states, including the United States, Russia and Israel, opposed the push. According to diplomats, Russian objections over procedure led to some formal sessions being called off, and negotiators argued over wording through the night. Some delegations refused to accept the word \"negotiate,\" so the agreed text speaks only of the \"elaboration\" of an instrument. To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.",
+    "The chair of the conference, Swiss diplomat Julien Thoeni, nevertheless presented the outcome as evidence that cooperation is still possible. He said the result showed that \"even in today's deeply divided world, multilateral diplomacy can still deliver concrete results.\" Under the plan, the process should determine which weapons could be banned outright under international humanitarian law, the body of rules that protects civilians in war, and which could be permitted but regulated. This two-tier approach is designed to attract states that reject a total ban but accept that some limits are needed.",
+    "Campaigners were far less impressed. Stop Killer Robots, a coalition of some 300 organizations, described the mandate as \"watered down\" and warned that it offers no clear route to binding law. Its executive director, Nicole van Rooijen, argued that \"delaying the creation of a legally binding instrument puts civilians and humanity at risk,\" pointing out that autonomous systems, including ones that use artificial intelligence to select targets, are already being used in combat. Verity Coyle of Human Rights Watch put the problem more bluntly: the agreement \"does not provide the urgent action needed to agree new rules – but the technology is racing ahead.\"",
+    "Behind the procedural dispute lies a deeper disagreement about whether machines should ever make life-and-death decisions. Opponents of autonomous weapons raise what they call the accountability gap: if an algorithm wrongly identifies a civilian truck as a military vehicle, it is unclear whether the programmer, the commander or the manufacturer should be held responsible. They also doubt that software can apply the core principles of the laws of war, such as distinguishing soldiers from civilians and judging whether an attack is proportionate. Some fear, too, that wars fought by machines could become easier to start, because fewer of a country's own soldiers would be at risk.",
+    "Defenders of the technology, and of a slower approach, see things differently. They argue that well-designed systems may react faster than people and could even make fewer mistakes than exhausted or frightened soldiers. Several major military powers also maintain that existing international humanitarian law already applies to every weapon, so a new treaty is unnecessary, and that premature rules could freeze a technology that is still evolving. From this perspective, a careful process involving every major power is better than a quick treaty that the countries building these weapons refuse to join.",
+    "Whether the next two years produce a meaningful agreement will depend largely on those reluctant states. A treaty signed only by countries that have no intention of building autonomous weapons would carry symbolic weight but little practical force. On the other hand, history shows that norms can spread even without universal support: the landmine ban of 1997 was negotiated outside the CCW and gradually changed behavior, even among some countries that never signed it. For now, the question is no longer whether rules are needed, but whether diplomats can write them before the technology outpaces them."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The decision, however, was a compromise, and many campaigners left the talks disappointed rather than relieved.",
+     "kind": "Main idea",
+     "note": "\"However\" turns the positive opening into the article's real angle: the deal is only a partial success."
+    },
+    {
+     "para": 2,
+     "text": "Informal talks on the subject began in 2014, but progress has been held back by one feature of the convention: its decisions require the agreement of every member state.",
+     "kind": "Cause → effect",
+     "note": "Explains why talks are slow; TOEFL factual questions often target the reason after a colon."
+    },
+    {
+     "para": 3,
+     "text": "To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.",
+     "kind": "Interpretation",
+     "note": "A classic sentence-simplification target: it contrasts appearance with reality and compares two words."
+    },
+    {
+     "para": 6,
+     "text": "Behind the procedural dispute lies a deeper disagreement about whether machines should ever make life-and-death decisions.",
+     "kind": "Topic sentence",
+     "note": "Moves the article from diplomacy to ethics; it introduces the opponents' arguments."
+    },
+    {
+     "para": 7,
+     "text": "From this perspective, a careful process involving every major power is better than a quick treaty that the countries building these weapons refuse to join.",
+     "kind": "Critical thinking",
+     "note": "Summarizes the opposing view; \"From this perspective\" signals that this is someone's opinion, not the author's."
+    },
+    {
+     "para": 8,
+     "text": "For now, the question is no longer whether rules are needed, but whether diplomats can write them before the technology outpaces them.",
+     "kind": "Author's view",
+     "note": "The concluding sentence reframes the debate; useful for main-idea and summary questions."
+    }
+   ],
+   "speak": {
+    "p": "Some people believe that machines should never be allowed to make life-and-death decisions, even if they make fewer mistakes than humans. Others think that if a machine is more accurate, it should be used. Which view do you agree with, and why?",
+    "hint": "Pick one side; give two reasons (e.g., responsibility, accuracy, fairness) and one example from the article; end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Rivera: This week, 128 countries agreed to spend two years working toward rules on \"killer robots\", weapons that can select targets without a human decision. Because every member must agree, the deal is weak, and some countries building these weapons oppose a treaty. Is it better to wait for an agreement that includes every major power, or to move quickly with a treaty signed only by willing countries? Why?\nSophia: \"We should move quickly. Every year of delay lets the technology spread further. A strong treaty signed by many countries creates pressure, just as the landmine ban did.\"\nDaniel: \"I disagree. A treaty without the countries that actually build these weapons is mostly symbolic. It is better to keep everyone at the table, even if progress is slow.\"",
+    "steps": [
+     "State which approach you prefer.",
+     "Respond to Sophia or Daniel and add a new reason.",
+     "Support your view with an example, such as the landmine ban.",
+     "Finish with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "autonomous",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɔːˈtɑːnəməs/",
+     "syl": [
+      "au",
+      "ton",
+      "o",
+      "mous"
+     ],
+     "def": "able to act or make decisions independently, without outside control",
+     "ex": "Some delivery robots are fully autonomous and can find their own way around a city."
+    },
+    {
+     "w": "compromise",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈkɑːmprəmaɪz/",
+     "syl": [
+      "com",
+      "pro",
+      "mise"
+     ],
+     "def": "an agreement in which each side gives up part of what it wanted",
+     "ex": "After hours of debate, the club reached a compromise on the new rules."
+    },
+    {
+     "w": "indiscriminate",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˌɪndɪˈskrɪmɪnət/",
+     "syl": [
+      "in",
+      "dis",
+      "crim",
+      "i",
+      "nate"
+     ],
+     "def": "done without care to separate one person or thing from another, so that many are harmed",
+     "ex": "Environmental groups criticized the indiscriminate use of pesticides on the farm."
+    },
+    {
+     "w": "deploy",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/dɪˈplɔɪ/",
+     "syl": [
+      "de",
+      "ploy"
+     ],
+     "def": "to put equipment, people or forces into use or position for a purpose",
+     "ex": "The city plans to deploy more electric buses next year."
+    },
+    {
+     "w": "mandate",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈmændeɪt/",
+     "syl": [
+      "man",
+      "date"
+     ],
+     "def": "an official instruction or authority to carry out a particular task",
+     "ex": "The committee was given a mandate to review the school's safety rules."
+    },
+    {
+     "w": "accountability",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/əˌkaʊntəˈbɪləti/",
+     "syl": [
+      "ac",
+      "count",
+      "a",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the fact of being responsible for your decisions and having to explain them",
+     "ex": "Voters expect greater accountability from the officials who spend public money."
+    },
+    {
+     "w": "proportionate",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/prəˈpɔːrʃənət/",
+     "syl": [
+      "pro",
+      "por",
+      "tion",
+      "ate"
+     ],
+     "def": "correct in size or amount compared with something else; not excessive",
+     "ex": "The punishment should be proportionate to the seriousness of the mistake."
+    },
+    {
+     "w": "premature",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˌpriːməˈtʃʊr/",
+     "syl": [
+      "pre",
+      "ma",
+      "ture"
+     ],
+     "def": "happening or done too early, before the right time",
+     "ex": "It is premature to celebrate before all the votes have been counted."
+    },
+    {
+     "w": "outpace",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˌaʊtˈpeɪs/",
+     "syl": [
+      "out",
+      "pace"
+     ],
+     "def": "to go, grow or develop faster than someone or something",
+     "ex": "Demand for the new phone may outpace the factory's ability to make it."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"instrument\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "a device used for precise measurement",
+      "a formal legal agreement",
+      "a person used by others to gain power",
+      "an object used to play music"
+     ],
+     "a": 1,
+     "evidence": "working out a possible international instrument on lethal autonomous weapons systems",
+     "why": "In diplomacy an \"international instrument\" is a formal legal document such as a treaty; later paragraphs call it \"a legally binding instrument\" and a \"treaty\".",
+     "optWhy": [
+      "Wrong: another meaning of the word. Scientific instruments measure things, but countries are \"working out\" this instrument through talks, so it is a text, not a device.",
+      "Correct. \"international instrument\" = a formal legal agreement; paragraph 5 speaks of \"a legally binding instrument\" and paragraph 8 of \"a treaty\".",
+      "Wrong: another meaning of the word. A person can be \"an instrument\" of someone else, but no person is being described here.",
+      "Wrong: another meaning of the word. A musical instrument makes no sense in a sentence about rules for weapons."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "On 21 November 2026, the 128 countries at a United Nations arms-control conference agreed to spend the next two years working out a possible international instrument on lethal autonomous weapons systems, often nicknamed \"killer robots.\"",
+       "hl": "international instrument"
+      },
+      {
+       "para": 5,
+       "text": "Its executive director, Nicole van Rooijen, argued that \"delaying the creation of a legally binding instrument puts civilians and humanity at risk,\" pointing out that autonomous systems, including ones that use artificial intelligence to select targets, are already being used in combat.",
+       "hl": "a legally binding instrument"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"Instrument\" appears in paragraph 1 after \"working out a possible international\"."
+      },
+      {
+       "t": "Use the context",
+       "x": "Countries are negotiating it, and paragraph 5 calls it \"a legally binding instrument\", so it is a legal text."
+      },
+      {
+       "t": "Rule out other meanings",
+       "x": "Measuring devices, musical objects and people used by others do not fit a diplomatic agreement."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what has made progress on autonomous weapons difficult under the CCW?",
+     "opts": [
+      "The convention has never banned a weapon before it came into wide use.",
+      "Informal talks on the subject did not begin until 2026.",
+      "The treaty is allowed to cover only landmines and incendiary weapons.",
+      "A decision cannot be adopted unless every member state agrees."
+     ],
+     "a": 3,
+     "evidence": "its decisions require the agreement of every member state",
+     "why": "Paragraph 2 says progress \"has been held back\" because the convention's decisions need every member state's agreement.",
+     "optWhy": [
+      "Wrong: contradicts the text. The CCW \"banned blinding laser weapons before they were ever widely deployed\".",
+      "Wrong: detail swapped. The paragraph says \"Informal talks on the subject began in 2014\", not 2026.",
+      "Wrong: too narrow and not stated. Landmines and incendiary weapons are examples of past protocols, not a limit on what the treaty can cover.",
+      "Correct. \"its decisions require the agreement of every member state\" = a decision cannot be adopted unless every member agrees; this is what \"held back\" progress."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Informal talks on the subject began in 2014, but progress has been held back by one feature of the convention: its decisions require the agreement of every member state.",
+       "hl": "its decisions require the agreement of every member state"
+      },
+      {
+       "para": 2,
+       "text": "Over the years, the convention has produced protocols on landmines and incendiary weapons, and in 1995 it banned blinding laser weapons before they were ever widely deployed.",
+       "hl": "banned blinding laser weapons before they were ever widely deployed"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key words",
+       "x": "Look for \"progress\" in paragraph 2: \"progress has been held back by one feature\"."
+      },
+      {
+       "t": "Read what follows the colon",
+       "x": "The colon introduces the reason: decisions need the agreement of every member state."
+      },
+      {
+       "t": "Check the other details",
+       "x": "The dates and protocols mentioned are real details but do not answer \"what made progress difficult\"."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following happened during the talks EXCEPT:",
+     "opts": [
+      "The United States proposed replacing \"negotiate\" with \"elaborate.\"",
+      "Some formal sessions were canceled because of procedural objections.",
+      "Arguments over the wording of the text continued overnight.",
+      "A large group of countries called for legally binding rules."
+     ],
+     "a": 0,
+     "evidence": "Some delegations refused to accept the word \"negotiate,\"",
+     "why": "The paragraph says only that \"some delegations\" rejected the word \"negotiate\"; it never says the United States proposed the new word.",
+     "optWhy": [
+      "Correct (this is the EXCEPT answer). The text says \"Some delegations refused to accept the word 'negotiate'\" but does not name the United States as proposing \"elaborate\"; the US is only listed among states that opposed binding rules.",
+      "Wrong: this did happen. \"Russian objections over procedure led to some formal sessions being called off\" = sessions were canceled.",
+      "Wrong: this did happen. \"negotiators argued over wording through the night\" = arguments continued overnight.",
+      "Wrong: this did happen. \"Nearly 100 countries had pushed for the swift adoption of legally binding rules\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Some delegations refused to accept the word \"negotiate,\" so the agreed text speaks only of the \"elaboration\" of an instrument.",
+       "hl": "Some delegations refused"
+      },
+      {
+       "para": 3,
+       "text": "According to diplomats, Russian objections over procedure led to some formal sessions being called off, and negotiators argued over wording through the night.",
+       "hl": "some formal sessions being called off"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check each option",
+       "x": "For an EXCEPT question, find three options that are stated in paragraph 3."
+      },
+      {
+       "t": "Match the true ones",
+       "x": "Canceled sessions, overnight arguments and the call by nearly 100 countries are all in the text."
+      },
+      {
+       "t": "Spot the unsupported one",
+       "x": "The text says \"some delegations\", never that the United States proposed \"elaborate\"."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the \"accountability gap\"?",
+     "opts": [
+      "It appears only when weapons are produced by private manufacturers.",
+      "It proves that autonomous weapons make more mistakes than soldiers.",
+      "It exists because blame for a machine's error is hard to assign.",
+      "It has already been resolved by existing international humanitarian law."
+     ],
+     "a": 2,
+     "evidence": "it is unclear whether the programmer, the commander or the manufacturer should be held responsible",
+     "why": "If it is unclear which of several people is responsible, then blame cannot easily be assigned to one person — that is the gap.",
+     "optWhy": [
+      "Wrong: too narrow. The manufacturer is only one of three possible people (\"the programmer, the commander or the manufacturer\").",
+      "Wrong: not stated. Paragraph 6 gives one hypothetical error; paragraph 7 even says machines \"could even make fewer mistakes\".",
+      "Correct. \"it is unclear whether the programmer, the commander or the manufacturer should be held responsible\" = blame for a machine's error is hard to assign.",
+      "Wrong: borrowed from paragraph 7 and distorted. Some powers say existing law \"already applies to every weapon\", but nobody says the accountability problem is solved."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Opponents of autonomous weapons raise what they call the accountability gap: if an algorithm wrongly identifies a civilian truck as a military vehicle, it is unclear whether the programmer, the commander or the manufacturer should be held responsible.",
+       "hl": "it is unclear whether the programmer, the commander or the manufacturer should be held responsible"
+      },
+      {
+       "para": 7,
+       "text": "They argue that well-designed systems may react faster than people and could even make fewer mistakes than exhausted or frightened soldiers.",
+       "hl": "could even make fewer mistakes"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the term",
+       "x": "\"Accountability gap\" is defined right after the colon in paragraph 6."
+      },
+      {
+       "t": "Infer the idea",
+       "x": "Three possible people and \"it is unclear\" means responsibility cannot be pinned on one person."
+      },
+      {
+       "t": "Rule out distortions",
+       "x": "Check that the other options are either too narrow, unsupported or borrowed from paragraph 7."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 8,
+     "q": "Why does the author mention \"the landmine ban of 1997\" in paragraph 8?",
+     "opts": [
+      "To show that a treaty can shape behavior without every country joining",
+      "To argue that the CCW is the best place to negotiate any new weapons treaty",
+      "To predict that autonomous weapons will certainly be banned by the year 2028",
+      "To give an example of a weapon that was banned before it was widely used"
+     ],
+     "a": 0,
+     "evidence": "history shows that norms can spread even without universal support",
+     "why": "The landmine ban illustrates the claim just before it: norms can spread \"even without universal support\".",
+     "optWhy": [
+      "Correct. \"norms can spread even without universal support\" and the ban \"changed behavior, even among some countries that never signed it\" = a treaty can shape behavior without every country joining.",
+      "Wrong: contradicts the text. The landmine ban \"was negotiated outside the CCW\", so it does not show the CCW is the best place.",
+      "Wrong: too extreme. The paragraph says the outcome \"will depend largely on those reluctant states\"; nothing is certain.",
+      "Wrong: detail swapped. The weapon banned before wide use is blinding lasers in paragraph 2, not landmines."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "On the other hand, history shows that norms can spread even without universal support: the landmine ban of 1997 was negotiated outside the CCW and gradually changed behavior, even among some countries that never signed it.",
+       "hl": "norms can spread even without universal support"
+      },
+      {
+       "para": 2,
+       "text": "Over the years, the convention has produced protocols on landmines and incendiary weapons, and in 1995 it banned blinding laser weapons before they were ever widely deployed.",
+       "hl": "banned blinding laser weapons"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "The landmine ban follows a colon in paragraph 8."
+      },
+      {
+       "t": "Link it to the claim",
+       "x": "The sentence before the colon says norms can spread without universal support; the example proves that point."
+      },
+      {
+       "t": "Rule out swaps",
+       "x": "Blinding lasers (paragraph 2) and the CCW location are details that do not match the landmine example."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 3,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 3? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Outsiders understand diplomatic language better than diplomats, who often argue over trivial words.",
+      "Because negotiating has no clear goal, diplomats prefer elaborating, which leads straight to a signed treaty.",
+      "The two words differ only slightly, since both of them commit countries to signing a final agreement.",
+      "Though the words look alike, \"negotiate\" implies aiming for a deal; \"elaborate\" obliges no one to sign."
+     ],
+     "a": 3,
+     "evidence": "To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.",
+     "highlight": "To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.",
+     "why": "The sentence contrasts appearance (\"may look trivial\") with reality (\"it matters\") and explains the difference between the two words.",
+     "optWhy": [
+      "Wrong: changes the meaning. The sentence says the difference may \"look trivial\" to outsiders, not that outsiders understand diplomacy better.",
+      "Wrong: reverses the meaning. Negotiating \"implies an agreed destination\", and elaborating \"commits no one to signing anything\".",
+      "Wrong: contradicts the sentence. It says \"in diplomacy it matters\" and that elaborating commits no one to sign.",
+      "Correct. \"may look trivial, yet ... it matters\" = the words look alike but differ; \"implies an agreed destination\" = aiming for a deal; \"commits no one to signing anything\" = obliges no one to sign."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.",
+       "hl": "negotiating implies an agreed destination, whereas elaborating commits no one to signing anything"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: the difference looks trivial but matters; part 2: what each word implies."
+      },
+      {
+       "t": "Keep both contrasts",
+       "x": "The correct answer must keep \"looks small but matters\" and \"deal vs no obligation to sign\"."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "Discard options that reverse the meaning of the two words or say the difference does not matter."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Facts",
+     "fact": "On 21 November 2026, 128 countries at a UN conference in Geneva agreed to spend two years working on a possible instrument on lethal autonomous weapons.",
+     "q": "How long will the new process last?",
+     "opts": [
+      "Six months",
+      "Two years",
+      "Ten years",
+      "No time limit"
+     ],
+     "a": 1,
+     "id": "n20261122-1-k1"
+    },
+    {
+     "tag": "Rules",
+     "fact": "Decisions under the CCW need the agreement of every member state, which has slowed progress since talks began in 2014.",
+     "q": "Why has the CCW been slow to act?",
+     "opts": [
+      "It meets only once every ten years",
+      "Every member state must agree",
+      "Only weapons makers can vote"
+     ],
+     "a": 1,
+     "id": "n20261122-1-k2"
+    },
+    {
+     "tag": "Wording",
+     "fact": "Some states rejected \"negotiate\", so the text speaks of the \"elaboration\" of an instrument, which commits no one to signing.",
+     "q": "Which word appears in the agreed text?",
+     "opts": [
+      "negotiation",
+      "ratification",
+      "elaboration",
+      "prohibition"
+     ],
+     "a": 2,
+     "id": "n20261122-1-k3"
+    },
+    {
+     "tag": "Critics",
+     "fact": "Stop Killer Robots and Human Rights Watch called the mandate weak, warning that the technology is already being used in combat.",
+     "q": "How did campaigners react?",
+     "opts": [
+      "They called it watered down",
+      "They celebrated a total ban",
+      "They refused to comment"
+     ],
+     "a": 0,
+     "id": "n20261122-1-k4"
+    },
+    {
+     "tag": "Ethics",
+     "fact": "Opponents point to an accountability gap: when a machine makes a deadly mistake, it is unclear who is responsible.",
+     "q": "What is the \"accountability gap\"?",
+     "opts": [
+      "A lack of money for weapons",
+      "Unclear responsibility for a machine's mistake",
+      "A gap between two treaties"
+     ],
+     "a": 1,
+     "id": "n20261122-1-k5"
+    },
+    {
+     "tag": "Other side",
+     "fact": "Some major powers argue existing humanitarian law already covers all weapons and that early rules could freeze a developing technology.",
+     "q": "Why do some powers resist a new treaty?",
+     "opts": [
+      "They say existing law already applies",
+      "They want to ban all weapons",
+      "They have no armed forces"
+     ],
+     "a": 0,
+     "id": "n20261122-1-k6"
+    }
+   ],
+   "mindmap": {
+    "center": "Rules for killer robots",
+    "question": "Is a slow deal with everyone better than a fast deal without the big powers?",
+    "branches": [
+     {
+      "title": "The decision",
+      "paras": "1-2",
+      "blanks": [
+       "128 countries agree to two years",
+       "every member state must agree"
+      ],
+      "kps": [
+       "n20261122-1-k1",
+       "n20261122-1-k2"
+      ]
+     },
+     {
+      "title": "A weak wording",
+      "paras": "3-5",
+      "blanks": [
+       "elaboration instead of negotiation",
+       "campaigners call it watered down"
+      ],
+      "kps": [
+       "n20261122-1-k3",
+       "n20261122-1-k4"
+      ]
+     },
+     {
+      "title": "Against the weapons",
+      "paras": "6",
+      "blanks": [
+       "unclear who is responsible"
+      ],
+      "kps": [
+       "n20261122-1-k5"
+      ]
+     },
+     {
+      "title": "For going slowly",
+      "paras": "7-8",
+      "blanks": [
+       "existing law already applies",
+       "norms spread without universal support"
+      ],
+      "kps": [
+       "n20261122-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "a total ban takes effect immediately",
+     "the United States led the push for a treaty"
+    ]
+   },
+   "summary": {
+    "intro": "Countries meeting in Geneva have agreed to spend two years working toward rules on lethal autonomous weapons, but the deal is a compromise.",
+    "model": "Because the CCW requires every member to agree, 128 countries accepted only a weak two-year process to \"elaborate\" rules on autonomous weapons. However, while campaigners warn the technology is racing ahead, major powers argue existing law is enough, so the outcome depends on them.",
+    "options": [
+     {
+      "t": "Because the convention needs every member's agreement, opposition from major military powers produced a weaker text than many countries wanted.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "That rule shaped the final text.",
+      "why": "A main idea; see paragraphs 2-3."
+     },
+     {
+      "t": "Supporters see the outcome as proof that diplomacy still works, while campaigners say it gives no clear route to binding law.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Campaigners were far less impressed.",
+      "why": "A main idea; see paragraphs 4-5."
+     },
+     {
+      "t": "The debate reflects a deeper disagreement over whether machines should make life-and-death decisions and whether new rules are needed.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "a deeper disagreement about whether machines should ever make life-and-death decisions",
+      "why": "A main idea; see paragraphs 6-7."
+     },
+     {
+      "t": "Stop Killer Robots is a coalition of some 300 organizations.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "a coalition of some 300 organizations",
+      "why": "True, but only a minor detail."
+     },
+     {
+      "t": "Several countries announced that they would stop building autonomous weapons immediately.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The conference agreed on a legally binding treaty that bans all autonomous weapons.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "elaborating commits no one to signing anything",
+      "why": "Contradicts the passage: no binding treaty was agreed."
+     }
+    ]
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261122-2",
+   "topic": "Space",
+   "title": "Scientists Turn Moon Dust into LEGO-Like Bricks",
+   "dek": "Engineers have fused simulated lunar dust into small interlocking blocks without any glue from Earth, but is this a real step toward Moon bases or just a clever laboratory trick?",
+   "sources": [
+    {
+     "name": "ScienceDaily (University of Arkansas), 20 Nov 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    },
+    {
+     "name": "University of Arkansas News, 10 Nov 2026",
+     "url": "https://news.uark.edu/articles/83229/researchers-turn-moon-dust-into-lego-like-blocks-for-settlements"
+    }
+   ],
+   "paras": [
+    "When astronauts return to the Moon in the coming years, they will face a problem familiar to anyone who has ever moved to a new home: everything they need must be carried there, and carrying is expensive. Every kilogram of equipment launched from Earth adds enormously to the cost of a mission, so space agencies are keen to find ways of building with materials that are already on the Moon. A new study from the University of Arkansas, published in the journal npj Advanced Manufacturing, suggests that lunar dust itself could one day be turned into small, interlocking building blocks.",
+    "The idea of using local resources, known as in-situ resource utilization, is not new. Engineers have long imagined extracting water from lunar ice, oxygen from lunar rock and construction material from regolith, the layer of loose dust and broken rock that covers the Moon's surface. Regolith is abundant, but it is also an awkward material. Because the Moon has no wind or flowing water to wear particles down, its grains remain sharp and irregular, and they contain no organic matter that might help them stick together.",
+    "Earlier attempts to 3D-print with regolith typically mixed the dust with a binder, a glue-like substance that holds the particles together. The drawback is obvious: the binder itself would have to be transported from Earth, which undermines the whole point of using local material. The Arkansas team, led by Cole McCallum, who carried out the work as an undergraduate, and his supervisor, assistant professor of mechanical engineering Wan Shou, set out to remove the binder altogether.",
+    "To do so, they used a technique called laser powder bed fusion. A thin layer of powder is spread across a platform, and a concentrated beam of light fuses the particles where a solid part is needed. The platform then lowers slightly, a fresh layer is added, and the process repeats until a three-dimensional object emerges. Because real Moon dust is scarce and precious, the researchers worked with a commercially available simulant designed to resemble samples brought back by the Apollo missions. \"There's nothing else it's binding to,\" McCallum explained. \"The regolith powder is binding to itself.\"",
+    "The result was a set of small blocks, only a few centimeters across, shaped like crosses and the letter H. Like toy construction bricks, they can be slotted together and taken apart again, so a single set of pieces could, in principle, be reconfigured into different structures as a settlement's needs change. According to the researchers, this is the first time a regolith simulant has been fused directly into interlocking, reconfigurable blocks without any binder.",
+    "Yet the team is candid about the limitations. Compared with parts printed using binders, the binder-free blocks contain more internal pores and are structurally weaker. \"These structures we're making can be self-supported,\" McCallum said, but he added that he \"would be hesitant to say our process could be used for something that's supporting other loads at this moment yet.\" Nor does anyone yet know how the process will behave in the Moon's low gravity and near-vacuum, conditions that are very difficult to reproduce in a laboratory on Earth. Shou has said that improving the blocks' strength and durability is the next priority.",
+    "Not everyone is convinced that such bricks represent the most practical route to a lunar base. Skeptics point out that powerful lasers demand a reliable energy supply, which is itself scarce on the Moon, and that printing a whole habitat one small block at a time could be painfully slow. Some engineers favor simpler approaches, such as shipping inflatable or prefabricated modules and then covering them with loose regolith to shield astronauts from radiation. Supporters reply that every technology looks impractical at first, and that reconfigurable blocks could prove valuable for smaller tasks, such as building walls, landing pads or replacement parts.",
+    "Ultimately, the study is best seen as an early proof of concept rather than a finished solution. It shows that lunar dust can be persuaded to bond to itself, but turning palm-sized pieces into safe, load-bearing buildings will require years of further testing. Still, if humans are ever to live on the Moon for long periods, they will need to make far more of what they use from what they find there, and research like this is a small but meaningful step in that direction."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Every kilogram of equipment launched from Earth adds enormously to the cost of a mission, so space agencies are keen to find ways of building with materials that are already on the Moon.",
+     "kind": "Cause → effect",
+     "note": "\"So\" links high launch costs to the search for local materials, the background for the whole article."
+    },
+    {
+     "para": 3,
+     "text": "The drawback is obvious: the binder itself would have to be transported from Earth, which undermines the whole point of using local material.",
+     "kind": "Key details",
+     "note": "Explains the problem the new study tries to solve; factual questions often target sentences with \"drawback\"."
+    },
+    {
+     "para": 5,
+     "text": "According to the researchers, this is the first time a regolith simulant has been fused directly into interlocking, reconfigurable blocks without any binder.",
+     "kind": "Main idea",
+     "note": "States the study's main claim; note the attribution \"According to the researchers\"."
+    },
+    {
+     "para": 6,
+     "text": "Compared with parts printed using binders, the binder-free blocks contain more internal pores and are structurally weaker.",
+     "kind": "Hedging",
+     "note": "A clear limitation; inference questions often test whether you notice weaknesses the authors admit."
+    },
+    {
+     "para": 7,
+     "text": "Not everyone is convinced that such bricks represent the most practical route to a lunar base.",
+     "kind": "Topic sentence",
+     "note": "Signals the opposing view; useful for summary and rhetorical-purpose questions."
+    },
+    {
+     "para": 8,
+     "text": "Ultimately, the study is best seen as an early proof of concept rather than a finished solution.",
+     "kind": "Author's view",
+     "note": "The author's final judgment; \"Ultimately\" often introduces the writer's own conclusion."
+    }
+   ],
+   "speak": {
+    "p": "Some people think space agencies should invest in new technologies for building on the Moon. Others believe the money would be better spent solving problems on Earth. Which view do you agree with, and why?",
+    "hint": "Choose one side; give two reasons (e.g., long-term benefits vs urgent needs) and one example from the article; end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Chen: Engineers have used lasers to turn simulated Moon dust into small interlocking blocks without any glue from Earth. The blocks are still weak, and no one knows how the process will work on the Moon. Should universities and governments fund early-stage research like this, even when practical results may be many years away? Why or why not?\nLucas: \"Yes. Almost every major technology started as a small experiment. If we only fund research that already works, we will never discover anything new.\"\nMia: \"I'm not convinced. Research money is limited, and projects with clearer, faster benefits, such as better batteries or medical tools, should come first.\"",
+    "steps": [
+     "State whether you support funding early-stage research.",
+     "Respond to Lucas or Mia and add a new reason.",
+     "Use an example, such as the Moon dust blocks.",
+     "End with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "regolith",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈreɡəlɪθ/",
+     "syl": [
+      "reg",
+      "o",
+      "lith"
+     ],
+     "def": "the layer of loose dust, soil and broken rock that covers solid rock on a planet or moon",
+     "ex": "The rover's wheels left deep tracks in the soft regolith."
+    },
+    {
+     "w": "abundant",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/əˈbʌndənt/",
+     "syl": [
+      "a",
+      "bun",
+      "dant"
+     ],
+     "def": "existing in large quantities; more than enough",
+     "ex": "Fresh fruit is abundant in the local market during the summer."
+    },
+    {
+     "w": "undermine",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌʌndərˈmaɪn/",
+     "syl": [
+      "un",
+      "der",
+      "mine"
+     ],
+     "def": "to make something weaker or less effective, often gradually",
+     "ex": "Constant criticism can undermine a student's confidence."
+    },
+    {
+     "w": "simulant",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈsɪmjələnt/",
+     "syl": [
+      "sim",
+      "u",
+      "lant"
+     ],
+     "def": "a material made to copy the properties of a real substance, used for testing",
+     "ex": "Engineers tested the drill on a Mars soil simulant before the mission."
+    },
+    {
+     "w": "scarce",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/skers/",
+     "syl": [
+      "scarce"
+     ],
+     "def": "available only in small amounts and not enough for what is needed",
+     "ex": "Clean water is scarce in many dry regions of the world."
+    },
+    {
+     "w": "reconfigure",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˌriːkənˈfɪɡjər/",
+     "syl": [
+      "re",
+      "con",
+      "fig",
+      "ure"
+     ],
+     "def": "to arrange the parts of something in a different way",
+     "ex": "The teacher decided to reconfigure the desks into small groups."
+    },
+    {
+     "w": "candid",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈkændɪd/",
+     "syl": [
+      "can",
+      "did"
+     ],
+     "def": "honest and direct, even about things that are uncomfortable",
+     "ex": "The coach gave a candid assessment of the team's weaknesses."
+    },
+    {
+     "w": "durability",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌdʊrəˈbɪləti/",
+     "syl": [
+      "du",
+      "ra",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the ability to last a long time without breaking or wearing out",
+     "ex": "Customers often choose hiking boots for their durability rather than their style."
+    },
+    {
+     "w": "prefabricated",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˌpriːˈfæbrɪkeɪtɪd/",
+     "syl": [
+      "pre",
+      "fab",
+      "ri",
+      "cat",
+      "ed"
+     ],
+     "def": "made in sections in a factory so that it can be put together quickly somewhere else",
+     "ex": "After the earthquake, families moved into prefabricated houses."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"awkward\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "embarrassing in a social situation",
+      "rare and hard to find",
+      "difficult to deal with",
+      "unattractive to look at"
+     ],
+     "a": 2,
+     "evidence": "Regolith is abundant, but it is also an awkward material.",
+     "why": "The next sentence explains why regolith is hard to work with: its grains are sharp and irregular and do not stick together.",
+     "optWhy": [
+      "Wrong: another meaning of the word. People feel \"awkward\" in social situations, but a material cannot be embarrassed.",
+      "Wrong: contradicts the text. The same sentence says regolith is \"abundant\", the opposite of rare.",
+      "Correct. \"an awkward material\" = difficult to deal with; the next sentence explains that its grains \"remain sharp and irregular\" and do not \"stick together\".",
+      "Wrong: not the point. The problems described are about how the material behaves, not how it looks."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Regolith is abundant, but it is also an awkward material.",
+       "hl": "an awkward material"
+      },
+      {
+       "para": 2,
+       "text": "Because the Moon has no wind or flowing water to wear particles down, its grains remain sharp and irregular, and they contain no organic matter that might help them stick together.",
+       "hl": "sharp and irregular"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"Awkward\" describes regolith in paragraph 2, right after \"abundant, but\"."
+      },
+      {
+       "t": "Read the next sentence",
+       "x": "It explains the problem: sharp, irregular grains that do not stick together."
+      },
+      {
+       "t": "Choose the fitting meaning",
+       "x": "Only \"difficult to deal with\" matches a material that is hard to build with."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, what was the main drawback of earlier regolith-printing methods?",
+     "opts": [
+      "They relied on a substance that would need to be shipped from Earth.",
+      "They could print only blocks shaped like crosses and the letter H.",
+      "They required real Moon dust, which is too precious to use.",
+      "They were developed by students rather than by experienced scientists."
+     ],
+     "a": 0,
+     "evidence": "the binder itself would have to be transported from Earth",
+     "why": "Earlier methods used a binder, and \"the binder itself would have to be transported from Earth\", which defeats the purpose of local materials.",
+     "optWhy": [
+      "Correct. \"the binder itself would have to be transported from Earth\" = relied on a substance that would need to be shipped from Earth.",
+      "Wrong: detail swapped. Crosses and H shapes describe the new blocks in paragraph 5, not earlier methods.",
+      "Wrong: detail swapped. Paragraph 4 says the new team used a simulant because real Moon dust is \"scarce and precious\"; this is not a drawback of earlier methods.",
+      "Wrong: not mentioned. The text says McCallum did the new work \"as an undergraduate\"; nothing is said about who developed earlier methods."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "The drawback is obvious: the binder itself would have to be transported from Earth, which undermines the whole point of using local material.",
+       "hl": "the binder itself would have to be transported from Earth"
+      },
+      {
+       "para": 4,
+       "text": "Because real Moon dust is scarce and precious, the researchers worked with a commercially available simulant designed to resemble samples brought back by the Apollo missions.",
+       "hl": "real Moon dust is scarce and precious"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key word",
+       "x": "Paragraph 3 uses the word \"drawback\" directly: \"The drawback is obvious:\"."
+      },
+      {
+       "t": "Read after the colon",
+       "x": "The binder would have to be transported from Earth."
+      },
+      {
+       "t": "Check paragraph sources",
+       "x": "Shapes and simulants come from paragraphs 4-5 and describe the new study, not earlier ones."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are part of the laser powder bed fusion process EXCEPT:",
+     "opts": [
+      "A thin layer of powder is spread across a platform.",
+      "A glue-like substance is added to each new layer.",
+      "The platform is lowered slightly after each layer.",
+      "A concentrated beam of light joins particles together."
+     ],
+     "a": 1,
+     "evidence": "A thin layer of powder is spread across a platform, and a concentrated beam of light fuses the particles where a solid part is needed.",
+     "why": "The process described uses only powder and light; the whole aim was to avoid any binder.",
+     "optWhy": [
+      "Wrong: this is part of the process. \"A thin layer of powder is spread across a platform\".",
+      "Correct (this is the EXCEPT answer). No glue is added; the team \"set out to remove the binder altogether\", and McCallum says the powder is \"binding to itself\".",
+      "Wrong: this is part of the process. \"The platform then lowers slightly, a fresh layer is added\".",
+      "Wrong: this is part of the process. \"a concentrated beam of light fuses the particles\"."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "A thin layer of powder is spread across a platform, and a concentrated beam of light fuses the particles where a solid part is needed.",
+       "hl": "a concentrated beam of light fuses the particles"
+      },
+      {
+       "para": 4,
+       "text": "The platform then lowers slightly, a fresh layer is added, and the process repeats until a three-dimensional object emerges.",
+       "hl": "The platform then lowers slightly"
+      },
+      {
+       "para": 3,
+       "text": "The Arkansas team, led by Cole McCallum, who carried out the work as an undergraduate, and his supervisor, assistant professor of mechanical engineering Wan Shou, set out to remove the binder altogether.",
+       "hl": "remove the binder altogether"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the steps",
+       "x": "Paragraph 4 describes: spread powder, fuse with light, lower platform, add a new layer."
+      },
+      {
+       "t": "Match three options",
+       "x": "Options A, C and D each match one of those steps."
+      },
+      {
+       "t": "Find the odd one out",
+       "x": "Adding glue contradicts the team's goal to remove the binder (paragraph 3)."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 6,
+     "q": "What can be inferred from paragraph 6 about the binder-free blocks?",
+     "opts": [
+      "They are already strong enough to support a small lunar habitat.",
+      "They performed better than binder-based parts in strength tests.",
+      "They have been tested successfully in the Moon's low gravity.",
+      "Their behavior on the Moon cannot yet be predicted from lab tests."
+     ],
+     "a": 3,
+     "evidence": "Nor does anyone yet know how the process will behave in the Moon's low gravity and near-vacuum",
+     "why": "Moon conditions are \"very difficult to reproduce in a laboratory\", so lab results cannot yet tell us how the process will behave there.",
+     "optWhy": [
+      "Wrong: contradicts the text. McCallum is \"hesitant\" to say the blocks can support other loads.",
+      "Wrong: reverses the comparison. The binder-free blocks \"are structurally weaker\" than parts printed with binders.",
+      "Wrong: not stated and contradicted. No one \"yet know[s]\" how the process works in low gravity, so it has not been tested there.",
+      "Correct. \"Nor does anyone yet know how the process will behave in the Moon's low gravity\" + conditions are \"very difficult to reproduce in a laboratory\" = lab tests cannot yet predict Moon behavior."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Nor does anyone yet know how the process will behave in the Moon's low gravity and near-vacuum, conditions that are very difficult to reproduce in a laboratory on Earth.",
+       "hl": "very difficult to reproduce in a laboratory on Earth"
+      },
+      {
+       "para": 6,
+       "text": "Compared with parts printed using binders, the binder-free blocks contain more internal pores and are structurally weaker.",
+       "hl": "structurally weaker"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the limits",
+       "x": "Paragraph 6 lists the blocks' limitations, starting with \"Yet the team is candid\"."
+      },
+      {
+       "t": "Combine two facts",
+       "x": "No one knows how it works in low gravity, and those conditions are hard to copy in a lab."
+      },
+      {
+       "t": "Rule out contradictions",
+       "x": "The blocks are weaker, not stronger, and have not been tested on the Moon."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author compare a Moon mission to moving to a new home in paragraph 1?",
+     "opts": [
+      "To suggest that astronauts should take fewer personal belongings",
+      "To illustrate the problem of transporting everything to a new place",
+      "To argue that moving home costs as much as a space mission",
+      "To show that lunar bases will one day be built by ordinary families"
+     ],
+     "a": 1,
+     "evidence": "everything they need must be carried there, and carrying is expensive",
+     "why": "The comparison makes a familiar problem — carrying everything you need — help readers understand why building with local materials matters.",
+     "optWhy": [
+      "Wrong: too literal. The comparison is about the cost of carrying equipment, not about personal belongings.",
+      "Correct. \"everything they need must be carried there, and carrying is expensive\" = the problem of transporting everything to a new place.",
+      "Wrong: too extreme. The author compares the type of problem, not the amount of money.",
+      "Wrong: not mentioned. Nothing in the passage says families will build lunar bases."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "When astronauts return to the Moon in the coming years, they will face a problem familiar to anyone who has ever moved to a new home: everything they need must be carried there, and carrying is expensive.",
+       "hl": "everything they need must be carried there, and carrying is expensive"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "Paragraph 1 links astronauts with \"anyone who has ever moved to a new home\"."
+      },
+      {
+       "t": "Read after the colon",
+       "x": "The shared problem: everything must be carried, and carrying is expensive."
+      },
+      {
+       "t": "Think about purpose",
+       "x": "Comparisons usually make an unfamiliar idea easier to understand; they are not literal advice."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Years of testing have shown that small pieces of lunar dust can already form safe buildings.",
+      "Because lunar dust bonds to itself, safe buildings can be made without any more testing.",
+      "The study shows lunar dust can bond to itself, but strong buildings need much more testing.",
+      "Lunar dust must first bond with other materials before it can form strong, safe buildings."
+     ],
+     "a": 2,
+     "evidence": "It shows that lunar dust can be persuaded to bond to itself, but turning palm-sized pieces into safe, load-bearing buildings will require years of further testing.",
+     "highlight": "It shows that lunar dust can be persuaded to bond to itself, but turning palm-sized pieces into safe, load-bearing buildings will require years of further testing.",
+     "why": "The sentence has two parts: what the study shows (dust bonds to itself) and what is still needed (years of testing before real buildings).",
+     "optWhy": [
+      "Wrong: changes the meaning. The years of testing are still needed in the future (\"will require\"); they have not already happened.",
+      "Wrong: contradicts the sentence. It says buildings \"will require years of further testing\".",
+      "Correct. \"can be persuaded to bond to itself\" = can bond to itself; \"will require years of further testing\" = much testing is needed; \"safe, load-bearing buildings\" = strong buildings.",
+      "Wrong: contradicts the passage. The dust bonds \"to itself\", without any other material or binder."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "It shows that lunar dust can be persuaded to bond to itself, but turning palm-sized pieces into safe, load-bearing buildings will require years of further testing.",
+       "hl": "will require years of further testing"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Before \"but\": what the study proved; after \"but\": what remains to be done."
+      },
+      {
+       "t": "Keep both halves",
+       "x": "The answer must keep \"bonds to itself\" and \"years of further testing\"."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "Remove options that say testing is finished, unnecessary, or that other materials are needed."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Why",
+     "fact": "Launching material from Earth is very expensive, so agencies want to build with resources already on the Moon (in-situ resource utilization).",
+     "q": "Why build with Moon dust?",
+     "opts": [
+      "It is stronger than steel",
+      "Carrying materials from Earth is expensive",
+      "Astronauts like the color"
+     ],
+     "a": 1,
+     "id": "n20261122-2-k1"
+    },
+    {
+     "tag": "Problem",
+     "fact": "Earlier regolith printing used a binder that would have to be shipped from Earth.",
+     "q": "What was the problem with earlier methods?",
+     "opts": [
+      "They needed a binder from Earth",
+      "They used real Moon dust",
+      "They were too fast"
+     ],
+     "a": 0,
+     "id": "n20261122-2-k2"
+    },
+    {
+     "tag": "Method",
+     "fact": "The Arkansas team used laser powder bed fusion to fuse a lunar dust simulant into blocks without any binder.",
+     "q": "What technique did the team use?",
+     "opts": [
+      "Injection molding",
+      "Laser powder bed fusion",
+      "Hand carving",
+      "Concrete casting"
+     ],
+     "a": 1,
+     "id": "n20261122-2-k3"
+    },
+    {
+     "tag": "Result",
+     "fact": "The blocks are a few centimeters across, shaped like crosses and H's, and can be reconfigured like toy bricks.",
+     "q": "What shapes were the blocks?",
+     "opts": [
+      "Cubes and spheres",
+      "Crosses and the letter H",
+      "Triangles and stars"
+     ],
+     "a": 1,
+     "id": "n20261122-2-k4"
+    },
+    {
+     "tag": "Limits",
+     "fact": "The binder-free blocks are more porous and weaker, and their behavior in low gravity and vacuum is unknown.",
+     "q": "What is a limitation of the blocks?",
+     "opts": [
+      "They are too heavy",
+      "They are weaker than binder-based parts",
+      "They melt in sunlight"
+     ],
+     "a": 1,
+     "id": "n20261122-2-k5"
+    },
+    {
+     "tag": "Debate",
+     "fact": "Skeptics question energy needs and speed, while supporters see uses for walls, landing pads and spare parts.",
+     "q": "What do skeptics worry about?",
+     "opts": [
+      "Energy supply and slow printing",
+      "The color of the blocks",
+      "Too many astronauts"
+     ],
+     "a": 0,
+     "id": "n20261122-2-k6"
+    }
+   ],
+   "mindmap": {
+    "center": "Moon dust bricks",
+    "question": "Is this a real step toward Moon bases?",
+    "branches": [
+     {
+      "title": "Why local materials",
+      "paras": "1-2",
+      "blanks": [
+       "carrying from Earth is expensive",
+       "sharp, irregular regolith grains"
+      ],
+      "kps": [
+       "n20261122-2-k1"
+      ]
+     },
+     {
+      "title": "No binder",
+      "paras": "3-4",
+      "blanks": [
+       "binder must come from Earth",
+       "laser powder bed fusion"
+      ],
+      "kps": [
+       "n20261122-2-k2",
+       "n20261122-2-k3"
+      ]
+     },
+     {
+      "title": "Blocks and limits",
+      "paras": "5-6",
+      "blanks": [
+       "crosses and H shapes",
+       "more porous and weaker"
+      ],
+      "kps": [
+       "n20261122-2-k4",
+       "n20261122-2-k5"
+      ]
+     },
+     {
+      "title": "The debate",
+      "paras": "7-8",
+      "blanks": [
+       "lasers need scarce energy",
+       "an early proof of concept"
+      ],
+      "kps": [
+       "n20261122-2-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "tested successfully on the Moon",
+     "stronger than binder-based bricks"
+    ]
+   },
+   "summary": {
+    "intro": "Researchers at the University of Arkansas have 3D-printed small interlocking blocks from simulated Moon dust without using any binder.",
+    "model": "Because shipping materials from Earth is costly, the team used lasers to fuse simulated lunar dust into reconfigurable blocks without a binder. However, the blocks are weaker and untested on the Moon, so the study is an early proof of concept rather than a solution.",
+    "options": [
+     {
+      "t": "Building with materials found on the Moon could cut costs, but earlier printing methods depended on binders brought from Earth.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "the binder itself would have to be transported from Earth",
+      "why": "A main idea; see paragraphs 1-3."
+     },
+     {
+      "t": "Using lasers, the team fused a lunar dust simulant into interlocking blocks that can be taken apart and rearranged.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "they can be slotted together and taken apart again",
+      "why": "A main idea; see paragraphs 4-5."
+     },
+     {
+      "t": "The blocks are still weak and untested in lunar conditions, and some experts doubt that this is the most practical approach.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Not everyone is convinced that such bricks represent the most practical route to a lunar base.",
+      "why": "A main idea; see paragraphs 6-7."
+     },
+     {
+      "t": "The simulant was designed to resemble samples brought back by the Apollo missions.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "designed to resemble samples brought back by the Apollo missions",
+      "why": "True, but only a minor detail."
+     },
+     {
+      "t": "NASA has already chosen the blocks to build its first lunar base.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The binder-free blocks proved stronger than parts printed with binders.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "are structurally weaker",
+      "why": "Contradicts the passage: they are weaker."
+     }
+    ]
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261122-3",
+   "topic": "Animals",
+   "title": "The Wildlife Trade Is Far Bigger Than Anyone Thought",
+   "dek": "A new count finds almost 80,000 species in international trade, most of it legal and poorly recorded, so who should be responsible for tracking it: governments, companies or shoppers?",
+   "sources": [
+    {
+     "name": "Earth.com (Science Advances study), 21 Nov 2026",
+     "url": "https://www.earth.com/animals/the-wildlife-trade-is-bigger-than-previously-thought-with-nearly-80000-species-and-counting/"
+    }
+   ],
+   "paras": [
+    "From aquarium fish and potted orchids to timber, medicinal plants and exotic pets, wild species pass through human hands on a vast scale. Until now, scientists believed that roughly 50,000 species were involved in international trade. A new study published in Science Advances suggests that figure was a serious underestimate. Led by Alice Hughes of the University of Melbourne, with co-authors from organizations including TRAFFIC, the International Union for Conservation of Nature (IUCN) and the UN's Food and Agriculture Organization (FAO), the research identifies 79,554 species in international trade, and the true number is probably higher still.",
+    "To reach this figure, the team combined information from a wide range of sources: the trade database of CITES, the international treaty that has regulated trade in protected species since 1975; the IUCN Red List of threatened species; United Nations records on fish and timber; seizure reports collected by TRAFFIC; and import records from the United States. They also searched for national wildlife-trade databases in 30 languages across 61 countries. When subsistence and other local uses were added, the total rose to 107,356 species, of which 47,685 were animals and 59,671 were plants and fungi.",
+    "Some of the individual findings are striking. Up to 31,306 vertebrate species, about 42 percent of all described vertebrates, have been traded. Around 65 percent of living bird species and roughly 37 percent of reptile species appear in trade, yet CITES covers only about 9.5 percent of reptile species. Where population data exist, the researchers found that wild populations from which animals are collected are, on average, 50 to 60 percent smaller than populations that are left alone.",
+    "The financial stakes are equally large. Legal wildlife trade is estimated to be worth between 220 and 300 billion US dollars a year, while illegal trade is thought to be worth 28 to 40 billion dollars. In other words, the legal market is roughly six to eleven times bigger than the black market that tends to attract headlines. This does not mean that the illegal trade is unimportant, nor that the legal trade is harmless. The lesson, rather, is that a trade this large, if it is poorly recorded, can drain wild populations without anyone noticing.",
+    "Poor recording is, in fact, the study's central concern. Almost no country systematically records what it buys and sells. \"The United States is the only country that systematically records and publicly shares trade data across a wide range of taxa,\" Hughes noted. As a result, more than a quarter of traded animal species, and 54 percent of traded mammals, appear only in US records. Online sales make matters worse, because parcels sent by post are often not identified to the species level at the border. Even seizure data are imperfect, since they reflect how hard officials are looking as much as how much smuggling actually occurs.",
+    "The researchers argue that this gap matters for global conservation goals. The current global biodiversity framework includes a target on trade, but its main measure, the share of fish stocks harvested at sustainable levels, reflects only a tiny fraction of the species in trade. According to Hughes, it \"misses the other 97 percent.\" Without better data on other groups, she argues, the trade simply \"can't be managed.\"",
+    "Their proposed solutions are practical rather than dramatic. Instead of creating new institutions, they suggest standardizing how trade data are collected, starting at a regional level, possibly with the European Union as a first model. Since almost every country already carries out customs and animal-health checks on imports, shipping invoices could be digitized and matched against a list of species. Critics might respond that such systems are costly for poorer countries, and that traders could simply mislabel shipments. Supporters, however, note that similar tracking already works for livestock: in the United Kingdom, for example, sheep have been required to carry electronic tags since 2009.",
+    "Finally, the study turns attention to consumers. Pets, plants and wildlife products are bought by ordinary people, often without any idea of where they come from. \"Almost all of us are part of wildlife trade,\" Hughes observed, and her advice is simple: if you are not sure where a product comes from, do not buy it. Not everyone agrees that individual choices can solve a global problem, since governments and large companies control most of the trade. Yet better information, for officials and shoppers alike, seems a necessary first step toward ensuring that the wild species we use today are still around tomorrow."
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new study published in Science Advances suggests that figure was a serious underestimate.",
+     "kind": "Main idea",
+     "note": "The thesis of the article; main-idea questions usually point back to this sentence."
+    },
+    {
+     "para": 3,
+     "text": "Around 65 percent of living bird species and roughly 37 percent of reptile species appear in trade, yet CITES covers only about 9.5 percent of reptile species.",
+     "kind": "Key details",
+     "note": "\"Yet\" sets up a contrast between how many reptiles are traded and how few are protected, a common TOEFL detail target."
+    },
+    {
+     "para": 4,
+     "text": "In other words, the legal market is roughly six to eleven times bigger than the black market that tends to attract headlines.",
+     "kind": "Interpretation",
+     "note": "\"In other words\" restates the numbers in a simpler way; it often signals a key point."
+    },
+    {
+     "para": 5,
+     "text": "Poor recording is, in fact, the study's central concern.",
+     "kind": "Topic sentence",
+     "note": "Identifies the article's main problem; summary questions often build on this sentence."
+    },
+    {
+     "para": 7,
+     "text": "Their proposed solutions are practical rather than dramatic.",
+     "kind": "Author's view",
+     "note": "The author's evaluation of the proposals; useful for questions about attitude or purpose."
+    },
+    {
+     "para": 8,
+     "text": "Not everyone agrees that individual choices can solve a global problem, since governments and large companies control most of the trade.",
+     "kind": "Critical thinking",
+     "note": "Presents an opposing view with a reason (\"since\"), adding balance to the conclusion."
+    }
+   ],
+   "speak": {
+    "p": "Some people believe that protecting wild species depends mainly on governments and strict laws. Others think that ordinary consumers can make the biggest difference through what they choose to buy. Which view do you agree with, and why?",
+    "hint": "Choose one side; give two reasons and one example from the article (e.g., US trade records or Hughes's advice); end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: A new study finds that almost 80,000 species are traded internationally, and most of this trade is legal but poorly recorded. The authors call for better data and urge consumers not to buy products of unknown origin. Who should take the main responsibility for making the wildlife trade sustainable: governments or individual consumers? Why?\nOlivia: \"Governments. Only they can make countries record trade data and check shipments at the border. Individual shoppers cannot see where a fish or plant really came from.\"\nEthan: \"Consumers matter more. If people stop buying exotic pets and products with unclear origins, companies will change their supply chains quickly, much faster than new laws are passed.\"",
+    "steps": [
+     "State who should take the main responsibility.",
+     "Respond to Olivia or Ethan and add a new reason.",
+     "Support your view with a detail from the study.",
+     "End with a short concluding sentence."
+    ],
+    "minWords": 120
+   },
+   "words": [
+    {
+     "w": "underestimate",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌʌndərˈestɪmət/",
+     "syl": [
+      "un",
+      "der",
+      "es",
+      "ti",
+      "mate"
+     ],
+     "def": "a guess or calculation that is too low",
+     "ex": "The official figure of ten thousand visitors turned out to be a big underestimate."
+    },
+    {
+     "w": "subsistence",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/səbˈsɪstəns/",
+     "syl": [
+      "sub",
+      "sis",
+      "tence"
+     ],
+     "def": "the state of having just enough food or money to stay alive, often by producing it yourself",
+     "ex": "Many families in the valley still rely on subsistence farming."
+    },
+    {
+     "w": "vertebrate",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈvɜːrtɪbrət/",
+     "syl": [
+      "ver",
+      "te",
+      "brate"
+     ],
+     "def": "an animal with a backbone, such as a fish, bird, reptile or mammal",
+     "ex": "A frog is a vertebrate, but a jellyfish is not."
+    },
+    {
+     "w": "striking",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈstraɪkɪŋ/",
+     "syl": [
+      "strik",
+      "ing"
+     ],
+     "def": "very noticeable or surprising, so that it attracts attention",
+     "ex": "There is a striking difference between the two cities' air quality."
+    },
+    {
+     "w": "stake",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/steɪk/",
+     "syl": [
+      "stake"
+     ],
+     "def": "(usually plural) what can be gained or lost in a situation",
+     "ex": "With the championship at stake, both teams played carefully."
+    },
+    {
+     "w": "smuggle",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈsmʌɡəl/",
+     "syl": [
+      "smug",
+      "gle"
+     ],
+     "def": "to take goods or animals into or out of a country illegally or secretly",
+     "ex": "The man tried to smuggle rare birds' eggs through the airport."
+    },
+    {
+     "w": "standardize",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈstændərdaɪz/",
+     "syl": [
+      "stan",
+      "dard",
+      "ize"
+     ],
+     "def": "to make things of the same type follow the same rules or form",
+     "ex": "The schools agreed to standardize their exam schedules."
+    },
+    {
+     "w": "digitize",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈdɪdʒɪtaɪz/",
+     "syl": [
+      "dig",
+      "i",
+      "tize"
+     ],
+     "def": "to change documents or images into a digital form that a computer can use",
+     "ex": "The museum plans to digitize its entire collection of old maps."
+    },
+    {
+     "w": "sustainable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/səˈsteɪnəbəl/",
+     "syl": [
+      "sus",
+      "tain",
+      "a",
+      "ble"
+     ],
+     "def": "able to continue for a long time without damaging the environment or running out",
+     "ex": "The village switched to a more sustainable way of fishing."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"striking\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "hitting something with force",
+      "attractive in appearance",
+      "refusing to work as a protest",
+      "very noticeable or surprising"
+     ],
+     "a": 3,
+     "evidence": "Some of the individual findings are striking.",
+     "why": "The sentences that follow give surprising figures (42 percent of vertebrates, 65 percent of birds), so \"striking\" means noticeable or surprising.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Strike\" can mean to hit, but findings cannot hit anything.",
+      "Wrong: another meaning of the word. A \"striking\" person may be good-looking, but numbers are not described by appearance.",
+      "Wrong: another meaning of the word. Workers \"on strike\" refuse to work; this has nothing to do with research findings.",
+      "Correct. \"findings are striking\" = very noticeable or surprising; the paragraph then lists surprising figures such as \"about 42 percent of all described vertebrates\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Some of the individual findings are striking.",
+       "hl": "striking"
+      },
+      {
+       "para": 3,
+       "text": "Up to 31,306 vertebrate species, about 42 percent of all described vertebrates, have been traded.",
+       "hl": "about 42 percent of all described vertebrates"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"Striking\" is in the first sentence of paragraph 3 and describes \"findings\"."
+      },
+      {
+       "t": "Read the examples",
+       "x": "The next sentences give surprising numbers about vertebrates, birds and reptiles."
+      },
+      {
+       "t": "Choose the context meaning",
+       "x": "Only \"very noticeable or surprising\" can describe research findings."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, how did the researchers arrive at their total?",
+     "opts": [
+      "By counting animals seized at borders in 61 different countries",
+      "By combining records from many existing databases and sources",
+      "By interviewing wildlife traders in as many as 30 languages",
+      "By relying mainly on the CITES list of protected species"
+     ],
+     "a": 1,
+     "evidence": "the team combined information from a wide range of sources",
+     "why": "Paragraph 2 lists many sources (CITES, the Red List, UN records, seizure reports, US import records) that the team combined.",
+     "optWhy": [
+      "Wrong: detail distorted. 61 countries is where they searched for databases, and seizure reports are only one of many sources.",
+      "Correct. \"the team combined information from a wide range of sources\" = combining records from many existing databases and sources.",
+      "Wrong: detail distorted. They \"searched for national wildlife-trade databases in 30 languages\"; they did not interview traders.",
+      "Wrong: too narrow. CITES is only the first of several sources in the list."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "To reach this figure, the team combined information from a wide range of sources: the trade database of CITES, the international treaty that has regulated trade in protected species since 1975; the IUCN Red List of threatened species; United Nations records on fish and timber; seizure reports collected by TRAFFIC; and import records from the United States.",
+       "hl": "combined information from a wide range of sources"
+      },
+      {
+       "para": 2,
+       "text": "They also searched for national wildlife-trade databases in 30 languages across 61 countries.",
+       "hl": "searched for national wildlife-trade databases in 30 languages across 61 countries"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the method",
+       "x": "\"To reach this figure\" at the start of paragraph 2 introduces the method."
+      },
+      {
+       "t": "Read the list",
+       "x": "The colon introduces many sources that were combined."
+      },
+      {
+       "t": "Check the numbers",
+       "x": "30 languages and 61 countries describe a database search, not interviews or seizures."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are true EXCEPT:",
+     "opts": [
+      "About two-thirds of living bird species have been traded.",
+      "More than a third of reptile species are found in trade.",
+      "CITES covers most of the reptile species that are traded.",
+      "Wild populations that are collected tend to be smaller."
+     ],
+     "a": 2,
+     "evidence": "yet CITES covers only about 9.5 percent of reptile species",
+     "why": "CITES covers only about 9.5 percent of reptile species, while about 37 percent are traded, so it does not cover most traded reptiles.",
+     "optWhy": [
+      "Wrong: this is true. \"Around 65 percent of living bird species\" = about two-thirds.",
+      "Wrong: this is true. \"roughly 37 percent of reptile species appear in trade\" = more than a third.",
+      "Correct (this is the EXCEPT answer). \"CITES covers only about 9.5 percent of reptile species\", far fewer than the 37 percent traded.",
+      "Wrong: this is true. Collected populations are \"50 to 60 percent smaller than populations that are left alone\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Around 65 percent of living bird species and roughly 37 percent of reptile species appear in trade, yet CITES covers only about 9.5 percent of reptile species.",
+       "hl": "CITES covers only about 9.5 percent of reptile species"
+      },
+      {
+       "para": 3,
+       "text": "Where population data exist, the researchers found that wild populations from which animals are collected are, on average, 50 to 60 percent smaller than populations that are left alone.",
+       "hl": "50 to 60 percent smaller"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Match the numbers",
+       "x": "Convert each option into a percentage and find it in paragraph 3."
+      },
+      {
+       "t": "Confirm three",
+       "x": "65% (two-thirds), 37% (over a third) and smaller collected populations are all stated."
+      },
+      {
+       "t": "Spot the contradiction",
+       "x": "\"only about 9.5 percent\" shows CITES does not cover most traded reptiles."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about countries other than the United States?",
+     "opts": [
+      "Many of the species they trade are likely missing from counts.",
+      "They trade far fewer wild species than the United States does.",
+      "They have stopped recording seizures of smuggled animals.",
+      "They identify every parcel sent by post down to the species."
+     ],
+     "a": 0,
+     "evidence": "Almost no country systematically records what it buys and sells.",
+     "why": "If almost no other country records its trade, and many species appear only in US records, then species traded elsewhere are likely missing from the count.",
+     "optWhy": [
+      "Correct. \"Almost no country systematically records what it buys and sells\" + many species \"appear only in US records\" = species traded elsewhere are probably missing from the totals.",
+      "Wrong: wrong conclusion. Species appear \"only in US records\" because the US records data, not because other countries trade less.",
+      "Wrong: not mentioned. The paragraph says seizure data are \"imperfect\", not that countries stopped recording them.",
+      "Wrong: contradicts the text. Parcels \"are often not identified to the species level at the border\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Almost no country systematically records what it buys and sells.",
+       "hl": "Almost no country systematically records"
+      },
+      {
+       "para": 5,
+       "text": "As a result, more than a quarter of traded animal species, and 54 percent of traded mammals, appear only in US records.",
+       "hl": "appear only in US records"
+      },
+      {
+       "para": 5,
+       "text": "Online sales make matters worse, because parcels sent by post are often not identified to the species level at the border.",
+       "hl": "often not identified to the species level"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "Paragraph 5 contrasts the US, which records data, with almost every other country."
+      },
+      {
+       "t": "Draw the inference",
+       "x": "If other countries do not record trade, their traded species are likely missing from global counts."
+      },
+      {
+       "t": "Avoid wrong causes",
+       "x": "Appearing only in US records reflects recording, not the amount of trade."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention electronic tags for sheep in the United Kingdom in paragraph 7?",
+     "opts": [
+      "To show that livestock trade is larger than the wildlife trade",
+      "To criticize the United Kingdom for treating animals as products",
+      "To suggest that all wild animals should wear electronic tags",
+      "To show that large-scale tracking of animals can work in practice"
+     ],
+     "a": 3,
+     "evidence": "similar tracking already works for livestock",
+     "why": "The sheep example supports the supporters' reply to critics: tracking systems already work in practice.",
+     "optWhy": [
+      "Wrong: not mentioned. The passage never compares the size of the livestock and wildlife trades.",
+      "Wrong: not the author's attitude. The example is presented positively, as evidence that tracking works.",
+      "Wrong: too literal. The proposal is to digitize \"shipping invoices\", not to tag wild animals.",
+      "Correct. \"similar tracking already works for livestock\" = large-scale tracking can work in practice; the sheep tags are the example."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Supporters, however, note that similar tracking already works for livestock: in the United Kingdom, for example, sheep have been required to carry electronic tags since 2009.",
+       "hl": "similar tracking already works for livestock"
+      },
+      {
+       "para": 7,
+       "text": "Since almost every country already carries out customs and animal-health checks on imports, shipping invoices could be digitized and matched against a list of species.",
+       "hl": "shipping invoices could be digitized"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "\"for example\" in paragraph 7 introduces the sheep tags."
+      },
+      {
+       "t": "Find what it supports",
+       "x": "It follows \"similar tracking already works for livestock\", the supporters' answer to critics."
+      },
+      {
+       "t": "Rule out literal readings",
+       "x": "The proposal concerns invoices, not tagging wild animals."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Seizure data are imperfect because officials often hide how much smuggling they find.",
+      "Seizure figures partly measure enforcement effort, so they don't show true smuggling levels.",
+      "Officials search harder for smuggled goods whenever seizure data show smuggling increasing.",
+      "Seizure data are reliable because they record every case of smuggling officials uncover."
+     ],
+     "a": 1,
+     "evidence": "Even seizure data are imperfect, since they reflect how hard officials are looking as much as how much smuggling actually occurs.",
+     "highlight": "Even seizure data are imperfect, since they reflect how hard officials are looking as much as how much smuggling actually occurs.",
+     "why": "Seizure numbers depend on how hard officials look, so they are not a pure measure of smuggling.",
+     "optWhy": [
+      "Wrong: not stated. The sentence says nothing about officials hiding information.",
+      "Correct. \"reflect how hard officials are looking\" = partly measure enforcement effort; \"imperfect\" = do not show the true level of smuggling.",
+      "Wrong: reverses cause and effect. The sentence says officials' effort affects the data, not that the data change officials' effort.",
+      "Wrong: contradicts the sentence. It calls seizure data \"imperfect\", not reliable."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Even seizure data are imperfect, since they reflect how hard officials are looking as much as how much smuggling actually occurs.",
+       "hl": "they reflect how hard officials are looking"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the claim and reason",
+       "x": "Claim: seizure data are imperfect. Reason after \"since\": they reflect officials' effort."
+      },
+      {
+       "t": "Keep both parts",
+       "x": "The correct answer must include \"imperfect\" and the role of enforcement effort."
+      },
+      {
+       "t": "Reject distortions",
+       "x": "Remove options that add hiding, reverse the cause or call the data reliable."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "tag": "Facts",
+     "fact": "A Science Advances study led by Alice Hughes found 79,554 species in international wildlife trade, far more than the earlier estimate of about 50,000.",
+     "q": "How many species are in international trade, according to the study?",
+     "opts": [
+      "About 5,000",
+      "About 50,000",
+      "Almost 80,000",
+      "Over a million"
+     ],
+     "a": 2,
+     "id": "n20261122-3-k1"
+    },
+    {
+     "tag": "Method",
+     "fact": "The team combined CITES, the IUCN Red List, UN records, TRAFFIC seizure reports and US import records.",
+     "q": "How was the total calculated?",
+     "opts": [
+      "By combining many databases",
+      "By a single survey",
+      "By satellite images"
+     ],
+     "a": 0,
+     "id": "n20261122-3-k2"
+    },
+    {
+     "tag": "Numbers",
+     "fact": "About 42% of described vertebrates and 65% of bird species have been traded, but CITES covers only about 9.5% of reptiles.",
+     "q": "What share of bird species have been traded?",
+     "opts": [
+      "About 9.5%",
+      "About 37%",
+      "About 65%"
+     ],
+     "a": 2,
+     "id": "n20261122-3-k3"
+    },
+    {
+     "tag": "Money",
+     "fact": "Legal wildlife trade ($220–300 billion a year) is roughly six to eleven times bigger than illegal trade ($28–40 billion).",
+     "q": "Which is larger?",
+     "opts": [
+      "Legal wildlife trade",
+      "Illegal wildlife trade",
+      "They are equal"
+     ],
+     "a": 0,
+     "id": "n20261122-3-k4"
+    },
+    {
+     "tag": "Data gap",
+     "fact": "Almost no country records its wildlife trade; the US is the only one that systematically shares data across many groups.",
+     "q": "Which country systematically shares wildlife trade data?",
+     "opts": [
+      "Australia",
+      "The United States",
+      "China",
+      "Brazil"
+     ],
+     "a": 1,
+     "id": "n20261122-3-k5"
+    },
+    {
+     "tag": "Solutions",
+     "fact": "The authors suggest standardizing data collection and digitizing shipping invoices, and urge shoppers not to buy products of unknown origin.",
+     "q": "What do the authors propose?",
+     "opts": [
+      "Banning all pets",
+      "Digitizing shipping invoices",
+      "Closing all borders"
+     ],
+     "a": 1,
+     "id": "n20261122-3-k6"
+    }
+   ],
+   "mindmap": {
+    "center": "The wildlife trade",
+    "question": "Who should be responsible for tracking the wildlife trade?",
+    "branches": [
+     {
+      "title": "A bigger count",
+      "paras": "1-2",
+      "blanks": [
+       "79,554 species in trade",
+       "combined many databases"
+      ],
+      "kps": [
+       "n20261122-3-k1",
+       "n20261122-3-k2"
+      ]
+     },
+     {
+      "title": "Striking numbers",
+      "paras": "3-4",
+      "blanks": [
+       "42 percent of vertebrates traded",
+       "legal trade far larger"
+      ],
+      "kps": [
+       "n20261122-3-k3",
+       "n20261122-3-k4"
+      ]
+     },
+     {
+      "title": "Poor records",
+      "paras": "5-6",
+      "blanks": [
+       "only the US shares data",
+       "misses the other 97 percent"
+      ],
+      "kps": [
+       "n20261122-3-k5"
+      ]
+     },
+     {
+      "title": "Solutions",
+      "paras": "7-8",
+      "blanks": [
+       "digitize shipping invoices",
+       "don't buy if unsure"
+      ],
+      "kps": [
+       "n20261122-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "a global ban on pet trade",
+     "illegal trade is larger than legal trade"
+    ]
+   },
+   "summary": {
+    "intro": "A new study suggests that nearly 80,000 species are traded internationally, far more than scientists previously believed.",
+    "model": "By combining many databases, researchers found 79,554 traded species, most in a legal trade far larger than smuggling. However, because almost no country records its trade, the true scale is unknown, so the authors call for standardized, digitized data and more careful shopping.",
+    "options": [
+     {
+      "t": "By combining many sources, researchers found that far more species are traded internationally than previously believed.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "the team combined information from a wide range of sources",
+      "why": "A main idea; see paragraphs 1-2."
+     },
+     {
+      "t": "Because almost no country records its trade, the real effect of this mostly legal trade on wild populations is largely hidden.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Poor recording is, in fact, the study's central concern.",
+      "why": "A main idea; see paragraphs 4-5."
+     },
+     {
+      "t": "The authors propose practical steps, such as standardized and digitized trade records, and urge consumers to be careful.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Their proposed solutions are practical rather than dramatic.",
+      "why": "A main idea; see paragraphs 7-8."
+     },
+     {
+      "t": "Sheep in the United Kingdom have been required to carry electronic tags since 2009.",
+      "ok": false,
+      "type": "detail",
+      "para": 7,
+      "evidence": "sheep have been required to carry electronic tags since 2009",
+      "why": "True, but only a minor detail."
+     },
+     {
+      "t": "The study recommends a complete ban on keeping exotic pets.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": "",
+      "why": "Not mentioned in the passage."
+     },
+     {
+      "t": "The illegal wildlife trade is worth more than the legal trade.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "the legal market is roughly six to eleven times bigger than the black market",
+      "why": "Contradicts the passage: the legal trade is much larger."
+     }
+    ]
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "audio": {
+  "After more than a decade of slow and often frustrating discussion, governments meeting in Geneva have taken what supporters call a significant step toward controlling weapons that can choose and attack targets without a human pulling the trigger. On 21 November 2026, the 128 countries at a United Nations arms-control conference agreed to spend the next two years working out a possible international instrument on lethal autonomous weapons systems, often nicknamed \"killer robots.\" The decision, however, was a compromise, and many campaigners left the talks disappointed rather than relieved.": "audio/2026-11-22/a1-p1.mp3",
+  "The meeting took place under the Convention on Certain Conventional Weapons (CCW), a treaty adopted in 1980 to restrict weapons considered excessively injurious or indiscriminate. Over the years, the convention has produced protocols on landmines and incendiary weapons, and in 1995 it banned blinding laser weapons before they were ever widely deployed. Many diplomats hoped autonomous weapons could follow the same path and be regulated early, before they spread. Informal talks on the subject began in 2014, but progress has been held back by one feature of the convention: its decisions require the agreement of every member state.": "audio/2026-11-22/a1-p2.mp3",
+  "That rule shaped the final text. Nearly 100 countries had pushed for the swift adoption of legally binding rules, but key arms-producing states, including the United States, Russia and Israel, opposed the push. According to diplomats, Russian objections over procedure led to some formal sessions being called off, and negotiators argued over wording through the night. Some delegations refused to accept the word \"negotiate,\" so the agreed text speaks only of the \"elaboration\" of an instrument. To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.": "audio/2026-11-22/a1-p3.mp3",
+  "The chair of the conference, Swiss diplomat Julien Thoeni, nevertheless presented the outcome as evidence that cooperation is still possible. He said the result showed that \"even in today's deeply divided world, multilateral diplomacy can still deliver concrete results.\" Under the plan, the process should determine which weapons could be banned outright under international humanitarian law, the body of rules that protects civilians in war, and which could be permitted but regulated. This two-tier approach is designed to attract states that reject a total ban but accept that some limits are needed.": "audio/2026-11-22/a1-p4.mp3",
+  "Campaigners were far less impressed. Stop Killer Robots, a coalition of some 300 organizations, described the mandate as \"watered down\" and warned that it offers no clear route to binding law. Its executive director, Nicole van Rooijen, argued that \"delaying the creation of a legally binding instrument puts civilians and humanity at risk,\" pointing out that autonomous systems, including ones that use artificial intelligence to select targets, are already being used in combat. Verity Coyle of Human Rights Watch put the problem more bluntly: the agreement \"does not provide the urgent action needed to agree new rules – but the technology is racing ahead.\"": "audio/2026-11-22/a1-p5.mp3",
+  "Behind the procedural dispute lies a deeper disagreement about whether machines should ever make life-and-death decisions. Opponents of autonomous weapons raise what they call the accountability gap: if an algorithm wrongly identifies a civilian truck as a military vehicle, it is unclear whether the programmer, the commander or the manufacturer should be held responsible. They also doubt that software can apply the core principles of the laws of war, such as distinguishing soldiers from civilians and judging whether an attack is proportionate. Some fear, too, that wars fought by machines could become easier to start, because fewer of a country's own soldiers would be at risk.": "audio/2026-11-22/a1-p6.mp3",
+  "Defenders of the technology, and of a slower approach, see things differently. They argue that well-designed systems may react faster than people and could even make fewer mistakes than exhausted or frightened soldiers. Several major military powers also maintain that existing international humanitarian law already applies to every weapon, so a new treaty is unnecessary, and that premature rules could freeze a technology that is still evolving. From this perspective, a careful process involving every major power is better than a quick treaty that the countries building these weapons refuse to join.": "audio/2026-11-22/a1-p7.mp3",
+  "Whether the next two years produce a meaningful agreement will depend largely on those reluctant states. A treaty signed only by countries that have no intention of building autonomous weapons would carry symbolic weight but little practical force. On the other hand, history shows that norms can spread even without universal support: the landmine ban of 1997 was negotiated outside the CCW and gradually changed behavior, even among some countries that never signed it. For now, the question is no longer whether rules are needed, but whether diplomats can write them before the technology outpaces them.": "audio/2026-11-22/a1-p8.mp3",
+  "autonomous": "audio/2026-11-22/a1-w-autonomous.mp3",
+  "Some delivery robots are fully autonomous and can find their own way around a city.": "audio/2026-11-22/a1-ex-autonomous.mp3",
+  "compromise": "audio/2026-11-22/a1-w-compromise.mp3",
+  "After hours of debate, the club reached a compromise on the new rules.": "audio/2026-11-22/a1-ex-compromise.mp3",
+  "indiscriminate": "audio/2026-11-22/a1-w-indiscriminate.mp3",
+  "Environmental groups criticized the indiscriminate use of pesticides on the farm.": "audio/2026-11-22/a1-ex-indiscriminate.mp3",
+  "deploy": "audio/2026-11-22/a1-w-deploy.mp3",
+  "The city plans to deploy more electric buses next year.": "audio/2026-11-22/a1-ex-deploy.mp3",
+  "mandate": "audio/2026-11-22/a1-w-mandate.mp3",
+  "The committee was given a mandate to review the school's safety rules.": "audio/2026-11-22/a1-ex-mandate.mp3",
+  "accountability": "audio/2026-11-22/a1-w-accountability.mp3",
+  "Voters expect greater accountability from the officials who spend public money.": "audio/2026-11-22/a1-ex-accountability.mp3",
+  "proportionate": "audio/2026-11-22/a1-w-proportionate.mp3",
+  "The punishment should be proportionate to the seriousness of the mistake.": "audio/2026-11-22/a1-ex-proportionate.mp3",
+  "premature": "audio/2026-11-22/a1-w-premature.mp3",
+  "It is premature to celebrate before all the votes have been counted.": "audio/2026-11-22/a1-ex-premature.mp3",
+  "outpace": "audio/2026-11-22/a1-w-outpace.mp3",
+  "Demand for the new phone may outpace the factory's ability to make it.": "audio/2026-11-22/a1-ex-outpace.mp3",
+  "The decision, however, was a compromise, and many campaigners left the talks disappointed rather than relieved.": "audio/2026-11-22/a1-ks1.mp3",
+  "Informal talks on the subject began in 2014, but progress has been held back by one feature of the convention: its decisions require the agreement of every member state.": "audio/2026-11-22/a1-ks2.mp3",
+  "To an outsider the difference may look trivial, yet in diplomacy it matters: negotiating implies an agreed destination, whereas elaborating commits no one to signing anything.": "audio/2026-11-22/a1-ks3.mp3",
+  "Behind the procedural dispute lies a deeper disagreement about whether machines should ever make life-and-death decisions.": "audio/2026-11-22/a1-ks4.mp3",
+  "From this perspective, a careful process involving every major power is better than a quick treaty that the countries building these weapons refuse to join.": "audio/2026-11-22/a1-ks5.mp3",
+  "For now, the question is no longer whether rules are needed, but whether diplomats can write them before the technology outpaces them.": "audio/2026-11-22/a1-ks6.mp3",
+  "When astronauts return to the Moon in the coming years, they will face a problem familiar to anyone who has ever moved to a new home: everything they need must be carried there, and carrying is expensive. Every kilogram of equipment launched from Earth adds enormously to the cost of a mission, so space agencies are keen to find ways of building with materials that are already on the Moon. A new study from the University of Arkansas, published in the journal npj Advanced Manufacturing, suggests that lunar dust itself could one day be turned into small, interlocking building blocks.": "audio/2026-11-22/a2-p1.mp3",
+  "The idea of using local resources, known as in-situ resource utilization, is not new. Engineers have long imagined extracting water from lunar ice, oxygen from lunar rock and construction material from regolith, the layer of loose dust and broken rock that covers the Moon's surface. Regolith is abundant, but it is also an awkward material. Because the Moon has no wind or flowing water to wear particles down, its grains remain sharp and irregular, and they contain no organic matter that might help them stick together.": "audio/2026-11-22/a2-p2.mp3",
+  "Earlier attempts to 3D-print with regolith typically mixed the dust with a binder, a glue-like substance that holds the particles together. The drawback is obvious: the binder itself would have to be transported from Earth, which undermines the whole point of using local material. The Arkansas team, led by Cole McCallum, who carried out the work as an undergraduate, and his supervisor, assistant professor of mechanical engineering Wan Shou, set out to remove the binder altogether.": "audio/2026-11-22/a2-p3.mp3",
+  "To do so, they used a technique called laser powder bed fusion. A thin layer of powder is spread across a platform, and a concentrated beam of light fuses the particles where a solid part is needed. The platform then lowers slightly, a fresh layer is added, and the process repeats until a three-dimensional object emerges. Because real Moon dust is scarce and precious, the researchers worked with a commercially available simulant designed to resemble samples brought back by the Apollo missions. \"There's nothing else it's binding to,\" McCallum explained. \"The regolith powder is binding to itself.\"": "audio/2026-11-22/a2-p4.mp3",
+  "The result was a set of small blocks, only a few centimeters across, shaped like crosses and the letter H. Like toy construction bricks, they can be slotted together and taken apart again, so a single set of pieces could, in principle, be reconfigured into different structures as a settlement's needs change. According to the researchers, this is the first time a regolith simulant has been fused directly into interlocking, reconfigurable blocks without any binder.": "audio/2026-11-22/a2-p5.mp3",
+  "Yet the team is candid about the limitations. Compared with parts printed using binders, the binder-free blocks contain more internal pores and are structurally weaker. \"These structures we're making can be self-supported,\" McCallum said, but he added that he \"would be hesitant to say our process could be used for something that's supporting other loads at this moment yet.\" Nor does anyone yet know how the process will behave in the Moon's low gravity and near-vacuum, conditions that are very difficult to reproduce in a laboratory on Earth. Shou has said that improving the blocks' strength and durability is the next priority.": "audio/2026-11-22/a2-p6.mp3",
+  "Not everyone is convinced that such bricks represent the most practical route to a lunar base. Skeptics point out that powerful lasers demand a reliable energy supply, which is itself scarce on the Moon, and that printing a whole habitat one small block at a time could be painfully slow. Some engineers favor simpler approaches, such as shipping inflatable or prefabricated modules and then covering them with loose regolith to shield astronauts from radiation. Supporters reply that every technology looks impractical at first, and that reconfigurable blocks could prove valuable for smaller tasks, such as building walls, landing pads or replacement parts.": "audio/2026-11-22/a2-p7.mp3",
+  "Ultimately, the study is best seen as an early proof of concept rather than a finished solution. It shows that lunar dust can be persuaded to bond to itself, but turning palm-sized pieces into safe, load-bearing buildings will require years of further testing. Still, if humans are ever to live on the Moon for long periods, they will need to make far more of what they use from what they find there, and research like this is a small but meaningful step in that direction.": "audio/2026-11-22/a2-p8.mp3",
+  "regolith": "audio/2026-11-22/a2-w-regolith.mp3",
+  "The rover's wheels left deep tracks in the soft regolith.": "audio/2026-11-22/a2-ex-regolith.mp3",
+  "abundant": "audio/2026-11-22/a2-w-abundant.mp3",
+  "Fresh fruit is abundant in the local market during the summer.": "audio/2026-11-22/a2-ex-abundant.mp3",
+  "undermine": "audio/2026-11-22/a2-w-undermine.mp3",
+  "Constant criticism can undermine a student's confidence.": "audio/2026-11-22/a2-ex-undermine.mp3",
+  "simulant": "audio/2026-11-22/a2-w-simulant.mp3",
+  "Engineers tested the drill on a Mars soil simulant before the mission.": "audio/2026-11-22/a2-ex-simulant.mp3",
+  "scarce": "audio/2026-11-22/a2-w-scarce.mp3",
+  "Clean water is scarce in many dry regions of the world.": "audio/2026-11-22/a2-ex-scarce.mp3",
+  "reconfigure": "audio/2026-11-22/a2-w-reconfigure.mp3",
+  "The teacher decided to reconfigure the desks into small groups.": "audio/2026-11-22/a2-ex-reconfigure.mp3",
+  "candid": "audio/2026-11-22/a2-w-candid.mp3",
+  "The coach gave a candid assessment of the team's weaknesses.": "audio/2026-11-22/a2-ex-candid.mp3",
+  "durability": "audio/2026-11-22/a2-w-durability.mp3",
+  "Customers often choose hiking boots for their durability rather than their style.": "audio/2026-11-22/a2-ex-durability.mp3",
+  "prefabricated": "audio/2026-11-22/a2-w-prefabricated.mp3",
+  "After the earthquake, families moved into prefabricated houses.": "audio/2026-11-22/a2-ex-prefabricated.mp3",
+  "Every kilogram of equipment launched from Earth adds enormously to the cost of a mission, so space agencies are keen to find ways of building with materials that are already on the Moon.": "audio/2026-11-22/a2-ks1.mp3",
+  "The drawback is obvious: the binder itself would have to be transported from Earth, which undermines the whole point of using local material.": "audio/2026-11-22/a2-ks2.mp3",
+  "According to the researchers, this is the first time a regolith simulant has been fused directly into interlocking, reconfigurable blocks without any binder.": "audio/2026-11-22/a2-ks3.mp3",
+  "Compared with parts printed using binders, the binder-free blocks contain more internal pores and are structurally weaker.": "audio/2026-11-22/a2-ks4.mp3",
+  "Not everyone is convinced that such bricks represent the most practical route to a lunar base.": "audio/2026-11-22/a2-ks5.mp3",
+  "Ultimately, the study is best seen as an early proof of concept rather than a finished solution.": "audio/2026-11-22/a2-ks6.mp3",
+  "From aquarium fish and potted orchids to timber, medicinal plants and exotic pets, wild species pass through human hands on a vast scale. Until now, scientists believed that roughly 50,000 species were involved in international trade. A new study published in Science Advances suggests that figure was a serious underestimate. Led by Alice Hughes of the University of Melbourne, with co-authors from organizations including TRAFFIC, the International Union for Conservation of Nature (IUCN) and the UN's Food and Agriculture Organization (FAO), the research identifies 79,554 species in international trade, and the true number is probably higher still.": "audio/2026-11-22/a3-p1.mp3",
+  "To reach this figure, the team combined information from a wide range of sources: the trade database of CITES, the international treaty that has regulated trade in protected species since 1975; the IUCN Red List of threatened species; United Nations records on fish and timber; seizure reports collected by TRAFFIC; and import records from the United States. They also searched for national wildlife-trade databases in 30 languages across 61 countries. When subsistence and other local uses were added, the total rose to 107,356 species, of which 47,685 were animals and 59,671 were plants and fungi.": "audio/2026-11-22/a3-p2.mp3",
+  "Some of the individual findings are striking. Up to 31,306 vertebrate species, about 42 percent of all described vertebrates, have been traded. Around 65 percent of living bird species and roughly 37 percent of reptile species appear in trade, yet CITES covers only about 9.5 percent of reptile species. Where population data exist, the researchers found that wild populations from which animals are collected are, on average, 50 to 60 percent smaller than populations that are left alone.": "audio/2026-11-22/a3-p3.mp3",
+  "The financial stakes are equally large. Legal wildlife trade is estimated to be worth between 220 and 300 billion US dollars a year, while illegal trade is thought to be worth 28 to 40 billion dollars. In other words, the legal market is roughly six to eleven times bigger than the black market that tends to attract headlines. This does not mean that the illegal trade is unimportant, nor that the legal trade is harmless. The lesson, rather, is that a trade this large, if it is poorly recorded, can drain wild populations without anyone noticing.": "audio/2026-11-22/a3-p4.mp3",
+  "Poor recording is, in fact, the study's central concern. Almost no country systematically records what it buys and sells. \"The United States is the only country that systematically records and publicly shares trade data across a wide range of taxa,\" Hughes noted. As a result, more than a quarter of traded animal species, and 54 percent of traded mammals, appear only in US records. Online sales make matters worse, because parcels sent by post are often not identified to the species level at the border. Even seizure data are imperfect, since they reflect how hard officials are looking as much as how much smuggling actually occurs.": "audio/2026-11-22/a3-p5.mp3",
+  "The researchers argue that this gap matters for global conservation goals. The current global biodiversity framework includes a target on trade, but its main measure, the share of fish stocks harvested at sustainable levels, reflects only a tiny fraction of the species in trade. According to Hughes, it \"misses the other 97 percent.\" Without better data on other groups, she argues, the trade simply \"can't be managed.\"": "audio/2026-11-22/a3-p6.mp3",
+  "Their proposed solutions are practical rather than dramatic. Instead of creating new institutions, they suggest standardizing how trade data are collected, starting at a regional level, possibly with the European Union as a first model. Since almost every country already carries out customs and animal-health checks on imports, shipping invoices could be digitized and matched against a list of species. Critics might respond that such systems are costly for poorer countries, and that traders could simply mislabel shipments. Supporters, however, note that similar tracking already works for livestock: in the United Kingdom, for example, sheep have been required to carry electronic tags since 2009.": "audio/2026-11-22/a3-p7.mp3",
+  "Finally, the study turns attention to consumers. Pets, plants and wildlife products are bought by ordinary people, often without any idea of where they come from. \"Almost all of us are part of wildlife trade,\" Hughes observed, and her advice is simple: if you are not sure where a product comes from, do not buy it. Not everyone agrees that individual choices can solve a global problem, since governments and large companies control most of the trade. Yet better information, for officials and shoppers alike, seems a necessary first step toward ensuring that the wild species we use today are still around tomorrow.": "audio/2026-11-22/a3-p8.mp3",
+  "underestimate": "audio/2026-11-22/a3-w-underestimate.mp3",
+  "The official figure of ten thousand visitors turned out to be a big underestimate.": "audio/2026-11-22/a3-ex-underestimate.mp3",
+  "subsistence": "audio/2026-11-22/a3-w-subsistence.mp3",
+  "Many families in the valley still rely on subsistence farming.": "audio/2026-11-22/a3-ex-subsistence.mp3",
+  "vertebrate": "audio/2026-11-22/a3-w-vertebrate.mp3",
+  "A frog is a vertebrate, but a jellyfish is not.": "audio/2026-11-22/a3-ex-vertebrate.mp3",
+  "striking": "audio/2026-11-22/a3-w-striking.mp3",
+  "There is a striking difference between the two cities' air quality.": "audio/2026-11-22/a3-ex-striking.mp3",
+  "stake": "audio/2026-11-22/a3-w-stake.mp3",
+  "With the championship at stake, both teams played carefully.": "audio/2026-11-22/a3-ex-stake.mp3",
+  "smuggle": "audio/2026-11-22/a3-w-smuggle.mp3",
+  "The man tried to smuggle rare birds' eggs through the airport.": "audio/2026-11-22/a3-ex-smuggle.mp3",
+  "standardize": "audio/2026-11-22/a3-w-standardize.mp3",
+  "The schools agreed to standardize their exam schedules.": "audio/2026-11-22/a3-ex-standardize.mp3",
+  "digitize": "audio/2026-11-22/a3-w-digitize.mp3",
+  "The museum plans to digitize its entire collection of old maps.": "audio/2026-11-22/a3-ex-digitize.mp3",
+  "sustainable": "audio/2026-11-22/a3-w-sustainable.mp3",
+  "The village switched to a more sustainable way of fishing.": "audio/2026-11-22/a3-ex-sustainable.mp3",
+  "A new study published in Science Advances suggests that figure was a serious underestimate.": "audio/2026-11-22/a3-ks1.mp3",
+  "Around 65 percent of living bird species and roughly 37 percent of reptile species appear in trade, yet CITES covers only about 9.5 percent of reptile species.": "audio/2026-11-22/a3-ks2.mp3",
+  "In other words, the legal market is roughly six to eleven times bigger than the black market that tends to attract headlines.": "audio/2026-11-22/a3-ks3.mp3",
+  "Poor recording is, in fact, the study's central concern.": "audio/2026-11-22/a3-ks4.mp3",
+  "Their proposed solutions are practical rather than dramatic.": "audio/2026-11-22/a3-ks5.mp3",
+  "Not everyone agrees that individual choices can solve a global problem, since governments and large companies control most of the trade.": "audio/2026-11-22/a3-ks6.mp3"
+ }
+}
