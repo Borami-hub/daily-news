@@ -1,0 +1,2035 @@
+{
+ "date": "2026-11-23",
+ "headline": "Paper Comes Back, the Grid Falls Behind and Seals Take the Blame",
+ "teaser": "Were screens really to blame for falling test scores? Who should pay for AI's huge electricity bill? And would killing seals actually save salmon?",
+ "articles": [
+  {
+   "id": "n20261123-1",
+   "topic": "Technology",
+   "title": "Back to Pen and Paper: Norway Rethinks Screens in the Classroom",
+   "dek": "Norway was one of the world's keenest adopters of classroom tablets; now it is bringing printed textbooks back. Were screens the real problem, or the way they were used?",
+   "sources": [
+    {
+     "name": "Malay Mail / AFP, 22 Nov 2026",
+     "url": "https://www.malaymail.com/news/tech-gadgets/2026/11/22/back-to-pen-and-paper-norway-brings-textbooks-back-after-screens-blamed-for-falling-reading-skills/244211"
+    },
+    {
+     "name": "France 24 / AFP, 21 Nov 2026",
+     "url": "https://www.france24.com/en/live-news/20261121-from-screens-in-class-to-smart-glasses-norway-rethinks-new-technologies"
+    }
+   ],
+   "paras": [
+    "Three years ago, a third-grade teacher in Norway named Pål Ludvig Finstad put his pupils' tablets away and handed out pencils and paper instead. Several of his pupils were struggling to read and write, and he believed they urgently needed a different approach. His school administration disagreed and gave him a written warning. Today, his decision looks less like rebellion and more like a preview of national policy. Norway, once one of the most enthusiastic adopters of classroom technology in the world, is now bringing printed textbooks back into its schools.",
+    "For nearly two decades, Norwegian education authorities encouraged schools to replace books with computers and tablets. The trend accelerated during the Covid-19 pandemic, when lessons moved online almost overnight, and from 2023 primary schools in Oslo were expected to provide a digital device for every single pupil. The reasoning seemed sound: children would grow up in a digital world, so school should prepare them for it. Devices also promised lighter school bags, instant access to information and lessons that could adapt to each learner.",
+    "The results, however, have been disappointing. In the 2025 round of PISA, the international test that compares 15-year-olds across dozens of countries, Norwegian students scored below the average of the Organisation for Economic Co-operation and Development (OECD) in reading, mathematics and science. According to news reports, it was the first time since 2006 that the country had fallen below the average in all three areas at once. Researchers cannot say for certain what caused the decline, but distraction from screens is widely regarded as one plausible explanation. A Norwegian commission on screen use had already concluded in 2024 that students generally understand long texts better when they read them on paper.",
+    "The government's response has been swift. Officials plan to enshrine pupils' right to printed textbooks in law, and the city of Oslo has dropped its rule of one device per primary pupil, giving individual schools more freedom to decide. Authorities also recommend restricting mobile phones in schools and introducing artificial intelligence into the curriculum only gradually. Torgeir Micaelsen, the minister responsible for digitalisation, admitted that screens may have entered schools \"too quickly,\" before anyone fully understood their effects or knew what good teaching with digital devices actually looked like.",
+    "Supporters of the change argue that the case for paper is about more than nostalgia. Reading a long printed text, they say, encourages the sustained attention that deep comprehension requires, whereas a tablet invites constant switching between apps, notifications and links. Handwriting may also help young children remember letters and words. From this perspective, Norway did not simply buy too many gadgets; it introduced a powerful tool without evidence that it improved learning, and children paid the price.",
+    "Not everyone accepts this explanation. Silje Ween, the head of a primary school, told the news agency AFP that \"the screen itself is not the problem\"; difficulties arise, she argued, when the tool becomes more important than the content. In her view, a book and a tablet can both be useful, and choosing one does not have to exclude the other. Critics of a full retreat also point out that pupils still need digital skills, such as judging whether online information is reliable, and that these skills will not develop if technology is simply removed from classrooms.",
+    "Others think the reforms do not go far enough. Christer Hyggen, a sociologist at OsloMet University, has described the measures as superficial. He argues that the deeper problems lie in how digital platforms are designed: addictive features, targeted advertising and the profiling of children's data. Norway is preparing a bill that would ban \"harmful\" platforms such as TikTok and Snapchat for children under 16, and it wants to temporarily ban camera-equipped smart glasses in places like schools and parks. Yet Hyggen believes that real change can only happen at a larger scale, across Europe as a whole, because a single small country has limited power over global technology companies.",
+    "Norway's experience offers a lesson for every country that has rushed to digitise education. Technology is neither a cure nor a poison; its value depends on how, when and why it is used. The challenge for Norwegian schools now is to avoid swinging from one extreme to the other—replacing an uncritical faith in screens with an equally uncritical faith in paper. Whether printed textbooks will raise test scores remains uncertain, but the debate has already forced educators to ask a question they skipped twenty years ago: what does the evidence actually say?"
+   ],
+   "words": [
+    {
+     "w": "accelerate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/əkˈseləreɪt/",
+     "syl": [
+      "ac",
+      "cel",
+      "er",
+      "ate"
+     ],
+     "def": "to happen or make something happen faster",
+     "ex": "Warmer weather can accelerate the melting of mountain glaciers."
+    },
+    {
+     "w": "plausible",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈplɔːzəbl/",
+     "syl": [
+      "plau",
+      "si",
+      "ble"
+     ],
+     "def": "reasonable and likely to be true",
+     "ex": "The detective needed a plausible reason for the missing key."
+    },
+    {
+     "w": "commission",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kəˈmɪʃn/",
+     "syl": [
+      "com",
+      "mis",
+      "sion"
+     ],
+     "def": "an official group asked to study a problem and report on it",
+     "ex": "The government set up a commission to examine air pollution in cities."
+    },
+    {
+     "w": "enshrine",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ɪnˈʃraɪn/",
+     "syl": [
+      "en",
+      "shrine"
+     ],
+     "def": "to protect a right or idea by writing it into a law or official document",
+     "ex": "Many countries enshrine freedom of speech in their constitutions."
+    },
+    {
+     "w": "curriculum",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/kəˈrɪkjələm/",
+     "syl": [
+      "cur",
+      "ric",
+      "u",
+      "lum"
+     ],
+     "def": "the subjects and content that are taught in a school or course",
+     "ex": "Coding has become part of the curriculum in many primary schools."
+    },
+    {
+     "w": "sustained",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/səˈsteɪnd/",
+     "syl": [
+      "sus",
+      "tained"
+     ],
+     "def": "continuing for a long time without stopping or weakening",
+     "ex": "Learning a language well requires sustained effort over many years."
+    },
+    {
+     "w": "comprehension",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌkɑːmprɪˈhenʃn/",
+     "syl": [
+      "com",
+      "pre",
+      "hen",
+      "sion"
+     ],
+     "def": "the ability to understand something, especially written or spoken language",
+     "ex": "The test checks reading comprehension as well as vocabulary."
+    },
+    {
+     "w": "superficial",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˌsuːpərˈfɪʃl/",
+     "syl": [
+      "su",
+      "per",
+      "fi",
+      "cial"
+     ],
+     "def": "dealing only with the surface of a problem, not its deeper causes",
+     "ex": "Painting over the crack is only a superficial repair."
+    },
+    {
+     "w": "profiling",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈproʊfaɪlɪŋ/",
+     "syl": [
+      "pro",
+      "fil",
+      "ing"
+     ],
+     "def": "collecting information about a person's behaviour to predict or influence what they will do",
+     "ex": "Privacy groups worry about the profiling of users by online advertisers."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Today, his decision looks less like rebellion and more like a preview of national policy.",
+     "kind": "Main idea",
+     "note": "The \"less like ... more like\" contrast turns a small story into the article's big theme: national policy has changed."
+    },
+    {
+     "para": 3,
+     "text": "Researchers cannot say for certain what caused the decline, but distraction from screens is widely regarded as one plausible explanation.",
+     "kind": "Hedging",
+     "note": "\"Cannot say for certain\" and \"one plausible explanation\" show the link between screens and scores is not proven; TOEFL often tests such hedges."
+    },
+    {
+     "para": 4,
+     "text": "Officials plan to enshrine pupils' right to printed textbooks in law, and the city of Oslo has dropped its rule of one device per primary pupil, giving individual schools more freedom to decide.",
+     "kind": "Key details",
+     "note": "Two concrete policy changes; useful for factual and negative-factual questions."
+    },
+    {
+     "para": 6,
+     "text": "Not everyone accepts this explanation.",
+     "kind": "Topic sentence",
+     "note": "A short signal sentence that introduces the opposing view; it tells you the paragraph is a counterargument."
+    },
+    {
+     "para": 7,
+     "text": "Yet Hyggen believes that real change can only happen at a larger scale, across Europe as a whole, because a single small country has limited power over global technology companies.",
+     "kind": "Cause → effect",
+     "note": "\"Because\" gives the reason for Hyggen's view; a likely target for inference questions."
+    },
+    {
+     "para": 8,
+     "text": "Technology is neither a cure nor a poison; its value depends on how, when and why it is used.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion; key for main-idea and summary questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"plausible\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "convincing but deliberately misleading",
+      "reasonable and possibly correct",
+      "officially proven by research",
+      "popular among most teachers"
+     ],
+     "a": 1,
+     "evidence": "distraction from screens is widely regarded as one plausible explanation",
+     "why": "\"Plausible\" means reasonable and likely to be true. The sentence says researchers \"cannot say for certain\" what caused the decline, so distraction is a reasonable possibility, not a proven fact.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Plausible\" can describe a smooth liar, but nothing in paragraph 3 suggests anyone is trying to deceive; researchers simply \"cannot say for certain.\"",
+      "Correct. \"one plausible explanation\" = a reasonable, possibly correct explanation; the hedge \"cannot say for certain\" confirms it is possible, not proven.",
+      "Wrong: contradicts the text. The same sentence begins \"Researchers cannot say for certain what caused the decline,\" so the explanation is not proven.",
+      "Wrong: not mentioned. The text says the explanation is \"widely regarded\" as plausible, but it never says how popular it is among teachers; popularity is not the meaning of the word."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Researchers cannot say for certain what caused the decline, but distraction from screens is widely regarded as one plausible explanation.",
+       "hl": "one plausible explanation"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"Plausible\" is in paragraph 3, describing distraction from screens as an explanation."
+      },
+      {
+       "t": "Use the context",
+       "x": "The first half, \"cannot say for certain,\" shows the explanation is possible but unproven."
+      },
+      {
+       "t": "Rule out",
+       "x": "Drop \"proven\" (contradicts the hedge) and \"misleading\" (another meaning of the word)."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why did Norwegian authorities originally encourage digital devices in schools?",
+     "opts": [
+      "PISA results showed that pupils who used screens performed better.",
+      "Printed textbooks had become too expensive for most schools.",
+      "The pandemic had forced schools to close for several years.",
+      "They believed school should prepare children for a digital world."
+     ],
+     "a": 3,
+     "evidence": "children would grow up in a digital world, so school should prepare them for it",
+     "why": "Paragraph 2 gives the original reasoning: children would live in a digital world, so school should prepare them for it.",
+     "optWhy": [
+      "Wrong: cause reversed / wrong time. PISA appears in paragraph 3 as evidence of disappointing results, which came after the digital push, not before it.",
+      "Wrong: not mentioned. Paragraph 2 lists lighter bags and instant information as benefits, but it never mentions the cost of textbooks.",
+      "Wrong: detail distorted. The pandemic \"accelerated\" the trend and moved lessons online, but the text does not say schools closed for years, and the push began nearly two decades earlier.",
+      "Correct. \"children would grow up in a digital world, so school should prepare them for it\" = school should prepare children for a digital world."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The reasoning seemed sound: children would grow up in a digital world, so school should prepare them for it.",
+       "hl": "school should prepare them for it"
+      },
+      {
+       "para": 3,
+       "text": "The results, however, have been disappointing.",
+       "hl": "disappointing"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the paragraph",
+       "x": "Paragraph 2 explains the history; look for \"The reasoning\"."
+      },
+      {
+       "t": "Match the reason",
+       "x": "The words after the colon state the reason: preparing children for a digital world."
+      },
+      {
+       "t": "Check the timeline",
+       "x": "PISA results come later (paragraph 3), so they cannot be the original reason."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are part of the Norwegian response EXCEPT",
+     "opts": [
+      "removing tablets from every classroom in the country",
+      "making access to printed textbooks a legal right",
+      "recommending limits on mobile phones in schools",
+      "bringing artificial intelligence into lessons slowly"
+     ],
+     "a": 0,
+     "evidence": "Officials plan to enshrine pupils' right to printed textbooks in law",
+     "why": "Paragraph 4 mentions a law on printed textbooks, limits on phones and a gradual approach to AI. It never says tablets will be removed from every classroom; Oslo only gave schools \"more freedom to decide.\"",
+     "optWhy": [
+      "Correct (the exception). The text says Oslo dropped the one-device rule, \"giving individual schools more freedom to decide\"; that is not a nationwide removal of tablets, so this option is too extreme.",
+      "Wrong: this is mentioned. \"enshrine pupils' right to printed textbooks in law\" = make access a legal right.",
+      "Wrong: this is mentioned. \"recommend restricting mobile phones in schools\" = recommending limits on phones.",
+      "Wrong: this is mentioned. \"introducing artificial intelligence into the curriculum only gradually\" = bringing AI into lessons slowly."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Officials plan to enshrine pupils' right to printed textbooks in law, and the city of Oslo has dropped its rule of one device per primary pupil, giving individual schools more freedom to decide.",
+       "hl": "giving individual schools more freedom to decide"
+      },
+      {
+       "para": 4,
+       "text": "Authorities also recommend restricting mobile phones in schools and introducing artificial intelligence into the curriculum only gradually.",
+       "hl": "only gradually"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 4 lists the government's measures."
+      },
+      {
+       "t": "Tick off each option",
+       "x": "Match the textbook law, phone limits and gradual AI to the text."
+      },
+      {
+       "t": "Spot the extreme one",
+       "x": "\"Every classroom in the country\" goes beyond \"more freedom to decide.\""
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author begin the passage with the story of Pål Ludvig Finstad?",
+     "opts": [
+      "To show that Norwegian teachers are often punished unfairly",
+      "To prove that tablets caused his pupils' reading problems",
+      "To illustrate how far official thinking has since changed",
+      "To explain why Oslo required one device for every pupil"
+     ],
+     "a": 2,
+     "evidence": "Today, his decision looks less like rebellion and more like a preview of national policy.",
+     "why": "The teacher was punished for choosing paper, but his choice now matches national policy. The story shows how much official thinking has shifted.",
+     "optWhy": [
+      "Wrong: too broad. The text describes one teacher's warning; it says nothing about teachers in general being \"often\" punished.",
+      "Wrong: too extreme. He \"believed\" his pupils needed a different approach, and paragraph 3 says researchers \"cannot say for certain\" what caused declines; nothing is proved.",
+      "Correct. \"his decision looks less like rebellion and more like a preview of national policy\" = official thinking has moved towards his view.",
+      "Wrong: detail from another paragraph. The one-device rule appears in paragraph 2 and is not explained by Finstad's story."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Today, his decision looks less like rebellion and more like a preview of national policy.",
+       "hl": "a preview of national policy"
+      },
+      {
+       "para": 1,
+       "text": "His school administration disagreed and gave him a written warning.",
+       "hl": "gave him a written warning"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Ask why, not what",
+       "x": "Purpose questions ask what job the story does in the passage."
+      },
+      {
+       "t": "Find the turn",
+       "x": "\"Today, his decision looks ... like a preview of national policy\" links the story to the main idea."
+      },
+      {
+       "t": "Rule out",
+       "x": "Drop options that over-generalise (\"often\") or claim proof the text does not give."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 7,
+     "q": "What can be inferred from paragraph 7 about Christer Hyggen?",
+     "opts": [
+      "He thinks national rules alone cannot fully control global tech firms.",
+      "He fears that printed textbooks will weaken pupils' digital skills.",
+      "He opposes Norway's planned ban on harmful platforms for children.",
+      "He believes screens are the main cause of the fall in PISA scores."
+     ],
+     "a": 0,
+     "evidence": "because a single small country has limited power over global technology companies",
+     "why": "Hyggen wants change \"across Europe as a whole\" because one small country has limited power over global companies, so he implies national rules alone are not enough.",
+     "optWhy": [
+      "Correct. \"a single small country has limited power over global technology companies\" + change only \"at a larger scale\" = national rules alone are not enough.",
+      "Wrong: borrowed from another paragraph. The worry about digital skills comes from critics in paragraph 6, not from Hyggen.",
+      "Wrong: too extreme. He calls the measures \"superficial\" and says they \"do not go far enough\"; that means he wants more, not that he opposes the ban.",
+      "Wrong: not stated. Hyggen points to platform design, \"addictive features, targeted advertising and the profiling of children's data,\" not to PISA scores."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Others think the reforms do not go far enough.",
+       "hl": "do not go far enough"
+      },
+      {
+       "para": 7,
+       "text": "Yet Hyggen believes that real change can only happen at a larger scale, across Europe as a whole, because a single small country has limited power over global technology companies.",
+       "hl": "a single small country has limited power"
+      },
+      {
+       "para": 6,
+       "text": "Critics of a full retreat also point out that pupils still need digital skills, such as judging whether online information is reliable, and that these skills will not develop if technology is simply removed from classrooms.",
+       "hl": "pupils still need digital skills"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Hyggen",
+       "x": "Paragraph 7 gives his views, starting \"Others think the reforms do not go far enough.\""
+      },
+      {
+       "t": "Read the reason",
+       "x": "\"Because a single small country has limited power\" implies national action is not sufficient."
+      },
+      {
+       "t": "Check the speaker",
+       "x": "Make sure each option belongs to Hyggen, not to the critics in paragraph 6."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Norwegian schools must choose between screens and paper because the two cannot be used together.",
+      "Norwegian schools are now criticised for trusting paper far more than they ever trusted screens.",
+      "The main problem is that schools have now lost their trust in both screens and paper.",
+      "Schools should not simply replace blind trust in screens with equally blind trust in paper."
+     ],
+     "a": 3,
+     "highlight": "The challenge for Norwegian schools now is to avoid swinging from one extreme to the other—replacing an uncritical faith in screens with an equally uncritical faith in paper.",
+     "evidence": "avoid swinging from one extreme to the other",
+     "why": "The sentence warns schools not to move from one uncritical belief (in screens) to another (in paper).",
+     "optWhy": [
+      "Wrong: contradicts the passage. Paragraph 6 says choosing one \"does not have to exclude the other,\" and the sentence warns against extremes, not for an either-or choice.",
+      "Wrong: changes the meaning. The sentence describes a risk to avoid (\"avoid swinging\"); it does not say schools are already being criticised.",
+      "Wrong: changes the meaning. The sentence is about replacing one faith with another, not about losing faith in both.",
+      "Correct. \"avoid ... replacing an uncritical faith in screens with an equally uncritical faith in paper\" = do not swap blind trust in screens for blind trust in paper."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "The challenge for Norwegian schools now is to avoid swinging from one extreme to the other—replacing an uncritical faith in screens with an equally uncritical faith in paper.",
+       "hl": "avoid swinging from one extreme to the other"
+      },
+      {
+       "para": 6,
+       "text": "In her view, a book and a tablet can both be useful, and choosing one does not have to exclude the other.",
+       "hl": "does not have to exclude the other"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the core",
+       "x": "The core is \"avoid swinging from one extreme to the other.\""
+      },
+      {
+       "t": "Decode the dash",
+       "x": "After the dash, the two extremes are uncritical faith in screens and uncritical faith in paper."
+      },
+      {
+       "t": "Check meaning",
+       "x": "Reject options that add criticism, an either-or rule, or a loss of faith in both."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261123-1-k1",
+     "tag": "Policy",
+     "fact": "Norway plans to make access to printed textbooks a legal right.",
+     "q": "What does Norway plan to put into law?",
+     "opts": [
+      "A ban on all tablets",
+      "Pupils' right to printed textbooks",
+      "A required device for every pupil"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261123-1-k2",
+     "tag": "Evidence",
+     "fact": "In PISA 2025, Norway was below the OECD average in reading, maths and science at once for the first time since 2006.",
+     "q": "What did PISA 2025 show about Norway?",
+     "opts": [
+      "It led Europe in reading",
+      "It fell below the OECD average in all three subjects",
+      "Only its maths scores fell"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261123-1-k3",
+     "tag": "Research",
+     "fact": "A 2024 Norwegian commission found students generally understand long texts better on paper.",
+     "q": "What did the 2024 commission conclude?",
+     "opts": [
+      "Long texts are understood better on paper",
+      "Tablets improve concentration",
+      "Handwriting should be dropped"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-1-k4",
+     "tag": "Counterargument",
+     "fact": "A school head argued the screen itself is not the problem; the problem is when the tool matters more than the content.",
+     "q": "According to Silje Ween, what is the real problem?",
+     "opts": [
+      "Screens themselves",
+      "Using the tool in a way that puts it above the content",
+      "Printed books"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261123-1-k5",
+     "tag": "Critique",
+     "fact": "Sociologist Christer Hyggen says the measures are superficial and real change needs action across Europe.",
+     "q": "Why does Hyggen want action across Europe?",
+     "opts": [
+      "One small country has limited power over global tech firms",
+      "Europe has better PISA scores",
+      "Norway has no tech companies"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Norway's screen rethink",
+    "question": "Should schools go back to paper?",
+    "branches": [
+     {
+      "title": "The digital push",
+      "paras": "1–2",
+      "blanks": [
+       "teacher warned for using paper",
+       "one device per Oslo pupil"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Worrying results",
+      "paras": "3",
+      "blanks": [
+       "below OECD average in PISA",
+       "long texts better on paper"
+      ],
+      "kps": [
+       "n20261123-1-k2",
+       "n20261123-1-k3"
+      ]
+     },
+     {
+      "title": "New policies",
+      "paras": "4–5",
+      "blanks": [
+       "right to printed textbooks",
+       "AI introduced gradually"
+      ],
+      "kps": [
+       "n20261123-1-k1"
+      ]
+     },
+     {
+      "title": "Other views",
+      "paras": "6–8",
+      "blanks": [
+       "the use matters, not the screen",
+       "platform design is deeper problem"
+      ],
+      "kps": [
+       "n20261123-1-k4",
+       "n20261123-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "tablets banned from all schools",
+     "screens proven to cause decline"
+    ]
+   },
+   "summary": {
+    "intro": "Norway is bringing printed textbooks back into schools after years of promoting screens.",
+    "model": "Norway pushed screens into classrooms for two decades, but falling PISA scores led it to restore printed textbooks. However, critics argue that how technology is used, and how platforms are designed, matter more than the screen itself.",
+    "options": [
+     {
+      "t": "After years of promoting digital devices, Norway is reversing course and bringing back printed textbooks.",
+      "ok": true,
+      "type": "main",
+      "para": 1,
+      "evidence": "is now bringing printed textbooks back into its schools"
+     },
+     {
+      "t": "Disappointing PISA results and research on reading have pushed the government to change its policies.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "The results, however, have been disappointing."
+     },
+     {
+      "t": "Critics argue that the way technology is used and designed matters more than screens themselves.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "the screen itself is not the problem"
+     },
+     {
+      "t": "Devices promised lighter school bags for Norwegian pupils.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "Devices also promised lighter school bags"
+     },
+     {
+      "t": "Norway's printed textbooks have already raised its PISA scores.",
+      "ok": false,
+      "type": "contra",
+      "para": 8,
+      "evidence": "Whether printed textbooks will raise test scores remains uncertain"
+     },
+     {
+      "t": "Teachers in Norway are paid extra for using paper in class.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some students say they learn better from printed books, while others prefer tablets and laptops. Which do you prefer for studying, and why? Use specific reasons and examples.",
+    "hint": "State your preference; give two reasons (focus, note-taking, access to information); add one personal example; finish with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Larsen: Norway is bringing printed textbooks back into schools after its students' test scores fell, and some say screens were introduced too quickly. Should schools limit the use of tablets and laptops in class? Why or why not?\nMia: \"Yes. Screens are full of distractions, and research suggests we understand long texts better on paper. Schools should use devices only for specific tasks.\"\nKevin: \"I disagree. The problem is not the device but how teachers use it. Students need digital skills for university and work, so removing screens would leave them unprepared.\"",
+    "steps": [
+     "State your position clearly.",
+     "Respond to Mia or Kevin and add a new reason.",
+     "Support it with an example from school life or the article.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261123-2",
+   "topic": "Economy",
+   "title": "Faster Than the Grid: Who Should Pay for AI's Appetite for Power?",
+   "dek": "Data centres' demand for electricity is growing almost ten times faster than the US power grid. Should tech companies pay the full cost, or should everyone share it?",
+   "sources": [
+    {
+     "name": "Fortune, 22 Nov 2026",
+     "url": "https://fortune.com/2026/11/22/ai-data-centers-power-grid-capacity"
+    },
+    {
+     "name": "NPR (via WSKG), 21 Nov 2026",
+     "url": "https://www.wskg.org/npr-climate-reporting/2026-11-21/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
+    }
+   ],
+   "paras": [
+    "Every time someone asks a chatbot a question or streams a video, a computer somewhere in a data centre does the work, and that computer needs electricity. As companies race to build the infrastructure behind artificial intelligence, the demand for that electricity is growing at a remarkable speed. According to an analysis by the insurance broker Howden, the power used by data centres in the United States has risen by an average of 19% a year since 2000, while the country's grid capacity has expanded by only about 2% a year. In other words, demand has been growing nearly ten times faster than the system built to supply it.",
+    "The scale of investment is enormous. The bank Citigroup projects that large technology companies will spend more than $2.8 trillion on AI infrastructure through 2029. Data centres took about 5% of US grid capacity in 2025, and researchers at Lawrence Berkeley National Laboratory estimate that they could consume as much as 12% of the nation's electricity by 2028, roughly six times their 1.9% share in 2018.",
+    "Why can't the grid simply keep up? Rob Gramlich, president of the consulting firm Grid Strategies, describes the problem as a \"mismatch in timing.\" A data centre can be built in a year or two, but new power lines and power plants require careful study and planning that can take many years. After roughly 25 years in which electricity demand barely grew, Gramlich says, utilities got out of practice at building new infrastructure. As a result, Kathryn Burke of the insurance firm Marsh expects around 50% to 60% of data centre projects to be delayed beyond the timelines their developers are counting on.",
+    "The bottleneck is not only a technical issue; it is also a question of fairness. A study by Cornell University researchers, published in the journal Nature Energy, found that data centres pushed up wholesale electricity prices in some regions in 2025, by nearly 20% in the southern San Francisco Bay Area and by about 17% around Dallas–Fort Worth. Across the four grids the researchers examined, data centres paid only 38% of the infrastructure costs linked to their growth: $3.12 billion out of an $8.25 billion bill. The rest fell on other customers, including ordinary households, for whom wholesale prices make up roughly 30% to 50% of a monthly bill.",
+    "Voters have noticed. In local ballot measures held on 3 November, residents rejected data centre development in 40 out of 41 cases. A survey by the University of Pennsylvania's Annenberg Public Policy Center found that 61% of American adults, and 70% of those under 30, oppose new data centres in their area. Elijah Lee, an 18-year-old organiser with the youth group Voters of Tomorrow, told Fortune that he was not excited about growing up having to compete with tech companies over water and energy prices. Some places have gone further: Ohio already has 125 local moratoriums on new data centres.",
+    "Defenders of the industry offer a different perspective. They argue that data centres bring investment, construction jobs and tax revenue, and that leadership in artificial intelligence matters for a country's economic future and security. In their view, the solution is not to block data centres but to make them supply more of their own power. Delaware became the first state to require large energy users to produce or secure all of their electricity, including a share of clean energy, within ten years of starting operations. A bill recently passed by the US Senate would also require data centres to pay for their energy use rather than drive up costs for neighbouring communities.",
+    "Yet \"bring your own power\" has drawbacks too. Many companies are turning to natural gas: the research firm BloombergNEF has tracked 181 gigawatts of gas-fired generation proposed alongside data centres, more than 90% of it in the United States. A Bloomberg News analysis suggests that the planned gas plants could raise emissions from the US power sector by 20%. Experts also warn that large, sudden swings in a data centre's demand can cause outages and damage on-site equipment, so private power plants are not a simple cure.",
+    "The debate ultimately turns on a basic question: who should bear the costs of a new technology whose benefits are spread unevenly? If data centres pay the full price of their electricity, AI may become more expensive and some projects may move elsewhere. If they do not, families who may never use advanced AI tools could end up subsidising them through their power bills. A fair compromise would probably require companies to cover the costs they create while governments speed up the planning of cleaner grids, but finding that balance will be one of the defining economic challenges of the AI era."
+   ],
+   "words": [
+    {
+     "w": "infrastructure",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈɪnfrəstrʌktʃər/",
+     "syl": [
+      "in",
+      "fra",
+      "struc",
+      "ture"
+     ],
+     "def": "the basic systems and structures, such as roads and power lines, that a society or industry needs",
+     "ex": "The new government promised to invest in railways and other infrastructure."
+    },
+    {
+     "w": "capacity",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kəˈpæsəti/",
+     "syl": [
+      "ca",
+      "pac",
+      "i",
+      "ty"
+     ],
+     "def": "the largest amount that a system can produce or hold",
+     "ex": "The stadium has a capacity of about sixty thousand people."
+    },
+    {
+     "w": "consume",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/kənˈsuːm/",
+     "syl": [
+      "con",
+      "sume"
+     ],
+     "def": "to use up energy, time or a resource",
+     "ex": "Old refrigerators consume far more electricity than modern ones."
+    },
+    {
+     "w": "utility",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/juːˈtɪləti/",
+     "syl": [
+      "u",
+      "til",
+      "i",
+      "ty"
+     ],
+     "def": "a company that supplies a public service such as electricity, gas or water",
+     "ex": "The local utility raised electricity prices for the winter."
+    },
+    {
+     "w": "bottleneck",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbɑːtlnek/",
+     "syl": [
+      "bot",
+      "tle",
+      "neck"
+     ],
+     "def": "a point where progress slows down because one part of a system cannot keep up",
+     "ex": "A shortage of nurses has become the main bottleneck in the hospital."
+    },
+    {
+     "w": "wholesale",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈhoʊlseɪl/",
+     "syl": [
+      "whole",
+      "sale"
+     ],
+     "def": "relating to goods or energy sold in large amounts to businesses, which then sell them to customers",
+     "ex": "Wholesale food prices rose sharply after the floods."
+    },
+    {
+     "w": "moratorium",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌmɔːrəˈtɔːriəm/",
+     "syl": [
+      "mor",
+      "a",
+      "to",
+      "ri",
+      "um"
+     ],
+     "def": "an official temporary stop on an activity",
+     "ex": "The town declared a moratorium on new building near the river."
+    },
+    {
+     "w": "drawback",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈdrɔːbæk/",
+     "syl": [
+      "draw",
+      "back"
+     ],
+     "def": "a disadvantage or problem that makes something less attractive",
+     "ex": "The only drawback of the flat is that it has no lift."
+    },
+    {
+     "w": "subsidise",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈsʌbsɪdaɪz/",
+     "syl": [
+      "sub",
+      "si",
+      "dise"
+     ],
+     "def": "to pay part of the cost of something so that others pay less",
+     "ex": "Some cities subsidise public transport to reduce traffic."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "In other words, demand has been growing nearly ten times faster than the system built to supply it.",
+     "kind": "Main idea",
+     "note": "\"In other words\" restates the numbers as one clear idea; it is the core problem of the passage."
+    },
+    {
+     "para": 3,
+     "text": "A data centre can be built in a year or two, but new power lines and power plants require careful study and planning that can take many years.",
+     "kind": "Cause → effect",
+     "note": "Explains the \"mismatch in timing\" with a contrast; good for factual and simplification questions."
+    },
+    {
+     "para": 4,
+     "text": "The bottleneck is not only a technical issue; it is also a question of fairness.",
+     "kind": "Topic sentence",
+     "note": "\"Not only ... also\" shifts the article from engineering to economics and fairness."
+    },
+    {
+     "para": 6,
+     "text": "In their view, the solution is not to block data centres but to make them supply more of their own power.",
+     "kind": "Critical thinking",
+     "note": "\"In their view\" shows this is the industry's opinion, not the author's; watch for attribution in TOEFL questions."
+    },
+    {
+     "para": 7,
+     "text": "Yet \"bring your own power\" has drawbacks too.",
+     "kind": "Topic sentence",
+     "note": "\"Yet\" introduces the limits of the proposed solution: a classic concession pattern."
+    },
+    {
+     "para": 8,
+     "text": "The debate ultimately turns on a basic question: who should bear the costs of a new technology whose benefits are spread unevenly?",
+     "kind": "Author's view",
+     "note": "The author frames the whole debate as a question of fairness; useful for summary questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, what did Howden's analysis find?",
+     "opts": [
+      "US grid capacity has been shrinking by about 2% each year.",
+      "Data centres now use about 19% of all US electricity.",
+      "Data centres' power demand has grown far faster than grid capacity.",
+      "AI chatbots use more electricity than video streaming services."
+     ],
+     "a": 2,
+     "evidence": "while the country's grid capacity has expanded by only about 2% a year",
+     "why": "Howden found data centre power use rose about 19% a year while grid capacity grew only about 2% a year, so demand grew far faster than supply.",
+     "optWhy": [
+      "Wrong: detail distorted. The grid \"has expanded by only about 2% a year\"; it is growing slowly, not shrinking.",
+      "Wrong: number misused. 19% is the yearly growth rate of data centre power use, not their share of US electricity; paragraph 2 gives shares of 5% (grid capacity) and 1.9% (2018).",
+      "Correct. \"risen by an average of 19% a year\" vs \"expanded by only about 2% a year\" = demand grew far faster than capacity.",
+      "Wrong: not mentioned. Chatbots and video streaming are given only as examples of data centre work; they are never compared."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "According to an analysis by the insurance broker Howden, the power used by data centres in the United States has risen by an average of 19% a year since 2000, while the country's grid capacity has expanded by only about 2% a year.",
+       "hl": "expanded by only about 2% a year"
+      },
+      {
+       "para": 2,
+       "text": "Data centres took about 5% of US grid capacity in 2025, and researchers at Lawrence Berkeley National Laboratory estimate that they could consume as much as 12% of the nation's electricity by 2028, roughly six times their 1.9% share in 2018.",
+       "hl": "about 5% of US grid capacity"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Howden",
+       "x": "Howden's analysis is in the third sentence of paragraph 1."
+      },
+      {
+       "t": "Read both numbers",
+       "x": "19% is demand growth per year; 2% is grid growth per year."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that turn a growth rate into a share or change \"expanded\" into \"shrinking\"."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"practice\" in the phrase \"got out of practice\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "regular experience that keeps a skill strong",
+      "the business of a doctor or a lawyer",
+      "a custom that a group usually follows",
+      "a training session held before a match"
+     ],
+     "a": 0,
+     "evidence": "utilities got out of practice at building new infrastructure",
+     "why": "After 25 years of little growth, utilities rarely built new infrastructure, so they lost the regular experience that keeps a skill strong.",
+     "optWhy": [
+      "Correct. \"got out of practice\" after \"25 years in which electricity demand barely grew\" = lost the regular experience that keeps the building skill strong.",
+      "Wrong: another meaning of the word. A doctor's or lawyer's \"practice\" is their business, which does not fit utilities building power lines.",
+      "Wrong: another meaning of the word. \"Practice\" can mean a custom (\"common practice\"), but the phrase is about losing a skill, not a tradition.",
+      "Wrong: too narrow and literal. \"Practice\" can be a training session in sport, but utilities did not miss a session; they lacked years of experience."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "After roughly 25 years in which electricity demand barely grew, Gramlich says, utilities got out of practice at building new infrastructure.",
+       "hl": "got out of practice"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "\"Got out of practice\" is in paragraph 3, after the 25 years of flat demand."
+      },
+      {
+       "t": "Use the cause",
+       "x": "Demand \"barely grew\", so utilities seldom built anything and lost the skill."
+      },
+      {
+       "t": "Rule out",
+       "x": "Drop other meanings of \"practice\": a doctor's business, a custom, a sports session."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author mention the estimate by Lawrence Berkeley National Laboratory in paragraph 2?",
+     "opts": [
+      "To question how accurate Citigroup's spending forecast is",
+      "To show that data centres used little power in 2018",
+      "To explain why power lines take many years to build",
+      "To show how quickly data centres' share of power may grow"
+     ],
+     "a": 3,
+     "evidence": "roughly six times their 1.9% share in 2018",
+     "why": "The estimate (up to 12% by 2028, about six times the 2018 share) illustrates how fast data centres' share of US electricity may rise.",
+     "optWhy": [
+      "Wrong: not supported. The two figures appear side by side to show scale; the author never doubts Citigroup's forecast.",
+      "Wrong: true but not the purpose. The 1.9% figure is a starting point used to show growth (\"six times\"), not the point itself.",
+      "Wrong: detail from another paragraph. Planning times for power lines are explained in paragraph 3, not by this estimate.",
+      "Correct. \"as much as 12% ... by 2028, roughly six times their 1.9% share in 2018\" = their share may grow very quickly."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Data centres took about 5% of US grid capacity in 2025, and researchers at Lawrence Berkeley National Laboratory estimate that they could consume as much as 12% of the nation's electricity by 2028, roughly six times their 1.9% share in 2018.",
+       "hl": "roughly six times their 1.9% share in 2018"
+      },
+      {
+       "para": 3,
+       "text": "A data centre can be built in a year or two, but new power lines and power plants require careful study and planning that can take many years.",
+       "hl": "can take many years"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the estimate",
+       "x": "It is in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Link to the paragraph's point",
+       "x": "Paragraph 2 opens with \"The scale of investment is enormous\", so the numbers show scale and growth."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that are true details but not the reason, or that come from paragraph 3."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about a rise in wholesale electricity prices?",
+     "opts": [
+      "It does not affect what households pay each month.",
+      "It raises household bills, but by less than the full increase.",
+      "It doubles the monthly bills of most ordinary households.",
+      "It affects only businesses that buy power from data centres."
+     ],
+     "a": 1,
+     "evidence": "wholesale prices make up roughly 30% to 50% of a monthly bill",
+     "why": "Wholesale prices are only part (30–50%) of a household bill, so a wholesale rise increases bills, but by a smaller percentage than the wholesale rise itself.",
+     "optWhy": [
+      "Wrong: contradicts the text. Wholesale prices \"make up roughly 30% to 50% of a monthly bill\", so they do affect what households pay.",
+      "Correct. If wholesale prices are only \"30% to 50% of a monthly bill\", a 20% wholesale rise lifts the whole bill by a smaller share.",
+      "Wrong: too extreme. Wholesale rises of about 17–20% cannot double a bill when wholesale is only part of it.",
+      "Wrong: contradicts the text. The costs fell on \"other customers, including ordinary households.\""
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The rest fell on other customers, including ordinary households, for whom wholesale prices make up roughly 30% to 50% of a monthly bill.",
+       "hl": "roughly 30% to 50% of a monthly bill"
+      },
+      {
+       "para": 4,
+       "text": "A study by Cornell University researchers, published in the journal Nature Energy, found that data centres pushed up wholesale electricity prices in some regions in 2025, by nearly 20% in the southern San Francisco Bay Area and by about 17% around Dallas–Fort Worth.",
+       "hl": "by nearly 20%"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the numbers",
+       "x": "Paragraph 4 gives the wholesale rise (17–20%) and the wholesale share of a bill (30–50%)."
+      },
+      {
+       "t": "Combine them",
+       "x": "A rise in one part of the bill raises the total by a smaller percentage."
+      },
+      {
+       "t": "Rule out",
+       "x": "Drop \"no effect\", \"doubles\" and \"only businesses\": each contradicts or exaggerates the text."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following show public opposition to data centres EXCEPT",
+     "opts": [
+      "local moratoriums on new data centres in Ohio",
+      "results of local ballot measures held on 3 November",
+      "a national ban on new data centres passed by Congress",
+      "a survey showing that most adults oppose new ones nearby"
+     ],
+     "a": 2,
+     "evidence": "residents rejected data centre development in 40 out of 41 cases",
+     "why": "Paragraph 5 mentions ballot measures, a survey and Ohio's moratoriums. It never mentions a national ban by Congress.",
+     "optWhy": [
+      "Wrong: this is mentioned. \"Ohio already has 125 local moratoriums on new data centres.\"",
+      "Wrong: this is mentioned. \"residents rejected data centre development in 40 out of 41 cases.\"",
+      "Correct (the exception). No national ban appears; paragraph 6 mentions only a Senate bill requiring data centres to pay for their energy, which is not a ban.",
+      "Wrong: this is mentioned. The Annenberg survey found \"61% of American adults\" oppose new data centres in their area."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "In local ballot measures held on 3 November, residents rejected data centre development in 40 out of 41 cases.",
+       "hl": "40 out of 41 cases"
+      },
+      {
+       "para": 6,
+       "text": "A bill recently passed by the US Senate would also require data centres to pay for their energy use rather than drive up costs for neighbouring communities.",
+       "hl": "require data centres to pay for their energy use"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the evidence",
+       "x": "Paragraph 5 gives ballot results, a survey, a quote and Ohio's moratoriums."
+      },
+      {
+       "t": "Match each option",
+       "x": "Tick the three options that match those details."
+      },
+      {
+       "t": "Watch for borrowing",
+       "x": "The Senate bill in paragraph 6 is about payment, not a ban, and it is not from Congress as a whole."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Families who use AI tools should pay higher power bills than other families.",
+      "Unless data centres pay in full, households that may not use AI could help pay for it.",
+      "Families will probably stop using AI tools if their power bills keep rising.",
+      "Data centres help to lower families' power bills when they pay too much."
+     ],
+     "a": 1,
+     "highlight": "If they do not, families who may never use advanced AI tools could end up subsidising them through their power bills.",
+     "evidence": "families who may never use advanced AI tools could end up subsidising them",
+     "why": "\"If they do not\" means if data centres do not pay the full price; then families who may not even use AI could pay part of its cost through their bills.",
+     "optWhy": [
+      "Wrong: changes the meaning. The sentence is about families who may never use AI, not about charging AI users more.",
+      "Correct. \"If they do not [pay the full price]\" = unless data centres pay in full; \"families who may never use advanced AI tools could end up subsidising them\" = non-users could help pay.",
+      "Wrong: not stated. The sentence predicts who pays, not whether families will stop using AI.",
+      "Wrong: reverses the relationship. Families subsidise data centres, not the other way round."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "If data centres pay the full price of their electricity, AI may become more expensive and some projects may move elsewhere.",
+       "hl": "pay the full price of their electricity"
+      },
+      {
+       "para": 8,
+       "text": "If they do not, families who may never use advanced AI tools could end up subsidising them through their power bills.",
+       "hl": "could end up subsidising them"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Resolve \"they\"",
+       "x": "The previous sentence shows \"they\" = data centres and \"do not\" = do not pay the full price."
+      },
+      {
+       "t": "Find who pays whom",
+       "x": "Families (possibly non-users) subsidise data centres through bills."
+      },
+      {
+       "t": "Check direction",
+       "x": "Reject options that reverse who pays or add claims about AI use."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261123-2-k1",
+     "tag": "Numbers",
+     "fact": "Since 2000, US data centre power use has grown about 19% a year, while grid capacity has grown about 2% a year.",
+     "q": "How fast has US grid capacity grown each year?",
+     "opts": [
+      "About 2%",
+      "About 19%",
+      "About 12%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-2-k2",
+     "tag": "Cause",
+     "fact": "Grid expansion is slow because new lines and plants need years of study and planning, and utilities got out of practice.",
+     "q": "What is the \"mismatch in timing\"?",
+     "opts": [
+      "Data centres are built faster than the grid can expand",
+      "Power plants are built faster than data centres",
+      "Voters decide too slowly"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-2-k3",
+     "tag": "Fairness",
+     "fact": "In four grids studied by Cornell, data centres paid only 38% of the infrastructure costs linked to their growth.",
+     "q": "What share of related grid costs did data centres pay in the Cornell study?",
+     "opts": [
+      "38%",
+      "50%",
+      "100%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-2-k4",
+     "tag": "Public opinion",
+     "fact": "Voters rejected data centre development in 40 of 41 local ballot measures on 3 November.",
+     "q": "How many of 41 local ballot measures rejected data centres?",
+     "opts": [
+      "40",
+      "21",
+      "1"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-2-k5",
+     "tag": "Trade-off",
+     "fact": "\"Bring your own power\" often means new gas plants, which could raise US power-sector emissions by 20%.",
+     "q": "What is one drawback of data centres building their own gas power?",
+     "opts": [
+      "Higher emissions",
+      "Lower electricity use",
+      "Fewer outages"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "AI's power problem",
+    "question": "Who should pay for data centres' electricity?",
+    "branches": [
+     {
+      "title": "Soaring demand",
+      "paras": "1–2",
+      "blanks": [
+       "19% a year vs 2%",
+       "up to 12% by 2028"
+      ],
+      "kps": [
+       "n20261123-2-k1"
+      ]
+     },
+     {
+      "title": "Slow grid",
+      "paras": "3",
+      "blanks": [
+       "a mismatch in timing",
+       "projects delayed"
+      ],
+      "kps": [
+       "n20261123-2-k2"
+      ]
+     },
+     {
+      "title": "Who pays",
+      "paras": "4–5",
+      "blanks": [
+       "data centres paid only 38%",
+       "voters reject projects"
+      ],
+      "kps": [
+       "n20261123-2-k3",
+       "n20261123-2-k4"
+      ]
+     },
+     {
+      "title": "Possible solutions",
+      "paras": "6–8",
+      "blanks": [
+       "bring your own power",
+       "gas raises emissions"
+      ],
+      "kps": [
+       "n20261123-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "electricity prices fell",
+     "Congress bans data centres"
+    ]
+   },
+   "summary": {
+    "intro": "Data centres' demand for electricity in the United States is growing much faster than the power grid.",
+    "model": "Because data centres are built far faster than the grid can expand, their costs often fall on ordinary households, so voters are pushing back. However, making them supply their own power raises new problems such as higher emissions.",
+    "options": [
+     {
+      "t": "Data centres' electricity demand is rising far faster than the grid can grow, partly because new power lines take years to plan.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "mismatch in timing"
+     },
+     {
+      "t": "Much of the cost of serving data centres has fallen on other customers, fuelling public opposition.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "The rest fell on other customers, including ordinary households"
+     },
+     {
+      "t": "Making data centres supply their own power is one proposed solution, but it has drawbacks such as higher emissions.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "has drawbacks too"
+     },
+     {
+      "t": "Northern Virginia and other regions sell much of their power to businesses.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Ohio already has 125 local moratoriums on new data centres.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "Ohio already has 125 local moratoriums on new data centres"
+     },
+     {
+      "t": "Data centres paid most of the grid costs linked to their growth.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "data centres paid only 38% of the infrastructure costs"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think big technology companies should pay the full cost of the electricity and power lines their data centres need, even if this makes AI services more expensive. Others think the costs should be shared because everyone benefits from new technology. Which view do you agree with, and why?",
+    "hint": "Choose a side; give two reasons (fairness, innovation, local impact); use one number from the article; conclude in one sentence.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: In the United States, demand for electricity from data centres is growing almost ten times faster than the power grid, and one study found that data centres paid only 38% of the grid costs linked to their growth. Should local communities have the right to block new data centres? Why or why not?\nLena: \"Yes. People who live nearby face higher bills and pressure on water and energy, so they should decide. In 40 of 41 local votes this month, residents said no.\"\nOmar: \"I don't think so. Data centres bring jobs and tax money, and a country needs them to stay competitive in AI. The better solution is to make companies pay for their own power, not to ban them.\"",
+    "steps": [
+     "State whether communities should be able to block data centres.",
+     "Respond to Lena or Omar with a new reason.",
+     "Give an example or a figure from the article.",
+     "Finish with a short conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261123-3",
+   "topic": "Animals",
+   "title": "Would Culling Seals Save Salmon? A Food-Web Model Says Probably Not",
+   "dek": "Seals and sea lions eat salmon, so killing them seems an obvious way to help the fish. A new study in Science suggests nature is not that simple.",
+   "sources": [
+    {
+     "name": "EurekAlert! / Science (AAAS), 19 Nov 2026",
+     "url": "https://www.eurekalert.org/news-releases/1151922"
+    },
+    {
+     "name": "Nature World News, 20 Nov 2026",
+     "url": "https://www.natureworldnews.com/articles/73958/20261120/culling-seals-sea-lions-wont-bring-back-west-coast-salmon-science-study-finds.htm"
+    },
+    {
+     "name": "KUOW, 22 Jul 2026 (background)",
+     "url": "https://www.kuow.org/science/2026-07-22/can-killing-seals-save-salmon-conservationists-and-washington-lawmakers-disagree"
+    }
+   ],
+   "paras": [
+    "Along the Pacific coast of North America, salmon are much more than a food. They are central to Indigenous cultures, commercial fishing and the health of rivers and forests. Yet many populations of Chinook and coho salmon have declined so sharply that they are now listed as threatened or endangered. As the fish have struggled, another group of animals has thrived: seals and sea lions, whose numbers recovered after the United States banned most hunting of marine mammals in 1972. To many fishers and some lawmakers, the conclusion seems obvious: if seals eat salmon, killing seals should bring salmon back.",
+    "A study published in the journal Science on 19 November 2026 suggests the answer is far less simple. A team led by Dylan Gomes, of Oregon State University's Marine Mammal Institute and the US National Oceanic and Atmospheric Administration (NOAA), built a computer model of the ocean ecosystem off Northern California, Oregon and Washington. Instead of looking only at how many salmon seals eat, the model tracked who eats whom across the whole food web. The researchers then tested what would happen to Chinook and coho salmon if seals, sea lions, seabirds and other predators were reduced on a large scale.",
+    "Their conclusion was that widespread culling would do little to restore salmon populations. The reason lies in indirect effects. Seals and sea lions do eat salmon, but they also eat other fish, including Pacific hake, a far more abundant species that competes with young salmon for food and sometimes eats them. Remove the predators, and hake can multiply, which may cancel out any benefit to salmon. As the authors put it, broad culls \"may do more harm than good.\" In the model, the strongest increase in salmon came not from killing seals but from reducing hake.",
+    "That does not mean fishing more hake is an easy answer. The researchers warn that a larger hake harvest could accidentally catch more salmon as bycatch and trigger other changes in the ecosystem. They also note that large-scale removals of marine mammals and seabirds would be expensive, difficult to carry out, and both ethically and socially problematic. Meanwhile, the ocean itself is changing: warming waters put major pressure on salmon, alongside dams, habitat loss and fishing, problems that no cull can solve.",
+    "Supporters of predator control see the issue differently. Wildlife managers point out that seals and sea lions often gather at narrow \"bottlenecks,\" such as dams, bridges and fish ladders, where young or returning fish are easy to catch. Near Washington's Hood Canal Bridge, for example, studies have found that seals and sea lions can eat up to half of the young steelhead, a close relative of salmon, migrating past. A Washington state wildlife official, Nate Pamplin, told lawmakers in July that targeted removals of sea lions on the Columbia River since 2020 had saved an estimated 64,000 returning Chinook. Some tribal leaders, whose treaty rights protect their fisheries, add that certain animals have learned to ignore non-lethal deterrents.",
+    "Interestingly, the new study does not completely reject this view. It suggests that removing individual animals at specific bottlenecks may sometimes help, even though broad culls along the coast are likely to be costly and ineffective. This distinction matters for current politics. A bill introduced in the US Congress by two Washington representatives, one Republican and one Democrat, would expand the ability of federal, state and tribal authorities to remove seals and sea lions from Washington waters. Its supporters describe it as a tool to be used alongside habitat restoration rather than a complete solution.",
+    "Conservationists, however, worry that the predators are being blamed for a crisis with deeper roots. Casey Mclean, who runs a marine mammal rescue centre in Washington, notes that the salmon crisis has been going on for a very long time and that seals eat dozens of different fish species. A 2022 review commissioned by the Washington State Academy of Sciences reached a similar conclusion: while seals and sea lions can reduce salmon numbers in particular places, they are probably not a primary cause of the failure of salmon to recover.",
+    "The debate illustrates a common trap in environmental policy: focusing on the most visible culprit rather than the whole system. Killing a predator is a dramatic, easily understood action, while restoring rivers, removing dams or adapting to warmer oceans is slow and expensive. The Science study is a model, not a field experiment, and its results depend on the data fed into it. Still, it offers a valuable reminder that in nature every action has side effects, and that the most obvious solution is not always the most effective one."
+   ],
+   "words": [
+    {
+     "w": "cull",
+     "level": "Topic term",
+     "pos": "verb / noun",
+     "ipa": "/kʌl/",
+     "syl": [
+      "cull"
+     ],
+     "def": "to kill some animals of a group in order to reduce their numbers; (noun) such a killing",
+     "ex": "Farmers asked permission to cull the deer that were destroying their crops."
+    },
+    {
+     "w": "predator",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpredətər/",
+     "syl": [
+      "pred",
+      "a",
+      "tor"
+     ],
+     "def": "an animal that hunts and eats other animals",
+     "ex": "The owl is a skilled predator that hunts at night."
+    },
+    {
+     "w": "abundant",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/əˈbʌndənt/",
+     "syl": [
+      "a",
+      "bun",
+      "dant"
+     ],
+     "def": "existing in large numbers or amounts",
+     "ex": "Fresh water is abundant in the region after the spring rains."
+    },
+    {
+     "w": "restore",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/rɪˈstɔːr/",
+     "syl": [
+      "re",
+      "store"
+     ],
+     "def": "to bring something back to an earlier, healthier or better condition",
+     "ex": "Volunteers are working to restore the old wetland for birds."
+    },
+    {
+     "w": "bycatch",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbaɪkætʃ/",
+     "syl": [
+      "by",
+      "catch"
+     ],
+     "def": "fish or other sea animals caught by accident while fishing for a different species",
+     "ex": "Turtles are often part of the bycatch in shrimp nets."
+    },
+    {
+     "w": "habitat",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈhæbɪtæt/",
+     "syl": [
+      "hab",
+      "i",
+      "tat"
+     ],
+     "def": "the natural home or environment of an animal or plant",
+     "ex": "Cutting down the forest destroyed the orangutans' habitat."
+    },
+    {
+     "w": "migrate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈmaɪɡreɪt/",
+     "syl": [
+      "mi",
+      "grate"
+     ],
+     "def": "(of animals) to travel from one region to another, often at a particular time of year",
+     "ex": "Many birds migrate south before winter arrives."
+    },
+    {
+     "w": "deterrent",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/dɪˈtɜːrənt/",
+     "syl": [
+      "de",
+      "ter",
+      "rent"
+     ],
+     "def": "something that makes people or animals less likely to do something",
+     "ex": "Bright lights act as a deterrent to bears near the campsite."
+    },
+    {
+     "w": "primary",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈpraɪmeri/",
+     "syl": [
+      "pri",
+      "ma",
+      "ry"
+     ],
+     "def": "most important; main",
+     "ex": "Cost was the primary reason the city cancelled the project."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "To many fishers and some lawmakers, the conclusion seems obvious: if seals eat salmon, killing seals should bring salmon back.",
+     "kind": "Main idea",
+     "note": "\"Seems obvious\" sets up a common belief that the rest of the passage will challenge."
+    },
+    {
+     "para": 2,
+     "text": "Instead of looking only at how many salmon seals eat, the model tracked who eats whom across the whole food web.",
+     "kind": "Key details",
+     "note": "Explains what makes the study different; \"instead of\" contrasts a narrow view with a whole-system view."
+    },
+    {
+     "para": 3,
+     "text": "Remove the predators, and hake can multiply, which may cancel out any benefit to salmon.",
+     "kind": "Cause → effect",
+     "note": "The key mechanism of the passage: an indirect effect through another species."
+    },
+    {
+     "para": 5,
+     "text": "Supporters of predator control see the issue differently.",
+     "kind": "Topic sentence",
+     "note": "Signals the opposing view; TOEFL often asks why such paragraphs are included."
+    },
+    {
+     "para": 6,
+     "text": "Interestingly, the new study does not completely reject this view.",
+     "kind": "Critical thinking",
+     "note": "A concession: the study accepts targeted removals may help, which avoids an either-or conclusion."
+    },
+    {
+     "para": 8,
+     "text": "The debate illustrates a common trap in environmental policy: focusing on the most visible culprit rather than the whole system.",
+     "kind": "Author's view",
+     "note": "The author's general lesson; useful for summary and main-idea questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Factual information",
+     "para": 1,
+     "q": "According to paragraph 1, why did the numbers of seals and sea lions recover?",
+     "opts": [
+      "Salmon had become more plentiful along the Pacific coast.",
+      "Indigenous groups began to protect them on tribal lands.",
+      "Lawmakers paid fishers to stop catching their main prey.",
+      "The United States banned most hunting of marine mammals."
+     ],
+     "a": 3,
+     "evidence": "whose numbers recovered after the United States banned most hunting of marine mammals in 1972",
+     "why": "Paragraph 1 says seal and sea lion numbers recovered after the US banned most hunting of marine mammals in 1972.",
+     "optWhy": [
+      "Wrong: contradicts the text. Salmon populations \"have declined so sharply\" that many are endangered; they did not become plentiful.",
+      "Wrong: not mentioned. Indigenous cultures are mentioned only in connection with salmon, not with protecting seals.",
+      "Wrong: not mentioned. Nothing is said about paying fishers; lawmakers appear only as people who think culling seems obvious.",
+      "Correct. \"recovered after the United States banned most hunting of marine mammals in 1972\" = the hunting ban explains the recovery."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "As the fish have struggled, another group of animals has thrived: seals and sea lions, whose numbers recovered after the United States banned most hunting of marine mammals in 1972.",
+       "hl": "banned most hunting of marine mammals in 1972"
+      },
+      {
+       "para": 1,
+       "text": "Yet many populations of Chinook and coho salmon have declined so sharply that they are now listed as threatened or endangered.",
+       "hl": "declined so sharply"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key words",
+       "x": "Look for \"seals and sea lions\" and \"recovered\" in paragraph 1."
+      },
+      {
+       "t": "Read the reason",
+       "x": "\"After the United States banned most hunting\" gives the cause."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that contradict the salmon decline or are not mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The phrase \"cancel out\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "officially call off",
+      "balance and remove the effect of",
+      "cross out in writing",
+      "postpone until a later time"
+     ],
+     "a": 1,
+     "evidence": "which may cancel out any benefit to salmon",
+     "why": "If hake multiply, the extra hake eat and compete with salmon, which balances out (removes) the benefit of having fewer seals.",
+     "optWhy": [
+      "Wrong: another meaning of \"cancel\". You can cancel (call off) a meeting, but a benefit to salmon is not an event that is called off.",
+      "Correct. \"hake can multiply, which may cancel out any benefit\" = the increase in hake balances and removes the benefit.",
+      "Wrong: another meaning of \"cancel\". Crossing out words in writing does not fit a process in an ecosystem.",
+      "Wrong: changes the meaning. The benefit is not delayed; it may disappear, as \"do little to restore salmon populations\" shows."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Remove the predators, and hake can multiply, which may cancel out any benefit to salmon.",
+       "hl": "cancel out any benefit"
+      },
+      {
+       "para": 3,
+       "text": "Their conclusion was that widespread culling would do little to restore salmon populations.",
+       "hl": "do little to restore"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "\"Cancel out\" is in paragraph 3, after \"hake can multiply\"."
+      },
+      {
+       "t": "Use cause and effect",
+       "x": "More hake means more competition and predation, so the gain for salmon is removed."
+      },
+      {
+       "t": "Rule out",
+       "x": "Drop the other meanings of \"cancel\": calling off, crossing out, postponing."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about Pacific hake?",
+     "opts": [
+      "It is the main food of every seal and sea lion.",
+      "It is threatened with extinction, just like salmon.",
+      "Seals and sea lions partly keep its numbers in check.",
+      "It never eats salmon, but competes with them for food."
+     ],
+     "a": 2,
+     "evidence": "Remove the predators, and hake can multiply",
+     "why": "If removing seals and sea lions lets hake multiply, then these predators must currently help keep hake numbers down.",
+     "optWhy": [
+      "Wrong: too extreme. Seals eat \"other fish, including Pacific hake\"; the text never says hake is the main food of every seal.",
+      "Wrong: contradicts the text. Hake is \"a far more abundant species\", not a threatened one.",
+      "Correct. \"Remove the predators, and hake can multiply\" implies the predators now keep hake numbers in check.",
+      "Wrong: contradicts the text. Hake \"competes with young salmon for food and sometimes eats them\"."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Seals and sea lions do eat salmon, but they also eat other fish, including Pacific hake, a far more abundant species that competes with young salmon for food and sometimes eats them.",
+       "hl": "a far more abundant species"
+      },
+      {
+       "para": 3,
+       "text": "Remove the predators, and hake can multiply, which may cancel out any benefit to salmon.",
+       "hl": "hake can multiply"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find hake",
+       "x": "Paragraph 3 describes hake and what happens when predators are removed."
+      },
+      {
+       "t": "Reverse the condition",
+       "x": "If no predators means more hake, then predators now limit hake."
+      },
+      {
+       "t": "Check the details",
+       "x": "\"Abundant\" and \"sometimes eats them\" rule out two options."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention the Hood Canal Bridge in paragraph 5?",
+     "opts": [
+      "To give an example of a place where predators take many young fish",
+      "To show that steelhead are more endangered than any salmon species",
+      "To suggest that bridges should be removed to help salmon migrate",
+      "To prove that large culls along the whole coast are effective"
+     ],
+     "a": 0,
+     "evidence": "Near Washington's Hood Canal Bridge, for example",
+     "why": "\"For example\" shows the bridge illustrates the \"bottlenecks\" just mentioned, where seals and sea lions can eat up to half of the young steelhead passing by.",
+     "optWhy": [
+      "Correct. \"for example\" + \"can eat up to half of the young steelhead ... migrating past\" = an example of a bottleneck where predators take many young fish.",
+      "Wrong: not mentioned. Steelhead are called \"a close relative of salmon\"; their endangered status is never compared.",
+      "Wrong: not mentioned. Removing dams is discussed in paragraph 8, but no one suggests removing the bridge.",
+      "Wrong: too extreme / confuses targeted and broad action. The example supports action at bottlenecks; paragraph 6 says broad culls \"are likely to be costly and ineffective\"."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Wildlife managers point out that seals and sea lions often gather at narrow \"bottlenecks,\" such as dams, bridges and fish ladders, where young or returning fish are easy to catch.",
+       "hl": "narrow \"bottlenecks,\""
+      },
+      {
+       "para": 5,
+       "text": "Near Washington's Hood Canal Bridge, for example, studies have found that seals and sea lions can eat up to half of the young steelhead, a close relative of salmon, migrating past.",
+       "hl": "for example"
+      },
+      {
+       "para": 6,
+       "text": "It suggests that removing individual animals at specific bottlenecks may sometimes help, even though broad culls along the coast are likely to be costly and ineffective.",
+       "hl": "costly and ineffective"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Spot the signal",
+       "x": "\"For example\" tells you the bridge illustrates the sentence before it."
+      },
+      {
+       "t": "Link to the claim",
+       "x": "The claim is that predators gather at bottlenecks where fish are easy to catch."
+      },
+      {
+       "t": "Rule out",
+       "x": "Reject options that exaggerate (\"prove\", \"whole coast\") or add ideas not in the text."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are problems with possible solutions or causes of salmon decline EXCEPT",
+     "opts": [
+      "salmon accidentally caught by larger hake fisheries",
+      "the high cost of removing many marine mammals",
+      "warming waters that put pressure on salmon",
+      "orcas losing the salmon they depend on for food"
+     ],
+     "a": 3,
+     "evidence": "a larger hake harvest could accidentally catch more salmon as bycatch",
+     "why": "Paragraph 4 mentions bycatch, the cost and difficulty of large removals, and warming waters. It never mentions orcas.",
+     "optWhy": [
+      "Wrong: this is mentioned. \"a larger hake harvest could accidentally catch more salmon as bycatch.\"",
+      "Wrong: this is mentioned. Large-scale removals \"would be expensive, difficult to carry out.\"",
+      "Wrong: this is mentioned. \"warming waters put major pressure on salmon.\"",
+      "Correct (the exception). Orcas do not appear anywhere in the passage."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The researchers warn that a larger hake harvest could accidentally catch more salmon as bycatch and trigger other changes in the ecosystem.",
+       "hl": "bycatch"
+      },
+      {
+       "para": 4,
+       "text": "Meanwhile, the ocean itself is changing: warming waters put major pressure on salmon, alongside dams, habitat loss and fishing, problems that no cull can solve.",
+       "hl": "warming waters put major pressure on salmon"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan paragraph 4",
+       "x": "List the problems: bycatch, cost and ethics of removals, warming waters, dams, habitat loss."
+      },
+      {
+       "t": "Match the options",
+       "x": "Tick each option that matches a phrase in the paragraph."
+      },
+      {
+       "t": "Choose the missing one",
+       "x": "Orcas are never mentioned, so that option is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Culling predators is simple and visible, but fixing deeper causes of decline is slow and costly.",
+      "Restoring rivers is dramatic and easy, but killing predators is slow and very expensive.",
+      "Because culling costs so much, governments usually prefer to remove dams and restore rivers.",
+      "Both killing predators and restoring rivers are slow actions that most people understand easily."
+     ],
+     "a": 0,
+     "highlight": "Killing a predator is a dramatic, easily understood action, while restoring rivers, removing dams or adapting to warmer oceans is slow and expensive.",
+     "evidence": "Killing a predator is a dramatic, easily understood action",
+     "why": "The sentence contrasts culling (dramatic, easy to understand) with long-term fixes such as restoring rivers (slow and expensive).",
+     "optWhy": [
+      "Correct. \"dramatic, easily understood action\" = simple and visible; \"restoring rivers, removing dams or adapting to warmer oceans is slow and expensive\" = fixing deeper causes is slow and costly.",
+      "Wrong: details swapped. The text says killing is dramatic and easily understood, and restoring rivers is slow and expensive, not the reverse.",
+      "Wrong: adds a cause. The sentence does not say what governments prefer or that culling is the costly option.",
+      "Wrong: changes the meaning. The sentence contrasts the two actions with \"while\"; it does not say both are slow."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "Killing a predator is a dramatic, easily understood action, while restoring rivers, removing dams or adapting to warmer oceans is slow and expensive.",
+       "hl": "while"
+      },
+      {
+       "para": 8,
+       "text": "The debate illustrates a common trap in environmental policy: focusing on the most visible culprit rather than the whole system.",
+       "hl": "the most visible culprit"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "\"While\" divides the sentence into two opposite actions."
+      },
+      {
+       "t": "Keep both halves",
+       "x": "Culling = dramatic and easy to understand; long-term fixes = slow and expensive."
+      },
+      {
+       "t": "Check for swaps",
+       "x": "Reject options that reverse the halves or add a cause."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261123-3-k1",
+     "tag": "Study",
+     "fact": "A Science study used a food-web model of the ocean off Northern California, Oregon and Washington.",
+     "q": "What kind of study was it?",
+     "opts": [
+      "A food-web computer model",
+      "A field experiment killing seals",
+      "A survey of fishers"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-3-k2",
+     "tag": "Finding",
+     "fact": "Widespread culling of seals and sea lions would do little to restore salmon populations.",
+     "q": "What did the model find about widespread culling?",
+     "opts": [
+      "It would do little to help salmon",
+      "It would double salmon numbers",
+      "It would end hake fishing"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-3-k3",
+     "tag": "Mechanism",
+     "fact": "Seals also eat Pacific hake, which competes with and sometimes eats young salmon; fewer seals can mean more hake.",
+     "q": "Why might culling seals fail to help salmon?",
+     "opts": [
+      "Hake could multiply",
+      "Seals do not eat salmon",
+      "Salmon need seals for food"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-3-k4",
+     "tag": "Other view",
+     "fact": "Targeted removals at bottlenecks such as dams and bridges may sometimes help salmon.",
+     "q": "Where might removing individual predators help?",
+     "opts": [
+      "At bottlenecks like dams and bridges",
+      "Across the whole coast",
+      "In the open ocean"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261123-3-k5",
+     "tag": "Bigger picture",
+     "fact": "Warming waters, dams, habitat loss and fishing put major pressure on salmon.",
+     "q": "Which of these is a major pressure on salmon named in the article?",
+     "opts": [
+      "Warming waters",
+      "Too many fish ladders",
+      "Cold winters"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Seals vs salmon",
+    "question": "Would culling predators save salmon?",
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1",
+      "blanks": [
+       "salmon declining sharply",
+       "seals recovered after 1972"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Study findings",
+      "paras": "2–4",
+      "blanks": [
+       "whole food web modelled",
+       "hake can multiply"
+      ],
+      "kps": [
+       "n20261123-3-k1",
+       "n20261123-3-k2",
+       "n20261123-3-k3"
+      ]
+     },
+     {
+      "title": "Case for removals",
+      "paras": "5–6",
+      "blanks": [
+       "predators gather at bottlenecks",
+       "targeted removals may help"
+      ],
+      "kps": [
+       "n20261123-3-k4"
+      ]
+     },
+     {
+      "title": "Deeper causes",
+      "paras": "7–8",
+      "blanks": [
+       "warming oceans and dams",
+       "visible culprit trap"
+      ],
+      "kps": [
+       "n20261123-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "seals eat only salmon",
+     "orcas are culled"
+    ]
+   },
+   "summary": {
+    "intro": "A new study examines whether killing seals and sea lions would help endangered salmon on the US Pacific coast.",
+    "model": "A food-web model suggests that broad culls of seals and sea lions would do little for salmon because the predators also control fish such as hake. However, targeted removals may help at bottlenecks, while deeper causes like warming oceans remain.",
+    "options": [
+     {
+      "t": "A food-web model suggests broad culls would not restore salmon, because removing predators lets competitors such as hake increase.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "widespread culling would do little to restore salmon populations"
+     },
+     {
+      "t": "Supporters of predator control argue that removing animals at bottlenecks can save many fish, and the study partly agrees.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "removing individual animals at specific bottlenecks may sometimes help"
+     },
+     {
+      "t": "Many experts believe deeper problems such as warming water, dams and habitat loss matter more than predators.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "probably not a primary cause"
+     },
+     {
+      "t": "The study was led by a researcher at Oregon State University.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "A team led by Dylan Gomes"
+     },
+     {
+      "t": "Culling seals is the most effective way to increase salmon numbers.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "the strongest increase in salmon came not from killing seals but from reducing hake"
+     },
+     {
+      "t": "Seal meat is sold to pay for salmon hatcheries.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe humans should control the number of wild predators to protect species that are in danger. Others think people should not interfere in food chains because the results are hard to predict. Which view do you agree with, and why?",
+    "hint": "Pick a side; give two reasons (unpredictable side effects, protecting endangered species); use the hake example; end with a clear conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Nguyen: A new study suggests that killing large numbers of seals and sea lions would do little to bring back endangered salmon, because the predators also eat other fish that compete with salmon. Yet some managers say removing a few animals at dams and bridges does help. Should governments allow the killing of protected animals to save an endangered species? Why or why not?\nHannah: \"Only in very limited cases. Removing a few animals at a dam is reasonable, but large culls could upset the whole food web, as the study shows.\"\nLucas: \"I don't think we should kill protected animals at all. Salmon are declining because of dams, warming oceans and overfishing, which are problems humans created. Blaming seals is too easy.\"",
+    "steps": [
+     "State your position.",
+     "Agree or disagree with Hannah or Lucas and add a new point.",
+     "Use evidence such as the hake example or the 64,000 Chinook estimate.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "audio": {
+  "Three years ago, a third-grade teacher in Norway named Pål Ludvig Finstad put his pupils' tablets away and handed out pencils and paper instead. Several of his pupils were struggling to read and write, and he believed they urgently needed a different approach. His school administration disagreed and gave him a written warning. Today, his decision looks less like rebellion and more like a preview of national policy. Norway, once one of the most enthusiastic adopters of classroom technology in the world, is now bringing printed textbooks back into its schools.": "audio/2026-11-23/a1-p1.mp3",
+  "For nearly two decades, Norwegian education authorities encouraged schools to replace books with computers and tablets. The trend accelerated during the Covid-19 pandemic, when lessons moved online almost overnight, and from 2023 primary schools in Oslo were expected to provide a digital device for every single pupil. The reasoning seemed sound: children would grow up in a digital world, so school should prepare them for it. Devices also promised lighter school bags, instant access to information and lessons that could adapt to each learner.": "audio/2026-11-23/a1-p2.mp3",
+  "The results, however, have been disappointing. In the 2025 round of PISA, the international test that compares 15-year-olds across dozens of countries, Norwegian students scored below the average of the Organisation for Economic Co-operation and Development (OECD) in reading, mathematics and science. According to news reports, it was the first time since 2006 that the country had fallen below the average in all three areas at once. Researchers cannot say for certain what caused the decline, but distraction from screens is widely regarded as one plausible explanation. A Norwegian commission on screen use had already concluded in 2024 that students generally understand long texts better when they read them on paper.": "audio/2026-11-23/a1-p3.mp3",
+  "The government's response has been swift. Officials plan to enshrine pupils' right to printed textbooks in law, and the city of Oslo has dropped its rule of one device per primary pupil, giving individual schools more freedom to decide. Authorities also recommend restricting mobile phones in schools and introducing artificial intelligence into the curriculum only gradually. Torgeir Micaelsen, the minister responsible for digitalisation, admitted that screens may have entered schools \"too quickly,\" before anyone fully understood their effects or knew what good teaching with digital devices actually looked like.": "audio/2026-11-23/a1-p4.mp3",
+  "Supporters of the change argue that the case for paper is about more than nostalgia. Reading a long printed text, they say, encourages the sustained attention that deep comprehension requires, whereas a tablet invites constant switching between apps, notifications and links. Handwriting may also help young children remember letters and words. From this perspective, Norway did not simply buy too many gadgets; it introduced a powerful tool without evidence that it improved learning, and children paid the price.": "audio/2026-11-23/a1-p5.mp3",
+  "Not everyone accepts this explanation. Silje Ween, the head of a primary school, told the news agency AFP that \"the screen itself is not the problem\"; difficulties arise, she argued, when the tool becomes more important than the content. In her view, a book and a tablet can both be useful, and choosing one does not have to exclude the other. Critics of a full retreat also point out that pupils still need digital skills, such as judging whether online information is reliable, and that these skills will not develop if technology is simply removed from classrooms.": "audio/2026-11-23/a1-p6.mp3",
+  "Others think the reforms do not go far enough. Christer Hyggen, a sociologist at OsloMet University, has described the measures as superficial. He argues that the deeper problems lie in how digital platforms are designed: addictive features, targeted advertising and the profiling of children's data. Norway is preparing a bill that would ban \"harmful\" platforms such as TikTok and Snapchat for children under 16, and it wants to temporarily ban camera-equipped smart glasses in places like schools and parks. Yet Hyggen believes that real change can only happen at a larger scale, across Europe as a whole, because a single small country has limited power over global technology companies.": "audio/2026-11-23/a1-p7.mp3",
+  "Norway's experience offers a lesson for every country that has rushed to digitise education. Technology is neither a cure nor a poison; its value depends on how, when and why it is used. The challenge for Norwegian schools now is to avoid swinging from one extreme to the other—replacing an uncritical faith in screens with an equally uncritical faith in paper. Whether printed textbooks will raise test scores remains uncertain, but the debate has already forced educators to ask a question they skipped twenty years ago: what does the evidence actually say?": "audio/2026-11-23/a1-p8.mp3",
+  "accelerate": "audio/2026-11-23/a1-w-accelerate.mp3",
+  "Warmer weather can accelerate the melting of mountain glaciers.": "audio/2026-11-23/a1-ex-accelerate.mp3",
+  "plausible": "audio/2026-11-23/a1-w-plausible.mp3",
+  "The detective needed a plausible reason for the missing key.": "audio/2026-11-23/a1-ex-plausible.mp3",
+  "commission": "audio/2026-11-23/a1-w-commission.mp3",
+  "The government set up a commission to examine air pollution in cities.": "audio/2026-11-23/a1-ex-commission.mp3",
+  "enshrine": "audio/2026-11-23/a1-w-enshrine.mp3",
+  "Many countries enshrine freedom of speech in their constitutions.": "audio/2026-11-23/a1-ex-enshrine.mp3",
+  "curriculum": "audio/2026-11-23/a1-w-curriculum.mp3",
+  "Coding has become part of the curriculum in many primary schools.": "audio/2026-11-23/a1-ex-curriculum.mp3",
+  "sustained": "audio/2026-11-23/a1-w-sustained.mp3",
+  "Learning a language well requires sustained effort over many years.": "audio/2026-11-23/a1-ex-sustained.mp3",
+  "comprehension": "audio/2026-11-23/a1-w-comprehension.mp3",
+  "The test checks reading comprehension as well as vocabulary.": "audio/2026-11-23/a1-ex-comprehension.mp3",
+  "superficial": "audio/2026-11-23/a1-w-superficial.mp3",
+  "Painting over the crack is only a superficial repair.": "audio/2026-11-23/a1-ex-superficial.mp3",
+  "profiling": "audio/2026-11-23/a1-w-profiling.mp3",
+  "Privacy groups worry about the profiling of users by online advertisers.": "audio/2026-11-23/a1-ex-profiling.mp3",
+  "Today, his decision looks less like rebellion and more like a preview of national policy.": "audio/2026-11-23/a1-ks1.mp3",
+  "Researchers cannot say for certain what caused the decline, but distraction from screens is widely regarded as one plausible explanation.": "audio/2026-11-23/a1-ks2.mp3",
+  "Officials plan to enshrine pupils' right to printed textbooks in law, and the city of Oslo has dropped its rule of one device per primary pupil, giving individual schools more freedom to decide.": "audio/2026-11-23/a1-ks3.mp3",
+  "Not everyone accepts this explanation.": "audio/2026-11-23/a1-ks4.mp3",
+  "Yet Hyggen believes that real change can only happen at a larger scale, across Europe as a whole, because a single small country has limited power over global technology companies.": "audio/2026-11-23/a1-ks5.mp3",
+  "Technology is neither a cure nor a poison; its value depends on how, when and why it is used.": "audio/2026-11-23/a1-ks6.mp3",
+  "Every time someone asks a chatbot a question or streams a video, a computer somewhere in a data centre does the work, and that computer needs electricity. As companies race to build the infrastructure behind artificial intelligence, the demand for that electricity is growing at a remarkable speed. According to an analysis by the insurance broker Howden, the power used by data centres in the United States has risen by an average of 19% a year since 2000, while the country's grid capacity has expanded by only about 2% a year. In other words, demand has been growing nearly ten times faster than the system built to supply it.": "audio/2026-11-23/a2-p1.mp3",
+  "The scale of investment is enormous. The bank Citigroup projects that large technology companies will spend more than $2.8 trillion on AI infrastructure through 2029. Data centres took about 5% of US grid capacity in 2025, and researchers at Lawrence Berkeley National Laboratory estimate that they could consume as much as 12% of the nation's electricity by 2028, roughly six times their 1.9% share in 2018.": "audio/2026-11-23/a2-p2.mp3",
+  "Why can't the grid simply keep up? Rob Gramlich, president of the consulting firm Grid Strategies, describes the problem as a \"mismatch in timing.\" A data centre can be built in a year or two, but new power lines and power plants require careful study and planning that can take many years. After roughly 25 years in which electricity demand barely grew, Gramlich says, utilities got out of practice at building new infrastructure. As a result, Kathryn Burke of the insurance firm Marsh expects around 50% to 60% of data centre projects to be delayed beyond the timelines their developers are counting on.": "audio/2026-11-23/a2-p3.mp3",
+  "The bottleneck is not only a technical issue; it is also a question of fairness. A study by Cornell University researchers, published in the journal Nature Energy, found that data centres pushed up wholesale electricity prices in some regions in 2025, by nearly 20% in the southern San Francisco Bay Area and by about 17% around Dallas–Fort Worth. Across the four grids the researchers examined, data centres paid only 38% of the infrastructure costs linked to their growth: $3.12 billion out of an $8.25 billion bill. The rest fell on other customers, including ordinary households, for whom wholesale prices make up roughly 30% to 50% of a monthly bill.": "audio/2026-11-23/a2-p4.mp3",
+  "Voters have noticed. In local ballot measures held on 3 November, residents rejected data centre development in 40 out of 41 cases. A survey by the University of Pennsylvania's Annenberg Public Policy Center found that 61% of American adults, and 70% of those under 30, oppose new data centres in their area. Elijah Lee, an 18-year-old organiser with the youth group Voters of Tomorrow, told Fortune that he was not excited about growing up having to compete with tech companies over water and energy prices. Some places have gone further: Ohio already has 125 local moratoriums on new data centres.": "audio/2026-11-23/a2-p5.mp3",
+  "Defenders of the industry offer a different perspective. They argue that data centres bring investment, construction jobs and tax revenue, and that leadership in artificial intelligence matters for a country's economic future and security. In their view, the solution is not to block data centres but to make them supply more of their own power. Delaware became the first state to require large energy users to produce or secure all of their electricity, including a share of clean energy, within ten years of starting operations. A bill recently passed by the US Senate would also require data centres to pay for their energy use rather than drive up costs for neighbouring communities.": "audio/2026-11-23/a2-p6.mp3",
+  "Yet \"bring your own power\" has drawbacks too. Many companies are turning to natural gas: the research firm BloombergNEF has tracked 181 gigawatts of gas-fired generation proposed alongside data centres, more than 90% of it in the United States. A Bloomberg News analysis suggests that the planned gas plants could raise emissions from the US power sector by 20%. Experts also warn that large, sudden swings in a data centre's demand can cause outages and damage on-site equipment, so private power plants are not a simple cure.": "audio/2026-11-23/a2-p7.mp3",
+  "The debate ultimately turns on a basic question: who should bear the costs of a new technology whose benefits are spread unevenly? If data centres pay the full price of their electricity, AI may become more expensive and some projects may move elsewhere. If they do not, families who may never use advanced AI tools could end up subsidising them through their power bills. A fair compromise would probably require companies to cover the costs they create while governments speed up the planning of cleaner grids, but finding that balance will be one of the defining economic challenges of the AI era.": "audio/2026-11-23/a2-p8.mp3",
+  "infrastructure": "audio/2026-11-23/a2-w-infrastructure.mp3",
+  "The new government promised to invest in railways and other infrastructure.": "audio/2026-11-23/a2-ex-infrastructure.mp3",
+  "capacity": "audio/2026-11-23/a2-w-capacity.mp3",
+  "The stadium has a capacity of about sixty thousand people.": "audio/2026-11-23/a2-ex-capacity.mp3",
+  "consume": "audio/2026-11-23/a2-w-consume.mp3",
+  "Old refrigerators consume far more electricity than modern ones.": "audio/2026-11-23/a2-ex-consume.mp3",
+  "utility": "audio/2026-11-23/a2-w-utility.mp3",
+  "The local utility raised electricity prices for the winter.": "audio/2026-11-23/a2-ex-utility.mp3",
+  "bottleneck": "audio/2026-11-23/a2-w-bottleneck.mp3",
+  "A shortage of nurses has become the main bottleneck in the hospital.": "audio/2026-11-23/a2-ex-bottleneck.mp3",
+  "wholesale": "audio/2026-11-23/a2-w-wholesale.mp3",
+  "Wholesale food prices rose sharply after the floods.": "audio/2026-11-23/a2-ex-wholesale.mp3",
+  "moratorium": "audio/2026-11-23/a2-w-moratorium.mp3",
+  "The town declared a moratorium on new building near the river.": "audio/2026-11-23/a2-ex-moratorium.mp3",
+  "drawback": "audio/2026-11-23/a2-w-drawback.mp3",
+  "The only drawback of the flat is that it has no lift.": "audio/2026-11-23/a2-ex-drawback.mp3",
+  "subsidise": "audio/2026-11-23/a2-w-subsidise.mp3",
+  "Some cities subsidise public transport to reduce traffic.": "audio/2026-11-23/a2-ex-subsidise.mp3",
+  "In other words, demand has been growing nearly ten times faster than the system built to supply it.": "audio/2026-11-23/a2-ks1.mp3",
+  "A data centre can be built in a year or two, but new power lines and power plants require careful study and planning that can take many years.": "audio/2026-11-23/a2-ks2.mp3",
+  "The bottleneck is not only a technical issue; it is also a question of fairness.": "audio/2026-11-23/a2-ks3.mp3",
+  "In their view, the solution is not to block data centres but to make them supply more of their own power.": "audio/2026-11-23/a2-ks4.mp3",
+  "Yet \"bring your own power\" has drawbacks too.": "audio/2026-11-23/a2-ks5.mp3",
+  "The debate ultimately turns on a basic question: who should bear the costs of a new technology whose benefits are spread unevenly?": "audio/2026-11-23/a2-ks6.mp3",
+  "Along the Pacific coast of North America, salmon are much more than a food. They are central to Indigenous cultures, commercial fishing and the health of rivers and forests. Yet many populations of Chinook and coho salmon have declined so sharply that they are now listed as threatened or endangered. As the fish have struggled, another group of animals has thrived: seals and sea lions, whose numbers recovered after the United States banned most hunting of marine mammals in 1972. To many fishers and some lawmakers, the conclusion seems obvious: if seals eat salmon, killing seals should bring salmon back.": "audio/2026-11-23/a3-p1.mp3",
+  "A study published in the journal Science on 19 November 2026 suggests the answer is far less simple. A team led by Dylan Gomes, of Oregon State University's Marine Mammal Institute and the US National Oceanic and Atmospheric Administration (NOAA), built a computer model of the ocean ecosystem off Northern California, Oregon and Washington. Instead of looking only at how many salmon seals eat, the model tracked who eats whom across the whole food web. The researchers then tested what would happen to Chinook and coho salmon if seals, sea lions, seabirds and other predators were reduced on a large scale.": "audio/2026-11-23/a3-p2.mp3",
+  "Their conclusion was that widespread culling would do little to restore salmon populations. The reason lies in indirect effects. Seals and sea lions do eat salmon, but they also eat other fish, including Pacific hake, a far more abundant species that competes with young salmon for food and sometimes eats them. Remove the predators, and hake can multiply, which may cancel out any benefit to salmon. As the authors put it, broad culls \"may do more harm than good.\" In the model, the strongest increase in salmon came not from killing seals but from reducing hake.": "audio/2026-11-23/a3-p3.mp3",
+  "That does not mean fishing more hake is an easy answer. The researchers warn that a larger hake harvest could accidentally catch more salmon as bycatch and trigger other changes in the ecosystem. They also note that large-scale removals of marine mammals and seabirds would be expensive, difficult to carry out, and both ethically and socially problematic. Meanwhile, the ocean itself is changing: warming waters put major pressure on salmon, alongside dams, habitat loss and fishing, problems that no cull can solve.": "audio/2026-11-23/a3-p4.mp3",
+  "Supporters of predator control see the issue differently. Wildlife managers point out that seals and sea lions often gather at narrow \"bottlenecks,\" such as dams, bridges and fish ladders, where young or returning fish are easy to catch. Near Washington's Hood Canal Bridge, for example, studies have found that seals and sea lions can eat up to half of the young steelhead, a close relative of salmon, migrating past. A Washington state wildlife official, Nate Pamplin, told lawmakers in July that targeted removals of sea lions on the Columbia River since 2020 had saved an estimated 64,000 returning Chinook. Some tribal leaders, whose treaty rights protect their fisheries, add that certain animals have learned to ignore non-lethal deterrents.": "audio/2026-11-23/a3-p5.mp3",
+  "Interestingly, the new study does not completely reject this view. It suggests that removing individual animals at specific bottlenecks may sometimes help, even though broad culls along the coast are likely to be costly and ineffective. This distinction matters for current politics. A bill introduced in the US Congress by two Washington representatives, one Republican and one Democrat, would expand the ability of federal, state and tribal authorities to remove seals and sea lions from Washington waters. Its supporters describe it as a tool to be used alongside habitat restoration rather than a complete solution.": "audio/2026-11-23/a3-p6.mp3",
+  "Conservationists, however, worry that the predators are being blamed for a crisis with deeper roots. Casey Mclean, who runs a marine mammal rescue centre in Washington, notes that the salmon crisis has been going on for a very long time and that seals eat dozens of different fish species. A 2022 review commissioned by the Washington State Academy of Sciences reached a similar conclusion: while seals and sea lions can reduce salmon numbers in particular places, they are probably not a primary cause of the failure of salmon to recover.": "audio/2026-11-23/a3-p7.mp3",
+  "The debate illustrates a common trap in environmental policy: focusing on the most visible culprit rather than the whole system. Killing a predator is a dramatic, easily understood action, while restoring rivers, removing dams or adapting to warmer oceans is slow and expensive. The Science study is a model, not a field experiment, and its results depend on the data fed into it. Still, it offers a valuable reminder that in nature every action has side effects, and that the most obvious solution is not always the most effective one.": "audio/2026-11-23/a3-p8.mp3",
+  "cull": "audio/2026-11-23/a3-w-cull.mp3",
+  "Farmers asked permission to cull the deer that were destroying their crops.": "audio/2026-11-23/a3-ex-cull.mp3",
+  "predator": "audio/2026-11-23/a3-w-predator.mp3",
+  "The owl is a skilled predator that hunts at night.": "audio/2026-11-23/a3-ex-predator.mp3",
+  "abundant": "audio/2026-11-23/a3-w-abundant.mp3",
+  "Fresh water is abundant in the region after the spring rains.": "audio/2026-11-23/a3-ex-abundant.mp3",
+  "restore": "audio/2026-11-23/a3-w-restore.mp3",
+  "Volunteers are working to restore the old wetland for birds.": "audio/2026-11-23/a3-ex-restore.mp3",
+  "bycatch": "audio/2026-11-23/a3-w-bycatch.mp3",
+  "Turtles are often part of the bycatch in shrimp nets.": "audio/2026-11-23/a3-ex-bycatch.mp3",
+  "habitat": "audio/2026-11-23/a3-w-habitat.mp3",
+  "Cutting down the forest destroyed the orangutans' habitat.": "audio/2026-11-23/a3-ex-habitat.mp3",
+  "migrate": "audio/2026-11-23/a3-w-migrate.mp3",
+  "Many birds migrate south before winter arrives.": "audio/2026-11-23/a3-ex-migrate.mp3",
+  "deterrent": "audio/2026-11-23/a3-w-deterrent.mp3",
+  "Bright lights act as a deterrent to bears near the campsite.": "audio/2026-11-23/a3-ex-deterrent.mp3",
+  "primary": "audio/2026-11-23/a3-w-primary.mp3",
+  "Cost was the primary reason the city cancelled the project.": "audio/2026-11-23/a3-ex-primary.mp3",
+  "To many fishers and some lawmakers, the conclusion seems obvious: if seals eat salmon, killing seals should bring salmon back.": "audio/2026-11-23/a3-ks1.mp3",
+  "Instead of looking only at how many salmon seals eat, the model tracked who eats whom across the whole food web.": "audio/2026-11-23/a3-ks2.mp3",
+  "Remove the predators, and hake can multiply, which may cancel out any benefit to salmon.": "audio/2026-11-23/a3-ks3.mp3",
+  "Supporters of predator control see the issue differently.": "audio/2026-11-23/a3-ks4.mp3",
+  "Interestingly, the new study does not completely reject this view.": "audio/2026-11-23/a3-ks5.mp3",
+  "The debate illustrates a common trap in environmental policy: focusing on the most visible culprit rather than the whole system.": "audio/2026-11-23/a3-ks6.mp3"
+ }
+}
