@@ -70,7 +70,7 @@ Voices (teacher's rule): words and their example sentences always use `af_heart`
 ## Use of English (C1 Advanced) — day-level `uoe` (added 2026-11-24)
 
 The day file also carries one Cambridge C1 Advanced (CAE) style Use of English set built on the day's three
-stories (not in the podcast). Students open it from the home page. Format:
+stories (app only: not in the PDF or the podcast). Students open it from the home page. Format:
 
 ```
 "uoe": {
