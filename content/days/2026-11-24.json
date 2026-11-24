@@ -1,0 +1,2381 @@
+{
+ "date": "2026-11-24",
+ "headline": "First Jobs, Fake Essays and Golden Cats for Sale",
+ "teaser": "Is AI sawing off the first rung of the career ladder? Can software prove who wrote an essay? And could selling rare cats as pets ever protect them?",
+ "articles": [
+  {
+   "id": "n20261124-1",
+   "topic": "Economy",
+   "title": "Fewer Rungs on the Ladder: Is AI Closing the Door to First Jobs?",
+   "dek": "A new report says AI-heavy industries are hiring fewer beginners. Is AI really to blame, and who should rebuild the first rung of the career ladder?",
+   "sources": [
+    {
+     "name": "Digital Trends, 23 Nov 2026",
+     "url": "https://www.digitaltrends.com/computing/ai-is-squeezing-entry-level-office-jobs-and-workers-without-degrees-are-most-exposed/"
+    },
+    {
+     "name": "NPR Morning Edition via WUSF, 23 Nov 2026",
+     "url": "https://www.wusf.org/2026-11-23/ai-is-making-it-hard-for-young-people-to-find-work-report-says"
+    },
+    {
+     "name": "Burning Glass Institute & RAISE US, \"Fewer Rungs, New Bridges\"",
+     "url": "https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges"
+    }
+   ],
+   "paras": [
+    "For generations, the path into a professional career has looked like a ladder. Young people started on the bottom rung, doing routine tasks such as entering data, answering customer emails or drafting simple reports, and gradually climbed toward more complex and better-paid work. A new report suggests that artificial intelligence may be quietly sawing off that first rung. Published by the Burning Glass Institute, a labor-market research group, and RAISE US, a workforce organization, the study is titled \"Fewer Rungs, New Bridges,\" and its findings have prompted a lively debate about what AI means for the next generation of workers.",
+    "The report focuses on four industries that have adopted AI tools especially quickly: finance, insurance, information and professional services. In August 2026, these sectors employed 31.9 million people. That sounds like a large number, but it is about 1.5 million fewer than would be expected if employment had continued to grow at the pace it followed between 2005 and 2019. Crucially, the authors argue that this gap is not mainly the result of dramatic layoffs. \"The missing workers aren't being laid off,\" they write; \"they're simply not being hired in the first place.\" In other words, companies are not necessarily firing existing staff; they are opening fewer doors to newcomers.",
+    "The evidence for this is clearest at the entry level. In the industries that use AI most heavily, the share of job postings open to candidates with three years of experience or less was between 3 and 8 percent below its recent average in the year ending in June 2026. Office and administrative support jobs, which have long served as a starting point for workers without specialized training, fell by 780,000 between 2023 and 2025. The logic is easy to follow: the routine tasks that once justified hiring a junior employee are exactly the tasks that AI systems can now perform cheaply and quickly.",
+    "Yet the picture is not simply one of destruction. Within the occupations most exposed to AI, the report found that jobs likely to be automated lost about 820,000 positions, while jobs in which AI assists rather than replaces workers gained roughly 1.4 million. Moreover, across the economy as a whole, the share of postings aimed at entry-level candidates has remained largely unchanged. The authors themselves treat AI as only one of several likely causes of the hiring gap, alongside offshoring and other technologies. Skeptics therefore caution against blaming a single technology for complex economic shifts; slower hiring may also reflect high interest rates and uncertainty about the economy.",
+    "Even so, the burden of change appears to fall unevenly. Workers without a bachelor's degree hold 64 percent of all jobs but 80 percent of the jobs most likely to be automated. This matters because entry-level roles have traditionally been a route upward for such workers: according to the report, more than four in five established advancement pathways that begin in jobs requiring no degree lead to positions that typically do require one. If the bottom rung disappears, the authors warn, the entire ladder may become harder to climb, and inequality could widen.",
+    "The report's title also points to a possible solution: \"new bridges.\" AI, after all, can teach as well as replace. Studying 2,741 career moves into occupations facing worker shortages, the researchers estimated that AI tools could help newcomers close about 31 percent of the skills gap between their old and new jobs. However, in another 46 percent of these transitions, AI mainly helped people who were already skilled, which could make it even harder for beginners to compete. Gina Raimondo, a former US Commerce Secretary who co-chairs RAISE US, called the findings a \"wake-up call for leaders from Washington to Silicon Valley.\"",
+    "What should those leaders do? Some argue that companies have a responsibility to keep training junior staff, even when AI could do their tasks more cheaply, because today's beginners are tomorrow's experienced managers. Others believe the solution lies in education: schools and universities should teach students to work alongside AI, so that graduates arrive with skills that machines cannot easily copy. For students preparing to enter the workforce, the message is neither panic nor complacency. The first rung of the ladder may be changing shape, but those who learn to use AI as a tool, rather than compete with it, may still find a way up."
+   ],
+   "words": [
+    {
+     "w": "rung",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/rʌŋ/",
+     "syl": [
+      "rung"
+     ],
+     "def": "one of the steps of a ladder; a level in a system or organization",
+     "ex": "She started on the lowest rung of the company and became its director twenty years later."
+    },
+    {
+     "w": "prompt",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/prɒmpt/",
+     "syl": [
+      "prompt"
+     ],
+     "def": "to cause something to happen or cause someone to do something",
+     "ex": "The heavy floods prompt local officials to rethink where new homes are built."
+    },
+    {
+     "w": "occupation",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɒkjuˈpeɪʃn/",
+     "syl": [
+      "oc",
+      "cu",
+      "pa",
+      "tion"
+     ],
+     "def": "a job or profession",
+     "ex": "Nursing is an occupation that demands both skill and patience."
+    },
+    {
+     "w": "automate",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈɔːtəmeɪt/",
+     "syl": [
+      "au",
+      "to",
+      "mate"
+     ],
+     "def": "to make a process work by machines or computers instead of people",
+     "ex": "The bank plans to automate most of its customer-service calls next year."
+    },
+    {
+     "w": "offshoring",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌɒfˈʃɔːrɪŋ/",
+     "syl": [
+      "off",
+      "shor",
+      "ing"
+     ],
+     "def": "moving jobs or business activities to another country, usually to cut costs",
+     "ex": "Offshoring helped the company reduce costs, but it angered workers at home."
+    },
+    {
+     "w": "skeptic",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈskeptɪk/",
+     "syl": [
+      "skep",
+      "tic"
+     ],
+     "def": "a person who doubts that a claim or idea is true",
+     "ex": "Even a skeptic would admit that the new vaccine has saved many lives."
+    },
+    {
+     "w": "burden",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈbɜːdn/",
+     "syl": [
+      "bur",
+      "den"
+     ],
+     "def": "a duty, cost or problem that is difficult to deal with",
+     "ex": "Rising rents place a heavy burden on young families."
+    },
+    {
+     "w": "inequality",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɪnɪˈkwɒləti/",
+     "syl": [
+      "in",
+      "e",
+      "qual",
+      "i",
+      "ty"
+     ],
+     "def": "an unfair situation in which some people have more money, chances or power than others",
+     "ex": "Free online courses could reduce inequality in access to education."
+    },
+    {
+     "w": "complacency",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kəmˈpleɪsnsi/",
+     "syl": [
+      "com",
+      "pla",
+      "cen",
+      "cy"
+     ],
+     "def": "a feeling of being satisfied with your situation so that you do not try to improve or prepare",
+     "ex": "After two easy wins, the coach warned his team against complacency."
+    },
+    {
+     "w": "entry-level",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˌentri ˈlevl/",
+     "syl": [
+      "en",
+      "try",
+      "lev",
+      "el"
+     ],
+     "def": "suitable for people who are starting a job or career and have little experience",
+     "ex": "Many entry-level jobs now ask for skills that graduates rarely learn at university."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new report suggests that artificial intelligence may be quietly sawing off that first rung.",
+     "kind": "Main idea",
+     "note": "The ladder metaphor turns the report into one clear claim: AI may be removing the starting point of careers. Main-idea sentences like this guide the whole passage."
+    },
+    {
+     "para": 2,
+     "text": "Crucially, the authors argue that this gap is not mainly the result of dramatic layoffs.",
+     "kind": "Key details",
+     "note": "\"Crucially\" signals the most important detail: the problem is fewer hires, not more firings. TOEFL factual questions often test this kind of distinction."
+    },
+    {
+     "para": 4,
+     "text": "Yet the picture is not simply one of destruction.",
+     "kind": "Topic sentence",
+     "note": "\"Yet\" marks a turn in the argument. Expect the paragraph to give the other side, here the jobs that AI helps create."
+    },
+    {
+     "para": 4,
+     "text": "Skeptics therefore caution against blaming a single technology for complex economic shifts; slower hiring may also reflect high interest rates and uncertainty about the economy.",
+     "kind": "Hedging",
+     "note": "\"may also reflect\" shows that AI is not the only possible cause. Noticing hedges helps you avoid answer choices that are too extreme."
+    },
+    {
+     "para": 5,
+     "text": "If the bottom rung disappears, the authors warn, the entire ladder may become harder to climb, and inequality could widen.",
+     "kind": "Cause → effect",
+     "note": "A clear if-then chain: losing first jobs leads to fewer chances to rise, which could increase inequality."
+    },
+    {
+     "para": 7,
+     "text": "For students preparing to enter the workforce, the message is neither panic nor complacency.",
+     "kind": "Author's view",
+     "note": "The author's balanced conclusion. \"neither ... nor\" rejects two extremes, a pattern often tested in inference questions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word \"exposed\" in paragraph 4 is closest in meaning to",
+     "opts": [
+      "openly criticized by",
+      "likely to be affected by",
+      "deliberately shielded from",
+      "completely unfamiliar with"
+     ],
+     "a": 1,
+     "evidence": "Within the occupations most exposed to AI",
+     "why": "\"Exposed to AI\" means open to AI's influence, so these jobs are the ones most likely to be affected by it. The paragraph goes on to describe jobs that were automated or assisted by AI.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Exposed\" can mean revealed or publicly criticized (\"the scandal was exposed\"), but paragraph 4 talks about jobs that \"lost about 820,000 positions\" or gained work because of AI, not criticism.",
+      "Correct. \"most exposed to AI\" = most likely to be affected by AI. The same sentence shows the effect: some jobs were \"automated\" and others were assisted.",
+      "Wrong: opposite meaning. Being shielded means being protected, but these occupations are the ones where AI is changing work the most.",
+      "Wrong: not supported. Nothing in the paragraph says workers do not know about AI; the word describes how strongly AI affects the jobs."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Within the occupations most exposed to AI, the report found that jobs likely to be automated lost about 820,000 positions, while jobs in which AI assists rather than replaces workers gained roughly 1.4 million.",
+       "hl": "most exposed to AI"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"exposed\" in the first sentence of paragraph 4."
+      },
+      {
+       "t": "Use the context",
+       "x": "The rest of the sentence describes jobs that AI automates or assists, so \"exposed\" is about being affected."
+      },
+      {
+       "t": "Test each option",
+       "x": "Put each option into the sentence; only \"likely to be affected by AI\" fits the meaning."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what do the authors say mainly explains the gap of about 1.5 million workers?",
+     "opts": [
+      "Large numbers of experienced staff have been dismissed.",
+      "Many workers have left these industries for better pay.",
+      "Employment in these industries has fallen since 2019.",
+      "Companies have been taking on fewer new employees."
+     ],
+     "a": 3,
+     "evidence": "they're simply not being hired in the first place",
+     "why": "The authors say the gap is \"not mainly the result of dramatic layoffs\"; instead, the missing workers are \"simply not being hired in the first place.\" In other words, firms are hiring fewer newcomers.",
+     "optWhy": [
+      "Wrong: contradicts the text. The authors say \"The missing workers aren't being laid off\" and the gap is \"not mainly the result of dramatic layoffs.\"",
+      "Wrong: not mentioned. The paragraph never says workers chose to leave or discusses pay.",
+      "Wrong: detail distorted. The paragraph compares 31.9 million with the expected growth path; it does not say employment fell. The number is only lower than the 2005–2019 trend predicted.",
+      "Correct. \"not being hired in the first place\" and \"opening fewer doors to newcomers\" = taking on fewer new employees."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Crucially, the authors argue that this gap is not mainly the result of dramatic layoffs.",
+       "hl": "not mainly the result of dramatic layoffs"
+      },
+      {
+       "para": 2,
+       "text": "In other words, companies are not necessarily firing existing staff; they are opening fewer doors to newcomers.",
+       "hl": "opening fewer doors to newcomers"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the number",
+       "x": "Scan paragraph 2 for \"1.5 million\" and read the sentences after it."
+      },
+      {
+       "t": "Follow the signal word",
+       "x": "\"Crucially\" introduces the explanation: not layoffs, but fewer hires."
+      },
+      {
+       "t": "Match the paraphrase",
+       "x": "\"Opening fewer doors to newcomers\" matches \"taking on fewer new employees\"; reject layoffs, which the text denies."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are true EXCEPT:",
+     "opts": [
+      "Entry-level postings have disappeared across the whole economy.",
+      "Jobs in which AI helps workers gained about 1.4 million positions.",
+      "The authors name offshoring as one possible cause of the gap.",
+      "Some observers think interest rates may also slow hiring."
+     ],
+     "a": 0,
+     "evidence": "the share of postings aimed at entry-level candidates has remained largely unchanged",
+     "why": "Paragraph 4 says that across the economy the share of entry-level postings \"has remained largely unchanged,\" so the claim that such postings have disappeared everywhere is false. The other three statements are all in the paragraph.",
+     "optWhy": [
+      "Correct (this is the false statement). The text says the economy-wide share of entry-level postings \"has remained largely unchanged,\" the opposite of disappearing; the drop is only in AI-heavy industries.",
+      "Wrong: this is true. The paragraph says jobs where \"AI assists rather than replaces workers gained roughly 1.4 million.\"",
+      "Wrong: this is true. The authors treat AI as one cause \"alongside offshoring and other technologies.\"",
+      "Wrong: this is true. Skeptics say \"slower hiring may also reflect high interest rates.\""
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Moreover, across the economy as a whole, the share of postings aimed at entry-level candidates has remained largely unchanged.",
+       "hl": "has remained largely unchanged"
+      },
+      {
+       "para": 3,
+       "text": "In the industries that use AI most heavily, the share of job postings open to candidates with three years of experience or less was between 3 and 8 percent below its recent average in the year ending in June 2026.",
+       "hl": "In the industries that use AI most heavily"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check each option",
+       "x": "For an EXCEPT question, find three options that ARE in paragraph 4."
+      },
+      {
+       "t": "Watch for scope",
+       "x": "The fall in entry-level postings happens in AI-heavy industries (paragraph 3), not \"across the whole economy\"."
+      },
+      {
+       "t": "Pick the false one",
+       "x": "Option A contradicts \"has remained largely unchanged\", so it is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about workers without a bachelor's degree?",
+     "opts": [
+      "They are less interested in professional careers than graduates.",
+      "They already hold most of the jobs that require a degree.",
+      "They are overrepresented in jobs at high risk of automation.",
+      "They will be unable to find any kind of work in the future."
+     ],
+     "a": 2,
+     "evidence": "hold 64 percent of all jobs but 80 percent of the jobs most likely to be automated",
+     "why": "These workers hold 64 percent of all jobs but 80 percent of the jobs most likely to be automated. Because their share of at-risk jobs is larger than their share of all jobs, we can infer that they are overrepresented in those jobs.",
+     "optWhy": [
+      "Wrong: not supported. The paragraph discusses which jobs these workers hold, not how interested they are in careers.",
+      "Wrong: contradicts the logic. The paragraph says their advancement pathways usually lead to jobs that \"do require\" a degree, which suggests those jobs are a goal, not jobs they already hold.",
+      "Correct. 80 percent of at-risk jobs vs 64 percent of all jobs = a larger share than expected, i.e. overrepresented among jobs likely to be automated.",
+      "Wrong: too extreme. The text says the ladder \"may become harder to climb\"; it never says they will find no work at all."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Workers without a bachelor's degree hold 64 percent of all jobs but 80 percent of the jobs most likely to be automated.",
+       "hl": "64 percent of all jobs but 80 percent"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "Paragraph 5 gives two numbers for the same group: 64 percent and 80 percent."
+      },
+      {
+       "t": "Work out what it means",
+       "x": "A bigger share of at-risk jobs than of all jobs means the group is overrepresented in those jobs."
+      },
+      {
+       "t": "Rule out extremes",
+       "x": "Reject options with \"any kind of work\" or claims about interest that the text never makes."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 1,
+     "q": "Why does the author describe a career as \"a ladder\" in paragraph 1?",
+     "opts": [
+      "To argue that office work is more tiring than people think",
+      "To show how workers have usually moved from simple to complex work",
+      "To suggest that young people should avoid professional careers",
+      "To compare the speed of AI with the speed of human learning"
+     ],
+     "a": 1,
+     "evidence": "Young people started on the bottom rung",
+     "why": "The ladder image shows the traditional pattern: beginners start with routine tasks on the \"bottom rung\" and \"gradually\" climb toward complex, better-paid work. This sets up the idea that AI may remove the first rung.",
+     "optWhy": [
+      "Wrong: not mentioned. The ladder is about career progress, not physical effort; the paragraph never says office work is tiring.",
+      "Correct. \"started on the bottom rung ... gradually climbed toward more complex and better-paid work\" = moved from simple to complex work.",
+      "Wrong: not the purpose. The author describes the ladder, but never advises young people to avoid careers; paragraph 7 even says they \"may still find a way up.\"",
+      "Wrong: not mentioned. The paragraph does not compare how fast AI and humans learn."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Young people started on the bottom rung, doing routine tasks such as entering data, answering customer emails or drafting simple reports, and gradually climbed toward more complex and better-paid work.",
+       "hl": "gradually climbed toward more complex and better-paid work"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the image",
+       "x": "Read the first two sentences of paragraph 1, where the ladder is introduced."
+      },
+      {
+       "t": "Ask what it explains",
+       "x": "The ladder shows the usual route: routine tasks first, then harder and better-paid work."
+      },
+      {
+       "t": "Link to the main idea",
+       "x": "The image prepares the claim that AI may remove the \"first rung\", so the purpose is to illustrate career progress."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "However, in another 46 percent of these transitions, AI mainly helped people who were already skilled, which could make it even harder for beginners to compete.",
+     "opts": [
+      "In nearly half of the moves, AI mostly benefited experienced workers, possibly leaving newcomers further behind.",
+      "In nearly half of the moves, AI mainly helped beginners, so competition became easier for newcomers.",
+      "In nearly half of the moves, skilled workers refused to use AI, which helped beginners compete.",
+      "Because beginners competed so hard, AI was used in nearly half of the career moves studied."
+     ],
+     "a": 0,
+     "evidence": "AI mainly helped people who were already skilled, which could make it even harder for beginners to compete",
+     "why": "The sentence has two parts: AI mostly helped skilled people in 46 percent of transitions, and this could make competition harder for beginners. Option A keeps both parts and the hedge \"could\" (\"possibly\").",
+     "optWhy": [
+      "Correct. \"46 percent\" = nearly half; \"people who were already skilled\" = experienced workers; \"could make it even harder for beginners\" = possibly leaving newcomers further behind.",
+      "Wrong: meaning reversed. The sentence says AI helped people \"already skilled\", not beginners, and competition became harder, not easier.",
+      "Wrong: not mentioned. Nobody \"refused\" to use AI; the sentence says AI \"mainly helped\" skilled people.",
+      "Wrong: cause and effect reversed. The sentence does not say competition caused AI use; it says AI use could make competing harder."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Studying 2,741 career moves into occupations facing worker shortages, the researchers estimated that AI tools could help newcomers close about 31 percent of the skills gap between their old and new jobs.",
+       "hl": "help newcomers close about 31 percent of the skills gap"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Find the two key ideas: who AI helped, and the possible effect on beginners."
+      },
+      {
+       "t": "Keep the logic",
+       "x": "The effect is negative for beginners and only possible (\"could\"), so the answer must keep that."
+      },
+      {
+       "t": "Reject changes",
+       "x": "Rule out options that switch who is helped or reverse the cause and effect."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261124-1-k1",
+     "tag": "Report",
+     "fact": "The report \"Fewer Rungs, New Bridges\" was published by the Burning Glass Institute and RAISE US.",
+     "q": "Who published the report?",
+     "opts": [
+      "MIT and Cornell Tech",
+      "The Burning Glass Institute and RAISE US",
+      "The US Commerce Department"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261124-1-k2",
+     "tag": "Key number",
+     "fact": "Four AI-heavy industries employ about 1.5 million fewer people than their 2005–2019 growth path predicted.",
+     "q": "How far below the expected growth path is employment in the four industries?",
+     "opts": [
+      "About 1.5 million",
+      "About 780,000",
+      "About 31.9 million"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261124-1-k3",
+     "tag": "Cause",
+     "fact": "The gap comes mainly from slower hiring, not from layoffs.",
+     "q": "What mainly explains the missing workers?",
+     "opts": [
+      "Mass layoffs",
+      "Workers retiring early",
+      "Companies hiring fewer newcomers"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261124-1-k4",
+     "tag": "Other side",
+     "fact": "Jobs where AI assists workers grew by about 1.4 million, while automation-prone jobs lost about 820,000.",
+     "q": "What happened to jobs in which AI assists workers?",
+     "opts": [
+      "They grew by about 1.4 million",
+      "They disappeared",
+      "They fell by 820,000"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261124-1-k5",
+     "tag": "Inequality",
+     "fact": "Workers without a degree hold 80% of jobs likely to be automated but 64% of all jobs.",
+     "q": "Which group is most exposed to automation?",
+     "opts": [
+      "Workers with a PhD",
+      "Workers without a bachelor's degree",
+      "Senior managers"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AI and first jobs",
+    "question": "Is AI removing the first rung of the career ladder?",
+    "branches": [
+     {
+      "title": "The warning",
+      "paras": "1–2",
+      "blanks": [
+       "1.5 million fewer workers",
+       "not hired, not laid off"
+      ],
+      "kps": [
+       "n20261124-1-k1",
+       "n20261124-1-k2",
+       "n20261124-1-k3"
+      ]
+     },
+     {
+      "title": "Entry-level squeeze",
+      "paras": "3",
+      "blanks": [
+       "3–8% fewer beginner postings",
+       "office jobs fell 780,000"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Other side",
+      "paras": "4",
+      "blanks": [
+       "AI-assisted jobs grew 1.4 million",
+       "interest rates also matter"
+      ],
+      "kps": [
+       "n20261124-1-k4"
+      ]
+     },
+     {
+      "title": "Who is hurt",
+      "paras": "5–7",
+      "blanks": [
+       "workers without degrees",
+       "AI as a new bridge"
+      ],
+      "kps": [
+       "n20261124-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "mass layoffs of experienced staff",
+     "AI ended all beginner jobs"
+    ]
+   },
+   "summary": {
+    "intro": "A new report says AI-heavy industries are hiring fewer beginners, which may weaken the first step of many careers.",
+    "model": "AI-heavy industries are hiring fewer newcomers, so the first rung of many careers may be disappearing. However, AI also creates assisted jobs, and because workers without degrees are most exposed, the report urges training that turns AI into a bridge.",
+    "options": [
+     {
+      "t": "Industries that use AI heavily are employing far fewer people than expected, mainly because they hire fewer newcomers.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "they're simply not being hired in the first place"
+     },
+     {
+      "t": "AI is only one of several causes, and it also creates jobs in which it assists workers.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "The authors themselves treat AI as only one of several likely causes of the hiring gap"
+     },
+     {
+      "t": "The change falls hardest on workers without degrees, so AI must become a bridge that helps newcomers learn.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "the burden of change appears to fall unevenly"
+     },
+     {
+      "t": "The study examined 2,741 career moves into occupations facing shortages.",
+      "ok": false,
+      "type": "detail",
+      "para": 6,
+      "evidence": "Studying 2,741 career moves into occupations facing worker shortages"
+     },
+     {
+      "t": "Entry-level job postings have fallen sharply across the entire economy.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "the share of postings aimed at entry-level candidates has remained largely unchanged"
+     },
+     {
+      "t": "The report recommends a new law banning companies from replacing junior staff with AI.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think companies should keep hiring and training beginners even when AI can do their tasks more cheaply. Others think companies should simply use AI and hire only experienced workers. Which view do you agree with, and why?",
+    "hint": "Pick one side; give two reasons (future managers, cost, fairness, skills); add an example from a job you know; end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Chen: A new report suggests that AI-heavy industries are hiring fewer beginners, and some experts say the first rung of the career ladder is disappearing. Who should be mainly responsible for helping young people get their first jobs in the age of AI: companies, or schools and universities? Why?\nLily: \"Companies. If they stop training juniors today, there will be no experienced staff tomorrow. Firms that profit from AI should invest some of those savings in apprenticeships.\"\nTom: \"I think schools must lead. Companies exist to make money, so we can't rely on them. Schools should teach students to work with AI so they are ready from day one.\"",
+    "steps": [
+     "State who you think should be mainly responsible.",
+     "Respond to Lily or Tom and add a new reason.",
+     "Support it with an example or a fact from the article.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261124-2",
+   "topic": "Technology",
+   "title": "Catch Me If You Can: The Arms Race Between AI Writers and AI Detectors",
+   "dek": "A new detector can learn as it goes, but AI-writing tools keep changing. Should schools trust software to judge whether students cheated?",
+   "sources": [
+    {
+     "name": "MIT News, 18 Nov 2026",
+     "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118"
+    },
+    {
+     "name": "MIT EECS, 23 Nov 2026",
+     "url": "https://www.eecs.mit.edu/helping-ai-text-detectors-keep-up-with-changing-conditions/"
+    }
+   ],
+   "paras": [
+    "Ever since chatbots learned to produce fluent essays in seconds, teachers have faced an uncomfortable question: how can they tell whether a student wrote an assignment or simply asked a machine to write it? Many schools have turned to AI text detectors, software that estimates how likely it is that a passage was generated by a large language model. A new study from researchers at MIT and Cornell Tech, however, suggests that these tools are far less reliable than many users assume, and that keeping them accurate may require a fundamentally different approach.",
+    "The problem lies in what computer scientists call a \"moving target.\" A detector is trained on examples of human and AI writing that exist at a particular moment. But both kinds of writing keep changing. New chatbots appear regularly, and each produces text with a slightly different style. Meanwhile, a whole industry of so-called \"humanizers\" has emerged: tools that rewrite AI-generated text so that it slips past detectors. \"After the company releases a model, a bunch of 'humanizers' pop up to try to beat it,\" explained Kevin Ren, a graduate student at Cornell Tech and the study's lead author. Even human writing drifts over time, as new words, topics and habits spread.",
+    "To measure how serious the problem is, the team tested detectors on AI text that had been deliberately disguised. The results were striking. One commercial detector caught only about 27 percent of the disguised passages. A tool that misses most of the cases it was designed to catch offers little protection, and it may give teachers a false sense of security.",
+    "The researchers' proposed solution is a technique called test-time adaptation. Normally, updating a detector means collecting large amounts of new, labeled data, in which every example is marked as human or AI, and then retraining the model from scratch, a slow and expensive process. With test-time adaptation, the detector instead adjusts its internal settings continuously, learning from the new, unlabeled text it encounters while it is being used. Using this method, the detector caught more than 93 percent of the disguised text. When the team simulated the gradual drift of human writing over time, the adaptive detector was 85 percent accurate, compared with 73 percent for traditional methods. The work will be presented at NeurIPS, one of the world's leading conferences on artificial intelligence.",
+    "Manish Raghavan, an MIT professor and co-author, said the results show that test-time adaptation can make detectors \"much more robust.\" Yet the researchers are notably cautious about what their work means. As language models become more natural and human-written text becomes harder to verify, adaptation may not always succeed. \"It isn't entirely clear if this will be a solvable problem,\" Raghavan admitted. The study's figures also come from the researchers' own datasets, so they will need to be tested independently.",
+    "This caution matters because detectors can fail in two directions. Besides missing AI-generated text, they can wrongly flag genuine human writing, an error known as a false positive. In 2023, researchers at Stanford University found that seven popular detectors, on average, misclassified more than half of a set of TOEFL essays written by non-native English speakers as AI-generated, apparently because these writers tend to use simpler and more predictable vocabulary. For a student, being falsely accused of cheating can damage grades, reputations and trust, even if the accusation is later withdrawn.",
+    "As a result, educators are divided. Some argue that detectors, if used carefully, remain a useful deterrent: students who know their work may be checked are less tempted to cheat. Others believe that schools should stop treating writing as a product to be policed and instead redesign assignments, for example by asking students to write in class, submit drafts or explain their reasoning aloud. MIT's report on the study goes further, suggesting that teachers may want to think twice before putting all their trust in a detector's verdict.",
+    "Ultimately, the contest between AI writers and AI detectors may resemble an arms race with no finish line: each improvement in detection invites a new method of evasion. If that is true, the most reliable evidence of learning may not come from software at all, but from the conversations, drafts and thinking that only a real student can produce."
+   ],
+   "words": [
+    {
+     "w": "fluent",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈfluːənt/",
+     "syl": [
+      "flu",
+      "ent"
+     ],
+     "def": "smooth, natural and easy to read or hear",
+     "ex": "After a year in Madrid, she became fluent in Spanish."
+    },
+    {
+     "w": "generate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈdʒenəreɪt/",
+     "syl": [
+      "gen",
+      "er",
+      "ate"
+     ],
+     "def": "to produce or create something",
+     "ex": "Wind farms generate enough electricity to power thousands of homes."
+    },
+    {
+     "w": "disguise",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/dɪsˈɡaɪz/",
+     "syl": [
+      "dis",
+      "guise"
+     ],
+     "def": "to change the appearance of something so that people do not recognize it",
+     "ex": "The spy tried to disguise his voice on the phone."
+    },
+    {
+     "w": "adaptation",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌædæpˈteɪʃn/",
+     "syl": [
+      "ad",
+      "ap",
+      "ta",
+      "tion"
+     ],
+     "def": "the process of changing to suit new conditions",
+     "ex": "Thick fur is an adaptation that helps polar bears survive the cold."
+    },
+    {
+     "w": "robust",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/rəʊˈbʌst/",
+     "syl": [
+      "ro",
+      "bust"
+     ],
+     "def": "strong and able to keep working well in difficult or changing conditions",
+     "ex": "Engineers need a robust design that can survive strong earthquakes."
+    },
+    {
+     "w": "verify",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈverɪfaɪ/",
+     "syl": [
+      "ver",
+      "i",
+      "fy"
+     ],
+     "def": "to check or prove that something is true or correct",
+     "ex": "Journalists must verify a story before they publish it."
+    },
+    {
+     "w": "false positive",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌfɔːls ˈpɒzətɪv/",
+     "syl": [
+      "false",
+      "pos",
+      "i",
+      "tive"
+     ],
+     "def": "a result that wrongly shows something is present or true when it is not",
+     "ex": "A false positive on the security scan caused the airport to close a gate for an hour."
+    },
+    {
+     "w": "misclassify",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˌmɪsˈklæsɪfaɪ/",
+     "syl": [
+      "mis",
+      "clas",
+      "si",
+      "fy"
+     ],
+     "def": "to put something into the wrong group or category",
+     "ex": "Doctors worry that the software may misclassify harmless spots as cancer."
+    },
+    {
+     "w": "deterrent",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/dɪˈterənt/",
+     "syl": [
+      "de",
+      "ter",
+      "rent"
+     ],
+     "def": "something that makes people decide not to do something",
+     "ex": "Security cameras act as a deterrent to shoplifters."
+    },
+    {
+     "w": "evasion",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪˈveɪʒn/",
+     "syl": [
+      "e",
+      "va",
+      "sion"
+     ],
+     "def": "the act of avoiding something, such as being caught or checked",
+     "ex": "Tax evasion costs governments billions of dollars every year."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A new study from researchers at MIT and Cornell Tech, however, suggests that these tools are far less reliable than many users assume, and that keeping them accurate may require a fundamentally different approach.",
+     "kind": "Main idea",
+     "note": "\"however\" turns from the background to the article's real claim: detectors are less reliable than people think."
+    },
+    {
+     "para": 2,
+     "text": "The problem lies in what computer scientists call a \"moving target.\"",
+     "kind": "Topic sentence",
+     "note": "This topic sentence names the problem; the rest of the paragraph lists what keeps moving (new chatbots, humanizers, human writing)."
+    },
+    {
+     "para": 4,
+     "text": "With test-time adaptation, the detector instead adjusts its internal settings continuously, learning from the new, unlabeled text it encounters while it is being used.",
+     "kind": "Key details",
+     "note": "\"instead\" contrasts the new method with retraining from scratch. Factual questions often test this kind of contrast."
+    },
+    {
+     "para": 5,
+     "text": "Yet the researchers are notably cautious about what their work means.",
+     "kind": "Hedging",
+     "note": "Scientists rarely claim total success. Spotting cautious language helps you reject answer choices that overstate the findings."
+    },
+    {
+     "para": 6,
+     "text": "This caution matters because detectors can fail in two directions.",
+     "kind": "Cause → effect",
+     "note": "\"because\" links the researchers' caution to a real risk: detectors can miss AI text AND wrongly accuse humans."
+    },
+    {
+     "para": 8,
+     "text": "If that is true, the most reliable evidence of learning may not come from software at all, but from the conversations, drafts and thinking that only a real student can produce.",
+     "kind": "Author's view",
+     "note": "The conclusion moves from technology to teaching: \"not ... but\" shows what the author values more."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 2,
+     "q": "The word \"drifts\" in paragraph 2 is closest in meaning to",
+     "opts": [
+      "floats slowly on water",
+      "loses its importance",
+      "changes gradually",
+      "vanishes suddenly"
+     ],
+     "a": 2,
+     "evidence": "Even human writing drifts over time",
+     "why": "\"Drifts over time\" describes slow change: \"as new words, topics and habits spread,\" human writing gradually changes. Paragraph 4 also calls it \"the gradual drift of human writing.\"",
+     "optWhy": [
+      "Wrong: another meaning of the word. A boat \"drifts\" on water, but here the subject is writing, which changes \"as new words, topics and habits spread.\"",
+      "Wrong: not supported. Nothing suggests human writing becomes less important; the point is that it becomes different.",
+      "Correct. \"drifts over time\" = changes gradually; paragraph 4 confirms this with \"the gradual drift of human writing over time.\"",
+      "Wrong: opposite of the meaning. The change is slow (\"gradual\"), and human writing does not disappear."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Even human writing drifts over time, as new words, topics and habits spread.",
+       "hl": "drifts over time"
+      },
+      {
+       "para": 4,
+       "text": "When the team simulated the gradual drift of human writing over time, the adaptive detector was 85 percent accurate, compared with 73 percent for traditional methods.",
+       "hl": "the gradual drift of human writing"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"drifts\" is in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Use the clue",
+       "x": "\"as new words, topics and habits spread\" shows slow change; paragraph 4 repeats \"gradual drift\"."
+      },
+      {
+       "t": "Avoid the trap",
+       "x": "Reject the water meaning of \"drift\"; the subject is writing, not a boat."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 4,
+     "q": "According to paragraph 4, how does test-time adaptation differ from the usual way of updating a detector?",
+     "opts": [
+      "It learns from new, unlabeled text while the detector is in use.",
+      "It needs every new example to be marked as human or AI.",
+      "It rebuilds the whole model from scratch at regular intervals.",
+      "It depends on teachers to report suspicious essays to the system."
+     ],
+     "a": 0,
+     "evidence": "learning from the new, unlabeled text it encounters while it is being used",
+     "why": "The usual way needs new labeled data and retraining from scratch. Test-time adaptation \"instead\" adjusts continuously, learning from new, unlabeled text while it is being used.",
+     "optWhy": [
+      "Correct. \"learning from the new, unlabeled text it encounters while it is being used\" = learns from new, unlabeled text while in use.",
+      "Wrong: detail swapped. Marking every example as human or AI describes the normal \"labeled data\" method, not test-time adaptation.",
+      "Wrong: detail swapped. \"retraining the model from scratch\" is the slow, expensive method that test-time adaptation replaces.",
+      "Wrong: not mentioned. The paragraph says nothing about teachers reporting essays."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Normally, updating a detector means collecting large amounts of new, labeled data, in which every example is marked as human or AI, and then retraining the model from scratch, a slow and expensive process.",
+       "hl": "retraining the model from scratch"
+      },
+      {
+       "para": 4,
+       "text": "With test-time adaptation, the detector instead adjusts its internal settings continuously, learning from the new, unlabeled text it encounters while it is being used.",
+       "hl": "learning from the new, unlabeled text it encounters while it is being used"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find both methods",
+       "x": "Paragraph 4 describes the \"normal\" method first, then test-time adaptation after \"instead\"."
+      },
+      {
+       "t": "Separate the details",
+       "x": "Labeled data and retraining belong to the old method; unlabeled text and continuous learning belong to the new one."
+      },
+      {
+       "t": "Match the option",
+       "x": "Choose the option that describes the new method, not the old one."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 2,
+     "q": "According to paragraph 2, all of the following help explain why AI detection is a \"moving target\" EXCEPT:",
+     "opts": [
+      "New chatbots keep appearing, each with a slightly different style.",
+      "Tools are available that rewrite AI text so it avoids detection.",
+      "Human writing itself changes as new words and habits spread.",
+      "Detector companies deliberately weaken their own products."
+     ],
+     "a": 3,
+     "evidence": "But both kinds of writing keep changing.",
+     "why": "Paragraph 2 lists three things that keep changing: new chatbots, \"humanizers,\" and human writing itself. It never says detector makers weaken their own products.",
+     "optWhy": [
+      "Wrong: this is mentioned. \"New chatbots appear regularly, and each produces text with a slightly different style.\"",
+      "Wrong: this is mentioned. \"humanizers\" are \"tools that rewrite AI-generated text so that it slips past detectors.\"",
+      "Wrong: this is mentioned. \"Even human writing drifts over time, as new words, topics and habits spread.\"",
+      "Correct (not mentioned). Ren says humanizers \"pop up to try to beat\" a model after it is released, but nobody says detector companies weaken their own tools."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Meanwhile, a whole industry of so-called \"humanizers\" has emerged: tools that rewrite AI-generated text so that it slips past detectors.",
+       "hl": "tools that rewrite AI-generated text so that it slips past detectors"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the causes",
+       "x": "Underline each thing in paragraph 2 that \"keeps changing\"."
+      },
+      {
+       "t": "Tick off options",
+       "x": "Match options A, B and C to chatbots, humanizers and human writing."
+      },
+      {
+       "t": "Find the extra one",
+       "x": "Option D adds an idea that the paragraph never mentions."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the commercial detector?",
+     "opts": [
+      "It was built specifically to identify humanizer tools.",
+      "It judged most of the disguised passages to be human writing.",
+      "It caught almost three out of four disguised passages.",
+      "It is used by most schools in the United States."
+     ],
+     "a": 1,
+     "evidence": "One commercial detector caught only about 27 percent of the disguised passages.",
+     "why": "If the detector caught only about 27 percent of the disguised passages, it failed to catch the other 73 percent or so. Those passages must have been judged human, so most disguised AI text passed as human writing.",
+     "optWhy": [
+      "Wrong: not stated. The paragraph says the detector was tested on disguised text, not that it was built only for humanizers.",
+      "Correct. Catching \"only about 27 percent\" means roughly 73 percent were missed, i.e. most disguised passages were treated as human writing.",
+      "Wrong: number reversed. About 27 percent is close to one in four, not three in four; three in four is the share it missed.",
+      "Wrong: not mentioned. The paragraph does not say how many schools use this detector."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "A tool that misses most of the cases it was designed to catch offers little protection, and it may give teachers a false sense of security.",
+       "hl": "misses most of the cases"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the figure",
+       "x": "Paragraph 3 says the detector caught \"only about 27 percent\"."
+      },
+      {
+       "t": "Do the reverse maths",
+       "x": "100 − 27 ≈ 73 percent were missed, so they were judged human."
+      },
+      {
+       "t": "Watch for number traps",
+       "x": "Reject the option that turns 27 percent into \"three out of four\"."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention the 2023 study at Stanford University in paragraph 6?",
+     "opts": [
+      "To show that non-native speakers use AI tools more often",
+      "To argue that the TOEFL test should stop including essays",
+      "To give an example of detectors mistaking human writing for AI",
+      "To explain how test-time adaptation was first developed"
+     ],
+     "a": 2,
+     "evidence": "they can wrongly flag genuine human writing, an error known as a false positive",
+     "why": "The paragraph says detectors can \"wrongly flag genuine human writing.\" The Stanford study is an example: real TOEFL essays by non-native speakers were labeled AI-generated.",
+     "optWhy": [
+      "Wrong: misreads the example. The essays were written by the students themselves; the problem was that detectors wrongly called them AI-generated.",
+      "Wrong: not the purpose. The study shows a weakness of detectors; the author never suggests changing the TOEFL test.",
+      "Correct. The study illustrates a \"false positive\": essays \"written by non-native English speakers\" were \"misclassified ... as AI-generated.\"",
+      "Wrong: wrong paragraph. Test-time adaptation is explained in paragraph 4 and was developed by the MIT and Cornell Tech team, not Stanford."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Besides missing AI-generated text, they can wrongly flag genuine human writing, an error known as a false positive.",
+       "hl": "wrongly flag genuine human writing"
+      },
+      {
+       "para": 4,
+       "text": "The researchers' proposed solution is a technique called test-time adaptation.",
+       "hl": "test-time adaptation"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read around the example",
+       "x": "The sentence before the study introduces \"false positives\"."
+      },
+      {
+       "t": "Ask what it proves",
+       "x": "The study shows real human essays being labeled AI-generated."
+      },
+      {
+       "t": "Reject other purposes",
+       "x": "The author does not discuss TOEFL policy or the history of test-time adaptation."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 8,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 8? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Ultimately, the contest between AI writers and AI detectors may resemble an arms race with no finish line: each improvement in detection invites a new method of evasion.",
+     "opts": [
+      "Detection tools will eventually defeat AI writing tools for good, ending the contest.",
+      "AI writing tools and detectors are now being developed for military use.",
+      "Since evasion methods keep improving, companies should stop building detectors.",
+      "The contest may never end, because each better detector leads to new ways of avoiding it."
+     ],
+     "a": 3,
+     "evidence": "each improvement in detection invites a new method of evasion",
+     "why": "The sentence says the contest may be endless (\"no finish line\") because every improvement in detection \"invites a new method of evasion.\" Option D keeps both the endless contest and the reason.",
+     "optWhy": [
+      "Wrong: contradicts the sentence. \"no finish line\" means neither side wins for good.",
+      "Wrong: another meaning of the phrase. \"Arms race\" is used as a comparison for endless competition, not about real weapons.",
+      "Wrong: adds a conclusion. The sentence describes the contest; it does not recommend stopping detector development.",
+      "Correct. \"no finish line\" = may never end; \"each improvement in detection invites a new method of evasion\" = each better detector leads to new ways of avoiding it."
+     ],
+     "ctx": [
+      {
+       "para": 8,
+       "text": "If that is true, the most reliable evidence of learning may not come from software at all, but from the conversations, drafts and thinking that only a real student can produce.",
+       "hl": "may not come from software at all"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the two parts",
+       "x": "The colon splits the sentence: the claim (an endless race) and the reason (detection invites evasion)."
+      },
+      {
+       "t": "Read the metaphor",
+       "x": "\"arms race\" is a comparison, not a statement about weapons."
+      },
+      {
+       "t": "Keep the hedge",
+       "x": "\"may resemble\" is tentative, so choose the option with \"may never end\"."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261124-2-k1",
+     "tag": "Problem",
+     "fact": "AI detection is a \"moving target\" because chatbots, humanizers and human writing all keep changing.",
+     "q": "Why is AI detection called a \"moving target\"?",
+     "opts": [
+      "Detectors are too expensive",
+      "The writing they judge keeps changing",
+      "Teachers keep changing schools"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261124-2-k2",
+     "tag": "Key number",
+     "fact": "A commercial detector caught only about 27% of disguised AI text.",
+     "q": "How much disguised AI text did the commercial detector catch?",
+     "opts": [
+      "About 27%",
+      "About 73%",
+      "More than 93%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261124-2-k3",
+     "tag": "Method",
+     "fact": "Test-time adaptation lets a detector keep learning from new, unlabeled text while in use; it caught over 93%.",
+     "q": "What does test-time adaptation do?",
+     "opts": [
+      "Retrains the model from scratch",
+      "Asks teachers to label essays",
+      "Learns from new text while being used"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261124-2-k4",
+     "tag": "Risk",
+     "fact": "A false positive is when a detector wrongly labels human writing as AI-generated.",
+     "q": "What is a false positive in AI detection?",
+     "opts": [
+      "Human writing wrongly flagged as AI",
+      "AI text that is not caught",
+      "A detector that crashes"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261124-2-k5",
+     "tag": "Caution",
+     "fact": "The researchers say it is not clear whether AI detection is a solvable problem.",
+     "q": "How do the researchers describe the future of AI detection?",
+     "opts": [
+      "Already solved",
+      "Possibly unsolvable",
+      "No longer needed"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "AI writers vs detectors",
+    "question": "Can software tell who really wrote an essay?",
+    "branches": [
+     {
+      "title": "Moving target",
+      "paras": "1–2",
+      "blanks": [
+       "new chatbots keep appearing",
+       "humanizers rewrite AI text"
+      ],
+      "kps": [
+       "n20261124-2-k1"
+      ]
+     },
+     {
+      "title": "Weak detectors",
+      "paras": "3",
+      "blanks": [
+       "caught only 27 percent"
+      ],
+      "kps": [
+       "n20261124-2-k2"
+      ]
+     },
+     {
+      "title": "New method",
+      "paras": "4–5",
+      "blanks": [
+       "learns while being used",
+       "over 93 percent caught"
+      ],
+      "kps": [
+       "n20261124-2-k3",
+       "n20261124-2-k5"
+      ]
+     },
+     {
+      "title": "Risks and choices",
+      "paras": "6–8",
+      "blanks": [
+       "false positives hurt students",
+       "redesign assignments instead"
+      ],
+      "kps": [
+       "n20261124-2-k4"
+      ]
+     }
+    ],
+    "distractors": [
+     "detectors are now perfectly accurate",
+     "chatbots banned in all schools"
+    ]
+   },
+   "summary": {
+    "intro": "Researchers at MIT and Cornell Tech have shown how hard it is to keep AI text detectors accurate.",
+    "model": "AI detectors struggle because chatbots, humanizers and human writing keep changing, while a new adaptive method catches far more disguised text. However, detectors can also accuse innocent students, so many educators question relying on them.",
+    "options": [
+     {
+      "t": "Detectors struggle because both AI-generated and human writing keep changing, and humanizer tools help AI text avoid detection.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "But both kinds of writing keep changing."
+     },
+     {
+      "t": "A detector that keeps learning from new text while in use performed far better than existing tools.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Using this method, the detector caught more than 93 percent of the disguised text."
+     },
+     {
+      "t": "Because detectors can also wrongly accuse students, educators disagree about how much to rely on them.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "As a result, educators are divided."
+     },
+     {
+      "t": "The research will be presented at the NeurIPS conference.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "The work will be presented at NeurIPS"
+     },
+     {
+      "t": "The researchers are confident that AI detection is now a solved problem.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "It isn't entirely clear if this will be a solvable problem"
+     },
+     {
+      "t": "Several countries have banned the use of AI detectors in schools.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some schools use AI detectors to check students' essays. Others ask students to write in class or explain their drafts instead. Which approach do you think is better, and why?",
+    "hint": "Choose one approach; give two reasons (fairness, false positives, learning, time); add a short example; finish with a conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: Researchers have found that AI text detectors can be fooled by \"humanizer\" tools and can also wrongly flag real student writing. Should schools use AI detectors to decide whether students have cheated? Why or why not?\nAnna: \"Yes, but only as a first step. Knowing that essays might be checked stops many students from cheating. If the detector flags an essay, the teacher can then talk to the student.\"\nDavid: \"No. A tool that catches only a quarter of disguised essays and also accuses innocent students is not fair. Schools should change their assignments instead, for example by asking for drafts.\"",
+    "steps": [
+     "State your position clearly.",
+     "Respond to Anna or David and add a new reason.",
+     "Support it with an example or a fact from the article.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261124-3",
+   "topic": "Animals",
+   "title": "Pets or Protection? A Plan to Breed Rare Wild Cats for Sale",
+   "dek": "An Indonesian company wants permission to breed Asian golden cats for the global pet trade. Could a legal market protect wild cats, or put them at greater risk?",
+   "sources": [
+    {
+     "name": "Mongabay, 23 Nov 2026",
+     "url": "https://news.mongabay.com/short-article/2026/11/plan-to-breed-rare-asian-golden-cats-for-pets-raises-conservation-concerns/"
+    },
+    {
+     "name": "Mongabay (full report), Nov 2026",
+     "url": "https://news.mongabay.com/2026/11/indonesian-company-seeks-cites-approval-to-breed-and-sell-rare-asian-golden-cats/"
+    },
+    {
+     "name": "Wikipedia: Asian golden cat (background)",
+     "url": "https://en.wikipedia.org/wiki/Asian_golden_cat"
+    }
+   ],
+   "paras": [
+    "Deep in the forests of South and Southeast Asia lives a cat that few people have ever seen. The Asian golden cat, which weighs between 9 and 16 kilograms, is considerably larger than a house cat, and its coat can range from bright gold to cinnamon, grey or even black. It is shy, mostly solitary and rarely photographed. Now this elusive animal is at the centre of an international controversy, after an Indonesian company asked for permission to breed it commercially and sell it to pet owners around the world.",
+    "The species' range stretches from eastern Nepal and north-eastern India through Myanmar, Thailand and southern China to Malaysia and the Indonesian island of Sumatra. It is listed as vulnerable by the International Union for Conservation of Nature (IUCN), and an estimated 7,000 individuals remain in the wild. Their numbers are falling mainly because forests are being cleared and because the cats are poached for their skins and bones; in some markets, their bones are sold as substitutes for tiger parts in traditional medicine. The species is also listed in Appendix I of the Convention on International Trade in Endangered Species (CITES), which bans international commercial trade in wild-caught animals.",
+    "There is, however, an important exception. Animals bred in captivity at facilities registered with CITES can be traded legally with the proper export permits. This is the door that the company, PT Alam Nusantara Jayatama, hopes to open. According to documents submitted by Indonesia's Ministry of Forestry, the firm began breeding in 2013 with four legally acquired wild-caught cats, and by 2025 it reported 36 animals across three generations. In August, the CITES Secretariat notified member countries of the application, giving them until November 10 to object. If the facility is registered, it would become the first in the world to breed Asian golden cats commercially for the international pet market.",
+    "Supporters of commercial captive breeding often use a simple economic argument. If buyers can obtain legally bred animals, the reasoning goes, they will have less reason to buy animals taken from the wild, and pressure on wild populations will ease. In theory, a legal supply could undercut the black market. Neither the company nor its owner responded to journalists' questions, however, so the firm's own case has not been explained publicly.",
+    "Conservation experts are deeply skeptical. Chris Shepherd of the Center for Biological Diversity, a US-based environmental group, described the plan as \"very suspicious\" and argued that commercial captive breeding rarely reduces demand for wild animals and often hinders conservation. One concern is that a legal trade can provide cover for an illegal one: once golden cats are openly sold, it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest. A legal market could also make owning rare cats seem fashionable, increasing overall demand.",
+    "Others question whether the breeding figures are realistic. Mike Brocklehurst, a carnivore specialist who once ran a conservation breeding programme at Melbourne Zoo, said the cats are \"super challenging to breed,\" adding that males in captivity sometimes kill females when the two are introduced. In his view, the company's reported success probably depends on removing kittens from their mothers at an early age and raising them by hand, a method that allows mothers to breed again sooner.",
+    "Animal welfare is a further worry. Sandra Reichler, a mammal curator at Heidelberg Zoo who leads the European zoo association's breeding programme for the species, warned that separating kittens from their mothers too early can cause lasting behavioural problems. She also noted that the company's enclosures measure about 9 square metres, while European zoos recommend a minimum of 150 square metres. A wild cat that naturally roams a large forest territory may suffer in a space smaller than a typical bedroom.",
+    "The case raises a broader question that goes far beyond one species: can markets protect wildlife, or do they inevitably put it at greater risk? Some conservationists believe that carefully regulated trade can reduce poaching, as has been argued for certain farmed crocodiles. Others insist that wild animals should not be pets at all, however they are bred. As CITES considers the application, the fate of the Asian golden cat may depend on which of these views prevails."
+   ],
+   "words": [
+    {
+     "w": "elusive",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɪˈluːsɪv/",
+     "syl": [
+      "e",
+      "lu",
+      "sive"
+     ],
+     "def": "difficult to find, catch or see",
+     "ex": "The snow leopard is so elusive that some researchers never see one in the wild."
+    },
+    {
+     "w": "solitary",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈsɒlətri/",
+     "syl": [
+      "sol",
+      "i",
+      "tar",
+      "y"
+     ],
+     "def": "living or spending time alone rather than in groups",
+     "ex": "Unlike lions, most wild cats are solitary hunters."
+    },
+    {
+     "w": "poach",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/pəʊtʃ/",
+     "syl": [
+      "poach"
+     ],
+     "def": "to illegally hunt or catch animals, often to sell parts of them",
+     "ex": "Rangers patrol the park day and night because criminals still poach rhinos for their horns."
+    },
+    {
+     "w": "substitute",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈsʌbstɪtjuːt/",
+     "syl": [
+      "sub",
+      "sti",
+      "tute"
+     ],
+     "def": "something used instead of something else",
+     "ex": "Honey can be a healthy substitute for sugar in many recipes."
+    },
+    {
+     "w": "captivity",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/kæpˈtɪvəti/",
+     "syl": [
+      "cap",
+      "tiv",
+      "i",
+      "ty"
+     ],
+     "def": "the state of being kept in a zoo, cage or enclosed area instead of living freely",
+     "ex": "Dolphins born in captivity may never learn to hunt in the open sea."
+    },
+    {
+     "w": "undercut",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌʌndəˈkʌt/",
+     "syl": [
+      "un",
+      "der",
+      "cut"
+     ],
+     "def": "to weaken something, or to sell goods more cheaply than a competitor",
+     "ex": "Cheap imports undercut local farmers who cannot lower their prices."
+    },
+    {
+     "w": "skeptical",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈskeptɪkl/",
+     "syl": [
+      "skep",
+      "ti",
+      "cal"
+     ],
+     "def": "doubting that something is true or will succeed",
+     "ex": "Many scientists remain skeptical about the company's claims."
+    },
+    {
+     "w": "hinder",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈhɪndə(r)/",
+     "syl": [
+      "hin",
+      "der"
+     ],
+     "def": "to make it difficult for something to happen or develop",
+     "ex": "Heavy rain may hinder the rescue team's progress."
+    },
+    {
+     "w": "enclosure",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪnˈkləʊʒə(r)/",
+     "syl": [
+      "en",
+      "clo",
+      "sure"
+     ],
+     "def": "an area surrounded by fences or walls, where animals are kept",
+     "ex": "The zoo built a larger enclosure so the tigers could climb and swim."
+    },
+    {
+     "w": "prevail",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/prɪˈveɪl/",
+     "syl": [
+      "pre",
+      "vail"
+     ],
+     "def": "to win or become the most accepted, especially after a struggle",
+     "ex": "In the end, common sense will prevail and the old bridge will be repaired."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Now this elusive animal is at the centre of an international controversy, after an Indonesian company asked for permission to breed it commercially and sell it to pet owners around the world.",
+     "kind": "Main idea",
+     "note": "After the description, \"Now\" introduces the news and the conflict the passage will discuss."
+    },
+    {
+     "para": 2,
+     "text": "Their numbers are falling mainly because forests are being cleared and because the cats are poached for their skins and bones; in some markets, their bones are sold as substitutes for tiger parts in traditional medicine.",
+     "kind": "Cause → effect",
+     "note": "Two causes (\"because ... and because\") explain the decline. Negative factual questions often test lists like this."
+    },
+    {
+     "para": 4,
+     "text": "In theory, a legal supply could undercut the black market.",
+     "kind": "Hedging",
+     "note": "\"In theory\" and \"could\" show the supporters' argument is a possibility, not a proven fact."
+    },
+    {
+     "para": 5,
+     "text": "One concern is that a legal trade can provide cover for an illegal one: once golden cats are openly sold, it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest.",
+     "kind": "Critical thinking",
+     "note": "The colon introduces an explanation of how legal trade could help illegal trade, a key counter-argument."
+    },
+    {
+     "para": 7,
+     "text": "Animal welfare is a further worry.",
+     "kind": "Topic sentence",
+     "note": "\"a further worry\" signals an additional argument against the plan, this time about the animals' wellbeing."
+    },
+    {
+     "para": 8,
+     "text": "The case raises a broader question that goes far beyond one species: can markets protect wildlife, or do they inevitably put it at greater risk?",
+     "kind": "Interpretation",
+     "note": "The conclusion widens the issue from one cat to a general debate, a common move in TOEFL passages."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"elusive\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "hard to find or observe",
+      "dangerous to people",
+      "hard to define or explain",
+      "recently discovered"
+     ],
+     "a": 0,
+     "evidence": "Now this elusive animal",
+     "why": "The paragraph describes a cat \"that few people have ever seen,\" which is \"shy\" and \"rarely photographed.\" So \"elusive\" means hard to find or observe.",
+     "optWhy": [
+      "Correct. \"few people have ever seen\" and \"rarely photographed\" show that \"elusive\" = hard to find or observe.",
+      "Wrong: not supported. The paragraph calls the cat \"shy\", not dangerous.",
+      "Wrong: another meaning of the word. An \"elusive idea\" is hard to define, but here the word describes an animal that is \"rarely photographed\".",
+      "Wrong: not mentioned. The species has been known for a long time; the paragraph says nothing about a new discovery."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Deep in the forests of South and Southeast Asia lives a cat that few people have ever seen.",
+       "hl": "few people have ever seen"
+      },
+      {
+       "para": 1,
+       "text": "It is shy, mostly solitary and rarely photographed.",
+       "hl": "rarely photographed"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"elusive\" is in the last sentence of paragraph 1."
+      },
+      {
+       "t": "Look back for clues",
+       "x": "Earlier sentences say few people have seen the cat and it is rarely photographed."
+      },
+      {
+       "t": "Avoid the second meaning",
+       "x": "\"Hard to define\" fits ideas, not a shy animal in a forest."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, which of the following is true of the company's breeding programme?",
+     "opts": [
+      "It started with 36 cats bought from European zoos.",
+      "It began with four wild-caught cats obtained legally.",
+      "It has already been approved and registered by CITES.",
+      "It has been breeding the cats for only three years."
+     ],
+     "a": 1,
+     "evidence": "the firm began breeding in 2013 with four legally acquired wild-caught cats",
+     "why": "Paragraph 3 says the firm \"began breeding in 2013 with four legally acquired wild-caught cats.\" The other options change numbers or facts.",
+     "optWhy": [
+      "Wrong: detail swapped. 36 is the number the company reported by 2025, not its starting number, and zoos are not mentioned as the source.",
+      "Correct. \"four legally acquired wild-caught cats\" = four wild-caught cats obtained legally.",
+      "Wrong: contradicts the text. \"If the facility is registered\" shows that registration has not happened yet.",
+      "Wrong: detail swapped. \"three generations\" is not three years; breeding began in 2013."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "If the facility is registered, it would become the first in the world to breed Asian golden cats commercially for the international pet market.",
+       "hl": "If the facility is registered"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan for numbers",
+       "x": "Paragraph 3 contains 2013, four, 2025, 36 and three generations."
+      },
+      {
+       "t": "Match each number",
+       "x": "Four = starting cats; 36 = cats by 2025; three = generations, not years."
+      },
+      {
+       "t": "Check the status",
+       "x": "\"If the facility is registered\" shows approval has not happened yet."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 2,
+     "q": "According to paragraph 2, all of the following are threats to the Asian golden cat EXCEPT",
+     "opts": [
+      "the clearing of its forest habitat",
+      "hunters who kill it for its skin",
+      "the use of its bones in place of tiger parts",
+      "competition with house cats for food"
+     ],
+     "a": 3,
+     "evidence": "because forests are being cleared and because the cats are poached for their skins and bones",
+     "why": "Paragraph 2 names forest clearing and poaching for skins and bones, including bones sold as tiger substitutes. Competition with house cats is never mentioned.",
+     "optWhy": [
+      "Wrong: this is mentioned. \"because forests are being cleared\".",
+      "Wrong: this is mentioned. The cats \"are poached for their skins\".",
+      "Wrong: this is mentioned. \"their bones are sold as substitutes for tiger parts\".",
+      "Correct (not mentioned). House cats appear only in paragraph 1 as a size comparison (\"larger than a house cat\"); they are not described as a threat."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "The Asian golden cat, which weighs between 9 and 16 kilograms, is considerably larger than a house cat, and its coat can range from bright gold to cinnamon, grey or even black.",
+       "hl": "considerably larger than a house cat"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the causes",
+       "x": "Look for \"because\" in paragraph 2: two reasons for falling numbers."
+      },
+      {
+       "t": "Tick off options",
+       "x": "Forest clearing, skins and bones as tiger substitutes all appear."
+      },
+      {
+       "t": "Spot the borrowed word",
+       "x": "\"house cats\" comes from paragraph 1 and is only a size comparison."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about how a legal trade might affect illegal trapping?",
+     "opts": [
+      "Illegally trapped cats could be sold as if they were captive-bred.",
+      "Legal sales would quickly end the demand for wild-caught cats.",
+      "The Center for Biological Diversity would support a legal trade.",
+      "Golden cats would become less popular as pets once sold legally."
+     ],
+     "a": 0,
+     "evidence": "it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest",
+     "why": "If officials cannot tell captive-bred cats from wild-caught ones, traders could pass off illegally trapped cats as legal. That is what \"provide cover for an illegal one\" implies.",
+     "optWhy": [
+      "Correct. \"hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest\" implies trapped cats could be passed off as captive-bred.",
+      "Wrong: this is the supporters' argument from paragraph 4; experts in paragraph 5 say breeding \"rarely reduces demand\".",
+      "Wrong: contradicts the text. Chris Shepherd of the Center called the plan \"very suspicious\".",
+      "Wrong: contradicts the text. A legal market \"could also make owning rare cats seem fashionable, increasing overall demand.\""
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "One concern is that a legal trade can provide cover for an illegal one: once golden cats are openly sold, it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest.",
+       "hl": "provide cover for an illegal one"
+      },
+      {
+       "para": 4,
+       "text": "If buyers can obtain legally bred animals, the reasoning goes, they will have less reason to buy animals taken from the wild, and pressure on wild populations will ease.",
+       "hl": "less reason to buy animals taken from the wild"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the concern",
+       "x": "Paragraph 5 says a legal trade can \"provide cover\" for illegal trade."
+      },
+      {
+       "t": "Ask what follows",
+       "x": "If officials can't tell the difference, wild cats can be sold as captive-bred."
+      },
+      {
+       "t": "Separate the sides",
+       "x": "Don't choose the supporters' view from paragraph 4; the question asks about paragraph 5."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention \"a typical bedroom\" in paragraph 7?",
+     "opts": [
+      "To suggest that golden cats can be kept safely indoors",
+      "To compare the cost of enclosures with the cost of housing",
+      "To help readers picture how small the company's enclosures are",
+      "To argue that European zoos use too much space for cats"
+     ],
+     "a": 2,
+     "evidence": "may suffer in a space smaller than a typical bedroom",
+     "why": "The company's enclosures are about 9 square metres, far below the recommended 150. Comparing them to \"a typical bedroom\" helps readers imagine how small that space is for a forest animal.",
+     "optWhy": [
+      "Wrong: opposite of the point. The author says the cat \"may suffer\" in such a space.",
+      "Wrong: not mentioned. The paragraph is about size and welfare, not money.",
+      "Correct. The bedroom comparison makes \"about 9 square metres\" easy to picture and shows how small it is for an animal that \"roams a large forest territory\".",
+      "Wrong: opposite of the point. The 150-square-metre zoo standard is presented as the right minimum, not as wasteful."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "She also noted that the company's enclosures measure about 9 square metres, while European zoos recommend a minimum of 150 square metres.",
+       "hl": "about 9 square metres"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "The bedroom appears in the last sentence of paragraph 7."
+      },
+      {
+       "t": "Connect to the numbers",
+       "x": "The sentence before gives 9 square metres versus a recommended 150."
+      },
+      {
+       "t": "Name the purpose",
+       "x": "The everyday comparison helps readers picture the small size and the welfare problem."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "If buyers can obtain legally bred animals, the reasoning goes, they will have less reason to buy animals taken from the wild, and pressure on wild populations will ease.",
+     "opts": [
+      "Buyers prefer wild animals because legally bred ones are difficult and costly to obtain.",
+      "Supporters say a legal supply would cut demand for wild animals and ease pressure on them.",
+      "Wild populations are now growing, so buyers have no real need for legally bred animals.",
+      "Once wild animals are protected by new laws, buyers will feel less pressure to buy them."
+     ],
+     "a": 1,
+     "evidence": "they will have less reason to buy animals taken from the wild",
+     "why": "The sentence reports an argument (\"the reasoning goes\"): legally bred animals give buyers less reason to buy wild ones, which reduces pressure on wild populations. Option B keeps the argument, the cause and the effect.",
+     "optWhy": [
+      "Wrong: changes the meaning. The sentence does not say buyers prefer wild animals or that bred ones are hard to get.",
+      "Correct. \"the reasoning goes\" = supporters argue; \"less reason to buy animals taken from the wild\" = lower demand; \"pressure on wild populations will ease\" = ease pressure on them.",
+      "Wrong: not mentioned and illogical. The sentence never says wild populations are growing; paragraph 2 says they are falling.",
+      "Wrong: meaning changed. The pressure that eases is on wild populations, not on buyers, and the cause is legal supply, not new laws."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Their numbers are falling mainly because forests are being cleared and because the cats are poached for their skins and bones; in some markets, their bones are sold as substitutes for tiger parts in traditional medicine.",
+       "hl": "Their numbers are falling"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Spot the frame",
+       "x": "\"the reasoning goes\" shows this is someone's argument, not a fact."
+      },
+      {
+       "t": "Follow the chain",
+       "x": "legal supply → less reason to buy wild animals → less pressure on wild populations."
+      },
+      {
+       "t": "Check who is affected",
+       "x": "Reject options that move the \"pressure\" from wild animals to buyers."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261124-3-k1",
+     "tag": "Status",
+     "fact": "About 7,000 Asian golden cats remain in the wild, and the IUCN lists the species as vulnerable.",
+     "q": "How many Asian golden cats are thought to remain in the wild?",
+     "opts": [
+      "About 700",
+      "About 7,000",
+      "About 70,000"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261124-3-k2",
+     "tag": "Law",
+     "fact": "CITES Appendix I bans international commercial trade in wild-caught animals, but captive-bred animals from registered facilities can be traded.",
+     "q": "Which golden cats could be traded legally under CITES?",
+     "opts": [
+      "Any wild-caught cat",
+      "Captive-bred cats from registered facilities",
+      "None at all"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261124-3-k3",
+     "tag": "Supporters",
+     "fact": "Supporters say legal captive-bred supply could reduce demand for wild-caught animals.",
+     "q": "What is the supporters' main argument?",
+     "opts": [
+      "Legal supply could reduce demand for wild cats",
+      "Pets are good for children",
+      "Zoos have too many cats"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261124-3-k4",
+     "tag": "Critics",
+     "fact": "Critics fear a legal trade could hide illegal trapping and make rare cats fashionable.",
+     "q": "Why might a legal trade help illegal trade?",
+     "opts": [
+      "It lowers prices for rangers",
+      "Officials may not tell bred and trapped cats apart",
+      "It bans all hunting"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261124-3-k5",
+     "tag": "Welfare",
+     "fact": "The company's enclosures are about 9 m², while European zoos recommend at least 150 m².",
+     "q": "What minimum enclosure size do European zoos recommend?",
+     "opts": [
+      "9 square metres",
+      "36 square metres",
+      "150 square metres"
+     ],
+     "a": 2
+    }
+   ],
+   "mindmap": {
+    "center": "Golden cats as pets?",
+    "question": "Can a legal pet trade protect a rare wild cat?",
+    "branches": [
+     {
+      "title": "Rare wild cat",
+      "paras": "1–2",
+      "blanks": [
+       "about 7,000 left",
+       "poached for skins and bones"
+      ],
+      "kps": [
+       "n20261124-3-k1"
+      ]
+     },
+     {
+      "title": "The plan",
+      "paras": "3",
+      "blanks": [
+       "4 cats grew to 36",
+       "first registered pet breeder"
+      ],
+      "kps": [
+       "n20261124-3-k2"
+      ]
+     },
+     {
+      "title": "For and against",
+      "paras": "4–5",
+      "blanks": [
+       "legal supply cuts demand",
+       "cover for illegal trade"
+      ],
+      "kps": [
+       "n20261124-3-k3",
+       "n20261124-3-k4"
+      ]
+     },
+     {
+      "title": "Doubts and welfare",
+      "paras": "6–8",
+      "blanks": [
+       "kittens hand-reared early",
+       "9 m² vs 150 m²"
+      ],
+      "kps": [
+       "n20261124-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "company won CITES approval",
+     "cats released into national parks"
+    ]
+   },
+   "summary": {
+    "intro": "An Indonesian company wants to breed rare Asian golden cats for the international pet trade.",
+    "model": "An Indonesian firm wants CITES approval to breed vulnerable Asian golden cats as pets, arguing legal supply could reduce demand for wild ones. However, experts fear it may hide illegal trapping, while doubts about breeding and welfare remain.",
+    "options": [
+     {
+      "t": "An Indonesian company is seeking CITES registration to breed a vulnerable wild cat for the international pet market.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "This is the door that the company, PT Alam Nusantara Jayatama, hopes to open."
+     },
+     {
+      "t": "Supporters argue that legal supply could reduce demand for wild-caught cats, but experts fear it could hide illegal trade and raise demand.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "One concern is that a legal trade can provide cover for an illegal one"
+     },
+     {
+      "t": "Experts also doubt the company's breeding claims and worry about the cats' welfare in small enclosures.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Animal welfare is a further worry."
+     },
+     {
+      "t": "The cat's coat can be gold, cinnamon, grey or black.",
+      "ok": false,
+      "type": "detail",
+      "para": 1,
+      "evidence": "its coat can range from bright gold to cinnamon, grey or even black"
+     },
+     {
+      "t": "The company explained its plans in detail to journalists.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "Neither the company nor its owner responded to journalists' questions"
+     },
+     {
+      "t": "Indonesia plans to release the captive-bred cats into national parks.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think it is acceptable to keep rare wild animals as pets if they are bred in captivity. Others believe wild animals should never be kept as pets. Which view do you agree with, and why?",
+    "hint": "Pick a side; give two reasons (welfare, conservation, illegal trade, education); add an example; end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Rivera: An Indonesian company wants to breed rare Asian golden cats and sell them as pets. Supporters say legal breeding could protect wild cats; critics say it could make the illegal trade worse. Should governments allow the commercial breeding of rare wild animals for the pet trade? Why or why not?\nSophie: \"Yes, with strict rules. If people can buy legally bred animals, they won't need to buy poached ones, and the money could fund conservation.\"\nMarcus: \"No. Experts say legal trade makes it easier to hide illegal animals, and a rare cat in a tiny cage is suffering. Wild animals belong in the wild.\"",
+    "steps": [
+     "State your position clearly.",
+     "Respond to Sophie or Marcus and add a new reason.",
+     "Support it with an example or a fact from the article.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "Cambridge C1 Advanced (CAE) style practice built on today's three stories: grammar, vocabulary, collocations and word formation.",
+  "parts": [
+   {
+    "part": 1,
+    "type": "mc",
+    "title": "Multiple-choice cloze",
+    "topic": "AI and first jobs",
+    "task": "Read the text and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "For decades, entry-level jobs have been where young professionals learn the {1}. Routine tasks allowed newcomers to {2} experience while learning from senior colleagues. Now, however, a growing number of employers are {3} advantage of artificial intelligence to handle such work. According to a recent report, the problem is not that staff are being dismissed {4} masse, but that fewer beginners are being taken on in the first place. Some economists warn that this trend could {5} a whole generation behind. Others are less pessimistic, {6} out that AI is also creating roles in which people work alongside machines. It goes without {7} that graduates will need new skills, and those who can make the most of AI tools are likely to stand a far better {8} of climbing the career ladder.",
+    "items": [
+     {
+      "n": 1,
+      "opts": [
+       "strings",
+       "ropes",
+       "lines",
+       "cords"
+      ],
+      "a": 1,
+      "focus": "Idiom",
+      "why": "\"Learn the ropes\" is an idiom meaning to learn the basic skills of a new job. The other nouns do not form this idiom."
+     },
+     {
+      "n": 2,
+      "opts": [
+       "win",
+       "score",
+       "gain",
+       "reach"
+      ],
+      "a": 2,
+      "focus": "Collocation",
+      "why": "\"Gain experience\" is the natural collocation. You win a prize, score a goal and reach a target, but you gain experience."
+     },
+     {
+      "n": 3,
+      "opts": [
+       "taking",
+       "making",
+       "getting",
+       "having"
+      ],
+      "a": 0,
+      "focus": "Fixed phrase",
+      "why": "\"Take advantage of something\" means to use it to benefit yourself. The other verbs do not combine with \"advantage of\"."
+     },
+     {
+      "n": 4,
+      "opts": [
+       "in",
+       "on",
+       "at",
+       "en"
+      ],
+      "a": 3,
+      "focus": "Fixed phrase",
+      "why": "\"En masse\" (from French) means all together, in large numbers. \"In masse\", \"on masse\" and \"at masse\" are not English expressions."
+     },
+     {
+      "n": 5,
+      "opts": [
+       "let",
+       "leave",
+       "drop",
+       "put"
+      ],
+      "a": 1,
+      "focus": "Phrasal verb",
+      "why": "\"Leave someone behind\" means to cause them to fall behind others. \"Let\" and \"put\" don't form this meaning with \"behind\", and \"drop behind\" is used without an object."
+     },
+     {
+      "n": 6,
+      "opts": [
+       "showing",
+       "noting",
+       "pointing",
+       "indicating"
+      ],
+      "a": 2,
+      "focus": "Phrasal verb",
+      "why": "Only \"point\" combines with \"out\" to mean \"mention a fact\" (point out that...). \"Show\", \"note\" and \"indicate\" are not followed by \"out\" here."
+     },
+     {
+      "n": 7,
+      "opts": [
+       "saying",
+       "telling",
+       "speaking",
+       "talking"
+      ],
+      "a": 0,
+      "focus": "Fixed phrase",
+      "why": "\"It goes without saying that...\" means something is so obvious that it hardly needs to be said."
+     },
+     {
+      "n": 8,
+      "opts": [
+       "hope",
+       "opportunity",
+       "possibility",
+       "chance"
+      ],
+      "a": 3,
+      "focus": "Collocation",
+      "why": "\"Stand a (good/better) chance of doing something\" is a fixed collocation. We don't say \"stand a better hope/opportunity/possibility\"."
+     }
+    ]
+   },
+   {
+    "part": 2,
+    "type": "open",
+    "title": "Open cloze",
+    "topic": "AI writers and detectors",
+    "task": "Think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "Teachers have long worried about students handing in work that is not {9} own. With the arrival of chatbots, this concern has grown, and many schools now rely {10} software to spot AI-generated essays. Yet such tools are far from perfect. Not {11} do they miss a large proportion of disguised texts, but they also sometimes accuse innocent students. Researchers have found that writers {12} first language is not English are especially likely to be flagged. {13} a result, some educators argue that detectors should be used, if at {14}, only as a starting point for a conversation. {15} approach a school chooses, most experts agree on one point: no detector should be trusted completely, {16} matter how advanced it appears.",
+    "items": [
+     {
+      "n": 9,
+      "ans": [
+       "their"
+      ],
+      "focus": "Possessive",
+      "why": "\"Work that is not their own\" = work they did not do themselves. The possessive \"their\" refers back to \"students\"."
+     },
+     {
+      "n": 10,
+      "ans": [
+       "on",
+       "upon"
+      ],
+      "focus": "Dependent preposition",
+      "why": "The verb \"rely\" is followed by \"on\" (or the more formal \"upon\")."
+     },
+     {
+      "n": 11,
+      "ans": [
+       "only"
+      ],
+      "focus": "Inversion",
+      "why": "\"Not only do they..., but they also...\" uses inversion after the negative phrase \"Not only\"."
+     },
+     {
+      "n": 12,
+      "ans": [
+       "whose"
+      ],
+      "focus": "Relative pronoun",
+      "why": "\"Whose\" shows possession in a relative clause: writers whose first language is not English."
+     },
+     {
+      "n": 13,
+      "ans": [
+       "as"
+      ],
+      "focus": "Linking phrase",
+      "why": "\"As a result\" introduces a consequence of the problem just described."
+     },
+     {
+      "n": 14,
+      "ans": [
+       "all"
+      ],
+      "focus": "Fixed phrase",
+      "why": "\"If at all\" means \"if they are used in any way\", suggesting they may not be used at all."
+     },
+     {
+      "n": 15,
+      "ans": [
+       "whichever",
+       "whatever"
+      ],
+      "focus": "Concession",
+      "why": "\"Whichever/Whatever approach a school chooses\" = it doesn't matter which approach; the main clause is true in every case."
+     },
+     {
+      "n": 16,
+      "ans": [
+       "no"
+      ],
+      "focus": "Fixed phrase",
+      "why": "\"No matter how advanced it appears\" = however advanced it appears."
+     }
+    ]
+   },
+   {
+    "part": 3,
+    "type": "wf",
+    "title": "Word formation",
+    "topic": "Golden cats as pets",
+    "task": "Use the word in capitals to form a word that fits in the gap.",
+    "text": "The Asian golden cat is a remarkably {17} animal that few people have ever seen in the wild. Its long-term {18} is threatened by poaching and by the {19} of the forests in which it lives. Now a plan to breed the cat commercially for the pet trade has proved highly {20}. Critics argue that such schemes are {21} to reduce poaching, and may even help to disguise the {22} trade in wild-caught animals. Zoo experts also question the {23} of the company's breeding figures, and they stress that keeping a forest animal in a tiny cage is simply {24}.",
+    "items": [
+     {
+      "n": 17,
+      "stem": "ELUDE",
+      "ans": [
+       "elusive"
+      ],
+      "focus": "Verb → adjective",
+      "why": "An adjective is needed after \"remarkably\": elude (verb) → elusive (hard to find)."
+     },
+     {
+      "n": 18,
+      "stem": "SURVIVE",
+      "ans": [
+       "survival"
+      ],
+      "focus": "Verb → noun",
+      "why": "After the possessive \"Its long-term\" we need a noun: survive → survival."
+     },
+     {
+      "n": 19,
+      "stem": "DESTROY",
+      "ans": [
+       "destruction"
+      ],
+      "focus": "Verb → noun",
+      "why": "\"the ___ of the forests\" needs a noun: destroy → destruction (note the spelling change)."
+     },
+     {
+      "n": 20,
+      "stem": "CONTROVERSY",
+      "ans": [
+       "controversial"
+      ],
+      "focus": "Noun → adjective",
+      "why": "\"proved highly ___\" needs an adjective: controversy → controversial."
+     },
+     {
+      "n": 21,
+      "stem": "LIKE",
+      "ans": [
+       "unlikely"
+      ],
+      "focus": "Negative prefix",
+      "why": "The critics doubt the schemes will work, so we need a negative adjective: unlikely to reduce."
+     },
+     {
+      "n": 22,
+      "stem": "LEGAL",
+      "ans": [
+       "illegal"
+      ],
+      "focus": "Negative prefix",
+      "why": "A legal trade could hide the trade in wild-caught animals, which is not legal: legal → illegal (il- before l)."
+     },
+     {
+      "n": 23,
+      "stem": "RELY",
+      "ans": [
+       "reliability"
+      ],
+      "focus": "Verb → noun",
+      "why": "\"question the ___ of\" needs a noun: rely → reliable → reliability."
+     },
+     {
+      "n": 24,
+      "stem": "ACCEPT",
+      "ans": [
+       "unacceptable"
+      ],
+      "focus": "Prefix + suffix",
+      "why": "The experts disapprove, so we need a negative adjective: accept → acceptable → unacceptable."
+     }
+    ]
+   },
+   {
+    "part": 4,
+    "type": "kwt",
+    "title": "Key word transformation",
+    "topic": "All three stories",
+    "task": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Do not change the word given. Use between three and six words, including the word given.",
+    "items": [
+     {
+      "n": 25,
+      "s1": "Companies are hiring fewer beginners than they used to.",
+      "key": "AS",
+      "pre": "Companies are not",
+      "post": "they used to.",
+      "ans": [
+       "hiring as many beginners as"
+      ],
+      "focus": "Comparison",
+      "why": "\"fewer ... than\" becomes \"not as many ... as\". Answer: hiring as many beginners as (5 words)."
+     },
+     {
+      "n": 26,
+      "s1": "It is possible that AI is not the only cause of the hiring gap.",
+      "key": "MAY",
+      "pre": "AI",
+      "post": "cause of the hiring gap.",
+      "ans": [
+       "may not be the only"
+      ],
+      "focus": "Modal verb",
+      "why": "\"It is possible that ... is not\" = \"may not be\". Answer: may not be the only (5 words)."
+     },
+     {
+      "n": 27,
+      "s1": "The detector failed to catch most of the disguised texts.",
+      "key": "MAJORITY",
+      "pre": "The detector missed",
+      "post": "the disguised texts.",
+      "ans": [
+       "the majority of",
+       "the vast majority of",
+       "the great majority of"
+      ],
+      "focus": "Quantifier",
+      "why": "\"most of\" = \"the majority of\". Answer: the (vast) majority of (3–4 words)."
+     },
+     {
+      "n": 28,
+      "s1": "People say that the new method is much more robust.",
+      "key": "SAID",
+      "pre": "The new method",
+      "post": "much more robust.",
+      "ans": [
+       "is said to be"
+      ],
+      "focus": "Passive reporting",
+      "why": "\"People say that X is ...\" becomes the passive \"X is said to be ...\". Answer: is said to be (4 words)."
+     },
+     {
+      "n": 29,
+      "s1": "The company did not answer any of the journalists' questions.",
+      "key": "RESPONSE",
+      "pre": "The company made",
+      "post": "the journalists' questions.",
+      "ans": [
+       "no response to",
+       "no response to any of"
+      ],
+      "focus": "Verb → noun phrase",
+      "why": "\"did not answer\" becomes \"made no response to\". Answer: no response to (any of) (3–5 words)."
+     },
+     {
+      "n": 30,
+      "s1": "Experts doubt that commercial breeding will reduce poaching.",
+      "key": "DOUBTS",
+      "pre": "Experts",
+      "post": "whether commercial breeding will reduce poaching.",
+      "ans": [
+       "have doubts about",
+       "have serious doubts about",
+       "have their doubts about"
+      ],
+      "focus": "Verb → noun phrase",
+      "why": "The verb \"doubt\" becomes the noun phrase \"have doubts about\". Answer: have doubts about (3 words)."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "For generations, the path into a professional career has looked like a ladder. Young people started on the bottom rung, doing routine tasks such as entering data, answering customer emails or drafting simple reports, and gradually climbed toward more complex and better-paid work. A new report suggests that artificial intelligence may be quietly sawing off that first rung. Published by the Burning Glass Institute, a labor-market research group, and RAISE US, a workforce organization, the study is titled \"Fewer Rungs, New Bridges,\" and its findings have prompted a lively debate about what AI means for the next generation of workers.": "audio/2026-11-24/a1-p1.mp3",
+  "The report focuses on four industries that have adopted AI tools especially quickly: finance, insurance, information and professional services. In August 2026, these sectors employed 31.9 million people. That sounds like a large number, but it is about 1.5 million fewer than would be expected if employment had continued to grow at the pace it followed between 2005 and 2019. Crucially, the authors argue that this gap is not mainly the result of dramatic layoffs. \"The missing workers aren't being laid off,\" they write; \"they're simply not being hired in the first place.\" In other words, companies are not necessarily firing existing staff; they are opening fewer doors to newcomers.": "audio/2026-11-24/a1-p2.mp3",
+  "The evidence for this is clearest at the entry level. In the industries that use AI most heavily, the share of job postings open to candidates with three years of experience or less was between 3 and 8 percent below its recent average in the year ending in June 2026. Office and administrative support jobs, which have long served as a starting point for workers without specialized training, fell by 780,000 between 2023 and 2025. The logic is easy to follow: the routine tasks that once justified hiring a junior employee are exactly the tasks that AI systems can now perform cheaply and quickly.": "audio/2026-11-24/a1-p3.mp3",
+  "Yet the picture is not simply one of destruction. Within the occupations most exposed to AI, the report found that jobs likely to be automated lost about 820,000 positions, while jobs in which AI assists rather than replaces workers gained roughly 1.4 million. Moreover, across the economy as a whole, the share of postings aimed at entry-level candidates has remained largely unchanged. The authors themselves treat AI as only one of several likely causes of the hiring gap, alongside offshoring and other technologies. Skeptics therefore caution against blaming a single technology for complex economic shifts; slower hiring may also reflect high interest rates and uncertainty about the economy.": "audio/2026-11-24/a1-p4.mp3",
+  "Even so, the burden of change appears to fall unevenly. Workers without a bachelor's degree hold 64 percent of all jobs but 80 percent of the jobs most likely to be automated. This matters because entry-level roles have traditionally been a route upward for such workers: according to the report, more than four in five established advancement pathways that begin in jobs requiring no degree lead to positions that typically do require one. If the bottom rung disappears, the authors warn, the entire ladder may become harder to climb, and inequality could widen.": "audio/2026-11-24/a1-p5.mp3",
+  "The report's title also points to a possible solution: \"new bridges.\" AI, after all, can teach as well as replace. Studying 2,741 career moves into occupations facing worker shortages, the researchers estimated that AI tools could help newcomers close about 31 percent of the skills gap between their old and new jobs. However, in another 46 percent of these transitions, AI mainly helped people who were already skilled, which could make it even harder for beginners to compete. Gina Raimondo, a former US Commerce Secretary who co-chairs RAISE US, called the findings a \"wake-up call for leaders from Washington to Silicon Valley.\"": "audio/2026-11-24/a1-p6.mp3",
+  "What should those leaders do? Some argue that companies have a responsibility to keep training junior staff, even when AI could do their tasks more cheaply, because today's beginners are tomorrow's experienced managers. Others believe the solution lies in education: schools and universities should teach students to work alongside AI, so that graduates arrive with skills that machines cannot easily copy. For students preparing to enter the workforce, the message is neither panic nor complacency. The first rung of the ladder may be changing shape, but those who learn to use AI as a tool, rather than compete with it, may still find a way up.": "audio/2026-11-24/a1-p7.mp3",
+  "rung": "audio/2026-11-24/a1-w-rung.mp3",
+  "She started on the lowest rung of the company and became its director twenty years later.": "audio/2026-11-24/a1-ex-rung.mp3",
+  "prompt": "audio/2026-11-24/a1-w-prompt.mp3",
+  "The heavy floods prompt local officials to rethink where new homes are built.": "audio/2026-11-24/a1-ex-prompt.mp3",
+  "occupation": "audio/2026-11-24/a1-w-occupation.mp3",
+  "Nursing is an occupation that demands both skill and patience.": "audio/2026-11-24/a1-ex-occupation.mp3",
+  "automate": "audio/2026-11-24/a1-w-automate.mp3",
+  "The bank plans to automate most of its customer-service calls next year.": "audio/2026-11-24/a1-ex-automate.mp3",
+  "offshoring": "audio/2026-11-24/a1-w-offshoring.mp3",
+  "Offshoring helped the company reduce costs, but it angered workers at home.": "audio/2026-11-24/a1-ex-offshoring.mp3",
+  "skeptic": "audio/2026-11-24/a1-w-skeptic.mp3",
+  "Even a skeptic would admit that the new vaccine has saved many lives.": "audio/2026-11-24/a1-ex-skeptic.mp3",
+  "burden": "audio/2026-11-24/a1-w-burden.mp3",
+  "Rising rents place a heavy burden on young families.": "audio/2026-11-24/a1-ex-burden.mp3",
+  "inequality": "audio/2026-11-24/a1-w-inequality.mp3",
+  "Free online courses could reduce inequality in access to education.": "audio/2026-11-24/a1-ex-inequality.mp3",
+  "complacency": "audio/2026-11-24/a1-w-complacency.mp3",
+  "After two easy wins, the coach warned his team against complacency.": "audio/2026-11-24/a1-ex-complacency.mp3",
+  "entry-level": "audio/2026-11-24/a1-w-entry-level.mp3",
+  "Many entry-level jobs now ask for skills that graduates rarely learn at university.": "audio/2026-11-24/a1-ex-entry-level.mp3",
+  "A new report suggests that artificial intelligence may be quietly sawing off that first rung.": "audio/2026-11-24/a1-ks1.mp3",
+  "Crucially, the authors argue that this gap is not mainly the result of dramatic layoffs.": "audio/2026-11-24/a1-ks2.mp3",
+  "Yet the picture is not simply one of destruction.": "audio/2026-11-24/a1-ks3.mp3",
+  "Skeptics therefore caution against blaming a single technology for complex economic shifts; slower hiring may also reflect high interest rates and uncertainty about the economy.": "audio/2026-11-24/a1-ks4.mp3",
+  "If the bottom rung disappears, the authors warn, the entire ladder may become harder to climb, and inequality could widen.": "audio/2026-11-24/a1-ks5.mp3",
+  "For students preparing to enter the workforce, the message is neither panic nor complacency.": "audio/2026-11-24/a1-ks6.mp3",
+  "Ever since chatbots learned to produce fluent essays in seconds, teachers have faced an uncomfortable question: how can they tell whether a student wrote an assignment or simply asked a machine to write it? Many schools have turned to AI text detectors, software that estimates how likely it is that a passage was generated by a large language model. A new study from researchers at MIT and Cornell Tech, however, suggests that these tools are far less reliable than many users assume, and that keeping them accurate may require a fundamentally different approach.": "audio/2026-11-24/a2-p1.mp3",
+  "The problem lies in what computer scientists call a \"moving target.\" A detector is trained on examples of human and AI writing that exist at a particular moment. But both kinds of writing keep changing. New chatbots appear regularly, and each produces text with a slightly different style. Meanwhile, a whole industry of so-called \"humanizers\" has emerged: tools that rewrite AI-generated text so that it slips past detectors. \"After the company releases a model, a bunch of 'humanizers' pop up to try to beat it,\" explained Kevin Ren, a graduate student at Cornell Tech and the study's lead author. Even human writing drifts over time, as new words, topics and habits spread.": "audio/2026-11-24/a2-p2.mp3",
+  "To measure how serious the problem is, the team tested detectors on AI text that had been deliberately disguised. The results were striking. One commercial detector caught only about 27 percent of the disguised passages. A tool that misses most of the cases it was designed to catch offers little protection, and it may give teachers a false sense of security.": "audio/2026-11-24/a2-p3.mp3",
+  "The researchers' proposed solution is a technique called test-time adaptation. Normally, updating a detector means collecting large amounts of new, labeled data, in which every example is marked as human or AI, and then retraining the model from scratch, a slow and expensive process. With test-time adaptation, the detector instead adjusts its internal settings continuously, learning from the new, unlabeled text it encounters while it is being used. Using this method, the detector caught more than 93 percent of the disguised text. When the team simulated the gradual drift of human writing over time, the adaptive detector was 85 percent accurate, compared with 73 percent for traditional methods. The work will be presented at NeurIPS, one of the world's leading conferences on artificial intelligence.": "audio/2026-11-24/a2-p4.mp3",
+  "Manish Raghavan, an MIT professor and co-author, said the results show that test-time adaptation can make detectors \"much more robust.\" Yet the researchers are notably cautious about what their work means. As language models become more natural and human-written text becomes harder to verify, adaptation may not always succeed. \"It isn't entirely clear if this will be a solvable problem,\" Raghavan admitted. The study's figures also come from the researchers' own datasets, so they will need to be tested independently.": "audio/2026-11-24/a2-p5.mp3",
+  "This caution matters because detectors can fail in two directions. Besides missing AI-generated text, they can wrongly flag genuine human writing, an error known as a false positive. In 2023, researchers at Stanford University found that seven popular detectors, on average, misclassified more than half of a set of TOEFL essays written by non-native English speakers as AI-generated, apparently because these writers tend to use simpler and more predictable vocabulary. For a student, being falsely accused of cheating can damage grades, reputations and trust, even if the accusation is later withdrawn.": "audio/2026-11-24/a2-p6.mp3",
+  "As a result, educators are divided. Some argue that detectors, if used carefully, remain a useful deterrent: students who know their work may be checked are less tempted to cheat. Others believe that schools should stop treating writing as a product to be policed and instead redesign assignments, for example by asking students to write in class, submit drafts or explain their reasoning aloud. MIT's report on the study goes further, suggesting that teachers may want to think twice before putting all their trust in a detector's verdict.": "audio/2026-11-24/a2-p7.mp3",
+  "Ultimately, the contest between AI writers and AI detectors may resemble an arms race with no finish line: each improvement in detection invites a new method of evasion. If that is true, the most reliable evidence of learning may not come from software at all, but from the conversations, drafts and thinking that only a real student can produce.": "audio/2026-11-24/a2-p8.mp3",
+  "fluent": "audio/2026-11-24/a2-w-fluent.mp3",
+  "After a year in Madrid, she became fluent in Spanish.": "audio/2026-11-24/a2-ex-fluent.mp3",
+  "generate": "audio/2026-11-24/a2-w-generate.mp3",
+  "Wind farms generate enough electricity to power thousands of homes.": "audio/2026-11-24/a2-ex-generate.mp3",
+  "disguise": "audio/2026-11-24/a2-w-disguise.mp3",
+  "The spy tried to disguise his voice on the phone.": "audio/2026-11-24/a2-ex-disguise.mp3",
+  "adaptation": "audio/2026-11-24/a2-w-adaptation.mp3",
+  "Thick fur is an adaptation that helps polar bears survive the cold.": "audio/2026-11-24/a2-ex-adaptation.mp3",
+  "robust": "audio/2026-11-24/a2-w-robust.mp3",
+  "Engineers need a robust design that can survive strong earthquakes.": "audio/2026-11-24/a2-ex-robust.mp3",
+  "verify": "audio/2026-11-24/a2-w-verify.mp3",
+  "Journalists must verify a story before they publish it.": "audio/2026-11-24/a2-ex-verify.mp3",
+  "false positive": "audio/2026-11-24/a2-w-false-positive.mp3",
+  "A false positive on the security scan caused the airport to close a gate for an hour.": "audio/2026-11-24/a2-ex-false-positive.mp3",
+  "misclassify": "audio/2026-11-24/a2-w-misclassify.mp3",
+  "Doctors worry that the software may misclassify harmless spots as cancer.": "audio/2026-11-24/a2-ex-misclassify.mp3",
+  "deterrent": "audio/2026-11-24/a2-w-deterrent.mp3",
+  "Security cameras act as a deterrent to shoplifters.": "audio/2026-11-24/a2-ex-deterrent.mp3",
+  "evasion": "audio/2026-11-24/a2-w-evasion.mp3",
+  "Tax evasion costs governments billions of dollars every year.": "audio/2026-11-24/a2-ex-evasion.mp3",
+  "A new study from researchers at MIT and Cornell Tech, however, suggests that these tools are far less reliable than many users assume, and that keeping them accurate may require a fundamentally different approach.": "audio/2026-11-24/a2-ks1.mp3",
+  "The problem lies in what computer scientists call a \"moving target.\"": "audio/2026-11-24/a2-ks2.mp3",
+  "With test-time adaptation, the detector instead adjusts its internal settings continuously, learning from the new, unlabeled text it encounters while it is being used.": "audio/2026-11-24/a2-ks3.mp3",
+  "Yet the researchers are notably cautious about what their work means.": "audio/2026-11-24/a2-ks4.mp3",
+  "This caution matters because detectors can fail in two directions.": "audio/2026-11-24/a2-ks5.mp3",
+  "If that is true, the most reliable evidence of learning may not come from software at all, but from the conversations, drafts and thinking that only a real student can produce.": "audio/2026-11-24/a2-ks6.mp3",
+  "Deep in the forests of South and Southeast Asia lives a cat that few people have ever seen. The Asian golden cat, which weighs between 9 and 16 kilograms, is considerably larger than a house cat, and its coat can range from bright gold to cinnamon, grey or even black. It is shy, mostly solitary and rarely photographed. Now this elusive animal is at the centre of an international controversy, after an Indonesian company asked for permission to breed it commercially and sell it to pet owners around the world.": "audio/2026-11-24/a3-p1.mp3",
+  "The species' range stretches from eastern Nepal and north-eastern India through Myanmar, Thailand and southern China to Malaysia and the Indonesian island of Sumatra. It is listed as vulnerable by the International Union for Conservation of Nature (IUCN), and an estimated 7,000 individuals remain in the wild. Their numbers are falling mainly because forests are being cleared and because the cats are poached for their skins and bones; in some markets, their bones are sold as substitutes for tiger parts in traditional medicine. The species is also listed in Appendix I of the Convention on International Trade in Endangered Species (CITES), which bans international commercial trade in wild-caught animals.": "audio/2026-11-24/a3-p2.mp3",
+  "There is, however, an important exception. Animals bred in captivity at facilities registered with CITES can be traded legally with the proper export permits. This is the door that the company, PT Alam Nusantara Jayatama, hopes to open. According to documents submitted by Indonesia's Ministry of Forestry, the firm began breeding in 2013 with four legally acquired wild-caught cats, and by 2025 it reported 36 animals across three generations. In August, the CITES Secretariat notified member countries of the application, giving them until November 10 to object. If the facility is registered, it would become the first in the world to breed Asian golden cats commercially for the international pet market.": "audio/2026-11-24/a3-p3.mp3",
+  "Supporters of commercial captive breeding often use a simple economic argument. If buyers can obtain legally bred animals, the reasoning goes, they will have less reason to buy animals taken from the wild, and pressure on wild populations will ease. In theory, a legal supply could undercut the black market. Neither the company nor its owner responded to journalists' questions, however, so the firm's own case has not been explained publicly.": "audio/2026-11-24/a3-p4.mp3",
+  "Conservation experts are deeply skeptical. Chris Shepherd of the Center for Biological Diversity, a US-based environmental group, described the plan as \"very suspicious\" and argued that commercial captive breeding rarely reduces demand for wild animals and often hinders conservation. One concern is that a legal trade can provide cover for an illegal one: once golden cats are openly sold, it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest. A legal market could also make owning rare cats seem fashionable, increasing overall demand.": "audio/2026-11-24/a3-p5.mp3",
+  "Others question whether the breeding figures are realistic. Mike Brocklehurst, a carnivore specialist who once ran a conservation breeding programme at Melbourne Zoo, said the cats are \"super challenging to breed,\" adding that males in captivity sometimes kill females when the two are introduced. In his view, the company's reported success probably depends on removing kittens from their mothers at an early age and raising them by hand, a method that allows mothers to breed again sooner.": "audio/2026-11-24/a3-p6.mp3",
+  "Animal welfare is a further worry. Sandra Reichler, a mammal curator at Heidelberg Zoo who leads the European zoo association's breeding programme for the species, warned that separating kittens from their mothers too early can cause lasting behavioural problems. She also noted that the company's enclosures measure about 9 square metres, while European zoos recommend a minimum of 150 square metres. A wild cat that naturally roams a large forest territory may suffer in a space smaller than a typical bedroom.": "audio/2026-11-24/a3-p7.mp3",
+  "The case raises a broader question that goes far beyond one species: can markets protect wildlife, or do they inevitably put it at greater risk? Some conservationists believe that carefully regulated trade can reduce poaching, as has been argued for certain farmed crocodiles. Others insist that wild animals should not be pets at all, however they are bred. As CITES considers the application, the fate of the Asian golden cat may depend on which of these views prevails.": "audio/2026-11-24/a3-p8.mp3",
+  "elusive": "audio/2026-11-24/a3-w-elusive.mp3",
+  "The snow leopard is so elusive that some researchers never see one in the wild.": "audio/2026-11-24/a3-ex-elusive.mp3",
+  "solitary": "audio/2026-11-24/a3-w-solitary.mp3",
+  "Unlike lions, most wild cats are solitary hunters.": "audio/2026-11-24/a3-ex-solitary.mp3",
+  "poach": "audio/2026-11-24/a3-w-poach.mp3",
+  "Rangers patrol the park day and night because criminals still poach rhinos for their horns.": "audio/2026-11-24/a3-ex-poach.mp3",
+  "substitute": "audio/2026-11-24/a3-w-substitute.mp3",
+  "Honey can be a healthy substitute for sugar in many recipes.": "audio/2026-11-24/a3-ex-substitute.mp3",
+  "captivity": "audio/2026-11-24/a3-w-captivity.mp3",
+  "Dolphins born in captivity may never learn to hunt in the open sea.": "audio/2026-11-24/a3-ex-captivity.mp3",
+  "undercut": "audio/2026-11-24/a3-w-undercut.mp3",
+  "Cheap imports undercut local farmers who cannot lower their prices.": "audio/2026-11-24/a3-ex-undercut.mp3",
+  "skeptical": "audio/2026-11-24/a3-w-skeptical.mp3",
+  "Many scientists remain skeptical about the company's claims.": "audio/2026-11-24/a3-ex-skeptical.mp3",
+  "hinder": "audio/2026-11-24/a3-w-hinder.mp3",
+  "Heavy rain may hinder the rescue team's progress.": "audio/2026-11-24/a3-ex-hinder.mp3",
+  "enclosure": "audio/2026-11-24/a3-w-enclosure.mp3",
+  "The zoo built a larger enclosure so the tigers could climb and swim.": "audio/2026-11-24/a3-ex-enclosure.mp3",
+  "prevail": "audio/2026-11-24/a3-w-prevail.mp3",
+  "In the end, common sense will prevail and the old bridge will be repaired.": "audio/2026-11-24/a3-ex-prevail.mp3",
+  "Now this elusive animal is at the centre of an international controversy, after an Indonesian company asked for permission to breed it commercially and sell it to pet owners around the world.": "audio/2026-11-24/a3-ks1.mp3",
+  "Their numbers are falling mainly because forests are being cleared and because the cats are poached for their skins and bones; in some markets, their bones are sold as substitutes for tiger parts in traditional medicine.": "audio/2026-11-24/a3-ks2.mp3",
+  "In theory, a legal supply could undercut the black market.": "audio/2026-11-24/a3-ks3.mp3",
+  "One concern is that a legal trade can provide cover for an illegal one: once golden cats are openly sold, it may be hard for officials to tell whether a particular animal was bred in captivity or trapped in a forest.": "audio/2026-11-24/a3-ks4.mp3",
+  "Animal welfare is a further worry.": "audio/2026-11-24/a3-ks5.mp3",
+  "The case raises a broader question that goes far beyond one species: can markets protect wildlife, or do they inevitably put it at greater risk?": "audio/2026-11-24/a3-ks6.mp3"
+ }
+}
