@@ -313,6 +313,22 @@ textarea.ta.short{min-height:110px}
 /* web version: no fake phone chrome */
 .status,.nav .capsule{display:none!important}
 .nav{padding-top:env(safe-area-inset-top)}
+
+/* use of english */
+.utabs{display:flex;gap:6px;overflow-x:auto}.utab{flex:1;min-width:64px;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:7px 4px;font-size:13px;font-weight:700;color:var(--muted);display:flex;flex-direction:column;align-items:center;gap:2px}
+.utab.on{border-color:var(--accent);color:var(--accent);background:var(--soft)}.utab .num{font-size:11px;font-weight:600}
+.utext{font-family:'Source Serif 4',Georgia,serif;font-size:16px;line-height:2.1}
+.ugap{display:inline-flex;align-items:baseline;gap:4px;border:none;border-bottom:2px solid var(--accent);background:var(--soft);border-radius:6px 6px 0 0;padding:0 6px;font:inherit;font-size:15px;color:var(--ink);line-height:1.5}
+.ugap b,.ugapw b{font:700 11px -apple-system,sans-serif;color:var(--accent)}.ugap.sel{outline:2px solid var(--amber)}
+.ugapw{display:inline-flex;align-items:baseline;gap:4px;white-space:nowrap}
+.uin{font:inherit;font-size:15px;width:118px;border:none;border-bottom:2px solid var(--accent);background:var(--soft);border-radius:6px 6px 0 0;padding:1px 6px;color:var(--ink)}
+.uin.wide{width:100%;margin:4px 0}.ustem{font:700 12px -apple-system,sans-serif;letter-spacing:.5px;color:var(--amber)}
+.u-ok{border-color:var(--good)!important;background:var(--goodbg)!important;color:var(--good)!important}.u-no{border-color:var(--bad)!important;background:var(--badbg)!important;color:var(--bad)!important}
+.uitem{display:flex;flex-direction:column;gap:6px;padding:10px 0;border-top:1px solid var(--line)}.uitem:first-child{border-top:none}
+.uopts{display:grid;grid-template-columns:1fr 1fr;gap:6px}.uopt{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:8px;font-size:14px;text-align:left;color:var(--ink)}
+.uopt.on{border-color:var(--accent);background:var(--soft);font-weight:700}
+.ukey{display:inline-block;font:800 13px -apple-system,sans-serif;letter-spacing:1px;border:2px solid var(--ink);border-radius:5px;padding:1px 8px}
+.uwhy{font-size:13.5px;line-height:1.55;background:var(--soft);border-radius:8px;padding:8px 10px}.uwhy .fix{font-weight:700}
 </style>
 </head>
 <body>
@@ -405,7 +421,7 @@ const wc = t => (t.trim().match(/[A-Za-z’']+/g) || []).length;
 
 /* ---------- router ---------- */
 const stack = [];
-const TITLE = { home: 'Daily News', article: '', words: 'Words', quiz: 'Quiz', summary: 'Summary', mindmap: 'Mind map', read: '', speak: 'Speak', write: 'Write', result: 'Results', archive: 'Past days' };
+const TITLE = { home: 'Daily News', article: '', words: 'Words', quiz: 'Quiz', summary: 'Summary', mindmap: 'Mind map', read: '', speak: 'Speak', write: 'Write', result: 'Results', archive: 'Past days', uoe: 'Use of English' };
 function go(page, params = {}) { stopSpeak(); const st = { page, params, s: {} }; stack.push(st); if (PAGES[page].init) PAGES[page].init(st); render(true); }
 function back() { stopSpeak(); if (stack.length > 1) { stack.pop(); render(true); } }
 function redirect(page, params) { stack.pop(); go(page, params); }
@@ -473,6 +489,7 @@ const PAGES = {
           ${latest.teaser ? `<div class="meta">${esc(latest.teaser)}</div>` : ''}</div>
         <label class="name-row"><span class="muted">Name</span><input id="nameIn" value="${esc(P.name)}" placeholder="Your name, for your teacher"></label>
         <div class="stories">${latest.articles.map((a, i) => artCard(a, i)).join('')}</div>
+        ${latest.uoe ? uoeCard(latest) : ''}
         <div class="panel">
           <div><div class="eyebrow">Daily review · ${dayLabel(t)}</div><div class="h2">${!enrolled ? 'Starts after your first story' : checked ? 'Checked in today' : 'Not checked in yet'}</div></div>
           ${!enrolled ? `<div class="meta">Finish Questions and Summary, and the story's key points and words join your daily review. Right answers come back after a few days; wrong ones come back tomorrow.</div>`
@@ -869,6 +886,59 @@ function answer(st, ok, picked) {
   Object.assign(s, { answered: true, ok, picked, correct: s.correct + (ok ? 1 : 0) });
 }
 
+/* ---------- use of english (C1 Advanced) ---------- */
+const uNorm = x => String(x || '').toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?;:]+$/, '').replace(/\s+/g, ' ').trim();
+const uRec = d => (P.uoe || (P.uoe = {}))[d] || (P.uoe[d] = {});
+const uOk = (p, it, v) => p.type === 'mc' ? v === it.a : it.ans.some(a => uNorm(a) === uNorm(v));
+const uRight = (p, it) => p.type === 'mc' ? `${'ABCD'[it.a]} ${it.opts[it.a]}` : it.ans.join(' / ');
+function uoeCard(d) {
+  const u = d.uoe, r = (P.uoe || {})[d.date] || {}, n = u.parts.filter(p => r[p.part]).length;
+  const c = u.parts.reduce((x, p) => x + (r[p.part] ? r[p.part].c : 0), 0), t = u.parts.reduce((x, p) => x + p.items.length, 0);
+  return `<div class="panel"><div><div class="eyebrow">Bonus · Cambridge C1 Advanced</div><div class="h2">Use of English</div>
+    <div class="meta">${esc(u.intro || '')}</div></div>
+    <div class="spread meta"><span>${u.parts.length} parts · ${t} items</span><span class="num">${n ? `${n}/${u.parts.length} parts · ${c} correct` : 'Not started'}</span></div>
+    <button class="${n === u.parts.length ? 'ghost' : 'btn'}" data-act="uoe" data-d="${d.date}">${n ? (n === u.parts.length ? 'Practise again' : 'Continue') : 'Start'}</button></div>`;
+}
+function uGapHtml(p, it, s, chk) {
+  const v = s.ans[it.n], cls = chk ? (uOk(p, it, v) ? 'u-ok' : 'u-no') : '';
+  if (p.type === 'mc') return `<button class="ugap ${cls} ${s.focus === it.n ? 'sel' : ''}" data-act="ufocus" data-n="${it.n}"><b>${it.n}</b>${v != null ? esc(it.opts[v]) : '&nbsp;______&nbsp;'}</button>`;
+  return `<span class="ugapw"><b>${it.n}</b><input class="uin ${cls}" data-n="${it.n}" value="${esc(v || '')}" ${chk ? 'disabled' : ''} autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Gap ${it.n}">${p.type === 'wf' ? `<span class="ustem">${esc(it.stem)}</span>` : ''}</span>`;
+}
+function uWhy(p, it, s) {
+  const v = s.ans[it.n], ok = uOk(p, it, v), yours = p.type === 'mc' ? (v != null ? it.opts[v] : '') : (v || '');
+  return `<div class="uwhy"><span class="chip ${ok ? 'good' : 'bad'}">${ok ? '✓' : '✗'} ${it.n}</span> <span class="chip">${esc(it.focus || '')}</span>
+    ${ok ? '' : `<div>Your answer: ${esc(yours || '(blank)')} → <span class="fix">${esc(uRight(p, it))}</span></div>`}<div>${esc(it.why)}</div></div>`;
+}
+PAGES.uoe = {
+  init(st) { st.title = 'Use of English'; Object.assign(st.s, { p: 0, ans: {}, chk: {}, focus: null }); },
+  view(st) {
+    const d = DAYS.find(x => x.date === st.params.date), u = d.uoe, s = st.s, p = u.parts[s.p], chk = !!s.chk[s.p], r = uRec(d.date);
+    const tabs = `<div class="utabs" role="tablist">${u.parts.map((x, i) => `<button class="utab ${i === s.p ? 'on' : ''}" role="tab" aria-selected="${i === s.p}" data-act="upart" data-i="${i}">Part ${x.part}<span class="num">${r[x.part] ? `${r[x.part].c}/${r[x.part].t}` : x.items.length + ' items'}</span></button>`).join('')}</div>`;
+    let body = '';
+    if (p.type === 'kwt') {
+      body = `<div class="panel">${p.items.map(it => `<div class="uitem"><div class="h3" style="font-weight:600">${it.n}. ${esc(it.s1)}</div><div><span class="ukey">${esc(it.key)}</span></div>
+        <div class="utext" style="line-height:1.7">${esc(it.pre)} <input class="uin wide ${chk ? (uOk(p, it, s.ans[it.n]) ? 'u-ok' : 'u-no') : ''}" data-n="${it.n}" value="${esc(s.ans[it.n] || '')}" ${chk ? 'disabled' : ''} autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="3–6 words, including ${esc(it.key)}"> ${esc(it.post)}</div>
+        ${chk ? uWhy(p, it, s) : ''}</div>`).join('')}</div>`;
+    } else {
+      let txt = esc(p.text);
+      p.items.forEach(it => { txt = txt.replace(`{${it.n}}`, uGapHtml(p, it, s, chk)); });
+      body = `<div class="panel"><div class="utext">${txt}</div></div>`;
+      if (p.type === 'mc') body += `<div class="panel">${p.items.map(it => `<div class="uitem" id="ui${it.n}"><div class="h3">${it.n}</div><div class="uopts">${it.opts.map((o, i) => {
+        const c = chk ? (i === it.a ? 'u-ok' : s.ans[it.n] === i ? 'u-no' : '') : (s.ans[it.n] === i ? 'on' : '');
+        return `<button class="uopt ${c}" data-act="upick" data-n="${it.n}" data-i="${i}">${'ABCD'[i]}&nbsp; ${esc(o)}</button>`; }).join('')}</div>${chk ? uWhy(p, it, s) : ''}</div>`).join('')}</div>`;
+      else if (chk) body += `<div class="panel">${p.items.map(it => uWhy(p, it, s)).join('')}</div>`;
+    }
+    const c = chk ? p.items.filter(it => uOk(p, it, s.ans[it.n])).length : 0;
+    return `<div class="wrap">${tabs}
+      <div><div class="eyebrow">Part ${p.part} · ${esc(p.topic || '')}</div><div class="h2">${esc(p.title)}</div><div class="meta">${esc(p.task)}</div></div>
+      ${chk ? `<div class="fb ${c >= p.items.length * .6 ? 'ok' : 'no'}" style="align-self:stretch;text-align:center">${c}/${p.items.length} correct</div>` : ''}
+      ${body}
+      <div class="row" style="flex-wrap:nowrap">${chk ? `<button class="ghost" style="flex:1" data-act="uretry">Try again</button>${s.p < u.parts.length - 1 ? `<button class="btn" style="flex:1" data-act="upart" data-i="${s.p + 1}">Next part</button>` : `<button class="btn" style="flex:1" data-act="back">Done</button>`}`
+        : `<button class="btn" style="flex:1" data-act="ucheck">Check answers</button>`}</div>
+    </div>`;
+  }
+};
+
 /* ---------- events ---------- */
 document.addEventListener('click', e => {
   const b = e.target.closest('[data-act]'); if (!b || !b.closest('#body')) return;
@@ -881,13 +951,25 @@ document.addEventListener('click', e => {
     case 'review': return go('quiz', { mode: 'review', extra: !!b.dataset.extra });
     case 'checkin': checkIn(); toast('Checked in'); break;
     case 'demoDue': Object.values(P.srs).forEach(x => x.due = today()); save(); toast('All items are due now'); break;
-    case 'reset': P = { name: '', arts: {}, srs: {}, days: {}, rec: {}, writing: {} }; save(); toast('Progress reset'); break;
+    case 'reset': P = { name: '', arts: {}, srs: {}, days: {}, rec: {}, writing: {}, uoe: {} }; save(); toast('Progress reset'); break;
     case 'mod': {
       const k = b.dataset.key;
       if (k === 'results' && arec(id).overall == null) return toast('Finish Questions and Summary first');
       if (k === 'toefl') return go('quiz', { mode: 'toefl', id });
       return go(k === 'results' ? 'result' : k, { id });
     }
+    case 'uoe': return go('uoe', { date: b.dataset.d });
+    case 'upart': s.p = +b.dataset.i; s.focus = null; top = true; break;
+    case 'ufocus': { s.focus = +b.dataset.n; const el = document.getElementById('ui' + b.dataset.n); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' }); return render(); }
+    case 'upick': { if (s.chk[s.p]) return; s.ans[+b.dataset.n] = +b.dataset.i; s.focus = +b.dataset.n; break; }
+    case 'ucheck': {
+      const d = DAYS.find(x => x.date === st.params.date), p = d.uoe.parts[s.p];
+      const blank = p.items.filter(it => s.ans[it.n] == null || s.ans[it.n] === '').length;
+      if (blank && !s.confirm) { s.confirm = true; return toast(`${blank} blank — tap Check again to finish`); }
+      s.confirm = false; s.chk[s.p] = true;
+      uRec(d.date)[p.part] = { c: p.items.filter(it => uOk(p, it, s.ans[it.n])).length, t: p.items.length }; save(); top = true; break;
+    }
+    case 'uretry': { const p = DAYS.find(x => x.date === st.params.date).uoe.parts[s.p]; p.items.forEach(it => delete s.ans[it.n]); s.chk[s.p] = false; top = true; break; }
     case 'back': return back();
     case 'speak': return speak(b.dataset.t);
     case 'playall': { if (queue.length || !player.paused) return stopSpeak(); return playAll(art(id).paras); }
@@ -988,6 +1070,7 @@ document.addEventListener('submit', e => {
 });
 document.addEventListener('input', e => {
   if (e.target.id === 'nameIn') { P.name = e.target.value.trim(); save(); }
+  if (e.target.classList.contains('uin')) { cur().s.ans[+e.target.dataset.n] = e.target.value; }
   if (e.target.id === 'sumIn') { const st = cur(); st.s.own = e.target.value; const n = (st.s.own.trim().match(/[A-Za-z’'-]+/g) || []).length; const el = $('#swc'); el.textContent = `${n} / 40 words`; el.style.color = n > 40 ? 'var(--bad)' : n >= 15 ? 'var(--good)' : ''; }
   if (e.target.id === 'wrIn') {
     const a = art(cur().params.id), text = e.target.value, n = wc(text);

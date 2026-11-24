@@ -40,7 +40,8 @@ Example day file: `days/2026-11-05.json` (read it to see the exact shape).
   "date": "YYYY-MM-DD",
   "headline": "≤ 80 chars, a fresh title joining today's three topics (never 'Today's 3 stories')",
   "teaser": "one sentence of 2–3 hook questions",
-  "articles": [ ARTICLE, ARTICLE, ARTICLE ]
+  "articles": [ ARTICLE, ARTICLE, ARTICLE ],
+  "uoe": USE_OF_ENGLISH   (see the Use of English section below)
 }
 ```
 
@@ -65,3 +66,33 @@ ARTICLE:
 The audio map (`"audio": { text: path }`) is added by `gen_audio.py`; do not write it by hand.
 
 Voices (teacher's rule): words and their example sentences always use `af_heart`, the top-rated US voice. Article reading rotates through the higher-rated voices in `POOL` (gen_audio.py). Never use `af_nicole` or `am_puck`.
+
+## Use of English (C1 Advanced) — day-level `uoe` (added 2026-11-24)
+
+The day file also carries one Cambridge C1 Advanced (CAE) style Use of English set built on the day's three
+stories (not in the podcast). Students open it from the home page. Format:
+
+```
+"uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "one sentence",
+  "parts": [
+    { "part": 1, "type": "mc",   "title": "Multiple-choice cloze", "topic": "<story 1 theme>", "task": "...",
+      "text": "~150-word original text with gaps {1}…{8}",
+      "items": [{ "n": 1, "opts": [4 words], "a": 0-3, "focus": "Collocation", "why": "..." }, … 8 items] },
+    { "part": 2, "type": "open", "title": "Open cloze", "topic": "<story 2 theme>", "task": "...",
+      "text": "gaps {9}…{16}", "items": [{ "n": 9, "ans": ["their"], "focus": "...", "why": "..." }, … 8] },
+    { "part": 3, "type": "wf",   "title": "Word formation", "topic": "<story 3 theme>", "task": "...",
+      "text": "gaps {17}…{24}", "items": [{ "n": 17, "stem": "ELUDE", "ans": ["elusive"], "focus": "...", "why": "..." }, … 8] },
+    { "part": 4, "type": "kwt",  "title": "Key word transformation", "topic": "All three stories", "task": "...",
+      "items": [{ "n": 25, "s1": "first sentence", "key": "AS", "pre": "start of 2nd sentence", "post": "end of 2nd sentence",
+                  "ans": ["hiring as many beginners as"], "focus": "...", "why": "..." }, … 6 items, n 25–30] }
+  ]
+}
+```
+
+Rules: genuine C1/CAE level, testing collocations, fixed phrases, phrasal verbs, dependent prepositions, linking
+words, relative pronouns, inversion, prefixes/suffixes and grammar transformations. Part 1 must have exactly one
+defensible option per gap (check that no distractor also fits). Parts 2–3: list every acceptable answer in `ans`
+(lower case; checking ignores case, extra spaces and final punctuation). Part 4 answers are 3–6 words and contain
+the key word. Balance Part 1 answer letters. `why` = 1–2 English sentences explaining the rule. All English.

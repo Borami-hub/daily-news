@@ -71,6 +71,29 @@ const letters = { 0: 0, 1: 0, 2: 0, 3: 0 };
   a.kps.forEach(k => need(k.id && k.fact && k.q && k.opts && k.a != null && k.a < k.opts.length, `${tag}: key point ${k.id} incomplete`));
   (mm.branches || []).forEach(b => (b.kps || []).forEach(id => need(a.kps.some(k => k.id === id), `${tag}: branch ${b.title} links unknown key point ${id}`)));
 });
+// use of english (C1 Advanced)
+if (!day.uoe) warn.push('uoe (Use of English) missing');
+else {
+  const parts = day.uoe.parts || [];
+  need(parts.length === 4, 'uoe: need 4 parts');
+  const want = { mc: [8, 1], open: [8, 9], wf: [8, 17], kwt: [6, 25] }, ul = [0, 0, 0, 0];
+  parts.forEach(p => {
+    const w = want[p.type]; need(w, `uoe part ${p.part}: bad type ${p.type}`); if (!w) return;
+    need(p.title && p.task && p.items && p.items.length === w[0], `uoe part ${p.part}: need title, task and ${w[0]} items`);
+    (p.items || []).forEach((it, i) => {
+      need(it.n === w[1] + i, `uoe part ${p.part}: item numbers should run ${w[1]}…`);
+      need(it.why && it.focus, `uoe item ${it.n}: missing why/focus`);
+      if (p.type === 'mc') { need(it.opts && it.opts.length === 4 && it.a >= 0 && it.a <= 3, `uoe item ${it.n}: need 4 opts and a`); ul[it.a]++; }
+      else need(Array.isArray(it.ans) && it.ans.length, `uoe item ${it.n}: ans must be a non-empty array`);
+      if (p.type === 'wf') need(it.stem, `uoe item ${it.n}: stem missing`);
+      if (p.type === 'kwt') { need(it.s1 && it.key && it.pre != null && it.post != null, `uoe item ${it.n}: need s1, key, pre, post`);
+        (it.ans || []).forEach(a => { const n = a.trim().split(/\s+/).length; need(n >= 3 && n <= 6 && new RegExp('\\b' + it.key + '\\b', 'i').test(a), `uoe item ${it.n}: answer "${a}" must be 3–6 words incl. ${it.key}`); }); }
+      if (p.type !== 'kwt') need((p.text || '').includes(`{${it.n}}`), `uoe item ${it.n}: gap {${it.n}} not in text`);
+    });
+  });
+  if (Math.max(...ul) - Math.min(...ul) > 2) warn.push(`uoe part 1 answer letters unbalanced: A${ul[0]} B${ul[1]} C${ul[2]} D${ul[3]}`);
+  if (/[一-鿿]/.test(JSON.stringify(day.uoe))) warn.push('Chinese characters found in uoe (app is English-only)');
+}
 const lv = Object.values(letters);
 if (Math.max(...lv) - Math.min(...lv) > 3) warn.push(`answer letters unbalanced: A${lv[0]} B${lv[1]} C${lv[2]} D${lv[3]}`);
 if (/[一-鿿]/.test(JSON.stringify(day.articles))) warn.push('Chinese characters found in article content (app is English-only)');

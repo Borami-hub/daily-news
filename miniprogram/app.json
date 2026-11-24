@@ -9,7 +9,8 @@
     "pages/summary/summary",
     "pages/speak/speak",
     "pages/write/write",
-    "pages/result/result"
+    "pages/result/result",
+    "pages/uoe/uoe"
   ],
   "window": {
     "navigationBarBackgroundColor": "#0b7a75",

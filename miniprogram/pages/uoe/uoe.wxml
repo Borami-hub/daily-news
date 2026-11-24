@@ -1,0 +1,39 @@
+<view class="wrap" wx:if="{{ready}}">
+  <view class="utabs">
+    <view wx:for="{{tabs}}" wx:for-item="t" wx:key="i" class="utab {{t.on ? 'on' : ''}}" data-i="{{t.i}}" bindtap="tab"><text>{{t.label}}</text><text class="usub">{{t.sub}}</text></view>
+  </view>
+  <view><view class="eyebrow">Part {{part.part}} · {{part.topic}}</view><view class="h2">{{part.title}}</view><view class="meta">{{part.task}}</view></view>
+  <view wx:if="{{chk}}" class="fb {{good ? 'ok' : 'no'}}">{{score}}</view>
+
+  <view class="panel" wx:if="{{part.type !== 'kwt'}}">
+    <view class="serif utext"><text wx:for="{{segs}}" wx:for-item="g" wx:key="index" class="{{g.gap ? 'ugap ' + g.st : ''}}">{{g.t}}</text></view>
+  </view>
+
+  <view class="panel">
+    <view wx:for="{{items}}" wx:for-item="it" wx:key="n" class="uitem">
+      <block wx:if="{{part.type === 'mc'}}">
+        <text class="h3">{{it.n}}</text>
+        <view class="uopts"><view wx:for="{{it.opts}}" wx:for-item="o" wx:key="i" class="uopt {{o.c}}" data-n="{{it.n}}" data-i="{{o.i}}" bindtap="pick">{{o.t}}</view></view>
+      </block>
+      <block wx:elif="{{part.type === 'kwt'}}">
+        <text class="h3">{{it.n}}. {{it.s1}}</text>
+        <view><text class="ukey">{{it.key}}</text></view>
+        <view class="serif">{{it.pre}} … {{it.post}}</view>
+        <input class="uin {{it.st}}" value="{{it.val}}" data-n="{{it.n}}" disabled="{{chk}}" placeholder="3–6 words, including {{it.key}}" bindinput="onInput" bindblur="onBlur"/>
+      </block>
+      <view wx:else class="urow">
+        <text class="unum">{{it.n}}</text>
+        <input class="uin flex1 {{it.st}}" value="{{it.val}}" data-n="{{it.n}}" disabled="{{chk}}" placeholder="{{part.type === 'open' ? 'one word' : 'form of ' + it.stem}}" bindinput="onInput" bindblur="onBlur"/>
+        <text wx:if="{{it.stem}}" class="ustem">{{it.stem}}</text>
+      </view>
+      <view wx:if="{{chk}}" class="uwhy">
+        <view class="row"><text class="chip {{it.ok ? 'good' : 'bad'}}">{{it.ok ? '✓' : '✗'}} {{it.n}}</text><text class="chip">{{it.focus}}</text></view>
+        <view wx:if="{{!it.ok}}">Your answer: {{it.yours}} → <text class="ufix">{{it.right}}</text></view>
+        <view>{{it.why}}</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="row" wx:if="{{chk}}"><view class="ghost flex1" bindtap="retry">Try again</view><view class="btn flex1" wx:if="{{!last}}" bindtap="next">Next part</view><view class="btn flex1" wx:else bindtap="done">Done</view></view>
+  <view class="btn" wx:else bindtap="check">Check answers</view>
+</view>

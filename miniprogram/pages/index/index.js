@@ -31,9 +31,17 @@ Page({
     const arts = data.allArts(), due = store.dueIds(arts).length, enrolled = Object.keys(P.srs).length, rec = P.days[t], checked = !!(rec && rec.checked);
     const review = { enrolled, due, checked, streak: store.streak(), cal: store.calendar(), dayLabel: `${store.MON[+t.slice(5, 7) - 1]} ${+t.slice(8)}`,
       line: `Due ${due} · Learned ${enrolled}${rec && rec.done ? ` · Today ${rec.correct}/${rec.done}` : ''}`, cap: Math.min(due, store.CAP) };
-    this.setData({ state: 'ok', strip, day: { date: day.date, long: store.longDay(day.date) + (day.date === t ? ' · Today' : ''), headline: day.headline || 'Today in the news', teaser: day.teaser || '' }, cards, review, name: P.name });
+    let uoe = null;
+    if (day.uoe) {
+      const ur = (P.uoe || {})[day.date] || {}, parts = day.uoe.parts, n = parts.filter(p => ur[p.part]).length;
+      const c = parts.reduce((x, p) => x + (ur[p.part] ? ur[p.part].c : 0), 0), tot = parts.reduce((x, p) => x + p.items.length, 0);
+      uoe = { intro: day.uoe.intro || '', line: `${parts.length} parts · ${tot} items`, status: n ? `${n}/${parts.length} parts · ${c} correct` : 'Not started',
+        btn: n ? (n === parts.length ? 'Practise again' : 'Continue') : 'Start', all: n === parts.length };
+    }
+    this.setData({ state: 'ok', strip, day: { date: day.date, long: store.longDay(day.date) + (day.date === t ? ' · Today' : ''), headline: day.headline || 'Today in the news', teaser: day.teaser || '' }, cards, uoe, review, name: P.name });
   },
   pickDay(e) { this.sel = e.currentTarget.dataset.d; this.build(); },
+  openUoe() { wx.navigateTo({ url: '/pages/uoe/uoe?date=' + this.data.day.date }); },
   openArt(e) { wx.navigateTo({ url: '/pages/article/article?id=' + e.currentTarget.dataset.id }); },
   onName(e) { const P = store.load(); P.name = e.detail.value.trim(); store.save(); },
   review(e) { wx.navigateTo({ url: '/pages/quiz/quiz?mode=review' + (e.currentTarget.dataset.extra ? '&extra=1' : '') }); },

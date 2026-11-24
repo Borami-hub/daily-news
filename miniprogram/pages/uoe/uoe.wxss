@@ -1,0 +1,23 @@
+.utabs { display: flex; gap: 12rpx; }
+.utab { flex: 1; border: 2rpx solid var(--line); background: var(--surface); border-radius: 20rpx; padding: 14rpx 6rpx; font-size: 26rpx; font-weight: 700; color: var(--muted); display: flex; flex-direction: column; align-items: center; }
+.utab.on { border-color: var(--accent); color: var(--accent); background: var(--soft); }
+.usub { font-size: 22rpx; font-weight: 600; }
+.utext { font-size: 32rpx; line-height: 1.9; }
+.ugap { color: var(--accent); font-weight: 700; background: var(--soft); border-radius: 8rpx; }
+.ugap.ok { color: var(--good); background: var(--goodbg); } .ugap.no { color: var(--bad); background: var(--badbg); }
+.uitem { display: flex; flex-direction: column; gap: 12rpx; padding: 18rpx 0; border-top: 2rpx solid var(--line); }
+.uitem:first-child { border-top: none; }
+.uopts { display: grid; grid-template-columns: 1fr 1fr; gap: 12rpx; }
+.uopt { border: 2rpx solid var(--line); border-radius: 16rpx; padding: 16rpx; font-size: 28rpx; }
+.uopt.on { border-color: var(--accent); background: var(--soft); font-weight: 700; }
+.uopt.right { border-color: var(--good); background: var(--goodbg); color: var(--good); }
+.uopt.wrong { border-color: var(--bad); background: var(--badbg); color: var(--bad); }
+.urow { display: flex; align-items: center; gap: 16rpx; }
+.unum { font-weight: 700; color: var(--accent); width: 48rpx; }
+.uin { border-bottom: 4rpx solid var(--accent); background: var(--soft); border-radius: 12rpx 12rpx 0 0; padding: 10rpx 14rpx; font-size: 30rpx; min-height: 56rpx; }
+.uin.ok { border-color: var(--good); background: var(--goodbg); color: var(--good); }
+.uin.no { border-color: var(--bad); background: var(--badbg); color: var(--bad); }
+.ustem { font-weight: 800; font-size: 24rpx; letter-spacing: 1rpx; color: var(--amber); }
+.ukey { display: inline-block; font-weight: 800; font-size: 26rpx; letter-spacing: 2rpx; border: 4rpx solid var(--ink); border-radius: 10rpx; padding: 2rpx 16rpx; }
+.uwhy { font-size: 27rpx; line-height: 1.55; background: var(--soft); border-radius: 16rpx; padding: 16rpx 20rpx; display: flex; flex-direction: column; gap: 8rpx; }
+.ufix { font-weight: 700; }

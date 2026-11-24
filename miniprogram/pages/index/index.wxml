@@ -20,6 +20,11 @@
     <view class="sbody"><text class="topic" style="color:{{c.color}}">{{c.topic}}</text><text class="h3">{{c.title}}</text><text class="meta">{{c.status}}</text></view>
     <text class="go" style="color:var(--accent)">›</text>
   </view>
+  <view class="panel" wx:if="{{uoe}}">
+    <view><view class="eyebrow">Bonus · Cambridge C1 Advanced</view><view class="h2">Use of English</view><view class="meta">{{uoe.intro}}</view></view>
+    <view class="spread meta"><text>{{uoe.line}}</text><text>{{uoe.status}}</text></view>
+    <view class="{{uoe.all ? 'ghost' : 'btn'}}" bindtap="openUoe">{{uoe.btn}}</view>
+  </view>
   <view class="panel">
     <view><view class="eyebrow">Daily review · {{review.dayLabel}}</view><view class="h2">{{!review.enrolled ? 'Starts after your first story' : review.checked ? 'Checked in today' : 'Not checked in yet'}}</view></view>
     <view class="meta" wx:if="{{!review.enrolled}}">Finish Questions and Summary, and the story's key points and words join your daily review. Right answers come back after a few days; wrong ones come back tomorrow.</view>
