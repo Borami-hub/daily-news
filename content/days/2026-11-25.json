@@ -1,0 +1,2399 @@
+{
+ "date": "2026-11-25",
+ "headline": "A Guest in Orbit, Two-Way Viruses and the Last 50 Animals",
+ "teaser": "Is a one-week guest astronaut real science or diplomacy? Can evolution run in both directions? And should we spend money saving species down to their last 50 animals?",
+ "articles": [
+  {
+   "id": "n20261125-1",
+   "topic": "Space",
+   "title": "A Guest Aboard Tiangong: Pakistan's First Astronaut Heads to China's Space Station",
+   "dek": "For the first time, a foreign astronaut is flying to China's space station. Is a one-week guest mission real science, clever diplomacy, or the first step toward a new space nation?",
+   "sources": [
+    {
+     "name": "Dawn (with Reuters), 25 Nov 2026",
+     "url": "https://www.dawn.com/news/2046753/chinese-spacecraft-shenzhou-24-lifts-off-with-pakistani-astronaut-zeeshan-ali-on-board"
+    },
+    {
+     "name": "Xinhua, 24 Nov 2026",
+     "url": "https://english.news.cn/20261124/a6b711c2bb4040108d04611f0cca5995/c.html"
+    },
+    {
+     "name": "Associated Press via ABC News, 24 Nov 2026",
+     "url": "https://abcnews.com/amp/Technology/wireStory/china-unveils-new-space-mission-crew-pakistani-astronaut-138397636"
+    }
+   ],
+   "paras": [
+    "At 8:18 on Wednesday morning, Beijing time, a Long March-2F rocket rose from the Jiuquan Satellite Launch Center in the Gobi Desert, carrying the Shenzhou-24 spacecraft and three astronauts. Two of them, commander Tang Hongbo and pilot Wu Yi, are Chinese. The third, Muhammad Zeeshan Ali, is not. The 40-year-old from Pakistan is set to become his country's first astronaut in orbit and the first foreign national ever to board Tiangong, the space station China has operated since late 2022. For a program that has so far flown only its own citizens, the launch marks a symbolic turning point.",
+    "Ali's journey began with a cooperation agreement signed in February 2025 between Pakistan's space agency, SUPARCO, and the China Manned Space Agency (CMSA). Under the deal, Pakistani candidates would train in China, and Ali, a former air force pilot, was chosen as one of two candidates before being selected for this flight. The training turned out to be demanding in unexpected ways. Tang, who is now making his third trip to Tiangong, told reporters that every label and manual on board is written in Chinese, and that Ali had begun studying the language with virtually no foundation. Yet at a press conference before the launch, Ali delivered part of his remarks in Mandarin.",
+    "Ali's stay will be short. He is expected to spend about a week on the station as a payload specialist before returning to Earth aboard the Shenzhou-23 spacecraft. During that time, he will run four joint China-Pakistan projects in biotechnology and materials science, including an experiment on photosynthetic cyanobacteria, tiny organisms that turn sunlight into chemical energy. His Chinese crewmates have a far longer agenda. According to the CMSA, the mission will carry out more than 90 experiments and technology tests, from organ chips that model how blood vessels age to new kinds of rocket propellant. Meanwhile, Zhu Yangzhu, commander of the previous crew, will remain on Tiangong for about a year to study how the human body copes with long periods in space, a record for a Chinese astronaut.",
+    "Supporters see the flight as a sign that space exploration is becoming less exclusive. For decades, the main route into orbit for astronauts from smaller countries was the International Space Station (ISS), run by the United States, Russia and their partners, which is scheduled to be retired around 2030. A second door, they argue, gives developing nations a chance to train scientists, inspire students and take part in research they could never afford alone. Ali himself framed the mission in these terms, insisting that it is \"not a finish line\" and that what comes after the flight matters more than the flight itself. Speaking to Pakistani children, he urged them to look up at the sky and remember that he is \"up there with your dreams.\"",
+    "Not everyone is persuaded that the benefits are as large as the symbolism. Critics of so-called guest missions point out that a single week in orbit produces limited science, and that a visiting astronaut usually performs experiments designed and controlled by the host. In their view, such flights can work as diplomacy as much as research: China gains a showcase for its station and a reliable partner, while the visiting country gains national pride but little lasting capability. A space program, they argue, is built from engineers, factories and long-term budgets, not from a single famous passenger. There is also the question of dependence. A country that reaches orbit only on another nation's rocket remains, in practical terms, a customer.",
+    "Both sides have a point. History suggests that early guest flights can matter more than their scientific output. Many of the first astronauts from Asia, Africa and Latin America flew on Soviet or American spacecraft in the 1970s and 1980s, and some of their countries went on to expand their own space programs and satellite industries. Whether Pakistan follows that path will depend less on this week than on the decisions that come after it, such as whether trained scientists are given jobs, funding and research questions at home.",
+    "The flight also fits into a wider race. China is preparing to land astronauts on the Moon by 2030, while NASA aims to return Americans to the lunar surface in 2028. Both countries are building coalitions of partners, and offering seats, training and shared experiments is one way to attract them. For students watching the launch, then, the real question may not be who rode the rocket, but who will be designing the next one."
+   ],
+   "words": [
+    {
+     "w": "orbit",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈɔːrbɪt/",
+     "syl": [
+      "or",
+      "bit"
+     ],
+     "def": "the curved path that a spacecraft or planet follows around a larger object",
+     "ex": "The new weather satellite will stay in orbit for at least ten years."
+    },
+    {
+     "w": "symbolic",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/sɪmˈbɑːlɪk/",
+     "syl": [
+      "sym",
+      "bol",
+      "ic"
+     ],
+     "def": "important mainly because of what it represents rather than its practical effect",
+     "ex": "Planting the first tree was a symbolic act that marked the start of the city's green plan."
+    },
+    {
+     "w": "payload",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpeɪloʊd/",
+     "syl": [
+      "pay",
+      "load"
+     ],
+     "def": "the equipment, experiments or passengers that a rocket or spacecraft carries to do its main job",
+     "ex": "The rocket's payload included two telescopes and a small robot arm."
+    },
+    {
+     "w": "agenda",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/əˈdʒendə/",
+     "syl": [
+      "a",
+      "gen",
+      "da"
+     ],
+     "def": "a list of things that someone plans to do or discuss",
+     "ex": "Cutting plastic waste is at the top of the new mayor's agenda."
+    },
+    {
+     "w": "exclusive",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɪkˈskluːsɪv/",
+     "syl": [
+      "ex",
+      "clu",
+      "sive"
+     ],
+     "def": "available only to a small or special group of people",
+     "ex": "Higher education was once exclusive, but today millions of students study online."
+    },
+    {
+     "w": "persuade",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/pərˈsweɪd/",
+     "syl": [
+      "per",
+      "suade"
+     ],
+     "def": "to make someone believe or agree with something by giving good reasons",
+     "ex": "The data did not persuade the committee that the new drug was safe."
+    },
+    {
+     "w": "showcase",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈʃoʊkeɪs/",
+     "syl": [
+      "show",
+      "case"
+     ],
+     "def": "an event or place that presents something's best qualities to the public",
+     "ex": "The science fair was a showcase for the students' most creative projects."
+    },
+    {
+     "w": "capability",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌkeɪpəˈbɪləti/",
+     "syl": [
+      "ca",
+      "pa",
+      "bil",
+      "i",
+      "ty"
+     ],
+     "def": "the practical ability, skills or equipment needed to do something",
+     "ex": "Few hospitals have the capability to perform this kind of heart surgery."
+    },
+    {
+     "w": "dependence",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/dɪˈpendəns/",
+     "syl": [
+      "de",
+      "pen",
+      "dence"
+     ],
+     "def": "the state of needing someone or something else in order to succeed or survive",
+     "ex": "The island wants to reduce its dependence on imported fuel."
+    },
+    {
+     "w": "coalition",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌkoʊəˈlɪʃən/",
+     "syl": [
+      "co",
+      "a",
+      "li",
+      "tion"
+     ],
+     "def": "a group of people, organizations or countries that join together for a shared goal",
+     "ex": "A coalition of schools and charities is raising money for the new library."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "For a program that has so far flown only its own citizens, the launch marks a symbolic turning point.",
+     "kind": "Main idea",
+     "note": "The last sentence of paragraph 1 states why the launch matters. TOEFL often places the main idea at the end of an opening paragraph."
+    },
+    {
+     "para": 3,
+     "text": "His Chinese crewmates have a far longer agenda.",
+     "kind": "Topic sentence",
+     "note": "This short sentence signals a contrast: Ali's role is small, while the Chinese crew carries most of the work. Watch for short contrast sentences that change direction."
+    },
+    {
+     "para": 4,
+     "text": "Supporters see the flight as a sign that space exploration is becoming less exclusive.",
+     "kind": "Topic sentence",
+     "note": "It introduces the first viewpoint. Questions about opinions often ask you to match each view to its paragraph."
+    },
+    {
+     "para": 5,
+     "text": "Not everyone is persuaded that the benefits are as large as the symbolism.",
+     "kind": "Critical thinking",
+     "note": "This sentence turns to the opposing view. Words like \"not everyone\" signal a counter-argument."
+    },
+    {
+     "para": 6,
+     "text": "History suggests that early guest flights can matter more than their scientific output.",
+     "kind": "Author's view",
+     "note": "The author weighs both sides and gives a balanced judgment. The hedge \"can\" shows the claim is possible, not certain."
+    },
+    {
+     "para": 7,
+     "text": "For students watching the launch, then, the real question may not be who rode the rocket, but who will be designing the next one.",
+     "kind": "Interpretation",
+     "note": "The conclusion reframes the story: long-term skills matter more than one passenger. \"Then\" marks a conclusion drawn from earlier points."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word \"agenda\" in paragraph 3 is closest in meaning to",
+     "opts": [
+      "a secret plan or motive",
+      "a list of planned tasks",
+      "an official written record",
+      "a scientific theory"
+     ],
+     "a": 1,
+     "evidence": "His Chinese crewmates have a far longer agenda.",
+     "why": "The sentences that follow list the crew's work: \"more than 90 experiments and technology tests.\" So \"agenda\" means the list of things they plan to do.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Agenda\" can mean a hidden motive (\"a political agenda\"), but here it is followed by a list of experiments, not a secret purpose.",
+      "Correct. \"a far longer agenda\" = a longer list of planned tasks, shown by \"more than 90 experiments and technology tests.\"",
+      "Wrong: not the meaning in context. Nothing in paragraph 3 refers to a written record or minutes; the next sentence describes work to be done.",
+      "Wrong: not the meaning in context. The crew will carry out tests, not hold a theory; \"agenda\" refers to tasks."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "His Chinese crewmates have a far longer agenda.",
+       "hl": "a far longer agenda"
+      },
+      {
+       "para": 3,
+       "text": "According to the CMSA, the mission will carry out more than 90 experiments and technology tests, from organ chips that model how blood vessels age to new kinds of rocket propellant.",
+       "hl": "more than 90 experiments and technology tests"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate \"agenda\" in the middle of paragraph 3."
+      },
+      {
+       "t": "Read what follows",
+       "x": "The next sentence lists more than 90 experiments and tests, which explains what the agenda contains."
+      },
+      {
+       "t": "Test each option",
+       "x": "Only \"a list of planned tasks\" fits; \"secret motive\" is a different meaning of the same word."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what made Ali's training difficult in an unexpected way?",
+     "opts": [
+      "He had never flown any kind of aircraft before.",
+      "He had to compete with many experienced Chinese candidates.",
+      "The training center was far from his family.",
+      "He had to work in a language he barely knew at first."
+     ],
+     "a": 3,
+     "evidence": "Ali had begun studying the language with virtually no foundation",
+     "why": "Tang said that every label and manual is in Chinese and that Ali started learning the language \"with virtually no foundation.\"",
+     "optWhy": [
+      "Wrong: contradicts the text. Ali is described as \"a former air force pilot,\" so he had flown aircraft.",
+      "Wrong: not mentioned. The paragraph says he was \"chosen as one of two candidates,\" not that he competed with Chinese candidates.",
+      "Wrong: not mentioned. Distance from family is never discussed.",
+      "Correct. \"every label and manual on board is written in Chinese\" + \"virtually no foundation\" = he had to work in a language he barely knew."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Tang, who is now making his third trip to Tiangong, told reporters that every label and manual on board is written in Chinese, and that Ali had begun studying the language with virtually no foundation.",
+       "hl": "with virtually no foundation"
+      },
+      {
+       "para": 2,
+       "text": "Under the deal, Pakistani candidates would train in China, and Ali, a former air force pilot, was chosen as one of two candidates before being selected for this flight.",
+       "hl": "a former air force pilot"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key words",
+       "x": "Look for \"demanding in unexpected ways\" in paragraph 2."
+      },
+      {
+       "t": "Read the next sentence",
+       "x": "It explains the difficulty: all labels and manuals are in Chinese, and Ali started the language from almost zero."
+      },
+      {
+       "t": "Rule out the rest",
+       "x": "Option A contradicts \"former air force pilot\"; B and C are never mentioned."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are part of the Shenzhou-24 mission EXCEPT",
+     "opts": [
+      "a year-long study of how Ali's body copes in space",
+      "an experiment on photosynthetic cyanobacteria",
+      "tests of organ chips that model aging blood vessels",
+      "joint projects in biotechnology and materials science"
+     ],
+     "a": 0,
+     "evidence": "Zhu Yangzhu, commander of the previous crew, will remain on Tiangong for about a year",
+     "why": "The year-long study involves Zhu Yangzhu, commander of the previous crew, not Ali, who stays only about a week.",
+     "optWhy": [
+      "Correct (this is the EXCEPT answer). The detail is swapped: the year-long stay belongs to \"Zhu Yangzhu, commander of the previous crew,\" while Ali will \"spend about a week on the station.\"",
+      "Wrong: it is mentioned. Ali will run \"an experiment on photosynthetic cyanobacteria.\"",
+      "Wrong: it is mentioned. The tests include \"organ chips that model how blood vessels age.\"",
+      "Wrong: it is mentioned. Ali will run \"four joint China-Pakistan projects in biotechnology and materials science.\""
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "He is expected to spend about a week on the station as a payload specialist before returning to Earth aboard the Shenzhou-23 spacecraft.",
+       "hl": "about a week"
+      },
+      {
+       "para": 3,
+       "text": "Meanwhile, Zhu Yangzhu, commander of the previous crew, will remain on Tiangong for about a year to study how the human body copes with long periods in space, a record for a Chinese astronaut.",
+       "hl": "Zhu Yangzhu, commander of the previous crew"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List what is mentioned",
+       "x": "Scan paragraph 3 for each option: cyanobacteria, organ chips and joint projects all appear."
+      },
+      {
+       "t": "Check the people",
+       "x": "The year-long study is linked to Zhu Yangzhu, not to Ali."
+      },
+      {
+       "t": "Choose the mismatch",
+       "x": "Ali stays about a week, so option A is NOT true and is the answer."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about astronauts from smaller countries?",
+     "opts": [
+      "They have never been allowed to visit the ISS.",
+      "They will be unable to reach orbit after 2030.",
+      "Their routes to orbit could narrow once the ISS retires.",
+      "They generally prefer Chinese training programs to American ones."
+     ],
+     "a": 2,
+     "evidence": "which is scheduled to be retired around 2030",
+     "why": "The ISS has been their \"main route into orbit\" and is \"scheduled to be retired around 2030,\" so without other options their access could shrink. This is why supporters value \"a second door.\"",
+     "optWhy": [
+      "Wrong: contradicts the text. The ISS was \"the main route into orbit for astronauts from smaller countries,\" so they did fly there.",
+      "Wrong: too extreme. The paragraph suggests fewer options, not that reaching orbit becomes impossible; Tiangong is offered as \"a second door.\"",
+      "Correct. \"main route\" + \"scheduled to be retired around 2030\" = their routes to orbit could narrow; that is why \"a second door\" matters.",
+      "Wrong: not mentioned. The paragraph never compares Chinese and American training or what astronauts prefer."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "For decades, the main route into orbit for astronauts from smaller countries was the International Space Station (ISS), run by the United States, Russia and their partners, which is scheduled to be retired around 2030.",
+       "hl": "scheduled to be retired around 2030"
+      },
+      {
+       "para": 4,
+       "text": "A second door, they argue, gives developing nations a chance to train scientists, inspire students and take part in research they could never afford alone.",
+       "hl": "A second door"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the group",
+       "x": "Paragraph 4 mentions \"astronauts from smaller countries\" in its second sentence."
+      },
+      {
+       "t": "Connect two facts",
+       "x": "The ISS was their main route, and it will retire around 2030."
+      },
+      {
+       "t": "Avoid extremes",
+       "x": "The safe inference is that options may shrink, not that they disappear completely."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention early astronauts who flew on Soviet or American spacecraft in paragraph 6?",
+     "opts": [
+      "To argue that the Soviet program was more generous than China's",
+      "To show that guest flights have always produced very valuable science",
+      "To criticize countries that never built their own space agencies",
+      "To suggest that guest flights can have effects that last for years"
+     ],
+     "a": 3,
+     "evidence": "some of their countries went on to expand their own space programs and satellite industries",
+     "why": "The example supports the claim that \"early guest flights can matter more than their scientific output\": some guest countries later expanded their own space programs.",
+     "optWhy": [
+      "Wrong: not mentioned. The author never compares how generous the Soviet and Chinese programs were.",
+      "Wrong: contradicts the point. The paragraph says guest flights can matter more than \"their scientific output,\" so the example is not about science.",
+      "Wrong: wrong purpose. The example praises what some countries achieved later; it does not criticize anyone.",
+      "Correct. \"went on to expand their own space programs\" = long-lasting effects beyond the flight itself."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "History suggests that early guest flights can matter more than their scientific output.",
+       "hl": "can matter more than their scientific output"
+      },
+      {
+       "para": 6,
+       "text": "Many of the first astronauts from Asia, Africa and Latin America flew on Soviet or American spacecraft in the 1970s and 1980s, and some of their countries went on to expand their own space programs and satellite industries.",
+       "hl": "went on to expand their own space programs"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the claim",
+       "x": "The sentence before the example says guest flights can matter more than their science."
+      },
+      {
+       "t": "See how the example helps",
+       "x": "Some guest countries later expanded their own space programs: a long-term effect."
+      },
+      {
+       "t": "Match the purpose",
+       "x": "The example supports a claim about lasting effects, so choose D."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "In their view, such flights can work as diplomacy as much as research: China gains a showcase for its station and a reliable partner, while the visiting country gains national pride but little lasting capability.",
+     "opts": [
+      "Critics think such flights serve politics as well as science, and the host gains more practical benefit than the guest.",
+      "Critics think diplomacy matters more than research, so China should invite as many countries as possible.",
+      "Critics think the guest country gains lasting skills, while China gains little more than national pride.",
+      "Critics think such flights are purely scientific and do nothing at all for the host country's public image or reputation."
+     ],
+     "a": 0,
+     "evidence": "In their view, such flights can work as diplomacy as much as research",
+     "why": "The sentence has two parts: the flights are partly diplomacy, and the benefits are uneven (China: showcase and partner; guest: pride but little capability).",
+     "optWhy": [
+      "Correct. \"diplomacy as much as research\" = politics as well as science; \"showcase\" and \"partner\" versus \"little lasting capability\" = the host gains more practical benefit.",
+      "Wrong: adds a new idea. The critics do not say diplomacy matters more, and they never recommend inviting more countries.",
+      "Wrong: reverses the benefits. The text says the guest gains \"national pride but little lasting capability,\" while China gains a showcase.",
+      "Wrong: contradicts the sentence. It says the flights \"work as diplomacy,\" and China gains \"a showcase,\" so they are not purely scientific."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "In their view, such flights can work as diplomacy as much as research: China gains a showcase for its station and a reliable partner, while the visiting country gains national pride but little lasting capability.",
+       "hl": "diplomacy as much as research"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: flights are diplomacy as much as research. Part 2: China gains a showcase; the guest gains pride but little capability."
+      },
+      {
+       "t": "Check both parts",
+       "x": "The right answer must keep both the dual purpose and the uneven benefits."
+      },
+      {
+       "t": "Rule out changes",
+       "x": "B adds advice, C swaps who benefits, D says the opposite."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261125-1-k1",
+     "tag": "Launch",
+     "fact": "Shenzhou-24 launched from Jiuquan at 8:18 a.m. Beijing time on 25 November 2026.",
+     "q": "Where did Shenzhou-24 launch from?",
+     "opts": [
+      "Wenchang",
+      "Jiuquan",
+      "Xichang"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261125-1-k2",
+     "tag": "First",
+     "fact": "Muhammad Zeeshan Ali is the first foreign national to board China's Tiangong space station.",
+     "q": "What is new about Ali's flight?",
+     "opts": [
+      "He is the first foreigner to board Tiangong",
+      "He is the youngest astronaut ever",
+      "He will command the station"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261125-1-k3",
+     "tag": "Mission",
+     "fact": "Ali will stay about a week and run four China-Pakistan projects, while the mission plans more than 90 experiments.",
+     "q": "How long will Ali stay on Tiangong?",
+     "opts": [
+      "About a week",
+      "About six months",
+      "About a year"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261125-1-k4",
+     "tag": "Record",
+     "fact": "Zhu Yangzhu will stay on Tiangong for about a year, a record for a Chinese astronaut.",
+     "q": "Who will stay on Tiangong for about a year?",
+     "opts": [
+      "Tang Hongbo",
+      "Zeeshan Ali",
+      "Zhu Yangzhu"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261125-1-k5",
+     "tag": "Debate",
+     "fact": "Critics say guest missions can be diplomacy as much as research, giving the guest pride but little lasting capability.",
+     "q": "What do critics say the visiting country mainly gains?",
+     "opts": [
+      "New rockets",
+      "National pride",
+      "A space station"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Guest astronaut on Tiangong",
+    "question": "Is a one-week guest mission science, diplomacy, or a first step?",
+    "branches": [
+     {
+      "title": "The launch",
+      "paras": "1–2",
+      "blanks": [
+       "first foreigner on Tiangong",
+       "learned Chinese from scratch"
+      ],
+      "kps": [
+       "n20261125-1-k1",
+       "n20261125-1-k2"
+      ]
+     },
+     {
+      "title": "The mission",
+      "paras": "3",
+      "blanks": [
+       "about a week aboard",
+       "more than 90 experiments"
+      ],
+      "kps": [
+       "n20261125-1-k3",
+       "n20261125-1-k4"
+      ]
+     },
+     {
+      "title": "Two views",
+      "paras": "4–5",
+      "blanks": [
+       "a second door to space",
+       "diplomacy as much as research"
+      ],
+      "kps": [
+       "n20261125-1-k5"
+      ]
+     },
+     {
+      "title": "What matters next",
+      "paras": "6–7",
+      "blanks": [
+       "jobs and funding at home"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "Pakistan builds its own rocket",
+     "Ali commands the station for a year"
+    ]
+   },
+   "summary": {
+    "intro": "For the first time, a foreign astronaut, Pakistan's Muhammad Zeeshan Ali, has flown to China's Tiangong space station.",
+    "model": "Shenzhou-24 carried Pakistan's first astronaut to Tiangong, making him its first foreign visitor. Supporters see a new door to space, while critics call it diplomacy; however, its real value will depend on whether Pakistan builds skills afterward.",
+    "options": [
+     {
+      "t": "Ali's flight makes him the first foreign national to board Tiangong, a symbolic change for China's program.",
+      "ok": true,
+      "type": "main",
+      "para": 1,
+      "evidence": "the first foreign national ever to board Tiangong"
+     },
+     {
+      "t": "Supporters say a second route to orbit helps developing nations, but critics see guest missions as diplomacy with limited science.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "such flights can work as diplomacy as much as research"
+     },
+     {
+      "t": "The long-term value of the flight depends on what Pakistan does afterward with its trained scientists.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Whether Pakistan follows that path will depend less on this week than on the decisions that come after it"
+     },
+     {
+      "t": "Commander Tang Hongbo is making his third trip to Tiangong.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "who is now making his third trip to Tiangong"
+     },
+     {
+      "t": "Ali will stay on Tiangong for about a year to study the human body.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "He is expected to spend about a week on the station"
+     },
+     {
+      "t": "Pakistan plans to launch its own crewed spacecraft within five years.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think that sending one astronaut to another country's space station is a valuable first step for a developing country. Others think the money should be spent on building local science and engineering skills instead. Which view do you agree with, and why?",
+    "hint": "Choose one side; give two reasons (inspiration, training, cost, independence); add an example; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Lin: This week, Pakistan's first astronaut flew to China's space station for about a week. Some people say short \"guest missions\" like this are mostly symbolic. Others say they can launch a country's space program. In your opinion, are guest missions a good use of a developing country's resources? Why or why not?\nSara: \"Yes. One astronaut can inspire millions of students to study science and engineering. That kind of motivation is hard to buy any other way, and it can shape a whole generation.\"\nKevin: \"I'm not convinced. A week in orbit produces little science, and the country still depends on another nation's rocket. The money would do more good if it were spent on local labs and universities.\"",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Sara or Kevin and add a new reason.",
+     "Support it with a fact from the article (one week, four joint projects, the ISS retiring).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261125-2",
+   "topic": "Science",
+   "title": "Tiny Viruses, Big Questions: Evolution on a Two-Way Street",
+   "dek": "Newly found viruses carry features of both viruses and cell compartments. Did evolution run in both directions, and how far can computer-based discoveries be trusted?",
+   "sources": [
+    {
+     "name": "ScienceDaily (University of Miami), 23 Nov 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+    },
+    {
+     "name": "University of Miami News",
+     "url": "https://news.miami.edu/as/stories/2026/10/newly-discovered-viruses-reveal-an-evolutionary-missing-link.html"
+    }
+   ],
+   "paras": [
+    "Most people think of viruses as invaders: tiny packages of genetic material that hijack living cells to make copies of themselves. But viruses are also among the oldest and most abundant biological entities on Earth, and their history is tangled up with the history of life itself. A study published in Nature Communications by researchers at the University of Miami now suggests that this tangle is even more complicated than scientists had assumed. Some of the protein structures that viruses use, it appears, may have passed back and forth between viruses and cells more than once.",
+    "To understand the finding, it helps to know how a virus protects its genes. Many viruses wrap their DNA in a protein shell called a capsid. A large group of them, including many viruses that infect bacteria, build this shell from proteins that fold into the same three-dimensional shape, known as the HK97 fold. Copies of these proteins lock together like tiles to form a hollow, closed container. Before the shell is filled with DNA and becomes mature, it exists in an earlier form called a procapsid.",
+    "Strikingly, the same fold also appears inside ordinary cells. Many bacteria and archaea produce encapsulins, hollow protein compartments that enclose chemical reactions, keeping certain enzymes and their products separate from the rest of the cell. Because encapsulins and viral capsids share such a similar structure, scientists had generally believed that encapsulins evolved from viruses: at some point, a cell borrowed a viral shell and put it to new use. In this view, the flow of evolution ran in one direction only, from virus to cell.",
+    "The Miami team, led by doctoral student Abelardo Aguilar and biologist Antoni Luque, did not look for new viruses in the laboratory. Instead, they searched databases containing billions of DNA sequences collected from soil, seawater, wastewater and the human gut, much of it stored in a public database called IMG/M. Using bioinformatics, models of protein physics, protein language models and the structure-prediction program AlphaFold, they identified previously unknown small viruses. \"The majority of viruses cannot be grown in the lab,\" Luque explained, a limitation that makes computer-based searches increasingly valuable.",
+    "What the team found were viruses with unusually small and simple genomes that carry features of both viral capsids and encapsulins. Rather than fitting neatly on one side of the line, they seem to sit in between. The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly. They also propose that procapsids could have served as a bridge, supporting both genetic functions, such as holding DNA, and metabolic ones, such as hosting chemical reactions. \"One implication of this research is the possibility that viral capsids could also facilitate biochemical reactions,\" Aguilar said.",
+    "Not every scientist will accept this conclusion without more evidence. The viruses were identified from genetic sequences and computer models rather than isolated and observed directly, so their actual structures and behavior remain predictions. Even the university's own summary describes them as possible evolutionary intermediates and notes that further research is needed to establish the proposed functions. Skeptics could also point out that similar shapes do not always prove a simple story of shared ancestry: when two structures look alike, it can be difficult to tell which came first, or whether both descend from an older ancestor that has since disappeared.",
+    "Even so, the study shows how quickly biology is changing. Tools originally designed to predict protein shapes are now being used to explore parts of nature that no one can grow in a dish, and Luque has said the same approach can be applied in other contexts. If the bidirectional model holds up, it would blur the familiar boundary between viruses and the cells they infect, and it might encourage engineers to think of viral shells as tiny reaction chambers rather than mere packaging. For now, the safest conclusion is a modest one: evolution does not always travel in one direction, and some of its most important routes may run both ways."
+   ],
+   "words": [
+    {
+     "w": "hijack",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈhaɪdʒæk/",
+     "syl": [
+      "hi",
+      "jack"
+     ],
+     "def": "to take control of something and use it for your own purposes",
+     "ex": "Online scammers sometimes hijack social media accounts to send fake messages."
+    },
+    {
+     "w": "abundant",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/əˈbʌndənt/",
+     "syl": [
+      "a",
+      "bun",
+      "dant"
+     ],
+     "def": "existing in very large numbers or amounts",
+     "ex": "Fresh water is abundant in this region, so farmers rarely worry about drought."
+    },
+    {
+     "w": "capsid",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkæpsɪd/",
+     "syl": [
+      "cap",
+      "sid"
+     ],
+     "def": "the protein shell that surrounds and protects a virus's genetic material",
+     "ex": "Under the microscope, each capsid looked like a tiny football made of protein."
+    },
+    {
+     "w": "enclose",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪnˈkloʊz/",
+     "syl": [
+      "en",
+      "close"
+     ],
+     "def": "to surround something completely so that it is kept inside",
+     "ex": "A high wall was built to enclose the old garden."
+    },
+    {
+     "w": "compartment",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/kəmˈpɑːrtmənt/",
+     "syl": [
+      "com",
+      "part",
+      "ment"
+     ],
+     "def": "a separate section inside a larger space, used to keep things apart",
+     "ex": "The backpack has a padded compartment for a laptop."
+    },
+    {
+     "w": "bidirectional",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˌbaɪdəˈrekʃənəl/",
+     "syl": [
+      "bi",
+      "di",
+      "rec",
+      "tion",
+      "al"
+     ],
+     "def": "moving or working in two opposite directions",
+     "ex": "The new bridge allows bidirectional traffic, so cars can cross both ways at once."
+    },
+    {
+     "w": "intermediate",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɪntərˈmiːdiət/",
+     "syl": [
+      "in",
+      "ter",
+      "me",
+      "di",
+      "ate"
+     ],
+     "def": "something that comes between two stages or types and shares features of both",
+     "ex": "Scientists think this fossil is an intermediate between fish and land animals."
+    },
+    {
+     "w": "facilitate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/fəˈsɪlɪteɪt/",
+     "syl": [
+      "fa",
+      "cil",
+      "i",
+      "tate"
+     ],
+     "def": "to make an action or process easier or more likely to happen",
+     "ex": "Clear signs facilitate the movement of visitors through the museum."
+    },
+    {
+     "w": "ancestry",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈænsestri/",
+     "syl": [
+      "an",
+      "ces",
+      "try"
+     ],
+     "def": "the earlier living things from which a person, animal or group is descended",
+     "ex": "DNA tests show that horses and zebras share a common ancestry."
+    },
+    {
+     "w": "implication",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɪmplɪˈkeɪʃən/",
+     "syl": [
+      "im",
+      "pli",
+      "ca",
+      "tion"
+     ],
+     "def": "a possible effect or result of an idea, action or discovery",
+     "ex": "The study has serious implications for how schools teach reading, and one implication is that lessons should start earlier."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Some of the protein structures that viruses use, it appears, may have passed back and forth between viruses and cells more than once.",
+     "kind": "Main idea",
+     "note": "This states the study's central claim. Notice the hedges \"it appears\" and \"may have\": the claim is cautious."
+    },
+    {
+     "para": 3,
+     "text": "In this view, the flow of evolution ran in one direction only, from virus to cell.",
+     "kind": "Key details",
+     "note": "It summarizes the old view that the new study challenges. TOEFL often tests whether you can tell the old view from the new one."
+    },
+    {
+     "para": 4,
+     "text": "The Miami team, led by doctoral student Abelardo Aguilar and biologist Antoni Luque, did not look for new viruses in the laboratory.",
+     "kind": "Topic sentence",
+     "note": "It introduces the unusual method: searching data instead of growing viruses. Method sentences are common sources of factual questions."
+    },
+    {
+     "para": 5,
+     "text": "The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly.",
+     "kind": "Cause → effect",
+     "note": "This explains what the pattern means. The colon introduces the explanation in detail."
+    },
+    {
+     "para": 6,
+     "text": "Not every scientist will accept this conclusion without more evidence.",
+     "kind": "Critical thinking",
+     "note": "This topic sentence introduces the limits of the study, a typical \"counter-argument\" paragraph."
+    },
+    {
+     "para": 7,
+     "text": "For now, the safest conclusion is a modest one: evolution does not always travel in one direction, and some of its most important routes may run both ways.",
+     "kind": "Author's view",
+     "note": "The author gives a balanced final judgment. \"Safest\" and \"modest\" show careful, hedged reasoning."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"hijack\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "seize an airplane by force",
+      "destroy completely",
+      "take control of and use",
+      "enter without being seen"
+     ],
+     "a": 2,
+     "evidence": "tiny packages of genetic material that hijack living cells to make copies of themselves",
+     "why": "Viruses \"hijack living cells to make copies of themselves\": they take control of the cell's machinery and use it for their own purpose.",
+     "optWhy": [
+      "Wrong: another meaning of the word. \"Hijack\" often means to take over a plane, but here the object is \"living cells.\"",
+      "Wrong: not the meaning. The cells are used \"to make copies,\" so they must keep working rather than be destroyed at once.",
+      "Correct. \"hijack living cells to make copies of themselves\" = take control of the cells and use them.",
+      "Wrong: too narrow. Entering secretly is not the point; the sentence focuses on using the cell to make copies."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Most people think of viruses as invaders: tiny packages of genetic material that hijack living cells to make copies of themselves.",
+       "hl": "hijack living cells to make copies of themselves"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "\"Hijack\" is in the first sentence of paragraph 1."
+      },
+      {
+       "t": "Use the purpose",
+       "x": "Viruses hijack cells \"to make copies of themselves,\" so they control the cell and use it."
+      },
+      {
+       "t": "Avoid the common meaning",
+       "x": "The airplane meaning does not fit a sentence about living cells."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what is a procapsid?",
+     "opts": [
+      "An early shell that has not yet been filled with DNA",
+      "A special protein that allows viruses to infect bacterial cells",
+      "A mature shell that has already released its DNA",
+      "A group of tiles that holds a cell together"
+     ],
+     "a": 0,
+     "evidence": "Before the shell is filled with DNA and becomes mature, it exists in an earlier form called a procapsid.",
+     "why": "The paragraph defines a procapsid as the earlier form of the shell, before it is filled with DNA and becomes mature.",
+     "optWhy": [
+      "Correct. \"Before the shell is filled with DNA ... an earlier form\" = an early shell not yet filled with DNA.",
+      "Wrong: detail swapped. The paragraph mentions \"viruses that infect bacteria,\" but a procapsid is a stage of the shell, not an infection protein.",
+      "Wrong: reverses the order. A procapsid comes \"before\" the shell is filled and becomes mature.",
+      "Wrong: misreads a comparison. Proteins \"lock together like tiles\" to form the virus's container, not to hold a cell together."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Before the shell is filled with DNA and becomes mature, it exists in an earlier form called a procapsid.",
+       "hl": "an earlier form called a procapsid"
+      },
+      {
+       "para": 2,
+       "text": "Copies of these proteins lock together like tiles to form a hollow, closed container.",
+       "hl": "lock together like tiles"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the term",
+       "x": "\"Procapsid\" appears in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Read the definition",
+       "x": "It is the earlier form of the shell, before DNA is added and before it matures."
+      },
+      {
+       "t": "Check the time order",
+       "x": "Option C reverses \"before\"; B and D borrow other words from the paragraph."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, the researchers used all of the following EXCEPT",
+     "opts": [
+      "protein language models",
+      "laboratory cultures of living viruses",
+      "a program that predicts protein structures",
+      "DNA sequences collected from soil and seawater"
+     ],
+     "a": 1,
+     "evidence": "did not look for new viruses in the laboratory",
+     "why": "The team \"did not look for new viruses in the laboratory\"; instead, they searched DNA databases with computer tools.",
+     "optWhy": [
+      "Wrong: it is mentioned. The team used \"protein language models.\"",
+      "Correct (this is the EXCEPT answer). The team \"did not look for new viruses in the laboratory,\" and Luque says most viruses \"cannot be grown in the lab.\"",
+      "Wrong: it is mentioned. They used \"the structure-prediction program AlphaFold.\"",
+      "Wrong: it is mentioned. The databases hold \"DNA sequences collected from soil, seawater, wastewater and the human gut.\""
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The Miami team, led by doctoral student Abelardo Aguilar and biologist Antoni Luque, did not look for new viruses in the laboratory.",
+       "hl": "did not look for new viruses in the laboratory"
+      },
+      {
+       "para": 4,
+       "text": "Using bioinformatics, models of protein physics, protein language models and the structure-prediction program AlphaFold, they identified previously unknown small viruses.",
+       "hl": "protein language models and the structure-prediction program AlphaFold"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the methods",
+       "x": "Paragraph 4 names databases, bioinformatics, protein models, language models and AlphaFold."
+      },
+      {
+       "t": "Find the negative",
+       "x": "The first sentence says the team did NOT work in the laboratory."
+      },
+      {
+       "t": "Choose the missing one",
+       "x": "Laboratory cultures are the only option not used."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the earlier belief that encapsulins evolved from viruses?",
+     "opts": [
+      "It assumed that encapsulins appeared before any viruses existed.",
+      "It held that cells could never borrow structures from viruses.",
+      "It doubted that encapsulins and capsids look alike.",
+      "It rested largely on the similar structure of the two shells."
+     ],
+     "a": 3,
+     "evidence": "Because encapsulins and viral capsids share such a similar structure",
+     "why": "The word \"Because\" shows the reason for the old belief: the two shells share a similar structure.",
+     "optWhy": [
+      "Wrong: reverses the order. The old view was that encapsulins came \"from viruses,\" so viruses came first.",
+      "Wrong: contradicts the text. The old view says \"a cell borrowed a viral shell,\" so borrowing was central to it.",
+      "Wrong: contradicts the text. The paragraph says they \"share such a similar structure.\"",
+      "Correct. \"Because ... share such a similar structure, scientists had generally believed\" = the belief was based mainly on structural similarity."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Because encapsulins and viral capsids share such a similar structure, scientists had generally believed that encapsulins evolved from viruses: at some point, a cell borrowed a viral shell and put it to new use.",
+       "hl": "Because encapsulins and viral capsids share such a similar structure"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the old belief",
+       "x": "Paragraph 3 says scientists \"had generally believed that encapsulins evolved from viruses.\""
+      },
+      {
+       "t": "Look for the reason",
+       "x": "The sentence starts with \"Because\": the shared structure is the basis."
+      },
+      {
+       "t": "Rule out reversals",
+       "x": "A reverses the order; B and C contradict \"borrowed\" and \"similar structure.\""
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author mention that the viruses were identified from genetic sequences and computer models in paragraph 6?",
+     "opts": [
+      "To praise how quickly computers can analyze DNA",
+      "To explain why the findings still need confirmation",
+      "To show that laboratory work is no longer needed",
+      "To suggest that the researchers made calculation errors"
+     ],
+     "a": 1,
+     "evidence": "so their actual structures and behavior remain predictions",
+     "why": "Because the viruses were not isolated and observed directly, their structures \"remain predictions\"; this supports the paragraph's point that more evidence is needed.",
+     "optWhy": [
+      "Wrong: wrong purpose. Speed is never mentioned; paragraph 6 is about the study's limits.",
+      "Correct. \"rather than isolated and observed directly, so ... remain predictions\" = the findings still need confirmation.",
+      "Wrong: contradicts the point. The paragraph implies lab work is still needed, since \"further research is needed.\"",
+      "Wrong: too extreme. The author says the results are unconfirmed predictions, not that the team made errors."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The viruses were identified from genetic sequences and computer models rather than isolated and observed directly, so their actual structures and behavior remain predictions.",
+       "hl": "remain predictions"
+      },
+      {
+       "para": 6,
+       "text": "Not every scientist will accept this conclusion without more evidence.",
+       "hl": "without more evidence"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the topic sentence",
+       "x": "Paragraph 6 opens by saying more evidence is needed."
+      },
+      {
+       "t": "See the link",
+       "x": "Because the viruses came from computer data, their structures are still predictions."
+      },
+      {
+       "t": "Match the purpose",
+       "x": "The detail explains why the results need confirmation."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly.",
+     "opts": [
+      "The researchers claim that viruses evolved from encapsulins just once, not the other way around.",
+      "The researchers argue that viruses and encapsulins evolved separately and are unrelated.",
+      "The researchers think evolution may have gone both ways between the two, perhaps many times.",
+      "The researchers prove that encapsulins repeatedly produced viruses, which later produced cells."
+     ],
+     "a": 2,
+     "evidence": "this pattern is best explained by bidirectional evolution",
+     "why": "The sentence says evolution went both ways (viruses → encapsulins and encapsulin-like compartments → viruses) and that this may have happened repeatedly.",
+     "optWhy": [
+      "Wrong: leaves out half and changes \"repeatedly\" to \"just once.\" The sentence describes two directions, not one.",
+      "Wrong: contradicts the sentence. Each one \"gave rise to\" the other, so they are related.",
+      "Correct. \"bidirectional evolution\" = both ways; \"may have happened repeatedly\" = perhaps many times.",
+      "Wrong: too strong and adds an idea. The researchers \"argue\" (not prove), and the sentence never says viruses produced cells."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly.",
+       "hl": "bidirectional evolution"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the core",
+       "x": "The key term is \"bidirectional evolution\": change in both directions."
+      },
+      {
+       "t": "Keep the details",
+       "x": "Both directions plus \"may have happened repeatedly\" must be kept."
+      },
+      {
+       "t": "Watch the strength",
+       "x": "\"Argue\" and \"may\" are cautious, so reject answers that say \"prove\" or \"just once.\""
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261125-2-k1",
+     "tag": "Study",
+     "fact": "The study, by the University of Miami, was published in Nature Communications.",
+     "q": "Which university led the study?",
+     "opts": [
+      "University of Miami",
+      "Monash University",
+      "Harvard University"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261125-2-k2",
+     "tag": "Shape",
+     "fact": "Viral capsids and cell encapsulins share the same protein shape, called the HK97 fold.",
+     "q": "What do capsids and encapsulins share?",
+     "opts": [
+      "The same DNA",
+      "The HK97 protein fold",
+      "The same host cells"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261125-2-k3",
+     "tag": "Method",
+     "fact": "The team found the viruses by searching DNA databases with AI tools such as AlphaFold, not by growing them in the lab.",
+     "q": "How were the new viruses found?",
+     "opts": [
+      "By growing them in the lab",
+      "By searching DNA databases with computer tools",
+      "By studying fossils"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261125-2-k4",
+     "tag": "Finding",
+     "fact": "The small viruses suggest evolution between viruses and encapsulins may have run in both directions.",
+     "q": "What does \"bidirectional evolution\" mean here?",
+     "opts": [
+      "Evolution in both directions",
+      "Evolution that stopped",
+      "Evolution only from virus to cell"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261125-2-k5",
+     "tag": "Limit",
+     "fact": "Because the viruses were not observed directly, their structures and functions remain predictions.",
+     "q": "Why is more research needed?",
+     "opts": [
+      "The viruses are dangerous",
+      "The results are computer predictions",
+      "The database was deleted"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Two-way evolution",
+    "question": "Did viruses and cell compartments evolve from each other?",
+    "branches": [
+     {
+      "title": "Background",
+      "paras": "1–2",
+      "blanks": [
+       "capsids protect viral DNA",
+       "the HK97 fold"
+      ],
+      "kps": [
+       "n20261125-2-k1",
+       "n20261125-2-k2"
+      ]
+     },
+     {
+      "title": "Old view",
+      "paras": "3",
+      "blanks": [
+       "cells borrowed viral shells"
+      ],
+      "kps": []
+     },
+     {
+      "title": "New study",
+      "paras": "4–5",
+      "blanks": [
+       "DNA databases and AlphaFold",
+       "features of both"
+      ],
+      "kps": [
+       "n20261125-2-k3",
+       "n20261125-2-k4"
+      ]
+     },
+     {
+      "title": "Limits",
+      "paras": "6–7",
+      "blanks": [
+       "structures remain predictions"
+      ],
+      "kps": [
+       "n20261125-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "viruses grown in the laboratory",
+     "evolution only from virus to cell"
+    ]
+   },
+   "summary": {
+    "intro": "A University of Miami study suggests that evolution between viruses and cell compartments may have run in both directions.",
+    "model": "Viral capsids and cellular encapsulins share a protein shape, and scientists thought encapsulins came from viruses. However, newly found small viruses suggest evolution ran both ways, while the results remain predictions because they come from computer analysis.",
+    "options": [
+     {
+      "t": "Viral capsids and cellular encapsulins share a similar shape, which led scientists to believe encapsulins evolved from viruses.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "scientists had generally believed that encapsulins evolved from viruses"
+     },
+     {
+      "t": "By searching DNA databases with computer tools, researchers found small viruses with features of both, suggesting two-way evolution.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "this pattern is best explained by bidirectional evolution"
+     },
+     {
+      "t": "Because the viruses were not observed directly, the conclusion still needs more evidence.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Not every scientist will accept this conclusion without more evidence."
+     },
+     {
+      "t": "Much of the DNA data is stored in a public database called IMG/M.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "much of it stored in a public database called IMG/M"
+     },
+     {
+      "t": "The researchers grew the new viruses in the lab to confirm their structure.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "did not look for new viruses in the laboratory"
+     },
+     {
+      "t": "The study found that the new viruses cause disease in humans.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "AI tools now help scientists discover things they cannot see or grow in a lab. Some people think discoveries made mainly by computers should be trusted as much as laboratory results. Others think they should always be checked by experiments first. Which view do you agree with, and why?",
+    "hint": "Pick a side; give two reasons (speed, cost, accuracy, risk of error); use the virus study as an example; end with a clear conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: Scientists recently used AI tools to find unknown viruses in huge DNA databases, without growing them in a lab. Some say this kind of computer-based discovery is the future of biology. Others say a discovery is not real until it is confirmed by experiments. Which view is closer to yours, and why?\nAmy: \"Computer searches are the future. Most viruses can't be grown in a lab, so without these tools we would miss most of nature. Waiting for experiments would slow science down.\"\nLeo: \"I disagree. Computer models can be wrong, and similar shapes don't always prove a relationship. Until someone sees the viruses directly, we should treat the results as a hypothesis.\"",
+    "steps": [
+     "State which view is closer to yours.",
+     "Respond to Amy or Leo with a new reason.",
+     "Use a detail from the article (most viruses cannot be grown in the lab; results remain predictions).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261125-3",
+   "topic": "Animals",
+   "title": "Down to the Last 50: Can Species Come Back from the Brink?",
+   "dek": "A study of 141 nearly lost species finds that recovery is possible but rarely happens without help. Should limited money go to the rarest animals or to those most likely to survive?",
+   "sources": [
+    {
+     "name": "Mongabay, 25 Nov 2026",
+     "url": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/"
+    },
+    {
+     "name": "Proceedings of the Royal Society B (DOI 10.1098/rspb.2026.2436)",
+     "url": "https://doi.org/10.1098/rspb.2026.2436"
+    }
+   ],
+   "paras": [
+    "When a species falls to its last few dozen animals, conservationists face an uncomfortable question: is it still worth saving, or has the battle already been lost? A new study published in Proceedings of the Royal Society B offers one of the clearest answers yet. Researchers led by Donal Smith of Monash University in Australia examined 141 bird and mammal species whose wild populations had dropped below 50 individuals at some point since 1950. Their conclusion is both hopeful and sobering: species on the brink can recover, but they rarely do so on their own.",
+    "The contrast in the data is stark. Of the 51 species that received direct conservation help, such as captive breeding, the removal of predators or the movement of animals to safer sites, 31 (61%) climbed back to at least 100 individuals, while six went extinct. Of the 90 species that received no direct intervention, only two (2%) reached 100 animals, and 33 (37%) disappeared entirely. Recovery also took patience. Among the species that were helped and recovered, the median time needed to reach 100 animals was 18 years, longer than many political careers and most funding cycles.",
+    "The study also suggests that some kinds of help work better than others. Recovery was most common when conservationists tackled the original cause of decline, such as introduced predators or habitat loss, while also using hands-on methods like captive breeding or translocation, which means moving animals to a new, safer location. By contrast, legal protection and other indirect measures on their own showed no clear link with recovery. In other words, a law that forbids hunting a bird may be necessary, but it is unlikely to be sufficient if rats are still eating its eggs.",
+    "The Lord Howe woodhen, a flightless bird found only on a small island off eastern Australia, illustrates the point. By the late 1970s, just 23 birds remained. Conservationists removed feral pigs and cats and bred birds in captivity, and the population stabilized at around 200 for decades. That was enough to avoid extinction, but not enough to make the species secure. The real breakthrough came only after rats were eradicated from the island in 2019; by 2024, the population had risen to 1,638.",
+    "Such successes were not always expected. In 1974, the Mauritius kestrel, a small bird of prey from the Indian Ocean, was reduced to just four wild birds, and in 1979 the environmental scientist Norman Myers suggested that conservation money might be better spent on species with better prospects. This idea, often called conservation triage, borrows its logic from emergency medicine: when resources are limited, help those most likely to survive. The kestrel's story complicates that logic. After captive breeding, predator control and releases, its numbers climbed into the hundreds, although they have since declined again.",
+    "The authors are careful not to overstate their findings. Because the study compares outcomes rather than running a controlled experiment, it cannot prove that intervention caused recovery. Species whose problems were easier to solve may simply have been more likely to receive help in the first place. Reaching 100 animals is also not the same as being safe: many recovered species still depend on intensive, expensive management, and a single new disease or invasive predator could undo decades of work.",
+    "The research does not settle the triage debate, but it shifts the burden of proof. Critics of costly rescue programs can still argue that money spent on a handful of rare birds might protect far more habitat, and far more species, elsewhere. Supporters reply that the two goals are not always in conflict, since removing rats or cats from an island helps many animals at once. What the numbers do show is that the alternative to intervention is usually not a slow recovery but extinction. For a species down to its last 50, doing nothing is itself a decision, and the study suggests it is usually a fatal one."
+   ],
+   "words": [
+    {
+     "w": "sobering",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈsoʊbərɪŋ/",
+     "syl": [
+      "so",
+      "ber",
+      "ing"
+     ],
+     "def": "making you think seriously about something, especially something worrying",
+     "ex": "The report gives a sobering picture of how quickly coral reefs are dying."
+    },
+    {
+     "w": "brink",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/brɪŋk/",
+     "syl": [
+      "brink"
+     ],
+     "def": "the point at which something very bad, or very good, is about to happen",
+     "ex": "The company was on the brink of closing before a new investor saved it."
+    },
+    {
+     "w": "stark",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/stɑːrk/",
+     "syl": [
+      "stark"
+     ],
+     "def": "very clear and impossible to ignore, often in an unpleasant way",
+     "ex": "There is a stark difference between the rich and poor parts of the city."
+    },
+    {
+     "w": "intervention",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɪntərˈvenʃən/",
+     "syl": [
+      "in",
+      "ter",
+      "ven",
+      "tion"
+     ],
+     "def": "action taken to improve a situation or stop it from getting worse",
+     "ex": "Early intervention can help children who are struggling with reading."
+    },
+    {
+     "w": "captive breeding",
+     "level": "Topic term",
+     "pos": "noun phrase",
+     "ipa": "/ˌkæptɪv ˈbriːdɪŋ/",
+     "syl": [
+      "cap",
+      "tive",
+      "breed",
+      "ing"
+     ],
+     "def": "keeping and breeding animals in zoos or centers so they can later be released into the wild",
+     "ex": "Captive breeding helped the California condor return to the skies."
+    },
+    {
+     "w": "translocation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌtrænsloʊˈkeɪʃən/",
+     "syl": [
+      "trans",
+      "lo",
+      "ca",
+      "tion"
+     ],
+     "def": "moving animals or plants from one place to another, usually to a safer habitat",
+     "ex": "The translocation of fifty rhinos to a protected park took three months."
+    },
+    {
+     "w": "eradicate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪˈrædɪkeɪt/",
+     "syl": [
+      "e",
+      "rad",
+      "i",
+      "cate"
+     ],
+     "def": "to destroy or get rid of something completely",
+     "ex": "Health workers hope to eradicate the disease within ten years."
+    },
+    {
+     "w": "stabilize",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈsteɪbəlaɪz/",
+     "syl": [
+      "sta",
+      "bi",
+      "lize"
+     ],
+     "def": "to become steady and stop changing, or to make something steady",
+     "ex": "Doctors worked through the night to stabilize the patient."
+    },
+    {
+     "w": "triage",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈtriːɑːʒ/",
+     "syl": [
+      "tri",
+      "age"
+     ],
+     "def": "deciding who or what should receive help first when resources are limited",
+     "ex": "After the earthquake, nurses used triage to decide which patients to treat first."
+    },
+    {
+     "w": "overstate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌoʊvərˈsteɪt/",
+     "syl": [
+      "o",
+      "ver",
+      "state"
+     ],
+     "def": "to describe something as larger, better or more important than it really is",
+     "ex": "It is easy to overstate the benefits of a new technology before it has been tested."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Their conclusion is both hopeful and sobering: species on the brink can recover, but they rarely do so on their own.",
+     "kind": "Main idea",
+     "note": "This is the thesis of the whole passage. The colon introduces the two-part conclusion: recovery is possible, but help is needed."
+    },
+    {
+     "para": 2,
+     "text": "The contrast in the data is stark.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence that tells you the paragraph will compare two groups. Expect number-based factual questions."
+    },
+    {
+     "para": 3,
+     "text": "By contrast, legal protection and other indirect measures on their own showed no clear link with recovery.",
+     "kind": "Key details",
+     "note": "\"By contrast\" marks a difference between methods. NOT/EXCEPT questions often target sentences like this."
+    },
+    {
+     "para": 5,
+     "text": "This idea, often called conservation triage, borrows its logic from emergency medicine: when resources are limited, help those most likely to survive.",
+     "kind": "Interpretation",
+     "note": "It defines a key term by comparison. Rhetorical-purpose questions often ask why such comparisons are used."
+    },
+    {
+     "para": 6,
+     "text": "Because the study compares outcomes rather than running a controlled experiment, it cannot prove that intervention caused recovery.",
+     "kind": "Hedging",
+     "note": "This sentence separates correlation from causation, a common point in TOEFL science passages."
+    },
+    {
+     "para": 7,
+     "text": "For a species down to its last 50, doing nothing is itself a decision, and the study suggests it is usually a fatal one.",
+     "kind": "Author's view",
+     "note": "The final sentence gives the author's judgment, but still hedged with \"suggests\" and \"usually.\""
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 1,
+     "q": "The word \"sobering\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "causing serious thought",
+      "no longer drunk",
+      "extremely surprising",
+      "widely accepted"
+     ],
+     "a": 0,
+     "evidence": "Their conclusion is both hopeful and sobering",
+     "why": "The conclusion is \"hopeful\" (species can recover) and \"sobering\" (they rarely recover alone), a serious fact that makes people think.",
+     "optWhy": [
+      "Correct. \"sobering\" here = making you think seriously; the worrying part is that species \"rarely do so on their own.\"",
+      "Wrong: another meaning of the word. \"Sober\" can mean not drunk, but a conclusion cannot be drunk or sober in that sense.",
+      "Wrong: not the meaning. The word contrasts with \"hopeful\"; it is about seriousness, not surprise.",
+      "Wrong: not the meaning. Nothing in the sentence is about whether people accept the conclusion."
+     ],
+     "ctx": [
+      {
+       "para": 1,
+       "text": "Their conclusion is both hopeful and sobering: species on the brink can recover, but they rarely do so on their own.",
+       "hl": "both hopeful and sobering"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the pair",
+       "x": "\"Sobering\" is paired with \"hopeful\" in the last sentence of paragraph 1."
+      },
+      {
+       "t": "Match each half",
+       "x": "Hopeful = they can recover; sobering = they rarely recover alone, a serious fact."
+      },
+      {
+       "t": "Avoid the other meaning",
+       "x": "\"No longer drunk\" is a real meaning of \"sober\" but cannot describe a conclusion."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what happened to the species that received no direct intervention?",
+     "opts": [
+      "Most reached 100 individuals within about 18 years.",
+      "About 61% recovered to at least 100 individuals.",
+      "Only two reached 100, and over a third went extinct.",
+      "Six of them went extinct, and the others slowly recovered."
+     ],
+     "a": 2,
+     "evidence": "only two (2%) reached 100 animals, and 33 (37%) disappeared entirely",
+     "why": "Of the 90 species without direct help, only two reached 100 animals and 33 (37%) went extinct; 37% is more than a third.",
+     "optWhy": [
+      "Wrong: detail swapped. The 18-year figure is for species \"that were helped and recovered,\" and most unhelped species did not recover.",
+      "Wrong: detail swapped. The 61% figure belongs to the 51 species \"that received direct conservation help.\"",
+      "Correct. \"only two (2%) reached 100 animals, and 33 (37%) disappeared entirely\" = only two reached 100 and over a third went extinct.",
+      "Wrong: detail swapped. \"Six went extinct\" refers to the helped group, and the unhelped species did not mostly recover."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Of the 90 species that received no direct intervention, only two (2%) reached 100 animals, and 33 (37%) disappeared entirely.",
+       "hl": "only two (2%) reached 100 animals, and 33 (37%) disappeared entirely"
+      },
+      {
+       "para": 2,
+       "text": "Of the 51 species that received direct conservation help, such as captive breeding, the removal of predators or the movement of animals to safer sites, 31 (61%) climbed back to at least 100 individuals, while six went extinct.",
+       "hl": "31 (61%) climbed back to at least 100 individuals, while six went extinct"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the right group",
+       "x": "Look for \"no direct intervention\" in paragraph 2: that is the group of 90 species."
+      },
+      {
+       "t": "Read its numbers",
+       "x": "Two reached 100 animals; 33 (37%) went extinct."
+      },
+      {
+       "t": "Avoid number swaps",
+       "x": "61%, six extinctions and 18 years all belong to the helped group."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following were associated with recovery EXCEPT",
+     "opts": [
+      "dealing with introduced predators",
+      "combining threat removal with captive breeding",
+      "moving animals to a new, safer location",
+      "relying on legal protection by itself"
+     ],
+     "a": 3,
+     "evidence": "legal protection and other indirect measures on their own showed no clear link with recovery",
+     "why": "The paragraph says legal protection \"on their own showed no clear link with recovery,\" while the other three were part of successful recoveries.",
+     "optWhy": [
+      "Wrong: it is mentioned. Recovery was most common when conservationists tackled causes \"such as introduced predators.\"",
+      "Wrong: it is mentioned. Success came when they tackled the cause \"while also using hands-on methods like captive breeding.\"",
+      "Wrong: it is mentioned. Translocation, \"moving animals to a new, safer location,\" is one of the hands-on methods.",
+      "Correct (this is the EXCEPT answer). \"legal protection ... on their own showed no clear link with recovery.\""
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "By contrast, legal protection and other indirect measures on their own showed no clear link with recovery.",
+       "hl": "no clear link with recovery"
+      },
+      {
+       "para": 3,
+       "text": "Recovery was most common when conservationists tackled the original cause of decline, such as introduced predators or habitat loss, while also using hands-on methods like captive breeding or translocation, which means moving animals to a new, safer location.",
+       "hl": "tackled the original cause of decline"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List what worked",
+       "x": "Paragraph 3 names tackling causes (predators, habitat loss) plus captive breeding or translocation."
+      },
+      {
+       "t": "Find the contrast",
+       "x": "\"By contrast\" introduces legal protection alone, which showed no clear link."
+      },
+      {
+       "t": "Choose the exception",
+       "x": "Legal protection by itself is the only option not linked to recovery."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the Lord Howe woodhen?",
+     "opts": [
+      "Captive breeding alone was enough to make it secure.",
+      "Rats were probably a major factor limiting its numbers.",
+      "Pigs and cats were brought to the island in 2019.",
+      "Its population has since fallen back to about 200 birds again."
+     ],
+     "a": 1,
+     "evidence": "The real breakthrough came only after rats were eradicated from the island in 2019",
+     "why": "The population stayed near 200 for decades and grew to 1,638 only after rats were removed, which suggests rats had been holding it back.",
+     "optWhy": [
+      "Wrong: contradicts the text. With captive breeding the population only \"stabilized at around 200,\" which was \"not enough to make the species secure.\"",
+      "Correct. \"The real breakthrough came only after rats were eradicated\" = rats were probably limiting the population.",
+      "Wrong: detail swapped. 2019 is when rats were eradicated; pigs and cats were removed earlier, not introduced.",
+      "Wrong: contradicts the text. By 2024 the population \"had risen to 1,638.\""
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The real breakthrough came only after rats were eradicated from the island in 2019; by 2024, the population had risen to 1,638.",
+       "hl": "only after rats were eradicated"
+      },
+      {
+       "para": 4,
+       "text": "That was enough to avoid extinction, but not enough to make the species secure.",
+       "hl": "not enough to make the species secure"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Track the numbers",
+       "x": "23 birds, then about 200 for decades, then 1,638 by 2024."
+      },
+      {
+       "t": "Find what changed",
+       "x": "The jump happened \"only after rats were eradicated\" in 2019."
+      },
+      {
+       "t": "Infer the cause",
+       "x": "If removing rats led to growth, rats were probably limiting the population."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention emergency medicine in paragraph 5?",
+     "opts": [
+      "To explain the reasoning behind conservation triage",
+      "To show that doctors often help conservation projects",
+      "To argue that injured animals need hospital care",
+      "To criticize Norman Myers for his lack of medical training"
+     ],
+     "a": 0,
+     "evidence": "borrows its logic from emergency medicine",
+     "why": "Emergency medicine is used as a comparison to explain triage: when resources are limited, help those most likely to survive.",
+     "optWhy": [
+      "Correct. \"borrows its logic from emergency medicine: when resources are limited, help those most likely to survive\" = it explains the reasoning of triage.",
+      "Wrong: not mentioned. No doctors take part in the projects; medicine is only an analogy.",
+      "Wrong: misreads the comparison. The author is not talking about treating injured animals in hospitals.",
+      "Wrong: wrong purpose. The author reports Myers's idea; he is not criticized for any lack of training."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "This idea, often called conservation triage, borrows its logic from emergency medicine: when resources are limited, help those most likely to survive.",
+       "hl": "borrows its logic from emergency medicine"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "Emergency medicine appears in the definition of conservation triage."
+      },
+      {
+       "t": "Read after the colon",
+       "x": "\"When resources are limited, help those most likely to survive\" is the shared logic."
+      },
+      {
+       "t": "Name the purpose",
+       "x": "The comparison explains an idea, so choose A."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Species whose problems were easier to solve may simply have been more likely to receive help in the first place.",
+     "opts": [
+      "Species with easy problems usually managed to recover without any outside help at all.",
+      "Help may have gone mainly to easier cases, which could partly explain the results.",
+      "Every species that received help had the easiest problems to solve.",
+      "Species with the hardest problems were always the first to receive help."
+     ],
+     "a": 1,
+     "evidence": "Species whose problems were easier to solve may simply have been more likely to receive help in the first place.",
+     "why": "The sentence suggests a possible bias: easier species may have been chosen for help, so help might look more effective than it really is.",
+     "optWhy": [
+      "Wrong: changes the meaning. The sentence is about which species received help, not about recovering without help.",
+      "Correct. \"easier to solve\" + \"more likely to receive help\" = help may have gone to easier cases; the paragraph uses this to explain why the study \"cannot prove\" cause.",
+      "Wrong: too extreme. \"may\" and \"more likely\" become \"every\"; the sentence is cautious.",
+      "Wrong: reverses the meaning. The sentence says easier cases, not the hardest ones, were more likely to get help."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "Species whose problems were easier to solve may simply have been more likely to receive help in the first place.",
+       "hl": "more likely to receive help in the first place"
+      },
+      {
+       "para": 6,
+       "text": "Because the study compares outcomes rather than running a controlled experiment, it cannot prove that intervention caused recovery.",
+       "hl": "cannot prove that intervention caused recovery"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the core idea",
+       "x": "Easier species may have been more likely to get help."
+      },
+      {
+       "t": "Link to the paragraph",
+       "x": "This is a reason the study \"cannot prove\" that help caused recovery."
+      },
+      {
+       "t": "Check the strength",
+       "x": "Keep the hedges \"may\" and \"more likely\"; reject \"every\" and reversals."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261125-3-k1",
+     "tag": "Study",
+     "fact": "The study looked at 141 bird and mammal species that fell below 50 wild animals since 1950.",
+     "q": "How many species did the study examine?",
+     "opts": [
+      "50",
+      "141",
+      "1,638"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261125-3-k2",
+     "tag": "Helped",
+     "fact": "With direct help, 61% of species recovered to at least 100 animals.",
+     "q": "What share of helped species reached 100 animals?",
+     "opts": [
+      "2%",
+      "37%",
+      "61%"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261125-3-k3",
+     "tag": "Unhelped",
+     "fact": "Without direct help, only 2% recovered and 37% went extinct.",
+     "q": "What share of unhelped species went extinct?",
+     "opts": [
+      "37%",
+      "61%",
+      "6%"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261125-3-k4",
+     "tag": "Woodhen",
+     "fact": "The Lord Howe woodhen grew from 23 birds to 1,638 after rats were eradicated in 2019.",
+     "q": "What led to the woodhen's breakthrough?",
+     "opts": [
+      "A hunting law",
+      "Removing rats",
+      "Moving it to Mauritius"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261125-3-k5",
+     "tag": "Caution",
+     "fact": "The study cannot prove cause, because easier cases may have received more help.",
+     "q": "Why can't the study prove that help caused recovery?",
+     "opts": [
+      "It was not a controlled experiment",
+      "It studied only fish",
+      "It ignored extinct species"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Saving the last 50",
+    "question": "Can species on the brink recover, and should we try?",
+    "branches": [
+     {
+      "title": "The numbers",
+      "paras": "1–2",
+      "blanks": [
+       "61% recovered with help",
+       "2% recovered without help"
+      ],
+      "kps": [
+       "n20261125-3-k1",
+       "n20261125-3-k2",
+       "n20261125-3-k3"
+      ]
+     },
+     {
+      "title": "What works",
+      "paras": "3–4",
+      "blanks": [
+       "remove threats plus breeding",
+       "rats removed in 2019"
+      ],
+      "kps": [
+       "n20261125-3-k4"
+      ]
+     },
+     {
+      "title": "Triage debate",
+      "paras": "5",
+      "blanks": [
+       "help those likely to survive"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Limits",
+      "paras": "6–7",
+      "blanks": [
+       "cannot prove cause"
+      ],
+      "kps": [
+       "n20261125-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "legal protection alone works best",
+     "most species recover on their own"
+    ]
+   },
+   "summary": {
+    "intro": "A study of 141 species that fell below 50 animals shows that recovery from the brink is possible but rarely happens without help.",
+    "model": "Species reduced to fewer than 50 animals often recovered when people tackled threats directly, while most unhelped species did not. However, because the study cannot prove cause, it informs rather than ends the debate over conservation triage.",
+    "options": [
+     {
+      "t": "Species that received direct help were far more likely to recover than those that received none.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "The contrast in the data is stark."
+     },
+     {
+      "t": "Recovery was most likely when the cause of decline was removed together with hands-on methods such as captive breeding.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "Recovery was most common when conservationists tackled the original cause of decline"
+     },
+     {
+      "t": "The study cannot prove cause, but it suggests that doing nothing usually leads to extinction.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "the alternative to intervention is usually not a slow recovery but extinction"
+     },
+     {
+      "t": "In 1974 the Mauritius kestrel was reduced to four wild birds.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "was reduced to just four wild birds"
+     },
+     {
+      "t": "Legal protection on its own was the most effective way to save species.",
+      "ok": false,
+      "type": "contra",
+      "para": 3,
+      "evidence": "legal protection and other indirect measures on their own showed no clear link with recovery"
+     },
+     {
+      "t": "The researchers recommend spending all conservation money on island birds.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe conservation money should go first to the rarest species, even if saving them is very expensive. Others believe it should go to species and habitats where it can save the most animals. Which approach do you support, and why?",
+    "hint": "Choose one; give two reasons (cost, ecosystem value, moral duty, results); use the woodhen or the 61% vs 2% figures; finish with a conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Garcia: A new study shows that species reduced to fewer than 50 animals can recover, but usually only with expensive, long-term help. Some people say we should save every species we can. Others say we should use limited money where it protects the most wildlife, even if a few rare species are lost. Which view do you agree with, and why?\nMia: \"We should try to save every species. Each one plays a role in its ecosystem, and once it's gone, it's gone forever. The study shows that rescue efforts really can work.\"\nRyan: \"Money is limited. Spending millions on one bird could protect a whole forest instead. It's sad, but we should focus on habitats where we can save the most animals.\"",
+    "steps": [
+     "State which view you agree with.",
+     "Respond to Mia or Ryan and add a new idea.",
+     "Use evidence from the article (61% vs 2%, 18 years, removing rats helps many species).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "Cambridge C1 Advanced (CAE) style practice built on today's three stories: collocations, grammar and word formation.",
+  "parts": [
+   {
+    "part": 1,
+    "type": "mc",
+    "title": "Multiple-choice cloze",
+    "topic": "A guest astronaut on Tiangong",
+    "task": "Read the text and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "When Shenzhou-24 lifted off this week, it carried the first foreign astronaut ever to board China's space station. For Pakistan, the flight is a source of great national {1}. Its astronaut had to {2} a great deal of effort into learning Chinese, since every manual on board is written in that language. Supporters say the mission will {3} rise to a new generation of young scientists. Critics, {4} the other hand, argue that a single week in orbit can hardly {5} a difference to a country's scientific capability. They also point out that guest astronauts usually carry out experiments that have been designed by their hosts. Whether the flight proves to be a turning point will {6} largely on what happens after it. If Pakistan uses the moment to {7} up its investment in research, the mission could {8} the foundations for a lasting space program.",
+    "items": [
+     {
+      "n": 1,
+      "opts": [
+       "proud",
+       "pride",
+       "honor",
+       "glory"
+      ],
+      "a": 1,
+      "focus": "Collocation",
+      "why": "\"A source of national pride\" is a fixed collocation. \"Proud\" is an adjective, and \"honor\" and \"glory\" do not collocate naturally with \"a source of great national\" here."
+     },
+     {
+      "n": 2,
+      "opts": [
+       "make",
+       "do",
+       "put",
+       "take"
+      ],
+      "a": 2,
+      "focus": "Collocation",
+      "why": "We \"put effort into\" something. \"Make an effort\" exists, but it is not followed by \"into\"; \"do\" and \"take\" do not combine with \"effort into\"."
+     },
+     {
+      "n": 3,
+      "opts": [
+       "give",
+       "bring",
+       "make",
+       "take"
+      ],
+      "a": 0,
+      "focus": "Fixed phrase",
+      "why": "\"Give rise to\" means to cause something to develop. \"Bring\", \"make\" and \"take\" do not combine with \"rise to\" in this meaning."
+     },
+     {
+      "n": 4,
+      "opts": [
+       "at",
+       "in",
+       "by",
+       "on"
+      ],
+      "a": 3,
+      "focus": "Fixed phrase",
+      "why": "\"On the other hand\" introduces a contrasting view. The other prepositions do not form this phrase."
+     },
+     {
+      "n": 5,
+      "opts": [
+       "do",
+       "make",
+       "give",
+       "bring"
+      ],
+      "a": 1,
+      "focus": "Collocation",
+      "why": "\"Make a difference\" means to have an important effect. We do not say \"do/give/bring a difference\"."
+     },
+     {
+      "n": 6,
+      "opts": [
+       "depend",
+       "rely",
+       "base",
+       "count"
+      ],
+      "a": 0,
+      "focus": "Dependent preposition",
+      "why": "\"Depend on\" means to be decided by. \"Rely on\" and \"count on\" mean to trust someone, and \"base\" needs a passive or object (be based on)."
+     },
+     {
+      "n": 7,
+      "opts": [
+       "set",
+       "pick",
+       "make",
+       "step"
+      ],
+      "a": 3,
+      "focus": "Phrasal verb",
+      "why": "\"Step up\" means to increase the amount or speed of something, as in \"step up investment\". \"Set up\", \"pick up\" and \"make up\" do not mean increase."
+     },
+     {
+      "n": 8,
+      "opts": [
+       "set",
+       "put",
+       "lay",
+       "place"
+      ],
+      "a": 2,
+      "focus": "Collocation",
+      "why": "\"Lay the foundations for\" is the fixed collocation meaning to create the basis for something."
+     }
+    ]
+   },
+   {
+    "part": 2,
+    "type": "open",
+    "title": "Open cloze",
+    "topic": "Viruses and evolution",
+    "task": "Read the text and think of the word which best fits each gap. Use only one word in each gap.",
+    "text": "Viruses are usually thought {9} as invaders that take over living cells. Yet a new study suggests that their history is far more complicated {10} scientists had assumed. Researchers at the University of Miami did not grow viruses in a laboratory; instead, they searched huge databases {11} contained billions of DNA sequences. {12} the help of AI tools, they identified small viruses with features of both viral shells and cell compartments. {13} only do these viruses challenge the old idea that evolution ran in one direction, but they also hint that viral shells might host chemical reactions. Even so, the results need to be treated with caution, {14} the viruses have not yet been observed directly. Until they are, their structures will remain predictions rather {15} facts. As one researcher put {16}, most viruses simply cannot be grown in the lab.",
+    "items": [
+     {
+      "n": 9,
+      "ans": [
+       "of"
+      ],
+      "focus": "Dependent preposition",
+      "why": "\"Think of something as something\" means to regard it in a particular way; in the passive: \"are thought of as\"."
+     },
+     {
+      "n": 10,
+      "ans": [
+       "than"
+      ],
+      "focus": "Comparison",
+      "why": "\"More complicated than\" completes a comparative structure."
+     },
+     {
+      "n": 11,
+      "ans": [
+       "that",
+       "which"
+      ],
+      "focus": "Relative pronoun",
+      "why": "A relative pronoun introduces a defining clause about \"databases\"; both \"that\" and \"which\" are possible."
+     },
+     {
+      "n": 12,
+      "ans": [
+       "with"
+      ],
+      "focus": "Fixed phrase",
+      "why": "\"With the help of\" means using or assisted by something."
+     },
+     {
+      "n": 13,
+      "ans": [
+       "not"
+      ],
+      "focus": "Inversion",
+      "why": "\"Not only do ... but (they) also ...\" is an inverted structure used for emphasis."
+     },
+     {
+      "n": 14,
+      "ans": [
+       "as",
+       "since",
+       "because"
+      ],
+      "focus": "Linking word",
+      "why": "A reason connector is needed: \"as\", \"since\" or \"because\" all explain why caution is needed."
+     },
+     {
+      "n": 15,
+      "ans": [
+       "than"
+      ],
+      "focus": "Fixed phrase",
+      "why": "\"Rather than\" means instead of."
+     },
+     {
+      "n": 16,
+      "ans": [
+       "it"
+      ],
+      "focus": "Fixed phrase",
+      "why": "\"As someone put it\" introduces a reported way of saying something."
+     }
+    ]
+   },
+   {
+    "part": 3,
+    "type": "wf",
+    "title": "Word formation",
+    "topic": "Saving species on the brink",
+    "task": "Use the word given in capitals to form a word that fits in the gap.",
+    "text": "When a species falls to its last 50 animals, its {17} is far from guaranteed. A new study of 141 birds and mammals shows that most species recover only after direct {18} by conservationists. Without help, more than a third of them went {19}. The most effective projects tackled the original causes of decline, such as {20} predators, while also breeding animals in captivity. Legal protection on its own, by contrast, proved surprisingly {21}. The authors admit that their findings are not {22}, because they could not run a controlled experiment. Nevertheless, the results make it {23} clear that doing nothing is rarely a safe choice. For conservationists facing {24} budgets, that is an important message.",
+    "items": [
+     {
+      "n": 17,
+      "stem": "SURVIVE",
+      "ans": [
+       "survival"
+      ],
+      "focus": "Noun suffix",
+      "why": "A noun is needed after the possessive \"its\": survive → survival."
+     },
+     {
+      "n": 18,
+      "stem": "INTERVENE",
+      "ans": [
+       "intervention"
+      ],
+      "focus": "Noun suffix",
+      "why": "After the adjective \"direct\" we need a noun: intervene → intervention."
+     },
+     {
+      "n": 19,
+      "stem": "EXTINCTION",
+      "ans": [
+       "extinct"
+      ],
+      "focus": "Adjective from noun",
+      "why": "\"Go extinct\" needs an adjective: extinction → extinct."
+     },
+     {
+      "n": 20,
+      "stem": "INVADE",
+      "ans": [
+       "invasive"
+      ],
+      "focus": "Adjective suffix",
+      "why": "An adjective describes \"predators\": invade → invasive."
+     },
+     {
+      "n": 21,
+      "stem": "EFFECT",
+      "ans": [
+       "ineffective"
+      ],
+      "focus": "Negative prefix",
+      "why": "The sense is negative (\"by contrast\", \"on its own\"), so add the prefix: effect → effective → ineffective."
+     },
+     {
+      "n": 22,
+      "stem": "CONCLUDE",
+      "ans": [
+       "conclusive"
+      ],
+      "focus": "Adjective suffix",
+      "why": "Findings that cannot prove cause are \"not conclusive\": conclude → conclusive."
+     },
+     {
+      "n": 23,
+      "stem": "ABUNDANT",
+      "ans": [
+       "abundantly"
+      ],
+      "focus": "Adverb suffix",
+      "why": "An adverb modifies \"clear\"; \"abundantly clear\" is a common collocation."
+     },
+     {
+      "n": 24,
+      "stem": "LIMIT",
+      "ans": [
+       "limited"
+      ],
+      "focus": "Participle adjective",
+      "why": "\"Limited budgets\" uses the past participle as an adjective."
+     }
+    ]
+   },
+   {
+    "part": 4,
+    "type": "kwt",
+    "title": "Key word transformation",
+    "topic": "All three stories",
+    "task": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and six words, including the word given.",
+    "items": [
+     {
+      "n": 25,
+      "s1": "Ali had hardly any knowledge of Chinese when he began training.",
+      "key": "VIRTUALLY",
+      "pre": "Ali began training",
+      "post": "of Chinese.",
+      "ans": [
+       "with virtually no knowledge",
+       "knowing virtually nothing"
+      ],
+      "focus": "Adverb + quantifier",
+      "why": "\"Hardly any\" = \"virtually no\"; \"with virtually no knowledge of\" keeps the meaning. \"Knowing virtually nothing of\" also works."
+     },
+     {
+      "n": 26,
+      "s1": "Some experts doubt that one week in orbit is valuable for science.",
+      "key": "PERSUADED",
+      "pre": "Some experts are",
+      "post": "one week in orbit is valuable for science.",
+      "ans": [
+       "not persuaded that",
+       "not at all persuaded that"
+      ],
+      "focus": "Adjective + clause",
+      "why": "\"Doubt that\" = \"are not persuaded that\"."
+     },
+     {
+      "n": 27,
+      "s1": "Most viruses cannot be grown in the lab, so scientists search DNA databases instead.",
+      "key": "BECAUSE",
+      "pre": "Scientists search DNA databases",
+      "post": "be grown in the lab.",
+      "ans": [
+       "because most viruses cannot",
+       "because most viruses can't"
+      ],
+      "focus": "Linking word",
+      "why": "\"So\" becomes \"because\", reversing the clause order: result first, then reason."
+     },
+     {
+      "n": 28,
+      "s1": "People thought that encapsulins had evolved from viruses.",
+      "key": "THOUGHT",
+      "pre": "Encapsulins",
+      "post": "evolved from viruses.",
+      "ans": [
+       "were thought to have",
+       "had been thought to have"
+      ],
+      "focus": "Passive reporting",
+      "why": "Passive reporting structure: \"were thought to have + past participle\" refers to an earlier action."
+     },
+     {
+      "n": 29,
+      "s1": "The woodhen's numbers only rose sharply after rats were removed.",
+      "key": "UNTIL",
+      "pre": "The woodhen's numbers did",
+      "post": "were removed.",
+      "ans": [
+       "not rise sharply until rats",
+       "not rise until the rats"
+      ],
+      "focus": "Not ... until",
+      "why": "\"Only after\" = \"not ... until\": the rise did not happen until rats were removed."
+     },
+     {
+      "n": 30,
+      "s1": "If conservationists had not helped, the kestrel would probably have died out.",
+      "key": "FOR",
+      "pre": "But",
+      "post": ", the kestrel would probably have died out.",
+      "ans": [
+       "for the conservationists' help",
+       "for conservationists' help",
+       "for the help of conservationists"
+      ],
+      "focus": "Conditional phrase",
+      "why": "\"But for + noun\" = \"if it had not been for\", replacing an \"if ... not\" clause."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "At 8:18 on Wednesday morning, Beijing time, a Long March-2F rocket rose from the Jiuquan Satellite Launch Center in the Gobi Desert, carrying the Shenzhou-24 spacecraft and three astronauts. Two of them, commander Tang Hongbo and pilot Wu Yi, are Chinese. The third, Muhammad Zeeshan Ali, is not. The 40-year-old from Pakistan is set to become his country's first astronaut in orbit and the first foreign national ever to board Tiangong, the space station China has operated since late 2022. For a program that has so far flown only its own citizens, the launch marks a symbolic turning point.": "audio/2026-11-25/a1-p1.mp3",
+  "Ali's journey began with a cooperation agreement signed in February 2025 between Pakistan's space agency, SUPARCO, and the China Manned Space Agency (CMSA). Under the deal, Pakistani candidates would train in China, and Ali, a former air force pilot, was chosen as one of two candidates before being selected for this flight. The training turned out to be demanding in unexpected ways. Tang, who is now making his third trip to Tiangong, told reporters that every label and manual on board is written in Chinese, and that Ali had begun studying the language with virtually no foundation. Yet at a press conference before the launch, Ali delivered part of his remarks in Mandarin.": "audio/2026-11-25/a1-p2.mp3",
+  "Ali's stay will be short. He is expected to spend about a week on the station as a payload specialist before returning to Earth aboard the Shenzhou-23 spacecraft. During that time, he will run four joint China-Pakistan projects in biotechnology and materials science, including an experiment on photosynthetic cyanobacteria, tiny organisms that turn sunlight into chemical energy. His Chinese crewmates have a far longer agenda. According to the CMSA, the mission will carry out more than 90 experiments and technology tests, from organ chips that model how blood vessels age to new kinds of rocket propellant. Meanwhile, Zhu Yangzhu, commander of the previous crew, will remain on Tiangong for about a year to study how the human body copes with long periods in space, a record for a Chinese astronaut.": "audio/2026-11-25/a1-p3.mp3",
+  "Supporters see the flight as a sign that space exploration is becoming less exclusive. For decades, the main route into orbit for astronauts from smaller countries was the International Space Station (ISS), run by the United States, Russia and their partners, which is scheduled to be retired around 2030. A second door, they argue, gives developing nations a chance to train scientists, inspire students and take part in research they could never afford alone. Ali himself framed the mission in these terms, insisting that it is \"not a finish line\" and that what comes after the flight matters more than the flight itself. Speaking to Pakistani children, he urged them to look up at the sky and remember that he is \"up there with your dreams.\"": "audio/2026-11-25/a1-p4.mp3",
+  "Not everyone is persuaded that the benefits are as large as the symbolism. Critics of so-called guest missions point out that a single week in orbit produces limited science, and that a visiting astronaut usually performs experiments designed and controlled by the host. In their view, such flights can work as diplomacy as much as research: China gains a showcase for its station and a reliable partner, while the visiting country gains national pride but little lasting capability. A space program, they argue, is built from engineers, factories and long-term budgets, not from a single famous passenger. There is also the question of dependence. A country that reaches orbit only on another nation's rocket remains, in practical terms, a customer.": "audio/2026-11-25/a1-p5.mp3",
+  "Both sides have a point. History suggests that early guest flights can matter more than their scientific output. Many of the first astronauts from Asia, Africa and Latin America flew on Soviet or American spacecraft in the 1970s and 1980s, and some of their countries went on to expand their own space programs and satellite industries. Whether Pakistan follows that path will depend less on this week than on the decisions that come after it, such as whether trained scientists are given jobs, funding and research questions at home.": "audio/2026-11-25/a1-p6.mp3",
+  "The flight also fits into a wider race. China is preparing to land astronauts on the Moon by 2030, while NASA aims to return Americans to the lunar surface in 2028. Both countries are building coalitions of partners, and offering seats, training and shared experiments is one way to attract them. For students watching the launch, then, the real question may not be who rode the rocket, but who will be designing the next one.": "audio/2026-11-25/a1-p7.mp3",
+  "orbit": "audio/2026-11-25/a1-w-orbit.mp3",
+  "The new weather satellite will stay in orbit for at least ten years.": "audio/2026-11-25/a1-ex-orbit.mp3",
+  "symbolic": "audio/2026-11-25/a1-w-symbolic.mp3",
+  "Planting the first tree was a symbolic act that marked the start of the city's green plan.": "audio/2026-11-25/a1-ex-symbolic.mp3",
+  "payload": "audio/2026-11-25/a1-w-payload.mp3",
+  "The rocket's payload included two telescopes and a small robot arm.": "audio/2026-11-25/a1-ex-payload.mp3",
+  "agenda": "audio/2026-11-25/a1-w-agenda.mp3",
+  "Cutting plastic waste is at the top of the new mayor's agenda.": "audio/2026-11-25/a1-ex-agenda.mp3",
+  "exclusive": "audio/2026-11-25/a1-w-exclusive.mp3",
+  "Higher education was once exclusive, but today millions of students study online.": "audio/2026-11-25/a1-ex-exclusive.mp3",
+  "persuade": "audio/2026-11-25/a1-w-persuade.mp3",
+  "The data did not persuade the committee that the new drug was safe.": "audio/2026-11-25/a1-ex-persuade.mp3",
+  "showcase": "audio/2026-11-25/a1-w-showcase.mp3",
+  "The science fair was a showcase for the students' most creative projects.": "audio/2026-11-25/a1-ex-showcase.mp3",
+  "capability": "audio/2026-11-25/a1-w-capability.mp3",
+  "Few hospitals have the capability to perform this kind of heart surgery.": "audio/2026-11-25/a1-ex-capability.mp3",
+  "dependence": "audio/2026-11-25/a1-w-dependence.mp3",
+  "The island wants to reduce its dependence on imported fuel.": "audio/2026-11-25/a1-ex-dependence.mp3",
+  "coalition": "audio/2026-11-25/a1-w-coalition.mp3",
+  "A coalition of schools and charities is raising money for the new library.": "audio/2026-11-25/a1-ex-coalition.mp3",
+  "For a program that has so far flown only its own citizens, the launch marks a symbolic turning point.": "audio/2026-11-25/a1-ks1.mp3",
+  "His Chinese crewmates have a far longer agenda.": "audio/2026-11-25/a1-ks2.mp3",
+  "Supporters see the flight as a sign that space exploration is becoming less exclusive.": "audio/2026-11-25/a1-ks3.mp3",
+  "Not everyone is persuaded that the benefits are as large as the symbolism.": "audio/2026-11-25/a1-ks4.mp3",
+  "History suggests that early guest flights can matter more than their scientific output.": "audio/2026-11-25/a1-ks5.mp3",
+  "For students watching the launch, then, the real question may not be who rode the rocket, but who will be designing the next one.": "audio/2026-11-25/a1-ks6.mp3",
+  "Most people think of viruses as invaders: tiny packages of genetic material that hijack living cells to make copies of themselves. But viruses are also among the oldest and most abundant biological entities on Earth, and their history is tangled up with the history of life itself. A study published in Nature Communications by researchers at the University of Miami now suggests that this tangle is even more complicated than scientists had assumed. Some of the protein structures that viruses use, it appears, may have passed back and forth between viruses and cells more than once.": "audio/2026-11-25/a2-p1.mp3",
+  "To understand the finding, it helps to know how a virus protects its genes. Many viruses wrap their DNA in a protein shell called a capsid. A large group of them, including many viruses that infect bacteria, build this shell from proteins that fold into the same three-dimensional shape, known as the HK97 fold. Copies of these proteins lock together like tiles to form a hollow, closed container. Before the shell is filled with DNA and becomes mature, it exists in an earlier form called a procapsid.": "audio/2026-11-25/a2-p2.mp3",
+  "Strikingly, the same fold also appears inside ordinary cells. Many bacteria and archaea produce encapsulins, hollow protein compartments that enclose chemical reactions, keeping certain enzymes and their products separate from the rest of the cell. Because encapsulins and viral capsids share such a similar structure, scientists had generally believed that encapsulins evolved from viruses: at some point, a cell borrowed a viral shell and put it to new use. In this view, the flow of evolution ran in one direction only, from virus to cell.": "audio/2026-11-25/a2-p3.mp3",
+  "The Miami team, led by doctoral student Abelardo Aguilar and biologist Antoni Luque, did not look for new viruses in the laboratory. Instead, they searched databases containing billions of DNA sequences collected from soil, seawater, wastewater and the human gut, much of it stored in a public database called IMG/M. Using bioinformatics, models of protein physics, protein language models and the structure-prediction program AlphaFold, they identified previously unknown small viruses. \"The majority of viruses cannot be grown in the lab,\" Luque explained, a limitation that makes computer-based searches increasingly valuable.": "audio/2026-11-25/a2-p4.mp3",
+  "What the team found were viruses with unusually small and simple genomes that carry features of both viral capsids and encapsulins. Rather than fitting neatly on one side of the line, they seem to sit in between. The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly. They also propose that procapsids could have served as a bridge, supporting both genetic functions, such as holding DNA, and metabolic ones, such as hosting chemical reactions. \"One implication of this research is the possibility that viral capsids could also facilitate biochemical reactions,\" Aguilar said.": "audio/2026-11-25/a2-p5.mp3",
+  "Not every scientist will accept this conclusion without more evidence. The viruses were identified from genetic sequences and computer models rather than isolated and observed directly, so their actual structures and behavior remain predictions. Even the university's own summary describes them as possible evolutionary intermediates and notes that further research is needed to establish the proposed functions. Skeptics could also point out that similar shapes do not always prove a simple story of shared ancestry: when two structures look alike, it can be difficult to tell which came first, or whether both descend from an older ancestor that has since disappeared.": "audio/2026-11-25/a2-p6.mp3",
+  "Even so, the study shows how quickly biology is changing. Tools originally designed to predict protein shapes are now being used to explore parts of nature that no one can grow in a dish, and Luque has said the same approach can be applied in other contexts. If the bidirectional model holds up, it would blur the familiar boundary between viruses and the cells they infect, and it might encourage engineers to think of viral shells as tiny reaction chambers rather than mere packaging. For now, the safest conclusion is a modest one: evolution does not always travel in one direction, and some of its most important routes may run both ways.": "audio/2026-11-25/a2-p7.mp3",
+  "hijack": "audio/2026-11-25/a2-w-hijack.mp3",
+  "Online scammers sometimes hijack social media accounts to send fake messages.": "audio/2026-11-25/a2-ex-hijack.mp3",
+  "abundant": "audio/2026-11-25/a2-w-abundant.mp3",
+  "Fresh water is abundant in this region, so farmers rarely worry about drought.": "audio/2026-11-25/a2-ex-abundant.mp3",
+  "capsid": "audio/2026-11-25/a2-w-capsid.mp3",
+  "Under the microscope, each capsid looked like a tiny football made of protein.": "audio/2026-11-25/a2-ex-capsid.mp3",
+  "enclose": "audio/2026-11-25/a2-w-enclose.mp3",
+  "A high wall was built to enclose the old garden.": "audio/2026-11-25/a2-ex-enclose.mp3",
+  "compartment": "audio/2026-11-25/a2-w-compartment.mp3",
+  "The backpack has a padded compartment for a laptop.": "audio/2026-11-25/a2-ex-compartment.mp3",
+  "bidirectional": "audio/2026-11-25/a2-w-bidirectional.mp3",
+  "The new bridge allows bidirectional traffic, so cars can cross both ways at once.": "audio/2026-11-25/a2-ex-bidirectional.mp3",
+  "intermediate": "audio/2026-11-25/a2-w-intermediate.mp3",
+  "Scientists think this fossil is an intermediate between fish and land animals.": "audio/2026-11-25/a2-ex-intermediate.mp3",
+  "facilitate": "audio/2026-11-25/a2-w-facilitate.mp3",
+  "Clear signs facilitate the movement of visitors through the museum.": "audio/2026-11-25/a2-ex-facilitate.mp3",
+  "ancestry": "audio/2026-11-25/a2-w-ancestry.mp3",
+  "DNA tests show that horses and zebras share a common ancestry.": "audio/2026-11-25/a2-ex-ancestry.mp3",
+  "implication": "audio/2026-11-25/a2-w-implication.mp3",
+  "The study has serious implications for how schools teach reading, and one implication is that lessons should start earlier.": "audio/2026-11-25/a2-ex-implication.mp3",
+  "Some of the protein structures that viruses use, it appears, may have passed back and forth between viruses and cells more than once.": "audio/2026-11-25/a2-ks1.mp3",
+  "In this view, the flow of evolution ran in one direction only, from virus to cell.": "audio/2026-11-25/a2-ks2.mp3",
+  "The Miami team, led by doctoral student Abelardo Aguilar and biologist Antoni Luque, did not look for new viruses in the laboratory.": "audio/2026-11-25/a2-ks3.mp3",
+  "The researchers argue that this pattern is best explained by bidirectional evolution: viruses gave rise to encapsulins, but encapsulin-like compartments may also have given rise to viruses, and this may have happened repeatedly.": "audio/2026-11-25/a2-ks4.mp3",
+  "Not every scientist will accept this conclusion without more evidence.": "audio/2026-11-25/a2-ks5.mp3",
+  "For now, the safest conclusion is a modest one: evolution does not always travel in one direction, and some of its most important routes may run both ways.": "audio/2026-11-25/a2-ks6.mp3",
+  "When a species falls to its last few dozen animals, conservationists face an uncomfortable question: is it still worth saving, or has the battle already been lost? A new study published in Proceedings of the Royal Society B offers one of the clearest answers yet. Researchers led by Donal Smith of Monash University in Australia examined 141 bird and mammal species whose wild populations had dropped below 50 individuals at some point since 1950. Their conclusion is both hopeful and sobering: species on the brink can recover, but they rarely do so on their own.": "audio/2026-11-25/a3-p1.mp3",
+  "The contrast in the data is stark. Of the 51 species that received direct conservation help, such as captive breeding, the removal of predators or the movement of animals to safer sites, 31 (61%) climbed back to at least 100 individuals, while six went extinct. Of the 90 species that received no direct intervention, only two (2%) reached 100 animals, and 33 (37%) disappeared entirely. Recovery also took patience. Among the species that were helped and recovered, the median time needed to reach 100 animals was 18 years, longer than many political careers and most funding cycles.": "audio/2026-11-25/a3-p2.mp3",
+  "The study also suggests that some kinds of help work better than others. Recovery was most common when conservationists tackled the original cause of decline, such as introduced predators or habitat loss, while also using hands-on methods like captive breeding or translocation, which means moving animals to a new, safer location. By contrast, legal protection and other indirect measures on their own showed no clear link with recovery. In other words, a law that forbids hunting a bird may be necessary, but it is unlikely to be sufficient if rats are still eating its eggs.": "audio/2026-11-25/a3-p3.mp3",
+  "The Lord Howe woodhen, a flightless bird found only on a small island off eastern Australia, illustrates the point. By the late 1970s, just 23 birds remained. Conservationists removed feral pigs and cats and bred birds in captivity, and the population stabilized at around 200 for decades. That was enough to avoid extinction, but not enough to make the species secure. The real breakthrough came only after rats were eradicated from the island in 2019; by 2024, the population had risen to 1,638.": "audio/2026-11-25/a3-p4.mp3",
+  "Such successes were not always expected. In 1974, the Mauritius kestrel, a small bird of prey from the Indian Ocean, was reduced to just four wild birds, and in 1979 the environmental scientist Norman Myers suggested that conservation money might be better spent on species with better prospects. This idea, often called conservation triage, borrows its logic from emergency medicine: when resources are limited, help those most likely to survive. The kestrel's story complicates that logic. After captive breeding, predator control and releases, its numbers climbed into the hundreds, although they have since declined again.": "audio/2026-11-25/a3-p5.mp3",
+  "The authors are careful not to overstate their findings. Because the study compares outcomes rather than running a controlled experiment, it cannot prove that intervention caused recovery. Species whose problems were easier to solve may simply have been more likely to receive help in the first place. Reaching 100 animals is also not the same as being safe: many recovered species still depend on intensive, expensive management, and a single new disease or invasive predator could undo decades of work.": "audio/2026-11-25/a3-p6.mp3",
+  "The research does not settle the triage debate, but it shifts the burden of proof. Critics of costly rescue programs can still argue that money spent on a handful of rare birds might protect far more habitat, and far more species, elsewhere. Supporters reply that the two goals are not always in conflict, since removing rats or cats from an island helps many animals at once. What the numbers do show is that the alternative to intervention is usually not a slow recovery but extinction. For a species down to its last 50, doing nothing is itself a decision, and the study suggests it is usually a fatal one.": "audio/2026-11-25/a3-p7.mp3",
+  "sobering": "audio/2026-11-25/a3-w-sobering.mp3",
+  "The report gives a sobering picture of how quickly coral reefs are dying.": "audio/2026-11-25/a3-ex-sobering.mp3",
+  "brink": "audio/2026-11-25/a3-w-brink.mp3",
+  "The company was on the brink of closing before a new investor saved it.": "audio/2026-11-25/a3-ex-brink.mp3",
+  "stark": "audio/2026-11-25/a3-w-stark.mp3",
+  "There is a stark difference between the rich and poor parts of the city.": "audio/2026-11-25/a3-ex-stark.mp3",
+  "intervention": "audio/2026-11-25/a3-w-intervention.mp3",
+  "Early intervention can help children who are struggling with reading.": "audio/2026-11-25/a3-ex-intervention.mp3",
+  "captive breeding": "audio/2026-11-25/a3-w-captive-breeding.mp3",
+  "Captive breeding helped the California condor return to the skies.": "audio/2026-11-25/a3-ex-captive-breeding.mp3",
+  "translocation": "audio/2026-11-25/a3-w-translocation.mp3",
+  "The translocation of fifty rhinos to a protected park took three months.": "audio/2026-11-25/a3-ex-translocation.mp3",
+  "eradicate": "audio/2026-11-25/a3-w-eradicate.mp3",
+  "Health workers hope to eradicate the disease within ten years.": "audio/2026-11-25/a3-ex-eradicate.mp3",
+  "stabilize": "audio/2026-11-25/a3-w-stabilize.mp3",
+  "Doctors worked through the night to stabilize the patient.": "audio/2026-11-25/a3-ex-stabilize.mp3",
+  "triage": "audio/2026-11-25/a3-w-triage.mp3",
+  "After the earthquake, nurses used triage to decide which patients to treat first.": "audio/2026-11-25/a3-ex-triage.mp3",
+  "overstate": "audio/2026-11-25/a3-w-overstate.mp3",
+  "It is easy to overstate the benefits of a new technology before it has been tested.": "audio/2026-11-25/a3-ex-overstate.mp3",
+  "Their conclusion is both hopeful and sobering: species on the brink can recover, but they rarely do so on their own.": "audio/2026-11-25/a3-ks1.mp3",
+  "The contrast in the data is stark.": "audio/2026-11-25/a3-ks2.mp3",
+  "By contrast, legal protection and other indirect measures on their own showed no clear link with recovery.": "audio/2026-11-25/a3-ks3.mp3",
+  "This idea, often called conservation triage, borrows its logic from emergency medicine: when resources are limited, help those most likely to survive.": "audio/2026-11-25/a3-ks4.mp3",
+  "Because the study compares outcomes rather than running a controlled experiment, it cannot prove that intervention caused recovery.": "audio/2026-11-25/a3-ks5.mp3",
+  "For a species down to its last 50, doing nothing is itself a decision, and the study suggests it is usually a fatal one.": "audio/2026-11-25/a3-ks6.mp3"
+ }
+}
