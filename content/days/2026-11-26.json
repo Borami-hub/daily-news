@@ -1,0 +1,2347 @@
+{
+ "date": "2026-11-26",
+ "headline": "Island Treaties, AI Songs and Sharks Without Fins",
+ "teaser": "Can a small nation stay safe without losing its freedom? Should music apps delete songs made by machines? And is half a rule better than none for the ocean's sharks?",
+ "articles": [
+  {
+   "id": "n20261126-1",
+   "topic": "Geography",
+   "title": "A New Security Partner: Solomon Islands Turns to Australia",
+   "dek": "A small Pacific nation has chosen Australia as its main security partner. Has it gained a reliable friend, or swapped one kind of dependence for another?",
+   "sources": [
+    {
+     "name": "ABC News (Australia), 25 Nov 2026",
+     "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550"
+    },
+    {
+     "name": "Associated Press via KSAT, 25 Nov 2026",
+     "url": "https://www.ksat.com/news/world/2026/11/25/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/"
+    },
+    {
+     "name": "ABC News (Australia), 24 Nov 2026",
+     "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976"
+    }
+   ],
+   "paras": [
+    "On Wednesday, in a ceremony at Parliament House in Canberra, the prime ministers of Australia and Solomon Islands signed a treaty that both men described as historic. Under the agreement, Solomon Islands names Australia as its “primary security partner” and promises that no foreign military or security base will be built on its territory. The country of fewer than 900,000 people, spread across hundreds of islands about 2,000 kilometres northeast of Australia, rarely makes world headlines. This week, however, it found itself at the centre of a quiet but intense competition for influence in the Pacific.",
+    "To understand why the treaty matters, it helps to go back to 2022. That year, the government of then-prime minister Manasseh Sogavare signed a security pact with China that allowed Chinese police training teams to work in the country. Today, roughly two dozen Chinese officers are present at any one time. The deal alarmed Canberra and Washington, which feared it could one day open the door to a Chinese naval presence close to Australia's shores. Australia's foreign minister, Penny Wong, has called the pact the country's worst foreign policy blunder in the Pacific since the Second World War.",
+    "The new treaty attempts to reverse that situation. Beyond the ban on foreign bases, Solomon Islands commits to keeping its sensitive infrastructure free from militarisation and foreign interference, and it agrees to consult Australia on matters of national security. It also accepts that security assistance should come first from members of the Pacific Islands Forum, the region's main political body, with outside partners called in only for needs those members cannot meet. In return, Australia has pledged a package that the ABC reports is worth about A$740 million, most of it in grants, to support free education, infrastructure, the national budget and the police. Australia will also open new work pathways in sectors such as aged care and childcare.",
+    "Notably, the treaty does not explicitly forbid cooperation with China, and Prime Minister Matthew Wale, who took office in May, has been careful with his words. Media reports say his government has told Beijing that the 2022 pact will not be renewed when its five-year term ends in 2027, but Wale declined to confirm this, pointing to a confidentiality clause in the agreement. China's foreign ministry responded that its cooperation with Pacific nations is not aimed at any third party and involves no geopolitical rivalry.",
+    "Supporters see the treaty as a sensible choice for a small nation. Australia is the closest large neighbour and the biggest aid donor in the region, and, in their view, a more predictable partner. Wale himself suggested that under the previous government his country had become a source of uncertainty and doubt for its neighbours, and that the treaty helps restore trust. Oliver Nobetau of the Lowy Institute, an Australian think tank, called the deal a “massive win” for Canberra, which has already signed similar agreements with Fiji, Tuvalu, Vanuatu and Papua New Guinea.",
+    "Critics, however, see a different picture. Sogavare, now leader of the opposition, warned that abandoning the China pact could damage valuable development ties with Beijing and accused Wale of “dancing to Australia's tune.” Some opposition figures describe the money flowing to constituency funds controlled by members of parliament as “chequebook diplomacy,” suggesting that loyalty is being bought rather than earned. Even observers who welcome the treaty raise questions: Nobetau asked what exactly Australia had offered in exchange, and others argue that Australia's reputation will depend on whether the promised money and support are actually delivered.",
+    "The deeper question is whether small states can benefit from great-power competition without becoming its victims. For years, Pacific leaders have argued that their most urgent security threat is not a foreign army but climate change, rising seas and fragile economies. A treaty that brings schools, jobs and police training may serve those goals, even if its main purpose in Canberra is strategic. Yet when a country promises to consult one partner on its security choices, it also gives up a degree of freedom. Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now."
+   ],
+   "words": [
+    {
+     "w": "treaty",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈtriːti/",
+     "syl": [
+      "trea",
+      "ty"
+     ],
+     "def": "a formal written agreement between two or more countries",
+     "ex": "The two countries signed a treaty to protect the river they share."
+    },
+    {
+     "w": "pact",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/pækt/",
+     "syl": [
+      "pact"
+     ],
+     "def": "a formal agreement between groups or countries to help each other or act in a certain way",
+     "ex": "The neighbouring towns made a pact to share one fire station."
+    },
+    {
+     "w": "infrastructure",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+     "syl": [
+      "in",
+      "fra",
+      "struc",
+      "ture"
+     ],
+     "def": "the basic systems a country needs to work, such as roads, ports, power and communication networks",
+     "ex": "Heavy rain exposed how weak the city's infrastructure had become."
+    },
+    {
+     "w": "militarisation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌmɪlɪtərəˈzeɪʃn/",
+     "syl": [
+      "mil",
+      "i",
+      "ta",
+      "ri",
+      "sa",
+      "tion"
+     ],
+     "def": "the process of using a place or thing for military purposes",
+     "ex": "Scientists warned that the militarisation of space could threaten research satellites."
+    },
+    {
+     "w": "pledge",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/plɛdʒ/",
+     "syl": [
+      "pledge"
+     ],
+     "def": "to make a formal promise to give or do something",
+     "ex": "Several companies pledge to cut their emissions in half by 2035."
+    },
+    {
+     "w": "renew",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/rɪˈnuː/",
+     "syl": [
+      "re",
+      "new"
+     ],
+     "def": "to make an agreement, licence or contract continue for a further period",
+     "ex": "You must renew your library card every two years."
+    },
+    {
+     "w": "consult",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/kənˈsʌlt/",
+     "syl": [
+      "con",
+      "sult"
+     ],
+     "def": "to discuss something with someone before making a decision",
+     "ex": "The school promised to consult parents before changing the timetable."
+    },
+    {
+     "w": "rivalry",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈraɪvəlri/",
+     "syl": [
+      "ri",
+      "val",
+      "ry"
+     ],
+     "def": "a situation in which people or countries compete for the same thing",
+     "ex": "The rivalry between the two football clubs is more than a century old."
+    },
+    {
+     "w": "dependence",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/dɪˈpɛndəns/",
+     "syl": [
+      "de",
+      "pen",
+      "dence"
+     ],
+     "def": "the state of needing someone or something in order to survive or succeed",
+     "ex": "The island hopes to reduce its dependence on imported fuel."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “pledged” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "left as security for a loan",
+      "formally promised",
+      "quietly requested",
+      "publicly estimated"
+     ],
+     "a": 1,
+     "evidence": "Australia has pledged a package that the ABC reports is worth about A$740 million",
+     "why": "“Pledged” is used for what Australia gives “in return” for the treaty commitments, so it means formally promised to give.",
+     "optWhy": [
+      "Wrong: another meaning of the word. “Pledge” can mean leaving an object as security for a loan, but here Australia is offering a package, not borrowing money.",
+      "Correct. “Australia has pledged a package” = Australia formally promised a package of support “in return” for the treaty commitments.",
+      "Wrong: reversed roles. Australia is giving the money, not asking for it; the text says “In return, Australia has pledged a package.”",
+      "Wrong: detail confused. The estimate (“the ABC reports is worth about A$740 million”) comes from the ABC; “pledged” describes Australia's promise, not a calculation."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "In return, Australia has pledged a package that the ABC reports is worth about A$740 million, most of it in grants, to support free education, infrastructure, the national budget and the police.",
+       "hl": "Australia has pledged a package"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate “pledged” near the end of paragraph 3, after “In return”."
+      },
+      {
+       "t": "Use the context",
+       "x": "“In return” shows Australia is giving something back for the commitments listed earlier."
+      },
+      {
+       "t": "Rule out other meanings",
+       "x": "The loan-security meaning of “pledge” does not fit, because Australia is giving, not borrowing."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why did the 2022 pact worry Canberra and Washington?",
+     "opts": [
+      "It immediately placed Chinese soldiers on several islands.",
+      "It cancelled Australia's existing aid programmes.",
+      "It was signed without the approval of parliament.",
+      "It might eventually allow a Chinese naval presence nearby."
+     ],
+     "a": 3,
+     "evidence": "feared it could one day open the door to a Chinese naval presence close to Australia's shores",
+     "why": "Paragraph 2 says Canberra and Washington feared the pact “could one day open the door to a Chinese naval presence close to Australia's shores.”",
+     "optWhy": [
+      "Wrong: detail changed. The pact brought “Chinese police training teams,” not soldiers, and the naval presence was only a fear about the future (“could one day”).",
+      "Wrong: not mentioned. Paragraph 2 says nothing about Australian aid being cancelled.",
+      "Wrong: not mentioned. The text does not discuss how the pact was approved inside Solomon Islands.",
+      "Correct. “could one day open the door to a Chinese naval presence close to Australia's shores” = might eventually allow a Chinese naval presence nearby."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "The deal alarmed Canberra and Washington, which feared it could one day open the door to a Chinese naval presence close to Australia's shores.",
+       "hl": "open the door to a Chinese naval presence"
+      },
+      {
+       "para": 2,
+       "text": "That year, the government of then-prime minister Manasseh Sogavare signed a security pact with China that allowed Chinese police training teams to work in the country.",
+       "hl": "Chinese police training teams"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the reaction",
+       "x": "Look for “alarmed Canberra and Washington” in paragraph 2."
+      },
+      {
+       "t": "Read the reason",
+       "x": "The clause after “which feared” gives the reason: a possible future naval presence."
+      },
+      {
+       "t": "Check the details",
+       "x": "Rule out “soldiers”: the text says police trainers, and the naval fear is about “one day”."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are commitments Solomon Islands makes in the treaty EXCEPT",
+     "opts": [
+      "ending all of its cooperation with China",
+      "keeping sensitive infrastructure free from militarisation",
+      "turning first to Pacific Islands Forum members for security help",
+      "consulting Australia on national security matters"
+     ],
+     "a": 0,
+     "evidence": "Solomon Islands commits to keeping its sensitive infrastructure free from militarisation and foreign interference",
+     "why": "Options B, C and D are all listed in paragraph 3. Paragraph 4 states that “the treaty does not explicitly forbid cooperation with China,” so A is not a commitment.",
+     "optWhy": [
+      "Correct. This is NOT a commitment: paragraph 4 says “the treaty does not explicitly forbid cooperation with China.”",
+      "Wrong: this IS stated. “commits to keeping its sensitive infrastructure free from militarisation” (paragraph 3).",
+      "Wrong: this IS stated. “security assistance should come first from members of the Pacific Islands Forum” (paragraph 3).",
+      "Wrong: this IS stated. “it agrees to consult Australia on matters of national security” (paragraph 3)."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Beyond the ban on foreign bases, Solomon Islands commits to keeping its sensitive infrastructure free from militarisation and foreign interference, and it agrees to consult Australia on matters of national security.",
+       "hl": "agrees to consult Australia on matters of national security"
+      },
+      {
+       "para": 3,
+       "text": "It also accepts that security assistance should come first from members of the Pacific Islands Forum, the region's main political body, with outside partners called in only for needs those members cannot meet.",
+       "hl": "should come first from members of the Pacific Islands Forum"
+      },
+      {
+       "para": 4,
+       "text": "Notably, the treaty does not explicitly forbid cooperation with China, and Prime Minister Matthew Wale, who took office in May, has been careful with his words.",
+       "hl": "does not explicitly forbid cooperation with China"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the commitments",
+       "x": "Paragraph 3 lists three things: infrastructure, consulting Australia, and the Pacific Islands Forum first."
+      },
+      {
+       "t": "Match each option",
+       "x": "Tick B, C and D against those three commitments."
+      },
+      {
+       "t": "Check the odd one out",
+       "x": "Paragraph 4 says the treaty does not forbid cooperation with China, so A is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about Prime Minister Wale?",
+     "opts": [
+      "He has openly announced that the China pact is over.",
+      "He intends to renew the China pact in 2027.",
+      "He is avoiding a public statement on the China pact's future.",
+      "He did not know about the media reports on the pact."
+     ],
+     "a": 2,
+     "evidence": "Wale declined to confirm this, pointing to a confidentiality clause in the agreement",
+     "why": "Wale “has been careful with his words” and “declined to confirm” the reports, so he is avoiding a public statement on the pact.",
+     "optWhy": [
+      "Wrong: contradicts the text. It was “media reports,” not Wale, that said the pact would end, and he “declined to confirm this.”",
+      "Wrong: not supported. Reports say the pact “will not be renewed,” and nothing suggests Wale wants to renew it.",
+      "Correct. “has been careful with his words” and “declined to confirm this” = he is avoiding a public statement on the pact's future.",
+      "Wrong: not supported. He responded to the reports by citing “a confidentiality clause,” so he clearly knew about them."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Media reports say his government has told Beijing that the 2022 pact will not be renewed when its five-year term ends in 2027, but Wale declined to confirm this, pointing to a confidentiality clause in the agreement.",
+       "hl": "Wale declined to confirm this"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Wale",
+       "x": "Paragraph 4 describes how Wale reacted to the media reports."
+      },
+      {
+       "t": "Read the signals",
+       "x": "“careful with his words” and “declined to confirm” both point to caution."
+      },
+      {
+       "t": "Avoid over-reading",
+       "x": "The text does not say he announced the end or wants renewal; choose the cautious option."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention Fiji, Tuvalu, Vanuatu and Papua New Guinea in paragraph 5?",
+     "opts": [
+      "To show that the treaty fits a pattern of similar Australian deals",
+      "To name Pacific countries that also have security pacts with China",
+      "To suggest that these countries opposed the new treaty",
+      "To compare the populations of different Pacific nations"
+     ],
+     "a": 0,
+     "evidence": "which has already signed similar agreements with Fiji, Tuvalu, Vanuatu and Papua New Guinea",
+     "why": "The countries are introduced with “has already signed similar agreements,” showing that the treaty is part of a wider Australian pattern in the region.",
+     "optWhy": [
+      "Correct. “has already signed similar agreements with Fiji, Tuvalu, Vanuatu and Papua New Guinea” = the treaty fits a pattern of Australian deals.",
+      "Wrong: detail swapped. The agreements mentioned are with Australia (“Canberra”), not with China.",
+      "Wrong: not mentioned. Nothing in paragraph 5 says these countries reacted to the treaty at all.",
+      "Wrong: not the purpose. Population is mentioned only for Solomon Islands in paragraph 1, not for these four countries."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Oliver Nobetau of the Lowy Institute, an Australian think tank, called the deal a “massive win” for Canberra, which has already signed similar agreements with Fiji, Tuvalu, Vanuatu and Papua New Guinea.",
+       "hl": "has already signed similar agreements"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "The four countries appear in the last sentence of paragraph 5."
+      },
+      {
+       "t": "Read the frame",
+       "x": "“has already signed similar agreements” tells you why they are listed."
+      },
+      {
+       "t": "Ask what it proves",
+       "x": "It shows a pattern in Australia's Pacific policy, which supports the supporters' view."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Solomon Islands has clearly swapped its reliance on China for reliance on Australia.",
+      "In the coming years, Solomon Islands will become free of all its foreign partners.",
+      "Australia has proved to be a dependable friend, as the coming years will show.",
+      "Only time will show if the country found a trustworthy ally or just a new reliance."
+     ],
+     "a": 3,
+     "evidence": "Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.",
+     "highlight": "Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.",
+     "why": "The sentence presents two possibilities (a reliable friend or a new dependence) and says the answer will only be known in the future. Only D keeps both parts.",
+     "optWhy": [
+      "Wrong: too certain. The original says this “may only become clear years from now”; it does not say it has clearly happened.",
+      "Wrong: meaning changed. The sentence is about which kind of partnership the country has, not about leaving all partners.",
+      "Wrong: one side only. It keeps “reliable friend” but drops the other possibility, “exchanged one form of dependence for another.”",
+      "Correct. “may only become clear years from now” = only time will show; “a reliable friend or … one form of dependence for another” = a trustworthy ally or just a new reliance."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.",
+       "hl": "may only become clear years from now"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: two possibilities (reliable friend / new dependence). Part 2: the answer comes years later."
+      },
+      {
+       "t": "Check each option",
+       "x": "Keep only options that include both possibilities and the uncertainty about time."
+      },
+      {
+       "t": "Reject certainty",
+       "x": "Options that say something has “clearly” happened or “has proved” change the meaning."
+      }
+     ]
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "This week, however, it found itself at the centre of a quiet but intense competition for influence in the Pacific.",
+     "kind": "Main idea",
+     "note": "The last sentence of paragraph 1 states the big theme: competition for influence. TOEFL main-idea answers often come from a paragraph's final sentence after “however.”"
+    },
+    {
+     "para": 2,
+     "text": "The deal alarmed Canberra and Washington, which feared it could one day open the door to a Chinese naval presence close to Australia's shores.",
+     "kind": "Cause → effect",
+     "note": "This explains why the 2022 pact caused concern. Notice the hedging (“could one day”): the fear is about a possible future, not a fact."
+    },
+    {
+     "para": 3,
+     "text": "The new treaty attempts to reverse that situation.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence that links back to paragraph 2 (“that situation”). The rest of the paragraph lists what the treaty does."
+    },
+    {
+     "para": 4,
+     "text": "Notably, the treaty does not explicitly forbid cooperation with China, and Prime Minister Matthew Wale, who took office in May, has been careful with his words.",
+     "kind": "Key details",
+     "note": "This detail is often used to build a wrong answer: the treaty limits bases but does not ban cooperation with China."
+    },
+    {
+     "para": 6,
+     "text": "Critics, however, see a different picture.",
+     "kind": "Topic sentence",
+     "note": "“However” signals the switch from supporters (paragraph 5) to critics. Tracking these signals helps with summary questions."
+    },
+    {
+     "para": 7,
+     "text": "Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.",
+     "kind": "Author's view",
+     "note": "The author ends with an open question rather than a verdict. Inference questions may test whether you notice this uncertainty."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261126-1-k1",
+     "tag": "The treaty",
+     "fact": "Solomon Islands named Australia its “primary security partner” and promised no foreign military or security base.",
+     "q": "What did Solomon Islands promise about foreign bases?",
+     "opts": [
+      "None will be allowed",
+      "Only Chinese bases are allowed",
+      "Bases need a vote"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261126-1-k2",
+     "tag": "Background",
+     "fact": "In 2022, Solomon Islands signed a security pact with China that brought Chinese police training teams.",
+     "q": "Who came to Solomon Islands under the 2022 pact?",
+     "opts": [
+      "Chinese navy ships",
+      "Chinese police training teams",
+      "Australian soldiers"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-1-k3",
+     "tag": "Money",
+     "fact": "Australia pledged a package worth about A$740 million, mostly grants, for education, infrastructure, the budget and police.",
+     "q": "About how much is Australia's package worth?",
+     "opts": [
+      "A$74 million",
+      "A$740 million",
+      "A$7.4 billion"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-1-k4",
+     "tag": "China pact",
+     "fact": "Reports say the China pact will not be renewed in 2027, but Wale declined to confirm this.",
+     "q": "How did Wale respond to reports about the China pact?",
+     "opts": [
+      "He confirmed them",
+      "He denied them",
+      "He declined to confirm them"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261126-1-k5",
+     "tag": "Critics",
+     "fact": "Opposition leader Sogavare accused Wale of “dancing to Australia's tune.”",
+     "q": "Who accused Wale of “dancing to Australia's tune”?",
+     "opts": [
+      "Penny Wong",
+      "Manasseh Sogavare",
+      "Oliver Nobetau"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Solomon Islands treaty",
+    "question": "Reliable friend or new dependence?",
+    "branches": [
+     {
+      "title": "The deal",
+      "paras": "1, 3",
+      "blanks": [
+       "primary security partner",
+       "no foreign military base"
+      ],
+      "kps": [
+       "n20261126-1-k1",
+       "n20261126-1-k3"
+      ]
+     },
+     {
+      "title": "Background",
+      "paras": "2, 4",
+      "blanks": [
+       "2022 pact with China",
+       "Chinese police training teams"
+      ],
+      "kps": [
+       "n20261126-1-k2",
+       "n20261126-1-k4"
+      ]
+     },
+     {
+      "title": "Supporters",
+      "paras": "5",
+      "blanks": [
+       "a more predictable partner"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Critics",
+      "paras": "6–7",
+      "blanks": [
+       "chequebook diplomacy",
+       "gives up some freedom"
+      ],
+      "kps": [
+       "n20261126-1-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "Australian navy base on Guadalcanal",
+     "treaty bans all ties with China"
+    ]
+   },
+   "summary": {
+    "intro": "Solomon Islands has signed a treaty naming Australia as its main security partner, partly reversing a 2022 security pact with China.",
+    "model": "Solomon Islands made Australia its primary security partner and banned foreign bases in return for major aid. Supporters call it a sensible choice; however, critics fear lost ties with China and new dependence, so its value remains uncertain.",
+    "options": [
+     {
+      "t": "The treaty bans foreign bases and makes Australia the islands' first security partner in exchange for a large support package.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "In return, Australia has pledged a package"
+     },
+     {
+      "t": "Supporters see Australia as a closer, more predictable partner, while critics warn of damaged ties with China and bought loyalty.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Critics, however, see a different picture."
+     },
+     {
+      "t": "It is still unclear whether the country has gained a reliable friend or a new form of dependence.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "may only become clear years from now"
+     },
+     {
+      "t": "About two dozen Chinese police officers are in the country at any one time.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "roughly two dozen Chinese officers are present at any one time"
+     },
+     {
+      "t": "Australia plans to build a naval base in Solomon Islands to replace China's influence.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The treaty explicitly forbids Solomon Islands from cooperating with China.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "the treaty does not explicitly forbid cooperation with China"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe a country should accept help from whichever foreign partner offers the most money. Others think it should choose partners based on shared values and long-term trust. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Choose one side; give two reasons (trust, delivery, independence, money); add an example; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Patel: This week, Solomon Islands signed a treaty naming Australia as its main security partner, in exchange for about A$740 million in support. Some people think small countries should choose one strong partner for safety. Others believe they should stay neutral and work with every power. Which approach do you think is better for a small nation, and why?\nMia: “I think choosing one partner is wiser. A clear partnership brings real money for schools and police, and neighbours know where the country stands. Trying to please everyone often means no one fully trusts you.”\nLeo: “I disagree. If a small nation depends on one partner, it loses bargaining power. Staying neutral lets it accept help from many sides and keep control over its own decisions.”",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Mia or Leo and add a new reason.",
+     "Support it with a fact from the article (A$740 million, no foreign bases, the 2022 China pact).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  },
+  {
+   "id": "n20261126-2",
+   "topic": "Technology",
+   "title": "Drowning in “AI Slop”: A Music App Decides to Delete Millions of Songs",
+   "dek": "One streaming service is removing songs made entirely by AI. Is a ban the best way to protect human musicians, or will it be impossible to draw the line?",
+   "sources": [
+    {
+     "name": "TechCrunch, 24 Nov 2026",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+     "name": "TechCrunch, 29 Jun 2026 (background)",
+     "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+    },
+    {
+     "name": "Complex (background on Spotify)",
+     "url": "https://www.complex.com/music/a/tracewilliamcowen/spotify-removes-50-million-ai-tracks"
+    }
+   ],
+   "paras": [
+    "Imagine opening a music app and discovering that almost half of the newest songs were not written, played or sung by any human being. According to the streaming service TIDAL, that is roughly the situation it now faces. On Tuesday, the company announced that, starting on 9 December, it will begin removing music made entirely by artificial intelligence from its catalogue and will refuse to accept any more of it. Songs that musicians create with the help of AI tools will still be welcome; only tracks that are 100 percent machine-made will be banned.",
+    "The numbers behind the decision are striking. TIDAL says that more than 43 percent of the tracks uploaded to the service over the past 90 days were identified as fully AI-generated. In total, about 27 million such tracks, or 6.3 percent of its entire catalogue, now sit on the platform, and roughly 96 percent of them have never been streamed even once. Critics have a name for this flood of cheap, mass-produced content: “AI slop.” Because modern AI tools can produce a complete song in seconds, a single uploader can release thousands of tracks, hoping that a few will earn small payments or slip into automated playlists.",
+    "TIDAL's new rule is a sharp escalation of its earlier approach. In June, the company stopped paying royalties for fully AI-generated tracks and began marking them with an “AI” label, a policy that took effect in July. Yet the uploads kept coming. Robert Anderson, who leads TIDAL's music team, said the earlier step had not been enough and that “something more drastic needs to be done.” Under the new system, distributors, the companies that deliver music to streaming services, will no longer be allowed to send fully AI-made songs, and any submission whose information shows it was created entirely by AI will be rejected.",
+    "Supporters argue that the ban protects both listeners and human artists. When millions of near-identical tracks crowd a catalogue, they say, genuine music becomes harder to discover, and new musicians, who already struggle for attention, are pushed even further out of sight. TIDAL itself acknowledged that not every song catches on immediately and that artists need time to build an audience; the problem, it argued, is that at this scale authentic work is simply buried. From this perspective, a clear rule is fairer than an endless contest between spammers and detection software.",
+    "Other companies, however, have chosen different paths, which shows that the right response is far from obvious. Bandcamp, a platform popular with independent musicians, banned AI-generated music outright in January. Spotify and YouTube Music, by contrast, have preferred to label AI music rather than remove it, leaving listeners to decide what they want to hear. Meanwhile, the music industry is also exploring AI as a business opportunity: an estimate by the investment bank Goldman Sachs suggests that licensing music for AI could increase record-label revenue by about 10 percent by 2035.",
+    "The ban also raises difficult practical questions. Where exactly is the line between a song that is assisted by AI and one that is generated by it? A producer might use AI to suggest a melody, clean up a recording or create a backing track; at what point does the human contribution become too small to count? Detection tools can make mistakes, and labels that depend on uploaders honestly describing their own work can be gamed. A system that is too strict risks punishing real artists, while one that is too loose may change very little.",
+    "In the end, TIDAL's decision is less about technology than about values. It asks what a music platform is for: a neutral warehouse that stores anything anyone uploads, or a curated space that promises listeners human creativity. As AI tools improve, every streaming service will have to answer that question, and the answers they choose may shape not only what we hear but also whether making music remains a realistic career for the next generation of artists."
+   ],
+   "words": [
+    {
+     "w": "catalogue",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkætəlɔːɡ/",
+     "syl": [
+      "cat",
+      "a",
+      "logue"
+     ],
+     "def": "a complete collection or list of items, such as all the songs a service offers",
+     "ex": "The library's online catalogue lists every book it owns."
+    },
+    {
+     "w": "escalation",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˌɛskəˈleɪʃn/",
+     "syl": [
+      "es",
+      "ca",
+      "la",
+      "tion"
+     ],
+     "def": "a sudden increase in the seriousness or strength of an action",
+     "ex": "The teachers' strike was an escalation of their earlier protests."
+    },
+    {
+     "w": "royalty",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈrɔɪəlti/",
+     "syl": [
+      "roy",
+      "al",
+      "ty"
+     ],
+     "def": "a payment made to a creator each time their work is sold, played or used",
+     "ex": "The songwriter receives a small royalty every time her song is played on the radio."
+    },
+    {
+     "w": "distributor",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/dɪˈstrɪbjətər/",
+     "syl": [
+      "dis",
+      "trib",
+      "u",
+      "tor"
+     ],
+     "def": "a company that supplies products, such as music or films, to shops or platforms",
+     "ex": "The film found a distributor only after it won a festival prize."
+    },
+    {
+     "w": "curate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/kjʊˈreɪt/",
+     "syl": [
+      "cu",
+      "rate"
+     ],
+     "def": "to carefully choose and organize items for people to see, read or hear",
+     "ex": "Two students curate the school's weekly playlist."
+    },
+    {
+     "w": "authentic",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɔːˈθɛntɪk/",
+     "syl": [
+      "au",
+      "then",
+      "tic"
+     ],
+     "def": "real and genuine, not copied or fake",
+     "ex": "The museum confirmed that the painting is authentic."
+    },
+    {
+     "w": "detection",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/dɪˈtɛkʃn/",
+     "syl": [
+      "de",
+      "tec",
+      "tion"
+     ],
+     "def": "the act of noticing or discovering something that is hidden or hard to see",
+     "ex": "Early detection of the disease makes treatment much easier."
+    },
+    {
+     "w": "acknowledge",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/əkˈnɑːlɪdʒ/",
+     "syl": [
+      "ac",
+      "knowl",
+      "edge"
+     ],
+     "def": "to accept or admit that something is true",
+     "ex": "The coach was willing to acknowledge that the team had played badly."
+    },
+    {
+     "w": "revenue",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈrɛvənuː/",
+     "syl": [
+      "rev",
+      "e",
+      "nue"
+     ],
+     "def": "the money that a company or government receives",
+     "ex": "The museum's revenue doubled after it opened a café."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 7,
+     "q": "The word “curated” in paragraph 7 is closest in meaning to",
+     "opts": [
+      "protected by copyright law",
+      "funded by paying subscribers",
+      "carefully selected",
+      "run by a church official"
+     ],
+     "a": 2,
+     "evidence": "a curated space that promises listeners human creativity",
+     "why": "“Curated” is contrasted with “a neutral warehouse that stores anything anyone uploads,” so it means carefully selected rather than accepting everything.",
+     "optWhy": [
+      "Wrong: not the meaning in context. Copyright is never discussed; the contrast is with a warehouse that “stores anything anyone uploads.”",
+      "Wrong: not the meaning in context. Paragraph 7 is about what a platform chooses to include, not how it is paid for.",
+      "Correct. “a curated space” is the opposite of a place that “stores anything anyone uploads,” so it = carefully selected.",
+      "Wrong: another meaning of the word. As a noun, a “curate” is a church official, but here “curated” describes a space whose content is chosen."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "It asks what a music platform is for: a neutral warehouse that stores anything anyone uploads, or a curated space that promises listeners human creativity.",
+       "hl": "a curated space"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "“curated” appears in the second sentence of paragraph 7."
+      },
+      {
+       "t": "Use the contrast",
+       "x": "The word “or” sets it against “a neutral warehouse that stores anything anyone uploads.”"
+      },
+      {
+       "t": "Choose the opposite idea",
+       "x": "If a warehouse accepts everything, a curated space chooses carefully."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, which of the following is true of the fully AI-generated tracks on TIDAL?",
+     "opts": [
+      "Nearly all of them have never been played.",
+      "They make up almost half of the whole catalogue.",
+      "They earn most of the company's income.",
+      "Most were uploaded by major record labels."
+     ],
+     "a": 0,
+     "evidence": "roughly 96 percent of them have never been streamed even once",
+     "why": "Paragraph 2 says “roughly 96 percent of them have never been streamed even once,” which means nearly all have never been played.",
+     "optWhy": [
+      "Correct. “roughly 96 percent of them have never been streamed even once” = nearly all of them have never been played.",
+      "Wrong: numbers swapped. “More than 43 percent” refers to recent uploads; AI tracks are only “6.3 percent of its entire catalogue.”",
+      "Wrong: not mentioned. The paragraph says uploaders hope to earn “small payments,” not that these tracks earn most of TIDAL's income.",
+      "Wrong: not mentioned. The text describes “a single uploader” releasing thousands of tracks, not major record labels."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "In total, about 27 million such tracks, or 6.3 percent of its entire catalogue, now sit on the platform, and roughly 96 percent of them have never been streamed even once.",
+       "hl": "roughly 96 percent of them have never been streamed even once"
+      },
+      {
+       "para": 2,
+       "text": "TIDAL says that more than 43 percent of the tracks uploaded to the service over the past 90 days were identified as fully AI-generated.",
+       "hl": "more than 43 percent of the tracks uploaded"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the numbers",
+       "x": "Paragraph 2 gives three figures: 43 percent, 6.3 percent and 96 percent."
+      },
+      {
+       "t": "Match each figure",
+       "x": "43% = recent uploads; 6.3% = share of the catalogue; 96% = never streamed."
+      },
+      {
+       "t": "Check the option",
+       "x": "Only “nearly all have never been played” matches its figure correctly."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are part of TIDAL's June policy or its new rules EXCEPT",
+     "opts": [
+      "no longer paying royalties for fully AI-made tracks",
+      "marking fully AI-made tracks with an “AI” label",
+      "rejecting submissions shown to be entirely AI-made",
+      "fining distributors that deliver AI-made songs"
+     ],
+     "a": 3,
+     "evidence": "will no longer be allowed to send fully AI-made songs",
+     "why": "Paragraph 3 mentions stopping royalties, adding an AI label, banning distributors from sending such songs and rejecting AI-made submissions. It never mentions fines.",
+     "optWhy": [
+      "Wrong: this IS stated. “the company stopped paying royalties for fully AI-generated tracks.”",
+      "Wrong: this IS stated. It “began marking them with an “AI” label.”",
+      "Wrong: this IS stated. “any submission whose information shows it was created entirely by AI will be rejected.”",
+      "Correct. This is NOT mentioned. Distributors “will no longer be allowed to send” such songs, but nothing is said about fines."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "In June, the company stopped paying royalties for fully AI-generated tracks and began marking them with an “AI” label, a policy that took effect in July.",
+       "hl": "stopped paying royalties"
+      },
+      {
+       "para": 3,
+       "text": "Under the new system, distributors, the companies that deliver music to streaming services, will no longer be allowed to send fully AI-made songs, and any submission whose information shows it was created entirely by AI will be rejected.",
+       "hl": "will no longer be allowed to send fully AI-made songs"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the measures",
+       "x": "Paragraph 3 describes the June steps and the new system."
+      },
+      {
+       "t": "Tick what you find",
+       "x": "Royalties, label and rejection all appear in the text."
+      },
+      {
+       "t": "Spot the extra idea",
+       "x": "A “fine” is a punishment the text never mentions, so D is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about supporters of the ban?",
+     "opts": [
+      "They believe all AI-made music is of poor quality.",
+      "They prefer one clear rule to fighting spam track by track.",
+      "They want new musicians to rely more on AI tools.",
+      "They believe listeners actually prefer AI-made songs."
+     ],
+     "a": 1,
+     "evidence": "a clear rule is fairer than an endless contest between spammers and detection software",
+     "why": "Supporters prefer “a clear rule” to “an endless contest between spammers and detection software,” so they believe a simple ban works better than catching tracks one by one.",
+     "optWhy": [
+      "Wrong: too extreme. Supporters worry about the number of tracks (“millions of near-identical tracks”), not about the quality of every AI song.",
+      "Correct. “a clear rule is fairer than an endless contest between spammers and detection software” = they prefer one clear rule to fighting spam track by track.",
+      "Wrong: not supported. The paragraph says new musicians are “pushed even further out of sight,” not that they should use more AI.",
+      "Wrong: contradicts the text. Supporters say genuine music “becomes harder to discover,” implying listeners want human work."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "From this perspective, a clear rule is fairer than an endless contest between spammers and detection software.",
+       "hl": "a clear rule is fairer than an endless contest"
+      },
+      {
+       "para": 4,
+       "text": "When millions of near-identical tracks crowd a catalogue, they say, genuine music becomes harder to discover, and new musicians, who already struggle for attention, are pushed even further out of sight.",
+       "hl": "genuine music becomes harder to discover"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the supporters",
+       "x": "Paragraph 4 begins “Supporters argue that the ban protects…”."
+      },
+      {
+       "t": "Read the last sentence",
+       "x": "It compares “a clear rule” with “an endless contest” against spammers."
+      },
+      {
+       "t": "Avoid extremes",
+       "x": "Reject options that say “all” AI music is bad or that go beyond the text."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention the estimate by Goldman Sachs in paragraph 5?",
+     "opts": [
+      "To prove that AI-generated music is against the law",
+      "To show that TIDAL's ban will raise its revenue",
+      "To show that the industry also sees AI as a source of profit",
+      "To criticize Spotify for refusing to remove AI music"
+     ],
+     "a": 2,
+     "evidence": "the music industry is also exploring AI as a business opportunity",
+     "why": "The estimate follows the claim that “the music industry is also exploring AI as a business opportunity,” so it shows the industry sees profit in AI, which complicates the debate.",
+     "optWhy": [
+      "Wrong: not mentioned. The paragraph is about business choices; nothing says AI music is illegal.",
+      "Wrong: detail confused. The estimate concerns record labels licensing music for AI, not the effect of TIDAL's ban.",
+      "Correct. “exploring AI as a business opportunity” + “could increase record-label revenue by about 10 percent” = the industry sees AI as a source of profit.",
+      "Wrong: not the purpose. Spotify is mentioned earlier as a contrast (“preferred to label AI music”), not criticized, and the estimate is not about Spotify."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Meanwhile, the music industry is also exploring AI as a business opportunity: an estimate by the investment bank Goldman Sachs suggests that licensing music for AI could increase record-label revenue by about 10 percent by 2035.",
+       "hl": "exploring AI as a business opportunity"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the estimate",
+       "x": "It is in the last sentence of paragraph 5, after a colon."
+      },
+      {
+       "t": "Read before the colon",
+       "x": "The colon introduces evidence for “exploring AI as a business opportunity.”"
+      },
+      {
+       "t": "Name the function",
+       "x": "The estimate supports that claim, showing AI is not only a threat but also a source of income."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Strict systems always punish real artists, so a loose system is the better choice.",
+      "Too strict a system could hurt real musicians; too loose a one might do little.",
+      "Real artists prefer loose systems because strict ones would change very little.",
+      "Both strict and loose systems would greatly change the music industry."
+     ],
+     "a": 1,
+     "evidence": "A system that is too strict risks punishing real artists, while one that is too loose may change very little.",
+     "highlight": "A system that is too strict risks punishing real artists, while one that is too loose may change very little.",
+     "why": "The sentence balances two risks: too strict may hurt real artists; too loose may change little. Only B keeps both risks without adding a conclusion.",
+     "optWhy": [
+      "Wrong: too extreme and adds a conclusion. The original says “risks,” not “always,” and it does not recommend a loose system.",
+      "Correct. “too strict risks punishing real artists” = could hurt real musicians; “too loose may change very little” = might do little.",
+      "Wrong: wrong link. It joins the two halves with “because” and attaches the wrong effect to strict systems.",
+      "Wrong: contradicts the text. The original says a loose system “may change very little.”"
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "A system that is too strict risks punishing real artists, while one that is too loose may change very little.",
+       "hl": "too strict risks punishing real artists"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Half 1: too strict → may punish real artists. Half 2: too loose → may change little."
+      },
+      {
+       "t": "Watch the hedges",
+       "x": "“risks” and “may” show possibility; reject options with “always.”"
+      },
+      {
+       "t": "Keep both halves",
+       "x": "The right answer keeps both risks and adds no new cause or recommendation."
+      }
+     ]
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Songs that musicians create with the help of AI tools will still be welcome; only tracks that are 100 percent machine-made will be banned.",
+     "kind": "Key details",
+     "note": "This sentence sets the exact scope of the ban. Many wrong answers pretend that all AI-assisted music is banned."
+    },
+    {
+     "para": 2,
+     "text": "The numbers behind the decision are striking.",
+     "kind": "Topic sentence",
+     "note": "A short topic sentence that promises statistics. Keep each number linked to what it measures; TOEFL often swaps them."
+    },
+    {
+     "para": 3,
+     "text": "TIDAL's new rule is a sharp escalation of its earlier approach.",
+     "kind": "Main idea",
+     "note": "The paragraph compares the June policy with the new ban. “Escalation” tells you the new rule is stronger."
+    },
+    {
+     "para": 4,
+     "text": "From this perspective, a clear rule is fairer than an endless contest between spammers and detection software.",
+     "kind": "Author's view",
+     "note": "“From this perspective” reports the supporters' opinion, not a proven fact. Notice whose view is being described."
+    },
+    {
+     "para": 6,
+     "text": "A system that is too strict risks punishing real artists, while one that is too loose may change very little.",
+     "kind": "Critical thinking",
+     "note": "A balanced trade-off sentence. “While” joins two contrasting risks, a structure often tested in sentence-simplification questions."
+    },
+    {
+     "para": 7,
+     "text": "In the end, TIDAL's decision is less about technology than about values.",
+     "kind": "Interpretation",
+     "note": "The conclusion reframes the story: the real question is what platforms are for. “Less about X than about Y” stresses Y."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261126-2-k1",
+     "tag": "The ban",
+     "fact": "From 9 December, TIDAL will remove songs made entirely by AI but still accept AI-assisted songs.",
+     "q": "Which songs will TIDAL remove?",
+     "opts": [
+      "All songs that used AI",
+      "Only songs made entirely by AI",
+      "Songs with no streams"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-2-k2",
+     "tag": "Numbers",
+     "fact": "More than 43 percent of TIDAL's uploads in the past 90 days were identified as fully AI-generated.",
+     "q": "What share of recent uploads were fully AI-generated?",
+     "opts": [
+      "About 6 percent",
+      "More than 43 percent",
+      "About 96 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-2-k3",
+     "tag": "Never played",
+     "fact": "About 96 percent of the 27 million AI tracks on TIDAL have never been streamed.",
+     "q": "How many of TIDAL's AI tracks have never been streamed?",
+     "opts": [
+      "About 96 percent",
+      "About half",
+      "About 6 percent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261126-2-k4",
+     "tag": "June policy",
+     "fact": "In June, TIDAL stopped paying royalties for fully AI-made tracks and gave them an “AI” label.",
+     "q": "What did TIDAL do in June?",
+     "opts": [
+      "Banned all AI music",
+      "Stopped paying royalties for fully AI tracks",
+      "Sold its catalogue"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-2-k5",
+     "tag": "Other platforms",
+     "fact": "Bandcamp banned AI music, while Spotify and YouTube Music label it instead of removing it.",
+     "q": "How do Spotify and YouTube Music handle AI music?",
+     "opts": [
+      "They ban it",
+      "They label it",
+      "They pay extra for it"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "TIDAL's AI music ban",
+    "question": "Ban, label, or let listeners choose?",
+    "branches": [
+     {
+      "title": "The decision",
+      "paras": "1, 3",
+      "blanks": [
+       "removal starts 9 December",
+       "AI-assisted songs still welcome"
+      ],
+      "kps": [
+       "n20261126-2-k1",
+       "n20261126-2-k4"
+      ]
+     },
+     {
+      "title": "The numbers",
+      "paras": "2",
+      "blanks": [
+       "43 percent of recent uploads",
+       "96 percent never streamed"
+      ],
+      "kps": [
+       "n20261126-2-k2",
+       "n20261126-2-k3"
+      ]
+     },
+     {
+      "title": "Other approaches",
+      "paras": "5",
+      "blanks": [
+       "label rather than remove"
+      ],
+      "kps": [
+       "n20261126-2-k5"
+      ]
+     },
+     {
+      "title": "Hard questions",
+      "paras": "6–7",
+      "blanks": [
+       "where to draw the line",
+       "warehouse or curated space"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "AI songs earn most royalties",
+     "all AI-assisted music banned"
+    ]
+   },
+   "summary": {
+    "intro": "The streaming service TIDAL will start removing songs made entirely by artificial intelligence from 9 December.",
+    "model": "TIDAL is removing fully AI-made songs because they flood its catalogue and bury human artists. However, other platforms prefer labels, and drawing a line between AI-assisted and AI-generated music is difficult, so the decision is really about values.",
+    "options": [
+     {
+      "t": "TIDAL is banning fully AI-generated songs, a stronger step than its June decision to stop paying royalties for them.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "TIDAL's new rule is a sharp escalation of its earlier approach."
+     },
+     {
+      "t": "Supporters say the flood of AI tracks buries genuine music, but other platforms prefer labelling and some see AI as a business opportunity.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Other companies, however, have chosen different paths"
+     },
+     {
+      "t": "Deciding what counts as AI-generated is hard, so the issue is ultimately about what music platforms are for.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "TIDAL's decision is less about technology than about values"
+     },
+     {
+      "t": "Bandcamp banned AI-generated music outright in January.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "banned AI-generated music outright in January"
+     },
+     {
+      "t": "TIDAL plans to build its own AI tool to help musicians write songs.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "TIDAL will remove every song that was made with any help from AI.",
+      "ok": false,
+      "type": "contra",
+      "para": 1,
+      "evidence": "Songs that musicians create with the help of AI tools will still be welcome"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think art made with the help of AI is just as valuable as art made only by humans. Others believe human-made art should always be treated as special. Which opinion do you agree with? Use specific reasons and examples.",
+    "hint": "Choose one side; give two reasons (effort, meaning, income for artists, creativity); add an example; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Alvarez: This week, the streaming service TIDAL announced it will remove songs made entirely by AI, saying they bury human artists. Other platforms simply label AI music and let listeners decide. Which approach do you think is better for music fans and musicians, and why?\nHana: “I support a ban. When almost half of new uploads are AI-made, real musicians disappear. Labels alone do not help, because most people never check them. A clear rule protects human creativity.”\nOmar: “I prefer labelling. Detection tools make mistakes, so a ban could punish real artists who use AI only a little. Listeners should be free to choose what they enjoy.”",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Hana or Omar and add a new reason.",
+     "Support it with a fact from the article (43 percent of uploads, 96 percent never streamed, labels on Spotify).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_sarah"
+  },
+  {
+   "id": "n20261126-3",
+   "topic": "Animals",
+   "title": "Fins Attached? A Hard-Won Compromise to Protect Atlantic Sharks",
+   "dek": "After 18 failed attempts, Atlantic nations have agreed on new shark finning rules. Is a partial step real progress, or just a new way to delay a stronger ban?",
+   "sources": [
+    {
+     "name": "Down To Earth, 25 Nov 2026",
+     "url": "https://www.downtoearth.org.in/wildlife-biodiversity/atlantic-tuna-commission-agrees-on-shark-finning-rules-maintains-shortfin-mako-retention-ban"
+    },
+    {
+     "name": "Mongabay (via urgent.news), 25 Nov 2026",
+     "url": "https://urgent.news/2026/11/25/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists"
+    },
+    {
+     "name": "Matrix News (Mongabay summary), Nov 2026",
+     "url": "https://web.matrixnews.in/news/fqzt73v3uk2b4/atlantic-fisheries-body-adopts-compromise-shark-finning-rules"
+    }
+   ],
+   "paras": [
+    "For more than two decades, cutting the fins off sharks and throwing the rest of the animal back into the sea has been banned in the Atlantic Ocean, at least on paper. Enforcing that ban, however, has proved remarkably difficult. This week, at the end of the annual meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, governments finally agreed on stronger rules. Many delegations welcomed the result, and the European Union described it as a landmark. Yet several conservation groups say the deal is full of loopholes, and that a better option was blocked.",
+    "Shark finning exists because of a simple economic imbalance. Shark fins, used mainly in soup, sell for far more than shark meat, so some fishers have an incentive to keep only the fins and discard the bodies, which take up valuable space on board. The practice is wasteful and cruel, but it also creates a scientific problem. Once a shark's body is gone, inspectors at the port often cannot tell which species the fins came from, making it much easier to hide catches of protected sharks or to exceed fishing limits.",
+    "Conservationists have long argued that the simplest solution is a rule requiring all sharks to be landed with their fins “naturally attached.” If the fins stay on the body, the animal can be identified, and fishers gain little by throwing carcasses overboard. Such a proposal had been put forward at ICCAT 18 times before and had never passed, largely because of opposition from Japan, whose fleets argue that keeping the fins attached is impractical for sharks that are frozen at sea during long voyages.",
+    "The compromise adopted this year reflects that disagreement. Sharks landed fresh must now keep their fins naturally attached. For frozen sharks, however, countries may use alternative methods, including a Japanese-led option that allows fins to be tied to the body, or removed, tagged and stored in the same hold as the rest of the shark. Other methods involve wires, ropes or tags. Under certain conditions, the rules could lead to a full fins-attached requirement around 2029 or 2030, but critics point out that the alternatives might remain in use for years.",
+    "Reactions were sharply divided. Supporters argue that, after so many failed attempts, a partial step is better than none, and that the agreement proves that progress is still possible in a body that usually makes decisions by consensus. Conservation groups were far less enthusiastic. Nicolas Blanc of the Portuguese group Sciaena said campaigners were “not going to be opening the champagne bottle” until a rule without exceptions is in place. Sonja Fordham of Shark Advocates International warned that the alternatives are overly complicated, largely untested and could even add more debris to the ocean.",
+    "The meeting produced other mixed results. Delegates kept in place a ban on retaining North Atlantic shortfin mako sharks, a fast-swimming species whose numbers have fallen sharply, and rejected a United States proposal to reopen a limited mako fishery. Ali Hood of the Shark Trust welcomed that decision but urged countries to reduce the bycatch of blue sharks, which are often caught by accident on lines set for tuna and swordfish. ICCAT also agreed to look more closely at whether members follow existing rules, after most of them had reported poor data on sharks and, between 2016 and 2024, most had reported no discards at all.",
+    "The story of the Atlantic shark rules illustrates a familiar dilemma in international environmental law. Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water. Sharks, which grow slowly and produce few young, cannot recover quickly from overfishing, so delays have real costs. Whether this year's compromise becomes a stepping stone toward a stronger ban or simply a new way to postpone one will depend on how seriously member countries apply it in the years ahead."
+   ],
+   "words": [
+    {
+     "w": "incentive",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ɪnˈsɛntɪv/",
+     "syl": [
+      "in",
+      "cen",
+      "tive"
+     ],
+     "def": "something that encourages a person to do something, often a reward or advantage",
+     "ex": "Free bus passes give students an incentive to leave their cars at home."
+    },
+    {
+     "w": "discard",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/dɪˈskɑːrd/",
+     "syl": [
+      "dis",
+      "card"
+     ],
+     "def": "to throw something away because it is not wanted",
+     "ex": "Please discard any batteries in the special recycling box."
+    },
+    {
+     "w": "carcass",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkɑːrkəs/",
+     "syl": [
+      "car",
+      "cass"
+     ],
+     "def": "the dead body of an animal",
+     "ex": "Vultures gathered around the carcass of a zebra."
+    },
+    {
+     "w": "enforce",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪnˈfɔːrs/",
+     "syl": [
+      "en",
+      "force"
+     ],
+     "def": "to make sure that people obey a law or rule",
+     "ex": "It is hard to enforce speed limits on empty country roads."
+    },
+    {
+     "w": "compromise",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈkɑːmprəmaɪz/",
+     "syl": [
+      "com",
+      "pro",
+      "mise"
+     ],
+     "def": "an agreement in which each side gives up part of what it wants",
+     "ex": "After hours of debate, the class reached a compromise on the trip date."
+    },
+    {
+     "w": "consensus",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/kənˈsɛnsəs/",
+     "syl": [
+      "con",
+      "sen",
+      "sus"
+     ],
+     "def": "general agreement among all the members of a group",
+     "ex": "There is a scientific consensus that the climate is warming."
+    },
+    {
+     "w": "loophole",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈluːphoʊl/",
+     "syl": [
+      "loop",
+      "hole"
+     ],
+     "def": "a small mistake or gap in a rule that lets people avoid obeying it",
+     "ex": "The company used a loophole to avoid paying the new tax."
+    },
+    {
+     "w": "retain",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/rɪˈteɪn/",
+     "syl": [
+      "re",
+      "tain"
+     ],
+     "def": "to keep something rather than let it go or give it away",
+     "ex": "Fishers must retain records of every catch for three years."
+    },
+    {
+     "w": "bycatch",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈbaɪkætʃ/",
+     "syl": [
+      "by",
+      "catch"
+     ],
+     "def": "fish or other sea animals caught by accident while fishing for a different species",
+     "ex": "New nets have cut the bycatch of dolphins by half."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 4,
+     "q": "The word “hold” in paragraph 4 is closest in meaning to",
+     "opts": [
+      "a firm grip with the hands",
+      "a short delay or pause",
+      "a legal claim to property",
+      "a storage area in a ship"
+     ],
+     "a": 3,
+     "evidence": "stored in the same hold as the rest of the shark",
+     "why": "Fins are “stored in the same hold” as the shark on a fishing vessel, so “hold” is the storage space inside a ship.",
+     "optWhy": [
+      "Wrong: another meaning of the word. “Hold” can mean a grip (“keep a firm hold”), but fins are “stored” in it, so it must be a place.",
+      "Wrong: another meaning of the word. “On hold” means delayed, but here “hold” is a place where fins are “stored.”",
+      "Wrong: not the meaning in context. Nothing in paragraph 4 refers to legal ownership; the sentence is about where fins are kept.",
+      "Correct. “stored in the same hold as the rest of the shark” = kept in the same storage area of the ship."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "For frozen sharks, however, countries may use alternative methods, including a Japanese-led option that allows fins to be tied to the body, or removed, tagged and stored in the same hold as the rest of the shark.",
+       "hl": "stored in the same hold"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "“hold” appears in the third sentence of paragraph 4."
+      },
+      {
+       "t": "Use the verb",
+       "x": "Fins are “stored” in it, so “hold” must be a place."
+      },
+      {
+       "t": "Rule out other meanings",
+       "x": "Grip and delay are real meanings of “hold,” but neither is a place for storage."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why does shark finning make inspectors' work difficult?",
+     "opts": [
+      "Fins rot too quickly to be examined at the port.",
+      "Without the body, it is hard to tell which species was caught.",
+      "Fishers usually refuse to let inspectors on board.",
+      "Shark meat is worth more than the fins to inspectors."
+     ],
+     "a": 1,
+     "evidence": "inspectors at the port often cannot tell which species the fins came from",
+     "why": "Paragraph 2 says that once the body is gone, “inspectors at the port often cannot tell which species the fins came from.”",
+     "optWhy": [
+      "Wrong: not mentioned. The paragraph never says fins rot; the problem is identification.",
+      "Correct. “cannot tell which species the fins came from” = it is hard to tell which species was caught.",
+      "Wrong: not mentioned. Nothing suggests fishers block inspections.",
+      "Wrong: reversed. Fins “sell for far more than shark meat,” and this is about price, not inspectors."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Once a shark's body is gone, inspectors at the port often cannot tell which species the fins came from, making it much easier to hide catches of protected sharks or to exceed fishing limits.",
+       "hl": "cannot tell which species the fins came from"
+      },
+      {
+       "para": 2,
+       "text": "Shark fins, used mainly in soup, sell for far more than shark meat, so some fishers have an incentive to keep only the fins and discard the bodies, which take up valuable space on board.",
+       "hl": "sell for far more than shark meat"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find inspectors",
+       "x": "The word “inspectors” appears in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Read the problem",
+       "x": "Without the body, they “cannot tell which species the fins came from.”"
+      },
+      {
+       "t": "Check reversals",
+       "x": "Fins are worth more than meat, so option D reverses the text."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following methods may be used for frozen sharks EXCEPT",
+     "opts": [
+      "throwing the body overboard after removing the fins",
+      "tying the fins to the shark's body",
+      "removing, tagging and storing fins with the body",
+      "using wires or ropes to keep fins with the shark"
+     ],
+     "a": 0,
+     "evidence": "allows fins to be tied to the body, or removed, tagged and stored in the same hold as the rest of the shark",
+     "why": "Paragraph 4 allows fins to be tied on, removed and stored with the body, or kept with wires, ropes or tags. Every method keeps the fins with the body; discarding the body is never allowed.",
+     "optWhy": [
+      "Correct. This is NOT allowed: every method in paragraph 4 keeps the fins with “the rest of the shark,” and discarding bodies is the practice the rules are meant to stop.",
+      "Wrong: this IS allowed. “allows fins to be tied to the body.”",
+      "Wrong: this IS allowed. Fins may be “removed, tagged and stored in the same hold as the rest of the shark.”",
+      "Wrong: this IS allowed. “Other methods involve wires, ropes or tags.”"
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "For frozen sharks, however, countries may use alternative methods, including a Japanese-led option that allows fins to be tied to the body, or removed, tagged and stored in the same hold as the rest of the shark.",
+       "hl": "tied to the body"
+      },
+      {
+       "para": 4,
+       "text": "Other methods involve wires, ropes or tags.",
+       "hl": "wires, ropes or tags"
+      },
+      {
+       "para": 2,
+       "text": "Shark fins, used mainly in soup, sell for far more than shark meat, so some fishers have an incentive to keep only the fins and discard the bodies, which take up valuable space on board.",
+       "hl": "discard the bodies"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the frozen-shark rules",
+       "x": "Paragraph 4 lists the alternatives after “For frozen sharks, however.”"
+      },
+      {
+       "t": "Tick each method",
+       "x": "Tying, tagging and storing together, wires and ropes are all listed."
+      },
+      {
+       "t": "Spot the forbidden act",
+       "x": "Throwing the body away is finning itself, which the rules try to stop."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about Japan's position?",
+     "opts": [
+      "Japan wants shark finning to become legal again.",
+      "Japan has no fishing fleets in the Atlantic Ocean.",
+      "Its opposition rests partly on how its fleets store sharks.",
+      "Japan was the country that proposed the fins-attached rule 18 times."
+     ],
+     "a": 2,
+     "evidence": "keeping the fins attached is impractical for sharks that are frozen at sea during long voyages",
+     "why": "Japan's fleets argue that keeping fins attached is “impractical for sharks that are frozen at sea,” so its opposition is based partly on practical storage concerns.",
+     "optWhy": [
+      "Wrong: too extreme. Japan opposes one method of enforcement, not the finning ban itself.",
+      "Wrong: contradicts the text. The paragraph refers to Japan's “fleets” and their “long voyages,” so it does have fleets that catch sharks.",
+      "Correct. “impractical for sharks that are frozen at sea during long voyages” = Japan's opposition is based partly on how its fleets store sharks.",
+      "Wrong: detail swapped. The proposal was made 18 times, but Japan opposed it; the text does not say Japan proposed it."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Such a proposal had been put forward at ICCAT 18 times before and had never passed, largely because of opposition from Japan, whose fleets argue that keeping the fins attached is impractical for sharks that are frozen at sea during long voyages.",
+       "hl": "impractical for sharks that are frozen at sea"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find Japan",
+       "x": "Japan is named in the last sentence of paragraph 3."
+      },
+      {
+       "t": "Read its reason",
+       "x": "Its fleets say fins-attached is “impractical” for frozen sharks on long voyages."
+      },
+      {
+       "t": "Infer carefully",
+       "x": "The reason is practical; the text does not say Japan supports finning itself."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 5,
+     "q": "Why does the author mention that the agreement came “after so many failed attempts” in paragraph 5?",
+     "opts": [
+      "To criticize supporters for waiting too long",
+      "To explain why supporters value even a partial step",
+      "To show that ICCAT holds a meeting every year",
+      "To predict that the new rules will also fail"
+     ],
+     "a": 1,
+     "evidence": "after so many failed attempts, a partial step is better than none",
+     "why": "The phrase introduces the supporters' argument: because earlier attempts failed, “a partial step is better than none.”",
+     "optWhy": [
+      "Wrong: not the purpose. The phrase is part of the supporters' own argument, not criticism of them.",
+      "Correct. “after so many failed attempts, a partial step is better than none” = supporters value even a partial step because earlier efforts failed.",
+      "Wrong: true but not the purpose. ICCAT meets yearly (“annual meeting”), but this phrase is about past failures, not the schedule.",
+      "Wrong: not supported. The paragraph presents supporters' hopes; no prediction of failure is made here."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Supporters argue that, after so many failed attempts, a partial step is better than none, and that the agreement proves that progress is still possible in a body that usually makes decisions by consensus.",
+       "hl": "a partial step is better than none"
+      },
+      {
+       "para": 3,
+       "text": "Such a proposal had been put forward at ICCAT 18 times before and had never passed, largely because of opposition from Japan, whose fleets argue that keeping the fins attached is impractical for sharks that are frozen at sea during long voyages.",
+       "hl": "18 times before and had never passed"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the phrase",
+       "x": "It appears in the second sentence of paragraph 5, inside the supporters' argument."
+      },
+      {
+       "t": "Link back",
+       "x": "Paragraph 3 says the proposal had failed 18 times before."
+      },
+      {
+       "t": "Name the function",
+       "x": "Past failures explain why supporters think any step forward is worth having."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Strict rules are easier to apply but harder to approve; flexible ones win support but may do little.",
+      "Flexible rules are easier both to enforce and to agree on, so they are usually more effective at sea.",
+      "Because strict rules are so hard for countries to agree on, they rarely change anything on the water.",
+      "Countries tend to support strict rules more widely, although such rules are harder to enforce."
+     ],
+     "a": 0,
+     "evidence": "Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water.",
+     "highlight": "Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water.",
+     "why": "The sentence contrasts two kinds of rules, each with one strength and one weakness. Only A keeps all four parts.",
+     "optWhy": [
+      "Correct. “easier to enforce but harder to agree on” = easier to apply but harder to approve; “win broad support but may change little” = win support but may do little.",
+      "Wrong: detail swapped. It gives flexible rules the strength of strict rules (“easier to enforce”) and adds a conclusion not in the text.",
+      "Wrong: wrong link. Little change on the water is a weakness of flexible rules, not strict ones.",
+      "Wrong: reversed. In the original, flexible rules win broad support and strict rules are easier to enforce."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water.",
+       "hl": "Strict rules are easier to enforce but harder to agree on"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Map the sentence",
+       "x": "Strict: easy to enforce / hard to agree. Flexible: broad support / little change."
+      },
+      {
+       "t": "Check each pairing",
+       "x": "Make sure each strength and weakness stays with the right type of rule."
+      },
+      {
+       "t": "Reject reversals",
+       "x": "Options that swap the pairs or add a conclusion change the meaning."
+      }
+     ]
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Enforcing that ban, however, has proved remarkably difficult.",
+     "kind": "Topic sentence",
+     "note": "This sentence sets up the problem the whole article explores: a rule existed, but enforcement failed."
+    },
+    {
+     "para": 2,
+     "text": "Shark finning exists because of a simple economic imbalance.",
+     "kind": "Cause → effect",
+     "note": "A clear cause statement. The rest of the paragraph explains the effect: fishers keep fins and discard bodies."
+    },
+    {
+     "para": 3,
+     "text": "Conservationists have long argued that the simplest solution is a rule requiring all sharks to be landed with their fins “naturally attached.”",
+     "kind": "Main idea",
+     "note": "This is the solution the article measures everything against. Questions often ask why this rule helps identification."
+    },
+    {
+     "para": 4,
+     "text": "The compromise adopted this year reflects that disagreement.",
+     "kind": "Topic sentence",
+     "note": "“That disagreement” refers back to paragraph 3. Linking words like this help you follow the argument across paragraphs."
+    },
+    {
+     "para": 5,
+     "text": "Reactions were sharply divided.",
+     "kind": "Topic sentence",
+     "note": "A short sentence that signals two sides will follow: supporters and conservation groups."
+    },
+    {
+     "para": 7,
+     "text": "Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water.",
+     "kind": "Critical thinking",
+     "note": "The general lesson of the article. Its balanced structure (but … while … but) is typical of sentence-simplification questions."
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261126-3-k1",
+     "tag": "The meeting",
+     "fact": "ICCAT's annual meeting in Vilamoura, Portugal, agreed on new shark finning rules.",
+     "q": "Where was the ICCAT meeting held?",
+     "opts": [
+      "Vilamoura, Portugal",
+      "Tokyo, Japan",
+      "Brussels, Belgium"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261126-3-k2",
+     "tag": "Why finning",
+     "fact": "Shark fins sell for far more than shark meat, so some fishers keep the fins and discard the bodies.",
+     "q": "Why do some fishers discard shark bodies?",
+     "opts": [
+      "The meat is poisonous",
+      "Fins are worth far more than meat",
+      "The law requires it"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-3-k3",
+     "tag": "Past attempts",
+     "fact": "A fins-naturally-attached rule had been proposed 18 times at ICCAT and never passed.",
+     "q": "How many times had the fins-attached rule failed before?",
+     "opts": [
+      "3 times",
+      "8 times",
+      "18 times"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261126-3-k4",
+     "tag": "New rule",
+     "fact": "Fresh sharks must keep fins naturally attached; frozen sharks may use alternative methods.",
+     "q": "Which sharks may use alternative methods?",
+     "opts": [
+      "Fresh sharks",
+      "Frozen sharks",
+      "Mako sharks"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261126-3-k5",
+     "tag": "Mako",
+     "fact": "ICCAT kept the ban on retaining North Atlantic shortfin mako sharks and rejected a US proposal to reopen fishing.",
+     "q": "What happened to the US proposal on mako sharks?",
+     "opts": [
+      "It was accepted",
+      "It was rejected",
+      "It was delayed"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Atlantic shark finning rules",
+    "question": "Real progress or a new delay?",
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1–2",
+      "blanks": [
+       "fins worth more than meat",
+       "species hard to identify"
+      ],
+      "kps": [
+       "n20261126-3-k2"
+      ]
+     },
+     {
+      "title": "The solution",
+      "paras": "3",
+      "blanks": [
+       "fins naturally attached",
+       "failed 18 times"
+      ],
+      "kps": [
+       "n20261126-3-k3"
+      ]
+     },
+     {
+      "title": "The compromise",
+      "paras": "4–5",
+      "blanks": [
+       "exceptions for frozen sharks",
+       "not opening the champagne"
+      ],
+      "kps": [
+       "n20261126-3-k1",
+       "n20261126-3-k4"
+      ]
+     },
+     {
+      "title": "Other results",
+      "paras": "6–7",
+      "blanks": [
+       "mako retention ban kept"
+      ],
+      "kps": [
+       "n20261126-3-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "total ban on shark fishing",
+     "Japan proposed fins attached"
+    ]
+   },
+   "summary": {
+    "intro": "Atlantic fishing nations have agreed on new rules to stop shark finning, but with important exceptions.",
+    "model": "ICCAT agreed that fresh sharks must keep their fins attached, while frozen sharks may use alternatives. Supporters call it progress after 18 failures; however, conservationists see loopholes, so its value depends on enforcement.",
+    "options": [
+     {
+      "t": "Finning continues because fins are valuable, and without the body inspectors cannot identify the species.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "Shark finning exists because of a simple economic imbalance."
+     },
+     {
+      "t": "A compromise requires fresh sharks to keep their fins but allows alternative methods for frozen sharks.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Sharks landed fresh must now keep their fins naturally attached."
+     },
+     {
+      "t": "Supporters see a partial step as progress, while conservation groups fear the exceptions will delay a stronger ban.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Reactions were sharply divided."
+     },
+     {
+      "t": "Ali Hood of the Shark Trust urged countries to reduce the bycatch of blue sharks.",
+      "ok": false,
+      "type": "detail",
+      "para": 6,
+      "evidence": "urged countries to reduce the bycatch of blue sharks"
+     },
+     {
+      "t": "ICCAT agreed to ban the sale of shark fin soup in all member countries.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "ICCAT accepted a US proposal to reopen a limited mako shark fishery.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "rejected a United States proposal to reopen a limited mako fishery"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe that international environmental agreements should only be signed if they are strong and strict. Others think it is better to accept a weaker agreement that more countries will join. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Choose one side; give two reasons (membership, enforcement, time, improvement); add an example; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Kim: Atlantic nations have finally agreed on new shark finning rules, but with exceptions for frozen sharks. Some people say a compromise like this is real progress. Others argue that partial rules only delay the strong action that is needed. Which view do you agree with, and why?\nGrace: “I think the compromise is progress. The same proposal failed 18 times. Now fresh sharks must keep their fins, and that already makes inspection easier. Small steps can build trust for bigger ones.”\nDaniel: “I am not convinced. Exceptions become loopholes, and sharks grow slowly, so every year of delay matters. Weak rules let governments claim success while little changes at sea.”",
+    "steps": [
+     "State your position clearly in the first sentence.",
+     "Respond to Grace or Daniel and add a new reason.",
+     "Support it with a fact from the article (18 failed attempts, exceptions for frozen sharks, slow-growing sharks).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  }
+ ],
+ "uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "Cambridge C1 Advanced (CAE) style practice built on today's three stories: collocations, grammar and word formation.",
+  "parts": [
+   {
+    "part": 1,
+    "type": "mc",
+    "title": "Multiple-choice cloze",
+    "topic": "A Pacific security treaty",
+    "task": "Read the text and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "Solomon Islands rarely {1} the headlines, but this week it signed a treaty that could reshape its foreign relations. Under the agreement, Australia becomes the country's main security partner, and no foreign base may be built on its soil. Supporters say the deal will {2} an end to years of uncertainty. Critics, however, fear the government has {3} in to pressure from Canberra. The prime minister has refused to {4} light on whether the 2022 pact with China will be renewed, saying he is bound by a confidentiality clause. Either way, Australia's support package is {5} to boost spending on schools and the police. Analysts say the real test will be whether Australia {6} up to its promises. For a nation of fewer than a million people, staying on good {7} with powerful neighbours is a delicate balancing {8}.",
+    "items": [
+     {
+      "n": 1,
+      "opts": [
+       "makes",
+       "does",
+       "takes",
+       "gives"
+      ],
+      "a": 0,
+      "focus": "Collocation",
+      "why": "We say a person or event “makes the headlines.” The other verbs do not form this collocation."
+     },
+     {
+      "n": 2,
+      "opts": [
+       "make",
+       "give",
+       "draw",
+       "put"
+      ],
+      "a": 3,
+      "focus": "Fixed phrase",
+      "why": "“Put an end to” means to stop something completely. “Make”, “give” and “draw” do not form this fixed phrase."
+     },
+     {
+      "n": 3,
+      "opts": [
+       "fallen",
+       "handed",
+       "given",
+       "turned"
+      ],
+      "a": 2,
+      "focus": "Phrasal verb",
+      "why": "“Give in to” means to stop resisting and accept what someone wants. “Fall in”, “hand in” and “turn in” have different meanings."
+     },
+     {
+      "n": 4,
+      "opts": [
+       "pour",
+       "shed",
+       "place",
+       "send"
+      ],
+      "a": 1,
+      "focus": "Collocation",
+      "why": "“Shed light on” means to make something clearer or easier to understand. The other verbs do not combine with “light on” in this meaning."
+     },
+     {
+      "n": 5,
+      "opts": [
+       "hoped",
+       "wished",
+       "expected",
+       "awaited"
+      ],
+      "a": 2,
+      "focus": "Passive pattern",
+      "why": "“Be expected to do” is a common passive pattern. We cannot say “is hoped/wished/awaited to boost.”"
+     },
+     {
+      "n": 6,
+      "opts": [
+       "keeps",
+       "lives",
+       "holds",
+       "stands"
+      ],
+      "a": 1,
+      "focus": "Phrasal verb",
+      "why": "“Live up to promises/expectations” means to do what was promised. The other verbs do not form this phrase with “up to”."
+     },
+     {
+      "n": 7,
+      "opts": [
+       "relations",
+       "ties",
+       "grounds",
+       "terms"
+      ],
+      "a": 3,
+      "focus": "Fixed phrase",
+      "why": "“On good terms with” means having a friendly relationship. “Relations” and “ties” are not used with “on good … with”."
+     },
+     {
+      "n": 8,
+      "opts": [
+       "act",
+       "show",
+       "game",
+       "task"
+      ],
+      "a": 0,
+      "focus": "Fixed phrase",
+      "why": "“A balancing act” is a fixed expression for trying to satisfy several competing demands at once."
+     }
+    ]
+   },
+   {
+    "part": 2,
+    "type": "open",
+    "title": "Open cloze",
+    "topic": "TIDAL and AI-generated music",
+    "task": "Read the text and think of the word which best fits each gap. Use only one word in each gap.",
+    "text": "Streaming service TIDAL has announced that it will remove songs made entirely by artificial intelligence. {9} to the company, more than 43 percent of recent uploads were fully AI-generated, and most of {10} have never been played. Songs created with the help of AI tools, {11} the other hand, will still be accepted. The decision follows an earlier policy {12} which TIDAL stopped paying royalties for such tracks. {13} the earlier step had little effect, the company decided that stronger action was needed. Critics point out that it is not always easy to tell {14} a song was made by a person or a machine. Others argue that platforms should label AI music rather {15} delete it. Whatever happens, the debate is unlikely to go away any time {16}.",
+    "items": [
+     {
+      "n": 9,
+      "ans": [
+       "according"
+      ],
+      "focus": "Linking phrase",
+      "why": "“According to the company” introduces the source of information."
+     },
+     {
+      "n": 10,
+      "ans": [
+       "them"
+      ],
+      "focus": "Pronoun after quantifier",
+      "why": "“Most of them” refers back to the uploads. After “of” we need an object pronoun."
+     },
+     {
+      "n": 11,
+      "ans": [
+       "on"
+      ],
+      "focus": "Fixed phrase",
+      "why": "“On the other hand” introduces a contrasting point."
+     },
+     {
+      "n": 12,
+      "ans": [
+       "under",
+       "in"
+      ],
+      "focus": "Relative clause with preposition",
+      "why": "“A policy under which…” (or “in which”) uses a preposition before the relative pronoun “which”."
+     },
+     {
+      "n": 13,
+      "ans": [
+       "because",
+       "since",
+       "as"
+      ],
+      "focus": "Linking word (reason)",
+      "why": "The clause gives the reason for stronger action, so a reason linker such as “because”, “since” or “as” is needed."
+     },
+     {
+      "n": 14,
+      "ans": [
+       "whether",
+       "if"
+      ],
+      "focus": "Indirect question",
+      "why": "“Tell whether/if…” introduces an indirect yes/no question about two possibilities."
+     },
+     {
+      "n": 15,
+      "ans": [
+       "than"
+      ],
+      "focus": "Comparative structure",
+      "why": "“Rather than” means “instead of”."
+     },
+     {
+      "n": 16,
+      "ans": [
+       "soon"
+      ],
+      "focus": "Fixed phrase",
+      "why": "“Any time soon” is used in negative contexts to mean “in the near future”."
+     }
+    ]
+   },
+   {
+    "part": 3,
+    "type": "wf",
+    "title": "Word formation",
+    "topic": "Atlantic shark finning rules",
+    "task": "Use the word given in capitals to form a word that fits in the gap.",
+    "text": "For years, the ban on shark finning in the Atlantic existed mainly on paper, because {17} was so difficult. Fins are far more {18} than shark meat, so some fishers discarded the bodies at sea. Without the body, it is almost {19} to identify the species. This week, governments reached a {20} agreement: fresh sharks must keep their fins attached, while frozen sharks may use other methods. Conservation groups described the exceptions as {21} complicated and warned that they had not been properly tested. Supporters, however, praised the {22} of nations that had disagreed for decades. Because sharks grow slowly, any delay in {23} could have serious consequences, and scientists will be watching closely to see whether the new rules are applied {24}.",
+    "items": [
+     {
+      "n": 17,
+      "stem": "ENFORCE",
+      "ans": [
+       "enforcement"
+      ],
+      "focus": "Noun suffix -ment",
+      "why": "After “because” we need a noun subject: enforce → enforcement."
+     },
+     {
+      "n": 18,
+      "stem": "VALUE",
+      "ans": [
+       "valuable"
+      ],
+      "focus": "Adjective suffix -able",
+      "why": "“far more … than” needs an adjective: value → valuable."
+     },
+     {
+      "n": 19,
+      "stem": "POSSIBLE",
+      "ans": [
+       "impossible"
+      ],
+      "focus": "Negative prefix im-",
+      "why": "The meaning is negative (“almost … to identify”), so add the prefix im-: impossible."
+     },
+     {
+      "n": 20,
+      "stem": "HISTORY",
+      "ans": [
+       "historic"
+      ],
+      "focus": "Adjective suffix -ic",
+      "why": "“Historic” means important in history; “historical” means connected with the past, which does not fit an agreement just made."
+     },
+     {
+      "n": 21,
+      "stem": "NECESSARY",
+      "ans": [
+       "unnecessarily"
+      ],
+      "focus": "Prefix un- and adverb suffix -ly",
+      "why": "An adverb is needed before the adjective “complicated”, with a negative meaning: unnecessarily."
+     },
+     {
+      "n": 22,
+      "stem": "WILLING",
+      "ans": [
+       "willingness"
+      ],
+      "focus": "Noun suffix -ness",
+      "why": "After “praised the” we need a noun: willing → willingness."
+     },
+     {
+      "n": 23,
+      "stem": "PROTECT",
+      "ans": [
+       "protection"
+      ],
+      "focus": "Noun suffix -ion",
+      "why": "After the preposition “in” we need a noun: protect → protection."
+     },
+     {
+      "n": 24,
+      "stem": "EFFECT",
+      "ans": [
+       "effectively"
+      ],
+      "focus": "Adverb suffix -ively",
+      "why": "The gap describes how the rules are applied, so an adverb is needed: effectively."
+     }
+    ]
+   },
+   {
+    "part": 4,
+    "type": "kwt",
+    "title": "Key word transformation",
+    "topic": "All three stories",
+    "task": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and six words, including the word given.",
+    "items": [
+     {
+      "n": 25,
+      "s1": "The prime minister refused to confirm the reports about the China pact.",
+      "key": "DECLINED",
+      "pre": "The prime minister",
+      "post": "the reports about the China pact.",
+      "ans": [
+       "declined to confirm",
+       "declined to comment on"
+      ],
+      "focus": "Verb + infinitive",
+      "why": "“Decline to do something” means to refuse politely; it is followed by the infinitive."
+     },
+     {
+      "n": 26,
+      "s1": "Australia will only be trusted if it delivers the money it promised.",
+      "key": "UNLESS",
+      "pre": "Australia will not be trusted",
+      "post": "the money it promised.",
+      "ans": [
+       "unless it delivers",
+       "unless it actually delivers"
+      ],
+      "focus": "Conditional with unless",
+      "why": "“Unless” means “if … not”, so “only … if it delivers” becomes “not … unless it delivers”."
+     },
+     {
+      "n": 27,
+      "s1": "TIDAL's earlier policy did not stop the flood of AI uploads.",
+      "key": "FAILED",
+      "pre": "TIDAL's earlier policy",
+      "post": "the flood of AI uploads.",
+      "ans": [
+       "failed to stop",
+       "failed to put an end to",
+       "failed to prevent"
+      ],
+      "focus": "Verb + infinitive",
+      "why": "“Fail to do something” expresses that an attempt was unsuccessful."
+     },
+     {
+      "n": 28,
+      "s1": "It is hard to say where AI assistance ends and AI generation begins.",
+      "key": "LINE",
+      "pre": "It is hard to",
+      "post": "AI assistance and AI generation.",
+      "ans": [
+       "draw the line between",
+       "draw a line between"
+      ],
+      "focus": "Fixed phrase",
+      "why": "“Draw the line between A and B” means to decide where one thing ends and another begins."
+     },
+     {
+      "n": 29,
+      "s1": "The fins-attached rule had never been approved before this year.",
+      "key": "FIRST",
+      "pre": "This was",
+      "post": "the fins-attached rule had been approved.",
+      "ans": [
+       "the first time",
+       "the first year"
+      ],
+      "focus": "It/This is the first time + past perfect",
+      "why": "“This was the first time (that) + past perfect” describes something happening for the first time."
+     },
+     {
+      "n": 30,
+      "s1": "Conservation groups were much less enthusiastic than governments.",
+      "key": "NEARLY",
+      "pre": "Conservation groups were",
+      "post": "governments.",
+      "ans": [
+       "not nearly as enthusiastic as",
+       "nowhere nearly as enthusiastic as"
+      ],
+      "focus": "Comparison with not nearly as",
+      "why": "“Not nearly as … as” means “much less … than”."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "On Wednesday, in a ceremony at Parliament House in Canberra, the prime ministers of Australia and Solomon Islands signed a treaty that both men described as historic. Under the agreement, Solomon Islands names Australia as its “primary security partner” and promises that no foreign military or security base will be built on its territory. The country of fewer than 900,000 people, spread across hundreds of islands about 2,000 kilometres northeast of Australia, rarely makes world headlines. This week, however, it found itself at the centre of a quiet but intense competition for influence in the Pacific.": "audio/2026-11-26/a1-p1.mp3",
+  "To understand why the treaty matters, it helps to go back to 2022. That year, the government of then-prime minister Manasseh Sogavare signed a security pact with China that allowed Chinese police training teams to work in the country. Today, roughly two dozen Chinese officers are present at any one time. The deal alarmed Canberra and Washington, which feared it could one day open the door to a Chinese naval presence close to Australia's shores. Australia's foreign minister, Penny Wong, has called the pact the country's worst foreign policy blunder in the Pacific since the Second World War.": "audio/2026-11-26/a1-p2.mp3",
+  "The new treaty attempts to reverse that situation. Beyond the ban on foreign bases, Solomon Islands commits to keeping its sensitive infrastructure free from militarisation and foreign interference, and it agrees to consult Australia on matters of national security. It also accepts that security assistance should come first from members of the Pacific Islands Forum, the region's main political body, with outside partners called in only for needs those members cannot meet. In return, Australia has pledged a package that the ABC reports is worth about A$740 million, most of it in grants, to support free education, infrastructure, the national budget and the police. Australia will also open new work pathways in sectors such as aged care and childcare.": "audio/2026-11-26/a1-p3.mp3",
+  "Notably, the treaty does not explicitly forbid cooperation with China, and Prime Minister Matthew Wale, who took office in May, has been careful with his words. Media reports say his government has told Beijing that the 2022 pact will not be renewed when its five-year term ends in 2027, but Wale declined to confirm this, pointing to a confidentiality clause in the agreement. China's foreign ministry responded that its cooperation with Pacific nations is not aimed at any third party and involves no geopolitical rivalry.": "audio/2026-11-26/a1-p4.mp3",
+  "Supporters see the treaty as a sensible choice for a small nation. Australia is the closest large neighbour and the biggest aid donor in the region, and, in their view, a more predictable partner. Wale himself suggested that under the previous government his country had become a source of uncertainty and doubt for its neighbours, and that the treaty helps restore trust. Oliver Nobetau of the Lowy Institute, an Australian think tank, called the deal a “massive win” for Canberra, which has already signed similar agreements with Fiji, Tuvalu, Vanuatu and Papua New Guinea.": "audio/2026-11-26/a1-p5.mp3",
+  "Critics, however, see a different picture. Sogavare, now leader of the opposition, warned that abandoning the China pact could damage valuable development ties with Beijing and accused Wale of “dancing to Australia's tune.” Some opposition figures describe the money flowing to constituency funds controlled by members of parliament as “chequebook diplomacy,” suggesting that loyalty is being bought rather than earned. Even observers who welcome the treaty raise questions: Nobetau asked what exactly Australia had offered in exchange, and others argue that Australia's reputation will depend on whether the promised money and support are actually delivered.": "audio/2026-11-26/a1-p6.mp3",
+  "The deeper question is whether small states can benefit from great-power competition without becoming its victims. For years, Pacific leaders have argued that their most urgent security threat is not a foreign army but climate change, rising seas and fragile economies. A treaty that brings schools, jobs and police training may serve those goals, even if its main purpose in Canberra is strategic. Yet when a country promises to consult one partner on its security choices, it also gives up a degree of freedom. Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.": "audio/2026-11-26/a1-p7.mp3",
+  "treaty": "audio/2026-11-26/a1-w-treaty.mp3",
+  "The two countries signed a treaty to protect the river they share.": "audio/2026-11-26/a1-ex-treaty.mp3",
+  "pact": "audio/2026-11-26/a1-w-pact.mp3",
+  "The neighbouring towns made a pact to share one fire station.": "audio/2026-11-26/a1-ex-pact.mp3",
+  "infrastructure": "audio/2026-11-26/a1-w-infrastructure.mp3",
+  "Heavy rain exposed how weak the city's infrastructure had become.": "audio/2026-11-26/a1-ex-infrastructure.mp3",
+  "militarisation": "audio/2026-11-26/a1-w-militarisation.mp3",
+  "Scientists warned that the militarisation of space could threaten research satellites.": "audio/2026-11-26/a1-ex-militarisation.mp3",
+  "pledge": "audio/2026-11-26/a1-w-pledge.mp3",
+  "Several companies pledge to cut their emissions in half by 2035.": "audio/2026-11-26/a1-ex-pledge.mp3",
+  "renew": "audio/2026-11-26/a1-w-renew.mp3",
+  "You must renew your library card every two years.": "audio/2026-11-26/a1-ex-renew.mp3",
+  "consult": "audio/2026-11-26/a1-w-consult.mp3",
+  "The school promised to consult parents before changing the timetable.": "audio/2026-11-26/a1-ex-consult.mp3",
+  "rivalry": "audio/2026-11-26/a1-w-rivalry.mp3",
+  "The rivalry between the two football clubs is more than a century old.": "audio/2026-11-26/a1-ex-rivalry.mp3",
+  "dependence": "audio/2026-11-26/a1-w-dependence.mp3",
+  "The island hopes to reduce its dependence on imported fuel.": "audio/2026-11-26/a1-ex-dependence.mp3",
+  "This week, however, it found itself at the centre of a quiet but intense competition for influence in the Pacific.": "audio/2026-11-26/a1-ks1.mp3",
+  "The deal alarmed Canberra and Washington, which feared it could one day open the door to a Chinese naval presence close to Australia's shores.": "audio/2026-11-26/a1-ks2.mp3",
+  "The new treaty attempts to reverse that situation.": "audio/2026-11-26/a1-ks3.mp3",
+  "Notably, the treaty does not explicitly forbid cooperation with China, and Prime Minister Matthew Wale, who took office in May, has been careful with his words.": "audio/2026-11-26/a1-ks4.mp3",
+  "Critics, however, see a different picture.": "audio/2026-11-26/a1-ks5.mp3",
+  "Whether Solomon Islands has gained a reliable friend or simply exchanged one form of dependence for another may only become clear years from now.": "audio/2026-11-26/a1-ks6.mp3",
+  "Imagine opening a music app and discovering that almost half of the newest songs were not written, played or sung by any human being. According to the streaming service TIDAL, that is roughly the situation it now faces. On Tuesday, the company announced that, starting on 9 December, it will begin removing music made entirely by artificial intelligence from its catalogue and will refuse to accept any more of it. Songs that musicians create with the help of AI tools will still be welcome; only tracks that are 100 percent machine-made will be banned.": "audio/2026-11-26/a2-p1.mp3",
+  "The numbers behind the decision are striking. TIDAL says that more than 43 percent of the tracks uploaded to the service over the past 90 days were identified as fully AI-generated. In total, about 27 million such tracks, or 6.3 percent of its entire catalogue, now sit on the platform, and roughly 96 percent of them have never been streamed even once. Critics have a name for this flood of cheap, mass-produced content: “AI slop.” Because modern AI tools can produce a complete song in seconds, a single uploader can release thousands of tracks, hoping that a few will earn small payments or slip into automated playlists.": "audio/2026-11-26/a2-p2.mp3",
+  "TIDAL's new rule is a sharp escalation of its earlier approach. In June, the company stopped paying royalties for fully AI-generated tracks and began marking them with an “AI” label, a policy that took effect in July. Yet the uploads kept coming. Robert Anderson, who leads TIDAL's music team, said the earlier step had not been enough and that “something more drastic needs to be done.” Under the new system, distributors, the companies that deliver music to streaming services, will no longer be allowed to send fully AI-made songs, and any submission whose information shows it was created entirely by AI will be rejected.": "audio/2026-11-26/a2-p3.mp3",
+  "Supporters argue that the ban protects both listeners and human artists. When millions of near-identical tracks crowd a catalogue, they say, genuine music becomes harder to discover, and new musicians, who already struggle for attention, are pushed even further out of sight. TIDAL itself acknowledged that not every song catches on immediately and that artists need time to build an audience; the problem, it argued, is that at this scale authentic work is simply buried. From this perspective, a clear rule is fairer than an endless contest between spammers and detection software.": "audio/2026-11-26/a2-p4.mp3",
+  "Other companies, however, have chosen different paths, which shows that the right response is far from obvious. Bandcamp, a platform popular with independent musicians, banned AI-generated music outright in January. Spotify and YouTube Music, by contrast, have preferred to label AI music rather than remove it, leaving listeners to decide what they want to hear. Meanwhile, the music industry is also exploring AI as a business opportunity: an estimate by the investment bank Goldman Sachs suggests that licensing music for AI could increase record-label revenue by about 10 percent by 2035.": "audio/2026-11-26/a2-p5.mp3",
+  "The ban also raises difficult practical questions. Where exactly is the line between a song that is assisted by AI and one that is generated by it? A producer might use AI to suggest a melody, clean up a recording or create a backing track; at what point does the human contribution become too small to count? Detection tools can make mistakes, and labels that depend on uploaders honestly describing their own work can be gamed. A system that is too strict risks punishing real artists, while one that is too loose may change very little.": "audio/2026-11-26/a2-p6.mp3",
+  "In the end, TIDAL's decision is less about technology than about values. It asks what a music platform is for: a neutral warehouse that stores anything anyone uploads, or a curated space that promises listeners human creativity. As AI tools improve, every streaming service will have to answer that question, and the answers they choose may shape not only what we hear but also whether making music remains a realistic career for the next generation of artists.": "audio/2026-11-26/a2-p7.mp3",
+  "catalogue": "audio/2026-11-26/a2-w-catalogue.mp3",
+  "The library's online catalogue lists every book it owns.": "audio/2026-11-26/a2-ex-catalogue.mp3",
+  "escalation": "audio/2026-11-26/a2-w-escalation.mp3",
+  "The teachers' strike was an escalation of their earlier protests.": "audio/2026-11-26/a2-ex-escalation.mp3",
+  "royalty": "audio/2026-11-26/a2-w-royalty.mp3",
+  "The songwriter receives a small royalty every time her song is played on the radio.": "audio/2026-11-26/a2-ex-royalty.mp3",
+  "distributor": "audio/2026-11-26/a2-w-distributor.mp3",
+  "The film found a distributor only after it won a festival prize.": "audio/2026-11-26/a2-ex-distributor.mp3",
+  "curate": "audio/2026-11-26/a2-w-curate.mp3",
+  "Two students curate the school's weekly playlist.": "audio/2026-11-26/a2-ex-curate.mp3",
+  "authentic": "audio/2026-11-26/a2-w-authentic.mp3",
+  "The museum confirmed that the painting is authentic.": "audio/2026-11-26/a2-ex-authentic.mp3",
+  "detection": "audio/2026-11-26/a2-w-detection.mp3",
+  "Early detection of the disease makes treatment much easier.": "audio/2026-11-26/a2-ex-detection.mp3",
+  "acknowledge": "audio/2026-11-26/a2-w-acknowledge.mp3",
+  "The coach was willing to acknowledge that the team had played badly.": "audio/2026-11-26/a2-ex-acknowledge.mp3",
+  "revenue": "audio/2026-11-26/a2-w-revenue.mp3",
+  "The museum's revenue doubled after it opened a café.": "audio/2026-11-26/a2-ex-revenue.mp3",
+  "Songs that musicians create with the help of AI tools will still be welcome; only tracks that are 100 percent machine-made will be banned.": "audio/2026-11-26/a2-ks1.mp3",
+  "The numbers behind the decision are striking.": "audio/2026-11-26/a2-ks2.mp3",
+  "TIDAL's new rule is a sharp escalation of its earlier approach.": "audio/2026-11-26/a2-ks3.mp3",
+  "From this perspective, a clear rule is fairer than an endless contest between spammers and detection software.": "audio/2026-11-26/a2-ks4.mp3",
+  "A system that is too strict risks punishing real artists, while one that is too loose may change very little.": "audio/2026-11-26/a2-ks5.mp3",
+  "In the end, TIDAL's decision is less about technology than about values.": "audio/2026-11-26/a2-ks6.mp3",
+  "For more than two decades, cutting the fins off sharks and throwing the rest of the animal back into the sea has been banned in the Atlantic Ocean, at least on paper. Enforcing that ban, however, has proved remarkably difficult. This week, at the end of the annual meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, governments finally agreed on stronger rules. Many delegations welcomed the result, and the European Union described it as a landmark. Yet several conservation groups say the deal is full of loopholes, and that a better option was blocked.": "audio/2026-11-26/a3-p1.mp3",
+  "Shark finning exists because of a simple economic imbalance. Shark fins, used mainly in soup, sell for far more than shark meat, so some fishers have an incentive to keep only the fins and discard the bodies, which take up valuable space on board. The practice is wasteful and cruel, but it also creates a scientific problem. Once a shark's body is gone, inspectors at the port often cannot tell which species the fins came from, making it much easier to hide catches of protected sharks or to exceed fishing limits.": "audio/2026-11-26/a3-p2.mp3",
+  "Conservationists have long argued that the simplest solution is a rule requiring all sharks to be landed with their fins “naturally attached.” If the fins stay on the body, the animal can be identified, and fishers gain little by throwing carcasses overboard. Such a proposal had been put forward at ICCAT 18 times before and had never passed, largely because of opposition from Japan, whose fleets argue that keeping the fins attached is impractical for sharks that are frozen at sea during long voyages.": "audio/2026-11-26/a3-p3.mp3",
+  "The compromise adopted this year reflects that disagreement. Sharks landed fresh must now keep their fins naturally attached. For frozen sharks, however, countries may use alternative methods, including a Japanese-led option that allows fins to be tied to the body, or removed, tagged and stored in the same hold as the rest of the shark. Other methods involve wires, ropes or tags. Under certain conditions, the rules could lead to a full fins-attached requirement around 2029 or 2030, but critics point out that the alternatives might remain in use for years.": "audio/2026-11-26/a3-p4.mp3",
+  "Reactions were sharply divided. Supporters argue that, after so many failed attempts, a partial step is better than none, and that the agreement proves that progress is still possible in a body that usually makes decisions by consensus. Conservation groups were far less enthusiastic. Nicolas Blanc of the Portuguese group Sciaena said campaigners were “not going to be opening the champagne bottle” until a rule without exceptions is in place. Sonja Fordham of Shark Advocates International warned that the alternatives are overly complicated, largely untested and could even add more debris to the ocean.": "audio/2026-11-26/a3-p5.mp3",
+  "The meeting produced other mixed results. Delegates kept in place a ban on retaining North Atlantic shortfin mako sharks, a fast-swimming species whose numbers have fallen sharply, and rejected a United States proposal to reopen a limited mako fishery. Ali Hood of the Shark Trust welcomed that decision but urged countries to reduce the bycatch of blue sharks, which are often caught by accident on lines set for tuna and swordfish. ICCAT also agreed to look more closely at whether members follow existing rules, after most of them had reported poor data on sharks and, between 2016 and 2024, most had reported no discards at all.": "audio/2026-11-26/a3-p6.mp3",
+  "The story of the Atlantic shark rules illustrates a familiar dilemma in international environmental law. Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water. Sharks, which grow slowly and produce few young, cannot recover quickly from overfishing, so delays have real costs. Whether this year's compromise becomes a stepping stone toward a stronger ban or simply a new way to postpone one will depend on how seriously member countries apply it in the years ahead.": "audio/2026-11-26/a3-p7.mp3",
+  "incentive": "audio/2026-11-26/a3-w-incentive.mp3",
+  "Free bus passes give students an incentive to leave their cars at home.": "audio/2026-11-26/a3-ex-incentive.mp3",
+  "discard": "audio/2026-11-26/a3-w-discard.mp3",
+  "Please discard any batteries in the special recycling box.": "audio/2026-11-26/a3-ex-discard.mp3",
+  "carcass": "audio/2026-11-26/a3-w-carcass.mp3",
+  "Vultures gathered around the carcass of a zebra.": "audio/2026-11-26/a3-ex-carcass.mp3",
+  "enforce": "audio/2026-11-26/a3-w-enforce.mp3",
+  "It is hard to enforce speed limits on empty country roads.": "audio/2026-11-26/a3-ex-enforce.mp3",
+  "compromise": "audio/2026-11-26/a3-w-compromise.mp3",
+  "After hours of debate, the class reached a compromise on the trip date.": "audio/2026-11-26/a3-ex-compromise.mp3",
+  "consensus": "audio/2026-11-26/a3-w-consensus.mp3",
+  "There is a scientific consensus that the climate is warming.": "audio/2026-11-26/a3-ex-consensus.mp3",
+  "loophole": "audio/2026-11-26/a3-w-loophole.mp3",
+  "The company used a loophole to avoid paying the new tax.": "audio/2026-11-26/a3-ex-loophole.mp3",
+  "retain": "audio/2026-11-26/a3-w-retain.mp3",
+  "Fishers must retain records of every catch for three years.": "audio/2026-11-26/a3-ex-retain.mp3",
+  "bycatch": "audio/2026-11-26/a3-w-bycatch.mp3",
+  "New nets have cut the bycatch of dolphins by half.": "audio/2026-11-26/a3-ex-bycatch.mp3",
+  "Enforcing that ban, however, has proved remarkably difficult.": "audio/2026-11-26/a3-ks1.mp3",
+  "Shark finning exists because of a simple economic imbalance.": "audio/2026-11-26/a3-ks2.mp3",
+  "Conservationists have long argued that the simplest solution is a rule requiring all sharks to be landed with their fins “naturally attached.”": "audio/2026-11-26/a3-ks3.mp3",
+  "The compromise adopted this year reflects that disagreement.": "audio/2026-11-26/a3-ks4.mp3",
+  "Reactions were sharply divided.": "audio/2026-11-26/a3-ks5.mp3",
+  "Strict rules are easier to enforce but harder to agree on, while flexible rules win broad support but may change little on the water.": "audio/2026-11-26/a3-ks6.mp3"
+ }
+}
