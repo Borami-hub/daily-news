@@ -1,0 +1,2446 @@
+{
+ "date": "2026-11-27",
+ "headline": "Price Tags, Crowded Orbits and Burning Peat",
+ "teaser": "Do record holiday sales mean families are better off? Should one country decide how a million satellites fill the sky? And can orangutans survive when their forests go up in smoke?",
+ "articles": [
+  {
+   "id": "n20261127-1",
+   "topic": "Economy",
+   "title": "Black Friday on a Budget: Bigger Sales, Tighter Wallets",
+   "dek": "US holiday sales are forecast to pass $1 trillion for the first time. Is that a sign of a strong economy, or of how expensive ordinary life has become?",
+   "sources": [
+    {
+     "name": "Reuters via KELO, 26 Nov 2026",
+     "url": "https://kelo.com/2026/11/26/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite/"
+    },
+    {
+     "name": "MPR News, 25 Nov 2026",
+     "url": "https://www.mprnews.org/story/2026/11/25/are-high-prices-and-tariffs-shifting-consumer-habits-on-black-friday"
+    },
+    {
+     "name": "CP24 (CTV News), 26 Nov 2026",
+     "url": "https://www.cp24.com/local/toronto/2026/11/26/shopping-this-black-friday-one-expert-says-to-beware-of-tariff-gouging/"
+    },
+    {
+     "name": "KFOX14, 26 Nov 2026",
+     "url": "https://kfoxtv.com/newsletter-daily/high-prices-and-weaker-markdowns-leave-black-friday-deals-harder-to-find-for-el-pasoans"
+    }
+   ],
+   "paras": [
+    "Every year, the day after Thanksgiving marks the unofficial start of the American holiday shopping season. Stores open early, websites flash countdown timers, and news reports track how much money people spend. This year's Black Friday, which fell on November 27, arrived with impressive headline numbers. Behind them, however, lies a more complicated story about prices, pressure and who is really doing the spending.",
+    "On paper, the forecasts look strong. The National Retail Federation (NRF), the industry's largest trade group, expects retail sales in November and December to rise by 4.2 percent compared with last year, pushing the total to just above $1 trillion for the first time. Other forecasters are even more optimistic: the Mastercard Economics Institute and the consultancy EY-Parthenon each predict growth of more than 5 percent. A survey by Deloitte found that 87 percent of shoppers planned to buy something during the five days from Thanksgiving to Cyber Monday, the highest share in a decade.",
+    "Yet economists warn that a bigger number does not always mean a bigger shopping basket. Sales are measured in dollars, and dollars buy less when prices rise. According to Reuters, inflation is running at about 3.8 percent, roughly a point higher than in each of the previous two years. If prices are climbing by nearly 4 percent, then most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves. Economists call this the difference between nominal growth, measured in money, and real growth, measured in actual quantities. Tom Fullerton, an economist at the University of Texas at El Paso, put it plainly: spending is growing largely \"because prices are higher.\"",
+    "Some of those higher prices are linked to tariffs, the taxes a government places on imported goods. Retailers that import toys, electronics and clothing have passed part of the extra cost on to customers, and toy prices alone have risen by 13.2 percent since the start of the year. Not every increase, however, can be blamed on trade policy. A Canadian retail consultant, Kyle Peacock, has accused some sellers of \"tariff gouging,\" raising prices even on products that face no new tariff and using the headlines as cover. Shoppers, he argues, should compare prices carefully rather than assume every rise is unavoidable.",
+    "Consumers are clearly adapting. In an NRF survey this month, 82 percent of shoppers said they were taking steps to manage holiday costs, such as buying cheaper gifts or switching to lesser-known brands. Many are also spreading their purchases over a longer period. Only 17 percent now plan to concentrate their shopping around Black Friday itself, down from 25 percent a year ago, and the busiest weeks are shifting toward early and mid-December. Retailers, for their part, are running longer promotions with smaller discounts, which means the single dramatic \"doorbuster\" deal is becoming rarer.",
+    "Optimists still see reasons for confidence. \"People like to spend during the holidays,\" said Katie Thomas of the Kearney Consumer Institute, and the record share of people planning to shop suggests that demand has not collapsed. From this perspective, the American consumer remains remarkably resilient, continuing to spend despite years of rising costs. Healthy holiday sales also support millions of jobs in stores, warehouses and delivery services, so a strong season matters well beyond the shopping mall.",
+    "Pessimists, by contrast, point to signs of strain beneath the surface. Kearney's own research shows that middle- and lower-income households are more likely to cut back, while the head of the department store chain Kohl's has described an \"increasingly choiceful\" customer looking to stretch every dollar. Analysts at the bank UBS have added a further warning: a recent fall in stock prices could make even wealthier shoppers, whose spending has propped up the economy, more cautious. If growth depends mainly on the richest households, the overall figures may hide real hardship for everyone else.",
+    "Both sides agree on one point: the headline number alone cannot tell us how families are really doing. A trillion-dollar season sounds like a celebration, but it may also be a sign of how expensive ordinary life has become. For students of economics, Black Friday offers a useful lesson. Before celebrating or worrying about any statistic, it is worth asking what is being measured, whose behaviour it reflects, and what it leaves out."
+   ],
+   "words": [
+    {
+     "w": "forecast",
+     "level": "Academic",
+     "pos": "noun / verb",
+     "ipa": "/ˈfɔːrkæst/",
+     "syl": [
+      "fore",
+      "cast"
+     ],
+     "def": "a statement about what is likely to happen in the future, based on information available now",
+     "ex": "The bank's forecast suggests that house prices will stay flat next year."
+    },
+    {
+     "w": "inflation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ɪnˈfleɪʃən/",
+     "syl": [
+      "in",
+      "fla",
+      "tion"
+     ],
+     "def": "a general rise in prices over time, which means money buys less than before",
+     "ex": "High inflation meant that her weekly pocket money bought fewer snacks than last year."
+    },
+    {
+     "w": "nominal",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈnɑːmɪnəl/",
+     "syl": [
+      "nom",
+      "i",
+      "nal"
+     ],
+     "def": "measured in money at current prices, without adjusting for inflation",
+     "ex": "His nominal salary rose by 3 percent, but after inflation he was actually poorer."
+    },
+    {
+     "w": "tariff",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈtærɪf/",
+     "syl": [
+      "tar",
+      "iff"
+     ],
+     "def": "a tax that a government charges on goods brought in from other countries",
+     "ex": "The new tariff made imported bicycles about 20 percent more expensive."
+    },
+    {
+     "w": "retailer",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈriːteɪlər/",
+     "syl": [
+      "re",
+      "tail",
+      "er"
+     ],
+     "def": "a person or company that sells goods directly to the public",
+     "ex": "The online retailer promised free delivery on every order this month."
+    },
+    {
+     "w": "resilient",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/rɪˈzɪliənt/",
+     "syl": [
+      "re",
+      "sil",
+      "ient"
+     ],
+     "def": "able to keep going or recover quickly after difficulties",
+     "ex": "Small towns that rely on many different industries tend to be more resilient during a recession."
+    },
+    {
+     "w": "adapt",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/əˈdæpt/",
+     "syl": [
+      "a",
+      "dapt"
+     ],
+     "def": "to change your behaviour to suit a new situation",
+     "ex": "Students had to adapt quickly when their classes moved online."
+    },
+    {
+     "w": "concentrate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈkɑːnsəntreɪt/",
+     "syl": [
+      "con",
+      "cen",
+      "trate"
+     ],
+     "def": "to bring things together in one place or time instead of spreading them out",
+     "ex": "Most of the country's factories concentrate in a few coastal cities."
+    },
+    {
+     "w": "strain",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/streɪn/",
+     "syl": [
+      "strain"
+     ],
+     "def": "pressure caused by having too many demands on limited money, time or strength",
+     "ex": "Rising rents have put a heavy strain on young families in the city."
+    },
+    {
+     "w": "hardship",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈhɑːrdʃɪp/",
+     "syl": [
+      "hard",
+      "ship"
+     ],
+     "def": "a situation in which life is difficult, usually because of a lack of money",
+     "ex": "The charity helps students who face financial hardship to buy books."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Behind them, however, lies a more complicated story about prices, pressure and who is really doing the spending.",
+     "kind": "Main idea",
+     "note": "The sentence after “however” sets up the whole article: the big numbers hide a more complex reality. TOEFL main-idea answers often follow a contrast word."
+    },
+    {
+     "para": 3,
+     "text": "If prices are climbing by nearly 4 percent, then most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves.",
+     "kind": "Cause → effect",
+     "note": "This “if … then” sentence explains the key economic idea of the passage: rising prices, not more goods, drive most of the growth."
+    },
+    {
+     "para": 4,
+     "text": "Not every increase, however, can be blamed on trade policy.",
+     "kind": "Topic sentence",
+     "note": "A short sentence that turns the paragraph from tariffs to “tariff gouging.” Rhetorical-purpose questions often ask why an example follows such a turn."
+    },
+    {
+     "para": 6,
+     "text": "From this perspective, the American consumer remains remarkably resilient, continuing to spend despite years of rising costs.",
+     "kind": "Interpretation",
+     "note": "“From this perspective” signals one side's view, not the author's. Inference questions test whether you can tell whose opinion is being reported."
+    },
+    {
+     "para": 7,
+     "text": "If growth depends mainly on the richest households, the overall figures may hide real hardship for everyone else.",
+     "kind": "Hedging",
+     "note": "“May hide” is cautious language. Answers with “proves” or “always” would be too extreme for this claim."
+    },
+    {
+     "para": 8,
+     "text": "Before celebrating or worrying about any statistic, it is worth asking what is being measured, whose behaviour it reflects, and what it leaves out.",
+     "kind": "Author's view",
+     "note": "The final sentence gives the author's lesson. It is a strong candidate for a summary's main idea."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 6,
+     "q": "The word “resilient” in paragraph 6 is closest in meaning to",
+     "opts": [
+      "able to keep going despite difficulties",
+      "able to bend and return to its original shape",
+      "unwilling to change its habits",
+      "careful about spending money"
+     ],
+     "a": 0,
+     "evidence": "the American consumer remains remarkably resilient, continuing to spend despite years of rising costs",
+     "why": "The phrase that follows, “continuing to spend despite years of rising costs,” defines “resilient”: consumers keep going even under pressure.",
+     "optWhy": [
+      "Correct. “Resilient, continuing to spend despite years of rising costs” = able to keep going despite difficulties.",
+      "Wrong: another meaning of the word. Materials such as rubber are “resilient” when they spring back into shape, but the text describes people who keep spending, not a physical object.",
+      "Wrong: meaning distorted. The text praises consumers for carrying on “despite years of rising costs”; it does not say they refuse to change. In fact paragraph 5 says “Consumers are clearly adapting.”",
+      "Wrong: opposite idea. Being careful with money is what the pessimists describe in paragraph 7 (“stretch every dollar”); “resilient” here means consumers keep spending."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "From this perspective, the American consumer remains remarkably resilient, continuing to spend despite years of rising costs.",
+       "hl": "continuing to spend despite years of rising costs"
+      },
+      {
+       "para": 5,
+       "text": "Consumers are clearly adapting.",
+       "hl": "adapting"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "Locate “resilient” in the middle of paragraph 6, in the optimists' view."
+      },
+      {
+       "t": "Use the context",
+       "x": "The words right after it, “continuing to spend despite years of rising costs,” explain what it means."
+      },
+      {
+       "t": "Rule out the trap",
+       "x": "The physical meaning (springing back into shape) does not fit a description of shoppers."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what did the Deloitte survey find?",
+     "opts": [
+      "Holiday retail sales would pass $1 trillion for the first time.",
+      "More than 5 percent of shoppers planned to buy gifts online.",
+      "A larger share of people than in any year of the past decade intended to shop over the five-day period.",
+      "Most shoppers planned to spend more money than they did last year."
+     ],
+     "a": 2,
+     "evidence": "87 percent of shoppers planned to buy something during the five days from Thanksgiving to Cyber Monday, the highest share in a decade",
+     "why": "Deloitte found that 87 percent planned to shop during the five days from Thanksgiving to Cyber Monday, “the highest share in a decade.”",
+     "optWhy": [
+      "Wrong: detail swapped. The $1 trillion figure comes from the NRF forecast (“pushing the total to just above $1 trillion”), not from Deloitte.",
+      "Wrong: number borrowed. “More than 5 percent” is the growth predicted by Mastercard and EY-Parthenon; the text never mentions online shopping in this survey.",
+      "Correct. “87 percent … the highest share in a decade” = a larger share than in any year of the past decade; “the five days from Thanksgiving to Cyber Monday” = the five-day period.",
+      "Wrong: not mentioned. Deloitte measured how many people planned to shop, not whether they would spend more than last year."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "A survey by Deloitte found that 87 percent of shoppers planned to buy something during the five days from Thanksgiving to Cyber Monday, the highest share in a decade.",
+       "hl": "the highest share in a decade"
+      },
+      {
+       "para": 2,
+       "text": "Other forecasters are even more optimistic: the Mastercard Economics Institute and the consultancy EY-Parthenon each predict growth of more than 5 percent.",
+       "hl": "more than 5 percent"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan for the name",
+       "x": "Find “Deloitte” in the last sentence of paragraph 2."
+      },
+      {
+       "t": "Match the figures",
+       "x": "Deloitte's finding is about the share of people planning to shop (87 percent), not sales totals."
+      },
+      {
+       "t": "Check each number",
+       "x": "$1 trillion belongs to the NRF and “more than 5 percent” to Mastercard and EY-Parthenon, so A and B borrow the wrong numbers."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are ways that shoppers or stores are changing their behaviour EXCEPT",
+     "opts": [
+      "buying cheaper gifts or less famous brands",
+      "waiting until Cyber Monday to make most of their purchases",
+      "spreading purchases over a longer period of time",
+      "running promotions that last longer but offer smaller discounts"
+     ],
+     "a": 1,
+     "evidence": "the busiest weeks are shifting toward early and mid-December",
+     "why": "Paragraph 5 mentions cheaper gifts and lesser-known brands, spreading purchases out, and longer promotions with smaller discounts. It says shopping is moving toward December, not that people wait for Cyber Monday.",
+     "optWhy": [
+      "Wrong: this IS mentioned. “buying cheaper gifts or switching to lesser-known brands” = cheaper gifts or less famous brands.",
+      "Correct. Cyber Monday is not described as the new peak; the text says “the busiest weeks are shifting toward early and mid-December.”",
+      "Wrong: this IS mentioned. “Many are also spreading their purchases over a longer period.”",
+      "Wrong: this IS mentioned. “Retailers … are running longer promotions with smaller discounts.”"
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Only 17 percent now plan to concentrate their shopping around Black Friday itself, down from 25 percent a year ago, and the busiest weeks are shifting toward early and mid-December.",
+       "hl": "the busiest weeks are shifting toward early and mid-December"
+      },
+      {
+       "para": 5,
+       "text": "Retailers, for their part, are running longer promotions with smaller discounts, which means the single dramatic \"doorbuster\" deal is becoming rarer.",
+       "hl": "running longer promotions with smaller discounts"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the changes",
+       "x": "Underline every change in paragraph 5: cheaper gifts, other brands, spreading purchases, longer promotions."
+      },
+      {
+       "t": "Tick off the options",
+       "x": "Match A, C and D to these phrases one by one."
+      },
+      {
+       "t": "Find the odd one out",
+       "x": "Nothing says shoppers wait for Cyber Monday; the shift is toward early and mid-December."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about the forecast 4.2 percent rise in holiday sales?",
+     "opts": [
+      "It shows that shoppers will take home about 4 percent more goods than last year.",
+      "It will be completely cancelled out by inflation, leaving sales lower than last year.",
+      "It was calculated by counting the actual number of items sold.",
+      "It probably represents only a small increase in the quantity of goods bought."
+     ],
+     "a": 3,
+     "evidence": "most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves",
+     "why": "If inflation is about 3.8 percent and sales rise 4.2 percent, most of the rise comes from higher prices, so the real increase in goods bought must be small.",
+     "optWhy": [
+      "Wrong: the common mistake the paragraph corrects. The text says the rise reflects “higher price tags rather than more goods leaving the shelves.”",
+      "Wrong: too extreme. The text says “most of” the rise reflects higher prices, not all of it, and never says real sales will fall.",
+      "Wrong: reversed. “Sales are measured in dollars,” not in actual quantities; counting items would be real growth.",
+      "Correct. “Most of a 4.2 percent rise … reflects higher price tags” → only a small part reflects more goods, so the real increase is small."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Sales are measured in dollars, and dollars buy less when prices rise.",
+       "hl": "Sales are measured in dollars"
+      },
+      {
+       "para": 3,
+       "text": "If prices are climbing by nearly 4 percent, then most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves.",
+       "hl": "most of a 4.2 percent rise in sales simply reflects higher price tags"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the numbers",
+       "x": "Paragraph 3 compares 3.8 percent inflation with the 4.2 percent rise in sales."
+      },
+      {
+       "t": "Do the reasoning",
+       "x": "If most of the 4.2 percent is price, only a little is extra goods."
+      },
+      {
+       "t": "Watch the strength",
+       "x": "“Most of,” not “all of,” so B is too extreme; C reverses how sales are measured."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention Kyle Peacock's accusation of “tariff gouging” in paragraph 4?",
+     "opts": [
+      "To show that not all recent price rises are a direct result of trade policy",
+      "To prove that tariffs have had no effect on the price of toys",
+      "To explain how governments decide which imported goods to tax",
+      "To argue that Canadian shoppers pay more than American shoppers"
+     ],
+     "a": 0,
+     "evidence": "Not every increase, however, can be blamed on trade policy.",
+     "why": "The example comes straight after “Not every increase, however, can be blamed on trade policy,” so it illustrates price rises that tariffs do not explain.",
+     "optWhy": [
+      "Correct. Peacock's accusation (“raising prices even on products that face no new tariff”) supports the claim that “Not every increase … can be blamed on trade policy.”",
+      "Wrong: too extreme and contradicted. The same paragraph says retailers passed on tariff costs and “toy prices alone have risen by 13.2 percent.”",
+      "Wrong: not the purpose. Tariffs are defined in one phrase, but the paragraph never explains how governments choose goods to tax.",
+      "Wrong: not mentioned. Peacock is Canadian, but the paragraph compares no prices between Canada and the United States."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Not every increase, however, can be blamed on trade policy.",
+       "hl": "Not every increase, however, can be blamed on trade policy."
+      },
+      {
+       "para": 4,
+       "text": "Retailers that import toys, electronics and clothing have passed part of the extra cost on to customers, and toy prices alone have risen by 13.2 percent since the start of the year.",
+       "hl": "toy prices alone have risen by 13.2 percent"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "Peacock appears in the second half of paragraph 4."
+      },
+      {
+       "t": "Read the sentence before it",
+       "x": "“Not every increase … can be blamed on trade policy” is the point the example supports."
+      },
+      {
+       "t": "Rule out extremes",
+       "x": "B ignores the 13.2 percent rise in toy prices; C and D are not discussed."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "UBS analysts say wealthy shoppers caused the recent fall in stock prices.",
+      "UBS analysts also warn that falling share prices may lead even the wealthier shoppers who have supported the economy to spend more carefully.",
+      "UBS analysts believe wealthy shoppers will keep the economy strong despite the fall in share prices.",
+      "UBS analysts warn that cautious shoppers have already pushed the economy into decline."
+     ],
+     "a": 1,
+     "highlight": "Analysts at the bank UBS have added a further warning: a recent fall in stock prices could make even wealthier shoppers, whose spending has propped up the economy, more cautious.",
+     "evidence": "a recent fall in stock prices could make even wealthier shoppers, whose spending has propped up the economy, more cautious",
+     "why": "The sentence says a fall in stock prices could make wealthier shoppers, who have supported the economy, more cautious. Option B keeps all three parts and the cautious “could/may.”",
+     "optWhy": [
+      "Wrong: cause reversed. In the sentence, the fall in stock prices affects shoppers; shoppers did not cause the fall.",
+      "Correct. “could make even wealthier shoppers … more cautious” = may lead even wealthier shoppers to spend more carefully; “propped up the economy” = supported the economy.",
+      "Wrong: contradiction. The sentence is a “warning” that these shoppers may become cautious, not a prediction that they will keep the economy strong.",
+      "Wrong: too certain. The sentence uses “could” about the future; it does not say the economy has “already” declined."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Analysts at the bank UBS have added a further warning: a recent fall in stock prices could make even wealthier shoppers, whose spending has propped up the economy, more cautious.",
+       "hl": "could make even wealthier shoppers, whose spending has propped up the economy, more cautious"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Cause: a fall in stock prices. Who: wealthier shoppers who have propped up the economy. Effect: they could become more cautious."
+      },
+      {
+       "t": "Keep the strength",
+       "x": "“Could” is a possibility, so the right answer must also be cautious (may)."
+      },
+      {
+       "t": "Check direction",
+       "x": "A reverses cause and effect, C contradicts the warning, and D is too certain."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261127-1-k1",
+     "tag": "The forecast",
+     "fact": "The NRF expects November–December US retail sales to rise 4.2 percent to just above $1 trillion.",
+     "q": "What total does the NRF expect for holiday sales?",
+     "opts": [
+      "Just above $1 trillion",
+      "About $500 billion",
+      "Exactly $4.2 trillion"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-1-k2",
+     "tag": "Inflation",
+     "fact": "Inflation of about 3.8 percent means most of the sales growth comes from higher prices, not more goods.",
+     "q": "Why is the 4.2 percent rise less impressive than it looks?",
+     "opts": [
+      "Prices are rising almost as fast",
+      "Fewer stores are open",
+      "Online sales are not counted"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-1-k3",
+     "tag": "Nominal vs real",
+     "fact": "Nominal growth is measured in money; real growth is measured in actual quantities.",
+     "q": "Which kind of growth counts actual quantities of goods?",
+     "opts": [
+      "Nominal growth",
+      "Real growth"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261127-1-k4",
+     "tag": "Tariffs",
+     "fact": "Toy prices have risen 13.2 percent this year, partly because of tariffs, but critics warn of “tariff gouging.”",
+     "q": "What does “tariff gouging” describe?",
+     "opts": [
+      "Raising prices even where no new tariff applies",
+      "Cutting prices to avoid tariffs",
+      "Governments doubling tariffs"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-1-k5",
+     "tag": "New habits",
+     "fact": "Only 17 percent of shoppers plan to focus on Black Friday itself, down from 25 percent a year ago.",
+     "q": "How has the share of Black Friday-focused shoppers changed?",
+     "opts": [
+      "It rose to 25 percent",
+      "It fell from 25 to 17 percent",
+      "It stayed the same"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261127-1-k6",
+     "tag": "Two views",
+     "fact": "Optimists see resilient consumers; pessimists see strain among middle- and lower-income households.",
+     "q": "Who is most likely to cut back, according to Kearney?",
+     "opts": [
+      "The richest households",
+      "Middle- and lower-income households",
+      "Retail workers only"
+     ],
+     "a": 1
+    }
+   ],
+   "mindmap": {
+    "center": "Black Friday 2026",
+    "question": "Do bigger sales mean a stronger economy?",
+    "branches": [
+     {
+      "title": "Big numbers",
+      "paras": "1–2",
+      "blanks": [
+       "just above $1 trillion",
+       "highest share in a decade"
+      ],
+      "kps": [
+       "n20261127-1-k1"
+      ]
+     },
+     {
+      "title": "Hidden prices",
+      "paras": "3–4",
+      "blanks": [
+       "nominal vs real growth",
+       "tariff gouging"
+      ],
+      "kps": [
+       "n20261127-1-k2",
+       "n20261127-1-k3",
+       "n20261127-1-k4"
+      ]
+     },
+     {
+      "title": "Shopper habits",
+      "paras": "5",
+      "blanks": [
+       "cheaper gifts and brands",
+       "spread into December"
+      ],
+      "kps": [
+       "n20261127-1-k5"
+      ]
+     },
+     {
+      "title": "Two views",
+      "paras": "6–7",
+      "blanks": [
+       "resilient consumers",
+       "strain on lower incomes"
+      ],
+      "kps": [
+       "n20261127-1-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "record discounts on electronics",
+     "real spending falls sharply"
+    ]
+   },
+   "summary": {
+    "intro": "US holiday sales are forecast to pass $1 trillion, but higher prices explain much of the growth.",
+    "model": "Holiday sales are forecast to top $1 trillion; however, because inflation is close to 4 percent, most of the growth reflects higher prices. Shoppers are adapting while experts disagree about whether consumers are resilient or under strain.",
+    "options": [
+     {
+      "t": "Most of the forecast rise in sales comes from higher prices rather than from people buying more goods.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "most of a 4.2 percent rise in sales simply reflects higher price tags"
+     },
+     {
+      "t": "Shoppers and stores are changing their habits, choosing cheaper goods and spreading purchases over a longer season.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Consumers are clearly adapting."
+     },
+     {
+      "t": "Experts disagree about whether consumers are resilient or whether lower-income households are under growing strain.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Pessimists, by contrast, point to signs of strain beneath the surface."
+     },
+     {
+      "t": "Toy prices have risen by 13.2 percent since the start of the year.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "toy prices alone have risen by 13.2 percent"
+     },
+     {
+      "t": "Most shoppers now prefer to buy their gifts from second-hand stores.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Because sales are growing quickly, economists agree that families are better off than last year.",
+      "ok": false,
+      "type": "contra",
+      "para": 8,
+      "evidence": "the headline number alone cannot tell us how families are really doing"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think big shopping events like Black Friday are good because they help families save money and support jobs. Others think they mainly encourage people to buy things they do not need. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Pick one side; give two reasons (saving money, jobs, waste, pressure to buy); add a personal or class example; end with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Lin: This year, US holiday sales are expected to pass $1 trillion for the first time. However, with inflation near 4 percent, most of that growth reflects higher prices rather than more goods. Some people think record sales show the economy is healthy. Others believe headline numbers like this hide how hard life is for many families. Which view do you find more convincing, and why?\nAmy: “I think record sales are good news. If people were really struggling, they would not plan to shop in such large numbers. Strong spending also keeps millions of workers in stores and warehouses employed.”\nKevin: “I'm not convinced. If prices are rising almost as fast as sales, people are paying more for the same things. And if mainly wealthy families are spending, the total hides the pressure on everyone else.”",
+    "steps": [
+     "State clearly whether record sales mean a healthy economy.",
+     "Respond to Amy or Kevin and add a new reason.",
+     "Use a fact from the article (4.2 percent vs 3.8 percent, 82 percent cutting costs).",
+     "Finish with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_heart"
+  },
+  {
+   "id": "n20261127-2",
+   "topic": "Technology",
+   "title": "A Million Satellites for AI: Progress in Orbit or a Crowded Sky?",
+   "dek": "US regulators have cleared SpaceX to launch up to a million computing satellites. Is this a smart answer to AI's hunger for energy, or a risky race to claim a shared space?",
+   "sources": [
+    {
+     "name": "Via Satellite, 25 Nov 2026",
+     "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
+    },
+    {
+     "name": "GeekWire, 25 Nov 2026",
+     "url": "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/"
+    },
+    {
+     "name": "SiliconANGLE, 25 Nov 2026",
+     "url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/"
+    }
+   ],
+   "paras": [
+    "For most of the space age, satellites were rare and expensive objects, launched one or two at a time. That era is ending. On November 25, the United States Federal Communications Commission (FCC) gave SpaceX permission to place up to one million satellites in orbit around Earth. The satellites would not carry television signals or internet traffic for homes. Instead, they would form \"Starmind,\" a network of orbiting computers designed to run artificial intelligence.",
+    "The idea behind Starmind is simple, even if building it will not be. Training and running AI systems requires enormous data centres, which consume vast amounts of electricity, need water for cooling and occupy large areas of land. In orbit, a satellite can collect solar energy almost continuously, without clouds or night-time interruptions, and release excess heat into space through radiators. According to the trade publication Via Satellite, each Starmind satellite would carry a computing payload using about 175 kilowatts of power on average. Supporters argue that moving computing off the planet could ease the pressure that AI is placing on power grids and local communities.",
+    "The approval comes with detailed conditions. The satellites must fly in six orbital \"shells\" between 500 and 1,002 kilometres above Earth, and they will communicate mainly by laser links rather than radio. SpaceX must have its first satellite operating by 2033, reach 100,000 satellites by 2035 and complete the full constellation by 2040, or the licence will lapse. Crucially, the FCC found that SpaceX's plan for avoiding space debris met its rules only for satellites below 600 kilometres. Since four of the six shells sit above that height, the company must submit a final debris plan before it can use them.",
+    "Those conditions reflect a concern that worries many scientists: orbital debris. Objects in low orbit travel at around 28,000 kilometres per hour, so even a fragment the size of a coin can destroy a satellite. Experts have long warned of the Kessler syndrome, a chain reaction in which collisions create debris that causes further collisions, until some orbits become too dangerous to use. Today, the total number of active satellites is in the tens of thousands at most. Adding a million more, critics say, would transform the orbital environment in ways no one can fully predict.",
+    "Astronomers have a separate complaint. Bright satellites leave streaks across telescope images, and a sky filled with sunlit machines could interfere with research and change the view of the night sky for everyone. The American Astronomical Society said it was \"disheartened and dismayed\" by the decision. The FCC, however, ruled that the brightness of satellites falls outside the scope of a licence that regulates radio signals. The Secure World Foundation, a group focused on the sustainable use of space, has argued that projects on this scale should be approved in phases, with each stage depending on proof that the previous one works safely.",
+    "Competitors raised doubts of a different kind. Amazon, which is building its own satellite network, called SpaceX's proposal \"a lofty ambition rather than a real plan,\" and the satellite company Viasat also asked regulators to reject it. The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application. FCC Chairman Brendan Carr praised the project for moving computing capacity beyond Earth, while Elon Musk, SpaceX's founder, predicted it would be \"a great asset to America and the world.\" Other firms, including Blue Origin and the start-up Starcloud, have filed plans for tens of thousands of orbital computers of their own.",
+    "Behind the technical arguments lies a larger question about who controls space. Low Earth orbit is not owned by any one country, yet decisions made by a single national regulator can shape it for everyone. Supporters see the FCC's approval as a bold step that keeps innovation moving and may reduce AI's environmental footprint on the ground. Critics see a race to claim a shared resource before the rules are ready. The million-satellite figure is a ceiling, not a guarantee, and the engineering and economics remain unproven. Even so, the decision marks the moment when the idea of an industrial orbit, crowded with working machines, moved from science fiction to official paperwork."
+   ],
+   "words": [
+    {
+     "w": "constellation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˌkɑːnstəˈleɪʃən/",
+     "syl": [
+      "con",
+      "stel",
+      "la",
+      "tion"
+     ],
+     "def": "a large group of satellites that work together as one system",
+     "ex": "The new constellation will provide internet access to remote villages."
+    },
+    {
+     "w": "orbit",
+     "level": "Topic term",
+     "pos": "noun / verb",
+     "ipa": "/ˈɔːrbɪt/",
+     "syl": [
+      "or",
+      "bit"
+     ],
+     "def": "the curved path that an object follows around a planet or star",
+     "ex": "The space station completes one orbit of Earth roughly every 90 minutes."
+    },
+    {
+     "w": "debris",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/dəˈbriː/",
+     "syl": [
+      "de",
+      "bris"
+     ],
+     "def": "broken pieces left after something has been destroyed; in space, old or broken objects that no longer work",
+     "ex": "Volunteers spent the morning clearing debris from the beach after the storm."
+    },
+    {
+     "w": "payload",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpeɪloʊd/",
+     "syl": [
+      "pay",
+      "load"
+     ],
+     "def": "the equipment a rocket or satellite carries to do its main job",
+     "ex": "The rocket's payload included a weather camera and two small research satellites."
+    },
+    {
+     "w": "regulator",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈreɡjəleɪtər/",
+     "syl": [
+      "reg",
+      "u",
+      "la",
+      "tor"
+     ],
+     "def": "an official organization that makes sure companies follow rules in a particular area",
+     "ex": "The energy regulator ordered the company to lower its prices."
+    },
+    {
+     "w": "lapse",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/læps/",
+     "syl": [
+      "lapse"
+     ],
+     "def": "to stop being valid because the time allowed has ended or a condition was not met",
+     "ex": "If you do not renew your passport, it will lapse after ten years."
+    },
+    {
+     "w": "transform",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/trænsˈfɔːrm/",
+     "syl": [
+      "trans",
+      "form"
+     ],
+     "def": "to change something completely, usually in an important way",
+     "ex": "Cheap smartphones have helped transform the way farmers sell their crops."
+    },
+    {
+     "w": "interfere",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌɪntərˈfɪr/",
+     "syl": [
+      "in",
+      "ter",
+      "fere"
+     ],
+     "def": "to stop something from happening or working properly",
+     "ex": "Loud music from next door began to interfere with her revision."
+    },
+    {
+     "w": "sustainable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/səˈsteɪnəbəl/",
+     "syl": [
+      "sus",
+      "tain",
+      "a",
+      "ble"
+     ],
+     "def": "able to continue for a long time without causing damage or using up resources",
+     "ex": "The school switched to a more sustainable way of heating its buildings."
+    },
+    {
+     "w": "ambition",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/æmˈbɪʃən/",
+     "syl": [
+      "am",
+      "bi",
+      "tion"
+     ],
+     "def": "a strong wish to achieve something difficult; also the plan or aim itself",
+     "ex": "Her ambition is to design a bridge that can survive any earthquake."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Instead, they would form \"Starmind,\" a network of orbiting computers designed to run artificial intelligence.",
+     "kind": "Main idea",
+     "note": "“Instead” corrects a likely assumption (internet satellites) and names the real purpose. Contrast words often introduce the main idea."
+    },
+    {
+     "para": 2,
+     "text": "Supporters argue that moving computing off the planet could ease the pressure that AI is placing on power grids and local communities.",
+     "kind": "Cause → effect",
+     "note": "This sentence gives the supporters' reason for the project. Notice “argue” and “could”: it is a claim, not a proven fact."
+    },
+    {
+     "para": 3,
+     "text": "Crucially, the FCC found that SpaceX's plan for avoiding space debris met its rules only for satellites below 600 kilometres.",
+     "kind": "Key details",
+     "note": "“Crucially” marks the most important condition. Detail questions often test limiting words such as “only.”"
+    },
+    {
+     "para": 4,
+     "text": "Adding a million more, critics say, would transform the orbital environment in ways no one can fully predict.",
+     "kind": "Critical thinking",
+     "note": "The critics' main worry is uncertainty. Compare “tens of thousands” today with “a million more” to see the scale."
+    },
+    {
+     "para": 6,
+     "text": "The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application.",
+     "kind": "Key details",
+     "note": "This explains how the regulator answered business objections. Sentence-simplification questions test whether you keep both the reason and the result."
+    },
+    {
+     "para": 7,
+     "text": "Critics see a race to claim a shared resource before the rules are ready.",
+     "kind": "Interpretation",
+     "note": "A short sentence that sums up the opposing view. It links to the larger question of who controls space."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “lapse” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "be renewed automatically",
+      "be delayed for a short time",
+      "stop being valid",
+      "contain a small mistake"
+     ],
+     "a": 2,
+     "evidence": "or the licence will lapse",
+     "why": "The licence will “lapse” if SpaceX misses its deadlines, so the word means the licence will stop being valid.",
+     "optWhy": [
+      "Wrong: opposite meaning. Missing the deadlines is a penalty, so the licence would not continue automatically.",
+      "Wrong: meaning weakened. The text gives fixed deadlines (2033, 2035, 2040); missing them ends the licence rather than delaying it.",
+      "Correct. “or the licence will lapse” = the licence will stop being valid if the milestones are missed.",
+      "Wrong: another meaning of the word. As a noun, “a lapse” can be a small mistake, but here “lapse” is a verb describing what happens to the licence."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "SpaceX must have its first satellite operating by 2033, reach 100,000 satellites by 2035 and complete the full constellation by 2040, or the licence will lapse.",
+       "hl": "or the licence will lapse"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "“Lapse” ends the sentence about deadlines in paragraph 3."
+      },
+      {
+       "t": "Use the logic",
+       "x": "“Must … or” shows a penalty: if SpaceX fails, something bad happens to the licence."
+      },
+      {
+       "t": "Rule out the trap",
+       "x": "The noun meaning “small mistake” does not fit a verb describing a licence."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, why might computing in orbit have an advantage over data centres on Earth?",
+     "opts": [
+      "Satellites are cheaper to build than buildings on the ground.",
+      "Space is so cold that satellites need no system for removing heat.",
+      "Computers in orbit do not need any electricity to run.",
+      "Satellites can collect solar power almost without interruption."
+     ],
+     "a": 3,
+     "evidence": "a satellite can collect solar energy almost continuously, without clouds or night-time interruptions",
+     "why": "The paragraph says a satellite can collect solar energy almost continuously, without clouds or night-time interruptions.",
+     "optWhy": [
+      "Wrong: not mentioned. The paragraph says building Starmind “will not be” simple and never compares costs.",
+      "Wrong: too extreme. Satellites still need to “release excess heat into space through radiators.”",
+      "Wrong: contradiction. Each satellite uses “about 175 kilowatts of power on average”; the advantage is the energy source, not needing no power.",
+      "Correct. “collect solar energy almost continuously, without clouds or night-time interruptions” = collect solar power almost without interruption."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "In orbit, a satellite can collect solar energy almost continuously, without clouds or night-time interruptions, and release excess heat into space through radiators.",
+       "hl": "collect solar energy almost continuously"
+      },
+      {
+       "para": 2,
+       "text": "According to the trade publication Via Satellite, each Starmind satellite would carry a computing payload using about 175 kilowatts of power on average.",
+       "hl": "about 175 kilowatts of power"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the comparison",
+       "x": "Paragraph 2 contrasts Earth data centres (electricity, water, land) with satellites “In orbit.”"
+      },
+      {
+       "t": "Match the advantage",
+       "x": "The stated advantage is near-continuous solar energy and heat release through radiators."
+      },
+      {
+       "t": "Check the extremes",
+       "x": "B and C say “no” cooling or “no” electricity, but the text mentions radiators and 175 kilowatts."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 3,
+     "q": "According to paragraph 3, all of the following are conditions of the FCC's approval EXCEPT",
+     "opts": [
+      "SpaceX must launch all one million satellites by 2033.",
+      "The satellites must fly between 500 and 1,002 kilometres above Earth.",
+      "SpaceX must reach 100,000 satellites by 2035.",
+      "SpaceX needs a final debris plan before using the higher shells."
+     ],
+     "a": 0,
+     "evidence": "SpaceX must have its first satellite operating by 2033",
+     "why": "2033 is the deadline for the first satellite, not for all one million; the full constellation is due by 2040.",
+     "optWhy": [
+      "Correct. This is NOT a condition: the text says the “first satellite operating by 2033” and the “full constellation by 2040.”",
+      "Wrong: this IS a condition. “six orbital \"shells\" between 500 and 1,002 kilometres above Earth.”",
+      "Wrong: this IS a condition. “reach 100,000 satellites by 2035.”",
+      "Wrong: this IS a condition. “the company must submit a final debris plan before it can use them.”"
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "SpaceX must have its first satellite operating by 2033, reach 100,000 satellites by 2035 and complete the full constellation by 2040, or the licence will lapse.",
+       "hl": "first satellite operating by 2033"
+      },
+      {
+       "para": 3,
+       "text": "Since four of the six shells sit above that height, the company must submit a final debris plan before it can use them.",
+       "hl": "must submit a final debris plan"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the conditions",
+       "x": "Paragraph 3 gives the height range, three deadlines and the debris-plan rule."
+      },
+      {
+       "t": "Match the numbers",
+       "x": "Check each year: 2033 = first satellite, 2035 = 100,000, 2040 = full constellation."
+      },
+      {
+       "t": "Spot the swap",
+       "x": "Option A attaches the 2033 date to the full million, so it is not a real condition."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the FCC's response to astronomers' concerns?",
+     "opts": [
+      "The FCC agreed that SpaceX should make its satellites less bright.",
+      "The FCC did not treat the brightness of satellites as a reason to change its decision.",
+      "The FCC believes astronomers have exaggerated the number of satellites planned.",
+      "The FCC decided to approve the project in several separate phases."
+     ],
+     "a": 1,
+     "evidence": "the brightness of satellites falls outside the scope of a licence that regulates radio signals",
+     "why": "The FCC ruled that satellite brightness falls outside the scope of a radio licence, so it did not let this concern change its approval.",
+     "optWhy": [
+      "Wrong: contradiction. The FCC said brightness “falls outside the scope” of the licence, so it set no brightness rule.",
+      "Correct. Brightness “falls outside the scope of a licence that regulates radio signals” → the FCC did not use it as a reason to change the decision.",
+      "Wrong: not mentioned. Nothing in the paragraph suggests the FCC questioned the number of satellites.",
+      "Wrong: idea borrowed from another group. Approval “in phases” is what the Secure World Foundation wants, not what the FCC decided."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "The FCC, however, ruled that the brightness of satellites falls outside the scope of a licence that regulates radio signals.",
+       "hl": "falls outside the scope of a licence"
+      },
+      {
+       "para": 5,
+       "text": "The Secure World Foundation, a group focused on the sustainable use of space, has argued that projects on this scale should be approved in phases, with each stage depending on proof that the previous one works safely.",
+       "hl": "should be approved in phases"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the FCC's reply",
+       "x": "Look for “The FCC, however, ruled” in paragraph 5."
+      },
+      {
+       "t": "Infer the result",
+       "x": "If brightness is outside the licence's scope, the FCC would not change the approval because of it."
+      },
+      {
+       "t": "Check who said what",
+       "x": "The “phases” idea belongs to the Secure World Foundation, so D mixes up speakers."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention that “even a fragment the size of a coin can destroy a satellite” in paragraph 4?",
+     "opts": [
+      "To compare the size of Starmind satellites with older ones",
+      "To suggest that small pieces of debris are easy to avoid",
+      "To illustrate how dangerous tiny objects become at very high speeds",
+      "To show that most satellites today are destroyed by collisions"
+     ],
+     "a": 2,
+     "evidence": "Objects in low orbit travel at around 28,000 kilometres per hour, so even a fragment the size of a coin can destroy a satellite.",
+     "why": "The coin example follows the speed of 28,000 kilometres per hour, showing that speed makes even tiny debris deadly. This supports the paragraph's point about the danger of debris.",
+     "optWhy": [
+      "Wrong: not the purpose. The paragraph never discusses how big Starmind satellites are.",
+      "Wrong: contradiction. The example shows that small debris is dangerous, not easy to avoid.",
+      "Correct. “travel at around 28,000 kilometres per hour, so even a fragment the size of a coin can destroy a satellite” = tiny objects are dangerous at high speed.",
+      "Wrong: too extreme. The text says a coin-sized fragment “can” destroy a satellite, not that most satellites are destroyed this way."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Objects in low orbit travel at around 28,000 kilometres per hour, so even a fragment the size of a coin can destroy a satellite.",
+       "hl": "even a fragment the size of a coin can destroy a satellite"
+      },
+      {
+       "para": 4,
+       "text": "Those conditions reflect a concern that worries many scientists: orbital debris.",
+       "hl": "orbital debris"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the example",
+       "x": "The coin appears in the second sentence of paragraph 4."
+      },
+      {
+       "t": "Link it to the point",
+       "x": "The first sentence names the concern (orbital debris); the coin shows how serious it is."
+      },
+      {
+       "t": "Rule out the rest",
+       "x": "B reverses the message, D turns “can” into “most,” and A is not discussed."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 6,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 6? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "Saying that judging a company's chances of success is not its role, the FCC refused to stop the plan.",
+      "The FCC rejected the application because it doubted that the business would succeed.",
+      "The FCC promised to study the business carefully before deciding whether to block the application.",
+      "The FCC answered Amazon's complaints because judging businesses is part of its job."
+     ],
+     "a": 0,
+     "highlight": "The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application.",
+     "evidence": "questions about whether a business will succeed are not part of its job, and it declined to block the application",
+     "why": "The sentence has a reason (judging business success is not the FCC's job) and a result (it did not block the application). Option A keeps both.",
+     "optWhy": [
+      "Correct. “questions about whether a business will succeed are not part of its job” = judging a company's chances is not its role; “declined to block the application” = refused to stop the plan.",
+      "Wrong: reversed. The FCC did not reject the application; it “declined to block” it.",
+      "Wrong: contradiction. The FCC said business questions are “not part of its job,” so it would not study them before deciding.",
+      "Wrong: meaning reversed. The sentence says judging business success is “not part of its job.”"
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application.",
+       "hl": "declined to block the application"
+      },
+      {
+       "para": 6,
+       "text": "Amazon, which is building its own satellite network, called SpaceX's proposal \"a lofty ambition rather than a real plan,\" and the satellite company Viasat also asked regulators to reject it.",
+       "hl": "a lofty ambition rather than a real plan"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Reason: business success is not the FCC's job. Result: it declined to block the application."
+      },
+      {
+       "t": "Paraphrase both parts",
+       "x": "Look for an option that keeps the reason and the result in the right order."
+      },
+      {
+       "t": "Watch for reversals",
+       "x": "B turns “declined to block” into “rejected,” and D turns “not part of its job” into “part of its job.”"
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261127-2-k1",
+     "tag": "The decision",
+     "fact": "On November 25 the FCC allowed SpaceX to place up to one million AI-computing satellites in orbit.",
+     "q": "What will the Starmind satellites mainly do?",
+     "opts": [
+      "Run artificial intelligence",
+      "Provide home TV signals",
+      "Study the weather"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-2-k2",
+     "tag": "Why orbit?",
+     "fact": "In orbit, satellites can collect solar energy almost continuously and release heat through radiators.",
+     "q": "What is one claimed advantage of computing in orbit?",
+     "opts": [
+      "Almost constant solar power",
+      "No need for electricity",
+      "Lower launch costs"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-2-k3",
+     "tag": "Deadlines",
+     "fact": "SpaceX needs its first satellite by 2033, 100,000 by 2035 and the full constellation by 2040.",
+     "q": "By when must the full constellation be complete?",
+     "opts": [
+      "2033",
+      "2035",
+      "2040"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261127-2-k4",
+     "tag": "Debris rule",
+     "fact": "SpaceX's debris plan met FCC rules only below 600 km, so it needs a final plan for the higher shells.",
+     "q": "Below what height did the debris plan meet the rules?",
+     "opts": [
+      "600 km",
+      "1,002 km",
+      "28,000 km"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-2-k5",
+     "tag": "Objections",
+     "fact": "Astronomers, debris experts and rivals such as Amazon objected, but the FCC declined to block the plan.",
+     "q": "Why did the FCC ignore doubts about business success?",
+     "opts": [
+      "It said this was not its job",
+      "It agreed with Amazon",
+      "It had already tested the satellites"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Starmind satellites",
+    "question": "Smart solution or crowded sky?",
+    "branches": [
+     {
+      "title": "The plan",
+      "paras": "1–2",
+      "blanks": [
+       "up to one million satellites",
+       "near-constant solar energy"
+      ],
+      "kps": [
+       "n20261127-2-k1",
+       "n20261127-2-k2"
+      ]
+     },
+     {
+      "title": "Conditions",
+      "paras": "3",
+      "blanks": [
+       "full constellation by 2040",
+       "final debris plan"
+      ],
+      "kps": [
+       "n20261127-2-k3",
+       "n20261127-2-k4"
+      ]
+     },
+     {
+      "title": "Risks",
+      "paras": "4–5",
+      "blanks": [
+       "Kessler syndrome",
+       "streaks across telescope images"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Who decides?",
+      "paras": "6–7",
+      "blanks": [
+       "declined to block",
+       "a shared resource"
+      ],
+      "kps": [
+       "n20261127-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "satellites deliver home internet",
+     "UN approves the network"
+    ]
+   },
+   "summary": {
+    "intro": "The FCC has allowed SpaceX to launch up to a million satellites that would run AI computing in orbit.",
+    "model": "The FCC approved SpaceX's plan for up to a million AI-computing satellites, while setting deadlines and debris rules. However, astronomers, debris experts and rivals worry about crowded orbits, so the decision raises questions about who controls space.",
+    "options": [
+     {
+      "t": "SpaceX wants to move AI computing into orbit, where satellites can use almost constant solar power.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "a satellite can collect solar energy almost continuously"
+     },
+     {
+      "t": "Scientists warn that a huge increase in satellites could raise the risk of debris and harm astronomy.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Those conditions reflect a concern that worries many scientists: orbital debris."
+     },
+     {
+      "t": "The approval raises a wider question about whether one national regulator should shape a shared space.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Behind the technical arguments lies a larger question about who controls space."
+     },
+     {
+      "t": "The satellites will communicate mainly by laser links rather than radio.",
+      "ok": false,
+      "type": "detail",
+      "para": 3,
+      "evidence": "they will communicate mainly by laser links rather than radio"
+     },
+     {
+      "t": "SpaceX will charge universities a fee to use the orbiting computers for research.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The FCC blocked the plan after Amazon showed that it was not a real business plan.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "it declined to block the application"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe that space should be open to any company that can afford to launch satellites. Others think that a global organization should decide how space is used. Which view do you agree with? Explain with specific reasons and examples.",
+    "hint": "Choose a side; give two reasons (innovation, fairness, safety, speed of decisions); use the Starmind example; end with a clear conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Ahmed: This week the US Federal Communications Commission allowed SpaceX to launch up to one million satellites that would run artificial intelligence in orbit. Supporters say this could reduce the pressure AI places on power grids on Earth. Critics warn about space debris, damage to astronomy and one country making decisions about a shared resource. Should governments approve projects like this now, or wait until stronger international rules exist? Why?\nSophie: “I think they should approve them now, with conditions. The FCC set deadlines and debris rules, and waiting for every country to agree could take decades. Meanwhile, AI data centres on Earth keep using more power and water.”\nDaniel: “I disagree. Once a million satellites are in orbit, mistakes cannot be undone. A shared space should have shared rules, and approving projects step by step would be much safer.”",
+    "steps": [
+     "State whether you think approval should come now or later.",
+     "Respond to Sophie or Daniel and add your own reason.",
+     "Use a fact from the article (500–1,002 km, 2040 deadline, debris rule below 600 km).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_michael"
+  },
+  {
+   "id": "n20261127-3",
+   "topic": "Animals",
+   "title": "Smoke over Borneo: What Wildfires Mean for Orangutans",
+   "dek": "Indonesia's worst fire season in a decade has reached the forests where orangutans live. Is this a natural disaster, or the result of human choices about land?",
+   "sources": [
+    {
+     "name": "Nature News, 26 Nov 2026",
+     "url": "https://www.nature.com/articles/d41586-026-03828-z"
+    },
+    {
+     "name": "Max Planck Institute of Animal Behavior via EurekAlert, 3 Nov 2026",
+     "url": "https://eurekalert.org/news-releases/1150218"
+    },
+    {
+     "name": "Mongabay, Sep 2026",
+     "url": "https://news.mongabay.com/2026/09/as-fires-spread-in-indonesia-bornean-orangutans-run-out-of-forest-to-flee/"
+    },
+    {
+     "name": "AFP via The Star, 26 Sep 2026",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/26/despite-several-rescue-successes-indonesia039s-fires-threaten-critically-endangered-orangutans-says-iucn"
+    }
+   ],
+   "paras": [
+    "Orangutans spend almost their entire lives in the treetops of the rainforests of Borneo and Sumatra, moving slowly from branch to branch in search of fruit. These great apes share about 97 percent of their DNA with humans and are known for their intelligence and gentle nature. This year, however, their forest home has been burning. A strong El Niño, a climate pattern that brings unusually dry weather to Indonesia, has fuelled one of the worst wildfire seasons in more than a decade, and scientists fear the damage to orangutans may last for years.",
+    "The scale of the fires is hard to measure, and estimates vary widely. Indonesia's government reported that more than 202,000 hectares burned between January and July, while the independent monitoring group Nusantara Atlas estimated about 900,000 hectares by the end of August. Whatever the exact figure, the fires have struck the places where orangutans live. According to the conservation network IUCN, blazes have affected habitats holding 52 percent of Borneo's orangutans, including 13 of the 20 largest populations. The Bornean orangutan is already classed as Critically Endangered, one step away from extinction in the wild.",
+    "Many of the fires are burning in peatland, a type of wetland where dead plant material has built up over thousands of years. When it is wet, peat rarely burns. When it is drained to make way for plantations, it dries out and can smoulder underground for weeks, releasing thick smoke and huge amounts of carbon. In September, Indonesia's forestry ministry froze the business permit of one pulpwood company, Mayawana, whose concession includes large areas of peat and where fires had spread across cleared land. For this reason, many researchers argue that the disaster is not only natural but also the result of human decisions about land.",
+    "Long-term research suggests that the harm to orangutans continues long after the smoke clears. At the Tuanan research station in Central Kalimantan, scientists from the Max Planck Institute of Animal Behavior have followed the same orangutans since 2003. After severe fires in 2015, smoke covered the area for three months, and fruit production fell sharply for about two and a half years. During that period, researchers recorded no pregnancies among the females they studied, and three of the oldest females had disappeared by late 2017. The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.",
+    "The timing matters because orangutans reproduce extremely slowly. A female usually gives birth only once every six to eight years, so a population that loses even a few adult females may need decades to recover. This year's fires have destroyed an estimated 30 percent of the Tuanan study area, compared with about 15 percent of the forest in 2015. \"I'm afraid that the toll will be worse than last time,\" said Maria van Noordwijk, a researcher who has worked at the site for many years.",
+    "Not everyone agrees on where attention should go first. Rescue groups have saved dozens of injured or stranded orangutans this season, and many people see emergency action as the most urgent priority. \"Years of successful conservation work can be undone incredibly quickly by a major fire,\" warned Gavin Bruce of the charity International Animal Rescue. Others argue that rescues alone cannot solve the problem. The Forum Orangutan Indonesia has called for rewetting peatlands and stopping drainage and deforestation, insisting that emergency response must be followed by long-term investment in prevention.",
+    "There is also debate about how much blame to place on climate and how much on land use. El Niño events are natural, but a warming climate may make them more extreme, while drained peat and cleared forest turn dry seasons into disasters. Economic development brings jobs and income to Indonesian communities, which makes the choices difficult. What is clear is that the future of the orangutan depends less on any single rescue than on whether the forests and peatlands it needs can be kept wet, connected and standing."
+   ],
+   "words": [
+    {
+     "w": "habitat",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈhæbɪtæt/",
+     "syl": [
+      "hab",
+      "i",
+      "tat"
+     ],
+     "def": "the natural place where a particular animal or plant lives",
+     "ex": "Building a new road through the wetland would destroy the habitat of many birds."
+    },
+    {
+     "w": "peatland",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈpiːtlænd/",
+     "syl": [
+      "peat",
+      "land"
+     ],
+     "def": "wet land where dead plants have built up slowly into a thick, carbon-rich layer called peat",
+     "ex": "Scientists say that protecting peatland is one of the cheapest ways to store carbon."
+    },
+    {
+     "w": "smoulder",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈsmoʊldər/",
+     "syl": [
+      "smoul",
+      "der"
+     ],
+     "def": "to burn slowly with smoke but without strong flames",
+     "ex": "The campfire continued to smoulder long after everyone had gone to sleep."
+    },
+    {
+     "w": "endangered",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ɪnˈdeɪndʒərd/",
+     "syl": [
+      "en",
+      "dan",
+      "gered"
+     ],
+     "def": "at serious risk of disappearing completely",
+     "ex": "The zoo runs a breeding programme for an endangered species of tortoise."
+    },
+    {
+     "w": "concession",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/kənˈseʃən/",
+     "syl": [
+      "con",
+      "ces",
+      "sion"
+     ],
+     "def": "an area of land that a government allows a company to use for a business such as logging or farming",
+     "ex": "The mining company lost its concession after it polluted the river."
+    },
+    {
+     "w": "deforestation",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/diːˌfɔːrɪˈsteɪʃən/",
+     "syl": [
+      "de",
+      "for",
+      "est",
+      "a",
+      "tion"
+     ],
+     "def": "the cutting down or burning of forests over a large area",
+     "ex": "Satellite images reveal how quickly deforestation has spread along the new highway."
+    },
+    {
+     "w": "reproduce",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˌriːprəˈduːs/",
+     "syl": [
+      "re",
+      "pro",
+      "duce"
+     ],
+     "def": "to produce young animals or plants",
+     "ex": "Some fish reproduce only once in their whole lives."
+    },
+    {
+     "w": "caution",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈkɔːʃən/",
+     "syl": [
+      "cau",
+      "tion"
+     ],
+     "def": "to warn someone to be careful, or not to draw too strong a conclusion",
+     "ex": "Doctors caution that a single study is not enough to change the guidelines."
+    },
+    {
+     "w": "priority",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/praɪˈɔːrəti/",
+     "syl": [
+      "pri",
+      "or",
+      "i",
+      "ty"
+     ],
+     "def": "something that is considered more important than other things and should be dealt with first",
+     "ex": "After the earthquake, the government's first priority was clean water."
+    },
+    {
+     "w": "insist",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ɪnˈsɪst/",
+     "syl": [
+      "in",
+      "sist"
+     ],
+     "def": "to say firmly that something is true or must happen, especially when others disagree",
+     "ex": "My coach likes to insist that rest days are as important as training."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "A strong El Niño, a climate pattern that brings unusually dry weather to Indonesia, has fuelled one of the worst wildfire seasons in more than a decade, and scientists fear the damage to orangutans may last for years.",
+     "kind": "Main idea",
+     "note": "This sentence names the cause (El Niño), the event (fires) and the concern (long-lasting damage). It frames the whole passage."
+    },
+    {
+     "para": 2,
+     "text": "The scale of the fires is hard to measure, and estimates vary widely.",
+     "kind": "Topic sentence",
+     "note": "A topic sentence that prepares you for two very different numbers. TOEFL factual questions often test which figure came from which source."
+    },
+    {
+     "para": 3,
+     "text": "For this reason, many researchers argue that the disaster is not only natural but also the result of human decisions about land.",
+     "kind": "Cause → effect",
+     "note": "“For this reason” links peat drainage to the researchers' conclusion. The “not only … but also” structure is common in summary answers."
+    },
+    {
+     "para": 4,
+     "text": "The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.",
+     "kind": "Hedging",
+     "note": "Scientists separate correlation from proof. Answers saying the fires “definitely” killed the orangutans would be too extreme."
+    },
+    {
+     "para": 5,
+     "text": "A female usually gives birth only once every six to eight years, so a population that loses even a few adult females may need decades to recover.",
+     "kind": "Cause → effect",
+     "note": "This sentence explains why the losses matter so much. Inference questions often build on a “so” sentence like this."
+    },
+    {
+     "para": 7,
+     "text": "What is clear is that the future of the orangutan depends less on any single rescue than on whether the forests and peatlands it needs can be kept wet, connected and standing.",
+     "kind": "Author's view",
+     "note": "The concluding sentence gives the author's position: prevention and habitat matter more than single rescues."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “smoulder” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "flood slowly",
+      "burn slowly without strong flames",
+      "collapse suddenly",
+      "feel anger that is hidden"
+     ],
+     "a": 1,
+     "evidence": "it dries out and can smoulder underground for weeks, releasing thick smoke",
+     "why": "Dry peat “can smoulder underground for weeks, releasing thick smoke,” so the word describes slow burning without strong flames.",
+     "optWhy": [
+      "Wrong: opposite situation. The text says peat “dries out” before it smoulders; flooding would make it wet.",
+      "Correct. “smoulder underground for weeks, releasing thick smoke” = burn slowly, producing smoke but no strong flames.",
+      "Wrong: not supported. “For weeks” shows a slow, long process, not something sudden.",
+      "Wrong: another meaning of the word. People can “smoulder” with hidden anger, but here the subject is peat, which burns."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "When it is drained to make way for plantations, it dries out and can smoulder underground for weeks, releasing thick smoke and huge amounts of carbon.",
+       "hl": "smoulder underground for weeks, releasing thick smoke"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the word",
+       "x": "“Smoulder” is in the sentence about drained peat in paragraph 3."
+      },
+      {
+       "t": "Use the clues",
+       "x": "“For weeks,” “underground” and “releasing thick smoke” describe slow burning."
+      },
+      {
+       "t": "Rule out the trap",
+       "x": "The emotional meaning (hidden anger) does not fit a sentence about peat."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what is true about the estimates of the area burned?",
+     "opts": [
+      "The government's figure is larger than the independent group's.",
+      "Both estimates cover exactly the same months.",
+      "Scientists agree that about 900,000 hectares burned.",
+      "The independent estimate is several times larger than the official one."
+     ],
+     "a": 3,
+     "evidence": "more than 202,000 hectares burned between January and July, while the independent monitoring group Nusantara Atlas estimated about 900,000 hectares by the end of August",
+     "why": "The government reported more than 202,000 hectares, while Nusantara Atlas estimated about 900,000, which is more than four times as large.",
+     "optWhy": [
+      "Wrong: reversed. The government's figure (202,000 hectares) is smaller than Nusantara Atlas's (900,000).",
+      "Wrong: detail contradicted. The government's figure covers “January and July,” while the other runs “by the end of August.”",
+      "Wrong: too certain. The paragraph says “estimates vary widely” and “Whatever the exact figure,” so there is no agreement.",
+      "Correct. 900,000 is more than four times 202,000, so the independent estimate is several times larger than the official one."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Indonesia's government reported that more than 202,000 hectares burned between January and July, while the independent monitoring group Nusantara Atlas estimated about 900,000 hectares by the end of August.",
+       "hl": "about 900,000 hectares"
+      },
+      {
+       "para": 2,
+       "text": "The scale of the fires is hard to measure, and estimates vary widely.",
+       "hl": "estimates vary widely"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find both figures",
+       "x": "Paragraph 2 gives 202,000 hectares (government) and 900,000 hectares (Nusantara Atlas)."
+      },
+      {
+       "t": "Compare them",
+       "x": "900,000 ÷ 202,000 is more than four, so the independent figure is much larger."
+      },
+      {
+       "t": "Check the details",
+       "x": "The periods differ (July vs August), and “estimates vary widely,” so B and C are wrong."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following were recorded at Tuanan after the 2015 fires EXCEPT",
+     "opts": [
+      "smoke covering the area for three months",
+      "a sharp fall in fruit production",
+      "orangutans moving to unburned forests far away",
+      "the disappearance of several older females"
+     ],
+     "a": 2,
+     "evidence": "smoke covered the area for three months, and fruit production fell sharply for about two and a half years",
+     "why": "Paragraph 4 mentions three months of smoke, a sharp fall in fruit and the disappearance of three older females, but nothing about orangutans moving to distant forests.",
+     "optWhy": [
+      "Wrong: this IS mentioned. “smoke covered the area for three months.”",
+      "Wrong: this IS mentioned. “fruit production fell sharply for about two and a half years.”",
+      "Correct. Paragraph 4 never says the orangutans moved away to unburned forests.",
+      "Wrong: this IS mentioned. “three of the oldest females had disappeared by late 2017.”"
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "After severe fires in 2015, smoke covered the area for three months, and fruit production fell sharply for about two and a half years.",
+       "hl": "fruit production fell sharply"
+      },
+      {
+       "para": 4,
+       "text": "During that period, researchers recorded no pregnancies among the females they studied, and three of the oldest females had disappeared by late 2017.",
+       "hl": "three of the oldest females had disappeared"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the findings",
+       "x": "Underline what happened after 2015: smoke, less fruit, no pregnancies, missing females."
+      },
+      {
+       "t": "Tick off the options",
+       "x": "A, B and D match these findings directly."
+      },
+      {
+       "t": "Find what is missing",
+       "x": "Nothing in paragraph 4 mentions orangutans moving to unburned forests."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the loss of adult female orangutans?",
+     "opts": [
+      "It is especially serious because each female has very few young in her lifetime.",
+      "It can be reversed quickly if more males join the population.",
+      "It has affected only the Tuanan population and no other group.",
+      "It was less severe in 2026 than in 2015."
+     ],
+     "a": 0,
+     "evidence": "A female usually gives birth only once every six to eight years",
+     "why": "Because a female gives birth only once every six to eight years, she produces few young, so losing even a few females can slow recovery for decades.",
+     "optWhy": [
+      "Correct. “gives birth only once every six to eight years” → few young per female, so losing females “may need decades to recover.”",
+      "Wrong: not supported. Births depend on females; the text says recovery may take “decades,” not that it can be quick.",
+      "Wrong: too narrow. Paragraph 5 makes a general point about “a population,” not only about Tuanan.",
+      "Wrong: contradiction. This year's fires destroyed “an estimated 30 percent” of the study area, compared with “about 15 percent” in 2015."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "A female usually gives birth only once every six to eight years, so a population that loses even a few adult females may need decades to recover.",
+       "hl": "only once every six to eight years"
+      },
+      {
+       "para": 5,
+       "text": "This year's fires have destroyed an estimated 30 percent of the Tuanan study area, compared with about 15 percent of the forest in 2015.",
+       "hl": "an estimated 30 percent"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the key fact",
+       "x": "Paragraph 5 says a female gives birth only once every six to eight years."
+      },
+      {
+       "t": "Draw the conclusion",
+       "x": "Few births per female means every lost female has a big effect on the population."
+      },
+      {
+       "t": "Check the numbers",
+       "x": "30 percent in 2026 vs 15 percent in 2015 shows D reverses the comparison."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 7,
+     "q": "Why does the author mention that “Economic development brings jobs and income to Indonesian communities” in paragraph 7?",
+     "opts": [
+      "To argue that plantations should replace the remaining forests",
+      "To prove that El Niño is the main cause of the fires",
+      "To criticise the government for freezing a company's permit",
+      "To explain why decisions about land use are not simple"
+     ],
+     "a": 3,
+     "evidence": "Economic development brings jobs and income to Indonesian communities, which makes the choices difficult.",
+     "why": "The sentence ends “which makes the choices difficult,” showing that the author mentions jobs and income to explain why land-use decisions are hard.",
+     "optWhy": [
+      "Wrong: too extreme. The author recognises the benefits of development but ends by saying forests must be “kept wet, connected and standing.”",
+      "Wrong: irrelevant. The sentence is about jobs and income, not the cause of the fires.",
+      "Wrong: not mentioned here. The Mayawana permit is in paragraph 3, and the author does not criticise that decision.",
+      "Correct. “which makes the choices difficult” = decisions about land use are not simple."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Economic development brings jobs and income to Indonesian communities, which makes the choices difficult.",
+       "hl": "which makes the choices difficult"
+      },
+      {
+       "para": 3,
+       "text": "In September, Indonesia's forestry ministry froze the business permit of one pulpwood company, Mayawana, whose concession includes large areas of peat and where fires had spread across cleared land.",
+       "hl": "froze the business permit"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the whole sentence",
+       "x": "The clause “which makes the choices difficult” tells you the function."
+      },
+      {
+       "t": "Connect to the paragraph",
+       "x": "Paragraph 7 weighs climate, land use and development, showing the issue is complex."
+      },
+      {
+       "t": "Rule out the extremes",
+       "x": "The author does not support replacing forests (A) or criticise the permit decision (C)."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 4,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 4? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "opts": [
+      "The researchers have proven that the fires killed the missing orangutans.",
+      "Although the researchers cannot show that the fires were responsible, they find the pattern worrying.",
+      "The researchers find the pattern troubling because they know humans started the fires.",
+      "The researchers are not worried, since the losses cannot be linked to the fires."
+     ],
+     "a": 1,
+     "highlight": "The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.",
+     "evidence": "they cannot prove the fires caused these losses, but the pattern is troubling",
+     "why": "The sentence has two parts: the researchers cannot prove a cause, but they are still concerned. Option B keeps both parts and the contrast.",
+     "optWhy": [
+      "Wrong: contradiction. The researchers say they “cannot prove” the fires caused the losses.",
+      "Correct. “cannot prove the fires caused these losses” = cannot show the fires were responsible; “the pattern is troubling” = they find it worrying.",
+      "Wrong: new information added. The sentence gives no reason based on who started the fires.",
+      "Wrong: opposite meaning. The researchers find the pattern “troubling,” so they are worried."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.",
+       "hl": "cannot prove the fires caused these losses"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: no proof that the fires caused the losses. Part 2: but the pattern is troubling."
+      },
+      {
+       "t": "Keep the contrast",
+       "x": "The right answer needs both parts joined by a contrast word such as “although.”"
+      },
+      {
+       "t": "Rule out distortions",
+       "x": "A says “proven,” C adds a new reason, and D reverses “troubling.”"
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261127-3-k1",
+     "tag": "The fires",
+     "fact": "A strong El Niño helped cause one of Indonesia's worst fire seasons in more than a decade.",
+     "q": "What climate pattern made Indonesia unusually dry this year?",
+     "opts": [
+      "El Niño",
+      "La Niña",
+      "A monsoon flood"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-3-k2",
+     "tag": "Habitat hit",
+     "fact": "The IUCN says fires have affected habitats holding 52 percent of Borneo's orangutans.",
+     "q": "What share of Borneo's orangutans live in fire-affected habitat, according to the IUCN?",
+     "opts": [
+      "About 15 percent",
+      "52 percent",
+      "97 percent"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261127-3-k3",
+     "tag": "Peat",
+     "fact": "Drained peatland dries out and can smoulder underground for weeks, releasing smoke and carbon.",
+     "q": "Why does drained peat burn so easily?",
+     "opts": [
+      "It dries out",
+      "It contains oil",
+      "It is always on the surface"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261127-3-k4",
+     "tag": "After 2015",
+     "fact": "After the 2015 fires, Tuanan recorded no pregnancies for about two and a half years.",
+     "q": "What did researchers record among females after 2015?",
+     "opts": [
+      "Twin births",
+      "No pregnancies",
+      "More pregnancies than usual"
+     ],
+     "a": 1
+    },
+    {
+     "id": "n20261127-3-k5",
+     "tag": "Slow breeding",
+     "fact": "A female orangutan usually gives birth only once every six to eight years.",
+     "q": "How often does a female orangutan usually give birth?",
+     "opts": [
+      "Every year",
+      "Every two to three years",
+      "Every six to eight years"
+     ],
+     "a": 2
+    },
+    {
+     "id": "n20261127-3-k6",
+     "tag": "What to do",
+     "fact": "Rescue groups focus on saving animals, while others call for rewetting peatlands and stopping deforestation.",
+     "q": "What does the Forum Orangutan Indonesia call for?",
+     "opts": [
+      "Rewetting peatlands",
+      "More plantations",
+      "Moving orangutans to zoos"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Orangutans and fire",
+    "question": "Natural disaster or human choice?",
+    "branches": [
+     {
+      "title": "The fires",
+      "paras": "1–2",
+      "blanks": [
+       "a strong El Niño",
+       "estimates vary widely"
+      ],
+      "kps": [
+       "n20261127-3-k1",
+       "n20261127-3-k2"
+      ]
+     },
+     {
+      "title": "Peat and people",
+      "paras": "3",
+      "blanks": [
+       "drained for plantations",
+       "froze the business permit"
+      ],
+      "kps": [
+       "n20261127-3-k3"
+      ]
+     },
+     {
+      "title": "Lasting harm",
+      "paras": "4–5",
+      "blanks": [
+       "no pregnancies recorded",
+       "once every six to eight years"
+      ],
+      "kps": [
+       "n20261127-3-k4",
+       "n20261127-3-k5"
+      ]
+     },
+     {
+      "title": "Responses",
+      "paras": "6–7",
+      "blanks": [
+       "emergency rescues",
+       "rewetting peatlands"
+      ],
+      "kps": [
+       "n20261127-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "orangutans moved to Sumatra",
+     "fires caused by lightning only"
+    ]
+   },
+   "summary": {
+    "intro": "Severe wildfires in Indonesia have reached the forests where Critically Endangered orangutans live.",
+    "model": "A strong El Niño and drained peatland have fuelled fires across orangutan habitat in Borneo. Because orangutans breed so slowly, the harm may last decades; however, experts disagree on whether rescues or long-term prevention should come first.",
+    "options": [
+     {
+      "t": "Dry weather and drained peatland have combined to produce fires that reach a large share of orangutan habitat.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "the disaster is not only natural but also the result of human decisions about land"
+     },
+     {
+      "t": "Research at Tuanan suggests the effects of fires on orangutans can last for years because the apes reproduce slowly.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "may need decades to recover"
+     },
+     {
+      "t": "People disagree about whether emergency rescues or long-term protection of peatland and forest should be the priority.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "Not everyone agrees on where attention should go first."
+     },
+     {
+      "t": "Orangutans share about 97 percent of their DNA with humans.",
+      "ok": false,
+      "type": "detail",
+      "para": 1,
+      "evidence": "share about 97 percent of their DNA with humans"
+     },
+     {
+      "t": "Many orangutans have been moved to zoos in other countries for safety.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Scientists have proven that the 2015 fires killed the missing older females.",
+      "ok": false,
+      "type": "contra",
+      "para": 4,
+      "evidence": "they cannot prove the fires caused these losses"
+     }
+    ]
+   },
+   "speak": {
+    "p": "When wildlife is threatened by a disaster such as a wildfire, some people think money should go mainly to rescuing animals right away. Others think it should go mainly to preventing future disasters. Which do you think is more important? Use specific reasons and examples.",
+    "hint": "Choose rescue or prevention; give two reasons (urgency, long-term impact, cost); use the orangutan example; finish with a short conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Rossi: This year, wildfires in Indonesia have reached forests holding more than half of Borneo's orangutans. Some experts point to natural climate patterns such as El Niño. Others say the real problem is human land use, such as draining peatland for plantations. Should governments focus mainly on adapting to natural events like El Niño, or on changing how land is used? Why?\nLena: “I think changing land use matters most. El Niño has always happened, but drained peat is what turns a dry year into a disaster. Rewetting peatland and protecting forests would reduce fires every year.”\nOmar: “I see it differently. Many families depend on plantations for jobs, so land use cannot change overnight. Governments should first prepare for dry years with better fire-fighting and early warnings.”",
+    "steps": [
+     "State which approach you think should come first.",
+     "Respond to Lena or Omar and add a new reason.",
+     "Use a fact from the article (52 percent of orangutans, peat smoulders for weeks, births every six to eight years).",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  }
+ ],
+ "uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "Cambridge C1 Advanced (CAE) style practice built on today's three stories: collocations, grammar and word formation.",
+  "parts": [
+   {
+    "part": 1,
+    "type": "mc",
+    "title": "Multiple-choice cloze",
+    "topic": "Holiday shopping and inflation",
+    "task": "Read the text and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "This year, American retailers are hoping that Black Friday will {1} up to its reputation as the busiest shopping day of the year. Forecasters expect holiday sales to pass $1 trillion, but economists warn that the figure should be taken with a {2} of salt. With inflation running at nearly 4 percent, higher prices {3} for most of the increase. Many families are feeling the {4} and have started to cut back on gifts. Others are trying to make their money go {5} by switching to cheaper brands. Retailers, meanwhile, are offering longer promotions, but the discounts are smaller than shoppers have come to {6}. Some analysts {7} that a recent fall in share prices could make even wealthy households more careful. Whatever the final total, the season will {8} light on how ordinary people are really coping.",
+    "items": [
+     {
+      "n": 1,
+      "opts": [
+       "live",
+       "keep",
+       "stand",
+       "come"
+      ],
+      "a": 0,
+      "focus": "Phrasal verb",
+      "why": "“Live up to” a reputation means to be as good as people expect. The other verbs do not form this phrase."
+     },
+     {
+      "n": 2,
+      "opts": [
+       "piece",
+       "grain",
+       "bit",
+       "drop"
+      ],
+      "a": 1,
+      "focus": "Fixed expression",
+      "why": "“Take something with a grain of salt” means to doubt whether it is completely true."
+     },
+     {
+      "n": 3,
+      "opts": [
+       "result",
+       "cause",
+       "account",
+       "explain"
+      ],
+      "a": 2,
+      "focus": "Dependent preposition",
+      "why": "“Account for” means to form or explain a part of something; only “account” takes “for” here."
+     },
+     {
+      "n": 4,
+      "opts": [
+       "weight",
+       "pinch",
+       "load",
+       "grip"
+      ],
+      "a": 1,
+      "focus": "Collocation",
+      "why": "“Feel the pinch” means to have less money than before. The other nouns do not form this idiom."
+     },
+     {
+      "n": 5,
+      "opts": [
+       "longer",
+       "wider",
+       "further",
+       "deeper"
+      ],
+      "a": 2,
+      "focus": "Fixed expression",
+      "why": "We say “make your money go further,” meaning to buy more with the same amount."
+     },
+     {
+      "n": 6,
+      "opts": [
+       "hope",
+       "wish",
+       "want",
+       "expect"
+      ],
+      "a": 3,
+      "focus": "Verb pattern",
+      "why": "“Have come to expect” describes something people now regard as normal. “Hope,” “wish” and “want” do not fit the idea of a habit formed over time."
+     },
+     {
+      "n": 7,
+      "opts": [
+       "warn",
+       "alert",
+       "notify",
+       "advise"
+      ],
+      "a": 0,
+      "focus": "Reporting verb",
+      "why": "“Warn that + clause” reports a caution. “Alert,” “notify” and “advise” normally need an object (alert someone)."
+     },
+     {
+      "n": 8,
+      "opts": [
+       "throw",
+       "put",
+       "bring",
+       "cast"
+      ],
+      "a": 3,
+      "focus": "Collocation",
+      "why": "We say “cast light on” or “shed light on,” meaning to help explain something."
+     }
+    ]
+   },
+   {
+    "part": 2,
+    "type": "open",
+    "title": "Open cloze",
+    "topic": "SpaceX's orbiting computers",
+    "task": "Read the text and think of the word which best fits each gap. Use only one word in each gap.",
+    "text": "US regulators have given SpaceX permission to launch up to a million satellites, {9} of which would carry computers designed to run artificial intelligence. Supporters argue that, {10} data centres on Earth, satellites can collect solar energy almost without interruption. {11} the plan succeeds, it could ease the pressure on power grids. Critics, however, are worried {12} the risk of collisions. They point out that a fragment no bigger {13} a coin can destroy a satellite. Not {14} have astronomers objected, but rival companies have also questioned whether the project is realistic. The regulator replied that judging a company's chances of success is not its job, {15} is why it refused to block the plan. Even so, the company must meet strict deadlines, {16} it will lose its licence.",
+    "items": [
+     {
+      "n": 9,
+      "ans": [
+       "each",
+       "all"
+      ],
+      "focus": "Quantifier + of which",
+      "why": "A quantifier such as “each” or “all” before “of which” refers back to the satellites."
+     },
+     {
+      "n": 10,
+      "ans": [
+       "unlike"
+      ],
+      "focus": "Preposition of contrast",
+      "why": "“Unlike” introduces a contrast between satellites and data centres on Earth."
+     },
+     {
+      "n": 11,
+      "ans": [
+       "if"
+      ],
+      "focus": "Conditional",
+      "why": "“If the plan succeeds” sets a condition for the result in the main clause."
+     },
+     {
+      "n": 12,
+      "ans": [
+       "about"
+      ],
+      "focus": "Dependent preposition",
+      "why": "The adjective “worried” is followed by “about.”"
+     },
+     {
+      "n": 13,
+      "ans": [
+       "than"
+      ],
+      "focus": "Comparative",
+      "why": "“No bigger than” is a comparative structure, so “than” is needed."
+     },
+     {
+      "n": 14,
+      "ans": [
+       "only"
+      ],
+      "focus": "Inversion",
+      "why": "“Not only … but also” with inversion: “Not only have astronomers objected.”"
+     },
+     {
+      "n": 15,
+      "ans": [
+       "which"
+      ],
+      "focus": "Relative pronoun",
+      "why": "“Which” refers back to the whole previous clause (that judging success is not its job)."
+     },
+     {
+      "n": 16,
+      "ans": [
+       "or",
+       "otherwise"
+      ],
+      "focus": "Linking word",
+      "why": "“Or” / “otherwise” introduces the result if the deadlines are not met."
+     }
+    ]
+   },
+   {
+    "part": 3,
+    "type": "wf",
+    "title": "Word formation",
+    "topic": "Wildfires and orangutans",
+    "task": "Use the word given in capitals to form a word that fits in the gap.",
+    "text": "This year's fires in Indonesia were made worse by {17} dry weather linked to El Niño. Many blazes broke out in peatland that had been drained, which made it highly {18}. Orangutans are especially {19} to such disasters because they breed so slowly. After earlier fires, researchers recorded a worrying {20} in the number of pregnancies. Scientists stress that the link is not yet proven, but the evidence is hard to {21}. Conservation groups say the {22} of injured animals is only a short-term answer. They call for the {23} of drained peatland so that it can no longer burn so easily. Without such action, the {24} of orangutans in the wild may be at risk.",
+    "items": [
+     {
+      "n": 17,
+      "stem": "USUAL",
+      "ans": [
+       "unusually"
+      ],
+      "focus": "Negative prefix + adverb",
+      "why": "An adverb is needed before the adjective “dry”, and the meaning is negative: usual → unusually."
+     },
+     {
+      "n": 18,
+      "stem": "FLAME",
+      "ans": [
+       "flammable",
+       "inflammable"
+      ],
+      "focus": "Adjective suffix -able",
+      "why": "After “highly” we need an adjective meaning “easily set on fire”: flame → flammable."
+     },
+     {
+      "n": 19,
+      "stem": "VULNERABILITY",
+      "ans": [
+       "vulnerable"
+      ],
+      "focus": "Noun → adjective",
+      "why": "After “are especially” we need the adjective: vulnerability → vulnerable."
+     },
+     {
+      "n": 20,
+      "stem": "DECLINE",
+      "ans": [
+       "decline",
+       "declining"
+      ],
+      "focus": "Noun after article",
+      "why": "After “a worrying” we need a noun: “a worrying decline in the number of pregnancies.”"
+     },
+     {
+      "n": 21,
+      "stem": "MISS",
+      "ans": [
+       "dismiss"
+      ],
+      "focus": "Prefix dis-",
+      "why": "“Hard to dismiss” means hard to ignore or reject: miss → dismiss."
+     },
+     {
+      "n": 22,
+      "stem": "REHABILITATE",
+      "ans": [
+       "rehabilitation"
+      ],
+      "focus": "Noun suffix -ation",
+      "why": "After “the” and before “of” we need a noun: rehabilitate → rehabilitation (helping injured animals recover)."
+     },
+     {
+      "n": 23,
+      "stem": "WET",
+      "ans": [
+       "rewetting"
+      ],
+      "focus": "Prefix re- + gerund",
+      "why": "After “the” and before “of” we need a noun meaning “making wet again”: wet → rewetting."
+     },
+     {
+      "n": 24,
+      "stem": "SURVIVE",
+      "ans": [
+       "survival"
+      ],
+      "focus": "Noun suffix -al",
+      "why": "After “the” we need a noun: survive → survival."
+     }
+    ]
+   },
+   {
+    "part": 4,
+    "type": "kwt",
+    "title": "Key word transformation",
+    "topic": "All three stories",
+    "task": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and six words, including the word given.",
+    "items": [
+     {
+      "n": 25,
+      "s1": "Most of the increase in sales is due to higher prices.",
+      "key": "ACCOUNT",
+      "pre": "Higher prices",
+      "post": "the increase in sales.",
+      "ans": [
+       "account for most of"
+      ],
+      "focus": "Phrasal verb",
+      "why": "“Account for” means to be the reason for or to make up a part of something."
+     },
+     {
+      "n": 26,
+      "s1": "Fewer shoppers are planning to do all their shopping on Black Friday this year.",
+      "key": "LESS",
+      "pre": "This year, shoppers are",
+      "post": "to do all their shopping on Black Friday.",
+      "ans": [
+       "less likely to plan",
+       "less inclined to plan"
+      ],
+      "focus": "Comparative + likely",
+      "why": "“Less likely to + verb” expresses a lower probability, matching “fewer … are planning.”"
+     },
+     {
+      "n": 27,
+      "s1": "The FCC did not block the plan, although rivals objected strongly.",
+      "key": "SPITE",
+      "pre": "The FCC did not block the plan",
+      "post": "strong objections from rivals.",
+      "ans": [
+       "in spite of",
+       "in spite of the"
+      ],
+      "focus": "Concession",
+      "why": "“In spite of” is followed by a noun phrase and means the same as “although.”"
+     },
+     {
+      "n": 28,
+      "s1": "SpaceX must meet its deadlines; otherwise, it will lose its licence.",
+      "key": "UNLESS",
+      "pre": "SpaceX will lose its licence",
+      "post": "its deadlines.",
+      "ans": [
+       "unless it meets",
+       "unless it manages to meet"
+      ],
+      "focus": "Conditional with unless",
+      "why": "“Unless” means “if … not”: it will lose the licence if it does not meet the deadlines."
+     },
+     {
+      "n": 29,
+      "s1": "The researchers could not prove that the fires caused the losses.",
+      "key": "UNABLE",
+      "pre": "The researchers",
+      "post": "that the fires caused the losses.",
+      "ans": [
+       "were unable to prove"
+      ],
+      "focus": "be unable to",
+      "why": "“Be unable to + verb” is a more formal way of saying “could not.”"
+     },
+     {
+      "n": 30,
+      "s1": "It is possible that the 2026 fires did more damage than the 2015 fires.",
+      "key": "MAY",
+      "pre": "The 2026 fires",
+      "post": "more damage than the 2015 fires.",
+      "ans": [
+       "may have done",
+       "may have caused"
+      ],
+      "focus": "Modal perfect",
+      "why": "“May have + past participle” expresses a possibility about the past."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "Every year, the day after Thanksgiving marks the unofficial start of the American holiday shopping season. Stores open early, websites flash countdown timers, and news reports track how much money people spend. This year's Black Friday, which fell on November 27, arrived with impressive headline numbers. Behind them, however, lies a more complicated story about prices, pressure and who is really doing the spending.": "audio/2026-11-27/a1-p1.mp3",
+  "On paper, the forecasts look strong. The National Retail Federation (NRF), the industry's largest trade group, expects retail sales in November and December to rise by 4.2 percent compared with last year, pushing the total to just above $1 trillion for the first time. Other forecasters are even more optimistic: the Mastercard Economics Institute and the consultancy EY-Parthenon each predict growth of more than 5 percent. A survey by Deloitte found that 87 percent of shoppers planned to buy something during the five days from Thanksgiving to Cyber Monday, the highest share in a decade.": "audio/2026-11-27/a1-p2.mp3",
+  "Yet economists warn that a bigger number does not always mean a bigger shopping basket. Sales are measured in dollars, and dollars buy less when prices rise. According to Reuters, inflation is running at about 3.8 percent, roughly a point higher than in each of the previous two years. If prices are climbing by nearly 4 percent, then most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves. Economists call this the difference between nominal growth, measured in money, and real growth, measured in actual quantities. Tom Fullerton, an economist at the University of Texas at El Paso, put it plainly: spending is growing largely \"because prices are higher.\"": "audio/2026-11-27/a1-p3.mp3",
+  "Some of those higher prices are linked to tariffs, the taxes a government places on imported goods. Retailers that import toys, electronics and clothing have passed part of the extra cost on to customers, and toy prices alone have risen by 13.2 percent since the start of the year. Not every increase, however, can be blamed on trade policy. A Canadian retail consultant, Kyle Peacock, has accused some sellers of \"tariff gouging,\" raising prices even on products that face no new tariff and using the headlines as cover. Shoppers, he argues, should compare prices carefully rather than assume every rise is unavoidable.": "audio/2026-11-27/a1-p4.mp3",
+  "Consumers are clearly adapting. In an NRF survey this month, 82 percent of shoppers said they were taking steps to manage holiday costs, such as buying cheaper gifts or switching to lesser-known brands. Many are also spreading their purchases over a longer period. Only 17 percent now plan to concentrate their shopping around Black Friday itself, down from 25 percent a year ago, and the busiest weeks are shifting toward early and mid-December. Retailers, for their part, are running longer promotions with smaller discounts, which means the single dramatic \"doorbuster\" deal is becoming rarer.": "audio/2026-11-27/a1-p5.mp3",
+  "Optimists still see reasons for confidence. \"People like to spend during the holidays,\" said Katie Thomas of the Kearney Consumer Institute, and the record share of people planning to shop suggests that demand has not collapsed. From this perspective, the American consumer remains remarkably resilient, continuing to spend despite years of rising costs. Healthy holiday sales also support millions of jobs in stores, warehouses and delivery services, so a strong season matters well beyond the shopping mall.": "audio/2026-11-27/a1-p6.mp3",
+  "Pessimists, by contrast, point to signs of strain beneath the surface. Kearney's own research shows that middle- and lower-income households are more likely to cut back, while the head of the department store chain Kohl's has described an \"increasingly choiceful\" customer looking to stretch every dollar. Analysts at the bank UBS have added a further warning: a recent fall in stock prices could make even wealthier shoppers, whose spending has propped up the economy, more cautious. If growth depends mainly on the richest households, the overall figures may hide real hardship for everyone else.": "audio/2026-11-27/a1-p7.mp3",
+  "Both sides agree on one point: the headline number alone cannot tell us how families are really doing. A trillion-dollar season sounds like a celebration, but it may also be a sign of how expensive ordinary life has become. For students of economics, Black Friday offers a useful lesson. Before celebrating or worrying about any statistic, it is worth asking what is being measured, whose behaviour it reflects, and what it leaves out.": "audio/2026-11-27/a1-p8.mp3",
+  "forecast": "audio/2026-11-27/a1-w-forecast.mp3",
+  "The bank's forecast suggests that house prices will stay flat next year.": "audio/2026-11-27/a1-ex-forecast.mp3",
+  "inflation": "audio/2026-11-27/a1-w-inflation.mp3",
+  "High inflation meant that her weekly pocket money bought fewer snacks than last year.": "audio/2026-11-27/a1-ex-inflation.mp3",
+  "nominal": "audio/2026-11-27/a1-w-nominal.mp3",
+  "His nominal salary rose by 3 percent, but after inflation he was actually poorer.": "audio/2026-11-27/a1-ex-nominal.mp3",
+  "tariff": "audio/2026-11-27/a1-w-tariff.mp3",
+  "The new tariff made imported bicycles about 20 percent more expensive.": "audio/2026-11-27/a1-ex-tariff.mp3",
+  "retailer": "audio/2026-11-27/a1-w-retailer.mp3",
+  "The online retailer promised free delivery on every order this month.": "audio/2026-11-27/a1-ex-retailer.mp3",
+  "resilient": "audio/2026-11-27/a1-w-resilient.mp3",
+  "Small towns that rely on many different industries tend to be more resilient during a recession.": "audio/2026-11-27/a1-ex-resilient.mp3",
+  "adapt": "audio/2026-11-27/a1-w-adapt.mp3",
+  "Students had to adapt quickly when their classes moved online.": "audio/2026-11-27/a1-ex-adapt.mp3",
+  "concentrate": "audio/2026-11-27/a1-w-concentrate.mp3",
+  "Most of the country's factories concentrate in a few coastal cities.": "audio/2026-11-27/a1-ex-concentrate.mp3",
+  "strain": "audio/2026-11-27/a1-w-strain.mp3",
+  "Rising rents have put a heavy strain on young families in the city.": "audio/2026-11-27/a1-ex-strain.mp3",
+  "hardship": "audio/2026-11-27/a1-w-hardship.mp3",
+  "The charity helps students who face financial hardship to buy books.": "audio/2026-11-27/a1-ex-hardship.mp3",
+  "Behind them, however, lies a more complicated story about prices, pressure and who is really doing the spending.": "audio/2026-11-27/a1-ks1.mp3",
+  "If prices are climbing by nearly 4 percent, then most of a 4.2 percent rise in sales simply reflects higher price tags rather than more goods leaving the shelves.": "audio/2026-11-27/a1-ks2.mp3",
+  "Not every increase, however, can be blamed on trade policy.": "audio/2026-11-27/a1-ks3.mp3",
+  "From this perspective, the American consumer remains remarkably resilient, continuing to spend despite years of rising costs.": "audio/2026-11-27/a1-ks4.mp3",
+  "If growth depends mainly on the richest households, the overall figures may hide real hardship for everyone else.": "audio/2026-11-27/a1-ks5.mp3",
+  "Before celebrating or worrying about any statistic, it is worth asking what is being measured, whose behaviour it reflects, and what it leaves out.": "audio/2026-11-27/a1-ks6.mp3",
+  "For most of the space age, satellites were rare and expensive objects, launched one or two at a time. That era is ending. On November 25, the United States Federal Communications Commission (FCC) gave SpaceX permission to place up to one million satellites in orbit around Earth. The satellites would not carry television signals or internet traffic for homes. Instead, they would form \"Starmind,\" a network of orbiting computers designed to run artificial intelligence.": "audio/2026-11-27/a2-p1.mp3",
+  "The idea behind Starmind is simple, even if building it will not be. Training and running AI systems requires enormous data centres, which consume vast amounts of electricity, need water for cooling and occupy large areas of land. In orbit, a satellite can collect solar energy almost continuously, without clouds or night-time interruptions, and release excess heat into space through radiators. According to the trade publication Via Satellite, each Starmind satellite would carry a computing payload using about 175 kilowatts of power on average. Supporters argue that moving computing off the planet could ease the pressure that AI is placing on power grids and local communities.": "audio/2026-11-27/a2-p2.mp3",
+  "The approval comes with detailed conditions. The satellites must fly in six orbital \"shells\" between 500 and 1,002 kilometres above Earth, and they will communicate mainly by laser links rather than radio. SpaceX must have its first satellite operating by 2033, reach 100,000 satellites by 2035 and complete the full constellation by 2040, or the licence will lapse. Crucially, the FCC found that SpaceX's plan for avoiding space debris met its rules only for satellites below 600 kilometres. Since four of the six shells sit above that height, the company must submit a final debris plan before it can use them.": "audio/2026-11-27/a2-p3.mp3",
+  "Those conditions reflect a concern that worries many scientists: orbital debris. Objects in low orbit travel at around 28,000 kilometres per hour, so even a fragment the size of a coin can destroy a satellite. Experts have long warned of the Kessler syndrome, a chain reaction in which collisions create debris that causes further collisions, until some orbits become too dangerous to use. Today, the total number of active satellites is in the tens of thousands at most. Adding a million more, critics say, would transform the orbital environment in ways no one can fully predict.": "audio/2026-11-27/a2-p4.mp3",
+  "Astronomers have a separate complaint. Bright satellites leave streaks across telescope images, and a sky filled with sunlit machines could interfere with research and change the view of the night sky for everyone. The American Astronomical Society said it was \"disheartened and dismayed\" by the decision. The FCC, however, ruled that the brightness of satellites falls outside the scope of a licence that regulates radio signals. The Secure World Foundation, a group focused on the sustainable use of space, has argued that projects on this scale should be approved in phases, with each stage depending on proof that the previous one works safely.": "audio/2026-11-27/a2-p5.mp3",
+  "Competitors raised doubts of a different kind. Amazon, which is building its own satellite network, called SpaceX's proposal \"a lofty ambition rather than a real plan,\" and the satellite company Viasat also asked regulators to reject it. The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application. FCC Chairman Brendan Carr praised the project for moving computing capacity beyond Earth, while Elon Musk, SpaceX's founder, predicted it would be \"a great asset to America and the world.\" Other firms, including Blue Origin and the start-up Starcloud, have filed plans for tens of thousands of orbital computers of their own.": "audio/2026-11-27/a2-p6.mp3",
+  "Behind the technical arguments lies a larger question about who controls space. Low Earth orbit is not owned by any one country, yet decisions made by a single national regulator can shape it for everyone. Supporters see the FCC's approval as a bold step that keeps innovation moving and may reduce AI's environmental footprint on the ground. Critics see a race to claim a shared resource before the rules are ready. The million-satellite figure is a ceiling, not a guarantee, and the engineering and economics remain unproven. Even so, the decision marks the moment when the idea of an industrial orbit, crowded with working machines, moved from science fiction to official paperwork.": "audio/2026-11-27/a2-p7.mp3",
+  "constellation": "audio/2026-11-27/a2-w-constellation.mp3",
+  "The new constellation will provide internet access to remote villages.": "audio/2026-11-27/a2-ex-constellation.mp3",
+  "orbit": "audio/2026-11-27/a2-w-orbit.mp3",
+  "The space station completes one orbit of Earth roughly every 90 minutes.": "audio/2026-11-27/a2-ex-orbit.mp3",
+  "debris": "audio/2026-11-27/a2-w-debris.mp3",
+  "Volunteers spent the morning clearing debris from the beach after the storm.": "audio/2026-11-27/a2-ex-debris.mp3",
+  "payload": "audio/2026-11-27/a2-w-payload.mp3",
+  "The rocket's payload included a weather camera and two small research satellites.": "audio/2026-11-27/a2-ex-payload.mp3",
+  "regulator": "audio/2026-11-27/a2-w-regulator.mp3",
+  "The energy regulator ordered the company to lower its prices.": "audio/2026-11-27/a2-ex-regulator.mp3",
+  "lapse": "audio/2026-11-27/a2-w-lapse.mp3",
+  "If you do not renew your passport, it will lapse after ten years.": "audio/2026-11-27/a2-ex-lapse.mp3",
+  "transform": "audio/2026-11-27/a2-w-transform.mp3",
+  "Cheap smartphones have helped transform the way farmers sell their crops.": "audio/2026-11-27/a2-ex-transform.mp3",
+  "interfere": "audio/2026-11-27/a2-w-interfere.mp3",
+  "Loud music from next door began to interfere with her revision.": "audio/2026-11-27/a2-ex-interfere.mp3",
+  "sustainable": "audio/2026-11-27/a2-w-sustainable.mp3",
+  "The school switched to a more sustainable way of heating its buildings.": "audio/2026-11-27/a2-ex-sustainable.mp3",
+  "ambition": "audio/2026-11-27/a2-w-ambition.mp3",
+  "Her ambition is to design a bridge that can survive any earthquake.": "audio/2026-11-27/a2-ex-ambition.mp3",
+  "Instead, they would form \"Starmind,\" a network of orbiting computers designed to run artificial intelligence.": "audio/2026-11-27/a2-ks1.mp3",
+  "Supporters argue that moving computing off the planet could ease the pressure that AI is placing on power grids and local communities.": "audio/2026-11-27/a2-ks2.mp3",
+  "Crucially, the FCC found that SpaceX's plan for avoiding space debris met its rules only for satellites below 600 kilometres.": "audio/2026-11-27/a2-ks3.mp3",
+  "Adding a million more, critics say, would transform the orbital environment in ways no one can fully predict.": "audio/2026-11-27/a2-ks4.mp3",
+  "The FCC replied that questions about whether a business will succeed are not part of its job, and it declined to block the application.": "audio/2026-11-27/a2-ks5.mp3",
+  "Critics see a race to claim a shared resource before the rules are ready.": "audio/2026-11-27/a2-ks6.mp3",
+  "Orangutans spend almost their entire lives in the treetops of the rainforests of Borneo and Sumatra, moving slowly from branch to branch in search of fruit. These great apes share about 97 percent of their DNA with humans and are known for their intelligence and gentle nature. This year, however, their forest home has been burning. A strong El Niño, a climate pattern that brings unusually dry weather to Indonesia, has fuelled one of the worst wildfire seasons in more than a decade, and scientists fear the damage to orangutans may last for years.": "audio/2026-11-27/a3-p1.mp3",
+  "The scale of the fires is hard to measure, and estimates vary widely. Indonesia's government reported that more than 202,000 hectares burned between January and July, while the independent monitoring group Nusantara Atlas estimated about 900,000 hectares by the end of August. Whatever the exact figure, the fires have struck the places where orangutans live. According to the conservation network IUCN, blazes have affected habitats holding 52 percent of Borneo's orangutans, including 13 of the 20 largest populations. The Bornean orangutan is already classed as Critically Endangered, one step away from extinction in the wild.": "audio/2026-11-27/a3-p2.mp3",
+  "Many of the fires are burning in peatland, a type of wetland where dead plant material has built up over thousands of years. When it is wet, peat rarely burns. When it is drained to make way for plantations, it dries out and can smoulder underground for weeks, releasing thick smoke and huge amounts of carbon. In September, Indonesia's forestry ministry froze the business permit of one pulpwood company, Mayawana, whose concession includes large areas of peat and where fires had spread across cleared land. For this reason, many researchers argue that the disaster is not only natural but also the result of human decisions about land.": "audio/2026-11-27/a3-p3.mp3",
+  "Long-term research suggests that the harm to orangutans continues long after the smoke clears. At the Tuanan research station in Central Kalimantan, scientists from the Max Planck Institute of Animal Behavior have followed the same orangutans since 2003. After severe fires in 2015, smoke covered the area for three months, and fruit production fell sharply for about two and a half years. During that period, researchers recorded no pregnancies among the females they studied, and three of the oldest females had disappeared by late 2017. The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.": "audio/2026-11-27/a3-p4.mp3",
+  "The timing matters because orangutans reproduce extremely slowly. A female usually gives birth only once every six to eight years, so a population that loses even a few adult females may need decades to recover. This year's fires have destroyed an estimated 30 percent of the Tuanan study area, compared with about 15 percent of the forest in 2015. \"I'm afraid that the toll will be worse than last time,\" said Maria van Noordwijk, a researcher who has worked at the site for many years.": "audio/2026-11-27/a3-p5.mp3",
+  "Not everyone agrees on where attention should go first. Rescue groups have saved dozens of injured or stranded orangutans this season, and many people see emergency action as the most urgent priority. \"Years of successful conservation work can be undone incredibly quickly by a major fire,\" warned Gavin Bruce of the charity International Animal Rescue. Others argue that rescues alone cannot solve the problem. The Forum Orangutan Indonesia has called for rewetting peatlands and stopping drainage and deforestation, insisting that emergency response must be followed by long-term investment in prevention.": "audio/2026-11-27/a3-p6.mp3",
+  "There is also debate about how much blame to place on climate and how much on land use. El Niño events are natural, but a warming climate may make them more extreme, while drained peat and cleared forest turn dry seasons into disasters. Economic development brings jobs and income to Indonesian communities, which makes the choices difficult. What is clear is that the future of the orangutan depends less on any single rescue than on whether the forests and peatlands it needs can be kept wet, connected and standing.": "audio/2026-11-27/a3-p7.mp3",
+  "habitat": "audio/2026-11-27/a3-w-habitat.mp3",
+  "Building a new road through the wetland would destroy the habitat of many birds.": "audio/2026-11-27/a3-ex-habitat.mp3",
+  "peatland": "audio/2026-11-27/a3-w-peatland.mp3",
+  "Scientists say that protecting peatland is one of the cheapest ways to store carbon.": "audio/2026-11-27/a3-ex-peatland.mp3",
+  "smoulder": "audio/2026-11-27/a3-w-smoulder.mp3",
+  "The campfire continued to smoulder long after everyone had gone to sleep.": "audio/2026-11-27/a3-ex-smoulder.mp3",
+  "endangered": "audio/2026-11-27/a3-w-endangered.mp3",
+  "The zoo runs a breeding programme for an endangered species of tortoise.": "audio/2026-11-27/a3-ex-endangered.mp3",
+  "concession": "audio/2026-11-27/a3-w-concession.mp3",
+  "The mining company lost its concession after it polluted the river.": "audio/2026-11-27/a3-ex-concession.mp3",
+  "deforestation": "audio/2026-11-27/a3-w-deforestation.mp3",
+  "Satellite images reveal how quickly deforestation has spread along the new highway.": "audio/2026-11-27/a3-ex-deforestation.mp3",
+  "reproduce": "audio/2026-11-27/a3-w-reproduce.mp3",
+  "Some fish reproduce only once in their whole lives.": "audio/2026-11-27/a3-ex-reproduce.mp3",
+  "caution": "audio/2026-11-27/a3-w-caution.mp3",
+  "Doctors caution that a single study is not enough to change the guidelines.": "audio/2026-11-27/a3-ex-caution.mp3",
+  "priority": "audio/2026-11-27/a3-w-priority.mp3",
+  "After the earthquake, the government's first priority was clean water.": "audio/2026-11-27/a3-ex-priority.mp3",
+  "insist": "audio/2026-11-27/a3-w-insist.mp3",
+  "My coach likes to insist that rest days are as important as training.": "audio/2026-11-27/a3-ex-insist.mp3",
+  "A strong El Niño, a climate pattern that brings unusually dry weather to Indonesia, has fuelled one of the worst wildfire seasons in more than a decade, and scientists fear the damage to orangutans may last for years.": "audio/2026-11-27/a3-ks1.mp3",
+  "The scale of the fires is hard to measure, and estimates vary widely.": "audio/2026-11-27/a3-ks2.mp3",
+  "For this reason, many researchers argue that the disaster is not only natural but also the result of human decisions about land.": "audio/2026-11-27/a3-ks3.mp3",
+  "The researchers caution that they cannot prove the fires caused these losses, but the pattern is troubling.": "audio/2026-11-27/a3-ks4.mp3",
+  "A female usually gives birth only once every six to eight years, so a population that loses even a few adult females may need decades to recover.": "audio/2026-11-27/a3-ks5.mp3",
+  "What is clear is that the future of the orangutan depends less on any single rescue than on whether the forests and peatlands it needs can be kept wet, connected and standing.": "audio/2026-11-27/a3-ks6.mp3"
+ }
+}
