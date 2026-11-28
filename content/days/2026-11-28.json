@@ -1,0 +1,2427 @@
+{
+ "date": "2026-11-28",
+ "headline": "Bots at the Till, Chips on Hold, Dams on Thin Ice",
+ "teaser": "Would you let an AI pay for your shopping? Can export rules control computing power that travels through cables? And should Nepal build giant dams on melting mountains?",
+ "articles": [
+  {
+   "id": "n20261128-1",
+   "topic": "Economy",
+   "title": "Agents at the Checkout: Why Shoppers Still Won't Let AI Pay",
+   "dek": "AI now helps millions of people find gifts, yet almost nobody lets it pay. Is that caution sensible, or just the early nervousness every new technology faces?",
+   "sources": [
+    {
+     "name": "The Next Web, 27 Nov 2026",
+     "url": "https://thenextweb.com/news/ai-shopping-agents-black-friday-retailers-trust"
+    },
+    {
+     "name": "TechResearch Online (Adobe figures), 27 Nov 2026",
+     "url": "https://techresearchonline.com/news/black-friday-online-sales/"
+    },
+    {
+     "name": "Inc., 27 Nov 2026",
+     "url": "https://www.inc.com/scott-hutcheson/adobe-predicts-a-95-surge-in-ai-shopping-traffic-this-black-friday/91440392"
+    }
+   ],
+   "paras": [
+    "This year's Black Friday was supposed to be the moment artificial intelligence took over holiday shopping. According to early figures from Adobe, traffic from AI services to American retail websites more than doubled on Thanksgiving compared with last year, while shoppers spent a record $7.1 billion online that day, up 10.4 percent. Yet when it comes to actually completing a purchase, the machines are still sitting on the bench. Research by the consultancy Bain & Company found that AI agents accounted for just 0.4 percent of global e-commerce transactions and only 0.2 percent of their value.",
+    "To understand that gap, it helps to separate two kinds of tools. An AI assistant answers questions: it suggests gift ideas, summarises reviews and compares prices. An AI agent goes further and acts on the user's behalf, searching shops, filling a basket and paying. Technology companies are betting heavily on the second kind. Meta's shopping agent, Muse, reportedly reached 10 million users in the United States and Canada about six weeks after its September launch, and this week it arrived in Britain. The consultancy McKinsey estimates that this so-called agentic commerce could generate $1 trillion of economic activity in the US by 2030.",
+    "Consumers, however, are drawing a clear line between asking and delegating. A Morning Consult poll for Visa found that 54 percent of adults have used AI for at least one shopping task, up from 47 percent a year earlier, but only 23 percent trust generative AI to make payments for them. An American Express survey points to the same pattern: 52 percent of US consumers are happy for an agent to buy cheap, routine items such as groceries, but just 15 percent feel the same about electronics or appliances. In other words, people are willing to hand over decisions only when a mistake would cost them little.",
+    "Their caution is not irrational. When Visa tested 22 AI models on 15 shopping tasks earlier this month, they failed 42.8 percent of the runs, and in more than half of those failed runs the agent still bought something. Maia Bittner, a product executive at a financial technology start-up, asked Muse to order windscreen wipers from the car-parts chain AutoZone. Seventeen hours later, the agent reported that the order had been cancelled because of an error and suggested that she buy the wipers on Amazon herself. As one technology executive put it after testing several agents, \"It just doesn't feel magical yet.\"",
+    "Shops are hesitant too. When the software firm Human Forward tested agents on 200 websites, it found that about half of big retailers and popular brands do not let AI assistants shop on their sites. Amazon blocked Muse in September and has asked Meta to remove Amazon from the service. One likely reason is control. A retailer that lets an outside agent do the browsing loses the chance to show customers its own recommendations and advertisements, and Amazon's advertising business alone is expected to bring in $81.9 billion this year. Amazon's chief executive, Andy Jassy, nevertheless told investors in October that outside agents were not meaningfully affecting that business.",
+    "Beneath these commercial worries lies a legal question that nobody has fully answered. \"If the bot gets it wrong, who's liable?\" asks Mark Howell, of the e-commerce firm Rithum. Companies are giving very different answers. The electronics chain Best Buy treats an agent's purchases as if the customer had made them, and its terms state that it is not responsible for errors by any \"Digital Agent.\" American Express, by contrast, has said it will protect eligible customers from charges caused by an agent's mistakes, while the bank JPMorgan Chase blocked outside agents from acting for its customers last month, citing security.",
+    "Optimists argue that this hesitation is temporary. In the 1990s, many people were nervous about typing their card details into a website, yet online shopping is now ordinary. As agents become more accurate and as rules on responsibility become clearer, they say, trust will follow. Sceptics reply that the problem is not only accuracy but independence. An agent that recommends products may be influenced by sponsored results, and a YouGov survey found that almost half of shoppers who use AI worry about exactly that. Handing over the final click also means handing over a moment of judgement that many people are not ready to give up.",
+    "For now, then, AI has become a powerful research tool rather than a trusted buyer. The numbers from this holiday season suggest that the technology is advancing faster than the agreements needed to support it. The real test for agentic commerce may not be whether a machine can press \"buy\", but whether anyone is clearly accountable when it presses the wrong button."
+   ],
+   "words": [
+    {
+     "w": "transaction",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/trænˈzækʃən/",
+     "syl": [
+      "trans",
+      "ac",
+      "tion"
+     ],
+     "def": "a single act of buying or selling something, or of moving money",
+     "ex": "Every transaction on the school's new canteen card is recorded automatically."
+    },
+    {
+     "w": "agentic",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/eɪˈdʒentɪk/",
+     "syl": [
+      "a",
+      "gen",
+      "tic"
+     ],
+     "def": "describing AI systems that can take actions and complete tasks on their own, not just give answers",
+     "ex": "An agentic assistant could book the train tickets instead of simply listing the times."
+    },
+    {
+     "w": "delegate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈdeləɡeɪt/",
+     "syl": [
+      "del",
+      "e",
+      "gate"
+     ],
+     "def": "to give a task or responsibility to someone else so that they do it for you",
+     "ex": "Good team leaders know when to delegate small jobs and focus on the big decisions."
+    },
+    {
+     "w": "irrational",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ɪˈræʃənəl/",
+     "syl": [
+      "ir",
+      "ra",
+      "tion",
+      "al"
+     ],
+     "def": "not based on clear thinking or good reasons",
+     "ex": "Her fear of flying felt irrational, since she knew planes are very safe."
+    },
+    {
+     "w": "hesitant",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈhezɪtənt/",
+     "syl": [
+      "hes",
+      "i",
+      "tant"
+     ],
+     "def": "slow to act or speak because you feel uncertain or worried",
+     "ex": "Many parents are hesitant to give young children their own smartphones."
+    },
+    {
+     "w": "liable",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈlaɪəbəl/",
+     "syl": [
+      "li",
+      "a",
+      "ble"
+     ],
+     "def": "legally responsible for something, especially for paying for damage or loss",
+     "ex": "If you break a rented bike, you may be liable for the cost of repairs."
+    },
+    {
+     "w": "eligible",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈelɪdʒəbəl/",
+     "syl": [
+      "el",
+      "i",
+      "gi",
+      "ble"
+     ],
+     "def": "allowed by the rules to receive or do something",
+     "ex": "Students with top grades are eligible for a scholarship next year."
+    },
+    {
+     "w": "sponsored",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˈspɑːnsərd/",
+     "syl": [
+      "spon",
+      "sored"
+     ],
+     "def": "paid for by a company in order to advertise its products",
+     "ex": "The first three results on the page were sponsored links from big brands."
+    },
+    {
+     "w": "accountable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/əˈkaʊntəbəl/",
+     "syl": [
+      "ac",
+      "count",
+      "a",
+      "ble"
+     ],
+     "def": "responsible for your decisions or actions and expected to explain them",
+     "ex": "Leaders should be held accountable when their choices harm the public."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Yet when it comes to actually completing a purchase, the machines are still sitting on the bench.",
+     "kind": "Main idea",
+     "note": "The contrast word “Yet” turns from AI's popularity to its tiny role in real purchases, which is the gap the whole passage explains."
+    },
+    {
+     "para": 3,
+     "text": "Consumers, however, are drawing a clear line between asking and delegating.",
+     "kind": "Topic sentence",
+     "note": "This topic sentence introduces the trust gap; the survey numbers that follow all support it."
+    },
+    {
+     "para": 4,
+     "text": "Their caution is not irrational.",
+     "kind": "Author's view",
+     "note": "A short evaluative sentence shows the author's position before the evidence; TOEFL inference questions often depend on such signals."
+    },
+    {
+     "para": 6,
+     "text": "Beneath these commercial worries lies a legal question that nobody has fully answered.",
+     "kind": "Topic sentence",
+     "note": "Inverted word order (“Beneath … lies”) introduces the new focus of the paragraph: legal responsibility."
+    },
+    {
+     "para": 7,
+     "text": "Sceptics reply that the problem is not only accuracy but independence.",
+     "kind": "Critical thinking",
+     "note": "The “not only … but” structure marks the opposing view and shifts the debate from errors to influence and control."
+    },
+    {
+     "para": 8,
+     "text": "The real test for agentic commerce may not be whether a machine can press \"buy\", but whether anyone is clearly accountable when it presses the wrong button.",
+     "kind": "Hedging",
+     "note": "“May” softens the conclusion; the author's final judgement is about accountability, not technology."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “delegating” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "sending a group of representatives to a meeting",
+      "giving a task to someone else to carry out",
+      "questioning a decision before accepting it",
+      "postponing a choice until more is known"
+     ],
+     "a": 1,
+     "evidence": "drawing a clear line between asking and delegating",
+     "why": "The paragraph contrasts “asking” AI for help with letting it “make payments” for people, so delegating means handing a task to someone (or something) else.",
+     "optWhy": [
+      "Wrong: another meaning of the word. A “delegation” can be a group of representatives, but the passage is about letting AI do tasks such as paying, not about meetings.",
+      "Correct. “delegating” = letting the agent act for you; the paragraph explains it with “trust generative AI to make payments for them” and “hand over decisions.”",
+      "Wrong: the opposite idea. Delegating means trusting someone with a task, not doubting a decision; nothing in “drawing a clear line between asking and delegating” suggests questioning.",
+      "Wrong: not supported. The paragraph is about who performs the task (“hand over decisions”), not about delaying it."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Consumers, however, are drawing a clear line between asking and delegating.",
+       "hl": "asking and delegating"
+      },
+      {
+       "para": 3,
+       "text": "In other words, people are willing to hand over decisions only when a mistake would cost them little.",
+       "hl": "hand over decisions"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the contrast",
+       "x": "The word is paired with “asking”, so it must mean something more than asking for advice."
+      },
+      {
+       "t": "Use the examples",
+       "x": "The survey results talk about AI “making payments” and people who “hand over decisions”."
+      },
+      {
+       "t": "Rule out other meanings",
+       "x": "The noun “delegate” (a representative) fits meetings, not shopping, so A is a trap."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 4,
+     "q": "According to paragraph 4, what happened in Visa's test of AI shopping agents?",
+     "opts": [
+      "Most of the 22 models completed all 15 tasks without making errors.",
+      "The agents usually refused to buy anything when they were unsure.",
+      "About half of all the runs ended with the agent buying a wrong item.",
+      "Even in runs where agents failed, they often still made a purchase."
+     ],
+     "a": 3,
+     "evidence": "in more than half of those failed runs the agent still bought something",
+     "why": "Visa found the models failed 42.8 percent of runs, and in more than half of those failed runs the agent still bought something.",
+     "optWhy": [
+      "Wrong: contradicts the text. The models “failed 42.8 percent of the runs,” so most did not complete every task without errors.",
+      "Wrong: opposite of the text. The agents did not hold back; “the agent still bought something.”",
+      "Wrong: number distorted. “More than half” refers to the failed runs (42.8 percent), not to all runs, so the share of all runs is far below half.",
+      "Correct. “in more than half of those failed runs the agent still bought something” = even in failed runs, they often still made a purchase."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "When Visa tested 22 AI models on 15 shopping tasks earlier this month, they failed 42.8 percent of the runs, and in more than half of those failed runs the agent still bought something.",
+       "hl": "in more than half of those failed runs the agent still bought something"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Scan for “Visa”",
+       "x": "The test is described in the second sentence of paragraph 4."
+      },
+      {
+       "t": "Track what “half” refers to",
+       "x": "“More than half” describes the failed runs, not all runs."
+      },
+      {
+       "t": "Check each option",
+       "x": "A and B reverse the result, and C applies “half” to the wrong group."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 6,
+     "q": "According to paragraph 6, all of the following are ways that companies have responded to the question of liability EXCEPT",
+     "opts": [
+      "promising refunds to every Muse user whose order fails",
+      "treating an agent's purchases as if the customer had made them",
+      "protecting eligible customers from charges caused by agents' mistakes",
+      "preventing outside agents from acting for their customers"
+     ],
+     "a": 0,
+     "evidence": "Companies are giving very different answers.",
+     "why": "Paragraph 6 lists Best Buy (treats purchases as the customer's), American Express (protects eligible customers) and JPMorgan Chase (blocked outside agents). No company promises refunds to every Muse user.",
+     "optWhy": [
+      "Correct. This is not mentioned: no company in paragraph 6 offers refunds to all Muse users, and Meta's liability policy is never described.",
+      "Wrong: this is stated. Best Buy “treats an agent's purchases as if the customer had made them.”",
+      "Wrong: this is stated. American Express “will protect eligible customers from charges caused by an agent's mistakes.”",
+      "Wrong: this is stated. JPMorgan Chase “blocked outside agents from acting for its customers.”"
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "The electronics chain Best Buy treats an agent's purchases as if the customer had made them, and its terms state that it is not responsible for errors by any \"Digital Agent.\"",
+       "hl": "treats an agent's purchases as if the customer had made them"
+      },
+      {
+       "para": 6,
+       "text": "American Express, by contrast, has said it will protect eligible customers from charges caused by an agent's mistakes, while the bank JPMorgan Chase blocked outside agents from acting for its customers last month, citing security.",
+       "hl": "protect eligible customers from charges caused by an agent's mistakes"
+      }
+     ],
+     "steps": [
+      {
+       "t": "List the companies",
+       "x": "Paragraph 6 names Best Buy, American Express and JPMorgan Chase."
+      },
+      {
+       "t": "Match each option",
+       "x": "B, C and D each paraphrase one company's policy."
+      },
+      {
+       "t": "Find the missing one",
+       "x": "Refunds for every Muse user appear nowhere, so A is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 3,
+     "q": "What can be inferred from paragraph 3 about consumers' willingness to let AI agents buy things?",
+     "opts": [
+      "Most consumers have never used AI for any shopping task at all.",
+      "Consumers trust agents more with costly goods, as prices are compared.",
+      "Consumers' willingness depends largely on how much money is at risk.",
+      "Consumers will soon allow AI to make most of their payments."
+     ],
+     "a": 2,
+     "evidence": "people are willing to hand over decisions only when a mistake would cost them little",
+     "why": "52 percent accept agents for cheap items but only 15 percent for electronics, so willingness falls as the possible cost of a mistake rises.",
+     "optWhy": [
+      "Wrong: contradicts the text. “54 percent of adults have used AI for at least one shopping task.”",
+      "Wrong: reversed. Only “15 percent feel the same about electronics or appliances,” far fewer than the 52 percent for cheap items.",
+      "Correct. “only when a mistake would cost them little” = willingness depends on how much money is at risk.",
+      "Wrong: too extreme and not supported. Only “23 percent trust generative AI to make payments,” and the paragraph makes no prediction."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "An American Express survey points to the same pattern: 52 percent of US consumers are happy for an agent to buy cheap, routine items such as groceries, but just 15 percent feel the same about electronics or appliances.",
+       "hl": "just 15 percent feel the same about electronics or appliances"
+      },
+      {
+       "para": 3,
+       "text": "In other words, people are willing to hand over decisions only when a mistake would cost them little.",
+       "hl": "only when a mistake would cost them little"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Compare the two numbers",
+       "x": "52 percent for cheap items versus 15 percent for electronics."
+      },
+      {
+       "t": "Read the summary line",
+       "x": "“In other words” tells you the author's own conclusion."
+      },
+      {
+       "t": "Avoid extremes",
+       "x": "D predicts the future; the paragraph only describes present attitudes."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 4,
+     "q": "Why does the author mention Maia Bittner's attempt to buy windscreen wipers in paragraph 4?",
+     "opts": [
+      "To give a real example showing that agents can fail even at simple tasks",
+      "To suggest that AutoZone offers a wider range of products than Amazon",
+      "To argue that Muse is clearly the least reliable of all the shopping agents on the market",
+      "To explain the reason why Visa decided to test 22 different AI models"
+     ],
+     "a": 0,
+     "evidence": "asked Muse to order windscreen wipers from the car-parts chain AutoZone",
+     "why": "The story follows Visa's test results and supports the claim that shoppers' “caution is not irrational”: even a simple order went wrong.",
+     "optWhy": [
+      "Correct. The wiper order, cancelled “seventeen hours later … because of an error,” is a concrete example supporting “Their caution is not irrational.”",
+      "Wrong: not mentioned. The text never compares the products of AutoZone and Amazon; Amazon appears only as where she was told to buy “herself.”",
+      "Wrong: too extreme. The paragraph does not rank Muse against other agents; the executive quote refers to “several agents.”",
+      "Wrong: wrong connection. The Visa test is a separate piece of evidence; the text does not say Bittner's experience caused it."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Their caution is not irrational.",
+       "hl": "not irrational"
+      },
+      {
+       "para": 4,
+       "text": "Seventeen hours later, the agent reported that the order had been cancelled because of an error and suggested that she buy the wipers on Amazon herself.",
+       "hl": "cancelled because of an error"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the claim",
+       "x": "The paragraph opens with “Their caution is not irrational.”"
+      },
+      {
+       "t": "See how the story supports it",
+       "x": "A simple order was cancelled after 17 hours, showing agents can fail."
+      },
+      {
+       "t": "Reject extra claims",
+       "x": "No comparison of stores or ranking of agents is made."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 5,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 5? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "A retailer that lets an outside agent do the browsing loses the chance to show customers its own recommendations and advertisements, and Amazon's advertising business alone is expected to bring in $81.9 billion this year.",
+     "opts": [
+      "Amazon expects to earn $81.9 billion this year by letting outside agents browse its website for customers.",
+      "Retailers now show far fewer adverts than before because outside agents already do most of the browsing on their websites.",
+      "Outside agents recommend products better than retailers do, which explains why Amazon's ad income is rising.",
+      "If outside agents browse for shoppers, retailers lose chances to show their own suggestions and ads, which are very valuable."
+     ],
+     "a": 3,
+     "evidence": "loses the chance to show customers its own recommendations and advertisements",
+     "why": "The sentence says outside agents take away a retailer's chance to show its own recommendations and ads, and the $81.9 billion figure shows how valuable advertising is.",
+     "optWhy": [
+      "Wrong: meaning reversed. The $81.9 billion comes from Amazon's own advertising, which outside agents threaten; Amazon “blocked Muse.”",
+      "Wrong: changes a possibility into a fact. The sentence describes what a retailer would lose, not that agents “already do most of the browsing.”",
+      "Wrong: not stated. The sentence never says agents recommend products better, or that the ad income is rising because of them.",
+      "Correct. “lets an outside agent do the browsing loses the chance to show customers its own recommendations and advertisements” = retailers lose chances to show suggestions and ads; “$81.9 billion” = very valuable."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "One likely reason is control.",
+       "hl": "control"
+      },
+      {
+       "para": 5,
+       "text": "Amazon blocked Muse in September and has asked Meta to remove Amazon from the service.",
+       "hl": "blocked Muse"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Split the sentence",
+       "x": "Part 1: retailers lose the chance to show their own suggestions and ads. Part 2: ads are worth $81.9 billion to Amazon."
+      },
+      {
+       "t": "Keep the logic",
+       "x": "Part 2 explains why Part 1 matters, so the correct answer must link loss with value."
+      },
+      {
+       "t": "Check for distortions",
+       "x": "A reverses who earns the money; B and C add claims the sentence does not make."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261128-1-k1",
+     "tag": "The gap",
+     "fact": "Bain found AI agents handled just 0.4 percent of global e-commerce transactions and 0.2 percent of their value.",
+     "q": "What share of global online transactions did AI agents handle?",
+     "opts": [
+      "0.4 percent",
+      "4 percent",
+      "54 percent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-1-k2",
+     "tag": "Assistant vs agent",
+     "fact": "An assistant gives advice; an agent acts for the user by searching, filling a basket and paying.",
+     "q": "What makes an AI agent different from an assistant?",
+     "opts": [
+      "It can act and pay for the user",
+      "It only summarises reviews",
+      "It is always cheaper"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-1-k3",
+     "tag": "Trust",
+     "fact": "54 percent of adults have used AI for shopping, but only 23 percent trust it to make payments.",
+     "q": "How many adults trust generative AI to make payments?",
+     "opts": [
+      "About a quarter",
+      "About half",
+      "Almost all"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-1-k4",
+     "tag": "Reliability",
+     "fact": "In Visa's test, agents failed 42.8 percent of runs and often still bought something.",
+     "q": "What did Visa's test reveal?",
+     "opts": [
+      "Agents often failed but still made purchases",
+      "Agents never made mistakes",
+      "Agents refused to pay"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-1-k5",
+     "tag": "Retailers",
+     "fact": "About half of big retailers block AI assistants, partly to keep control of recommendations and ads.",
+     "q": "Why might shops block outside agents?",
+     "opts": [
+      "To keep control of ads and recommendations",
+      "Because agents are illegal",
+      "Because shoppers asked them to"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-1-k6",
+     "tag": "Liability",
+     "fact": "Companies disagree on who is responsible when an agent makes a mistake.",
+     "q": "What legal question is still open?",
+     "opts": [
+      "Who is liable when a bot gets it wrong",
+      "Whether AI can browse websites",
+      "How fast agents can pay"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "AI shopping agents",
+    "question": "Should we let AI press “buy” for us?",
+    "branches": [
+     {
+      "title": "Big interest",
+      "paras": "1–2",
+      "blanks": [
+       "AI traffic more than doubled",
+       "$1 trillion by 2030"
+      ],
+      "kps": [
+       "n20261128-1-k1",
+       "n20261128-1-k2"
+      ]
+     },
+     {
+      "title": "Shoppers' doubts",
+      "paras": "3–4",
+      "blanks": [
+       "only 23 percent trust payments",
+       "failed 42.8 percent of runs"
+      ],
+      "kps": [
+       "n20261128-1-k3",
+       "n20261128-1-k4"
+      ]
+     },
+     {
+      "title": "Shops and law",
+      "paras": "5–6",
+      "blanks": [
+       "half of big retailers block agents",
+       "who is liable"
+      ],
+      "kps": [
+       "n20261128-1-k5",
+       "n20261128-1-k6"
+      ]
+     },
+     {
+      "title": "Two views",
+      "paras": "7–8",
+      "blanks": [
+       "trust will follow",
+       "sponsored results worry"
+      ],
+      "kps": []
+     }
+    ],
+    "distractors": [
+     "agents cut prices by half",
+     "most shoppers let AI pay"
+    ]
+   },
+   "summary": {
+    "intro": "AI is now widely used for holiday shopping, but very few purchases are actually completed by AI agents.",
+    "model": "Although AI traffic to shops has soared, agents complete only a tiny share of purchases because shoppers distrust them with money, agents still make errors and retailers block them. However, optimists expect trust to grow, while sceptics worry about bias and accountability.",
+    "options": [
+     {
+      "t": "Shoppers happily use AI for advice but rarely trust it to make payments, especially for expensive items.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "only 23 percent trust generative AI to make payments for them"
+     },
+     {
+      "t": "Agents still make costly errors, and many retailers block them to keep control over their customers.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "about half of big retailers and popular brands do not let AI assistants shop on their sites"
+     },
+     {
+      "t": "There is no agreement on who is responsible when an agent gets a purchase wrong, and opinions differ on whether trust will grow.",
+      "ok": true,
+      "type": "main",
+      "para": 6,
+      "evidence": "a legal question that nobody has fully answered"
+     },
+     {
+      "t": "Meta's Muse arrived in Britain this week.",
+      "ok": false,
+      "type": "detail",
+      "para": 2,
+      "evidence": "this week it arrived in Britain"
+     },
+     {
+      "t": "Several governments have banned AI agents from making online payments.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Because agents are now highly accurate, most retailers welcome them on their sites.",
+      "ok": false,
+      "type": "contra",
+      "para": 5,
+      "evidence": "Shops are hesitant too."
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people would happily let an AI agent do their routine shopping, such as buying groceries. Others prefer to make every purchase themselves. Which do you prefer, and why? Use specific reasons and examples.",
+    "hint": "State your choice; give two reasons (time saved, mistakes, control, privacy); add a personal example; finish with a one-sentence conclusion.",
+    "sec": 45
+   },
+   "write": {
+    "p": "Dr. Chen: AI shopping agents can now search for products and even pay for them, yet only a tiny share of purchases are made this way. Some people think we should welcome agents because they save time and money. Others think handing over payments to software is too risky. Should consumers let AI agents make purchases for them? Why or why not?\nLily: “I think agents are useful for boring, low-cost items like groceries. If a mistake costs only a few dollars, the time I save is worth it, and the technology will only get better.”\nMarcus: “I disagree. Tests show agents still fail often, and nobody agrees on who pays when they get it wrong. Until the rules are clear, I want to press ‘buy’ myself.”",
+    "steps": [
+     "Decide your position: welcome agents, reject them, or accept them only for some purchases.",
+     "Use one fact from the passage (e.g., 23 percent trust, 42.8 percent failure rate).",
+     "Respond to Lily or Marcus by name and add a new idea, such as sponsored results or privacy.",
+     "End with a clear one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "af_bella"
+  },
+  {
+   "id": "n20261128-2",
+   "topic": "Technology",
+   "title": "Nvidia Hits Pause: Can Export Controls Keep Up with the Cloud?",
+   "dek": "Nvidia has stopped sending AI servers to four Southeast Asian countries. Can rules built for ships and customs officers control computing power that travels through cables?",
+   "sources": [
+    {
+     "name": "TechCrunch, 26 Nov 2026",
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+     "name": "The National, 26 Nov 2026",
+     "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
+    },
+    {
+     "name": "Forbes, 26 Nov 2026",
+     "url": "https://www.forbes.com/sites/siladityaray/2026/11/26/nvidia-reportedly-halts-ai-chip-shipments-to-southeast-asia-as-us-tightens-china-curbs/"
+    }
+   ],
+   "paras": [
+    "Nvidia, the company whose chips power much of the world's artificial intelligence, has halted shipments of servers containing its AI chips to four Southeast Asian countries: Malaysia, Singapore, Thailand and Indonesia. According to reports in the Financial Times and The Wall Street Journal, its manufacturing partners Dell and Super Micro have told customers that Nvidia will not authorise their orders. The pause will last for an unspecified period while Nvidia checks whether its regional partners are meeting American export requirements, and it remains unclear whether the suspension is temporary.",
+    "The decision is the latest chapter in a long contest over advanced computing. Since 2022, the United States has restricted the sale of its most powerful AI chips to China, arguing that the technology could strengthen China's military and its ability to compete in strategic industries. Those rules were designed for a world of physical goods: they controlled where boxes of chips and servers could be sent. Increasingly, however, the most valuable resource in AI is not the chip itself but access to the computing power it provides.",
+    "That shift opened a loophole. A company does not need to own a server in order to use it; it can rent processing time from a data centre on the other side of a border and send its work there over the internet. Chinese AI developers have done exactly this, and the four Southeast Asian countries have become favoured destinations for their projects. The Institute for Progress, an American think tank, estimates that remote data centres of this kind supply about 24 percent of China's AI computing power, a share large enough to weaken the purpose of the original controls.",
+    "Earlier this month, the US Commerce Department moved to close that gap with new rules aimed at stopping Chinese companies from bypassing restrictions by renting computing power from cloud providers that use Nvidia chips. Under the new system, providers in the region need licences, and the industry has only a limited time to adjust. Businesses on the ground describe the rollout as confusing. \"There's this new rule but no guidance on execution,\" one cloud executive told the Financial Times. Another warned that the uncertainty was \"causing sheer chaos in the region.\"",
+    "The stakes are high for Nvidia as well. The company recorded $104 billion in revenue through its Singapore subsidiary in 2025, a 72 percent increase on the previous year, although part of that figure reflects sales booked in Singapore for customers elsewhere, including Taiwan and China. Southeast Asia has also become a fast-growing hub for new data centres, attracted by cheaper land, reliable power and a location between major markets. A prolonged pause could therefore slow investment that local governments have worked hard to attract.",
+    "Supporters of the crackdown argue that a control which can be avoided simply by logging in from another country is hardly a control at all. If Washington believes that cutting-edge AI should not flow to a strategic rival, they say, it must regulate access to computing power as well as the movement of hardware. In their view, Nvidia's pause is a sign that the rules are finally being taken seriously, and several Chinese AI developers have reportedly warned that losing overseas computing capacity could significantly slow their work.",
+    "Critics see a more complicated picture. They point out that Malaysia, Singapore, Thailand and Indonesia are not the targets of the policy, yet their businesses now face delays and higher costs. Some also argue that tighter limits may encourage China to accelerate the development of its own chips, reducing American influence in the long run. Nvidia's chief executive, Jensen Huang, has previously argued that allowing the company to sell its chips in China would help keep the country dependent on American technology. Others question whether any set of rules can keep pace when computing power can be moved across borders in seconds.",
+    "The pause therefore raises a question that goes far beyond one company. Export controls were invented for a world in which valuable goods crossed borders on ships and planes, where customs officers could inspect them. In the age of cloud computing, power travels through cables and can be rented by the hour from almost anywhere. Whether governments can draw borders in that invisible landscape, and how much collateral damage they are willing to accept while trying, may shape the global AI race for years to come."
+   ],
+   "words": [
+    {
+     "w": "authorise",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/ˈɔːθəraɪz/",
+     "syl": [
+      "au",
+      "thor",
+      "ise"
+     ],
+     "def": "to give official permission for something to happen",
+     "ex": "Only the head teacher can authorise a school trip abroad."
+    },
+    {
+     "w": "suspension",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/səˈspenʃən/",
+     "syl": [
+      "sus",
+      "pen",
+      "sion"
+     ],
+     "def": "the act of officially stopping something for a period of time",
+     "ex": "The suspension of train services left thousands of commuters stuck in the city."
+    },
+    {
+     "w": "loophole",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈluːphoʊl/",
+     "syl": [
+      "loop",
+      "hole"
+     ],
+     "def": "a weakness in a law or rule that lets people avoid obeying it without breaking it",
+     "ex": "The company used a loophole in the tax law to pay almost nothing."
+    },
+    {
+     "w": "bypass",
+     "level": "Topic term",
+     "pos": "verb",
+     "ipa": "/ˈbaɪpæs/",
+     "syl": [
+      "by",
+      "pass"
+     ],
+     "def": "to avoid a rule, system or person, usually to get something done more easily",
+     "ex": "Some students try to bypass the school's internet filter with special apps."
+    },
+    {
+     "w": "subsidiary",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/səbˈsɪdieri/",
+     "syl": [
+      "sub",
+      "sid",
+      "i",
+      "ar",
+      "y"
+     ],
+     "def": "a company that is controlled by a larger parent company",
+     "ex": "The car maker set up a subsidiary in Mexico to build electric batteries."
+    },
+    {
+     "w": "prolonged",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/prəˈlɔːŋd/",
+     "syl": [
+      "pro",
+      "longed"
+     ],
+     "def": "continuing for a long time, often longer than expected",
+     "ex": "A prolonged drought forced farmers to sell part of their herds."
+    },
+    {
+     "w": "crackdown",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈkrækdaʊn/",
+     "syl": [
+      "crack",
+      "down"
+     ],
+     "def": "strong official action to stop an illegal or unwanted activity",
+     "ex": "The city announced a crackdown on illegal parking near schools."
+    },
+    {
+     "w": "accelerate",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/əkˈseləreɪt/",
+     "syl": [
+      "ac",
+      "cel",
+      "er",
+      "ate"
+     ],
+     "def": "to make something happen faster or earlier",
+     "ex": "Cheap solar panels could accelerate the move away from coal."
+    },
+    {
+     "w": "collateral",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/kəˈlætərəl/",
+     "syl": [
+      "col",
+      "lat",
+      "er",
+      "al"
+     ],
+     "def": "happening as an unintended side effect of something else",
+     "ex": "Small shops suffered collateral damage when the main road was closed for repairs."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "The pause will last for an unspecified period while Nvidia checks whether its regional partners are meeting American export requirements, and it remains unclear whether the suspension is temporary.",
+     "kind": "Key details",
+     "note": "This sentence gives the stated reason for the pause and signals uncertainty; TOEFL questions often test the difference between a stated reason and a guess."
+    },
+    {
+     "para": 2,
+     "text": "Increasingly, however, the most valuable resource in AI is not the chip itself but access to the computing power it provides.",
+     "kind": "Main idea",
+     "note": "The “not … but” contrast states the key shift that explains why the old rules no longer work."
+    },
+    {
+     "para": 3,
+     "text": "That shift opened a loophole.",
+     "kind": "Cause → effect",
+     "note": "A short sentence links paragraph 2 (cause) to paragraph 3 (effect); recognising such links helps with rhetorical-purpose questions."
+    },
+    {
+     "para": 6,
+     "text": "Supporters of the crackdown argue that a control which can be avoided simply by logging in from another country is hardly a control at all.",
+     "kind": "Critical thinking",
+     "note": "This presents one side of the debate; the next paragraph begins the opposing view."
+    },
+    {
+     "para": 7,
+     "text": "Critics see a more complicated picture.",
+     "kind": "Topic sentence",
+     "note": "A clear signal that the paragraph will present objections to the crackdown."
+    },
+    {
+     "para": 8,
+     "text": "Whether governments can draw borders in that invisible landscape, and how much collateral damage they are willing to accept while trying, may shape the global AI race for years to come.",
+     "kind": "Hedging",
+     "note": "The author ends with an open question and the cautious “may”, typical of balanced academic conclusions."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 5,
+     "q": "The word “booked” in paragraph 5 is closest in meaning to",
+     "opts": [
+      "reserved in advance",
+      "officially charged with an offence",
+      "recorded in the accounts",
+      "sent by post"
+     ],
+     "a": 2,
+     "evidence": "part of that figure reflects sales booked in Singapore for customers elsewhere",
+     "why": "The sentence is about revenue figures: some sales were recorded in the Singapore subsidiary's accounts even though the customers were elsewhere.",
+     "optWhy": [
+      "Wrong: another meaning of the word. We book a table or a ticket in advance, but here “booked” describes how sales appear in a company's figures (“$104 billion in revenue”).",
+      "Wrong: another meaning of the word. Police can “book” a suspect, but nothing in the paragraph is about crime.",
+      "Correct. “sales booked in Singapore” = sales recorded in the Singapore accounts; the context is “revenue through its Singapore subsidiary.”",
+      "Wrong: not supported. The paragraph is about accounting figures, not about how products are delivered."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "The company recorded $104 billion in revenue through its Singapore subsidiary in 2025, a 72 percent increase on the previous year, although part of that figure reflects sales booked in Singapore for customers elsewhere, including Taiwan and China.",
+       "hl": "sales booked in Singapore for customers elsewhere"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read the whole sentence",
+       "x": "It is about revenue “through its Singapore subsidiary”."
+      },
+      {
+       "t": "Think accounting",
+       "x": "“Part of that figure” means some of the revenue number came from sales recorded there."
+      },
+      {
+       "t": "Reject other meanings",
+       "x": "Reserving tickets and charging suspects are other uses of “book” that do not fit money figures."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 3,
+     "q": "According to paragraph 3, how have Chinese AI developers made use of data centres in Southeast Asia?",
+     "opts": [
+      "By renting processing time there and sending their work over the internet",
+      "By buying the data centres outright and moving their servers back to China",
+      "By building their own advanced chips inside the four Southeast Asian countries",
+      "By helping the governments of the four countries design new export rules"
+     ],
+     "a": 0,
+     "evidence": "it can rent processing time from a data centre on the other side of a border and send its work there over the internet",
+     "why": "The paragraph explains that a company “does not need to own a server”; it can rent processing time abroad, and Chinese developers “have done exactly this.”",
+     "optWhy": [
+      "Correct. “rent processing time from a data centre on the other side of a border and send its work there over the internet” + “Chinese AI developers have done exactly this.”",
+      "Wrong: contradicts the text. “A company does not need to own a server in order to use it,” and nothing is moved back to China.",
+      "Wrong: not mentioned in paragraph 3. Developing China's own chips is a possible future effect raised by critics in paragraph 7.",
+      "Wrong: not mentioned. The rules come from the US Commerce Department (paragraph 4), not from the four countries."
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "A company does not need to own a server in order to use it; it can rent processing time from a data centre on the other side of a border and send its work there over the internet.",
+       "hl": "rent processing time"
+      },
+      {
+       "para": 3,
+       "text": "Chinese AI developers have done exactly this, and the four Southeast Asian countries have become favoured destinations for their projects.",
+       "hl": "have done exactly this"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Locate the method",
+       "x": "Paragraph 3 explains how computing power can be used without owning hardware."
+      },
+      {
+       "t": "Connect “exactly this”",
+       "x": "“Exactly this” refers back to renting processing time over the internet."
+      },
+      {
+       "t": "Check borrowed ideas",
+       "x": "C borrows from paragraph 7 and D from paragraph 4, but neither fits paragraph 3."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 5,
+     "q": "According to paragraph 5, all of the following are true EXCEPT",
+     "opts": [
+      "Nvidia's Singapore subsidiary recorded $104 billion in revenue in 2025.",
+      "Some revenue booked in Singapore came from customers in other places.",
+      "Cheaper land helps attract data centres to Southeast Asia.",
+      "Local governments in the region asked Nvidia to stop its shipments."
+     ],
+     "a": 3,
+     "evidence": "A prolonged pause could therefore slow investment that local governments have worked hard to attract.",
+     "why": "The paragraph says local governments have “worked hard to attract” investment, so they did not ask for the shipments to stop. The other three statements appear in the paragraph.",
+     "optWhy": [
+      "Wrong: this is stated. “The company recorded $104 billion in revenue through its Singapore subsidiary in 2025.”",
+      "Wrong: this is stated. Part of the figure “reflects sales booked in Singapore for customers elsewhere, including Taiwan and China.”",
+      "Wrong: this is stated. Data centres are “attracted by cheaper land, reliable power and a location between major markets.”",
+      "Correct. This contradicts the text: local governments “have worked hard to attract” investment, and the pause comes from Nvidia and US rules."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "Southeast Asia has also become a fast-growing hub for new data centres, attracted by cheaper land, reliable power and a location between major markets.",
+       "hl": "cheaper land"
+      },
+      {
+       "para": 5,
+       "text": "A prolonged pause could therefore slow investment that local governments have worked hard to attract.",
+       "hl": "local governments have worked hard to attract"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check each statement",
+       "x": "Find the revenue figure, the note about customers elsewhere and the reasons for data-centre growth."
+      },
+      {
+       "t": "Look at the governments",
+       "x": "The last sentence says governments worked hard to attract investment."
+      },
+      {
+       "t": "Pick the false one",
+       "x": "D says the opposite, so it is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 4,
+     "q": "What can be inferred from paragraph 4 about the new US rules?",
+     "opts": [
+      "Cloud providers welcomed them because they were simple to follow.",
+      "Companies affected by them are unsure how to comply in practice.",
+      "They ban every data centre in Southeast Asia from using Nvidia chips.",
+      "They were drafted jointly with the four Southeast Asian governments."
+     ],
+     "a": 1,
+     "evidence": "There's this new rule but no guidance on execution",
+     "why": "Executives say there is “no guidance on execution” and describe “sheer chaos,” so companies do not know how to put the rules into practice.",
+     "optWhy": [
+      "Wrong: contradicts the text. Businesses “describe the rollout as confusing,” not simple.",
+      "Correct. “no guidance on execution” and “causing sheer chaos” imply that companies are unsure how to comply.",
+      "Wrong: too extreme. The rules require providers to “need licences”; they do not ban every data centre.",
+      "Wrong: not mentioned. The rules come from “the US Commerce Department”; no role for the four governments is described."
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "Businesses on the ground describe the rollout as confusing.",
+       "hl": "confusing"
+      },
+      {
+       "para": 4,
+       "text": "\"There's this new rule but no guidance on execution,\" one cloud executive told the Financial Times.",
+       "hl": "no guidance on execution"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the reactions",
+       "x": "Look at the quotes from cloud executives at the end of paragraph 4."
+      },
+      {
+       "t": "Infer the meaning",
+       "x": "“No guidance on execution” means companies do not know how to apply the rule."
+      },
+      {
+       "t": "Avoid overstatement",
+       "x": "Licences are required, but nothing says every data centre is banned."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 2,
+     "q": "Why does the author state in paragraph 2 that the original rules “were designed for a world of physical goods”?",
+     "opts": [
+      "To praise the United States for controlling trade very effectively",
+      "To explain why the rules could not easily control rented computing power",
+      "To show that AI chips have lost almost all of their commercial value",
+      "To describe in some detail how servers and chips are shipped between countries"
+     ],
+     "a": 1,
+     "evidence": "Those rules were designed for a world of physical goods",
+     "why": "The author contrasts rules about where “boxes of chips and servers could be sent” with the new reality that the key resource is “access to the computing power,” preparing for the loophole in paragraph 3.",
+     "optWhy": [
+      "Wrong: wrong attitude. The sentence sets up a weakness in the rules, which “opened a loophole,” rather than praising them.",
+      "Correct. Rules for “boxes of chips and servers” could not cover “access to the computing power,” which explains the loophole described next.",
+      "Wrong: too extreme. The text says access is “the most valuable resource,” not that chips are worthless.",
+      "Wrong: true detail but not the purpose. Shipping is mentioned only to contrast with rented computing power; no shipping process is described."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "Those rules were designed for a world of physical goods: they controlled where boxes of chips and servers could be sent.",
+       "hl": "designed for a world of physical goods"
+      },
+      {
+       "para": 2,
+       "text": "Increasingly, however, the most valuable resource in AI is not the chip itself but access to the computing power it provides.",
+       "hl": "access to the computing power"
+      },
+      {
+       "para": 3,
+       "text": "That shift opened a loophole.",
+       "hl": "opened a loophole"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Read what follows",
+       "x": "The next sentence begins with “however” and describes a change."
+      },
+      {
+       "t": "Connect to paragraph 3",
+       "x": "“That shift opened a loophole” shows the point is a weakness in the old rules."
+      },
+      {
+       "t": "Reject extremes",
+       "x": "Chips are still valuable; the text only says access matters more."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Nvidia's chief executive, Jensen Huang, has previously argued that allowing the company to sell its chips in China would help keep the country dependent on American technology.",
+     "opts": [
+      "Jensen Huang has argued that China already depends far too much on US technology and should make its own chips.",
+      "Jensen Huang has said Nvidia ought to stop selling chips in China in order to protect American technology.",
+      "Jensen Huang has claimed that letting Nvidia sell chips in China would keep China reliant on US technology.",
+      "Jensen Huang has argued that American technology firms will soon have to depend on chips made in China."
+     ],
+     "a": 2,
+     "evidence": "allowing the company to sell its chips in China would help keep the country dependent on American technology",
+     "why": "Huang's argument is that sales to China would keep China dependent on American technology; option C keeps the condition (selling chips) and the result (dependence).",
+     "optWhy": [
+      "Wrong: changes the meaning. Huang wants China to stay dependent; he does not say China should make its own chips.",
+      "Wrong: reverses the argument. Huang argued for “allowing the company to sell its chips in China,” not for stopping sales.",
+      "Correct. “allowing the company to sell its chips in China” = letting Nvidia sell chips in China; “dependent on American technology” = reliant on US technology.",
+      "Wrong: reverses who depends on whom. The sentence says China would depend on American technology, not the other way round."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Some also argue that tighter limits may encourage China to accelerate the development of its own chips, reducing American influence in the long run.",
+       "hl": "accelerate the development of its own chips"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the two parts",
+       "x": "Condition: Nvidia sells chips in China. Result: China stays dependent on US technology."
+      },
+      {
+       "t": "Watch the direction",
+       "x": "Who depends on whom? China on America, not the reverse."
+      },
+      {
+       "t": "Rule out reversals",
+       "x": "B reverses the policy and D reverses the dependence."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261128-2-k1",
+     "tag": "The pause",
+     "fact": "Nvidia halted AI server shipments to Malaysia, Singapore, Thailand and Indonesia.",
+     "q": "Which countries are affected by Nvidia's pause?",
+     "opts": [
+      "Malaysia, Singapore, Thailand and Indonesia",
+      "China, Taiwan, Japan and Korea",
+      "India, Nepal, Bhutan and Sri Lanka"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-2-k2",
+     "tag": "The shift",
+     "fact": "In AI, access to computing power now matters more than owning the chip itself.",
+     "q": "What has become the most valuable resource in AI, according to the text?",
+     "opts": [
+      "Access to computing power",
+      "The chip's packaging",
+      "Cheap electricity alone"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-2-k3",
+     "tag": "The loophole",
+     "fact": "Remote data centres supply an estimated 24 percent of China's AI computing power.",
+     "q": "What share of China's AI computing power may come from remote data centres?",
+     "opts": [
+      "About 24 percent",
+      "About 72 percent",
+      "Under 1 percent"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-2-k4",
+     "tag": "New rules",
+     "fact": "New US rules require licences for cloud providers, but companies say there is no guidance on how to comply.",
+     "q": "How did businesses react to the new rules?",
+     "opts": [
+      "They found them confusing",
+      "They found them simple",
+      "They ignored them"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-2-k5",
+     "tag": "Two views",
+     "fact": "Supporters say controls must cover rented computing; critics warn of collateral damage and faster Chinese chip development.",
+     "q": "What is one concern raised by critics?",
+     "opts": [
+      "China may speed up its own chip development",
+      "Nvidia will go bankrupt",
+      "Data centres will move to Europe"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Nvidia's pause",
+    "question": "Can export controls keep up with the cloud?",
+    "branches": [
+     {
+      "title": "What happened",
+      "paras": "1",
+      "blanks": [
+       "four Southeast Asian countries",
+       "unspecified period"
+      ],
+      "kps": [
+       "n20261128-2-k1"
+      ]
+     },
+     {
+      "title": "Why it matters",
+      "paras": "2–3",
+      "blanks": [
+       "rules for physical goods",
+       "rent processing time"
+      ],
+      "kps": [
+       "n20261128-2-k2",
+       "n20261128-2-k3"
+      ]
+     },
+     {
+      "title": "New rules",
+      "paras": "4–5",
+      "blanks": [
+       "no guidance on execution",
+       "$104 billion in revenue"
+      ],
+      "kps": [
+       "n20261128-2-k4"
+      ]
+     },
+     {
+      "title": "Two views",
+      "paras": "6–8",
+      "blanks": [
+       "hardly a control at all",
+       "collateral damage"
+      ],
+      "kps": [
+       "n20261128-2-k5"
+      ]
+     }
+    ],
+    "distractors": [
+     "China bans Nvidia chips",
+     "rules welcomed as simple"
+    ]
+   },
+   "summary": {
+    "intro": "Nvidia has paused AI server shipments to four Southeast Asian countries as the US tightens export rules.",
+    "model": "Because Chinese developers rented AI computing power in Southeast Asia, the US has extended export controls to the cloud, and Nvidia has paused shipments. However, while supporters say controls must cover access, critics warn of confusion, collateral damage and faster Chinese chip development.",
+    "options": [
+     {
+      "t": "Export rules built for physical goods could not stop companies from renting computing power across borders.",
+      "ok": true,
+      "type": "main",
+      "para": 2,
+      "evidence": "Those rules were designed for a world of physical goods"
+     },
+     {
+      "t": "New US rules aimed at closing this loophole have caused confusion and led Nvidia to pause shipments to the region.",
+      "ok": true,
+      "type": "main",
+      "para": 4,
+      "evidence": "Businesses on the ground describe the rollout as confusing."
+     },
+     {
+      "t": "Supporters see the crackdown as necessary, while critics warn about harm to neutral countries and long-term effects.",
+      "ok": true,
+      "type": "main",
+      "para": 7,
+      "evidence": "Critics see a more complicated picture."
+     },
+     {
+      "t": "Nvidia's Singapore revenue grew by 72 percent in 2025.",
+      "ok": false,
+      "type": "detail",
+      "para": 5,
+      "evidence": "a 72 percent increase on the previous year"
+     },
+     {
+      "t": "Malaysia and Thailand have announced plans to build their own AI chips.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "The four Southeast Asian countries were the main targets of the new US policy.",
+      "ok": false,
+      "type": "contra",
+      "para": 7,
+      "evidence": "are not the targets of the policy"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people believe governments should strictly control the export of advanced technology for security reasons. Others believe technology should be traded freely because everyone benefits from progress. Which view do you agree with? Use specific reasons and examples.",
+    "hint": "Choose a side; give two reasons (security, fairness, innovation, jobs); use the Nvidia case or another example; end with a clear conclusion.",
+    "sec": 60
+   },
+   "write": {
+    "p": "Dr. Patel: The US has tightened rules to stop Chinese companies from renting AI computing power in Southeast Asia, and Nvidia has paused shipments to four countries. Supporters say national security must come first. Critics say the rules harm neutral countries and may push China to build its own chips faster. Are strict export controls on advanced technology a wise policy? Why or why not?\nSofia: “Yes. If a rule can be avoided just by logging in from another country, it is useless. Governments have a duty to protect security, even if some businesses lose money for a while.”\nDaniel: “I'm not so sure. Countries like Malaysia and Thailand are not the targets, yet they pay the price. And cutting off China might simply encourage it to develop its own technology faster.”",
+    "steps": [
+     "Decide whether strict controls are wise, unwise, or wise only under certain conditions.",
+     "Use one detail from the passage (e.g., 24 percent of China's computing power, “no guidance on execution”).",
+     "Respond to Sofia or Daniel by name and add a new point, such as innovation or fairness.",
+     "Finish with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "bf_emma"
+  },
+  {
+   "id": "n20261128-3",
+   "topic": "Geography",
+   "title": "Dams on Thin Ice: Nepal's Hydropower Dilemma",
+   "dek": "Nepal needs winter electricity, but its glaciers are melting and its mountains shake. Should it build giant dams, or find a safer path to power?",
+   "sources": [
+    {
+     "name": "Mongabay, 27 Nov 2026",
+     "url": "https://news.mongabay.com/2026/11/in-nepal-experts-debate-future-of-mega-dams-after-augusts-flood/"
+    },
+    {
+     "name": "Schwanghart et al., Environmental Research Letters, 2016",
+     "url": "https://doi.org/10.1088/1748-9326/11/7/074005"
+    }
+   ],
+   "paras": [
+    "On 26 August, what appears to have been an avalanche on Langtang Lirung in central Nepal sent a churning wall of water, mud and boulders down the Bhotekoshi valley. The flood claimed many lives, and it also damaged at least a dozen hydropower projects. Three months later, as winter approaches and electricity runs short, the disaster has reopened one of Nepal's most difficult debates: should the country build large storage dams in the high Himalaya, or is the climate changing too quickly to make them safe?",
+    "Nepal depends heavily on hydropower, using the steep rivers that flow from Himalayan snow and glaciers. Almost all of its plants, however, are run-of-river schemes. Instead of holding water behind a tall wall, they divert part of a river's flow through turbines and return it downstream. This design is cheaper and less disruptive, but it has a serious weakness: when rivers shrink in the dry season, output drops to less than half of installed capacity. The country has only one storage plant, the four-decade-old Kulekhani, which generates 92 gigawatt-hours a year and helps meet winter peak demand.",
+    "The result is a seasonal mismatch. The Nepal Electricity Authority expects domestic plants to generate 1,218 megawatts this winter, against peak demand of 2,250 to 2,300 megawatts, and it reportedly plans to import 1,154 megawatts from India. Private generators, which supply nearly 60 percent of the country's electricity, have been reluctant to build reservoirs because of the steep costs and risks involved. For a country rich in rivers, relying on a neighbour for so much winter power is, to many Nepalis, both costly and frustrating.",
+    "Supporters of storage dams argue that reservoirs are the obvious solution. By capturing monsoon water and releasing it in winter, they could close the seasonal gap, cut imports and protect water supplies for cities and farms. Two major projects are under way: the Tanahu Seti dam, with storage of 300 million cubic metres, is scheduled to begin operating next year, while the 263-metre Budhigandaki dam is expected to cost around $2.77 billion. \"High dams are safe if geological studies are properly conducted and designed with the latest technology,\" says the geologist Bishal Nath Upreti.",
+    "Opponents point to how rapidly the mountains themselves are changing. An assessment by ICIMOD, a regional research centre, suggests that under current emissions pathways about 80 percent of the Himalaya's present glacier volume will be gone by 2100. As glaciers melt, the lakes that form behind them grow larger and more unstable, raising the risk of a glacial lake outburst flood. A 2016 study found that two-thirds of 257 sampled Himalayan hydropower plants sit on potential routes of such floods. The danger is not theoretical: in 2023, a flood from a glacial lake destroyed the Teesta III dam in the neighbouring Indian state of Sikkim. One former government secretary, Dwarika Nath Dhungel, says that people in the valleys are \"living just below an atom bomb of the glacial lakes.\"",
+    "Earthquakes add a second layer of uncertainty. Nepal sits where the Indian and Eurasian tectonic plates collide, and the 2015 earthquake temporarily cost the country more than 30 percent of its hydropower production. A former head of the electricity authority, Hitendra Dev Shakya, supports reservoirs but admits the limits of engineering: \"The dam is strong enough to withstand a magnitude 7 quake, but what about 8 or above?\" Engineers also warn that if every dam had to be designed to survive a flood like the one in August, many projects might no longer be financially feasible.",
+    "Some experts believe Nepal should look in a different direction altogether. Himanshu Thakkar of the South Asia Network on Dams, Rivers and People favours solar power combined with pumped storage, in which water is pumped uphill when electricity is plentiful and released through turbines when it is needed. Because such systems can be built away from major rivers, they avoid many flood risks. Researchers have counted about 2,800 suitable sites in Nepal, and one model put the cost of solar plus storage at about 8.5 US cents per kilowatt-hour, compared with the 6.7 cents the electricity authority pays in the dry season. Both studies, however, are models rather than tested projects.",
+    "Between these positions, some officials are searching for a middle path. Bibek Raj Kandel, an adviser to the energy minister, argues that Nepal should look \"beyond a binary pro- and anti-dam stance\" and choose projects that match each valley's climate, terrain and grid needs. He also warns that \"the real danger zone is the construction period,\" when a half-built dam is especially vulnerable. Nepal's choice will matter well beyond its borders, because every mountain country facing melting glaciers must decide how much risk it is prepared to accept in return for reliable power."
+   ],
+   "words": [
+    {
+     "w": "divert",
+     "level": "Academic",
+     "pos": "verb",
+     "ipa": "/daɪˈvɜːrt/",
+     "syl": [
+      "di",
+      "vert"
+     ],
+     "def": "to change the direction or use of something, such as water or traffic",
+     "ex": "Engineers had to divert the stream to build the new bridge."
+    },
+    {
+     "w": "disruptive",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/dɪsˈrʌptɪv/",
+     "syl": [
+      "dis",
+      "rup",
+      "tive"
+     ],
+     "def": "causing problems that stop something from continuing normally",
+     "ex": "Building work next to the school was so disruptive that classes moved to another site."
+    },
+    {
+     "w": "run-of-river",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/ˌrʌn əv ˈrɪvər/",
+     "syl": [
+      "run",
+      "of",
+      "riv",
+      "er"
+     ],
+     "def": "describing a hydropower plant that uses a river's natural flow instead of storing water behind a large dam",
+     "ex": "A run-of-river plant produces less power when the river is low."
+    },
+    {
+     "w": "mismatch",
+     "level": "Academic",
+     "pos": "noun",
+     "ipa": "/ˈmɪsmætʃ/",
+     "syl": [
+      "mis",
+      "match"
+     ],
+     "def": "a situation in which two things do not fit or work well together",
+     "ex": "There is a mismatch between the skills young people learn and the jobs that are available."
+    },
+    {
+     "w": "reservoir",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈrezərvwɑːr/",
+     "syl": [
+      "res",
+      "er",
+      "voir"
+     ],
+     "def": "a large natural or artificial lake used to store water",
+     "ex": "The city's reservoir was only half full after the dry summer."
+    },
+    {
+     "w": "outburst",
+     "level": "Topic term",
+     "pos": "noun",
+     "ipa": "/ˈaʊtbɜːrst/",
+     "syl": [
+      "out",
+      "burst"
+     ],
+     "def": "a sudden, powerful release of something, such as water, energy or emotion",
+     "ex": "Scientists monitor the lake closely because an outburst could flood the town below."
+    },
+    {
+     "w": "tectonic",
+     "level": "Topic term",
+     "pos": "adjective",
+     "ipa": "/tekˈtɑːnɪk/",
+     "syl": [
+      "tec",
+      "ton",
+      "ic"
+     ],
+     "def": "relating to the large plates that form the Earth's surface and their movements",
+     "ex": "Japan has many earthquakes because it lies where several tectonic plates meet."
+    },
+    {
+     "w": "feasible",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈfiːzəbəl/",
+     "syl": [
+      "fea",
+      "si",
+      "ble"
+     ],
+     "def": "possible to do in practice, especially at a reasonable cost",
+     "ex": "A high-speed railway across the desert may not be financially feasible."
+    },
+    {
+     "w": "binary",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈbaɪnəri/",
+     "syl": [
+      "bi",
+      "na",
+      "ry"
+     ],
+     "def": "involving only two choices or opposite positions",
+     "ex": "The debate is not a binary choice between cars and bicycles."
+    },
+    {
+     "w": "vulnerable",
+     "level": "Academic",
+     "pos": "adjective",
+     "ipa": "/ˈvʌlnərəbəl/",
+     "syl": [
+      "vul",
+      "ner",
+      "a",
+      "ble"
+     ],
+     "def": "easily harmed or damaged, physically or emotionally",
+     "ex": "Coastal villages are especially vulnerable to rising sea levels."
+    }
+   ],
+   "keySentences": [
+    {
+     "para": 1,
+     "text": "Three months later, as winter approaches and electricity runs short, the disaster has reopened one of Nepal's most difficult debates: should the country build large storage dams in the high Himalaya, or is the climate changing too quickly to make them safe?",
+     "kind": "Main idea",
+     "note": "The question after the colon states the central debate that the rest of the passage explores."
+    },
+    {
+     "para": 2,
+     "text": "This design is cheaper and less disruptive, but it has a serious weakness: when rivers shrink in the dry season, output drops to less than half of installed capacity.",
+     "kind": "Cause → effect",
+     "note": "The colon introduces the cause of Nepal's winter power shortage, a typical target for factual questions."
+    },
+    {
+     "para": 4,
+     "text": "Supporters of storage dams argue that reservoirs are the obvious solution.",
+     "kind": "Topic sentence",
+     "note": "This sentence introduces the first side of the debate."
+    },
+    {
+     "para": 5,
+     "text": "Opponents point to how rapidly the mountains themselves are changing.",
+     "kind": "Topic sentence",
+     "note": "“Opponents” signals the counter-argument; the paragraph then gives climate evidence."
+    },
+    {
+     "para": 7,
+     "text": "Both studies, however, are models rather than tested projects.",
+     "kind": "Hedging",
+     "note": "The author limits the strength of the evidence; TOEFL often asks why a writer adds such a qualification."
+    },
+    {
+     "para": 8,
+     "text": "Between these positions, some officials are searching for a middle path.",
+     "kind": "Author's view",
+     "note": "The final paragraph moves beyond two sides to a compromise, a common structure in balanced passages."
+    }
+   ],
+   "questions": [
+    {
+     "type": "Vocabulary",
+     "para": 3,
+     "q": "The word “steep” in paragraph 3 is closest in meaning to",
+     "opts": [
+      "rising or falling at a sharp angle",
+      "happening suddenly and without warning",
+      "difficult to predict in advance",
+      "very high, often unreasonably so"
+     ],
+     "a": 3,
+     "evidence": "because of the steep costs and risks involved",
+     "why": "“Steep” describes costs and risks that make private generators “reluctant to build reservoirs,” so it means very high.",
+     "optWhy": [
+      "Wrong: another meaning of the word. Paragraph 2 uses “steep rivers” for a sharp slope, but costs cannot have an angle.",
+      "Wrong: not supported. The costs are large, not sudden; the paragraph says nothing about timing.",
+      "Wrong: changes the meaning. The point is that costs are too high to accept, not that they are hard to predict.",
+      "Correct. “steep costs and risks” = very high costs that make generators “reluctant to build reservoirs.”"
+     ],
+     "ctx": [
+      {
+       "para": 3,
+       "text": "Private generators, which supply nearly 60 percent of the country's electricity, have been reluctant to build reservoirs because of the steep costs and risks involved.",
+       "hl": "steep costs and risks"
+      },
+      {
+       "para": 2,
+       "text": "Nepal depends heavily on hydropower, using the steep rivers that flow from Himalayan snow and glaciers.",
+       "hl": "steep rivers"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Check what it describes",
+       "x": "In paragraph 3, “steep” describes costs and risks."
+      },
+      {
+       "t": "Use the effect",
+       "x": "The costs make generators “reluctant”, so they must be very high."
+      },
+      {
+       "t": "Avoid the other meaning",
+       "x": "Paragraph 2's “steep rivers” means a sharp slope, which is the trap in A."
+      }
+     ]
+    },
+    {
+     "type": "Factual information",
+     "para": 2,
+     "q": "According to paragraph 2, what is the main weakness of run-of-river plants?",
+     "opts": [
+      "They need a tall wall that blocks the whole river.",
+      "Their output falls sharply when rivers shrink in the dry season.",
+      "They cost considerably more to build than plants with large reservoirs.",
+      "They can only operate safely for about four decades."
+     ],
+     "a": 1,
+     "evidence": "when rivers shrink in the dry season, output drops to less than half of installed capacity",
+     "why": "The paragraph names one “serious weakness”: in the dry season, output drops to less than half of installed capacity.",
+     "optWhy": [
+      "Wrong: contradicts the text. Run-of-river plants work “instead of holding water behind a tall wall.”",
+      "Correct. “output drops to less than half of installed capacity” when “rivers shrink in the dry season” = output falls sharply in the dry season.",
+      "Wrong: contradicts the text. “This design is cheaper and less disruptive.”",
+      "Wrong: detail misused. “Four-decade-old” describes the age of Kulekhani, a storage plant, not a limit on run-of-river plants."
+     ],
+     "ctx": [
+      {
+       "para": 2,
+       "text": "This design is cheaper and less disruptive, but it has a serious weakness: when rivers shrink in the dry season, output drops to less than half of installed capacity.",
+       "hl": "output drops to less than half of installed capacity"
+      },
+      {
+       "para": 2,
+       "text": "The country has only one storage plant, the four-decade-old Kulekhani, which generates 92 gigawatt-hours a year and helps meet winter peak demand.",
+       "hl": "four-decade-old Kulekhani"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the signal word",
+       "x": "Look for “weakness” in paragraph 2."
+      },
+      {
+       "t": "Read after the colon",
+       "x": "The colon introduces the weakness: low output in the dry season."
+      },
+      {
+       "t": "Spot borrowed details",
+       "x": "“Four decades” belongs to Kulekhani, and “cheaper” contradicts C."
+      }
+     ]
+    },
+    {
+     "type": "Negative factual information",
+     "para": 4,
+     "q": "According to paragraph 4, all of the following are benefits that supporters claim for storage dams EXCEPT",
+     "opts": [
+      "closing the gap between summer and winter supply",
+      "reducing the amount of electricity Nepal imports",
+      "lowering the danger posed by strong earthquakes",
+      "protecting water supplies for cities and farms"
+     ],
+     "a": 2,
+     "evidence": "they could close the seasonal gap, cut imports and protect water supplies for cities and farms",
+     "why": "Supporters list three benefits: closing the seasonal gap, cutting imports and protecting water supplies. Earthquakes are discussed in paragraph 6 as a risk, not a benefit.",
+     "optWhy": [
+      "Wrong: this is stated. Reservoirs “could close the seasonal gap.”",
+      "Wrong: this is stated. They could “cut imports.”",
+      "Correct. This is not a claimed benefit; earthquakes appear in paragraph 6 as “a second layer of uncertainty” for dams.",
+      "Wrong: this is stated. They could “protect water supplies for cities and farms.”"
+     ],
+     "ctx": [
+      {
+       "para": 4,
+       "text": "By capturing monsoon water and releasing it in winter, they could close the seasonal gap, cut imports and protect water supplies for cities and farms.",
+       "hl": "close the seasonal gap, cut imports and protect water supplies"
+      },
+      {
+       "para": 6,
+       "text": "Earthquakes add a second layer of uncertainty.",
+       "hl": "second layer of uncertainty"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the list",
+       "x": "Paragraph 4 gives three benefits in one sentence."
+      },
+      {
+       "t": "Tick them off",
+       "x": "A, B and D match the three items."
+      },
+      {
+       "t": "Check the odd one",
+       "x": "Earthquakes are a risk in paragraph 6, so C is the exception."
+      }
+     ]
+    },
+    {
+     "type": "Inference",
+     "para": 5,
+     "q": "What can be inferred from paragraph 5 about the link between melting glaciers and hydropower?",
+     "opts": [
+      "As glaciers keep melting, the threat to hydropower plants is likely to grow.",
+      "Melting glaciers make dams safer by sending more water into their reservoirs each year.",
+      "Only hydropower plants that were built before 2016 face any flood risk.",
+      "Once the glaciers have disappeared, dams will face greater flood risks."
+     ],
+     "a": 0,
+     "evidence": "As glaciers melt, the lakes that form behind them grow larger and more unstable, raising the risk of a glacial lake outburst flood.",
+     "why": "Glaciers are expected to keep shrinking (80 percent lost by 2100), melting makes glacial lakes larger and more unstable, and two-thirds of sampled plants lie on flood routes, so the threat is likely to grow.",
+     "optWhy": [
+      "Correct. Melting makes lakes “larger and more unstable, raising the risk,” and many plants “sit on potential routes,” so the threat will probably grow as melting continues.",
+      "Wrong: reversed. The text links melting with higher risk, not greater safety.",
+      "Wrong: misused number. 2016 is the year of the study, not a date that limits which plants are at risk.",
+      "Wrong: not supported. The paragraph links risk to melting, not to a future after the glaciers are gone; the passage gives no information about that stage."
+     ],
+     "ctx": [
+      {
+       "para": 5,
+       "text": "As glaciers melt, the lakes that form behind them grow larger and more unstable, raising the risk of a glacial lake outburst flood.",
+       "hl": "raising the risk of a glacial lake outburst flood"
+      },
+      {
+       "para": 5,
+       "text": "A 2016 study found that two-thirds of 257 sampled Himalayan hydropower plants sit on potential routes of such floods.",
+       "hl": "two-thirds of 257 sampled Himalayan hydropower plants"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Link the facts",
+       "x": "More melting → bigger, unstable lakes → higher flood risk."
+      },
+      {
+       "t": "Add the exposure",
+       "x": "Two-thirds of sampled plants lie on possible flood routes."
+      },
+      {
+       "t": "Avoid misreadings",
+       "x": "2016 is a study date, and the text never discusses a time after glaciers vanish."
+      }
+     ]
+    },
+    {
+     "type": "Rhetorical purpose",
+     "para": 6,
+     "q": "Why does the author quote Hitendra Dev Shakya in paragraph 6?",
+     "opts": [
+      "To show that all former officials strongly oppose building reservoirs",
+      "To prove that no dam anywhere in Nepal could survive any kind of earthquake",
+      "To explain how the strength of the 2015 earthquake was measured",
+      "To show that even a supporter of reservoirs sees limits in engineering"
+     ],
+     "a": 3,
+     "evidence": "supports reservoirs but admits the limits of engineering",
+     "why": "Shakya “supports reservoirs,” yet he asks whether a dam could survive a magnitude 8 quake. Coming from a supporter, the doubt makes the earthquake risk more convincing.",
+     "optWhy": [
+      "Wrong: contradicts the text. Shakya “supports reservoirs.”",
+      "Wrong: too extreme. He says a dam can “withstand a magnitude 7 quake”; he only questions stronger ones.",
+      "Wrong: not mentioned. No measurement method is described; the 2015 quake is mentioned for its effect on hydropower production.",
+      "Correct. “supports reservoirs but admits the limits of engineering” = even a supporter sees limits in engineering."
+     ],
+     "ctx": [
+      {
+       "para": 6,
+       "text": "A former head of the electricity authority, Hitendra Dev Shakya, supports reservoirs but admits the limits of engineering: \"The dam is strong enough to withstand a magnitude 7 quake, but what about 8 or above?\"",
+       "hl": "supports reservoirs but admits the limits of engineering"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Identify the speaker",
+       "x": "Shakya is a former official who supports reservoirs."
+      },
+      {
+       "t": "Notice the contrast",
+       "x": "“But admits the limits” shows a supporter expressing doubt."
+      },
+      {
+       "t": "Reject extremes",
+       "x": "He accepts magnitude 7 safety, so “no dam could survive any earthquake” is too strong."
+      }
+     ]
+    },
+    {
+     "type": "Sentence simplification",
+     "para": 7,
+     "q": "Which of the following best expresses the essential information in the highlighted sentence in paragraph 7? Incorrect choices change the meaning in important ways or leave out essential information.",
+     "highlight": "Researchers have counted about 2,800 suitable sites in Nepal, and one model put the cost of solar plus storage at about 8.5 US cents per kilowatt-hour, compared with the 6.7 cents the electricity authority pays in the dry season.",
+     "opts": [
+      "Nepal has about 2,800 possible sites, and one model suggests solar plus storage would cost somewhat more than the authority's current dry-season price.",
+      "Nepal has already built about 2,800 solar plants across the country, which now produce electricity far more cheaply than its current dry-season supply.",
+      "One model shows that solar plus storage would cost less than the 6.7 cents that the authority now pays in the dry season.",
+      "Researchers found 2,800 sites but concluded that solar plus storage is far too expensive ever to be built in Nepal."
+     ],
+     "a": 0,
+     "evidence": "Researchers have counted about 2,800 suitable sites in Nepal",
+     "why": "The sentence gives two facts: about 2,800 suitable sites exist, and one model estimates 8.5 cents per kilowatt-hour, a little more than the 6.7 cents paid now.",
+     "optWhy": [
+      "Correct. “about 2,800 suitable sites” = about 2,800 possible sites; 8.5 cents “compared with the 6.7 cents” = somewhat more than the current price.",
+      "Wrong: changes possibility into fact. The sites are “suitable,” not already built, and the cost comparison is reversed.",
+      "Wrong: reverses the comparison. 8.5 cents is more than 6.7 cents, not less.",
+      "Wrong: too extreme. The sentence gives a cost estimate but never concludes that solar plus storage is too expensive to build."
+     ],
+     "ctx": [
+      {
+       "para": 7,
+       "text": "Both studies, however, are models rather than tested projects.",
+       "hl": "models rather than tested projects"
+      }
+     ],
+     "steps": [
+      {
+       "t": "Find the two facts",
+       "x": "2,800 suitable sites; 8.5 cents compared with 6.7 cents."
+      },
+      {
+       "t": "Compare the numbers",
+       "x": "8.5 is higher than 6.7, so the model's cost is somewhat higher."
+      },
+      {
+       "t": "Check wording",
+       "x": "“Suitable” means possible, not built, and nothing says it is “far too expensive”."
+      }
+     ]
+    }
+   ],
+   "kps": [
+    {
+     "id": "n20261128-3-k1",
+     "tag": "The flood",
+     "fact": "An apparent avalanche on Langtang Lirung on 26 August caused a flood that damaged at least a dozen hydropower projects.",
+     "q": "What did the August flood damage?",
+     "opts": [
+      "At least a dozen hydropower projects",
+      "Nepal's only airport",
+      "Kathmandu's water pipes"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-3-k2",
+     "tag": "Run-of-river",
+     "fact": "Most Nepali plants are run-of-river, so their output drops below half of capacity in the dry season.",
+     "q": "Why does Nepal lack power in winter?",
+     "opts": [
+      "Run-of-river plants produce less when rivers shrink",
+      "Its dams are full of ice",
+      "It exports most of its power"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-3-k3",
+     "tag": "The gap",
+     "fact": "Domestic plants are expected to give 1,218 MW this winter against peak demand of 2,250–2,300 MW.",
+     "q": "How does winter supply compare with peak demand?",
+     "opts": [
+      "Supply is only about half of demand",
+      "Supply is double demand",
+      "They are exactly equal"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-3-k4",
+     "tag": "Glacier risk",
+     "fact": "Melting glaciers enlarge glacial lakes, and two-thirds of 257 sampled Himalayan plants lie on potential flood routes.",
+     "q": "What did the 2016 study find?",
+     "opts": [
+      "Two-thirds of sampled plants lie on potential flood routes",
+      "All plants are safe",
+      "Glaciers are growing"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-3-k5",
+     "tag": "Alternatives",
+     "fact": "Solar plus pumped storage could use about 2,800 sites away from rivers, at about 8.5 cents per kWh in one model.",
+     "q": "What alternative do some experts propose?",
+     "opts": [
+      "Solar power with pumped storage",
+      "Coal power stations",
+      "Importing all power from China"
+     ],
+     "a": 0
+    },
+    {
+     "id": "n20261128-3-k6",
+     "tag": "Middle path",
+     "fact": "An energy adviser urges Nepal to move beyond a pro- or anti-dam stance and match projects to each valley.",
+     "q": "What does Bibek Raj Kandel recommend?",
+     "opts": [
+      "Choosing projects case by case",
+      "Banning all dams",
+      "Building dams everywhere"
+     ],
+     "a": 0
+    }
+   ],
+   "mindmap": {
+    "center": "Nepal's dam debate",
+    "question": "Should Nepal build big storage dams?",
+    "branches": [
+     {
+      "title": "The problem",
+      "paras": "1–3",
+      "blanks": [
+       "less than half of installed capacity",
+       "import 1,154 megawatts"
+      ],
+      "kps": [
+       "n20261128-3-k1",
+       "n20261128-3-k2",
+       "n20261128-3-k3"
+      ]
+     },
+     {
+      "title": "For dams",
+      "paras": "4",
+      "blanks": [
+       "close the seasonal gap"
+      ],
+      "kps": []
+     },
+     {
+      "title": "Against dams",
+      "paras": "5–6",
+      "blanks": [
+       "glacial lake outburst flood",
+       "magnitude 8 or above"
+      ],
+      "kps": [
+       "n20261128-3-k4"
+      ]
+     },
+     {
+      "title": "Other paths",
+      "paras": "7–8",
+      "blanks": [
+       "solar plus pumped storage",
+       "beyond a binary stance"
+      ],
+      "kps": [
+       "n20261128-3-k5",
+       "n20261128-3-k6"
+      ]
+     }
+    ],
+    "distractors": [
+     "glaciers are growing again",
+     "Nepal exports winter power"
+    ]
+   },
+   "summary": {
+    "intro": "A deadly flood in August has reopened Nepal's debate over building large storage dams in the Himalaya.",
+    "model": "Nepal's run-of-river plants leave a winter power gap, so supporters want storage dams; however, melting glaciers and earthquakes make dams risky. While some favour solar and pumped storage, officials seek a middle path that matches projects to local conditions.",
+    "options": [
+     {
+      "t": "Because most plants are run-of-river, Nepal faces a winter power shortage and depends on imports.",
+      "ok": true,
+      "type": "main",
+      "para": 3,
+      "evidence": "The result is a seasonal mismatch."
+     },
+     {
+      "t": "Storage dams could close the seasonal gap, but glacial lake floods and earthquakes make them risky.",
+      "ok": true,
+      "type": "main",
+      "para": 5,
+      "evidence": "Opponents point to how rapidly the mountains themselves are changing."
+     },
+     {
+      "t": "Some experts prefer solar with pumped storage, while officials call for a flexible middle path.",
+      "ok": true,
+      "type": "main",
+      "para": 8,
+      "evidence": "some officials are searching for a middle path"
+     },
+     {
+      "t": "The Budhigandaki dam is planned to be 263 metres high.",
+      "ok": false,
+      "type": "detail",
+      "para": 4,
+      "evidence": "the 263-metre Budhigandaki dam"
+     },
+     {
+      "t": "Nepal has decided to cancel all new dam projects after the flood.",
+      "ok": false,
+      "type": "not",
+      "para": 0,
+      "evidence": ""
+     },
+     {
+      "t": "Experts agree that engineering can make high dams safe in any earthquake.",
+      "ok": false,
+      "type": "contra",
+      "para": 6,
+      "evidence": "but what about 8 or above?"
+     }
+    ]
+   },
+   "speak": {
+    "p": "Some people think poorer countries should build big projects such as large dams to grow their economies quickly. Others think they should choose smaller, safer projects even if progress is slower. Which approach do you prefer? Use specific reasons and examples.",
+    "hint": "Pick an approach; give two reasons (energy needs, safety, cost, environment); use Nepal or another example; end with a one-sentence conclusion.",
+    "sec": 60
+   },
+   "write": {
+    "p": "Dr. Ahmed: Nepal faces a winter power shortage, and some experts want large storage dams in the Himalaya. Others warn that melting glaciers and earthquakes make such dams dangerous, and suggest solar power with pumped storage instead. Should countries like Nepal build large dams in high mountain areas? Why or why not?\nGrace: “Yes. Nepal cannot keep importing half of its winter power. If geological studies are done properly, modern dams can be safe, and reservoirs also protect water supplies.”\nRyan: “I disagree. Glaciers are melting fast, and many plants already sit on flood routes. Spending billions on a dam that might be destroyed is a huge gamble. Solar and pumped storage are safer.”",
+    "steps": [
+     "Choose your position: build dams, avoid them, or decide case by case.",
+     "Support it with one fact from the passage (e.g., 1,218 MW vs 2,250 MW, two-thirds of plants on flood routes).",
+     "Reply to Grace or Ryan by name and add a new idea, such as cost, time or local communities.",
+     "End with a one-sentence conclusion."
+    ],
+    "minWords": 120
+   },
+   "voice": "am_fenrir"
+  }
+ ],
+ "uoe": {
+  "title": "Use of English · C1 Advanced",
+  "intro": "Cambridge C1 Advanced (CAE) style practice built on today's three stories: idioms, grammar and word formation.",
+  "parts": [
+   {
+    "part": 1,
+    "type": "mc",
+    "title": "Multiple-choice cloze",
+    "topic": "AI shopping agents",
+    "task": "Read the text and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "Artificial intelligence {1} centre stage in this year's holiday shopping, yet few people are ready to let it {2} the bill. Most shoppers are happy to use chatbots to {3} inspiration for gifts, but they draw the {4} at handing over their card details. Their caution has been {5} out by recent tests, in which agents often bought the wrong items. Many retailers have also {6} a firm stance against outside agents, fearing that they will lose control of their customers. Until it is clear who is to {7} when things go wrong, the technology is unlikely to {8} on with the general public.",
+    "items": [
+     {
+      "n": 1,
+      "opts": [
+       "took",
+       "stood",
+       "went",
+       "rose"
+      ],
+      "a": 0,
+      "focus": "Fixed expression",
+      "why": "“Take centre stage” means to become the most important or noticeable thing. The other verbs do not form this expression."
+     },
+     {
+      "n": 2,
+      "opts": [
+       "hand",
+       "foot",
+       "head",
+       "heel"
+      ],
+      "a": 1,
+      "focus": "Idiom",
+      "why": "“Foot the bill” means to pay for something. No other body part forms this idiom."
+     },
+     {
+      "n": 3,
+      "opts": [
+       "look",
+       "hunt",
+       "seek",
+       "search"
+      ],
+      "a": 2,
+      "focus": "Verb + object",
+      "why": "“Seek inspiration” takes a direct object. “Look”, “hunt” and “search” would all need “for”."
+     },
+     {
+      "n": 4,
+      "opts": [
+       "limit",
+       "border",
+       "edge",
+       "line"
+      ],
+      "a": 3,
+      "focus": "Idiom",
+      "why": "“Draw the line at something” means to refuse to go further. Only “line” completes the idiom."
+     },
+     {
+      "n": 5,
+      "opts": [
+       "carried",
+       "borne",
+       "brought",
+       "held"
+      ],
+      "a": 1,
+      "focus": "Phrasal verb",
+      "why": "“Be borne out by” means to be shown to be true by evidence. “Carried out” means performed, which does not fit."
+     },
+     {
+      "n": 6,
+      "opts": [
+       "made",
+       "gone",
+       "taken",
+       "put"
+      ],
+      "a": 2,
+      "focus": "Collocation",
+      "why": "We “take a stance” on or against something; “make”, “go” and “put” do not collocate with “stance”."
+     },
+     {
+      "n": 7,
+      "opts": [
+       "fault",
+       "wrong",
+       "guilty",
+       "blame"
+      ],
+      "a": 3,
+      "focus": "Fixed expression",
+      "why": "“Who is to blame” is a fixed structure (be + to + blame). The other words cannot follow “is to” here."
+     },
+     {
+      "n": 8,
+      "opts": [
+       "catch",
+       "take",
+       "get",
+       "go"
+      ],
+      "a": 0,
+      "focus": "Phrasal verb",
+      "why": "“Catch on” means to become popular. “Get on with” and “go on with” have different meanings that do not fit."
+     }
+    ]
+   },
+   {
+    "part": 2,
+    "type": "open",
+    "title": "Open cloze",
+    "topic": "Export controls and the cloud",
+    "task": "Read the text and think of the word which best fits each gap. Use only one word in each gap.",
+    "text": "For decades, export controls worked {9} a simple principle: if a product could not cross a border, it could not be used on the other side. Cloud computing has turned this idea {10} its head. Today, servers {11} sit in one country can be rented by users almost anywhere in the world. {12} is why Washington has extended its rules to cover access to computing power, not just hardware. Critics argue that the new rules arrived with little warning, leaving businesses unsure {13} to comply. {14} the confusion, supporters insist that a rule which can be avoided so easily is {15} better than no rule at all. Whether the policy succeeds will depend {16} how carefully it is applied.",
+    "items": [
+     {
+      "n": 9,
+      "ans": [
+       "on",
+       "upon"
+      ],
+      "focus": "Dependent preposition",
+      "why": "Something works “on” (or “upon”) a principle."
+     },
+     {
+      "n": 10,
+      "ans": [
+       "on"
+      ],
+      "focus": "Idiom",
+      "why": "“Turn something on its head” means to change it completely."
+     },
+     {
+      "n": 11,
+      "ans": [
+       "which",
+       "that"
+      ],
+      "focus": "Relative pronoun",
+      "why": "A defining relative clause about things needs “which” or “that” as the subject."
+     },
+     {
+      "n": 12,
+      "ans": [
+       "that",
+       "this"
+      ],
+      "focus": "Reference word",
+      "why": "“That is why” refers back to the previous sentence to introduce a result."
+     },
+     {
+      "n": 13,
+      "ans": [
+       "how"
+      ],
+      "focus": "Question word + infinitive",
+      "why": "“Unsure how to comply” means not knowing the way to do it."
+     },
+     {
+      "n": 14,
+      "ans": [
+       "despite"
+      ],
+      "focus": "Linking word",
+      "why": "“Despite” + noun shows contrast: there is confusion, but supporters still insist."
+     },
+     {
+      "n": 15,
+      "ans": [
+       "no",
+       "little",
+       "hardly",
+       "scarcely"
+      ],
+      "focus": "Comparative modifier",
+      "why": "“No/little better than” means almost the same as, here showing the rule is almost worthless."
+     },
+     {
+      "n": 16,
+      "ans": [
+       "on",
+       "upon"
+      ],
+      "focus": "Dependent preposition",
+      "why": "The verb “depend” is followed by “on” or “upon”."
+     }
+    ]
+   },
+   {
+    "part": 3,
+    "type": "wf",
+    "title": "Word formation",
+    "topic": "Nepal's dam debate",
+    "task": "Use the word given in capitals to form a word that fits in the gap.",
+    "text": "Nepal's mountains are among the most {17} landscapes on Earth, but they are also highly {18}. As glaciers retreat, meltwater collects in lakes that can burst with little {19}. Engineers argue that modern dams can withstand such floods, yet their {20} is not shared by everyone. Critics point to the {21} of earthquakes in the region. Others claim that solar power is a more {22} option, although its costs remain {23} higher. In the end, the debate reflects a deeper {24} between the need for power and the need for safety.",
+    "items": [
+     {
+      "n": 17,
+      "stem": "SPECTACLE",
+      "ans": [
+       "spectacular"
+      ],
+      "focus": "Adjective suffix -ular",
+      "why": "An adjective is needed after “the most”; “spectacle” becomes “spectacular”."
+     },
+     {
+      "n": 18,
+      "stem": "STABLE",
+      "ans": [
+       "unstable"
+      ],
+      "focus": "Negative prefix",
+      "why": "“But” signals a contrast, so a negative adjective is needed: “unstable”."
+     },
+     {
+      "n": 19,
+      "stem": "WARN",
+      "ans": [
+       "warning"
+      ],
+      "focus": "Noun from verb",
+      "why": "“With little” is followed by a noun: “with little warning”."
+     },
+     {
+      "n": 20,
+      "stem": "CONFIDE",
+      "ans": [
+       "confidence"
+      ],
+      "focus": "Noun suffix -ence",
+      "why": "After “their” we need a noun; “confide” → “confidence”."
+     },
+     {
+      "n": 21,
+      "stem": "PREDICT",
+      "ans": [
+       "unpredictability"
+      ],
+      "focus": "Prefix + suffix",
+      "why": "Critics stress a danger, so the negative noun “unpredictability” (un- + -ability) is needed."
+     },
+     {
+      "n": 22,
+      "stem": "SUSTAIN",
+      "ans": [
+       "sustainable"
+      ],
+      "focus": "Adjective suffix -able",
+      "why": "An adjective is needed before “option”: “sustainable”."
+     },
+     {
+      "n": 23,
+      "stem": "SLIGHT",
+      "ans": [
+       "slightly"
+      ],
+      "focus": "Adverb",
+      "why": "An adverb modifies the comparative “higher”: “slightly higher”."
+     },
+     {
+      "n": 24,
+      "stem": "TENSE",
+      "ans": [
+       "tension"
+      ],
+      "focus": "Noun suffix -ion",
+      "why": "After “a deeper” we need a noun: “tension” between two needs."
+     }
+    ]
+   },
+   {
+    "part": 4,
+    "type": "kwt",
+    "title": "Key word transformation",
+    "topic": "All three stories",
+    "task": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Use between three and six words, including the word given.",
+    "items": [
+     {
+      "n": 25,
+      "s1": "Shoppers are reluctant to let AI agents pay for their purchases.",
+      "key": "HESITATE",
+      "pre": "Shoppers",
+      "post": "AI agents pay for their purchases.",
+      "ans": [
+       "hesitate to let"
+      ],
+      "focus": "Verb + infinitive",
+      "why": "“Be reluctant to” can be expressed with “hesitate to + verb”."
+     },
+     {
+      "n": 26,
+      "s1": "Nobody has fully answered the legal question of who is responsible.",
+      "key": "YET",
+      "pre": "The legal question of who is responsible",
+      "post": "fully answered.",
+      "ans": [
+       "has not yet been",
+       "has yet to be",
+       "hasn't yet been"
+      ],
+      "focus": "Passive + yet",
+      "why": "Change to the passive and use “not yet” or “has yet to be” for something still unfinished."
+     },
+     {
+      "n": 27,
+      "s1": "Nvidia paused shipments because of the new US rules.",
+      "key": "RESULT",
+      "pre": "Nvidia paused shipments",
+      "post": "the new US rules.",
+      "ans": [
+       "as a result of"
+      ],
+      "focus": "Linking phrase",
+      "why": "“Because of” can be replaced by “as a result of”."
+     },
+     {
+      "n": 28,
+      "s1": "It is unclear whether the suspension will be temporary.",
+      "key": "KNOWS",
+      "pre": "Nobody",
+      "post": "the suspension will be temporary.",
+      "ans": [
+       "knows for sure whether",
+       "knows for certain whether",
+       "really knows whether",
+       "knows for sure if",
+       "knows for certain if"
+      ],
+      "focus": "Rephrasing uncertainty",
+      "why": "“It is unclear” becomes “nobody knows (for sure) whether”."
+     },
+     {
+      "n": 29,
+      "s1": "Opponents say the dams could be destroyed by a glacial lake flood.",
+      "key": "RISK",
+      "pre": "Opponents say the dams",
+      "post": "destroyed by a glacial lake flood.",
+      "ans": [
+       "are at risk of being",
+       "run the risk of being",
+       "are at the risk of being"
+      ],
+      "focus": "Fixed phrase + passive gerund",
+      "why": "“At risk of being + past participle” expresses a possible negative event."
+     },
+     {
+      "n": 30,
+      "s1": "Nepal needs winter power, but it must not ignore the risks.",
+      "key": "NEED",
+      "pre": "Despite",
+      "post": ", Nepal must not ignore the risks.",
+      "ans": [
+       "its need for winter power",
+       "the need for winter power",
+       "the country's need for winter power"
+      ],
+      "focus": "Despite + noun phrase",
+      "why": "“Despite” is followed by a noun phrase, so “needs” becomes “its need for”."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "This year's Black Friday was supposed to be the moment artificial intelligence took over holiday shopping. According to early figures from Adobe, traffic from AI services to American retail websites more than doubled on Thanksgiving compared with last year, while shoppers spent a record $7.1 billion online that day, up 10.4 percent. Yet when it comes to actually completing a purchase, the machines are still sitting on the bench. Research by the consultancy Bain & Company found that AI agents accounted for just 0.4 percent of global e-commerce transactions and only 0.2 percent of their value.": "audio/2026-11-28/a1-p1.mp3",
+  "To understand that gap, it helps to separate two kinds of tools. An AI assistant answers questions: it suggests gift ideas, summarises reviews and compares prices. An AI agent goes further and acts on the user's behalf, searching shops, filling a basket and paying. Technology companies are betting heavily on the second kind. Meta's shopping agent, Muse, reportedly reached 10 million users in the United States and Canada about six weeks after its September launch, and this week it arrived in Britain. The consultancy McKinsey estimates that this so-called agentic commerce could generate $1 trillion of economic activity in the US by 2030.": "audio/2026-11-28/a1-p2.mp3",
+  "Consumers, however, are drawing a clear line between asking and delegating. A Morning Consult poll for Visa found that 54 percent of adults have used AI for at least one shopping task, up from 47 percent a year earlier, but only 23 percent trust generative AI to make payments for them. An American Express survey points to the same pattern: 52 percent of US consumers are happy for an agent to buy cheap, routine items such as groceries, but just 15 percent feel the same about electronics or appliances. In other words, people are willing to hand over decisions only when a mistake would cost them little.": "audio/2026-11-28/a1-p3.mp3",
+  "Their caution is not irrational. When Visa tested 22 AI models on 15 shopping tasks earlier this month, they failed 42.8 percent of the runs, and in more than half of those failed runs the agent still bought something. Maia Bittner, a product executive at a financial technology start-up, asked Muse to order windscreen wipers from the car-parts chain AutoZone. Seventeen hours later, the agent reported that the order had been cancelled because of an error and suggested that she buy the wipers on Amazon herself. As one technology executive put it after testing several agents, \"It just doesn't feel magical yet.\"": "audio/2026-11-28/a1-p4.mp3",
+  "Shops are hesitant too. When the software firm Human Forward tested agents on 200 websites, it found that about half of big retailers and popular brands do not let AI assistants shop on their sites. Amazon blocked Muse in September and has asked Meta to remove Amazon from the service. One likely reason is control. A retailer that lets an outside agent do the browsing loses the chance to show customers its own recommendations and advertisements, and Amazon's advertising business alone is expected to bring in $81.9 billion this year. Amazon's chief executive, Andy Jassy, nevertheless told investors in October that outside agents were not meaningfully affecting that business.": "audio/2026-11-28/a1-p5.mp3",
+  "Beneath these commercial worries lies a legal question that nobody has fully answered. \"If the bot gets it wrong, who's liable?\" asks Mark Howell, of the e-commerce firm Rithum. Companies are giving very different answers. The electronics chain Best Buy treats an agent's purchases as if the customer had made them, and its terms state that it is not responsible for errors by any \"Digital Agent.\" American Express, by contrast, has said it will protect eligible customers from charges caused by an agent's mistakes, while the bank JPMorgan Chase blocked outside agents from acting for its customers last month, citing security.": "audio/2026-11-28/a1-p6.mp3",
+  "Optimists argue that this hesitation is temporary. In the 1990s, many people were nervous about typing their card details into a website, yet online shopping is now ordinary. As agents become more accurate and as rules on responsibility become clearer, they say, trust will follow. Sceptics reply that the problem is not only accuracy but independence. An agent that recommends products may be influenced by sponsored results, and a YouGov survey found that almost half of shoppers who use AI worry about exactly that. Handing over the final click also means handing over a moment of judgement that many people are not ready to give up.": "audio/2026-11-28/a1-p7.mp3",
+  "For now, then, AI has become a powerful research tool rather than a trusted buyer. The numbers from this holiday season suggest that the technology is advancing faster than the agreements needed to support it. The real test for agentic commerce may not be whether a machine can press \"buy\", but whether anyone is clearly accountable when it presses the wrong button.": "audio/2026-11-28/a1-p8.mp3",
+  "transaction": "audio/2026-11-28/a1-w-transaction.mp3",
+  "Every transaction on the school's new canteen card is recorded automatically.": "audio/2026-11-28/a1-ex-transaction.mp3",
+  "agentic": "audio/2026-11-28/a1-w-agentic.mp3",
+  "An agentic assistant could book the train tickets instead of simply listing the times.": "audio/2026-11-28/a1-ex-agentic.mp3",
+  "delegate": "audio/2026-11-28/a1-w-delegate.mp3",
+  "Good team leaders know when to delegate small jobs and focus on the big decisions.": "audio/2026-11-28/a1-ex-delegate.mp3",
+  "irrational": "audio/2026-11-28/a1-w-irrational.mp3",
+  "Her fear of flying felt irrational, since she knew planes are very safe.": "audio/2026-11-28/a1-ex-irrational.mp3",
+  "hesitant": "audio/2026-11-28/a1-w-hesitant.mp3",
+  "Many parents are hesitant to give young children their own smartphones.": "audio/2026-11-28/a1-ex-hesitant.mp3",
+  "liable": "audio/2026-11-28/a1-w-liable.mp3",
+  "If you break a rented bike, you may be liable for the cost of repairs.": "audio/2026-11-28/a1-ex-liable.mp3",
+  "eligible": "audio/2026-11-28/a1-w-eligible.mp3",
+  "Students with top grades are eligible for a scholarship next year.": "audio/2026-11-28/a1-ex-eligible.mp3",
+  "sponsored": "audio/2026-11-28/a1-w-sponsored.mp3",
+  "The first three results on the page were sponsored links from big brands.": "audio/2026-11-28/a1-ex-sponsored.mp3",
+  "accountable": "audio/2026-11-28/a1-w-accountable.mp3",
+  "Leaders should be held accountable when their choices harm the public.": "audio/2026-11-28/a1-ex-accountable.mp3",
+  "Yet when it comes to actually completing a purchase, the machines are still sitting on the bench.": "audio/2026-11-28/a1-ks1.mp3",
+  "Consumers, however, are drawing a clear line between asking and delegating.": "audio/2026-11-28/a1-ks2.mp3",
+  "Their caution is not irrational.": "audio/2026-11-28/a1-ks3.mp3",
+  "Beneath these commercial worries lies a legal question that nobody has fully answered.": "audio/2026-11-28/a1-ks4.mp3",
+  "Sceptics reply that the problem is not only accuracy but independence.": "audio/2026-11-28/a1-ks5.mp3",
+  "The real test for agentic commerce may not be whether a machine can press \"buy\", but whether anyone is clearly accountable when it presses the wrong button.": "audio/2026-11-28/a1-ks6.mp3",
+  "Nvidia, the company whose chips power much of the world's artificial intelligence, has halted shipments of servers containing its AI chips to four Southeast Asian countries: Malaysia, Singapore, Thailand and Indonesia. According to reports in the Financial Times and The Wall Street Journal, its manufacturing partners Dell and Super Micro have told customers that Nvidia will not authorise their orders. The pause will last for an unspecified period while Nvidia checks whether its regional partners are meeting American export requirements, and it remains unclear whether the suspension is temporary.": "audio/2026-11-28/a2-p1.mp3",
+  "The decision is the latest chapter in a long contest over advanced computing. Since 2022, the United States has restricted the sale of its most powerful AI chips to China, arguing that the technology could strengthen China's military and its ability to compete in strategic industries. Those rules were designed for a world of physical goods: they controlled where boxes of chips and servers could be sent. Increasingly, however, the most valuable resource in AI is not the chip itself but access to the computing power it provides.": "audio/2026-11-28/a2-p2.mp3",
+  "That shift opened a loophole. A company does not need to own a server in order to use it; it can rent processing time from a data centre on the other side of a border and send its work there over the internet. Chinese AI developers have done exactly this, and the four Southeast Asian countries have become favoured destinations for their projects. The Institute for Progress, an American think tank, estimates that remote data centres of this kind supply about 24 percent of China's AI computing power, a share large enough to weaken the purpose of the original controls.": "audio/2026-11-28/a2-p3.mp3",
+  "Earlier this month, the US Commerce Department moved to close that gap with new rules aimed at stopping Chinese companies from bypassing restrictions by renting computing power from cloud providers that use Nvidia chips. Under the new system, providers in the region need licences, and the industry has only a limited time to adjust. Businesses on the ground describe the rollout as confusing. \"There's this new rule but no guidance on execution,\" one cloud executive told the Financial Times. Another warned that the uncertainty was \"causing sheer chaos in the region.\"": "audio/2026-11-28/a2-p4.mp3",
+  "The stakes are high for Nvidia as well. The company recorded $104 billion in revenue through its Singapore subsidiary in 2025, a 72 percent increase on the previous year, although part of that figure reflects sales booked in Singapore for customers elsewhere, including Taiwan and China. Southeast Asia has also become a fast-growing hub for new data centres, attracted by cheaper land, reliable power and a location between major markets. A prolonged pause could therefore slow investment that local governments have worked hard to attract.": "audio/2026-11-28/a2-p5.mp3",
+  "Supporters of the crackdown argue that a control which can be avoided simply by logging in from another country is hardly a control at all. If Washington believes that cutting-edge AI should not flow to a strategic rival, they say, it must regulate access to computing power as well as the movement of hardware. In their view, Nvidia's pause is a sign that the rules are finally being taken seriously, and several Chinese AI developers have reportedly warned that losing overseas computing capacity could significantly slow their work.": "audio/2026-11-28/a2-p6.mp3",
+  "Critics see a more complicated picture. They point out that Malaysia, Singapore, Thailand and Indonesia are not the targets of the policy, yet their businesses now face delays and higher costs. Some also argue that tighter limits may encourage China to accelerate the development of its own chips, reducing American influence in the long run. Nvidia's chief executive, Jensen Huang, has previously argued that allowing the company to sell its chips in China would help keep the country dependent on American technology. Others question whether any set of rules can keep pace when computing power can be moved across borders in seconds.": "audio/2026-11-28/a2-p7.mp3",
+  "The pause therefore raises a question that goes far beyond one company. Export controls were invented for a world in which valuable goods crossed borders on ships and planes, where customs officers could inspect them. In the age of cloud computing, power travels through cables and can be rented by the hour from almost anywhere. Whether governments can draw borders in that invisible landscape, and how much collateral damage they are willing to accept while trying, may shape the global AI race for years to come.": "audio/2026-11-28/a2-p8.mp3",
+  "authorise": "audio/2026-11-28/a2-w-authorise.mp3",
+  "Only the head teacher can authorise a school trip abroad.": "audio/2026-11-28/a2-ex-authorise.mp3",
+  "suspension": "audio/2026-11-28/a2-w-suspension.mp3",
+  "The suspension of train services left thousands of commuters stuck in the city.": "audio/2026-11-28/a2-ex-suspension.mp3",
+  "loophole": "audio/2026-11-28/a2-w-loophole.mp3",
+  "The company used a loophole in the tax law to pay almost nothing.": "audio/2026-11-28/a2-ex-loophole.mp3",
+  "bypass": "audio/2026-11-28/a2-w-bypass.mp3",
+  "Some students try to bypass the school's internet filter with special apps.": "audio/2026-11-28/a2-ex-bypass.mp3",
+  "subsidiary": "audio/2026-11-28/a2-w-subsidiary.mp3",
+  "The car maker set up a subsidiary in Mexico to build electric batteries.": "audio/2026-11-28/a2-ex-subsidiary.mp3",
+  "prolonged": "audio/2026-11-28/a2-w-prolonged.mp3",
+  "A prolonged drought forced farmers to sell part of their herds.": "audio/2026-11-28/a2-ex-prolonged.mp3",
+  "crackdown": "audio/2026-11-28/a2-w-crackdown.mp3",
+  "The city announced a crackdown on illegal parking near schools.": "audio/2026-11-28/a2-ex-crackdown.mp3",
+  "accelerate": "audio/2026-11-28/a2-w-accelerate.mp3",
+  "Cheap solar panels could accelerate the move away from coal.": "audio/2026-11-28/a2-ex-accelerate.mp3",
+  "collateral": "audio/2026-11-28/a2-w-collateral.mp3",
+  "Small shops suffered collateral damage when the main road was closed for repairs.": "audio/2026-11-28/a2-ex-collateral.mp3",
+  "The pause will last for an unspecified period while Nvidia checks whether its regional partners are meeting American export requirements, and it remains unclear whether the suspension is temporary.": "audio/2026-11-28/a2-ks1.mp3",
+  "Increasingly, however, the most valuable resource in AI is not the chip itself but access to the computing power it provides.": "audio/2026-11-28/a2-ks2.mp3",
+  "That shift opened a loophole.": "audio/2026-11-28/a2-ks3.mp3",
+  "Supporters of the crackdown argue that a control which can be avoided simply by logging in from another country is hardly a control at all.": "audio/2026-11-28/a2-ks4.mp3",
+  "Critics see a more complicated picture.": "audio/2026-11-28/a2-ks5.mp3",
+  "Whether governments can draw borders in that invisible landscape, and how much collateral damage they are willing to accept while trying, may shape the global AI race for years to come.": "audio/2026-11-28/a2-ks6.mp3",
+  "On 26 August, what appears to have been an avalanche on Langtang Lirung in central Nepal sent a churning wall of water, mud and boulders down the Bhotekoshi valley. The flood claimed many lives, and it also damaged at least a dozen hydropower projects. Three months later, as winter approaches and electricity runs short, the disaster has reopened one of Nepal's most difficult debates: should the country build large storage dams in the high Himalaya, or is the climate changing too quickly to make them safe?": "audio/2026-11-28/a3-p1.mp3",
+  "Nepal depends heavily on hydropower, using the steep rivers that flow from Himalayan snow and glaciers. Almost all of its plants, however, are run-of-river schemes. Instead of holding water behind a tall wall, they divert part of a river's flow through turbines and return it downstream. This design is cheaper and less disruptive, but it has a serious weakness: when rivers shrink in the dry season, output drops to less than half of installed capacity. The country has only one storage plant, the four-decade-old Kulekhani, which generates 92 gigawatt-hours a year and helps meet winter peak demand.": "audio/2026-11-28/a3-p2.mp3",
+  "The result is a seasonal mismatch. The Nepal Electricity Authority expects domestic plants to generate 1,218 megawatts this winter, against peak demand of 2,250 to 2,300 megawatts, and it reportedly plans to import 1,154 megawatts from India. Private generators, which supply nearly 60 percent of the country's electricity, have been reluctant to build reservoirs because of the steep costs and risks involved. For a country rich in rivers, relying on a neighbour for so much winter power is, to many Nepalis, both costly and frustrating.": "audio/2026-11-28/a3-p3.mp3",
+  "Supporters of storage dams argue that reservoirs are the obvious solution. By capturing monsoon water and releasing it in winter, they could close the seasonal gap, cut imports and protect water supplies for cities and farms. Two major projects are under way: the Tanahu Seti dam, with storage of 300 million cubic metres, is scheduled to begin operating next year, while the 263-metre Budhigandaki dam is expected to cost around $2.77 billion. \"High dams are safe if geological studies are properly conducted and designed with the latest technology,\" says the geologist Bishal Nath Upreti.": "audio/2026-11-28/a3-p4.mp3",
+  "Opponents point to how rapidly the mountains themselves are changing. An assessment by ICIMOD, a regional research centre, suggests that under current emissions pathways about 80 percent of the Himalaya's present glacier volume will be gone by 2100. As glaciers melt, the lakes that form behind them grow larger and more unstable, raising the risk of a glacial lake outburst flood. A 2016 study found that two-thirds of 257 sampled Himalayan hydropower plants sit on potential routes of such floods. The danger is not theoretical: in 2023, a flood from a glacial lake destroyed the Teesta III dam in the neighbouring Indian state of Sikkim. One former government secretary, Dwarika Nath Dhungel, says that people in the valleys are \"living just below an atom bomb of the glacial lakes.\"": "audio/2026-11-28/a3-p5.mp3",
+  "Earthquakes add a second layer of uncertainty. Nepal sits where the Indian and Eurasian tectonic plates collide, and the 2015 earthquake temporarily cost the country more than 30 percent of its hydropower production. A former head of the electricity authority, Hitendra Dev Shakya, supports reservoirs but admits the limits of engineering: \"The dam is strong enough to withstand a magnitude 7 quake, but what about 8 or above?\" Engineers also warn that if every dam had to be designed to survive a flood like the one in August, many projects might no longer be financially feasible.": "audio/2026-11-28/a3-p6.mp3",
+  "Some experts believe Nepal should look in a different direction altogether. Himanshu Thakkar of the South Asia Network on Dams, Rivers and People favours solar power combined with pumped storage, in which water is pumped uphill when electricity is plentiful and released through turbines when it is needed. Because such systems can be built away from major rivers, they avoid many flood risks. Researchers have counted about 2,800 suitable sites in Nepal, and one model put the cost of solar plus storage at about 8.5 US cents per kilowatt-hour, compared with the 6.7 cents the electricity authority pays in the dry season. Both studies, however, are models rather than tested projects.": "audio/2026-11-28/a3-p7.mp3",
+  "Between these positions, some officials are searching for a middle path. Bibek Raj Kandel, an adviser to the energy minister, argues that Nepal should look \"beyond a binary pro- and anti-dam stance\" and choose projects that match each valley's climate, terrain and grid needs. He also warns that \"the real danger zone is the construction period,\" when a half-built dam is especially vulnerable. Nepal's choice will matter well beyond its borders, because every mountain country facing melting glaciers must decide how much risk it is prepared to accept in return for reliable power.": "audio/2026-11-28/a3-p8.mp3",
+  "divert": "audio/2026-11-28/a3-w-divert.mp3",
+  "Engineers had to divert the stream to build the new bridge.": "audio/2026-11-28/a3-ex-divert.mp3",
+  "disruptive": "audio/2026-11-28/a3-w-disruptive.mp3",
+  "Building work next to the school was so disruptive that classes moved to another site.": "audio/2026-11-28/a3-ex-disruptive.mp3",
+  "run-of-river": "audio/2026-11-28/a3-w-run-of-river.mp3",
+  "A run-of-river plant produces less power when the river is low.": "audio/2026-11-28/a3-ex-run-of-river.mp3",
+  "mismatch": "audio/2026-11-28/a3-w-mismatch.mp3",
+  "There is a mismatch between the skills young people learn and the jobs that are available.": "audio/2026-11-28/a3-ex-mismatch.mp3",
+  "reservoir": "audio/2026-11-28/a3-w-reservoir.mp3",
+  "The city's reservoir was only half full after the dry summer.": "audio/2026-11-28/a3-ex-reservoir.mp3",
+  "outburst": "audio/2026-11-28/a3-w-outburst.mp3",
+  "Scientists monitor the lake closely because an outburst could flood the town below.": "audio/2026-11-28/a3-ex-outburst.mp3",
+  "tectonic": "audio/2026-11-28/a3-w-tectonic.mp3",
+  "Japan has many earthquakes because it lies where several tectonic plates meet.": "audio/2026-11-28/a3-ex-tectonic.mp3",
+  "feasible": "audio/2026-11-28/a3-w-feasible.mp3",
+  "A high-speed railway across the desert may not be financially feasible.": "audio/2026-11-28/a3-ex-feasible.mp3",
+  "binary": "audio/2026-11-28/a3-w-binary.mp3",
+  "The debate is not a binary choice between cars and bicycles.": "audio/2026-11-28/a3-ex-binary.mp3",
+  "vulnerable": "audio/2026-11-28/a3-w-vulnerable.mp3",
+  "Coastal villages are especially vulnerable to rising sea levels.": "audio/2026-11-28/a3-ex-vulnerable.mp3",
+  "Three months later, as winter approaches and electricity runs short, the disaster has reopened one of Nepal's most difficult debates: should the country build large storage dams in the high Himalaya, or is the climate changing too quickly to make them safe?": "audio/2026-11-28/a3-ks1.mp3",
+  "This design is cheaper and less disruptive, but it has a serious weakness: when rivers shrink in the dry season, output drops to less than half of installed capacity.": "audio/2026-11-28/a3-ks2.mp3",
+  "Supporters of storage dams argue that reservoirs are the obvious solution.": "audio/2026-11-28/a3-ks3.mp3",
+  "Opponents point to how rapidly the mountains themselves are changing.": "audio/2026-11-28/a3-ks4.mp3",
+  "Both studies, however, are models rather than tested projects.": "audio/2026-11-28/a3-ks5.mp3",
+  "Between these positions, some officials are searching for a middle path.": "audio/2026-11-28/a3-ks6.mp3"
+ }
+}
